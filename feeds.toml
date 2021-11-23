@@ -1,9 +1,0 @@
-[vlive]
-title = "V LIVE - NEW"
-url = "https://www.vlive.tv/home/video/more?pageNo=1&pageSize=50&viewType=recent"
-entrySelector = "li.video_list_cont._video"
-titleSelector = "a.video_tit"
-linkSelector = "a.video_tit"
-contentSelector = "div.video_date a.name"
-imageSelector = "img"
-waitUntil = "networkidle"
