@@ -4,9 +4,16 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 17:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 17:36:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[굿나아잇~😴]]></title>
+            <link>https://www.vlive.tv/video/269946</link>
+            <guid>https://www.vlive.tv/video/269946</guid>
+            <pubDate>Tue, 23 Nov 2021 17:36:12 GMT</pubDate>
+            <content:encoded><![CDATA[온앤오프 (ONF)]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[새벽…^^]]></title>
             <link>https://www.vlive.tv/video/269944</link>
@@ -397,14 +404,6 @@
             <pubDate>Tue, 23 Nov 2021 17:17:54 GMT</pubDate>
             <content:encoded><![CDATA[YOUNHA]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211123_85/1637635097927lfOGS_JPEG/upload_5390470063749736799ad5c88-8c25-40b9-8d74-0cca435b13d2.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MV] 가호(Gaho) - Right Now]]></title>
-            <link>https://www.vlive.tv/video/269847</link>
-            <guid>https://www.vlive.tv/video/269847</guid>
-            <pubDate>Tue, 23 Nov 2021 17:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[Planetarium Records]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211123_21/1637637145013e7E1D_JPEG/1637582507907.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
