@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 09:31:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 10:33:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[이달의 소녀] 달의 주파수 ep.64]]></title>
-            <link>https://m.vlive.tv/video/269883</link>
-            <guid>https://m.vlive.tv/video/269883</guid>
-            <pubDate>Tue, 23 Nov 2021 18:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										10:00 AM</span>
-										<span class="txt">이달의 소녀(LOONA)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211123_272/1637645985559YdlMa_JPEG/upload_539155536840342901b4d7dfc-29b8-42bb-934e-c8e2b39d9019.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[CAfter School  🦊🏫ㅣLast Period!]]></title>
             <link>https://m.vlive.tv/video/269936</link>
@@ -106,6 +96,16 @@
 										11:00 AM</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211118_192/1637231628021yLERO_JPEG/upload_8131129241921846609b59924-b696-4851-b3f8-3b33ad69f9ae.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Chung]]></title>
+            <link>https://m.vlive.tv/video/269462</link>
+            <guid>https://m.vlive.tv/video/269462</guid>
+            <pubDate>Wed, 24 Nov 2021 10:33:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										1:00 AM</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211118_187/1637221954347GW7cY_JPEG/upload_81301684605950195457001eb-e988-4292-8507-16822fecfce4.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
