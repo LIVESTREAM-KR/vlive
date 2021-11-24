@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 01:25:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 02:42:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
-            <link>https://m.vlive.tv/video/269459</link>
-            <guid>https://m.vlive.tv/video/269459</guid>
-            <pubDate>Tue, 23 Nov 2021 18:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										2:00 AM</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211118_231/1637221842103wtjX0_JPEG/upload_813015407792525154118a7bd-30cd-4d5a-94e9-5710e12c4b23.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio/K-Poppin'] Singer Yoo Seong Eun&Louie 가수 유성은& 루이]]></title>
             <link>https://m.vlive.tv/video/269485</link>
@@ -106,6 +96,16 @@
 										1:00 AM</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211118_90/1637221991100hugWq_JPEG/upload_53491580248732768a97914ad-de22-44ae-b36d-817edaaf3cc6.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
+            <link>https://m.vlive.tv/video/269460</link>
+            <guid>https://m.vlive.tv/video/269460</guid>
+            <pubDate>Wed, 24 Nov 2021 02:42:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										2:00 AM</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211118_238/1637221869905X9u84_JPEG/upload_53491456970225121e390185d-0e65-41d8-a8b2-58ac31213892.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
