@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 03:31:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 04:41:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio/K-Poppin'] Singer Yoo Seong Eun&Louie 가수 유성은& 루이]]></title>
-            <link>https://m.vlive.tv/video/269485</link>
-            <guid>https://m.vlive.tv/video/269485</guid>
-            <pubDate>Tue, 23 Nov 2021 18:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										4:00 AM</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211118_196/163722516802908l6t_JPEG/upload_81304885310123797ee0d89c0-115c-4868-8b67-3d3cdcfc66d4.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio/Music Access] MA MVP with DANN of KINGDOM 킹덤 단]]></title>
             <link>https://m.vlive.tv/video/269469</link>
@@ -106,6 +96,16 @@
 										1:00 AM</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211118_90/1637221991100hugWq_JPEG/upload_53491580248732768a97914ad-de22-44ae-b36d-817edaaf3cc6.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
+            <link>https://m.vlive.tv/video/269460</link>
+            <guid>https://m.vlive.tv/video/269460</guid>
+            <pubDate>Wed, 24 Nov 2021 04:41:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										2:00 AM</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211118_238/1637221869905X9u84_JPEG/upload_53491456970225121e390185d-0e65-41d8-a8b2-58ac31213892.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
