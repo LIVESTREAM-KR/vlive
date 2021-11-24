@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 02:42:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 03:31:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,6 +36,16 @@
 										7:00 AM</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211117_112/16371406379060hbgu_JPEG/upload_81220288510601213cf94d4ec-6fa7-46ca-8745-e50a6806c9c4.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파랑이 왔다💙✨]]></title>
+            <link>https://m.vlive.tv/video/269961</link>
+            <guid>https://m.vlive.tv/video/269961</guid>
+            <pubDate>Wed, 24 Nov 2021 03:31:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										7:00 AM</span>
+										<span class="txt">Rocket Punch</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211124_67/16377226930127Pe2r_JPEG/upload_53992192467393672db6321f7-2989-4f04-a8d2-f5cead8a0125.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[vvvlive] 제20회 수원대학교 패션디자인학과 졸업작품 패션쇼]]></title>
@@ -78,7 +88,7 @@
             <enclosure url="https://v-phinf.pstatic.net/20211123_272/1637645985559YdlMa_JPEG/upload_539155536840342901b4d7dfc-29b8-42bb-934e-c8e2b39d9019.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[캐프터스쿨 🦊🏫ㅣ마지막 시간!]]></title>
+            <title><![CDATA[CAfter School  🦊🏫ㅣLast Period!]]></title>
             <link>https://m.vlive.tv/video/269936</link>
             <guid>https://m.vlive.tv/video/269936</guid>
             <pubDate>Tue, 23 Nov 2021 18:29:51 GMT</pubDate>
@@ -96,16 +106,6 @@
 										1:00 AM</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211118_90/1637221991100hugWq_JPEG/upload_53491580248732768a97914ad-de22-44ae-b36d-817edaaf3cc6.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
-            <link>https://m.vlive.tv/video/269460</link>
-            <guid>https://m.vlive.tv/video/269460</guid>
-            <pubDate>Wed, 24 Nov 2021 02:42:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										2:00 AM</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211118_238/1637221869905X9u84_JPEG/upload_53491456970225121e390185d-0e65-41d8-a8b2-58ac31213892.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
