@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 23:30:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 01:25:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthews]]></title>
-            <link>https://m.vlive.tv/video/269464</link>
-            <guid>https://m.vlive.tv/video/269464</guid>
-            <pubDate>Tue, 23 Nov 2021 18:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										1:00 AM</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211118_284/1637222030456OR4XE_JPEG/upload_53491633853064199f04b316b-d3ed-4ab4-b55b-dd8b27c57195.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
             <link>https://m.vlive.tv/video/269459</link>
@@ -106,6 +96,16 @@
 										12:00 PM</span>
 										<span class="txt">MCND</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211123_250/1637672311946I4jYN_JPEG/upload_81751542909966479c6e5e570-b08f-4028-8a56-199f23dd1529.jpeg?type=f274_154" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
+            <link>https://m.vlive.tv/video/269463</link>
+            <guid>https://m.vlive.tv/video/269463</guid>
+            <pubDate>Wed, 24 Nov 2021 01:25:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										1:00 AM</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211118_90/1637221991100hugWq_JPEG/upload_53491580248732768a97914ad-de22-44ae-b36d-817edaaf3cc6.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
