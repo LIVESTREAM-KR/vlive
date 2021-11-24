@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 10:33:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 11:26:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,16 @@
             <enclosure url="https://v-phinf.pstatic.net/20211123_88/16376688026199sqWh_JPEG/upload_81747188053111036040ba7b4-60b6-47e4-9bfa-3d0bb5bbfcf6.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[🎅 Santa for you 발매 기념 작곡가 인터뷰🎤🐹]]></title>
+            <link>https://m.vlive.tv/video/270030</link>
+            <guid>https://m.vlive.tv/video/270030</guid>
+            <pubDate>Wed, 24 Nov 2021 11:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										10:00 AM</span>
+										<span class="txt">TRI.BE</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211124_163/1637750053189OGqW4_JPEG/upload_81829652973081062beedd1c6-9527-42db-8440-9bc73c21a024.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[가족환경오페라 <빛아이 어둠아이> 녹화중계]]></title>
             <link>https://m.vlive.tv/video/269066</link>
             <guid>https://m.vlive.tv/video/269066</guid>
@@ -96,16 +106,6 @@
 										11:00 AM</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211118_192/1637231628021yLERO_JPEG/upload_8131129241921846609b59924-b696-4851-b3f8-3b33ad69f9ae.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Chung]]></title>
-            <link>https://m.vlive.tv/video/269462</link>
-            <guid>https://m.vlive.tv/video/269462</guid>
-            <pubDate>Wed, 24 Nov 2021 10:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										1:00 AM</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211118_187/1637221954347GW7cY_JPEG/upload_81301684605950195457001eb-e988-4292-8507-16822fecfce4.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
