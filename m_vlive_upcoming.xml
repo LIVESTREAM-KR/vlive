@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 14:28:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 15:34:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,16 @@
 										7:00 AM</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211118_155/16372225415129pC5m_JPEG/upload_8130224335149106647fe12de-5296-49a2-97ff-a6185895868e.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[막둥이 키오의 탄생일😎]]></title>
+            <link>https://m.vlive.tv/video/270052</link>
+            <guid>https://m.vlive.tv/video/270052</guid>
+            <pubDate>Wed, 24 Nov 2021 15:34:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										9:00 AM</span>
+										<span class="txt">T1419</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211124_166/1637763996942Tpo9m_JPEG/upload_818436736509483842d1e5ac4-6437-4ba5-9050-6bf27eb51baa.jpeg?type=f274_154" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[승민이의 음악공방 #4 🎼🧰]]></title>
@@ -96,16 +106,6 @@
 										11:00 AM</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211118_192/1637231628021yLERO_JPEG/upload_8131129241921846609b59924-b696-4851-b3f8-3b33ad69f9ae.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Chung]]></title>
-            <link>https://m.vlive.tv/video/269462</link>
-            <guid>https://m.vlive.tv/video/269462</guid>
-            <pubDate>Wed, 24 Nov 2021 12:47:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										1:00 AM</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211118_187/1637221954347GW7cY_JPEG/upload_81301684605950195457001eb-e988-4292-8507-16822fecfce4.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
