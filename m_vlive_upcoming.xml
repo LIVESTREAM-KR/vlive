@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 23:30:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 01:28:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
-            <link>https://m.vlive.tv/video/269463</link>
-            <guid>https://m.vlive.tv/video/269463</guid>
-            <pubDate>Wed, 24 Nov 2021 01:25:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										1:00 AM</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211118_90/1637221991100hugWq_JPEG/upload_53491580248732768a97914ad-de22-44ae-b36d-817edaaf3cc6.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
             <link>https://m.vlive.tv/video/269460</link>
@@ -58,7 +48,7 @@
             <enclosure url="https://v-phinf.pstatic.net/20211124_166/1637763996942Tpo9m_JPEG/upload_818436736509483842d1e5ac4-6437-4ba5-9050-6bf27eb51baa.jpeg?type=f274_154" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[승민이의 음악공방 #4 🎼🧰]]></title>
+            <title><![CDATA[Seung Min's Music Workshop #4 🎼🧰]]></title>
             <link>https://m.vlive.tv/video/269852</link>
             <guid>https://m.vlive.tv/video/269852</guid>
             <pubDate>Wed, 24 Nov 2021 09:31:17 GMT</pubDate>
@@ -106,6 +96,16 @@
 										11:00 AM</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211118_192/1637231628021yLERO_JPEG/upload_8131129241921846609b59924-b696-4851-b3f8-3b33ad69f9ae.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Chung]]></title>
+            <link>https://m.vlive.tv/video/269462</link>
+            <guid>https://m.vlive.tv/video/269462</guid>
+            <pubDate>Thu, 25 Nov 2021 01:28:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										1:00 AM</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211118_187/1637221954347GW7cY_JPEG/upload_81301684605950195457001eb-e988-4292-8507-16822fecfce4.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
