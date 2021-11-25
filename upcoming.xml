@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 17:28:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 17:38:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -862,6 +862,14 @@
             <pubDate>Thu, 25 Nov 2021 16:18:52 GMT</pubDate>
             <content:encoded><![CDATA[오후 5:15]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211126_7/1637860520597fvMGm_JPEG/1055f828-4e12-11ec-9e9c-48df379cc9e4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[the night with a stars]]></title>
+            <link>https://www.vlive.tv/video/270183</link>
+            <guid>https://www.vlive.tv/video/270183</guid>
+            <pubDate>Thu, 25 Nov 2021 17:37:59 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:32]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211126_26/16378583520318uIXX_JPEG/150646743465029401d8b2a3b8-cc73-442c-941f-e6f600978910.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
