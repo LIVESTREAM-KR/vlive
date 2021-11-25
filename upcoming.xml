@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 19:25:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 20:32:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -870,6 +870,14 @@
             <pubDate>Thu, 25 Nov 2021 18:13:26 GMT</pubDate>
             <content:encoded><![CDATA[오후 6:09]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211126_90/1637863791417NTRxb_JPEG/2b077d9c-4e1a-11ec-9ac7-505dac8c381b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠 못드는 밤에 (시간이 점점 늦어지는거 같애..)]]></title>
+            <link>https://www.vlive.tv/video/270185</link>
+            <guid>https://www.vlive.tv/video/270185</guid>
+            <pubDate>Thu, 25 Nov 2021 20:32:04 GMT</pubDate>
+            <content:encoded><![CDATA[오후 8:20]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211126_130/1637871614387I5aqp_JPEG/1507472303655488998c58d730-41f1-4034-926b-8ce572980f39.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
