@@ -9,6 +9,16 @@ imageSelector = "img"
 waitUntil = "networkidle"
 onFail = "stale"
 
+[vlive_upcoming]
+title = "V LIVE ─ 일정표"
+url = "https://www.vlive.tv/upcoming?lang=ko"
+entrySelector = "div.upcoming_area ul.upcoming_list li"
+titleSelector = "em.title a._title"
+linkSelector = "em.title a._title"
+contentSelector = "span.time"
+imageSelector = "a.thumb._videoThumb img"
+waitUntil = "networkidle"
+
 [m_vlive_upcoming]
 title = "V LIVE 모바일 ─ 일정표"
 url = "https://m.vlive.tv/upcoming?lang=ko"
