@@ -16,7 +16,7 @@ titleSelector = "em.title a._title"
 linkSelector = "em.title a._title"
 contentSelector = "span.time"
 imageSelector = "a.thumb._videoThumb img"
-waitUntil = "networkidle"
+waitForSelector = "ul.upcoming_list li"
 
 [m_vlive_upcoming]
 title = "V LIVE 모바일 ─ 일정표"
