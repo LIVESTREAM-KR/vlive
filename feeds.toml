@@ -8,6 +8,26 @@ contentSelector = "div.video_date a.name"
 imageSelector = "img"
 waitUntil = "networkidle"
 
+[home_new]
+title = "V LIVE ─ 홈 ─ NEW"
+url = "https://www.vlive.tv/home/new"
+entrySelector = "ul.video_list._video li.video_list_cont._video"
+titleSelector = "a.video_tit"
+linkSelector = "a.video_tit"
+contentSelector = "div.video_date a.name"
+imageSelector = "a.thumb_area img"
+waitUntil = "networkidle"
+
+[m_home]
+title = "V LIVE 모바일 ─ NEW"
+url = "https://m.vlive.tv/home"
+entrySelector = "div.vcard_box"
+titleSelector = "p.tit"
+linkSelector = "a.inner_link"
+contentSelector = "strong.name"
+imageSelector = "div.img_area img"
+waitUntil = "networkidle"
+
 [charts]
 title = "V LIVE ─ CHARTS"
 url = "https://www.vlive.tv/home/chart/more?pageNo=1&pageSize=50&viewType=recent"
