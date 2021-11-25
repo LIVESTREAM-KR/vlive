@@ -11,7 +11,7 @@ waitUntil = "networkidle"
 [upcoming]
 title = "V LIVE ─ 일정표"
 url = "https://www.vlive.tv/upcoming?lang=ko"
-entrySelector = "ul.upcoming_list li:not(.replay):not(.on)"
+entrySelector = "ul.upcoming_list li"
 titleSelector = "em.title a._title"
 linkSelector = "em.title a._title"
 contentSelector = "span.time"
