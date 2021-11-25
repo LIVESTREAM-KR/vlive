@@ -7,7 +7,6 @@ linkSelector = "a.video_tit"
 contentSelector = "div.video_date a.name"
 imageSelector = "img"
 waitUntil = "networkidle"
-onFail = "stale"
 
 [vlive_upcoming]
 title = "V LIVE ─ 일정표"
@@ -28,4 +27,3 @@ linkSelector = "a.inner_link"
 contentSelector = "div.date_area"
 imageSelector = "div.vthumb_img img"
 waitUntil = "networkidle"
-onFail = "stale"
