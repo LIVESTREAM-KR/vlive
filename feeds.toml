@@ -11,7 +11,7 @@ onFail = "stale"
 
 [m_vlive_upcoming]
 title = "V LIVE 모바일 ─ 일정표"
-url = "https://m.vlive.tv/upcoming"
+url = "https://m.vlive.tv/upcoming?lang=ko"
 entrySelector = "div.vthumb_box.upcoming"
 titleSelector = "div.vthumb_info p.tit"
 linkSelector = "a.inner_link"
