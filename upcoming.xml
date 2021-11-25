@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 16:50:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 17:16:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -824,14 +824,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20211125_130/1637847055614Nza6L_JPEG/15072266952013970336539f65-806a-4ccb-a27b-543deb503c2a.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[책읽을깡현?😎#19]]></title>
-            <link>https://www.vlive.tv/video/270182</link>
-            <guid>https://www.vlive.tv/video/270182</guid>
-            <pubDate>Thu, 25 Nov 2021 16:18:52 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:31]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/270182/thumb?type=f228_128" length="0" type="image//live/270182/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[20211125 혜소통통💛]]></title>
             <link>https://www.vlive.tv/video/270175</link>
             <guid>https://www.vlive.tv/video/270175</guid>
@@ -862,6 +854,22 @@
             <pubDate>Thu, 25 Nov 2021 16:50:11 GMT</pubDate>
             <content:encoded><![CDATA[오후 4:49]]></content:encoded>
             <enclosure url="https://vlive-thumb.pstatic.net/live/270184/thumb?type=f228_128" length="0" type="image//live/270184/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[민초 좋아하세요?!?!🤣🥲🤣🥲]]></title>
+            <link>https://www.vlive.tv/video/270174</link>
+            <guid>https://www.vlive.tv/video/270174</guid>
+            <pubDate>Thu, 25 Nov 2021 17:16:13 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:59]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211125_71/1637847437400PkAMG_JPEG/1506358083387461631053687a-94b7-462e-b98d-787d64d841e8.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[책읽을깡현?😎#19]]></title>
+            <link>https://www.vlive.tv/video/270182</link>
+            <guid>https://www.vlive.tv/video/270182</guid>
+            <pubDate>Thu, 25 Nov 2021 16:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:15]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211126_7/1637860520597fvMGm_JPEG/1055f828-4e12-11ec-9e9c-48df379cc9e4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
