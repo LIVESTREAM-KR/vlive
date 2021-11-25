@@ -28,6 +28,16 @@ contentSelector = "div.video_date a.name"
 imageSelector = "a.thumb_area img"
 waitUntil = "networkidle"
 
+[home_charts]
+title = "V LIVE ─ 홈 ─ CHARTS"
+url = "https://www.vlive.tv/home/chart?sub=VIDEO&period=HOUR_24&country=ALL"
+entrySelector = "ul.video_list.video_list-landscape li.video_list_cont"
+titleSelector = "a.video_tit"
+linkSelector = "a.video_tit"
+contentSelector = "div.video_date a.name"
+imageSelector = "a.thumb_area img"
+waitUntil = "networkidle"
+
 [m_home]
 title = "V LIVE 모바일 ─ NEW"
 url = "https://m.vlive.tv/home"
