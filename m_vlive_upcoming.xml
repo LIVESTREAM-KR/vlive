@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 12:48:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 13:33:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,16 @@
 										1:00 AM</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211125_152/1637817293573YC92Q_JPEG/upload_54086882777846562ef05c27f-9d32-4c54-8b60-1037473c8c98.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[채널A 월화 드라마 〈쇼윈도:여왕의집〉 제작발표회 LIVE]]></title>
+            <link>https://m.vlive.tv/video/268539</link>
+            <guid>https://m.vlive.tv/video/268539</guid>
+            <pubDate>Thu, 25 Nov 2021 13:33:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										5:00 AM</span>
+										<span class="txt">채널A</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211110_253/163649592083027onO_JPEG/upload_80575564837305650fcdf6ac7-e771-44cf-90fb-d78f1d50c3cc.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
