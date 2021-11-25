@@ -1,4 +1,4 @@
-[vlive]
+[new]
 title = "V LIVE ─ NEW"
 url = "https://www.vlive.tv/home/video/more?pageNo=1&pageSize=50&viewType=recent"
 entrySelector = "li.video_list_cont._video"
@@ -8,7 +8,7 @@ contentSelector = "div.video_date a.name"
 imageSelector = "img"
 waitUntil = "networkidle"
 
-[vlive_upcoming]
+[upcoming]
 title = "V LIVE ─ 일정표"
 url = "https://www.vlive.tv/upcoming?lang=ko"
 entrySelector = "ul.upcoming_list li:not(.replay):not(.on)"
@@ -18,7 +18,7 @@ contentSelector = "span.time"
 imageSelector = "a.thumb._videoThumb img"
 waitForSelector = "ul.upcoming_list li"
 
-[m_vlive_upcoming]
+[m_upcoming]
 title = "V LIVE 모바일 ─ 일정표"
 url = "https://m.vlive.tv/upcoming?lang=ko"
 entrySelector = "div.vthumb_box.upcoming"
