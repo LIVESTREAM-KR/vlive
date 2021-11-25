@@ -8,6 +8,16 @@ contentSelector = "div.video_date a.name"
 imageSelector = "img"
 waitUntil = "networkidle"
 
+[chart]
+title = "V LIVE ─ CHART"
+url = "https://www.vlive.tv/home/chart/more?pageNo=1&pageSize=50&viewType=recent"
+entrySelector = "li.video_list_cont"
+titleSelector = "a.video_tit"
+linkSelector = "a.video_tit"
+contentSelector = "div.video_date a.name"
+imageSelector = "img"
+waitUntil = "networkidle"
+
 [upcoming]
 title = "V LIVE ─ 일정표"
 url = "https://www.vlive.tv/upcoming?lang=ko"
