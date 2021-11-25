@@ -18,6 +18,17 @@ contentSelector = "div.video_date a.name"
 imageSelector = "img"
 waitUntil = "networkidle"
 
+[m_charts_top3]
+title = "V LIVE 모바일 ─ CHARTS"
+url = "https://m.vlive.tv/chart?sub=VIDEO&period=HOUR_24&country=ALL"
+entrySelector = "div.inner_wrap._video_chart_list div.vcard_box
+"
+titleSelector = "p.tit"
+linkSelector = "a.inner_link"
+contentSelector = "strong.name"
+imageSelector = "div.img_area img"
+waitUntil = "networkidle"
+
 [upcoming]
 title = "V LIVE ─ 일정표"
 url = "https://www.vlive.tv/upcoming?lang=ko"
