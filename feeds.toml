@@ -10,7 +10,7 @@ waitUntil = "networkidle"
 
 [home_new]
 title = "V LIVE ─ 홈 ─ NEW"
-url = "https://www.vlive.tv/home/new"
+url = "https://www.vlive.tv/home/new?lang=ko"
 entrySelector = "ul.video_list._video li.video_list_cont._video"
 titleSelector = "a.video_tit"
 linkSelector = "a.video_tit"
@@ -20,7 +20,7 @@ waitUntil = "networkidle"
 
 [home_charts_top3]
 title = "V LIVE ─ 홈 ─ CHARTS TOP3"
-url = "https://www.vlive.tv/home/chart?sub=VIDEO&period=HOUR_24&country=ALL"
+url = "https://www.vlive.tv/home/chart?sub=VIDEO&period=HOUR_24&country=ALL&lang=ko"
 entrySelector = "ul.video_list.video_list-big li.video_list_cont"
 titleSelector = "a.video_tit"
 linkSelector = "a.video_tit"
@@ -30,7 +30,7 @@ waitUntil = "networkidle"
 
 [home_charts]
 title = "V LIVE ─ 홈 ─ CHARTS"
-url = "https://www.vlive.tv/home/chart?sub=VIDEO&period=HOUR_24&country=ALL"
+url = "https://www.vlive.tv/home/chart?sub=VIDEO&period=HOUR_24&country=ALL&lang=ko"
 entrySelector = "ul.video_list.video_list-landscape li.video_list_cont"
 titleSelector = "a.video_tit"
 linkSelector = "a.video_tit"
@@ -40,7 +40,7 @@ waitUntil = "networkidle"
 
 [m_home]
 title = "V LIVE 모바일 ─ NEW"
-url = "https://m.vlive.tv/home"
+url = "https://m.vlive.tv/home&lang=ko"
 entrySelector = "div.vcard_box"
 titleSelector = "p.tit"
 linkSelector = "a.inner_link"
@@ -60,7 +60,7 @@ waitUntil = "networkidle"
 
 [m_charts_top3]
 title = "V LIVE 모바일 ─ CHARTS "
-url = "https://m.vlive.tv/chart?sub=VIDEO&period=HOUR_24&country=ALL"
+url = "https://m.vlive.tv/chart?sub=VIDEO&period=HOUR_24&country=ALL&lang=ko"
 entrySelector = "div.inner_wrap._video_chart_list div.vcard_box"
 titleSelector = "p.tit"
 linkSelector = "a.inner_link"
@@ -70,7 +70,7 @@ waitUntil = "networkidle"
 
 [m_charts]
 title = "V LIVE 모바일 ─ CHARTS"
-url = "https://m.vlive.tv/chart?sub=VIDEO&period=HOUR_24&country=ALL"
+url = "https://m.vlive.tv/chart?sub=VIDEO&period=HOUR_24&country=ALL&lang=ko"
 entrySelector = "div.inner_wrap._video_chart_list div.vthumb_card"
 titleSelector = "p.tit"
 linkSelector = "a.inner_link"
