@@ -32,5 +32,5 @@ https://livestream-kr.github.io/vlive/all.xml
 
 ---
 
-[💃 V MUSICAL](https://github.com/LIVESTREAM-KR/vlive_vmusicial)  
-[🎹 V CLASSIC](https://github.com/LIVESTREAM-KR/vlive_vclassic)
+[🟪 Beyond LIVE](https://github.com/LIVESTREAM-KR/vlive_beyond-live)  
+[💃 V MUSICAL](https://github.com/LIVESTREAM-KR/vlive_vmusicial) | [🎹 V CLASSIC](https://github.com/LIVESTREAM-KR/vlive_vclassic)
