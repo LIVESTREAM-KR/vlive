@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 23:33:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 01:25:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Chung]]></title>
-            <link>https://m.vlive.tv/video/269462</link>
-            <guid>https://m.vlive.tv/video/269462</guid>
-            <pubDate>Thu, 25 Nov 2021 16:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211118_187/1637221954347GW7cY_JPEG/upload_81301684605950195457001eb-e988-4292-8507-16822fecfce4.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
             <link>https://m.vlive.tv/video/269461</link>
@@ -76,16 +66,6 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211125_152/1637817293573YC92Q_JPEG/upload_54086882777846562ef05c27f-9d32-4c54-8b60-1037473c8c98.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[채널A 월화 드라마 〈쇼윈도:여왕의집〉 제작발표회 LIVE]]></title>
-            <link>https://m.vlive.tv/video/268539</link>
-            <guid>https://m.vlive.tv/video/268539</guid>
-            <pubDate>Thu, 25 Nov 2021 16:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">채널A</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211110_253/163649592083027onO_JPEG/upload_80575564837305650fcdf6ac7-e771-44cf-90fb-d78f1d50c3cc.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
