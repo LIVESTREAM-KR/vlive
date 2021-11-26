@@ -1,6 +1,6 @@
 [new]
 title = "V LIVE ─ NEW"
-url = "https://www.vlive.tv/home/video/more?pageNo=1&pageSize=50&viewType=recent"
+url = "https://www.vlive.tv/home/video/more?pageNo=1&pageSize=50&viewType=recent&lang=ko"
 entrySelector = "li.video_list_cont._video"
 titleSelector = "a.video_tit"
 linkSelector = "a.video_tit"
@@ -50,7 +50,7 @@ waitUntil = "networkidle"
 
 [charts]
 title = "V LIVE ─ CHARTS"
-url = "https://www.vlive.tv/home/chart/more?pageNo=1&pageSize=50&viewType=recent"
+url = "https://www.vlive.tv/home/chart/more?pageNo=1&pageSize=50&viewType=recent&lang=ko"
 entrySelector = "li.video_list_cont"
 titleSelector = "a.video_tit"
 linkSelector = "a.video_tit"
