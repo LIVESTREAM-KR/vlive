@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 03:33:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 04:42:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Simply K-Pop CON-TOUR (심플리케이팝 콘투어) _ Ep.495]]></title>
-            <link>https://m.vlive.tv/video/270005</link>
-            <guid>https://m.vlive.tv/video/270005</guid>
-            <pubDate>Thu, 25 Nov 2021 16:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 4:00</span>
-										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211124_55/1637742729593hFTdS_PNG/upload_540123021217098718a1125a6-b3f2-4724-b66c-3eef716f3e10.png?type=f274_154" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Music Access / GaHo 가호)]]></title>
             <link>https://m.vlive.tv/video/269349</link>
@@ -86,6 +76,16 @@
 										오전 10:00</span>
 										<span class="txt">신보라</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211124_269/1637720812667EJNhx_JPEG/upload_817991671499071581f6dccde-4913-4847-b4f6-11791f2a81a0.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / Khundi Panda 쿤디판다)]]></title>
+            <link>https://m.vlive.tv/video/270072</link>
+            <guid>https://m.vlive.tv/video/270072</guid>
+            <pubDate>Fri, 26 Nov 2021 04:42:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211125_215/1637809285374hx2ho_JPEG/upload_818889661987784013cbd41ad-0694-43af-b2d2-1c2586dfa213.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
