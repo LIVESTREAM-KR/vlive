@@ -29,3 +29,8 @@ https://livestream-kr.github.io/vlive/all.xml
 - [V LIVE+](https://www.vlive.tv/vstore/video): https://livestream-kr.github.io/vlive/vstore_video.xml
 - [LIGHTSTICK](https://www.vlive.tv/vstore/lightStick): https://livestream-kr.github.io/vlive/vstore_lightstick.xml
 - [STICKER](https://www.vlive.tv/vstore/sticker): https://livestream-kr.github.io/vlive/vstore_sticker.xml
+
+---
+
+[💃 V MUSICAL](https://github.com/LIVESTREAM-KR/vlive_vmusicial)  
+[🎹 V CLASSIC](https://github.com/LIVESTREAM-KR/vlive_vclassic)
