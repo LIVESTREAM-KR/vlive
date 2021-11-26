@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 04:42:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 05:28:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Music Access / GaHo 가호)]]></title>
-            <link>https://m.vlive.tv/video/269349</link>
-            <guid>https://m.vlive.tv/video/269349</guid>
-            <pubDate>Thu, 25 Nov 2021 16:13:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211117_286/1637140462129FJ1tp_JPEG/upload_81220154117489248039d3b54-f352-400b-8e95-02aa7a9105eb.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio] Topic Song with Aaron 아론 of W24 and BÉBE YANA]]></title>
             <link>https://m.vlive.tv/video/269471</link>
@@ -36,6 +26,16 @@
 										오전 8:00</span>
 										<span class="txt">Cherry Bullet</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211125_220/16378272080025sDRA_JPEG/upload_8190686073845824921ee1977-5766-494f-a374-6d48fad17d90.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🦊우영이의 생일파티에 언넝 오세요🎉]]></title>
+            <link>https://m.vlive.tv/video/270166</link>
+            <guid>https://m.vlive.tv/video/270166</guid>
+            <pubDate>Fri, 26 Nov 2021 05:28:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 2:00</span>
+										<span class="txt">ATEEZ</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211125_105/1637841412823LrWWb_JPEG/upload_819210034755156874a8e2028-882a-4d78-af10-a0fc634a4e46.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
@@ -76,16 +76,6 @@
 										오전 10:00</span>
 										<span class="txt">신보라</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211124_269/1637720812667EJNhx_JPEG/upload_817991671499071581f6dccde-4913-4847-b4f6-11791f2a81a0.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arirang Radio (Sound K / Khundi Panda 쿤디판다)]]></title>
-            <link>https://m.vlive.tv/video/270072</link>
-            <guid>https://m.vlive.tv/video/270072</guid>
-            <pubDate>Fri, 26 Nov 2021 04:42:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211125_215/1637809285374hx2ho_JPEG/upload_818889661987784013cbd41ad-0694-43af-b2d2-1c2586dfa213.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
