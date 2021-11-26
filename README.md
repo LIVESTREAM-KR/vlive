@@ -25,7 +25,7 @@ https://livestream-kr.github.io/vlive/all.xml
 - 모바일: https://livestream-kr.github.io/vlive/m_upcoming.xml
 
 ## STORE
-- MEMBERSHIP: https://livestream-kr.github.io/vlive/membership.xml
-- V LIVE+: https://livestream-kr.github.io/vlive/video.xml
-- LIGHTSTICK: 
-- STICKER: 
+- MEMBERSHIP: https://livestream-kr.github.io/vlive/vstore_membership.xml
+- V LIVE+: https://livestream-kr.github.io/vlive/vstore_video.xml
+- LIGHTSTICK: https://livestream-kr.github.io/vlive/vstore_lightstick.xml
+- STICKER: https://livestream-kr.github.io/vlive/vstore_sticker.xml
