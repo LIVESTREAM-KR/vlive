@@ -4,9 +4,16 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 18:37:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 19:10:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[hello]]></title>
+            <link>https://www.vlive.tv/video/270315</link>
+            <guid>https://www.vlive.tv/video/270315</guid>
+            <pubDate>Fri, 26 Nov 2021 19:07:19 GMT</pubDate>
+            <content:encoded><![CDATA[WiHi]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[선공개] 짝사랑의 추억을 부르는 윤하의 명곡💖 윤하 - <기다리다>♬, MBC 211127 방송]]></title>
             <link>https://www.vlive.tv/video/270312</link>
@@ -398,14 +405,6 @@
             <pubDate>Fri, 26 Nov 2021 10:07:27 GMT</pubDate>
             <content:encoded><![CDATA[PLAYLIST ORIGINALS 플레이리스트 오리지널]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211126_41/16379187781309gdVE_JPEG/b067d201-4e8a-11ec-8e54-505dac8c37f3_07.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그냥 맛있는 거나 먹으면서 살자 [백수세끼] - 여은호 티저]]></title>
-            <link>https://www.vlive.tv/video/270266</link>
-            <guid>https://www.vlive.tv/video/270266</guid>
-            <pubDate>Fri, 26 Nov 2021 10:07:27 GMT</pubDate>
-            <content:encoded><![CDATA[PLAYLIST ORIGINALS 플레이리스트 오리지널]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211126_81/163791877371220xz0_JPEG/7190a21f-4e8a-11ec-917b-a0369ff9545c_07.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

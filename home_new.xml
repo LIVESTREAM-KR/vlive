@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 18:37:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 19:10:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[hello]]></title>
+            <link>https://www.vlive.tv/video/270315</link>
+            <guid>https://www.vlive.tv/video/270315</guid>
+            <pubDate>Fri, 26 Nov 2021 19:07:29 GMT</pubDate>
+            <content:encoded><![CDATA[WiHi]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/270315/thumb?type=f228_128" length="0" type="image//live/270315/thumb"/>
+        </item>
         <item>
             <title><![CDATA[[선공개] 짝사랑의 추억을 부르는 윤하의 명곡💖 윤하 - <기다리다>♬, MBC 211127 방송]]></title>
             <link>https://www.vlive.tv/video/270312</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 26 Nov 2021 14:28:07 GMT</pubDate>
             <content:encoded><![CDATA[PURPLE KISS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211126_61/1637934070135H0Lt7_JPEG/eb2b5907-4ebb-11ec-9b44-a0369ff95678_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모공청소 무자극템! 더뷰티풀팩터 크림 클레이마스크팩]]></title>
-            <link>https://www.vlive.tv/video/270302</link>
-            <guid>https://www.vlive.tv/video/270302</guid>
-            <pubDate>Fri, 26 Nov 2021 14:28:07 GMT</pubDate>
-            <content:encoded><![CDATA[AMOUR]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211126_101/1637933672790bXjG8_JPEG/f413d062-4ebc-11ec-b543-505dacfba98a_02.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
