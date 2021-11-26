@@ -24,8 +24,8 @@ https://livestream-kr.github.io/vlive/all.xml
 - PC: https://livestream-kr.github.io/vlive/upcoming.xml
 - 모바일: https://livestream-kr.github.io/vlive/m_upcoming.xml
 
-## STORE
-- MEMBERSHIP: https://livestream-kr.github.io/vlive/vstore_membership.xml
-- V LIVE+: https://livestream-kr.github.io/vlive/vstore_video.xml
-- LIGHTSTICK: https://livestream-kr.github.io/vlive/vstore_lightstick.xml
-- STICKER: https://livestream-kr.github.io/vlive/vstore_sticker.xml
+## [STORE](https://www.vlive.tv/vstore)
+- [MEMBERSHIP](https://www.vlive.tv/vstore/membership): https://livestream-kr.github.io/vlive/vstore_membership.xml
+- [V LIVE+](https://www.vlive.tv/vstore/video): https://livestream-kr.github.io/vlive/vstore_video.xml
+- [LIGHTSTICK](https://www.vlive.tv/vstore/lightStick): https://livestream-kr.github.io/vlive/vstore_lightstick.xml
+- [STICKER](https://www.vlive.tv/vstore/sticker): https://livestream-kr.github.io/vlive/vstore_sticker.xml
