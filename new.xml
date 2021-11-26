@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 01:25:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 02:43:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[hi minimonster]]></title>
+            <link>https://www.vlive.tv/video/270195</link>
+            <guid>https://www.vlive.tv/video/270195</guid>
+            <pubDate>Fri, 26 Nov 2021 02:42:20 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211126_250/1637893098796lOSky_JPEG/upload_819727891827313601836f8d6-eef3-4c60-b180-3e67070258ea.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Chung]]></title>
             <link>https://www.vlive.tv/video/269462</link>
@@ -14,6 +22,14 @@
             <pubDate>Fri, 26 Nov 2021 01:23:55 GMT</pubDate>
             <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211118_187/1637221954347GW7cY_JPEG/upload_81301684605950195457001eb-e988-4292-8507-16822fecfce4.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
+            <link>https://www.vlive.tv/video/269461</link>
+            <guid>https://www.vlive.tv/video/269461</guid>
+            <pubDate>Fri, 26 Nov 2021 02:42:20 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211118_165/16372219119100L43j_JPEG/upload_813016233783276841b683174-b132-49c0-8112-74bc1022e8a0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예고] 소통 강연 조회 수가 무려 1억 뷰! 소통의 왕 김창옥! 집사부에서 돌연 은퇴 선언..? #집사부일체]]></title>
@@ -390,22 +406,6 @@
             <pubDate>Thu, 25 Nov 2021 16:13:23 GMT</pubDate>
             <content:encoded><![CDATA[ONEWE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211125_186/1637827414976rbYbo_JPEG/1637826662496.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ONEUS THEATRE ver. : LUNA]]></title>
-            <link>https://www.vlive.tv/video/270109</link>
-            <guid>https://www.vlive.tv/video/270109</guid>
-            <pubDate>Thu, 25 Nov 2021 16:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[ONEUS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211125_19/1637820186676R0sgW_JPEG/1637819539211.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🚨위클리의 클났어요🚨 | EP.15 어서 오세요! 윜카페입니다!]]></title>
-            <link>https://www.vlive.tv/video/270079</link>
-            <guid>https://www.vlive.tv/video/270079</guid>
-            <pubDate>Thu, 25 Nov 2021 16:13:23 GMT</pubDate>
-            <content:encoded><![CDATA[Weeekly(위클리)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211125_293/16378108134868jnK9_PNG/1637747824851.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
