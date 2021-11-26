@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Nov 2021 11:28:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Nov 2021 12:48:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,6 +36,16 @@
 										오전 5:00</span>
 										<span class="txt">채널A</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211110_253/163649592083027onO_JPEG/upload_80575564837305650fcdf6ac7-e771-44cf-90fb-d78f1d50c3cc.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / DreamNote 드림노트)]]></title>
+            <link>https://m.vlive.tv/video/269983</link>
+            <guid>https://m.vlive.tv/video/269983</guid>
+            <pubDate>Fri, 26 Nov 2021 12:48:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211124_101/16377348038895573a_JPEG/upload_5400425292427888647a769c1-a9eb-4b3f-9b5a-443376531af3.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
