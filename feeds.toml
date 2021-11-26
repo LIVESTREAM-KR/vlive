@@ -97,3 +97,13 @@ linkSelector = "a.inner_link"
 contentSelector = "div.date_area"
 imageSelector = "div.vthumb_img img"
 waitUntil = "networkidle"
+
+[events]
+title = "V LIVE ─ 이벤트"
+url = "https://www.vlive.tv/events"
+entrySelector = "ul.events_list li"
+titleSelector = "strong.title a.ellipsis"
+linkSelector = "a.thumb"
+contentSelector = "div.text_area"
+imageSelector = "a.thumb img"
+waitUntil = "networkidle"
