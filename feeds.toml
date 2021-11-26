@@ -107,3 +107,23 @@ linkSelector = "a.thumb"
 contentSelector = "div.text_area"
 imageSelector = "a.thumb img"
 waitUntil = "networkidle"
+
+[membership]
+title = "V LIVE ─ STORE ─ MEMBERSHIP"
+url = "https://www.vlive.tv/vstore/membership?lang=ko"
+entrySelector = "ul.channel_fanship_list._mem_list li"
+titleSelector = "strong.title"
+linkSelector = "a.store_fanship_card"
+contentSelector = "em.icon_fanship"
+imageSelector = "div.thumb_area img"
+waitUntil = "networkidle"
+
+[video]
+title = "V LIVE ─ STORE ─ V LIVE+"
+url = "https://www.vlive.tv/vstore/video?lang=ko"
+entrySelector = "ul.best_package_list li"
+titleSelector = "strong.info_tit"
+linkSelector = "a.store_package_card"
+contentSelector = "div.info_date span.date"
+imageSelector = "div.thumb_area img"
+waitUntil = "networkidle"
