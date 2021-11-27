@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Nov 2021 08:37:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Nov 2021 09:32:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211124_101/16377348038895573a_JPEG/upload_5400425292427888647a769c1-a9eb-4b3f-9b5a-443376531af3.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[💜안녕, 난 신보라라고해💜]]></title>
+            <link>https://m.vlive.tv/video/269958</link>
+            <guid>https://m.vlive.tv/video/269958</guid>
+            <pubDate>Sat, 27 Nov 2021 09:31:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">신보라</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211124_269/1637720812667EJNhx_JPEG/upload_817991671499071581f6dccde-4913-4847-b4f6-11791f2a81a0.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
