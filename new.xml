@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Nov 2021 06:37:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Nov 2021 07:30:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[날씨좋고 햇빛쨍쨍☀️]]></title>
+            <link>https://www.vlive.tv/video/270324</link>
+            <guid>https://www.vlive.tv/video/270324</guid>
+            <pubDate>Sat, 27 Nov 2021 07:28:05 GMT</pubDate>
+            <content:encoded><![CDATA[24K]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211127_235/1637995967748zLabl_JPEG/39d82cae-4f4c-11ec-9a33-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[고고고]]></title>
             <link>https://www.vlive.tv/video/270322</link>
@@ -398,14 +406,6 @@
             <pubDate>Fri, 26 Nov 2021 12:47:08 GMT</pubDate>
             <content:encoded><![CDATA[Bling Bling]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211126_262/1637927584858l1Yth_JPEG/21733a18-4ea6-11ec-9ac7-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[💙🧡]]></title>
-            <link>https://www.vlive.tv/video/270282</link>
-            <guid>https://www.vlive.tv/video/270282</guid>
-            <pubDate>Fri, 26 Nov 2021 11:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[PURPLE KISS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211126_141/1637924987676ESIdC_JPEG/150800516632166320e77ce7b5-16d7-409c-8f62-aa5c30139d93.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
