@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Nov 2021 17:37:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Nov 2021 18:36:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LET’S GO AGAIN ! 🙌🏻💛🌝🐝 불토!]]></title>
+            <link>https://www.vlive.tv/video/270362</link>
+            <guid>https://www.vlive.tv/video/270362</guid>
+            <pubDate>Sat, 27 Nov 2021 18:34:45 GMT</pubDate>
+            <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/270362/thumb?type=f228_128" length="0" type="image//live/270362/thumb"/>
+        </item>
         <item>
             <title><![CDATA[Hiiiiii]]></title>
             <link>https://www.vlive.tv/video/270360</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 27 Nov 2021 14:27:35 GMT</pubDate>
             <content:encoded><![CDATA[Billlie 빌리]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211127_220/1638021667065kh7Mz_JPEG/upload_54269290600776454ae35637b-f538-4c7f-80cf-485725dd174e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엘링.. 이뿌다..💗 feat.최준]]></title>
-            <link>https://www.vlive.tv/video/270353</link>
-            <guid>https://www.vlive.tv/video/270353</guid>
-            <pubDate>Sat, 27 Nov 2021 12:46:09 GMT</pubDate>
-            <content:encoded><![CDATA[E'LAST]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211127_289/1638015256170wxhnw_JPEG/15089079316189219317c368ff-74e0-4786-a65b-fd40bdffadae.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
