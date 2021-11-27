@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Nov 2021 15:35:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Nov 2021 16:51:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잡다한 이야기]]></title>
+            <link>https://www.vlive.tv/video/270354</link>
+            <guid>https://www.vlive.tv/video/270354</guid>
+            <pubDate>Sat, 27 Nov 2021 16:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[VERIVERY]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211128_189/1638030899353PF0tP_JPEG/62fedf75-4f93-11ec-82c9-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hiiiiii]]></title>
+            <link>https://www.vlive.tv/video/270360</link>
+            <guid>https://www.vlive.tv/video/270360</guid>
+            <pubDate>Sat, 27 Nov 2021 16:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[WiHi]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211128_287/1638030187638Nvd2P_JPEG/150818577328483851f485300f-45d0-409d-b1a5-8b27dd41f21d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[🦊우영이의 생일파티에 언넝 오세요🎉]]></title>
             <link>https://www.vlive.tv/video/270166</link>
@@ -110,22 +126,6 @@
             <pubDate>Sat, 27 Nov 2021 12:46:09 GMT</pubDate>
             <content:encoded><![CDATA[E'LAST]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211127_289/1638015256170wxhnw_JPEG/15089079316189219317c368ff-74e0-4786-a65b-fd40bdffadae.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매운갈비찜 좋아하세요? 🍖]]></title>
-            <link>https://www.vlive.tv/video/270339</link>
-            <guid>https://www.vlive.tv/video/270339</guid>
-            <pubDate>Sat, 27 Nov 2021 14:27:35 GMT</pubDate>
-            <content:encoded><![CDATA[청공소년 (Bz_Boys)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211127_200/1638007600738AXudD_JPEG/121319076520013068a7bf20ee-4438-4df6-a975-b54dbf38e0cd.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[200일 기념 릴레이 ✌]]></title>
-            <link>https://www.vlive.tv/video/270319</link>
-            <guid>https://www.vlive.tv/video/270319</guid>
-            <pubDate>Sat, 27 Nov 2021 10:32:42 GMT</pubDate>
-            <content:encoded><![CDATA[블리처스(BLITZERS)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211127_161/1637980022509GoGzr_JPEG/upload_54249463114473539555346ec-8283-4956-862f-8c3fc51c1084.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
