@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Nov 2021 09:32:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Nov 2021 10:34:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[200일 기념 릴레이 ✌]]></title>
-            <link>https://m.vlive.tv/video/270319</link>
-            <guid>https://m.vlive.tv/video/270319</guid>
-            <pubDate>Sat, 27 Nov 2021 02:44:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">블리처스(BLITZERS)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211127_161/1637980022509GoGzr_JPEG/upload_54249463114473539555346ec-8283-4956-862f-8c3fc51c1084.jpeg?type=f274_154" length="0" type="image/jpeg"/>
-        </item>
         <item>
             <title><![CDATA[🦊우영이의 생일파티에 언넝 오세요🎉]]></title>
             <link>https://m.vlive.tv/video/270166</link>
@@ -66,6 +56,16 @@
 										오전 10:00</span>
 										<span class="txt">신보라</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211124_269/1637720812667EJNhx_JPEG/upload_817991671499071581f6dccde-4913-4847-b4f6-11791f2a81a0.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / Khundi Panda 쿤디판다)]]></title>
+            <link>https://m.vlive.tv/video/270072</link>
+            <guid>https://m.vlive.tv/video/270072</guid>
+            <pubDate>Sat, 27 Nov 2021 10:33:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211125_215/1637809285374hx2ho_JPEG/upload_818889661987784013cbd41ad-0694-43af-b2d2-1c2586dfa213.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
