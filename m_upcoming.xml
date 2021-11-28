@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 08:36:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 09:32:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -66,6 +66,26 @@
 										오전 11:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211125_215/1637809285374hx2ho_JPEG/upload_818889661987784013cbd41ad-0694-43af-b2d2-1c2586dfa213.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
+            <link>https://m.vlive.tv/video/270102</link>
+            <guid>https://m.vlive.tv/video/270102</guid>
+            <pubDate>Sun, 28 Nov 2021 09:31:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211125_107/1637817250872hShu9_JPEG/upload_818969687200576388ff3d1ad-7f24-4421-88c8-2078c443c81c.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
+            <link>https://m.vlive.tv/video/270094</link>
+            <guid>https://m.vlive.tv/video/270094</guid>
+            <pubDate>Sun, 28 Nov 2021 09:31:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 2:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211125_4/1637816889662PvYbO_JPEG/upload_81896619591501940429de517-8b83-433d-aac0-209eac33e83d.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
