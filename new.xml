@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 02:45:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 03:33:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2021 인천시티팝] 부평구청XFancy - Moonlight Live]]></title>
+            <link>https://www.vlive.tv/video/270194</link>
+            <guid>https://www.vlive.tv/video/270194</guid>
+            <pubDate>Sun, 28 Nov 2021 03:30:58 GMT</pubDate>
+            <content:encoded><![CDATA[루비레코드(Ruby Records)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211126_226/1637892668885vCjn6_JPEG/db4eeb76-4e5d-11ec-8636-505dac8c3639_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[4K] "SCIENTIST" MTV Fresh Out Live Full Performance]]></title>
             <link>https://www.vlive.tv/video/270363</link>
@@ -398,14 +406,6 @@
             <pubDate>Sat, 27 Nov 2021 07:28:05 GMT</pubDate>
             <content:encoded><![CDATA[24K]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211127_235/1637995967748zLabl_JPEG/39d82cae-4f4c-11ec-9a33-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고고고]]></title>
-            <link>https://www.vlive.tv/video/270322</link>
-            <guid>https://www.vlive.tv/video/270322</guid>
-            <pubDate>Sat, 27 Nov 2021 06:35:34 GMT</pubDate>
-            <content:encoded><![CDATA[N.O.M]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211127_109/1637993116920cvLTO_JPEG/150781652863852017be1a5ad0-8873-478f-b582-88beae38adfb.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
