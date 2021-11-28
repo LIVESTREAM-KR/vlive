@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 18:03:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 18:15:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -344,14 +344,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20211128_239/1638102550285JaIBg_JPEG/1638101935954.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[칠링칠링 SUNDAY CHILLING 💛🐝🙌🏻]]></title>
-            <link>https://www.vlive.tv/video/270400</link>
-            <guid>https://www.vlive.tv/video/270400</guid>
-            <pubDate>Sun, 28 Nov 2021 17:36:38 GMT</pubDate>
-            <content:encoded><![CDATA[오후 4:52]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/270400/thumb?type=f228_128" length="0" type="image//live/270400/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[[Radio Hama] 심야 라디오]]></title>
             <link>https://www.vlive.tv/video/270398</link>
             <guid>https://www.vlive.tv/video/270398</guid>
@@ -366,6 +358,14 @@
             <pubDate>Sun, 28 Nov 2021 17:52:11 GMT</pubDate>
             <content:encoded><![CDATA[오후 5:50]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211129_299/1638121829291xWvLf_JPEG/46290799-505c-11ec-b39d-48df37ae3fca_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[칠링칠링 SUNDAY CHILLING 💛🐝🙌🏻]]></title>
+            <link>https://www.vlive.tv/video/270400</link>
+            <guid>https://www.vlive.tv/video/270400</guid>
+            <pubDate>Sun, 28 Nov 2021 17:36:38 GMT</pubDate>
+            <content:encoded><![CDATA[오후 6:12]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211129_241/1638123125787acoNt_JPEG/ec38217e-5075-11ec-9e9c-48df379cc9e4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
