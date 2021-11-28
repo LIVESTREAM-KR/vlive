@@ -33,7 +33,9 @@ https://livestream-kr.github.io/vlive/all.xml
 - [STICKER](https://www.vlive.tv/vstore/sticker): https://livestream-kr.github.io/vlive/vstore_sticker.xml
   - https://livestream-kr.github.io/vlive/sticker.xml
 
+## CHANNEL
+[🟪 Beyond LIVE](https://github.com/LIVESTREAM-KR/vlive_beyond-live) | [💃 V MUSICAL](https://github.com/LIVESTREAM-KR/vlive_vmusicial) | [🎹 V CLASSIC](https://github.com/LIVESTREAM-KR/vlive_vclassic)  
+
 ---
 
-[🟪 Beyond LIVE](https://github.com/LIVESTREAM-KR/vlive_beyond-live) | [💃 V MUSICAL](https://github.com/LIVESTREAM-KR/vlive_vmusicial) | [🎹 V CLASSIC](https://github.com/LIVESTREAM-KR/vlive_vclassic)  
-[🟥 NAVER NOW.](https://github.com/LIVESTREAM-KR/navernow)
+[▶️ NAVER NOW. 이동하기](https://github.com/LIVESTREAM-KR/navernow)
