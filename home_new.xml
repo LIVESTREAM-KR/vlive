@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 06:38:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 07:30:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[(내일은)월요일의 채솔😊❤]]></title>
+            <link>https://www.vlive.tv/video/270369</link>
+            <guid>https://www.vlive.tv/video/270369</guid>
+            <pubDate>Sun, 28 Nov 2021 07:28:22 GMT</pubDate>
+            <content:encoded><![CDATA[시그니처(cignature)]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/270369/thumb?type=f228_128" length="0" type="image//live/270369/thumb"/>
+        </item>
         <item>
             <title><![CDATA[멀바 엘댕 첨바~~?💕]]></title>
             <link>https://www.vlive.tv/video/270368</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 27 Nov 2021 14:27:35 GMT</pubDate>
             <content:encoded><![CDATA[BRANDNEW MUSIC]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211127_249/1638023839597JLENo_JPEG/228baf95-4f8f-11ec-ba2c-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Billlie | the Billage of perception : chapter one]]></title>
-            <link>https://www.vlive.tv/video/270351</link>
-            <guid>https://www.vlive.tv/video/270351</guid>
-            <pubDate>Sat, 27 Nov 2021 14:27:35 GMT</pubDate>
-            <content:encoded><![CDATA[Billlie 빌리]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211127_251/1638014626309yLeHG_JPEG/upload_54284208703633492fcaf9c23-8d3c-45f2-9229-705c944b32ff.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
