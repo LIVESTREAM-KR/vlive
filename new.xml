@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 18:38:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 19:12:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잠 못드는 밤에 (주제 : 추워)]]></title>
+            <link>https://www.vlive.tv/video/270401</link>
+            <guid>https://www.vlive.tv/video/270401</guid>
+            <pubDate>Sun, 28 Nov 2021 19:09:45 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211129_192/1638125441550rEKaU_JPEG/151001055522639880584353da-c745-4f32-a11f-b875b5f8f6fd.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[칠링칠링 SUNDAY CHILLING 💛🐝🙌🏻]]></title>
             <link>https://www.vlive.tv/video/270400</link>
@@ -398,14 +406,6 @@
             <pubDate>Sat, 27 Nov 2021 16:48:51 GMT</pubDate>
             <content:encoded><![CDATA[VERIVERY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211128_189/1638030899353PF0tP_JPEG/62fedf75-4f93-11ec-82c9-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🦊우영이의 생일파티에 언넝 오세요🎉]]></title>
-            <link>https://www.vlive.tv/video/270166</link>
-            <guid>https://www.vlive.tv/video/270166</guid>
-            <pubDate>Sat, 27 Nov 2021 14:27:25 GMT</pubDate>
-            <content:encoded><![CDATA[ATEEZ]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211125_105/1637841412823LrWWb_JPEG/upload_819210034755156874a8e2028-882a-4d78-af10-a0fc634a4e46.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 18:38:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 19:12:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잠 못드는 밤에 (주제 : 추워)]]></title>
+            <link>https://www.vlive.tv/video/270401</link>
+            <guid>https://www.vlive.tv/video/270401</guid>
+            <pubDate>Sun, 28 Nov 2021 19:09:56 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211129_192/1638125441550rEKaU_JPEG/151001055522639880584353da-c745-4f32-a11f-b875b5f8f6fd.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[칠링칠링 SUNDAY CHILLING 💛🐝🙌🏻]]></title>
             <link>https://www.vlive.tv/video/270400</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 28 Nov 2021 13:32:29 GMT</pubDate>
             <content:encoded><![CDATA[HA SUNG WOON]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211128_177/163810379524304Uxz_JPEG/upload_82183510564109579339968d3-529e-45d9-9251-5d7274750ff2.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GHOST9 (고스트나인)  'Control' MV Reaction]]></title>
-            <link>https://www.vlive.tv/video/270365</link>
-            <guid>https://www.vlive.tv/video/270365</guid>
-            <pubDate>Sun, 28 Nov 2021 13:32:29 GMT</pubDate>
-            <content:encoded><![CDATA[GHOST9]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211128_55/1638093202422No8up_JPEG/upload_54362784789355808f444b94f-104a-4e1e-830b-ab7d1f2c97a4.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
