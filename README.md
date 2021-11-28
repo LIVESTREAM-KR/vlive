@@ -27,8 +27,11 @@ https://livestream-kr.github.io/vlive/all.xml
 ## [STORE](https://www.vlive.tv/vstore)
 - [MEMBERSHIP](https://www.vlive.tv/vstore/membership): https://livestream-kr.github.io/vlive/vstore_membership.xml
 - [V LIVE+](https://www.vlive.tv/vstore/video): https://livestream-kr.github.io/vlive/vstore_video.xml
+  - https://livestream-kr.github.io/vlive/vliveplus.xml
 - [LIGHTSTICK](https://www.vlive.tv/vstore/lightStick): https://livestream-kr.github.io/vlive/vstore_lightstick.xml
+  - https://livestream-kr.github.io/vlive/lightstick.xml
 - [STICKER](https://www.vlive.tv/vstore/sticker): https://livestream-kr.github.io/vlive/vstore_sticker.xml
+  - https://livestream-kr.github.io/vlive/sticker.xml
 
 ---
 
