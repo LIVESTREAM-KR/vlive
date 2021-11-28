@@ -100,7 +100,7 @@ waitUntil = "networkidle"
 
 [events]
 title = "V LIVE ─ 이벤트"
-url = "https://www.vlive.tv/events"
+url = "https://www.vlive.tv/events?lang=ko"
 entrySelector = "ul.events_list li"
 titleSelector = "strong.title a.ellipsis"
 linkSelector = "a.thumb"
