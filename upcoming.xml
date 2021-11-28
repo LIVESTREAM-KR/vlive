@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 16:51:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 17:38:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,7 +45,7 @@
             <guid>https://www.vlive.tv/video/270372</guid>
             <pubDate>Sun, 28 Nov 2021 08:34:47 GMT</pubDate>
             <content:encoded><![CDATA[오전 8:16]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211128_265/1638092777461YpCdy_JPEG/upload_54362377762751339bef951ba-45a9-409c-a9b8-e88b31ebc74b.jpeg?type=f228_128" length="0" type="image/jpeg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20211129_243/16381206854113QLMB_JPEG/upload_54390288201711078042f4c44-3579-4be0-bc4a-72ef66cdbdc0.jpeg?type=f228_128" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[호잇]]></title>
@@ -288,14 +288,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20211128_284/1638108389808H8tl3_JPEG/503b4fcf-5051-11ec-8636-505dac8c3639_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[Radio Hama] 심야 라디오]]></title>
-            <link>https://www.vlive.tv/video/270398</link>
-            <guid>https://www.vlive.tv/video/270398</guid>
-            <pubDate>Sun, 28 Nov 2021 14:28:23 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:28]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211128_250/1638109684920qEUXT_JPEG/150897995848610872982b4aaa-7b34-450a-9769-227c82099cf8.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[i am bored]]></title>
             <link>https://www.vlive.tv/video/270397</link>
             <guid>https://www.vlive.tv/video/270397</guid>
@@ -350,6 +342,22 @@
             <pubDate>Sun, 28 Nov 2021 15:34:08 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211128_239/1638102550285JaIBg_JPEG/1638101935954.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[칠링칠링 SUNDAY CHILLING 💛🐝🙌🏻]]></title>
+            <link>https://www.vlive.tv/video/270400</link>
+            <guid>https://www.vlive.tv/video/270400</guid>
+            <pubDate>Sun, 28 Nov 2021 17:36:38 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:52]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/270400/thumb?type=f228_128" length="0" type="image//live/270400/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[[Radio Hama] 심야 라디오]]></title>
+            <link>https://www.vlive.tv/video/270398</link>
+            <guid>https://www.vlive.tv/video/270398</guid>
+            <pubDate>Sun, 28 Nov 2021 14:28:23 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:06]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211128_250/1638109684920qEUXT_JPEG/150897995848610872982b4aaa-7b34-450a-9769-227c82099cf8.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
