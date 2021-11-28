@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 04:43:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 05:29:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멀바 엘댕 첨바~~?💕]]></title>
+            <link>https://www.vlive.tv/video/270368</link>
+            <guid>https://www.vlive.tv/video/270368</guid>
+            <pubDate>Sun, 28 Nov 2021 05:27:26 GMT</pubDate>
+            <content:encoded><![CDATA[Weki Meki]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/270368/thumb?type=f228_128" length="0" type="image//live/270368/thumb"/>
+        </item>
         <item>
             <title><![CDATA[[2021 인천시티팝] 부평구청XFancy - Moonlight Live]]></title>
             <link>https://www.vlive.tv/video/270194</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 27 Nov 2021 14:27:35 GMT</pubDate>
             <content:encoded><![CDATA[Billlie 빌리]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211127_251/1638014626309yLeHG_JPEG/upload_54284208703633492fcaf9c23-8d3c-45f2-9229-705c944b32ff.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Billlie | Official Visualizer Track 06 'the rumor']]></title>
-            <link>https://www.vlive.tv/video/270347</link>
-            <guid>https://www.vlive.tv/video/270347</guid>
-            <pubDate>Sat, 27 Nov 2021 14:27:35 GMT</pubDate>
-            <content:encoded><![CDATA[Billlie 빌리]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211127_69/1638021619280DvBOD_JPEG/upload_542836253507332013ef98bb9-adcb-4d94-9dce-6875b3c7c8c2.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
