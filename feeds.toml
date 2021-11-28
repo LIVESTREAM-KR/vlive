@@ -128,6 +128,16 @@ contentSelector = "div.info_date span.date"
 imageSelector = "div.thumb_area img"
 waitUntil = "networkidle"
 
+[vliveplus]
+title = "V LIVE ─ "
+url = "https://www.vlive.tv/vstore/video/more?pageNo=1&pageSize=50&viewType=recent&lang=ko"
+entrySelector = "ul.best_package_list li"
+titleSelector = "strong.info_tit"
+linkSelector = "a.store_package_card"
+contentSelector = "div.info_area"
+imageSelector = "div.thumb_area img"
+waitUntil = "networkidle"
+
 [vstore_lightstick]
 title = "V LIVE ─ 스토어 ─ LIGHTSTICK"
 url = "https://www.vlive.tv/vstore/lightStick"
