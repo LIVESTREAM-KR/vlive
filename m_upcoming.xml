@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 10:35:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 11:29:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[🍧]]></title>
-            <link>https://m.vlive.tv/video/270364</link>
-            <guid>https://m.vlive.tv/video/270364</guid>
-            <pubDate>Sun, 28 Nov 2021 02:44:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										방송취소</span>
-										<span class="txt">SF9</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211128_192/1638066666794HDIFX_JPEG/upload_543356829497403130e376b32-212b-4ecf-b2ea-d8473ed46cdd.jpeg?type=f274_154" length="0" type="image/jpeg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
             <link>https://m.vlive.tv/video/270103</link>
@@ -76,6 +66,16 @@
 										오후 12:00</span>
 										<span class="txt">Rooftop Company</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211128_248/16380926679688k3Ur_JPEG/upload_82172125539298492d4288310-86d0-4ca2-9d19-3c98506fb2c9.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[약속한 방송으로 월요일 퇴근후 새봄이와 함께해요!]]></title>
+            <link>https://m.vlive.tv/video/270383</link>
+            <guid>https://m.vlive.tv/video/270383</guid>
+            <pubDate>Sun, 28 Nov 2021 11:28:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 12:00</span>
+										<span class="txt">OH SAE BOM / 오새봄</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211128_250/1638096523652mnbuv_JPEG/upload_82176138838251822b882e558-39f6-4407-b887-51755270d094.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
