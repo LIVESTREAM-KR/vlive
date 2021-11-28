@@ -167,3 +167,13 @@ linkSelector = "a.lightstick_link"
 contentSelector = "div.text"
 imageSelector = "div.img_area img"
 waitUntil = "networkidle"
+
+[sticker]
+title = "V LIVE ─ 스토어 ─ STICKER"
+url = "https://www.vlive.tv/vstore/sticker/more?pageNo=1&pageSize=50&viewType=recent&lang=ko"
+entrySelector = "ul.store_sticker_list li"
+titleSelector = "div.tit_area p.tit"
+linkSelector = "a.sticker_link"
+contentSelector = "a.info_channel"
+imageSelector = "div.thumb_area img"
+waitUntil = "networkidle"
