@@ -38,4 +38,4 @@ https://livestream-kr.github.io/vlive/all.xml
 
 ---
 
-[▶️ NAVER NOW. 이동하기](https://github.com/LIVESTREAM-KR/navernow)
+[🟥 NAVER NOW.](https://github.com/LIVESTREAM-KR/navernow) | [📺 NAVER TV](https://github.com/LIVESTREAM-KR/navertv)
