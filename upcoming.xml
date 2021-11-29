@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 16:53:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 17:39:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,14 +688,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20211129_25/1638194295597m4VjS_JPEG/1638194241067.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[하린이 드럼교실🥁]]></title>
-            <link>https://www.vlive.tv/video/270504</link>
-            <guid>https://www.vlive.tv/video/270504</guid>
-            <pubDate>Mon, 29 Nov 2021 15:34:52 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:07]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/270504/thumb?type=f228_128" length="0" type="image//live/270504/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[하린이의 드럼교실🥁]]></title>
             <link>https://www.vlive.tv/video/270502</link>
             <guid>https://www.vlive.tv/video/270502</guid>
@@ -726,6 +718,30 @@
             <pubDate>Mon, 29 Nov 2021 16:51:58 GMT</pubDate>
             <content:encoded><![CDATA[오후 4:01]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211130_298/1638201698085YmcBy_JPEG/7b529328-512d-11ec-b39d-48df37ae3fca_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Radio Hama] 심야 라디오 불면증 치료해드려요~]]></title>
+            <link>https://www.vlive.tv/video/270496</link>
+            <guid>https://www.vlive.tv/video/270496</guid>
+            <pubDate>Mon, 29 Nov 2021 17:38:30 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:54]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211129_34/1638193290410zBfsJ_JPEG/150981601335034919f518dc62-514a-4da7-b373-9dd847885747.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[으헤헤 #OMRR 🐻💛🐝]]></title>
+            <link>https://www.vlive.tv/video/270507</link>
+            <guid>https://www.vlive.tv/video/270507</guid>
+            <pubDate>Mon, 29 Nov 2021 17:38:30 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:15]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211130_278/1638206127716ppMbI_JPEG/371814943415980115466f07d-897b-4921-91c7-5bcbd0f830e2.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하린이 드럼교실🥁]]></title>
+            <link>https://www.vlive.tv/video/270504</link>
+            <guid>https://www.vlive.tv/video/270504</guid>
+            <pubDate>Mon, 29 Nov 2021 15:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:15]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211130_138/16382061445177gqBC_JPEG/4d5ee0a4-5136-11ec-b39d-48df37ae3fca_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
