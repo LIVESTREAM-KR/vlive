@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 14:31:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 15:36:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Return of The Girl] ALBUM SPOILER LIVE]]></title>
-            <link>https://m.vlive.tv/video/270412</link>
-            <guid>https://m.vlive.tv/video/270412</guid>
-            <pubDate>Mon, 29 Nov 2021 03:32:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 2:30</span>
-										<span class="txt">EVERGLOW (에버글로우)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211129_260/1638154941993XzOSw_JPEG/upload_82234610310090611e0c9afa2-9bb5-4ca8-9aeb-b47fa6cf22be.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
             <link>https://m.vlive.tv/video/270102</link>
@@ -46,6 +36,16 @@
 										오전 4:00</span>
 										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211126_113/1637907411524oFvxN_PNG/upload_541769724361797040beb4489-6086-4224-b4c0-261403c26089.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[Music Access] Pop&Going wih AleXa 알렉사 & Steven 스티븐 of 루미너스]]></title>
+            <link>https://m.vlive.tv/video/270089</link>
+            <guid>https://m.vlive.tv/video/270089</guid>
+            <pubDate>Mon, 29 Nov 2021 15:34:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211125_249/1637816506064KdEMi_JPEG/upload_81896236232880239e05712cb-23bf-469c-8ec1-ed5d00520e42.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
