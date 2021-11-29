@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 11:30:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 12:50:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[시윤(SIYOON) 'Beautiful' 발매 기념 V LIVE]]></title>
-            <link>https://m.vlive.tv/video/270379</link>
-            <guid>https://m.vlive.tv/video/270379</guid>
-            <pubDate>Sun, 28 Nov 2021 10:34:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 12:00</span>
-										<span class="txt">Rooftop Company</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211128_248/16380926679688k3Ur_JPEG/upload_82172125539298492d4288310-86d0-4ca2-9d19-3c98506fb2c9.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[약속한 방송으로 월요일 퇴근후 새봄이와 함께해요!]]></title>
-            <link>https://m.vlive.tv/video/270383</link>
-            <guid>https://m.vlive.tv/video/270383</guid>
-            <pubDate>Sun, 28 Nov 2021 11:28:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 12:00</span>
-										<span class="txt">OH SAE BOM / 오새봄</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211128_250/1638096523652mnbuv_JPEG/upload_82176138838251822b882e558-39f6-4407-b887-51755270d094.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Return of The Girl] ALBUM SPOILER LIVE]]></title>
             <link>https://m.vlive.tv/video/270412</link>
@@ -56,6 +36,16 @@
 										오전 2:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211125_4/1637816889662PvYbO_JPEG/upload_81896619591501940429de517-8b83-433d-aac0-209eac33e83d.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ASC Live Ep.499 (TO1 / 티오원)]]></title>
+            <link>https://m.vlive.tv/video/270214</link>
+            <guid>https://m.vlive.tv/video/270214</guid>
+            <pubDate>Mon, 29 Nov 2021 12:48:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211126_113/1637907411524oFvxN_PNG/upload_541769724361797040beb4489-6086-4224-b4c0-261403c26089.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
