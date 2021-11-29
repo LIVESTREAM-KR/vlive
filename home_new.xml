@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 01:30:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 02:45:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[hi minimonster]]></title>
+            <link>https://www.vlive.tv/video/270404</link>
+            <guid>https://www.vlive.tv/video/270404</guid>
+            <pubDate>Mon, 29 Nov 2021 02:43:01 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211129_95/1638151003369NqYbQ_JPEG/upload_5442056754035512400b6a170-7d74-4ae1-8c54-a653a347a8c0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
             <link>https://www.vlive.tv/video/270103</link>
@@ -14,6 +22,14 @@
             <pubDate>Mon, 29 Nov 2021 01:28:01 GMT</pubDate>
             <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211125_152/1637817293573YC92Q_JPEG/upload_54086882777846562ef05c27f-9d32-4c54-8b60-1037473c8c98.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 솔로지옥 | 공식 예고편]]></title>
+            <link>https://www.vlive.tv/video/270230</link>
+            <guid>https://www.vlive.tv/video/270230</guid>
+            <pubDate>Mon, 29 Nov 2021 02:43:01 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스 (Netflixkr)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211126_222/1637913356266avDTz_JPEG/1637913144945.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[잠 못드는 밤에 (주제 : 추워)]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Sun, 28 Nov 2021 13:32:29 GMT</pubDate>
             <content:encoded><![CDATA[E'LAST]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211128_284/1638108389808H8tl3_JPEG/503b4fcf-5051-11ec-8636-505dac8c3639_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[11월 마지막주말 잘보내셨나요~🥰(다음주에는 콘서트!!)]]></title>
-            <link>https://www.vlive.tv/video/270394</link>
-            <guid>https://www.vlive.tv/video/270394</guid>
-            <pubDate>Sun, 28 Nov 2021 12:45:51 GMT</pubDate>
-            <content:encoded><![CDATA[HWANG CHI YEUL(황치열)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211128_36/1638104982875kQGxz_JPEG/24ad81e7-504c-11ec-9ac7-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찬이의 "방" 🐺 Ep. 134]]></title>
-            <link>https://www.vlive.tv/video/270392</link>
-            <guid>https://www.vlive.tv/video/270392</guid>
-            <pubDate>Sun, 28 Nov 2021 12:45:51 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211128_240/163810452553961O8R_JPEG/e3c6c890-504a-11ec-a979-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
