@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 23:33:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 01:30:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
-            <link>https://m.vlive.tv/video/270103</link>
-            <guid>https://m.vlive.tv/video/270103</guid>
-            <pubDate>Fri, 26 Nov 2021 15:34:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211125_152/1637817293573YC92Q_JPEG/upload_54086882777846562ef05c27f-9d32-4c54-8b60-1037473c8c98.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[채널A 월화 드라마 〈쇼윈도:여왕의집〉 제작발표회 LIVE]]></title>
             <link>https://m.vlive.tv/video/268539</link>
@@ -86,6 +76,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211125_107/1637817250872hShu9_JPEG/upload_818969687200576388ff3d1ad-7f24-4421-88c8-2078c443c81c.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
+            <link>https://m.vlive.tv/video/270094</link>
+            <guid>https://m.vlive.tv/video/270094</guid>
+            <pubDate>Mon, 29 Nov 2021 01:29:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 2:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211125_4/1637816889662PvYbO_JPEG/upload_81896619591501940429de517-8b83-433d-aac0-209eac33e83d.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

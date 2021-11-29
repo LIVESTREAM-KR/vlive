@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 23:33:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 01:30:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
+            <link>https://www.vlive.tv/video/270103</link>
+            <guid>https://www.vlive.tv/video/270103</guid>
+            <pubDate>Mon, 29 Nov 2021 01:27:51 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211125_152/1637817293573YC92Q_JPEG/upload_54086882777846562ef05c27f-9d32-4c54-8b60-1037473c8c98.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잠 못드는 밤에 (주제 : 추워)]]></title>
             <link>https://www.vlive.tv/video/270401</link>
@@ -398,14 +406,6 @@
             <pubDate>Sat, 27 Nov 2021 16:48:51 GMT</pubDate>
             <content:encoded><![CDATA[WiHi]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211128_287/1638030187638Nvd2P_JPEG/150818577328483851f485300f-45d0-409d-b1a5-8b27dd41f21d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잡다한 이야기]]></title>
-            <link>https://www.vlive.tv/video/270354</link>
-            <guid>https://www.vlive.tv/video/270354</guid>
-            <pubDate>Sat, 27 Nov 2021 16:48:51 GMT</pubDate>
-            <content:encoded><![CDATA[VERIVERY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211128_189/1638030899353PF0tP_JPEG/62fedf75-4f93-11ec-82c9-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

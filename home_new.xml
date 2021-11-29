@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 23:33:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 01:30:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
+            <link>https://www.vlive.tv/video/270103</link>
+            <guid>https://www.vlive.tv/video/270103</guid>
+            <pubDate>Mon, 29 Nov 2021 01:28:01 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211125_152/1637817293573YC92Q_JPEG/upload_54086882777846562ef05c27f-9d32-4c54-8b60-1037473c8c98.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잠 못드는 밤에 (주제 : 추워)]]></title>
             <link>https://www.vlive.tv/video/270401</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 28 Nov 2021 12:45:51 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211128_240/163810452553961O8R_JPEG/e3c6c890-504a-11ec-a979-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Electrified’ M/V 촬영 현장 스케치 | 구르미TV EP.74 | 하성운]]></title>
-            <link>https://www.vlive.tv/video/270395</link>
-            <guid>https://www.vlive.tv/video/270395</guid>
-            <pubDate>Sun, 28 Nov 2021 13:32:29 GMT</pubDate>
-            <content:encoded><![CDATA[HA SUNG WOON]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211128_177/163810379524304Uxz_JPEG/upload_82183510564109579339968d3-529e-45d9-9251-5d7274750ff2.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
