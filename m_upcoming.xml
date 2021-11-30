@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 04:37:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 05:26:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Music Access] Pop&Going wih AleXa 알렉사 & Steven 스티븐 of 루미너스]]></title>
-            <link>https://m.vlive.tv/video/270089</link>
-            <guid>https://m.vlive.tv/video/270089</guid>
-            <pubDate>Mon, 29 Nov 2021 15:34:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211125_249/1637816506064KdEMi_JPEG/upload_81896236232880239e05712cb-23bf-469c-8ec1-ed5d00520e42.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio] Oh My K-POP with Samuel Seo 서사무엘]]></title>
             <link>https://m.vlive.tv/video/270092</link>
@@ -56,6 +46,26 @@
 										오후 12:00</span>
 										<span class="txt">Billlie 빌리</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211130_46/1638245755580Qk8Es_JPEG/upload_82323994370506010f794746c-805c-4cac-bc5b-2bc5e377090b.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthews]]></title>
+            <link>https://m.vlive.tv/video/270101</link>
+            <guid>https://m.vlive.tv/video/270101</guid>
+            <pubDate>Tue, 30 Nov 2021 05:25:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211125_151/1637817213751eBGSr_JPEG/upload_81896945488122277342d7143-7eeb-4e77-998b-367817d28eae.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Cine Factory] Special Interview with Actor Park Myeong Hoon 박명훈]]></title>
+            <link>https://m.vlive.tv/video/270095</link>
+            <guid>https://m.vlive.tv/video/270095</guid>
+            <pubDate>Tue, 30 Nov 2021 05:25:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 2:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211125_163/1637816945883NQQdb_JPEG/upload_8189661976251769166facc23-35b9-4ef8-9b67-a19a46128068.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
