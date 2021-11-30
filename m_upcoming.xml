@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 06:33:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 07:27:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio] Oh My K-POP with Samuel Seo 서사무엘]]></title>
-            <link>https://m.vlive.tv/video/270092</link>
-            <guid>https://m.vlive.tv/video/270092</guid>
-            <pubDate>Tue, 30 Nov 2021 01:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211125_234/1637816648001ffTeI_JPEG/upload_81896365913213124175cf67b-5a4b-4aa0-a7ed-b7257952ff8d.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[연극 <이광수의 꿈, 그리고 꽃> 녹화중계]]></title>
             <link>https://m.vlive.tv/video/269165</link>
@@ -76,6 +66,16 @@
 										오전 4:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211130_60/1638249843316BL8Nx_JPEG/upload_82329454006510170cc91702e-f304-4240-9986-4c721aa83ec4.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio/Music Access] MA MVP with DANN of KINGDOM 킹덤 단]]></title>
+            <link>https://m.vlive.tv/video/270088</link>
+            <guid>https://m.vlive.tv/video/270088</guid>
+            <pubDate>Tue, 30 Nov 2021 07:25:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211125_267/1637816463772LmtS8_JPEG/upload_818961669805629261935ffe0-37c1-40f1-ac51-58f41e87f482.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

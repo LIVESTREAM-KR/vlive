@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 06:33:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 07:27:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,14 +160,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20211130_4/16382391712333NuzT_JPEG/upload_54508739376557991726873bc-becf-4a58-bb28-1807efcc659b.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[Music Access] Pop&Going wih AleXa 알렉사 & Steven 스티븐 of 루미너스]]></title>
-            <link>https://www.vlive.tv/video/270089</link>
-            <guid>https://www.vlive.tv/video/270089</guid>
-            <pubDate>Tue, 30 Nov 2021 01:22:15 GMT</pubDate>
-            <content:encoded><![CDATA[오전 4:55]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211125_249/1637816506064KdEMi_JPEG/upload_81896236232880239e05712cb-23bf-469c-8ec1-ed5d00520e42.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[동아컬렉션] 2021 한류연계 협업콘텐츠 한복 웨이브_모리노리]]></title>
             <link>https://www.vlive.tv/video/270420</link>
             <guid>https://www.vlive.tv/video/270420</guid>
@@ -224,12 +216,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20211130_144/1638252848567yK04v_PNG/1638252730368.png?type=f228_128" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[Arirang Radio] Oh My K-POP with Samuel Seo 서사무엘]]></title>
+            <title><![CDATA[오랜만]]></title>
+            <link>https://www.vlive.tv/video/270525</link>
+            <guid>https://www.vlive.tv/video/270525</guid>
+            <pubDate>Tue, 30 Nov 2021 07:25:21 GMT</pubDate>
+            <content:encoded><![CDATA[오전 6:43]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/270525/thumb?type=f228_128" length="0" type="image//live/270525/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio] Oh My K-POP with Samuel Seo 서사무엘 #SF9 #에스에프나인]]></title>
             <link>https://www.vlive.tv/video/270092</link>
             <guid>https://www.vlive.tv/video/270092</guid>
             <pubDate>Tue, 30 Nov 2021 01:22:15 GMT</pubDate>
-            <content:encoded><![CDATA[오전 7:00]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211125_234/1637816648001ffTeI_JPEG/upload_81896365913213124175cf67b-5a4b-4aa0-a7ed-b7257952ff8d.jpg?type=f228_128" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[오전 6:58]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211130_78/1638255406256kbdmP_JPEG/upload_81896365913213124175cf67b-5a4b-4aa0-a7ed-b7257952ff8d.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[동아컬렉션] 2021 한류연계 협업콘텐츠 한복 웨이브_시지엔이]]></title>
@@ -238,6 +238,22 @@
             <pubDate>Tue, 30 Nov 2021 01:22:15 GMT</pubDate>
             <content:encoded><![CDATA[오전 7:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211129_285/1638160296275Q16jh_JPEG/1638158637350.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Music Access] Pop&Going wih AleXa 알렉사 & Steven 스티븐 of 루미너스]]></title>
+            <link>https://www.vlive.tv/video/270089</link>
+            <guid>https://www.vlive.tv/video/270089</guid>
+            <pubDate>Tue, 30 Nov 2021 01:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[오전 7:04]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211125_249/1637816506064KdEMi_JPEG/upload_81896236232880239e05712cb-23bf-469c-8ec1-ed5d00520e42.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이석훈(Lee Seok hoon), 그대를 사랑하는 10가지 이유 '고막 녹이는 달달함']]></title>
+            <link>https://www.vlive.tv/video/270531</link>
+            <guid>https://www.vlive.tv/video/270531</guid>
+            <pubDate>Tue, 30 Nov 2021 07:25:21 GMT</pubDate>
+            <content:encoded><![CDATA[오전 7:22]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211130_65/1638256944019mnT5g_PNG/1638256569615.png?type=f228_128" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[동아컬렉션] 2021 한류연계 협업콘텐츠 한복 웨이브_차이킴]]></title>
