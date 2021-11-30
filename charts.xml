@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 10:31:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 11:25:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,20 +48,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20211129_52/1638195647367kLSL3_JPEG/5f31d51e-511f-11ec-8e54-505dac8c37f3_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Stray Kids(스트레이 키즈) "Christmas EveL" M/V]]></title>
-            <link>https://www.vlive.tv/video/270442</link>
-            <guid>https://www.vlive.tv/video/270442</guid>
-            <pubDate>Mon, 29 Nov 2021 10:34:28 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211129_94/1638180751565NMA1G_JPEG/upload_54450348584552072e7cfaff8-3581-4935-926c-81a025475683.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[TO DO X TOMORROW X TOGETHER - EP.60]]></title>
             <link>https://www.vlive.tv/video/269576</link>
             <guid>https://www.vlive.tv/video/269576</guid>
             <pubDate>Tue, 30 Nov 2021 08:30:44 GMT</pubDate>
             <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211119_170/1637293864224nA1aK_JPEG/upload_81373533564699197ebb1b19c-50c3-44b9-b30e-4d25bcd3fb12.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stray Kids(스트레이 키즈) "Christmas EveL" M/V]]></title>
+            <link>https://www.vlive.tv/video/270442</link>
+            <guid>https://www.vlive.tv/video/270442</guid>
+            <pubDate>Mon, 29 Nov 2021 10:34:28 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211129_94/1638180751565NMA1G_JPEG/upload_54450348584552072e7cfaff8-3581-4935-926c-81a025475683.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
