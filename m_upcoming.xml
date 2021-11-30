@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 05:26:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 06:33:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -66,6 +66,16 @@
 										오전 2:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211125_163/1637816945883NQQdb_JPEG/upload_8189661976251769166facc23-35b9-4ef8-9b67-a19a46128068.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio/K-Poppin'] Musical Actor Yoo Nak Won 뮤지컬배우 유낙원]]></title>
+            <link>https://m.vlive.tv/video/270521</link>
+            <guid>https://m.vlive.tv/video/270521</guid>
+            <pubDate>Tue, 30 Nov 2021 06:31:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211130_60/1638249843316BL8Nx_JPEG/upload_82329454006510170cc91702e-f304-4240-9986-4c721aa83ec4.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
