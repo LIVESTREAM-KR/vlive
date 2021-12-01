@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 01:35:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 02:47:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Cine Factory] Special Interview with Actor Park Myeong Hoon 박명훈]]></title>
-            <link>https://m.vlive.tv/video/270095</link>
-            <guid>https://m.vlive.tv/video/270095</guid>
-            <pubDate>Tue, 30 Nov 2021 05:25:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 2:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211125_163/1637816945883NQQdb_JPEG/upload_8189661976251769166facc23-35b9-4ef8-9b67-a19a46128068.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio/K-Poppin'] Musical Actor Yoo Nak Won 뮤지컬배우 유낙원]]></title>
             <link>https://m.vlive.tv/video/270521</link>
@@ -86,6 +76,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211125_219/1637816427632Ude09_JPEG/upload_81896157277324744b3e53183-8a26-4dd7-a7d9-795b6bf6cb22.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop] Club House]]></title>
+            <link>https://m.vlive.tv/video/270091</link>
+            <guid>https://m.vlive.tv/video/270091</guid>
+            <pubDate>Wed, 01 Dec 2021 02:46:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211125_262/1637816607359rOpuG_JPEG/upload_540862107260398074dae0f63-3607-41a9-89af-e6bd9f383b56.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
