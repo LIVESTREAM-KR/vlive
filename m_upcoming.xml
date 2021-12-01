@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 09:34:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 10:36:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[EVERGLOW 3RD MINI ALBUM [RETURN OF THE GIRL] SHOWCASE]]></title>
-            <link>https://m.vlive.tv/video/270187</link>
-            <guid>https://m.vlive.tv/video/270187</guid>
-            <pubDate>Tue, 30 Nov 2021 09:28:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">EVERGLOW (에버글로우)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211126_151/1637888646160rpzp2_JPEG/upload_819683815435442979f0c483d-1bb0-49e4-a2e8-a06c9fec2860.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
             <link>https://m.vlive.tv/video/270100</link>
@@ -86,6 +76,16 @@
 										오전 11:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211125_143/16378093369365kzRc_JPEG/upload_540788999253838038f339805-9944-4759-a89d-5094dc589f86.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OH MY GIRL ONLINE FANMEETING [Miracle Winter]]]></title>
+            <link>https://m.vlive.tv/video/270188</link>
+            <guid>https://m.vlive.tv/video/270188</guid>
+            <pubDate>Wed, 01 Dec 2021 10:34:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 12:00</span>
+										<span class="txt">OH MY GIRL</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211126_111/16378905102966XXoG_JPEG/upload_54160117360127288f2ae695f-08a4-4368-9698-570b5fcc5c60.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
