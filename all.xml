@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 03:34:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 04:44:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[hi minimonster (V LIVE ─ NEW)]]></title>
+            <link>https://www.vlive.tv/video/270601</link>
+            <guid>https://www.vlive.tv/video/270601</guid>
+            <pubDate>Wed, 01 Dec 2021 02:45:13 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211201_185/1638326093706PK8bk_JPEG/upload_54595663741975273599e7566-2918-4f45-bf35-a2e007f8a73c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio/K-Poppin'] Musical Actor Yoo Nak Won 뮤지컬배우 유낙원 (V LIVE ─ NEW)]]></title>
+            <link>https://www.vlive.tv/video/270521</link>
+            <guid>https://www.vlive.tv/video/270521</guid>
+            <pubDate>Wed, 01 Dec 2021 01:33:58 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211130_60/1638249843316BL8Nx_JPEG/upload_82329454006510170cc91702e-f304-4240-9986-4c721aa83ec4.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Cine Factory] Special Interview with Actor Park Myeong Hoon 박명훈 (V LIVE ─ NEW)]]></title>
             <link>https://www.vlive.tv/video/270095</link>
@@ -38,14 +54,6 @@
             <pubDate>Wed, 01 Dec 2021 01:33:58 GMT</pubDate>
             <content:encoded><![CDATA[atstar1]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211130_25/1638256678935xawhC_JPEG/upload_8233639699788586810e83cce-efd0-4406-9717-5e0294a3e8cc.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[hi minimonster (V LIVE ─ NEW)]]></title>
-            <link>https://www.vlive.tv/video/270601</link>
-            <guid>https://www.vlive.tv/video/270601</guid>
-            <pubDate>Wed, 01 Dec 2021 02:45:13 GMT</pubDate>
-            <content:encoded><![CDATA[sema]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211201_185/1638326093706PK8bk_JPEG/upload_54595663741975273599e7566-2918-4f45-bf35-a2e007f8a73c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이승윤:LEE SEUNG YOON] '라디오 마치고 퇴근합니다' (V LIVE ─ NEW)]]></title>
@@ -400,12 +408,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20211130_166/1638264333392LaTYc_JPEG/1638261501600.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ONEWE(원위) '별 (STAR)' LIVE CLIP ACOUSTIC ver. (V LIVE ─ NEW)]]></title>
-            <link>https://www.vlive.tv/video/270536</link>
-            <guid>https://www.vlive.tv/video/270536</guid>
-            <pubDate>Tue, 30 Nov 2021 11:23:04 GMT</pubDate>
-            <content:encoded><![CDATA[ONEWE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211130_65/1638258761718si0k0_JPEG/1638258573508.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <title><![CDATA[hi minimonster (V LIVE ─ 홈 ─ NEW)]]></title>
+            <link>https://www.vlive.tv/video/270601</link>
+            <guid>https://www.vlive.tv/video/270601</guid>
+            <pubDate>Wed, 01 Dec 2021 02:45:13 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211201_185/1638326093706PK8bk_JPEG/upload_54595663741975273599e7566-2918-4f45-bf35-a2e007f8a73c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio/K-Poppin'] Musical Actor Yoo Nak Won 뮤지컬배우 유낙원 (V LIVE ─ 홈 ─ NEW)]]></title>
+            <link>https://www.vlive.tv/video/270521</link>
+            <guid>https://www.vlive.tv/video/270521</guid>
+            <pubDate>Wed, 01 Dec 2021 01:33:58 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211130_60/1638249843316BL8Nx_JPEG/upload_82329454006510170cc91702e-f304-4240-9986-4c721aa83ec4.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Cine Factory] Special Interview with Actor Park Myeong Hoon 박명훈 (V LIVE ─ 홈 ─ NEW)]]></title>
@@ -419,7 +435,7 @@
             <title><![CDATA[이영훈 (Lee Young Hoon) - 잘 지내나요 [Lyric Video] (V LIVE ─ 홈 ─ NEW)]]></title>
             <link>https://www.vlive.tv/video/270603</link>
             <guid>https://www.vlive.tv/video/270603</guid>
-            <pubDate>Wed, 01 Dec 2021 03:31:56 GMT</pubDate>
+            <pubDate>Wed, 01 Dec 2021 03:31:45 GMT</pubDate>
             <content:encoded><![CDATA[MAGIC STRAWBERRY SOUND]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211201_16/1638328681316IufDa_PNG/1638258973582.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
@@ -427,7 +443,7 @@
             <title><![CDATA[SF9 ‘Trauma’ MUSIC VIDEO MAKING FILM (V LIVE ─ 홈 ─ NEW)]]></title>
             <link>https://www.vlive.tv/video/270572</link>
             <guid>https://www.vlive.tv/video/270572</guid>
-            <pubDate>Wed, 01 Dec 2021 03:31:56 GMT</pubDate>
+            <pubDate>Wed, 01 Dec 2021 03:31:45 GMT</pubDate>
             <content:encoded><![CDATA[SF9]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211130_273/1638273309343GogNF_JPEG/1638243580975.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
@@ -438,14 +454,6 @@
             <pubDate>Wed, 01 Dec 2021 01:33:58 GMT</pubDate>
             <content:encoded><![CDATA[atstar1]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211130_25/1638256678935xawhC_JPEG/upload_8233639699788586810e83cce-efd0-4406-9717-5e0294a3e8cc.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[hi minimonster (V LIVE ─ 홈 ─ NEW)]]></title>
-            <link>https://www.vlive.tv/video/270601</link>
-            <guid>https://www.vlive.tv/video/270601</guid>
-            <pubDate>Wed, 01 Dec 2021 02:45:13 GMT</pubDate>
-            <content:encoded><![CDATA[sema]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211201_185/1638326093706PK8bk_JPEG/upload_54595663741975273599e7566-2918-4f45-bf35-a2e007f8a73c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이승윤:LEE SEUNG YOON] '라디오 마치고 퇴근합니다' (V LIVE ─ 홈 ─ NEW)]]></title>
@@ -520,14 +528,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20211201_280/1638284673668usvVN_JPEG/1511602726637817469666fc43-c3e7-47bc-9cb2-8afe364a0811.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[1주년!!! (V LIVE ─ 홈 ─ NEW)]]></title>
-            <link>https://www.vlive.tv/video/270587</link>
-            <guid>https://www.vlive.tv/video/270587</guid>
-            <pubDate>Tue, 30 Nov 2021 14:28:07 GMT</pubDate>
-            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211201_121/1638295345651I3a3G_JPEG/upload_823750600327040403551c641-7918-406f-ad53-d811d1414444.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[1주년!!! (V LIVE ─ 홈 ─ CHARTS TOP3)]]></title>
             <link>https://www.vlive.tv/video/270587</link>
             <guid>https://www.vlive.tv/video/270587</guid>
@@ -584,7 +584,7 @@
             <enclosure url="https://v-phinf.pstatic.net/20211130_71/1638262848507xIUK8_JPEG/1638262069419.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[1주년!!! (V LIVE ─ CHARTS)]]></title>
+            <title><![CDATA[One Year!!! (V LIVE ─ CHARTS)]]></title>
             <link>https://www.vlive.tv/video/270587</link>
             <guid>https://www.vlive.tv/video/270587</guid>
             <pubDate>Tue, 30 Nov 2021 14:28:07 GMT</pubDate>
@@ -592,7 +592,7 @@
             <enclosure url="https://v-phinf.pstatic.net/20211201_121/1638295345651I3a3G_JPEG/upload_823750600327040403551c641-7918-406f-ad53-d811d1414444.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2회차 끝 (V LIVE ─ CHARTS)]]></title>
+            <title><![CDATA[2nd one down (V LIVE ─ CHARTS)]]></title>
             <link>https://www.vlive.tv/video/270438</link>
             <guid>https://www.vlive.tv/video/270438</guid>
             <pubDate>Mon, 29 Nov 2021 08:36:00 GMT</pubDate>
@@ -600,7 +600,7 @@
             <enclosure url="https://v-phinf.pstatic.net/20211129_163/1638171675783GwzIF_JPEG/upload_544412740695940345cc29300-e5e3-409c-9090-cd9bfa2d1ba8.jpeg?type=f380_213_wp" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[아미 만나서 신난 태형이 왔다! (V LIVE ─ CHARTS)]]></title>
+            <title><![CDATA[Taehyung, excited after meeting ARMY, is here! (V LIVE ─ CHARTS)]]></title>
             <link>https://www.vlive.tv/video/270372</link>
             <guid>https://www.vlive.tv/video/270372</guid>
             <pubDate>Sun, 28 Nov 2021 08:33:49 GMT</pubDate>
@@ -608,7 +608,7 @@
             <enclosure url="https://v-phinf.pstatic.net/20211129_132/1638123609852nV9FK_JPEG/upload_82203331832974266437896c6-e00d-4b7f-9ad5-e39bc971fed2.jpeg?type=f380_213_wp" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[2부입니다 (V LIVE ─ CHARTS)]]></title>
+            <title><![CDATA[It's Part 2 (V LIVE ─ CHARTS)]]></title>
             <link>https://www.vlive.tv/video/270374</link>
             <guid>https://www.vlive.tv/video/270374</guid>
             <pubDate>Sun, 28 Nov 2021 08:33:49 GMT</pubDate>
@@ -616,7 +616,7 @@
             <enclosure url="https://v-phinf.pstatic.net/20211129_184/16381215095059VPqB_JPEG/upload_822012408061328164374d859-caed-4d86-8a09-7073e62058f0.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[호잇 (V LIVE ─ CHARTS)]]></title>
+            <title><![CDATA[Come on (V LIVE ─ CHARTS)]]></title>
             <link>https://www.vlive.tv/video/270373</link>
             <guid>https://www.vlive.tv/video/270373</guid>
             <pubDate>Sun, 28 Nov 2021 08:33:49 GMT</pubDate>
@@ -624,7 +624,7 @@
             <enclosure url="https://v-phinf.pstatic.net/20211128_68/16380929140376Ut3l_JPEG/upload_8217264490022905279a0484e-ea05-4ff7-b0da-c669af100f6d.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Stray Kids(스트레이 키즈) "Winter Falls" M/V (V LIVE ─ CHARTS)]]></title>
+            <title><![CDATA[Stray Kids "Winter Falls" M/V (V LIVE ─ CHARTS)]]></title>
             <link>https://www.vlive.tv/video/270522</link>
             <guid>https://www.vlive.tv/video/270522</guid>
             <pubDate>Tue, 30 Nov 2021 09:26:47 GMT</pubDate>
@@ -632,7 +632,7 @@
             <enclosure url="https://v-phinf.pstatic.net/20211130_51/1638250422491fjBmJ_JPEG/1638246141508.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[KAI 카이 'Peaches' MV (V LIVE ─ CHARTS)]]></title>
+            <title><![CDATA[KAI 'Peaches' MV (V LIVE ─ CHARTS)]]></title>
             <link>https://www.vlive.tv/video/270547</link>
             <guid>https://www.vlive.tv/video/270547</guid>
             <pubDate>Tue, 30 Nov 2021 09:26:47 GMT</pubDate>
@@ -667,7 +667,7 @@
             <title><![CDATA[Charting4 2부입니다 (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Wed, 01 Dec 2021 03:32:47 GMT</pubDate>
+            <pubDate>Wed, 01 Dec 2021 04:43:13 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211129_184/16381215095059VPqB_JPEG/upload_822012408061328164374d859-caed-4d86-8a09-7073e62058f0.jpeg?type=f256_144_wp" length="0" type="image/jpeg"/>
         </item>
@@ -675,7 +675,7 @@
             <title><![CDATA[Charting5 호잇 (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Wed, 01 Dec 2021 03:32:47 GMT</pubDate>
+            <pubDate>Wed, 01 Dec 2021 04:43:13 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211128_68/16380929140376Ut3l_JPEG/upload_8217264490022905279a0484e-ea05-4ff7-b0da-c669af100f6d.jpeg?type=f256_144_wp" length="0" type="image/jpeg"/>
         </item>
@@ -683,7 +683,7 @@
             <title><![CDATA[Charting6 Stray Kids(스트레이 키즈) "Winter Falls" M/V (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Wed, 01 Dec 2021 03:32:47 GMT</pubDate>
+            <pubDate>Wed, 01 Dec 2021 04:43:13 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211130_51/1638250422491fjBmJ_JPEG/1638246141508.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
@@ -691,47 +691,47 @@
             <title><![CDATA[Charting7 KAI 카이 'Peaches' MV (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Wed, 01 Dec 2021 03:32:47 GMT</pubDate>
+            <pubDate>Wed, 01 Dec 2021 04:43:13 GMT</pubDate>
             <content:encoded><![CDATA[EXO]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211130_71/1638262848507xIUK8_JPEG/1638262069419.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Charting8 지민씨 등장 (V LIVE 모바일 ─ CHARTS)]]></title>
+            <title><![CDATA[Charting8 Belllie've you, 안녕하세요 빌리입니다💙💜 (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Wed, 01 Dec 2021 03:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211013_144/1634122553955eHKox_JPEG/upload_78202275760730696931ec09d-bfa2-4361-8b27-5b66010714b3.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Charting9 Belllie've you, 안녕하세요 빌리입니다💙💜 (V LIVE 모바일 ─ CHARTS)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Wed, 01 Dec 2021 03:32:47 GMT</pubDate>
+            <pubDate>Wed, 01 Dec 2021 04:43:13 GMT</pubDate>
             <content:encoded><![CDATA[Billlie 빌리]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211130_46/1638245755580Qk8Es_JPEG/upload_82323994370506010f794746c-805c-4cac-bc5b-2bc5e377090b.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Charting10 focus on... (V LIVE 모바일 ─ CHARTS)]]></title>
+            <title><![CDATA[Charting9 지민씨 등장 (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Wed, 01 Dec 2021 03:32:47 GMT</pubDate>
+            <pubDate>Wed, 01 Dec 2021 04:43:13 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211122_1/1637564661876S46eo_JPEG/034adf18-4b5e-11ec-92ae-a0369ff952f4_01.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20211013_144/1634122553955eHKox_JPEG/upload_78202275760730696931ec09d-bfa2-4361-8b27-5b66010714b3.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Charting11 겨울면❄☃️🧤🌨🤍 (V LIVE 모바일 ─ CHARTS)]]></title>
+            <title><![CDATA[Charting10 겨울면❄☃️🧤🌨🤍 (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Wed, 01 Dec 2021 03:32:47 GMT</pubDate>
+            <pubDate>Wed, 01 Dec 2021 04:43:13 GMT</pubDate>
             <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211201_285/1638322093970nObWm_JPEG/7e2e9cb3-51e4-11ec-8636-505dac8c3639_01.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Charting11 focus on... (V LIVE 모바일 ─ CHARTS)]]></title>
+            <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
+            <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
+            <pubDate>Wed, 01 Dec 2021 04:43:13 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211122_1/1637564661876S46eo_JPEG/034adf18-4b5e-11ec-92ae-a0369ff952f4_01.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Charting12 P1Harmony와 함께하는 보면 기부되는 V LIVE <기호 테오 인탁 편> (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Wed, 01 Dec 2021 03:32:47 GMT</pubDate>
+            <pubDate>Wed, 01 Dec 2021 04:43:13 GMT</pubDate>
             <content:encoded><![CDATA[FNC]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211126_184/1637898272845HSIDM_JPEG/upload_54167644196276939c7510982-713f-4558-a3c6-eb3415d986dc.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
@@ -739,7 +739,7 @@
             <title><![CDATA[Charting13 . (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Wed, 01 Dec 2021 03:32:47 GMT</pubDate>
+            <pubDate>Wed, 01 Dec 2021 04:43:13 GMT</pubDate>
             <content:encoded><![CDATA[SF9]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211130_159/1638282816058koQvX_JPEG/140f0b98-51ea-11ec-9b44-a0369ff95678_03.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
@@ -747,31 +747,31 @@
             <title><![CDATA[Charting14 Stray Kids(스트레이 키즈) "Christmas EveL" M/V (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Wed, 01 Dec 2021 03:32:47 GMT</pubDate>
+            <pubDate>Wed, 01 Dec 2021 04:43:13 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211129_94/1638180751565NMA1G_JPEG/upload_54450348584552072e7cfaff8-3581-4935-926c-81a025475683.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Charting15 TO DO X TOMORROW X TOGETHER - EP.60 (V LIVE 모바일 ─ CHARTS)]]></title>
+            <title><![CDATA[Charting15 [LIVE] 형준아 3000만큼 사랑해 (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Wed, 01 Dec 2021 03:32:47 GMT</pubDate>
-            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211119_170/1637293864224nA1aK_JPEG/upload_81373533564699197ebb1b19c-50c3-44b9-b30e-4d25bcd3fb12.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Charting16 [LIVE] 형준아 3000만큼 사랑해 (V LIVE 모바일 ─ CHARTS)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Wed, 01 Dec 2021 03:32:47 GMT</pubDate>
+            <pubDate>Wed, 01 Dec 2021 04:43:13 GMT</pubDate>
             <content:encoded><![CDATA[CRAVITY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211130_40/1638270648207OQ7il_JPEG/55236057-51cd-11ec-9a6e-246e963a49a8_03.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Charting16 TO DO X TOMORROW X TOGETHER - EP.60 (V LIVE 모바일 ─ CHARTS)]]></title>
+            <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
+            <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
+            <pubDate>Wed, 01 Dec 2021 04:43:13 GMT</pubDate>
+            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211119_170/1637293864224nA1aK_JPEG/upload_81373533564699197ebb1b19c-50c3-44b9-b30e-4d25bcd3fb12.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Charting17 TWICE MINA x Allure Behind the Scenes (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Wed, 01 Dec 2021 03:32:47 GMT</pubDate>
+            <pubDate>Wed, 01 Dec 2021 04:43:13 GMT</pubDate>
             <content:encoded><![CDATA[TWICE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211130_99/1638262853451cfQRb_PNG/1638255885286.png?type=f256_144_wp" length="0" type="image/png"/>
         </item>
@@ -779,7 +779,7 @@
             <title><![CDATA[Charting18 ☂️ (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Wed, 01 Dec 2021 03:32:47 GMT</pubDate>
+            <pubDate>Wed, 01 Dec 2021 04:43:13 GMT</pubDate>
             <content:encoded><![CDATA[AB6IX]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211130_18/1638257746663EH3Ld_JPEG/24c2ad20-51ae-11ec-9ac7-505dac8c381b_03.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
@@ -787,7 +787,7 @@
             <title><![CDATA[Charting19 드디어디여깄네판타지마할🍧 (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Wed, 01 Dec 2021 03:32:47 GMT</pubDate>
+            <pubDate>Wed, 01 Dec 2021 04:43:13 GMT</pubDate>
             <content:encoded><![CDATA[SF9]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211130_279/1638279008779pKizm_JPEG/68a5f1fc-51e1-11ec-8e54-505dac8c37f3_03.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
@@ -795,7 +795,7 @@
             <title><![CDATA[Charting20 배배 (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Wed, 01 Dec 2021 03:32:47 GMT</pubDate>
+            <pubDate>Wed, 01 Dec 2021 04:43:13 GMT</pubDate>
             <content:encoded><![CDATA[CIX]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211130_192/16382770814158vFkl_JPEG/86cd9e44-51dc-11ec-a713-a0369ff95ec0_03.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
@@ -864,14 +864,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20211201_218/1638325393495NfPGO_JPEG/1638325285379.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[hi minimonster (V LIVE ─ 일정표)]]></title>
-            <link>https://www.vlive.tv/video/270601</link>
-            <guid>https://www.vlive.tv/video/270601</guid>
-            <pubDate>Wed, 01 Dec 2021 02:45:13 GMT</pubDate>
-            <content:encoded><![CDATA[오전 2:35]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211201_185/1638326093706PK8bk_JPEG/upload_54595663741975273599e7566-2918-4f45-bf35-a2e007f8a73c.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[📢 오늘부터 #기현(KIHYUN) 영어 이름은 조지부시로 하자. 내 마음을 조지고💖 부시니까❤️‍🩹 (V LIVE ─ 일정표)]]></title>
             <link>https://www.vlive.tv/video/270530</link>
             <guid>https://www.vlive.tv/video/270530</guid>
@@ -883,7 +875,7 @@
             <title><![CDATA[SF9 ‘Trauma’ MUSIC VIDEO MAKING FILM (V LIVE ─ 일정표)]]></title>
             <link>https://www.vlive.tv/video/270572</link>
             <guid>https://www.vlive.tv/video/270572</guid>
-            <pubDate>Wed, 01 Dec 2021 03:32:54 GMT</pubDate>
+            <pubDate>Wed, 01 Dec 2021 03:31:45 GMT</pubDate>
             <content:encoded><![CDATA[오전 3:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211130_273/1638273309343GogNF_JPEG/1638243580975.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
@@ -891,7 +883,7 @@
             <title><![CDATA[이영훈 (Lee Young Hoon) - 잘 지내나요 [Lyric Video] (V LIVE ─ 일정표)]]></title>
             <link>https://www.vlive.tv/video/270603</link>
             <guid>https://www.vlive.tv/video/270603</guid>
-            <pubDate>Wed, 01 Dec 2021 03:32:54 GMT</pubDate>
+            <pubDate>Wed, 01 Dec 2021 03:31:45 GMT</pubDate>
             <content:encoded><![CDATA[오전 3:18]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211201_16/1638328681316IufDa_PNG/1638258973582.png?type=f228_128" length="0" type="image/png"/>
         </item>
@@ -908,8 +900,16 @@
             <link>https://www.vlive.tv/video/270521</link>
             <guid>https://www.vlive.tv/video/270521</guid>
             <pubDate>Wed, 01 Dec 2021 01:33:58 GMT</pubDate>
-            <content:encoded><![CDATA[오전 4:00]]></content:encoded>
+            <content:encoded><![CDATA[오전 3:51]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211130_60/1638249843316BL8Nx_JPEG/upload_82329454006510170cc91702e-f304-4240-9986-4c721aa83ec4.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[hi minimonster (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/270601</link>
+            <guid>https://www.vlive.tv/video/270601</guid>
+            <pubDate>Wed, 01 Dec 2021 02:45:13 GMT</pubDate>
+            <content:encoded><![CDATA[오전 4:09]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211201_185/1638326093706PK8bk_JPEG/upload_54595663741975273599e7566-2918-4f45-bf35-a2e007f8a73c.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio/Music Access] MA MVP with DANN of KINGDOM 킹덤 단 (V LIVE ─ 일정표)]]></title>
@@ -950,16 +950,6 @@
             <pubDate>Wed, 01 Dec 2021 01:33:58 GMT</pubDate>
             <content:encoded><![CDATA[오후 2:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211130_244/1638281427068cNvb9_PNG/1638279221537.png?type=f228_128" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio/K-Poppin'] Musical Actor Yoo Nak Won 뮤지컬배우 유낙원 (V LIVE 모바일 ─ 일정표)]]></title>
-            <link>https://m.vlive.tv/video/270521</link>
-            <guid>https://m.vlive.tv/video/270521</guid>
-            <pubDate>Tue, 30 Nov 2021 06:31:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 4:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211130_60/1638249843316BL8Nx_JPEG/upload_82329454006510170cc91702e-f304-4240-9986-4c721aa83ec4.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio/Music Access] MA MVP with DANN of KINGDOM 킹덤 단 (V LIVE 모바일 ─ 일정표)]]></title>
@@ -1030,6 +1020,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211125_262/1637816607359rOpuG_JPEG/upload_540862107260398074dae0f63-3607-41a9-89af-e6bd9f383b56.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다원이의 생일파티에 여러분들 초대합니다!! (V LIVE 모바일 ─ 일정표)]]></title>
+            <link>https://m.vlive.tv/video/270546</link>
+            <guid>https://m.vlive.tv/video/270546</guid>
+            <pubDate>Wed, 01 Dec 2021 04:43:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 9:00</span>
+										<span class="txt">ARIAZ</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211130_197/16382628201191hODE_PNG/upload_545323914896509186a7ce906-fdc1-4ae2-9693-d45e8ae18cf5.png?type=f274_154" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Beyond LIVE - SUPER JUNIOR 15th Anniversary Special Event – 초대(Invitation)​ (V LIVE ─ 이벤트)]]></title>

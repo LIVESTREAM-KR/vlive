@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 03:34:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 04:44:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio/K-Poppin'] Musical Actor Yoo Nak Won 뮤지컬배우 유낙원]]></title>
-            <link>https://m.vlive.tv/video/270521</link>
-            <guid>https://m.vlive.tv/video/270521</guid>
-            <pubDate>Tue, 30 Nov 2021 06:31:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 4:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211130_60/1638249843316BL8Nx_JPEG/upload_82329454006510170cc91702e-f304-4240-9986-4c721aa83ec4.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio/Music Access] MA MVP with DANN of KINGDOM 킹덤 단]]></title>
             <link>https://m.vlive.tv/video/270088</link>
@@ -86,6 +76,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211125_262/1637816607359rOpuG_JPEG/upload_540862107260398074dae0f63-3607-41a9-89af-e6bd9f383b56.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다원이의 생일파티에 여러분들 초대합니다!!]]></title>
+            <link>https://m.vlive.tv/video/270546</link>
+            <guid>https://m.vlive.tv/video/270546</guid>
+            <pubDate>Wed, 01 Dec 2021 04:43:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 9:00</span>
+										<span class="txt">ARIAZ</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211130_197/16382628201191hODE_PNG/upload_545323914896509186a7ce906-fdc1-4ae2-9693-d45e8ae18cf5.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

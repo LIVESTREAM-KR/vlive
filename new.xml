@@ -4,9 +4,25 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 03:34:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 04:44:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[hi minimonster]]></title>
+            <link>https://www.vlive.tv/video/270601</link>
+            <guid>https://www.vlive.tv/video/270601</guid>
+            <pubDate>Wed, 01 Dec 2021 02:45:13 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211201_185/1638326093706PK8bk_JPEG/upload_54595663741975273599e7566-2918-4f45-bf35-a2e007f8a73c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio/K-Poppin'] Musical Actor Yoo Nak Won 뮤지컬배우 유낙원]]></title>
+            <link>https://www.vlive.tv/video/270521</link>
+            <guid>https://www.vlive.tv/video/270521</guid>
+            <pubDate>Wed, 01 Dec 2021 04:42:20 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211130_60/1638249843316BL8Nx_JPEG/upload_82329454006510170cc91702e-f304-4240-9986-4c721aa83ec4.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Cine Factory] Special Interview with Actor Park Myeong Hoon 박명훈]]></title>
             <link>https://www.vlive.tv/video/270095</link>
@@ -38,14 +54,6 @@
             <pubDate>Wed, 01 Dec 2021 03:31:45 GMT</pubDate>
             <content:encoded><![CDATA[atstar1]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211130_25/1638256678935xawhC_JPEG/upload_8233639699788586810e83cce-efd0-4406-9717-5e0294a3e8cc.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[hi minimonster]]></title>
-            <link>https://www.vlive.tv/video/270601</link>
-            <guid>https://www.vlive.tv/video/270601</guid>
-            <pubDate>Wed, 01 Dec 2021 02:45:13 GMT</pubDate>
-            <content:encoded><![CDATA[sema]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211201_185/1638326093706PK8bk_JPEG/upload_54595663741975273599e7566-2918-4f45-bf35-a2e007f8a73c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이승윤:LEE SEUNG YOON] '라디오 마치고 퇴근합니다']]></title>
@@ -398,14 +406,6 @@
             <pubDate>Tue, 30 Nov 2021 11:23:04 GMT</pubDate>
             <content:encoded><![CDATA[Weki Meki]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211130_166/1638264333392LaTYc_JPEG/1638261501600.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ONEWE(원위) '별 (STAR)' LIVE CLIP ACOUSTIC ver.]]></title>
-            <link>https://www.vlive.tv/video/270536</link>
-            <guid>https://www.vlive.tv/video/270536</guid>
-            <pubDate>Tue, 30 Nov 2021 11:23:04 GMT</pubDate>
-            <content:encoded><![CDATA[ONEWE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211130_65/1638258761718si0k0_JPEG/1638258573508.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
