@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 06:39:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 07:29:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Super K-Pop / NIve 니브)]]></title>
-            <link>https://m.vlive.tv/video/270155</link>
-            <guid>https://m.vlive.tv/video/270155</guid>
-            <pubDate>Tue, 30 Nov 2021 08:31:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211125_171/1637838381108YcjKk_JPEG/upload_8191802110224384828b6a592-430e-4541-8f9f-29cfe08bea46.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[EVERGLOW 3RD MINI ALBUM [RETURN OF THE GIRL] SHOWCASE]]></title>
             <link>https://m.vlive.tv/video/270187</link>
@@ -76,6 +66,16 @@
 										오전 9:00</span>
 										<span class="txt">ARIAZ</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211130_197/16382628201191hODE_PNG/upload_545323914896509186a7ce906-fdc1-4ae2-9693-d45e8ae18cf5.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 서울국제공연예술제 <오버더떼창 : 문전본풀이> 녹화중계]]></title>
+            <link>https://m.vlive.tv/video/269305</link>
+            <guid>https://m.vlive.tv/video/269305</guid>
+            <pubDate>Wed, 01 Dec 2021 07:28:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">V CLASSIC</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211117_141/1637123595315fz5yt_JPEG/upload_812033307164144383f531745-c77a-4914-97fe-c8a22e5642c6.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
