@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 10:36:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 11:30:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,16 @@
 										오후 12:00</span>
 										<span class="txt">OH MY GIRL</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211126_111/16378905102966XXoG_JPEG/upload_54160117360127288f2ae695f-08a4-4368-9698-570b5fcc5c60.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Chung]]></title>
+            <link>https://m.vlive.tv/video/270099</link>
+            <guid>https://m.vlive.tv/video/270099</guid>
+            <pubDate>Wed, 01 Dec 2021 11:28:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211125_241/16378171446516gNJ7_JPEG/upload_818968461745705008885a188-30ac-4f53-8df2-291b131144e8.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
