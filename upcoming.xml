@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 15:37:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 16:53:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -656,14 +656,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20211201_38/1638366822563Ef2VP_JPEG/a85f72b1-52ad-11ec-9d5b-a0369ff94f34_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[Radio Hama] 심야 라디오 불면증 치료해드려요💙]]></title>
-            <link>https://www.vlive.tv/video/270685</link>
-            <guid>https://www.vlive.tv/video/270685</guid>
-            <pubDate>Wed, 01 Dec 2021 14:29:47 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:59]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211201_100/1638367176992BMp9J_JPEG/151155577554780362d1b018cb-fc4b-4fa7-a6a8-fc9af86c3f80.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[제 배좀 보세요😀 임산부 필독! 튼살 생긴 사람 필독! 튼살크림 3종 리뷰 Stretchymarks cream]]></title>
             <link>https://www.vlive.tv/video/270585</link>
             <guid>https://www.vlive.tv/video/270585</guid>
@@ -784,20 +776,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20211202_259/1638371501981lIT0k_JPEG/b997191f-52b8-11ec-a713-a0369ff95ec0_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[목소리만]]></title>
-            <link>https://www.vlive.tv/video/270693</link>
-            <guid>https://www.vlive.tv/video/270693</guid>
-            <pubDate>Wed, 01 Dec 2021 15:35:35 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:24]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/270693/thumb?type=f228_128" length="0" type="image//live/270693/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[적당히 해라]]></title>
             <link>https://www.vlive.tv/video/270692</link>
             <guid>https://www.vlive.tv/video/270692</guid>
             <pubDate>Wed, 01 Dec 2021 15:35:35 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:31]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211202_267/1638372686305HDLNw_JPEG/57b69c08-52bb-11ec-9524-505dacfbaa5c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Radio Hama] 심야 라디오 불면증 치료해드려요💙]]></title>
+            <link>https://www.vlive.tv/video/270685</link>
+            <guid>https://www.vlive.tv/video/270685</guid>
+            <pubDate>Wed, 01 Dec 2021 14:29:47 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:37]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211201_100/1638367176992BMp9J_JPEG/151155577554780362d1b018cb-fc4b-4fa7-a6a8-fc9af86c3f80.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
