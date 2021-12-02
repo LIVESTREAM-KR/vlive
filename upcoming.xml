@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 05:31:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 06:39:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,12 +160,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20211201_229/16383382206151qwnr_JPEG/upload_81896157277324744b3e53183-8a26-4dd7-a7d9-795b6bf6cb22.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예고] 연극 <줄리엣과 줄리엣> 녹화중계]]></title>
+            <link>https://www.vlive.tv/video/270735</link>
+            <guid>https://www.vlive.tv/video/270735</guid>
+            <pubDate>Thu, 02 Dec 2021 06:37:50 GMT</pubDate>
+            <content:encoded><![CDATA[오전 6:02]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211202_79/16384249628162XwUe_JPEG/e4a81ca6-5334-11ec-a74c-48df379ccacc_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[정말 잠깐 브이앱]]></title>
             <link>https://www.vlive.tv/video/270730</link>
             <guid>https://www.vlive.tv/video/270730</guid>
             <pubDate>Thu, 02 Dec 2021 05:29:41 GMT</pubDate>
-            <content:encoded><![CDATA[오전 5:25]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/270730/thumb?type=f228_128" length="0" type="image//live/270730/thumb"/>
+            <content:encoded><![CDATA[오전 6:07]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211202_3/1638425252954u9bjk_JPEG/77d591f5-5335-11ec-a74c-48df379ccacc_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오우]]></title>
+            <link>https://www.vlive.tv/video/270736</link>
+            <guid>https://www.vlive.tv/video/270736</guid>
+            <pubDate>Thu, 02 Dec 2021 06:37:50 GMT</pubDate>
+            <content:encoded><![CDATA[오전 6:20]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/270736/thumb?type=f228_128" length="0" type="image//live/270736/thumb"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio / Super K-Pop] Club House]]></title>

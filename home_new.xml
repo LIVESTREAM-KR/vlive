@@ -4,16 +4,32 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 05:31:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 06:39:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오우]]></title>
+            <link>https://www.vlive.tv/video/270736</link>
+            <guid>https://www.vlive.tv/video/270736</guid>
+            <pubDate>Thu, 02 Dec 2021 06:37:01 GMT</pubDate>
+            <content:encoded><![CDATA[N.O.M]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/270736/thumb?type=f228_128" length="0" type="image//live/270736/thumb"/>
+        </item>
         <item>
             <title><![CDATA[정말 잠깐 브이앱]]></title>
             <link>https://www.vlive.tv/video/270730</link>
             <guid>https://www.vlive.tv/video/270730</guid>
             <pubDate>Thu, 02 Dec 2021 05:28:42 GMT</pubDate>
             <content:encoded><![CDATA[VERIVERY]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/270730/thumb?type=f228_128" length="0" type="image//live/270730/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20211202_3/1638425252954u9bjk_JPEG/77d591f5-5335-11ec-a74c-48df379ccacc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예고] 연극 <줄리엣과 줄리엣> 녹화중계]]></title>
+            <link>https://www.vlive.tv/video/270735</link>
+            <guid>https://www.vlive.tv/video/270735</guid>
+            <pubDate>Thu, 02 Dec 2021 06:37:01 GMT</pubDate>
+            <content:encoded><![CDATA[V MUSICAL]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211202_79/16384249628162XwUe_JPEG/e4a81ca6-5334-11ec-a74c-48df379ccacc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio / Music Access] TMB(Text Me Back) with FATOU 파투]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 02 Dec 2021 03:31:37 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211202_207/1638414820923R7PNw_JPEG/89ef5361-525a-11ec-a74c-48df379ccacc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EVERGLOW - 'Pirate' 응원법 (Cheering Guide)]]></title>
-            <link>https://www.vlive.tv/video/270513</link>
-            <guid>https://www.vlive.tv/video/270513</guid>
-            <pubDate>Thu, 02 Dec 2021 03:31:38 GMT</pubDate>
-            <content:encoded><![CDATA[EVERGLOW (에버글로우)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211130_270/1638240797532cARQJ_JPEG/upload_82320432470166186fac0975a-c1ba-4bb1-b580-fce9db1dfce9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
-            <link>https://www.vlive.tv/video/270096</link>
-            <guid>https://www.vlive.tv/video/270096</guid>
-            <pubDate>Thu, 02 Dec 2021 02:43:22 GMT</pubDate>
-            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211125_27/1637817011365duec8_JPEG/upload_818967140347340667e26ee96-7a93-4cb7-934d-3b9702b2ee67.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

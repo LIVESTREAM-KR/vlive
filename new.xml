@@ -4,15 +4,31 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 05:31:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 06:39:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오우]]></title>
+            <link>https://www.vlive.tv/video/270736</link>
+            <guid>https://www.vlive.tv/video/270736</guid>
+            <pubDate>Thu, 02 Dec 2021 06:36:51 GMT</pubDate>
+            <content:encoded><![CDATA[N.O.M]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[정말 잠깐 브이앱]]></title>
             <link>https://www.vlive.tv/video/270730</link>
             <guid>https://www.vlive.tv/video/270730</guid>
             <pubDate>Thu, 02 Dec 2021 05:28:31 GMT</pubDate>
             <content:encoded><![CDATA[VERIVERY]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211202_3/1638425252954u9bjk_JPEG/77d591f5-5335-11ec-a74c-48df379ccacc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예고] 연극 <줄리엣과 줄리엣> 녹화중계]]></title>
+            <link>https://www.vlive.tv/video/270735</link>
+            <guid>https://www.vlive.tv/video/270735</guid>
+            <pubDate>Thu, 02 Dec 2021 06:36:51 GMT</pubDate>
+            <content:encoded><![CDATA[V MUSICAL]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211202_79/16384249628162XwUe_JPEG/e4a81ca6-5334-11ec-a74c-48df379ccacc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio / Music Access] TMB(Text Me Back) with FATOU 파투]]></title>
@@ -389,22 +405,6 @@
             <pubDate>Wed, 01 Dec 2021 12:49:04 GMT</pubDate>
             <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211201_181/1638357875523nkSr5_JPEG/upload_54627477983092641174832ba-5ce1-4445-abc1-be8256de377b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안뇽🥶]]></title>
-            <link>https://www.vlive.tv/video/270658</link>
-            <guid>https://www.vlive.tv/video/270658</guid>
-            <pubDate>Wed, 01 Dec 2021 12:49:04 GMT</pubDate>
-            <content:encoded><![CDATA[HOT ISSUE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211201_108/1638359764627gJUAs_JPEG/0d9a98af-5296-11ec-9a33-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[12월♡]]></title>
-            <link>https://www.vlive.tv/video/270666</link>
-            <guid>https://www.vlive.tv/video/270666</guid>
-            <pubDate>Wed, 01 Dec 2021 12:49:04 GMT</pubDate>
-            <content:encoded><![CDATA[핑크판타지 / PINKFANTASY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211201_182/16383561546227Jnvw_JPEG/3733152123661602232d2cfbb-9b7f-462e-9cd6-8bea73060ad9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
