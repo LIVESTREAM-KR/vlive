@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 17:40:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 18:38:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -790,6 +790,22 @@
             <pubDate>Thu, 02 Dec 2021 14:29:17 GMT</pubDate>
             <content:encoded><![CDATA[오후 5:20]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211202_204/1638454401320uBKKB_JPEG/upload_8253410485124685873078d66-3b5c-4f61-9120-41bda593ff62.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[너의 하루를 안아줄게 안아줭]]></title>
+            <link>https://www.vlive.tv/video/270801</link>
+            <guid>https://www.vlive.tv/video/270801</guid>
+            <pubDate>Thu, 02 Dec 2021 18:37:14 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:42]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211202_287/1638451855524YlrNn_JPEG/1513273925058613769930ae16-9f6e-47f4-87a0-0dc3b2d2e2ca.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자기전에 잠깐🥱]]></title>
+            <link>https://www.vlive.tv/video/270820</link>
+            <guid>https://www.vlive.tv/video/270820</guid>
+            <pubDate>Thu, 02 Dec 2021 18:37:14 GMT</pubDate>
+            <content:encoded><![CDATA[오후 6:17]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/270820/thumb?type=f228_128" length="0" type="image//live/270820/thumb"/>
         </item>
     </channel>
 </rss>

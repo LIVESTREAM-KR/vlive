@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 17:40:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 18:38:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자기전에 잠깐🥱]]></title>
+            <link>https://www.vlive.tv/video/270820</link>
+            <guid>https://www.vlive.tv/video/270820</guid>
+            <pubDate>Thu, 02 Dec 2021 18:36:18 GMT</pubDate>
+            <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/270820/thumb?type=f228_128" length="0" type="image//live/270820/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[너의 하루를 안아줄게 안아줭]]></title>
+            <link>https://www.vlive.tv/video/270801</link>
+            <guid>https://www.vlive.tv/video/270801</guid>
+            <pubDate>Thu, 02 Dec 2021 18:36:18 GMT</pubDate>
+            <content:encoded><![CDATA[청공소년 (Bz_Boys)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211202_287/1638451855524YlrNn_JPEG/1513273925058613769930ae16-9f6e-47f4-87a0-0dc3b2d2e2ca.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[hello_~_~]]></title>
             <link>https://www.vlive.tv/video/270807</link>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 02 Dec 2021 15:32:13 GMT</pubDate>
             <content:encoded><![CDATA[ITZY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211202_110/1638456720273xtMOz_PNG/1638455978043.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[MINO - '탕!♡ (TANG!♡)' M/V TEASER]]></title>
-            <link>https://www.vlive.tv/video/270805</link>
-            <guid>https://www.vlive.tv/video/270805</guid>
-            <pubDate>Thu, 02 Dec 2021 15:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[WINNER]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211202_100/1638452779026TwGUi_JPEG/1638452567445.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[문별] 6ix]]></title>
-            <link>https://www.vlive.tv/video/270796</link>
-            <guid>https://www.vlive.tv/video/270796</guid>
-            <pubDate>Thu, 02 Dec 2021 15:32:13 GMT</pubDate>
-            <content:encoded><![CDATA[MAMAMOO]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211202_73/1638450929962d4HQB_JPEG/upload_825276282504870087080ef7a-04bc-4123-8ada-0ca845b13814.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
