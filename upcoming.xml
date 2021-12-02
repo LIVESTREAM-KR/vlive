@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 04:44:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 05:31:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,12 +144,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20211202_112/1638419908225Dg4rv_PNG/1638418275129.png?type=f228_128" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[hi minimonster]]></title>
+            <link>https://www.vlive.tv/video/270698</link>
+            <guid>https://www.vlive.tv/video/270698</guid>
+            <pubDate>Thu, 02 Dec 2021 05:29:41 GMT</pubDate>
+            <content:encoded><![CDATA[오전 4:53]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211202_270/1638411567251vtS3k_JPEG/upload_82491258883491090283eaa9f-bf04-49fa-a5db-619c2d18f4da.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Arirang Radio / Music Access] TMB(Text Me Back) with FATOU 파투]]></title>
             <link>https://www.vlive.tv/video/270087</link>
             <guid>https://www.vlive.tv/video/270087</guid>
             <pubDate>Thu, 02 Dec 2021 01:29:45 GMT</pubDate>
-            <content:encoded><![CDATA[오전 5:00]]></content:encoded>
+            <content:encoded><![CDATA[오전 4:54]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211201_229/16383382206151qwnr_JPEG/upload_81896157277324744b3e53183-8a26-4dd7-a7d9-795b6bf6cb22.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정말 잠깐 브이앱]]></title>
+            <link>https://www.vlive.tv/video/270730</link>
+            <guid>https://www.vlive.tv/video/270730</guid>
+            <pubDate>Thu, 02 Dec 2021 05:29:41 GMT</pubDate>
+            <content:encoded><![CDATA[오전 5:25]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/270730/thumb?type=f228_128" length="0" type="image//live/270730/thumb"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio / Super K-Pop] Club House]]></title>
