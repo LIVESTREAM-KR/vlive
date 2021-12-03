@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 09:33:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 10:39:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,16 @@
 										오전 10:00</span>
 										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211203_179/1638518804842zAp4i_PNG/upload_8259850625429533338e89596-ffd4-44e8-b468-1932d7ab6125.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / seizetheday 시즈더데이)]]></title>
+            <link>https://m.vlive.tv/video/270783</link>
+            <guid>https://m.vlive.tv/video/270783</guid>
+            <pubDate>Fri, 03 Dec 2021 10:38:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211202_263/16384435062615O10X_JPEG/upload_82523186694179087239d0585-1c97-466c-845b-963f12eb9291.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
