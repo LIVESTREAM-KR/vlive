@@ -4,9 +4,19 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 04:44:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 05:30:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘도 무진이랑⌒.⌒ ♡]]></title>
+            <link>https://m.vlive.tv/video/270837</link>
+            <guid>https://m.vlive.tv/video/270837</guid>
+            <pubDate>Fri, 03 Dec 2021 05:29:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 1:00</span>
+										<span class="txt">KINGDOM</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211203_16/16385077422059BF92_JPEG/upload_825874045805210813ac95e5d-bbb8-4d13-ac1f-b4ad56408ad5.jpeg?type=f274_154" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
             <link>https://m.vlive.tv/video/270729</link>
@@ -36,16 +46,6 @@
 										오전 8:00</span>
 										<span class="txt">Xdinary Heroes</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211130_164/1638235827529zoGqt_JPEG/upload_82315562935243760ab5d3a9a-f573-4867-bcdf-0c64586a5f4c.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arirang Radio (Sound K / seizetheday 시즈더데이)]]></title>
-            <link>https://m.vlive.tv/video/270783</link>
-            <guid>https://m.vlive.tv/video/270783</guid>
-            <pubDate>Fri, 03 Dec 2021 02:45:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211202_263/16384435062615O10X_JPEG/upload_82523186694179087239d0585-1c97-466c-845b-963f12eb9291.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
