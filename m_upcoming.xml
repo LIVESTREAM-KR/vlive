@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 01:30:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 02:46:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
-            <link>https://m.vlive.tv/video/270098</link>
-            <guid>https://m.vlive.tv/video/270098</guid>
-            <pubDate>Wed, 01 Dec 2021 14:29:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 2:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211125_264/16378170454074GpIw_JPEG/upload_8189677363272053074a7da16-50c6-477e-a512-28b9a57158b4.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Simply K-Pop CON-TOUR (심플리케이팝 콘투어) _ Ep.496]]></title>
             <link>https://m.vlive.tv/video/270615</link>
@@ -46,6 +36,26 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211201_93/1638343186246jNYtw_JPEG/upload_82422826963750295a08a05a9-e84b-4beb-a948-ebae9d3947c9.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Xdinary Heroes <Happy Death Day> Debut Showcase]]></title>
+            <link>https://m.vlive.tv/video/270509</link>
+            <guid>https://m.vlive.tv/video/270509</guid>
+            <pubDate>Fri, 03 Dec 2021 02:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 8:00</span>
+										<span class="txt">Xdinary Heroes</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211130_164/1638235827529zoGqt_JPEG/upload_82315562935243760ab5d3a9a-f573-4867-bcdf-0c64586a5f4c.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / seizetheday 시즈더데이)]]></title>
+            <link>https://m.vlive.tv/video/270783</link>
+            <guid>https://m.vlive.tv/video/270783</guid>
+            <pubDate>Fri, 03 Dec 2021 02:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211202_263/16384435062615O10X_JPEG/upload_82523186694179087239d0585-1c97-466c-845b-963f12eb9291.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
