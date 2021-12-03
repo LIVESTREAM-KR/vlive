@@ -4,7 +4,7 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 18:38:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 19:26:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,15 @@
             <guid>https://www.vlive.tv/video/270920</guid>
             <pubDate>Fri, 03 Dec 2021 18:35:30 GMT</pubDate>
             <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211204_13/1638558895416Gzk5s_JPEG/8dae8ae6-546c-11ec-9970-a0369ff94ec8_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Radio Hama] 불면증 치료 해드립니다~]]></title>
+            <link>https://www.vlive.tv/video/270915</link>
+            <guid>https://www.vlive.tv/video/270915</guid>
+            <pubDate>Fri, 03 Dec 2021 19:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[청공소년 (Bz_Boys)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211203_29/1638543591393Hxncc_JPEG/15133198531856004574117554-587d-464f-8c46-998529b6b527.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크고작은사람들😅😅]]></title>
@@ -397,14 +406,6 @@
             <pubDate>Fri, 03 Dec 2021 09:30:58 GMT</pubDate>
             <content:encoded><![CDATA[MAJOR9 (메이저나인)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211203_248/1638517375187l3Imd_JPEG/upload_82597061889626963238894bc-7647-4926-8611-1f64ef07b6f2.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[윤하 산책] 윤하의 Hometown 신창동 2편]]></title>
-            <link>https://www.vlive.tv/video/270849</link>
-            <guid>https://www.vlive.tv/video/270849</guid>
-            <pubDate>Fri, 03 Dec 2021 09:30:58 GMT</pubDate>
-            <content:encoded><![CDATA[YOUNHA]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211203_122/1638513053476ymgbw_JPEG/upload_54782639405847583d1f3cac3-6788-43ed-939e-682124e79d0a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 18:38:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 19:26:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,15 @@
             <guid>https://www.vlive.tv/video/270920</guid>
             <pubDate>Fri, 03 Dec 2021 18:35:39 GMT</pubDate>
             <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/270920/thumb?type=f228_128" length="0" type="image//live/270920/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20211204_13/1638558895416Gzk5s_JPEG/8dae8ae6-546c-11ec-9970-a0369ff94ec8_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Radio Hama] 불면증 치료 해드립니다~]]></title>
+            <link>https://www.vlive.tv/video/270915</link>
+            <guid>https://www.vlive.tv/video/270915</guid>
+            <pubDate>Fri, 03 Dec 2021 19:24:11 GMT</pubDate>
+            <content:encoded><![CDATA[청공소년 (Bz_Boys)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211203_29/1638543591393Hxncc_JPEG/15133198531856004574117554-587d-464f-8c46-998529b6b527.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크고작은사람들😅😅]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 03 Dec 2021 13:33:49 GMT</pubDate>
             <content:encoded><![CDATA[KEYEAST]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211203_105/1638534752359MSsMk_JPEG/upload_82612963941658359b5669308-cdea-4abd-bb8b-0b6a89e765a3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[티타임☕]]></title>
-            <link>https://www.vlive.tv/video/270898</link>
-            <guid>https://www.vlive.tv/video/270898</guid>
-            <pubDate>Fri, 03 Dec 2021 12:47:50 GMT</pubDate>
-            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211203_239/1638537448684qGwUF_JPEG/upload_82617180380568307ccfce62f-6f24-42c2-ae96-f687f84af97b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
