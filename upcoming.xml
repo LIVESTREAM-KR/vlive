@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Dec 2021 17:39:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 18:38:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -390,6 +390,14 @@
             <pubDate>Sat, 04 Dec 2021 17:38:23 GMT</pubDate>
             <content:encoded><![CDATA[오후 5:13]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211204_213/1638628444397dizqM_JPEG/151416900390097681008db975-603f-4b1e-ba56-94fcb4a4f3c9.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[불토불토 가주앙 SATURDAY NIGHT PARTY 🐝💛🙌🏻]]></title>
+            <link>https://www.vlive.tv/video/270967</link>
+            <guid>https://www.vlive.tv/video/270967</guid>
+            <pubDate>Sat, 04 Dec 2021 18:36:38 GMT</pubDate>
+            <content:encoded><![CDATA[오후 6:25]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/270967/thumb?type=f228_128" length="0" type="image//live/270967/thumb"/>
         </item>
     </channel>
 </rss>
