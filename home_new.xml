@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Dec 2021 03:33:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 04:44:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[WAWL]]></title>
+            <link>https://www.vlive.tv/video/270928</link>
+            <guid>https://www.vlive.tv/video/270928</guid>
+            <pubDate>Sat, 04 Dec 2021 04:42:21 GMT</pubDate>
+            <content:encoded><![CDATA[ITZY]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/270928/thumb?type=f228_128" length="0" type="image//live/270928/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[[선공개] 이학주의 아침한끼 '든든한 돼지불백 한상', MBC 211204 방송]]></title>
+            <link>https://www.vlive.tv/video/270927</link>
+            <guid>https://www.vlive.tv/video/270927</guid>
+            <pubDate>Sat, 04 Dec 2021 04:42:21 GMT</pubDate>
+            <content:encoded><![CDATA[MBC 예능]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211204_30/16385917179625hIxf_JPEG/upload_548612851683973499e25051d-c3a7-4935-ab50-d97ad5e7c559.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강미나]]></title>
             <link>https://www.vlive.tv/video/270925</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 03 Dec 2021 15:33:42 GMT</pubDate>
             <content:encoded><![CDATA[MBC 예능]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211204_171/16385446658675q4Rr_JPEG/upload_82624383469713944aef79b4e-4eae-4261-ae3e-fa25dbd50567.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[선공개] 우리 둘이 처음 들어가는 섬 🏝  새로운 섬 초도를 찾은 허재 x 김병현 , MBC 211206 방송]]></title>
-            <link>https://www.vlive.tv/video/270916</link>
-            <guid>https://www.vlive.tv/video/270916</guid>
-            <pubDate>Fri, 03 Dec 2021 15:33:42 GMT</pubDate>
-            <content:encoded><![CDATA[MBC 예능]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211204_215/1638544538184iSIBA_JPEG/upload_82624270640521718898089e4-641e-43bc-aaf1-a627cefa518d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[껌딱지즈 등장~🐯🐿]]></title>
-            <link>https://www.vlive.tv/video/270904</link>
-            <guid>https://www.vlive.tv/video/270904</guid>
-            <pubDate>Fri, 03 Dec 2021 14:28:28 GMT</pubDate>
-            <content:encoded><![CDATA[싸이퍼(Ciipher)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211204_56/1638543696768E0ngO_JPEG/ed905453-5448-11ec-9e9c-48df379cc9e4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
