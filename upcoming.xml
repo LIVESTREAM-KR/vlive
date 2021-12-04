@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Dec 2021 15:36:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 16:52:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,22 +328,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20211204_13/1638624617444Rh308_JPEG/1514130733733986375c71271f-7c21-42bb-a5af-6bb43d003a75.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[만나자☺️]]></title>
-            <link>https://www.vlive.tv/video/270964</link>
-            <guid>https://www.vlive.tv/video/270964</guid>
-            <pubDate>Sat, 04 Dec 2021 15:34:42 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:34]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211204_213/1638628444397dizqM_JPEG/151416900390097681008db975-603f-4b1e-ba56-94fcb4a4f3c9.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고생이 많아]]></title>
-            <link>https://www.vlive.tv/video/270965</link>
-            <guid>https://www.vlive.tv/video/270965</guid>
-            <pubDate>Sat, 04 Dec 2021 15:34:42 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:42]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211204_235/1638628919602G82yi_JPEG/7778540245148000359ab5e69-9b85-4607-9c50-24fa1a372e03.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[오랜만에 중간즈~]]></title>
             <link>https://www.vlive.tv/video/270961</link>
             <guid>https://www.vlive.tv/video/270961</guid>
@@ -376,20 +360,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20211204_82/1638578107350Jy4uF_PNG/1638577342280.png?type=f228_128" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[D-2 🤘🏻🤘🏻]]></title>
-            <link>https://www.vlive.tv/video/270966</link>
-            <guid>https://www.vlive.tv/video/270966</guid>
-            <pubDate>Sat, 04 Dec 2021 15:34:42 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:07]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211205_51/1638630427746sQ0qd_JPEG/151418798735978395bc0bd501-2a24-42b6-a1af-4ff24b61786f.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[데이식스의 숟가락]]></title>
             <link>https://www.vlive.tv/video/270962</link>
             <guid>https://www.vlive.tv/video/270962</guid>
             <pubDate>Sat, 04 Dec 2021 14:28:44 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:09]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211205_207/1638630581797EU1Te_JPEG/cf27e2ec-5513-11ec-a331-48df379cca40_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[D-2 🤘🏻🤘🏻]]></title>
+            <link>https://www.vlive.tv/video/270966</link>
+            <guid>https://www.vlive.tv/video/270966</guid>
+            <pubDate>Sat, 04 Dec 2021 15:34:42 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:28]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211205_51/1638630427746sQ0qd_JPEG/151418798735978395bc0bd501-2a24-42b6-a1af-4ff24b61786f.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
