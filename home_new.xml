@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Dec 2021 13:36:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 14:30:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,12 +16,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20211204_13/1638624617444Rh308_JPEG/1514130733733986375c71271f-7c21-42bb-a5af-6bb43d003a75.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[데이식스의 숟가락]]></title>
+            <link>https://www.vlive.tv/video/270962</link>
+            <guid>https://www.vlive.tv/video/270962</guid>
+            <pubDate>Sat, 04 Dec 2021 14:27:59 GMT</pubDate>
+            <content:encoded><![CDATA[DAY6]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/270962/thumb?type=f228_128" length="0" type="image//live/270962/thumb"/>
+        </item>
+        <item>
             <title><![CDATA[잠깐 놀자🌝☃️]]></title>
             <link>https://www.vlive.tv/video/270959</link>
             <guid>https://www.vlive.tv/video/270959</guid>
             <pubDate>Sat, 04 Dec 2021 13:34:36 GMT</pubDate>
             <content:encoded><![CDATA[드림노트 (DreamNote)]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/270959/thumb?type=f228_128" length="0" type="image//live/270959/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20211204_214/1638625243137R9HJq_JPEG/54a0f77a-5507-11ec-b0b6-246e963a4708_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오랜만에 중간즈~]]></title>
+            <link>https://www.vlive.tv/video/270961</link>
+            <guid>https://www.vlive.tv/video/270961</guid>
+            <pubDate>Sat, 04 Dec 2021 14:27:59 GMT</pubDate>
+            <content:encoded><![CDATA[E'LAST]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211204_118/1638624995622Djtza_JPEG/1515005776133557942a934a78-d7f8-4701-9d24-31586a1270a8.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[YUNA👁]]></title>
@@ -46,14 +62,6 @@
             <pubDate>Sat, 04 Dec 2021 12:48:01 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211204_28/1638623110855biiKt_JPEG/94f9b0dc-5502-11ec-92ae-a0369ff952f4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보이스만]]></title>
-            <link>https://www.vlive.tv/video/270957</link>
-            <guid>https://www.vlive.tv/video/270957</guid>
-            <pubDate>Sat, 04 Dec 2021 13:34:36 GMT</pubDate>
-            <content:encoded><![CDATA[TWICE]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/270957/thumb?type=f228_128" length="0" type="image//live/270957/thumb"/>
         </item>
         <item>
             <title><![CDATA[’I AM SOMI : XOXO’ EP.03 MBTI 과몰입 ENFP의 일상⎜DAILY ENFP MOMENTS]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 04 Dec 2021 12:48:01 GMT</pubDate>
             <content:encoded><![CDATA[블리처스(BLITZERS)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211204_126/1638619278901YPHxh_JPEG/upload_826978145933014151614616d-79f6-4c1f-a3f0-8346090d1b3c.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[FM_1.24] 나경 ‘그림자 미녀‘ 제작 발표회 비하인드]]></title>
-            <link>https://www.vlive.tv/video/270604</link>
-            <guid>https://www.vlive.tv/video/270604</guid>
-            <pubDate>Sat, 04 Dec 2021 12:48:01 GMT</pubDate>
-            <content:encoded><![CDATA[fromis_9]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211201_43/1638328739446esGG1_JPEG/upload_82408401170239717d8f18c86-32dd-4001-b978-3d77a7fc7bbc.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
