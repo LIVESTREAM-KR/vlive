@@ -4,9 +4,19 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Dec 2021 02:47:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 03:33:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[키아라(KIARA) 3rd Single Album [ Pick Me Up ] COUNTDOWN V LIVE]]></title>
+            <link>https://m.vlive.tv/video/270926</link>
+            <guid>https://m.vlive.tv/video/270926</guid>
+            <pubDate>Sat, 04 Dec 2021 03:31:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 2:30</span>
+										<span class="txt">키아라 (KIARA)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211204_158/1638588031306XMx1m_JPEG/upload_548575422996621092e391d27-a467-47b0-a166-5f5e4357e054.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
             <link>https://m.vlive.tv/video/270729</link>
@@ -76,16 +86,6 @@
 										오전 2:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211202_123/1638421852526L9bF2_JPEG/upload_8250145084674891757f3088a-77ee-417f-b276-29a260f3aa27.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ASC Live Ep.500 (cignature / 시그니처)]]></title>
-            <link>https://m.vlive.tv/video/270869</link>
-            <guid>https://m.vlive.tv/video/270869</guid>
-            <pubDate>Fri, 03 Dec 2021 15:34:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 4:00</span>
-										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211203_292/1638519574033Lh3Qz_PNG/upload_82599252191966955e6cf47f0-3168-4f42-bded-a287d95e6f33.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
