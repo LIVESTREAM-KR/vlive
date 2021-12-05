@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 22:32:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 23:32:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[에이티즈:ATEEZ] '불후의 명곡 2021 왕중왕전 트로피 탐나네~']]></title>
+            <link>https://www.vlive.tv/video/271013</link>
+            <guid>https://www.vlive.tv/video/271013</guid>
+            <pubDate>Sun, 05 Dec 2021 23:30:06 GMT</pubDate>
+            <content:encoded><![CDATA[mydaily]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211206_119/1638746406784SO3ve_JPEG/1638746383652.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[방탄소년단:BTS] 지민(JIMIN)X정국(JUNGKOOK)X진(JIN) 'LA콘서트 마치고 입국']]></title>
             <link>https://www.vlive.tv/video/271012</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 05 Dec 2021 12:47:11 GMT</pubDate>
             <content:encoded><![CDATA[VANNER (배너)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211205_116/1638707312564AT6rS_JPEG/15149568355487523159ef1da6-0fbc-4878-b88c-0522b5bdb863.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이염😸]]></title>
-            <link>https://www.vlive.tv/video/270993</link>
-            <guid>https://www.vlive.tv/video/270993</guid>
-            <pubDate>Sun, 05 Dec 2021 12:47:11 GMT</pubDate>
-            <content:encoded><![CDATA[N.Flying]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211205_156/1638705130550EJzdB_PNG/151580712543677858f5cd80fc-e155-4082-b77f-e5179fd71a42.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
