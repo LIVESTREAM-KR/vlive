@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 20:33:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 21:30:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -380,8 +380,16 @@
             <link>https://www.vlive.tv/video/271011</link>
             <guid>https://www.vlive.tv/video/271011</guid>
             <pubDate>Sun, 05 Dec 2021 20:31:51 GMT</pubDate>
-            <content:encoded><![CDATA[오후 8:08]]></content:encoded>
+            <content:encoded><![CDATA[오후 8:38]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211206_204/1638734932069XJ2hd_JPEG/1515233060476256559f8057ff-1f5c-4abd-b7d2-fafd0d4c5c56.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[방탄소년단:BTS] 지민(JIMIN)X정국(JUNGKOOK)X진(JIN) 'LA콘서트 마치고 입국']]></title>
+            <link>https://www.vlive.tv/video/271012</link>
+            <guid>https://www.vlive.tv/video/271012</guid>
+            <pubDate>Sun, 05 Dec 2021 21:29:03 GMT</pubDate>
+            <content:encoded><![CDATA[오후 9:01]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211206_80/1638738059859fWF0g_JPEG/1638737906241.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
