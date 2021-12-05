@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 14:29:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 15:34:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -296,14 +296,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20211205_113/16387096960358RtN1_JPEG/upload_82789420590571669b0f403c8-52c7-4380-a799-5b83f27c7884.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오늘 추움]]></title>
-            <link>https://www.vlive.tv/video/271001</link>
-            <guid>https://www.vlive.tv/video/271001</guid>
-            <pubDate>Sun, 05 Dec 2021 14:28:13 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:02]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/271001/thumb?type=f228_128" length="0" type="image//live/271001/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[놀러와요! Rainboo🌈]]></title>
             <link>https://www.vlive.tv/video/270998</link>
             <guid>https://www.vlive.tv/video/270998</guid>
@@ -318,6 +310,38 @@
             <pubDate>Sun, 05 Dec 2021 14:28:13 GMT</pubDate>
             <content:encoded><![CDATA[오후 2:06]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211205_226/1638713218951ivE8I_JPEG/55e3739b-55d4-11ec-9a33-505dac8c3721_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🐹]]></title>
+            <link>https://www.vlive.tv/video/270996</link>
+            <guid>https://www.vlive.tv/video/270996</guid>
+            <pubDate>Sun, 05 Dec 2021 15:33:27 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:35]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211205_144/1638714910687LXAhK_JPEG/381d5a48-55d7-11ec-a713-a0369ff95ec0_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[질문왕 파랑이 뽑아요]]></title>
+            <link>https://www.vlive.tv/video/271002</link>
+            <guid>https://www.vlive.tv/video/271002</guid>
+            <pubDate>Sun, 05 Dec 2021 15:33:27 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:51]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211205_134/16387159174777VD1n_JPEG/151591533418484465aff40632-b6b7-4013-a325-b0004e2b6e93.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stray Kids(스트레이 키즈) "24 to 25” Video]]></title>
+            <link>https://www.vlive.tv/video/271004</link>
+            <guid>https://www.vlive.tv/video/271004</guid>
+            <pubDate>Sun, 05 Dec 2021 15:33:27 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211206_131/1638716423502LNGKI_JPEG/1638701819551.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘 추움]]></title>
+            <link>https://www.vlive.tv/video/271001</link>
+            <guid>https://www.vlive.tv/video/271001</guid>
+            <pubDate>Sun, 05 Dec 2021 14:28:13 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:33]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211206_230/1638718396637wvgBV_JPEG/991fd1f6-55df-11ec-a713-a0369ff95ec0_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

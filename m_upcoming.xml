@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 14:29:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 15:34:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -58,6 +58,16 @@
             <enclosure url="https://v-phinf.pstatic.net/20211203_179/1638518804842zAp4i_PNG/upload_8259850625429533338e89596-ffd4-44e8-b468-1932d7ab6125.png?type=f274_154" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[🎉HBD TO LUTAN🎉  #HAPPYLUTANDAY]]></title>
+            <link>https://m.vlive.tv/video/271003</link>
+            <guid>https://m.vlive.tv/video/271003</guid>
+            <pubDate>Sun, 05 Dec 2021 15:33:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">블리처스(BLITZERS)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211206_116/1638716402401O34dE_JPEG/upload_8279556880773806707f362d3-f66a-4748-b406-342f502f2179.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Arirang Radio (Sound K / seizetheday 시즈더데이)]]></title>
             <link>https://m.vlive.tv/video/270783</link>
             <guid>https://m.vlive.tv/video/270783</guid>
@@ -86,16 +96,6 @@
 										오전 2:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211202_123/1638421852526L9bF2_JPEG/upload_8250145084674891757f3088a-77ee-417f-b276-29a260f3aa27.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ASC Live Ep.500 (cignature / 시그니처)]]></title>
-            <link>https://m.vlive.tv/video/270869</link>
-            <guid>https://m.vlive.tv/video/270869</guid>
-            <pubDate>Sun, 05 Dec 2021 10:33:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 4:00</span>
-										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211203_292/1638519574033Lh3Qz_PNG/upload_82599252191966955e6cf47f0-3168-4f42-bded-a287d95e6f33.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
