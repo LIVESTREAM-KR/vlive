@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 15:34:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 16:51:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -261,7 +261,7 @@
             <guid>https://www.vlive.tv/video/270991</guid>
             <pubDate>Sun, 05 Dec 2021 13:33:12 GMT</pubDate>
             <content:encoded><![CDATA[오후 12:53]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211205_136/1638708793847veQCz_JPEG/84c28243-55c9-11ec-a331-48df379cca40_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20211206_177/1638720045324kyBh5_JPEG/84c28243-55c9-11ec-a331-48df379cca40_02.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[몬채널][B] EP.265 'Rush Hour' Won 1st Place!]]></title>
@@ -320,14 +320,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20211205_144/1638714910687LXAhK_JPEG/381d5a48-55d7-11ec-a713-a0369ff95ec0_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[질문왕 파랑이 뽑아요]]></title>
-            <link>https://www.vlive.tv/video/271002</link>
-            <guid>https://www.vlive.tv/video/271002</guid>
-            <pubDate>Sun, 05 Dec 2021 15:33:27 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:51]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211205_134/16387159174777VD1n_JPEG/151591533418484465aff40632-b6b7-4013-a325-b0004e2b6e93.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Stray Kids(스트레이 키즈) "24 to 25” Video]]></title>
             <link>https://www.vlive.tv/video/271004</link>
             <guid>https://www.vlive.tv/video/271004</guid>
@@ -342,6 +334,38 @@
             <pubDate>Sun, 05 Dec 2021 14:28:13 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:33]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211206_230/1638718396637wvgBV_JPEG/991fd1f6-55df-11ec-a713-a0369ff95ec0_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NCT 127 엔시티 127 'Earthquake' Track Video]]></title>
+            <link>https://www.vlive.tv/video/271007</link>
+            <guid>https://www.vlive.tv/video/271007</guid>
+            <pubDate>Sun, 05 Dec 2021 16:50:08 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:36]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211206_39/16387185749021nrg5_JPEG/1638718539603.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하소하💚]]></title>
+            <link>https://www.vlive.tv/video/271008</link>
+            <guid>https://www.vlive.tv/video/271008</guid>
+            <pubDate>Sun, 05 Dec 2021 16:50:08 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:51]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211206_196/1638719490169LdMe2_JPEG/17f0b222-55e3-11ec-a979-48df37ae3dc4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새벽감성 하소하💚]]></title>
+            <link>https://www.vlive.tv/video/271009</link>
+            <guid>https://www.vlive.tv/video/271009</guid>
+            <pubDate>Sun, 05 Dec 2021 16:50:08 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:51]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/271009/thumb?type=f228_128" length="0" type="image//live/271009/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[질문왕 파랑이 뽑아요]]></title>
+            <link>https://www.vlive.tv/video/271002</link>
+            <guid>https://www.vlive.tv/video/271002</guid>
+            <pubDate>Sun, 05 Dec 2021 15:33:27 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:54]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211205_134/16387159174777VD1n_JPEG/151591533418484465aff40632-b6b7-4013-a325-b0004e2b6e93.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
