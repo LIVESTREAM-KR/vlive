@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 19:26:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 20:33:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -374,6 +374,14 @@
             <pubDate>Sun, 05 Dec 2021 17:37:21 GMT</pubDate>
             <content:encoded><![CDATA[오후 5:52]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211206_50/16387267781833BucQ_JPEG/fa8cad47-55f3-11ec-9a33-505dac8c3721_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠 못드는 밤에 (수달도 겨울잠을 잔다?)]]></title>
+            <link>https://www.vlive.tv/video/271011</link>
+            <guid>https://www.vlive.tv/video/271011</guid>
+            <pubDate>Sun, 05 Dec 2021 20:31:51 GMT</pubDate>
+            <content:encoded><![CDATA[오후 8:08]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211206_204/1638734932069XJ2hd_JPEG/1515233060476256559f8057ff-1f5c-4abd-b7d2-fafd0d4c5c56.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

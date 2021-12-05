@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 19:26:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 20:33:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잠 못드는 밤에 (수달도 겨울잠을 잔다?)]]></title>
+            <link>https://www.vlive.tv/video/271011</link>
+            <guid>https://www.vlive.tv/video/271011</guid>
+            <pubDate>Sun, 05 Dec 2021 20:30:48 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211206_204/1638734932069XJ2hd_JPEG/1515233060476256559f8057ff-1f5c-4abd-b7d2-fafd0d4c5c56.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[후]]></title>
             <link>https://www.vlive.tv/video/271010</link>
@@ -398,14 +406,6 @@
             <pubDate>Sat, 04 Dec 2021 15:33:38 GMT</pubDate>
             <content:encoded><![CDATA[GROOVL1N]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211205_51/1638630427746sQ0qd_JPEG/151418798735978395bc0bd501-2a24-42b6-a1af-4ff24b61786f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데이식스의 숟가락]]></title>
-            <link>https://www.vlive.tv/video/270962</link>
-            <guid>https://www.vlive.tv/video/270962</guid>
-            <pubDate>Sat, 04 Dec 2021 14:27:51 GMT</pubDate>
-            <content:encoded><![CDATA[DAY6]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211205_207/1638630581797EU1Te_JPEG/cf27e2ec-5513-11ec-a331-48df379cca40_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

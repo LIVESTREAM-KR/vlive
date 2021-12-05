@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 19:26:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 20:33:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잠 못드는 밤에 (수달도 겨울잠을 잔다?)]]></title>
+            <link>https://www.vlive.tv/video/271011</link>
+            <guid>https://www.vlive.tv/video/271011</guid>
+            <pubDate>Sun, 05 Dec 2021 20:30:58 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211206_204/1638734932069XJ2hd_JPEG/1515233060476256559f8057ff-1f5c-4abd-b7d2-fafd0d4c5c56.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[후]]></title>
             <link>https://www.vlive.tv/video/271010</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 05 Dec 2021 13:32:22 GMT</pubDate>
             <content:encoded><![CDATA[MONSTA X]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211201_4/1638363263407eXqkt_JPEG/upload_54632867952068545d30c668b-be8f-4ab9-a1be-133a113e9a61.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찬이의 "방" 🐺 Ep. 135]]></title>
-            <link>https://www.vlive.tv/video/270991</link>
-            <guid>https://www.vlive.tv/video/270991</guid>
-            <pubDate>Sun, 05 Dec 2021 13:32:22 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211206_177/1638720045324kyBh5_JPEG/84c28243-55c9-11ec-a331-48df379cca40_02.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
