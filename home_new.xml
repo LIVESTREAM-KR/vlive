@@ -4,9 +4,32 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 06:38:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 07:30:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다원 다음 나]]></title>
+            <link>https://www.vlive.tv/video/270975</link>
+            <guid>https://www.vlive.tv/video/270975</guid>
+            <pubDate>Sun, 05 Dec 2021 07:28:19 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[😁]]></title>
+            <link>https://www.vlive.tv/video/270973</link>
+            <guid>https://www.vlive.tv/video/270973</guid>
+            <pubDate>Sun, 05 Dec 2021 07:28:19 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211205_80/1638688258343seVTk_JPEG/2828a6ff-559a-11ec-b39d-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[언박싱...?]]></title>
+            <link>https://www.vlive.tv/video/270974</link>
+            <guid>https://www.vlive.tv/video/270974</guid>
+            <pubDate>Sun, 05 Dec 2021 07:28:19 GMT</pubDate>
+            <content:encoded><![CDATA[PENTAGON]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/270974/thumb?type=f228_128" length="0" type="image//live/270974/thumb"/>
+        </item>
         <item>
             <title><![CDATA[[Ciipher] 파자마 입고😴]]></title>
             <link>https://www.vlive.tv/video/270972</link>
@@ -102,30 +125,6 @@
             <pubDate>Sat, 04 Dec 2021 15:33:48 GMT</pubDate>
             <content:encoded><![CDATA[GROOVL1N]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211205_51/1638630427746sQ0qd_JPEG/151418798735978395bc0bd501-2a24-42b6-a1af-4ff24b61786f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데이식스의 숟가락]]></title>
-            <link>https://www.vlive.tv/video/270962</link>
-            <guid>https://www.vlive.tv/video/270962</guid>
-            <pubDate>Sat, 04 Dec 2021 14:27:59 GMT</pubDate>
-            <content:encoded><![CDATA[DAY6]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211205_207/1638630581797EU1Te_JPEG/cf27e2ec-5513-11ec-a331-48df379cca40_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Xdinary Heroes "Happy Death Day" M/V Teaser]]></title>
-            <link>https://www.vlive.tv/video/270921</link>
-            <guid>https://www.vlive.tv/video/270921</guid>
-            <pubDate>Sat, 04 Dec 2021 15:33:48 GMT</pubDate>
-            <content:encoded><![CDATA[Xdinary Heroes]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211204_82/1638578107350Jy4uF_PNG/1638577342280.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[STATION] 온유 (ONEW) X 펀치 (Punch) '별 하나 (Way)' Lyric Video Teaser]]></title>
-            <link>https://www.vlive.tv/video/270953</link>
-            <guid>https://www.vlive.tv/video/270953</guid>
-            <pubDate>Sat, 04 Dec 2021 15:33:48 GMT</pubDate>
-            <content:encoded><![CDATA[SMTOWN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211204_100/1638620102071JsUlw_JPEG/upload_82699829483169950d2a28cc1-d892-4d1b-8840-68484f7adf33.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

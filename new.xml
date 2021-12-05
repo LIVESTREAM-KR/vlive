@@ -4,9 +4,24 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Dec 2021 06:38:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Dec 2021 07:30:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[😁]]></title>
+            <link>https://www.vlive.tv/video/270973</link>
+            <guid>https://www.vlive.tv/video/270973</guid>
+            <pubDate>Sun, 05 Dec 2021 07:28:10 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211205_80/1638688258343seVTk_JPEG/2828a6ff-559a-11ec-b39d-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[언박싱...?]]></title>
+            <link>https://www.vlive.tv/video/270974</link>
+            <guid>https://www.vlive.tv/video/270974</guid>
+            <pubDate>Sun, 05 Dec 2021 07:28:10 GMT</pubDate>
+            <content:encoded><![CDATA[PENTAGON]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[Ciipher] 파자마 입고😴]]></title>
             <link>https://www.vlive.tv/video/270972</link>
@@ -390,22 +405,6 @@
             <pubDate>Sat, 04 Dec 2021 05:28:30 GMT</pubDate>
             <content:encoded><![CDATA[MBC 예능]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211204_84/1638593115267jOhoz_JPEG/upload_82672827718262351d0f33983-167f-48cf-b687-2aaccf8515ad.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[선공개] 이학주의 아침한끼 '든든한 돼지불백 한상', MBC 211204 방송]]></title>
-            <link>https://www.vlive.tv/video/270927</link>
-            <guid>https://www.vlive.tv/video/270927</guid>
-            <pubDate>Sat, 04 Dec 2021 04:42:12 GMT</pubDate>
-            <content:encoded><![CDATA[MBC 예능]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211204_30/16385917179625hIxf_JPEG/upload_548612851683973499e25051d-c3a7-4935-ab50-d97ad5e7c559.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[강미나]]></title>
-            <link>https://www.vlive.tv/video/270925</link>
-            <guid>https://www.vlive.tv/video/270925</guid>
-            <pubDate>Sat, 04 Dec 2021 03:31:05 GMT</pubDate>
-            <content:encoded><![CDATA[Jellyfish Entertainment]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211204_30/1638587048914MAlon_JPEG/151375504842116829c1cd36df-c27d-42e1-bdd2-8acee1f831c1.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
