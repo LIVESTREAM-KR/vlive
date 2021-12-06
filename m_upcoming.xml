@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 09:34:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 10:36:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[LIVE] SIMPLY K-POP CON-TOUR (📍UAE)]]></title>
-            <link>https://m.vlive.tv/video/270866</link>
-            <guid>https://m.vlive.tv/video/270866</guid>
-            <pubDate>Fri, 03 Dec 2021 09:32:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211203_179/1638518804842zAp4i_PNG/upload_8259850625429533338e89596-ffd4-44e8-b468-1932d7ab6125.png?type=f274_154" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[🎉HBD TO LUTAN🎉  #HAPPYLUTANDAY]]></title>
-            <link>https://m.vlive.tv/video/271003</link>
-            <guid>https://m.vlive.tv/video/271003</guid>
-            <pubDate>Sun, 05 Dec 2021 15:33:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">블리처스(BLITZERS)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211206_116/1638716402401O34dE_JPEG/upload_8279556880773806707f362d3-f66a-4748-b406-342f502f2179.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Sound K / seizetheday 시즈더데이)]]></title>
             <link>https://m.vlive.tv/video/270783</link>
@@ -86,6 +66,36 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211202_109/1638421432610AjHQG_JPEG/upload_825011457477191511b22635f-7fb5-40f8-a71b-f1915da523bb.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MINO [“TO INFINITY.”] COUNTDOWN LIVE]]></title>
+            <link>https://m.vlive.tv/video/270639</link>
+            <guid>https://m.vlive.tv/video/270639</guid>
+            <pubDate>Mon, 06 Dec 2021 10:35:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 8:00</span>
+										<span class="txt">WINNER</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211201_148/1638347502307KDnXS_JPEG/upload_8242722365695122178ef04e1-c9a5-4435-a966-36beb2dd3828.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(광고) 하이라이특쇼 X 라이브스타페스타 특집]]></title>
+            <link>https://m.vlive.tv/video/270829</link>
+            <guid>https://m.vlive.tv/video/270829</guid>
+            <pubDate>Mon, 06 Dec 2021 10:35:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">N 쇼핑 라이브쇼</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211203_224/1638498050885vXnp8_JPEG/upload_825777862881753341502450e-8077-4e03-88e9-2864af0d4420.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소정이와 Happy sowonday🥳]]></title>
+            <link>https://m.vlive.tv/video/270933</link>
+            <guid>https://m.vlive.tv/video/270933</guid>
+            <pubDate>Mon, 06 Dec 2021 10:35:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">KIM SO JEONG (김소정)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211204_91/16385976365312ch6w_PNG/upload_82676347643955820c964cbc3-57fe-40a9-b241-8b324dc3541f.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
