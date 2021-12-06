@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 05:32:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 06:39:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이브(IVE), 일레븐 (ELEVEN) 무대 '신'인 그룹의 등장]]></title>
+            <link>https://www.vlive.tv/video/271046</link>
+            <guid>https://www.vlive.tv/video/271046</guid>
+            <pubDate>Mon, 06 Dec 2021 06:37:05 GMT</pubDate>
+            <content:encoded><![CDATA[Ktimes]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211206_71/1638769431817CNze8_PNG/1638769124241.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[🧼]]></title>
             <link>https://www.vlive.tv/video/271041</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 06 Dec 2021 01:31:18 GMT</pubDate>
             <content:encoded><![CDATA[WINNER]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211205_84/1638710840283RMaWr_JPEG/1638710362225.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[에이티즈:ATEEZ] '불후의 명곡 2021 왕중왕전 트로피 탐나네~']]></title>
-            <link>https://www.vlive.tv/video/271013</link>
-            <guid>https://www.vlive.tv/video/271013</guid>
-            <pubDate>Sun, 05 Dec 2021 23:30:06 GMT</pubDate>
-            <content:encoded><![CDATA[mydaily]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211206_119/1638746406784SO3ve_JPEG/1638746383652.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
