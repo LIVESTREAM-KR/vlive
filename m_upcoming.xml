@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 14:30:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 15:37:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -68,6 +68,16 @@
             <enclosure url="https://v-phinf.pstatic.net/20211201_148/1638347502307KDnXS_JPEG/upload_8242722365695122178ef04e1-c9a5-4435-a966-36beb2dd3828.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[다람단 모여랏!!🐿❤️]]></title>
+            <link>https://m.vlive.tv/video/271112</link>
+            <guid>https://m.vlive.tv/video/271112</guid>
+            <pubDate>Mon, 06 Dec 2021 15:35:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 9:00</span>
+										<span class="txt">KINGDOM</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211207_299/1638803407548ocEyX_JPEG/upload_82882902252817602997c97a9-2c0e-4270-9fe4-e9589fd4125d.jpeg?type=f274_154" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[(광고) 하이라이특쇼 X 라이브스타페스타 특집]]></title>
             <link>https://m.vlive.tv/video/270829</link>
             <guid>https://m.vlive.tv/video/270829</guid>
@@ -76,16 +86,6 @@
 										오전 10:00</span>
 										<span class="txt">N 쇼핑 라이브쇼</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211203_224/1638498050885vXnp8_JPEG/upload_825777862881753341502450e-8077-4e03-88e9-2864af0d4420.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소정이와 Happy sowonday🥳]]></title>
-            <link>https://m.vlive.tv/video/270933</link>
-            <guid>https://m.vlive.tv/video/270933</guid>
-            <pubDate>Mon, 06 Dec 2021 14:29:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">KIM SO JEONG (김소정)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211204_91/16385976365312ch6w_PNG/upload_82676347643955820c964cbc3-57fe-40a9-b241-8b324dc3541f.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
