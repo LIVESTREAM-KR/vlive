@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 17:30:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 18:34:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[굿나잇 GOOD NIGHT 😴]]></title>
+            <link>https://www.vlive.tv/video/271115</link>
+            <guid>https://www.vlive.tv/video/271115</guid>
+            <pubDate>Mon, 06 Dec 2021 18:31:02 GMT</pubDate>
+            <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211207_24/1638814413438HbRew_JPEG/122125889236867388332fd9a7-a330-48ff-bc8e-f054a32e541f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빈어스]]></title>
             <link>https://www.vlive.tv/video/271111</link>
@@ -398,14 +406,6 @@
             <pubDate>Mon, 06 Dec 2021 09:32:00 GMT</pubDate>
             <content:encoded><![CDATA[Mnet]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211206_131/1638781844981U79YV_JPEG/upload_828615714647774134a934697-439b-4649-9526-adadb809ee1a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[ACTORS] AI 특이점의 시대는 도래했다..!]]></title>
-            <link>https://www.vlive.tv/video/271073</link>
-            <guid>https://www.vlive.tv/video/271073</guid>
-            <pubDate>Mon, 06 Dec 2021 09:32:00 GMT</pubDate>
-            <content:encoded><![CDATA[S&amp;A엔터테인먼트]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211206_171/1638781617645w3EUp_JPEG/a79a7d33-5673-11ec-a331-48df379cca40_05.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
