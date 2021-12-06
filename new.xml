@@ -4,9 +4,25 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 02:47:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 03:33:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[#2021MAMA] PERFORMER LINE-UP]]></title>
+            <link>https://www.vlive.tv/video/271021</link>
+            <guid>https://www.vlive.tv/video/271021</guid>
+            <pubDate>Mon, 06 Dec 2021 03:31:19 GMT</pubDate>
+            <content:encoded><![CDATA[Mnet]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211206_72/1638758509049AqL42_JPEG/2ffe4753-563d-11ec-bc73-a0369ff968b0_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[hi minimonster]]></title>
+            <link>https://www.vlive.tv/video/271023</link>
+            <guid>https://www.vlive.tv/video/271023</guid>
+            <pubDate>Mon, 06 Dec 2021 03:31:19 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211206_264/1638759187111ahjLL_JPEG/upload_55028760486469886dde276ec-5f5f-4175-86b2-ae256701db6c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
             <link>https://www.vlive.tv/video/270729</link>
@@ -390,22 +406,6 @@
             <pubDate>Sun, 05 Dec 2021 05:28:02 GMT</pubDate>
             <content:encoded><![CDATA[ASTRO]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211204_151/1638620243127FKk18_JPEG/1638537087960.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[키아라(KIARA) 3rd Single Album [ Pick Me Up ] COUNTDOWN V LIVE]]></title>
-            <link>https://www.vlive.tv/video/270926</link>
-            <guid>https://www.vlive.tv/video/270926</guid>
-            <pubDate>Sun, 05 Dec 2021 02:45:53 GMT</pubDate>
-            <content:encoded><![CDATA[키아라 (KIARA)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211205_278/1638683734692oDvjw_JPEG/4372b4a4-5578-11ec-9b44-a0369ff95678_06.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[키아라(KIARA) - Pick Me Up MV]]></title>
-            <link>https://www.vlive.tv/video/270937</link>
-            <guid>https://www.vlive.tv/video/270937</guid>
-            <pubDate>Sun, 05 Dec 2021 03:31:46 GMT</pubDate>
-            <content:encoded><![CDATA[키아라 (KIARA)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211204_64/1638604482993RQH0y_JPEG/upload_826841643042014843022bb9b-fc59-4155-aca2-5e2bf2a19623.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
