@@ -148,6 +148,16 @@ contentSelector = "a.info_channel"
 imageSelector = "div.thumb_area img"
 waitUntil = "networkidle"
 
+[spotbox]
+title = "V LIVE ─ STORE ─ SPOT BOX"
+url = "https://www.vlive.tv/vstore"
+entrySelector = "div.spot_box div.flick div.eg-flick-container div.thumb_area"
+titleSelector = "span.tit_area strong.tit"
+linkSelector = "a"
+contentSelector = "div.thumb_txt span[class^='icon'] span.blind"
+imageSelector = "div.thumb"
+waitUntil = "networkidle"
+
 [vliveplus]
 title = "V LIVE ─ 스토어 ─ V LIVE+"
 url = "https://www.vlive.tv/vstore/video/more?pageNo=1&pageSize=50&viewType=recent&lang=ko"
