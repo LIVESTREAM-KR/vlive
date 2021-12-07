@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 10:39:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 11:31:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2021 서울국제공연예술제 <놀이터> 녹화중계]]></title>
-            <link>https://m.vlive.tv/video/269959</link>
-            <guid>https://m.vlive.tv/video/269959</guid>
-            <pubDate>Tue, 07 Dec 2021 07:30:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">V CLASSIC</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211124_62/1637720713232q1E5S_JPEG/upload_818004486367099001ac5270c-bdcc-4401-89b2-88e581f33cf7.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthews]]></title>
             <link>https://m.vlive.tv/video/270727</link>
@@ -76,6 +66,16 @@
 										오전 9:00</span>
 										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211207_195/1638866582316dOayG_PNG/upload_55130876146841295e0bcbba4-6579-4e29-8504-c8ebfa982e16.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[The Invisible City] Concert Spoiler Live]]></title>
+            <link>https://m.vlive.tv/video/271024</link>
+            <guid>https://m.vlive.tv/video/271024</guid>
+            <pubDate>Tue, 07 Dec 2021 11:30:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">WOODZ (조승연)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211206_137/1638759736909Xj25F_JPEG/upload_55029268933128780f4635ace-43da-4052-86a3-0731ccdc8235.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
