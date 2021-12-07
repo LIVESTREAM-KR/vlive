@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 22:34:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 23:33:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Jangan lupa olah raga ya]]></title>
+            <link>https://www.vlive.tv/video/271150</link>
+            <guid>https://www.vlive.tv/video/271150</guid>
+            <pubDate>Tue, 07 Dec 2021 23:31:14 GMT</pubDate>
+            <content:encoded><![CDATA[GIORGINO]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211207_150/1638860987134kBYk7_JPEG/8d692af6-572c-11ec-917b-a0369ff9545c_02.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#OMRR 서윗서윗 SWEET TALKER 💛🐝📻]]></title>
             <link>https://www.vlive.tv/video/271204</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 07 Dec 2021 13:38:12 GMT</pubDate>
             <content:encoded><![CDATA[멋진녀석들 (GreatGuys)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211207_166/1638874556597hqo2l_JPEG/15166292659271416950523100-8263-4ee2-86ff-d2bcaab3f9e0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠시]]></title>
-            <link>https://www.vlive.tv/video/271188</link>
-            <guid>https://www.vlive.tv/video/271188</guid>
-            <pubDate>Tue, 07 Dec 2021 12:51:40 GMT</pubDate>
-            <content:encoded><![CDATA[SF9]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211207_197/16388806696645PMnw_JPEG/16414f42-5758-11ec-b2c0-505dac8c38f5_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
