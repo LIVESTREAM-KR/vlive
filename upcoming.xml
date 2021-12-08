@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 18:39:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 19:27:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -887,6 +887,14 @@
             <pubDate>Wed, 08 Dec 2021 15:35:11 GMT</pubDate>
             <content:encoded><![CDATA[오후 4:20]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211209_227/1638980432424c7Os9_JPEG/58acacd9-5842-11ec-9dda-505dac8c3607_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밤 외출 ☔️]]></title>
+            <link>https://www.vlive.tv/video/271326</link>
+            <guid>https://www.vlive.tv/video/271326</guid>
+            <pubDate>Wed, 08 Dec 2021 19:25:51 GMT</pubDate>
+            <content:encoded><![CDATA[오후 6:49]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211209_219/1638989392123zglaW_JPEG/7015840a-5857-11ec-9a33-505dac8c3721_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

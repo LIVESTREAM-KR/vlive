@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 18:39:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 19:27:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밤 외출 ☔️]]></title>
+            <link>https://www.vlive.tv/video/271326</link>
+            <guid>https://www.vlive.tv/video/271326</guid>
+            <pubDate>Wed, 08 Dec 2021 19:24:40 GMT</pubDate>
+            <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211209_219/1638989392123zglaW_JPEG/7015840a-5857-11ec-9a33-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김.라<김재현의 라디오>]]></title>
             <link>https://www.vlive.tv/video/271323</link>
@@ -399,14 +407,6 @@
             <pubDate>Wed, 08 Dec 2021 11:27:24 GMT</pubDate>
             <content:encoded><![CDATA[마카마카(MAKAMAKA)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211208_79/1638960209479M2pdV_JPEG/07de256c-5811-11ec-ba2c-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성훈왕박생일2❄🎂]]></title>
-            <link>https://www.vlive.tv/video/271287</link>
-            <guid>https://www.vlive.tv/video/271287</guid>
-            <pubDate>Wed, 08 Dec 2021 10:33:51 GMT</pubDate>
-            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211208_185/16389609284505S24n_JPEG/upload_8304066124373809315058e60-fc13-4973-b5d8-df9b69a6026c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
