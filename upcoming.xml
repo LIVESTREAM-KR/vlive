@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 15:36:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 16:53:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -873,12 +873,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20211208_294/1638970173209nunMx_JPEG/upload_830498804259120623c76ab59-30bf-42e7-a81f-b780cc8907c8.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[권정열 고영배의 십란한 밤 #225]]></title>
+            <link>https://www.vlive.tv/video/271311</link>
+            <guid>https://www.vlive.tv/video/271311</guid>
+            <pubDate>Wed, 08 Dec 2021 16:51:17 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:51]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211208_115/1638967578879r5J1N_PNG/upload_55237140627495663b6ec0baa-f4f8-4e38-b0d7-cbebf9c273c7.png?type=f228_128" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[김.라<김재현의 라디오>]]></title>
             <link>https://www.vlive.tv/video/271323</link>
             <guid>https://www.vlive.tv/video/271323</guid>
             <pubDate>Wed, 08 Dec 2021 15:35:11 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:04]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/271323/thumb?type=f228_128" length="0" type="image//live/271323/thumb"/>
+            <content:encoded><![CDATA[오후 4:20]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211209_227/1638980432424c7Os9_JPEG/58acacd9-5842-11ec-9dda-505dac8c3607_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

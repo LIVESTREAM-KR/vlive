@@ -4,7 +4,7 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 15:36:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 16:53:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,15 @@
             <guid>https://www.vlive.tv/video/271323</guid>
             <pubDate>Wed, 08 Dec 2021 15:34:03 GMT</pubDate>
             <content:encoded><![CDATA[N.Flying]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211209_227/1638980432424c7Os9_JPEG/58acacd9-5842-11ec-9dda-505dac8c3607_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[권정열 고영배의 십란한 밤 #225]]></title>
+            <link>https://www.vlive.tv/video/271311</link>
+            <guid>https://www.vlive.tv/video/271311</guid>
+            <pubDate>Wed, 08 Dec 2021 16:50:11 GMT</pubDate>
+            <content:encoded><![CDATA[권정열 고영배의 십란한 밤]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211208_115/1638967578879r5J1N_PNG/upload_55237140627495663b6ec0baa-f4f8-4e38-b0d7-cbebf9c273c7.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[WOODZ LIVE 2021 'The Invisible City' Spoiler #1 Dream, Real?!]]></title>
@@ -398,14 +407,6 @@
             <pubDate>Wed, 08 Dec 2021 10:33:51 GMT</pubDate>
             <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211208_185/16389609284505S24n_JPEG/upload_8304066124373809315058e60-fc13-4973-b5d8-df9b69a6026c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[켑의 토익 도전]]></title>
-            <link>https://www.vlive.tv/video/271266</link>
-            <guid>https://www.vlive.tv/video/271266</guid>
-            <pubDate>Wed, 08 Dec 2021 08:36:00 GMT</pubDate>
-            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211208_182/1638958953336GMa3C_JPEG/5e66ed3e-580f-11ec-9d5b-a0369ff94f34_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

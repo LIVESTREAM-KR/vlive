@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 15:36:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 16:53:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,15 @@
             <guid>https://www.vlive.tv/video/271323</guid>
             <pubDate>Wed, 08 Dec 2021 15:34:13 GMT</pubDate>
             <content:encoded><![CDATA[N.Flying]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/271323/thumb?type=f228_128" length="0" type="image//live/271323/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20211209_227/1638980432424c7Os9_JPEG/58acacd9-5842-11ec-9dda-505dac8c3607_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[권정열 고영배의 십란한 밤 #225]]></title>
+            <link>https://www.vlive.tv/video/271311</link>
+            <guid>https://www.vlive.tv/video/271311</guid>
+            <pubDate>Wed, 08 Dec 2021 16:50:21 GMT</pubDate>
+            <content:encoded><![CDATA[권정열 고영배의 십란한 밤]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211208_115/1638967578879r5J1N_PNG/upload_55237140627495663b6ec0baa-f4f8-4e38-b0d7-cbebf9c273c7.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[WOODZ LIVE 2021 'The Invisible City' Spoiler #1 Dream, Real?!]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 08 Dec 2021 13:35:06 GMT</pubDate>
             <content:encoded><![CDATA[EVERGLOW (에버글로우)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211208_179/1638969111055KpWDA_JPEG/5ca7a761-5828-11ec-82c9-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Performance] CHUNG HA 청하 'Killing Me' Performance Video]]></title>
-            <link>https://www.vlive.tv/video/271305</link>
-            <guid>https://www.vlive.tv/video/271305</guid>
-            <pubDate>Wed, 08 Dec 2021 13:35:06 GMT</pubDate>
-            <content:encoded><![CDATA[CHUNG HA]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211208_56/16389651778044Rsk5_JPEG/upload_55234773092057558b00d9a3e-e4f0-423a-a7b0-cab1ebc73bd5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
