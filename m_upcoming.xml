@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 06:39:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 07:31:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Super K-Pop / Touched 터치드)]]></title>
-            <link>https://m.vlive.tv/video/270784</link>
-            <guid>https://m.vlive.tv/video/270784</guid>
-            <pubDate>Tue, 07 Dec 2021 10:37:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211202_65/1638443612280QXiD8_JPEG/upload_82523326719186925222e3992-dc53-4f17-8a3c-e2d4a6999940.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[🔴공연 생중계]🎤 이진아 | 권진아 | 적재]]></title>
             <link>https://m.vlive.tv/video/271167</link>
@@ -46,6 +36,16 @@
 										오전 10:00</span>
 										<span class="txt">WOODZ (조승연)</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211206_137/1638759736909Xj25F_JPEG/upload_55029268933128780f4635ace-43da-4052-86a3-0731ccdc8235.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Happy Birthday CHAN 🎂🎉]]></title>
+            <link>https://m.vlive.tv/video/271179</link>
+            <guid>https://m.vlive.tv/video/271179</guid>
+            <pubDate>Wed, 08 Dec 2021 07:30:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">TO1</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211207_159/1638871208918PATbL_PNG/upload_829505121802353556c915086-8f71-4742-9f9f-40ecb0e80d20.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
