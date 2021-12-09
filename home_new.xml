@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 05:32:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 06:39:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리 얘기 좀 합시다 #122]]></title>
+            <link>https://www.vlive.tv/video/271362</link>
+            <guid>https://www.vlive.tv/video/271362</guid>
+            <pubDate>Thu, 09 Dec 2021 06:37:01 GMT</pubDate>
+            <content:encoded><![CDATA[N.Flying]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/271362/thumb?type=f228_128" length="0" type="image//live/271362/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[공포의 후룸라이드]]></title>
+            <link>https://www.vlive.tv/video/271347</link>
+            <guid>https://www.vlive.tv/video/271347</guid>
+            <pubDate>Thu, 09 Dec 2021 06:37:01 GMT</pubDate>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211209_115/1639024506482vXQ7L_JPEG/151812877475549778b8983101-ebb6-4143-a942-d675a794bb54.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MGX [ 메가맥스 ] KOREA BRAND AWARDS 🏆]]></title>
             <link>https://www.vlive.tv/video/271355</link>
@@ -30,14 +46,6 @@
             <pubDate>Thu, 09 Dec 2021 05:29:08 GMT</pubDate>
             <content:encoded><![CDATA[ARIRANG K Pop │ 아리랑케이팝]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211209_137/1639026924348CpSm3_PNG/1639025308839.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[재한겸 점심먹고 수다!]]></title>
-            <link>https://www.vlive.tv/video/271349</link>
-            <guid>https://www.vlive.tv/video/271349</guid>
-            <pubDate>Thu, 09 Dec 2021 05:29:08 GMT</pubDate>
-            <content:encoded><![CDATA[OMEGA X (오메가엑스)]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/271349/thumb?type=f228_128" length="0" type="image//live/271349/thumb"/>
         </item>
         <item>
             <title><![CDATA[long time no see]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 09 Dec 2021 03:34:42 GMT</pubDate>
             <content:encoded><![CDATA[SKYLE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211209_130/1639017437601g4KNb_JPEG/upload_83097135114369250ec59818b-1c4c-44c6-9cd3-7152ac3b7bcd.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🎤위아이(WEi) - 마음을 드려요 by 김동한 (원곡.아이유)]]></title>
-            <link>https://www.vlive.tv/video/271278</link>
-            <guid>https://www.vlive.tv/video/271278</guid>
-            <pubDate>Thu, 09 Dec 2021 03:34:42 GMT</pubDate>
-            <content:encoded><![CDATA[위아이 (WEi)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211208_10/1638969491428xC3zx_JPEG/upload_55239093859169106af0d7dae-d9ca-40b3-82b3-1ddda5afd8db.JPG?type=f228_128_wp" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>

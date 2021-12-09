@@ -4,9 +4,24 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 05:32:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 06:39:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우리 얘기 좀 합시다 #122]]></title>
+            <link>https://www.vlive.tv/video/271362</link>
+            <guid>https://www.vlive.tv/video/271362</guid>
+            <pubDate>Thu, 09 Dec 2021 06:36:50 GMT</pubDate>
+            <content:encoded><![CDATA[N.Flying]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[공포의 후룸라이드]]></title>
+            <link>https://www.vlive.tv/video/271347</link>
+            <guid>https://www.vlive.tv/video/271347</guid>
+            <pubDate>Thu, 09 Dec 2021 06:36:50 GMT</pubDate>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211209_115/1639024506482vXQ7L_JPEG/151812877475549778b8983101-ebb6-4143-a942-d675a794bb54.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MGX [ 메가맥스 ] KOREA BRAND AWARDS 🏆]]></title>
             <link>https://www.vlive.tv/video/271355</link>
@@ -30,13 +45,6 @@
             <pubDate>Thu, 09 Dec 2021 05:28:57 GMT</pubDate>
             <content:encoded><![CDATA[ARIRANG K Pop │ 아리랑케이팝]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211209_137/1639026924348CpSm3_PNG/1639025308839.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[재한겸 점심먹고 수다!]]></title>
-            <link>https://www.vlive.tv/video/271349</link>
-            <guid>https://www.vlive.tv/video/271349</guid>
-            <pubDate>Thu, 09 Dec 2021 05:28:57 GMT</pubDate>
-            <content:encoded><![CDATA[OMEGA X (오메가엑스)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[long time no see]]></title>
@@ -398,14 +406,6 @@
             <pubDate>Wed, 08 Dec 2021 12:48:47 GMT</pubDate>
             <content:encoded><![CDATA[Bling Bling]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211208_195/1638965924242SX2j2_JPEG/428f06fc-5820-11ec-8140-a0369ff963bc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[복불복 내 인생🦦🐻😺🐰]]></title>
-            <link>https://www.vlive.tv/video/271297</link>
-            <guid>https://www.vlive.tv/video/271297</guid>
-            <pubDate>Wed, 08 Dec 2021 11:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[시그니처(cignature)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211208_27/16389653622117pgJW_JPEG/7591916d-581e-11ec-8140-a0369ff963bc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
