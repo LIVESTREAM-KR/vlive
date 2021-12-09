@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 08:39:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 09:35:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -53,7 +53,7 @@
             <guid>https://m.vlive.tv/video/270725</guid>
             <pubDate>Thu, 09 Dec 2021 08:37:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
+										방송취소</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211209_115/1639033544428XvKya_JPEG/upload_82501809807455641cb1b465f-cae6-4af7-bd0b-07f40c48960f.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
@@ -66,6 +66,26 @@
 										오전 2:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211202_14/16384220215584n3S8_JPEG/upload_825017360221359659fb5ec5a-458e-45f8-9ac2-15e41f279741.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Simply K-Pop CON-TOUR (심플리케이팝 콘투어) _ Ep.497]]></title>
+            <link>https://m.vlive.tv/video/271260</link>
+            <guid>https://m.vlive.tv/video/271260</guid>
+            <pubDate>Thu, 09 Dec 2021 09:33:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211208_270/16389495748297iJvA_PNG/upload_55219153263138273b3ee2c32-e70e-41ef-a708-12b934896a72.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Music Access / KISU 기수)]]></title>
+            <link>https://m.vlive.tv/video/270968</link>
+            <guid>https://m.vlive.tv/video/270968</guid>
+            <pubDate>Thu, 09 Dec 2021 09:33:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211205_165/1638676272870ovngz_JPEG/upload_827559916306771064c0afbd1-1f29-45a9-9d4d-6580c0c2c492.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
