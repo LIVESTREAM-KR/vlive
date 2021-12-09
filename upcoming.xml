@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 15:36:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 16:54:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -816,14 +816,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20211209_31/1639053731704gk3GA_JPEG/151929334659623831b8882d0c-ccf2-456c-b37c-bee618dd31b2.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[11PM]]></title>
-            <link>https://www.vlive.tv/video/271449</link>
-            <guid>https://www.vlive.tv/video/271449</guid>
-            <pubDate>Thu, 09 Dec 2021 14:29:44 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:12]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211209_202/1639059146070Y6Faf_JPEG/380345126949548979bec0f7d-64bb-444a-b5c1-e9838a32843e.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[들어는 봤나! 토네이도 빼빼로🌪 빼빼로 만들기 라이브! 모음집 🎯 #wooVlog​ #wV71]]></title>
             <link>https://www.vlive.tv/video/271427</link>
             <guid>https://www.vlive.tv/video/271427</guid>
@@ -846,14 +838,6 @@
             <pubDate>Thu, 09 Dec 2021 12:49:41 GMT</pubDate>
             <content:encoded><![CDATA[오후 2:23]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211209_108/1639059796137SjX5u_JPEG/32e43ed4-58fa-11ec-a74c-48df379ccacc_03.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[RADIO] 캐럿들 귀대귀대 #91 뿌스테라]]></title>
-            <link>https://www.vlive.tv/video/271452</link>
-            <guid>https://www.vlive.tv/video/271452</guid>
-            <pubDate>Thu, 09 Dec 2021 15:34:54 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:39]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/271452/thumb?type=f228_128" length="0" type="image//live/271452/thumb"/>
         </item>
         <item>
             <title><![CDATA[찬좋은밤_연말을 준비해요!⛄️]]></title>
@@ -902,6 +886,22 @@
             <pubDate>Thu, 09 Dec 2021 12:49:41 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:34]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211209_61/1639052660388EEXqA_JPEG/3267043666318723015f2ac2e-f767-43be-9812-756e5c77d194.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[RADIO] 캐럿들 귀대귀대 #91 뿌스테라]]></title>
+            <link>https://www.vlive.tv/video/271452</link>
+            <guid>https://www.vlive.tv/video/271452</guid>
+            <pubDate>Thu, 09 Dec 2021 15:34:54 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:07]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211210_123/1639066058902LuGdV_JPEG/b7a16c79-5909-11ec-9524-505dacfbaa5c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[11PM]]></title>
+            <link>https://www.vlive.tv/video/271449</link>
+            <guid>https://www.vlive.tv/video/271449</guid>
+            <pubDate>Thu, 09 Dec 2021 14:29:44 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:30]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211209_202/1639059146070Y6Faf_JPEG/380345126949548979bec0f7d-64bb-444a-b5c1-e9838a32843e.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
