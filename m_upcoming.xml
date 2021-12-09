@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 09:35:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 10:37:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[(광고) 반려동물 생활 가이드 - 써니의 월간멍냥 6화]]></title>
-            <link>https://m.vlive.tv/video/270852</link>
-            <guid>https://m.vlive.tv/video/270852</guid>
-            <pubDate>Thu, 09 Dec 2021 01:31:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">N 쇼핑 라이브쇼</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211203_123/16385140903728qseM_JPEG/upload_54783697441810077146ae443-9b03-4d5d-826d-3bb5e351a685.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이달의 소녀] 12월의 선물🎁 ViVi 생일 축하해🎂]]></title>
-            <link>https://m.vlive.tv/video/271230</link>
-            <guid>https://m.vlive.tv/video/271230</guid>
-            <pubDate>Thu, 09 Dec 2021 01:31:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">이달의 소녀(LOONA)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211208_36/1638939590791FgdIr_JPEG/upload_830190484278576081d27b476-97a2-42fa-9244-0651cdf3e4e3.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2021 서울국제공연예술제 <디스토피아> 녹화중계]]></title>
             <link>https://m.vlive.tv/video/270203</link>
@@ -86,6 +66,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211205_165/1638676272870ovngz_JPEG/upload_827559916306771064c0afbd1-1f29-45a9-9d4d-6580c0c2c492.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 Arirang Radio End of the Year Concert < NEXT LEVEL K-POP>]]></title>
+            <link>https://m.vlive.tv/video/271351</link>
+            <guid>https://m.vlive.tv/video/271351</guid>
+            <pubDate>Thu, 09 Dec 2021 10:35:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211209_7/1639026615296dgdt5_JPEG/upload_552961973813160918958268f-47e8-490b-ab29-dd905cb1bcd3.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
