@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 23:34:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 01:33:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2021 K-뷰티콘 같이 구경가요]]></title>
-            <link>https://m.vlive.tv/video/270620</link>
-            <guid>https://m.vlive.tv/video/270620</guid>
-            <pubDate>Wed, 08 Dec 2021 09:32:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Berryato (베리아또)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211201_236/1638340238548udcGo_PNG/upload_824197819485384846580e0ef-340e-4247-98a6-58805e99dbf7.png?type=f274_154" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
-            <link>https://m.vlive.tv/video/270726</link>
-            <guid>https://m.vlive.tv/video/270726</guid>
-            <pubDate>Wed, 08 Dec 2021 10:35:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211202_29/1638422241794unonC_JPEG/upload_82501944650940271b3838624-a365-45ed-907a-2183e6ff713a.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
             <link>https://m.vlive.tv/video/270723</link>
@@ -56,6 +36,26 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211202_91/1638421396506iH5bJ_JPEG/upload_8250111552395083340dbc8c3-456f-41b6-accb-30822d47f28d.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(광고) 반려동물 생활 가이드 - 써니의 월간멍냥 6화]]></title>
+            <link>https://m.vlive.tv/video/270852</link>
+            <guid>https://m.vlive.tv/video/270852</guid>
+            <pubDate>Thu, 09 Dec 2021 01:31:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">N 쇼핑 라이브쇼</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211203_123/16385140903728qseM_JPEG/upload_54783697441810077146ae443-9b03-4d5d-826d-3bb5e351a685.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이달의 소녀] 12월의 선물🎁 ViVi 생일 축하해🎂]]></title>
+            <link>https://m.vlive.tv/video/271230</link>
+            <guid>https://m.vlive.tv/video/271230</guid>
+            <pubDate>Thu, 09 Dec 2021 01:31:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">이달의 소녀(LOONA)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211208_36/1638939590791FgdIr_JPEG/upload_830190484278576081d27b476-97a2-42fa-9244-0651cdf3e4e3.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
