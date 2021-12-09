@@ -4,17 +4,9 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 17:41:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 18:39:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[HAPPY THURSDAY 💛🤭🐝🙌🏻 목요일 우앙]]></title>
-            <link>https://www.vlive.tv/video/271454</link>
-            <guid>https://www.vlive.tv/video/271454</guid>
-            <pubDate>Thu, 09 Dec 2021 17:39:09 GMT</pubDate>
-            <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/271454/thumb?type=f228_128" length="0" type="image//live/271454/thumb"/>
-        </item>
         <item>
             <title><![CDATA[잠못드는밤에 (부산 해운대)]]></title>
             <link>https://www.vlive.tv/video/271453</link>
@@ -126,6 +118,14 @@
             <pubDate>Thu, 09 Dec 2021 14:28:46 GMT</pubDate>
             <content:encoded><![CDATA[VICTON]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211208_256/1638934519698r8WU6_JPEG/upload_55204087743321801bc18f016-2685-48ea-b7cb-b7c07cc1584b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[20211209 혜소통통💛]]></title>
+            <link>https://www.vlive.tv/video/271430</link>
+            <guid>https://www.vlive.tv/video/271430</guid>
+            <pubDate>Thu, 09 Dec 2021 18:36:30 GMT</pubDate>
+            <content:encoded><![CDATA[VANNER (배너)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211209_260/16390500628814kYcr_JPEG/151838463513111683dde248da-8f5d-4cdb-b88f-bcc427a83f04.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
