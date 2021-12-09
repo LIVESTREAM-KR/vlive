@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 01:33:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 02:47:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
-            <link>https://m.vlive.tv/video/270723</link>
-            <guid>https://m.vlive.tv/video/270723</guid>
-            <pubDate>Wed, 08 Dec 2021 10:35:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 2:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211202_231/1638421961910PDPNt_JPEG/upload_825016782856803761418e80a-850d-49c8-b983-a6143141af70.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Music Access] TMB(Text Me Back) with JUNNY(주니)]]></title>
             <link>https://m.vlive.tv/video/270718</link>
@@ -56,6 +46,16 @@
 										오전 10:00</span>
 										<span class="txt">이달의 소녀(LOONA)</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211208_36/1638939590791FgdIr_JPEG/upload_830190484278576081d27b476-97a2-42fa-9244-0651cdf3e4e3.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 서울국제공연예술제 <디스토피아> 녹화중계]]></title>
+            <link>https://m.vlive.tv/video/270203</link>
+            <guid>https://m.vlive.tv/video/270203</guid>
+            <pubDate>Thu, 09 Dec 2021 02:45:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">V CLASSIC</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211126_42/1637902690421VXXvv_JPEG/upload_541722974827250271bc5fb2c-1ecd-463c-94e0-d8172e9e5348.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
