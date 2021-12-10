@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Dec 2021 23:33:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 01:33:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
-            <link>https://m.vlive.tv/video/270725</link>
-            <guid>https://m.vlive.tv/video/270725</guid>
-            <pubDate>Thu, 09 Dec 2021 08:37:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										방송취소</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211209_115/1639033544428XvKya_JPEG/upload_82501809807455641cb1b465f-cae6-4af7-bd0b-07f40c48960f.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
             <link>https://m.vlive.tv/video/270724</link>
@@ -66,6 +56,16 @@
 										오후 1:00</span>
 										<span class="txt">MAJOR9 (메이저나인)</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211208_68/1638957065199sO17r_JPEG/upload_83036705939631601dc1e5d05-8ce6-425d-ae28-041c22cd3ab7.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE #Cinema - KAI : KLoor]]></title>
+            <link>https://m.vlive.tv/video/269952</link>
+            <guid>https://m.vlive.tv/video/269952</guid>
+            <pubDate>Fri, 10 Dec 2021 01:31:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 6:00</span>
+										<span class="txt">Beyond LIVE</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211124_255/1637746950500EsB3I_JPEG/upload_8182668592649344275e65676-1391-4a2f-bf01-1bfdc8619fa3.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
