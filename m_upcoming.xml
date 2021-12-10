@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 04:44:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 05:31:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Music Access / KISU 기수)]]></title>
-            <link>https://m.vlive.tv/video/270968</link>
-            <guid>https://m.vlive.tv/video/270968</guid>
-            <pubDate>Thu, 09 Dec 2021 09:33:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211205_165/1638676272870ovngz_JPEG/upload_827559916306771064c0afbd1-1f29-45a9-9d4d-6580c0c2c492.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2021 Arirang Radio End of the Year Concert < NEXT LEVEL K-POP>]]></title>
             <link>https://m.vlive.tv/video/271351</link>
@@ -46,6 +36,16 @@
 										방송취소</span>
 										<span class="txt">MSteam TV</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211210_3/1639110110151VOGeH_JPEG/upload_55379683498287369830e0193-879b-482f-a4c5-e35da557fe79.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE #Cinema - KAI : KLoor]]></title>
+            <link>https://m.vlive.tv/video/269952</link>
+            <guid>https://m.vlive.tv/video/269952</guid>
+            <pubDate>Fri, 10 Dec 2021 05:29:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 6:00</span>
+										<span class="txt">Beyond LIVE</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211124_255/1637746950500EsB3I_JPEG/upload_8182668592649344275e65676-1391-4a2f-bf01-1bfdc8619fa3.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
