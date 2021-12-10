@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 22:33:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 23:33:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -872,20 +872,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20211211_53/1639163577070O0j3b_JPEG/b4b1ae58-59ec-11ec-a331-48df379cca40_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[30분만 !!]]></title>
-            <link>https://www.vlive.tv/video/271566</link>
-            <guid>https://www.vlive.tv/video/271566</guid>
-            <pubDate>Fri, 10 Dec 2021 22:31:45 GMT</pubDate>
-            <content:encoded><![CDATA[오후 9:31]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/271566/thumb?type=f228_128" length="0" type="image//live/271566/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[[티아라:T-ARA] 4년 만에 소속사도 없이 사비까지 털어 컴백한 이유? '퀸즈(QUEEN'S)']]></title>
             <link>https://www.vlive.tv/video/271558</link>
             <guid>https://www.vlive.tv/video/271558</guid>
             <pubDate>Fri, 10 Dec 2021 14:29:45 GMT</pubDate>
             <content:encoded><![CDATA[오후 11:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211210_265/1639146375434fQC6p_JPEG/1639146055517.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[30분만 !!]]></title>
+            <link>https://www.vlive.tv/video/271566</link>
+            <guid>https://www.vlive.tv/video/271566</guid>
+            <pubDate>Fri, 10 Dec 2021 22:31:45 GMT</pubDate>
+            <content:encoded><![CDATA[오후 11:04]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211211_124/1639177499012SqGtB_JPEG/91784b81-5a0c-11ec-92ae-a0369ff952f4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

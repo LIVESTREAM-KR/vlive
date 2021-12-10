@@ -4,7 +4,7 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 22:33:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 23:33:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,15 @@
             <guid>https://www.vlive.tv/video/271566</guid>
             <pubDate>Fri, 10 Dec 2021 22:30:41 GMT</pubDate>
             <content:encoded><![CDATA[크나큰(KNK)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211211_124/1639177499012SqGtB_JPEG/91784b81-5a0c-11ec-92ae-a0369ff952f4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[티아라:T-ARA] 4년 만에 소속사도 없이 사비까지 털어 컴백한 이유? '퀸즈(QUEEN'S)']]></title>
+            <link>https://www.vlive.tv/video/271558</link>
+            <guid>https://www.vlive.tv/video/271558</guid>
+            <pubDate>Fri, 10 Dec 2021 23:30:23 GMT</pubDate>
+            <content:encoded><![CDATA[mydaily]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211210_265/1639146375434fQC6p_JPEG/1639146055517.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HANDS UP AGAIN💛〰️〰️🙌🏻🐝]]></title>
@@ -397,14 +406,6 @@
             <pubDate>Fri, 10 Dec 2021 11:27:26 GMT</pubDate>
             <content:encoded><![CDATA[P1Harmony]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211210_290/1639119824136SiC2H_JPEG/1639114745918.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[EPEX:GO] EP11. 2021 나눔 음악회 비하인드]]></title>
-            <link>https://www.vlive.tv/video/271487</link>
-            <guid>https://www.vlive.tv/video/271487</guid>
-            <pubDate>Fri, 10 Dec 2021 11:27:26 GMT</pubDate>
-            <content:encoded><![CDATA[EPEX]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211210_84/1639115285371O0w3V_JPEG/upload_553848426989531395d60e502-5d7a-4bdd-b3f9-78298aae9e04.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

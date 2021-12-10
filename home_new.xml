@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 22:33:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 23:33:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,15 @@
             <guid>https://www.vlive.tv/video/271566</guid>
             <pubDate>Fri, 10 Dec 2021 22:30:52 GMT</pubDate>
             <content:encoded><![CDATA[크나큰(KNK)]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/271566/thumb?type=f228_128" length="0" type="image//live/271566/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20211211_124/1639177499012SqGtB_JPEG/91784b81-5a0c-11ec-92ae-a0369ff952f4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[티아라:T-ARA] 4년 만에 소속사도 없이 사비까지 털어 컴백한 이유? '퀸즈(QUEEN'S)']]></title>
+            <link>https://www.vlive.tv/video/271558</link>
+            <guid>https://www.vlive.tv/video/271558</guid>
+            <pubDate>Fri, 10 Dec 2021 23:30:34 GMT</pubDate>
+            <content:encoded><![CDATA[mydaily]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211210_265/1639146375434fQC6p_JPEG/1639146055517.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HANDS UP AGAIN💛〰️〰️🙌🏻🐝]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 10 Dec 2021 13:34:25 GMT</pubDate>
             <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211210_142/1639145657311bte9h_JPEG/1eaf8770-59c2-11ec-b0b6-246e963a4708_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[걱정 말아요 그대 : 꿈에 그리던 자취생활 시작! 그런데.. 저 너무 외로워요..]]></title>
-            <link>https://www.vlive.tv/video/271483</link>
-            <guid>https://www.vlive.tv/video/271483</guid>
-            <pubDate>Fri, 10 Dec 2021 14:28:57 GMT</pubDate>
-            <content:encoded><![CDATA[KIM WOOJIN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211210_87/163914570226671FE2_PNG/upload_553825773948778397d2c92b6-d602-4ff4-aa06-36ecd030f1ec.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
