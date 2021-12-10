@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 10:35:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 11:30:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,6 +36,16 @@
 										오전 6:00</span>
 										<span class="txt">Beyond LIVE</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211124_255/1637746950500EsB3I_JPEG/upload_8182668592649344275e65676-1391-4a2f-bf01-1bfdc8619fa3.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
+            <link>https://m.vlive.tv/video/271380</link>
+            <guid>https://m.vlive.tv/video/271380</guid>
+            <pubDate>Fri, 10 Dec 2021 11:28:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211209_214/1639033721699oMpgq_JPEG/upload_55303306469500554ee32f388-ac77-4149-a1e1-aa32337858cd.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
