@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 12:51:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 13:37:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[한빈] 한빈이의 '백투더퓨처💫' - 1화]]></title>
-            <link>https://m.vlive.tv/video/271285</link>
-            <guid>https://m.vlive.tv/video/271285</guid>
-            <pubDate>Thu, 09 Dec 2021 11:28:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 1:00</span>
-										<span class="txt">MAJOR9 (메이저나인)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211208_68/1638957065199sO17r_JPEG/upload_83036705939631601dc1e5d05-8ce6-425d-ae28-041c22cd3ab7.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[위하준] 테스트]]></title>
             <link>https://m.vlive.tv/video/271471</link>
@@ -46,6 +36,26 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211209_214/1639033721699oMpgq_JPEG/upload_55303306469500554ee32f388-ac77-4149-a1e1-aa32337858cd.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Music Access / B.I.G 비아이지)]]></title>
+            <link>https://m.vlive.tv/video/271426</link>
+            <guid>https://m.vlive.tv/video/271426</guid>
+            <pubDate>Fri, 10 Dec 2021 13:35:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211209_242/1639049052272RkwUX_JPEG/upload_831287216331721155f8865b8-32db-4a72-a1f2-1c8768ec4cff.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / ONEWE 원위)]]></title>
+            <link>https://m.vlive.tv/video/271283</link>
+            <guid>https://m.vlive.tv/video/271283</guid>
+            <pubDate>Fri, 10 Dec 2021 13:35:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211208_230/1638956680585nWGh9_JPEG/upload_830362581647788844460322a-6c91-4f70-a460-21e0cb7315bb.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 12:51:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 13:37:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[매매무가 왔다]]></title>
+            <link>https://www.vlive.tv/video/271526</link>
+            <guid>https://www.vlive.tv/video/271526</guid>
+            <pubDate>Fri, 10 Dec 2021 13:34:44 GMT</pubDate>
+            <content:encoded><![CDATA[MAMAMOO]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211210_173/1639130608616YD1HA_JPEG/61183047150233939fec4c74f-e488-47fb-b45e-d0eca24f1bf9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[생일무라 니키의 요리비결🎂]]></title>
             <link>https://www.vlive.tv/video/271391</link>
@@ -30,14 +38,6 @@
             <pubDate>Fri, 10 Dec 2021 12:48:42 GMT</pubDate>
             <content:encoded><![CDATA[Xdinary Heroes]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211210_237/1639137130369CFSFX_JPEG/1ae5cfe5-59af-11ec-917b-a0369ff9545c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT U 엔시티 유 'Universe (Let's Play Ball)' MV]]></title>
-            <link>https://www.vlive.tv/video/271517</link>
-            <guid>https://www.vlive.tv/video/271517</guid>
-            <pubDate>Fri, 10 Dec 2021 12:48:42 GMT</pubDate>
-            <content:encoded><![CDATA[NCT]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211210_62/1639126982901pW6V9_JPEG/1639126658652.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
