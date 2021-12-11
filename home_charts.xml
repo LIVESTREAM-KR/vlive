@@ -4,17 +4,9 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Dec 2021 16:52:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Dec 2021 17:38:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[주니꾸기]]></title>
-            <link>https://www.vlive.tv/video/270861</link>
-            <guid>https://www.vlive.tv/video/270861</guid>
-            <pubDate>Sat, 11 Dec 2021 12:46:49 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211203_173/1638519146284hfWJO_JPEG/upload_825988616217163390a234a8c-8294-462d-9906-1a31434a1c40.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
-        </item>
         <item>
             <title><![CDATA[갑자기?]]></title>
             <link>https://www.vlive.tv/video/271586</link>
@@ -24,12 +16,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20211211_41/1639222039903lE7dK_JPEG/6882791e-5a74-11ec-b39d-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[지민씨 등장]]></title>
-            <link>https://www.vlive.tv/video/265730</link>
-            <guid>https://www.vlive.tv/video/265730</guid>
-            <pubDate>Sat, 11 Dec 2021 14:28:08 GMT</pubDate>
+            <title><![CDATA[주니꾸기]]></title>
+            <link>https://www.vlive.tv/video/270861</link>
+            <guid>https://www.vlive.tv/video/270861</guid>
+            <pubDate>Sat, 11 Dec 2021 12:46:49 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211013_144/1634122553955eHKox_JPEG/upload_78202275760730696931ec09d-bfa2-4361-8b27-5b66010714b3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20211203_173/1638519146284hfWJO_JPEG/upload_825988616217163390a234a8c-8294-462d-9906-1a31434a1c40.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[또홍석]]></title>
@@ -38,6 +30,14 @@
             <pubDate>Sat, 11 Dec 2021 16:49:28 GMT</pubDate>
             <content:encoded><![CDATA[PENTAGON]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211211_44/1639227239426zjPQO_JPEG/bd4b83d0-5a7c-11ec-9ac7-505dac8c381b_06.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지민씨 등장]]></title>
+            <link>https://www.vlive.tv/video/265730</link>
+            <guid>https://www.vlive.tv/video/265730</guid>
+            <pubDate>Sat, 11 Dec 2021 14:28:08 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211013_144/1634122553955eHKox_JPEG/upload_78202275760730696931ec09d-bfa2-4361-8b27-5b66010714b3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
