@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Dec 2021 02:49:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Dec 2021 03:33:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,20 +48,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20211210_237/1639137130369CFSFX_JPEG/1ae5cfe5-59af-11ec-917b-a0369ff9545c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[DJ콥😂]]></title>
-            <link>https://www.vlive.tv/video/271550</link>
-            <guid>https://www.vlive.tv/video/271550</guid>
-            <pubDate>Fri, 10 Dec 2021 15:34:12 GMT</pubDate>
-            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211210_142/1639145657311bte9h_JPEG/1eaf8770-59c2-11ec-b0b6-246e963a4708_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[NCT U 엔시티 유 'Universe (Let's Play Ball)' MV]]></title>
             <link>https://www.vlive.tv/video/271517</link>
             <guid>https://www.vlive.tv/video/271517</guid>
             <pubDate>Fri, 10 Dec 2021 16:50:59 GMT</pubDate>
             <content:encoded><![CDATA[NCT]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211210_62/1639126982901pW6V9_JPEG/1639126658652.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DJ콥😂]]></title>
+            <link>https://www.vlive.tv/video/271550</link>
+            <guid>https://www.vlive.tv/video/271550</guid>
+            <pubDate>Fri, 10 Dec 2021 15:34:12 GMT</pubDate>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211210_142/1639145657311bte9h_JPEG/1eaf8770-59c2-11ec-b0b6-246e963a4708_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
