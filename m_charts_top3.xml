@@ -4,17 +4,9 @@
         <title>V LIVE 모바일 ─ CHARTS </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Dec 2021 14:30:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Dec 2021 15:36:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[❤스테이와 함께 완벽한 하루 마무리💖]]></title>
-            <link>https://m.vlive.tv/video/271605</link>
-            <guid>https://m.vlive.tv/video/271605</guid>
-            <pubDate>Sat, 11 Dec 2021 15:33:08 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211212_79/1639234908453WLHNi_JPEG/b20aea19-5a91-11ec-9970-a0369ff94ec8_07.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[뀨🐧🦄]]></title>
             <link>https://m.vlive.tv/video/271644</link>
@@ -30,6 +22,14 @@
             <pubDate>Sun, 12 Dec 2021 08:35:07 GMT</pubDate>
             <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211212_282/1639296538197URRMA_JPEG/916e678a-5b22-11ec-b2c0-505dac8c38f5_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[❤스테이와 함께 완벽한 하루 마무리💖]]></title>
+            <link>https://m.vlive.tv/video/271605</link>
+            <guid>https://m.vlive.tv/video/271605</guid>
+            <pubDate>Sat, 11 Dec 2021 15:33:08 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211212_79/1639234908453WLHNi_JPEG/b20aea19-5a91-11ec-9970-a0369ff94ec8_07.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
