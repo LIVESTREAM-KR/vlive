@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 17:40:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 18:37:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -68,6 +68,16 @@
             <enclosure url="https://v-phinf.pstatic.net/20211213_291/1639370726373DWWnb_JPEG/upload_5564032173744789559f31bc7-ef8b-43f9-b595-3be194f6074f.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2021.12.14 Happy Seobin Day!]]></title>
+            <link>https://m.vlive.tv/video/271748</link>
+            <guid>https://m.vlive.tv/video/271748</guid>
+            <pubDate>Mon, 13 Dec 2021 18:35:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">윤서빈 (Yoon Seobin)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211214_81/1639417409543xkWXi_JPEG/upload_834965386116991545a8a6d16-1610-4b06-81e0-2bf8025d2303.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[연극 <줄리엣과 줄리엣> 녹화중계]]></title>
             <link>https://m.vlive.tv/video/270733</link>
             <guid>https://m.vlive.tv/video/270733</guid>
@@ -86,16 +96,6 @@
 										오전 12:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211209_272/1639033677489ns5iX_JPEG/upload_55303257074700941bf9a1a50-edcf-474a-9fab-f70007f42d86.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
-            <link>https://m.vlive.tv/video/271374</link>
-            <guid>https://m.vlive.tv/video/271374</guid>
-            <pubDate>Mon, 13 Dec 2021 15:34:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 2:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211209_243/1639033426114PWSBj_JPEG/upload_831131428312779243792900f-135e-4c66-9624-e680aa6dddc2.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
