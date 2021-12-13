@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 08:38:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 09:33:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[💛허니텐과 함께하는 샤오 생일 파티💛]]></title>
-            <link>https://m.vlive.tv/video/271694</link>
-            <guid>https://m.vlive.tv/video/271694</guid>
-            <pubDate>Mon, 13 Dec 2021 06:38:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 9:00</span>
-										<span class="txt">UP10TION</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211213_200/163937409823313NgC_JPEG/upload_556436737854740240aab94b2-8b2b-4e22-845b-53f5930b1860.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[SF9 인성과 함께하는 보면 기부되는 V LIVE]]></title>
             <link>https://m.vlive.tv/video/271548</link>
@@ -76,6 +66,26 @@
 										오전 4:00</span>
 										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211210_15/1639118201810yLNSY_PNG/upload_8319789453737204874249b1d-2b7b-4a28-97bf-976f6008de6f.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[Music Access] Pop&Going wih AleXa 알렉사 & Won Jun 원준 of  E'LAST]]></title>
+            <link>https://m.vlive.tv/video/271371</link>
+            <guid>https://m.vlive.tv/video/271371</guid>
+            <pubDate>Mon, 13 Dec 2021 09:32:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211209_282/16390333511814K9S9_JPEG/upload_8311308114295158592493cea-fd63-4fef-8ac5-248b42127a31.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio] Oh My K-POP with Samuel Seo 서사무엘]]></title>
+            <link>https://m.vlive.tv/video/270720</link>
+            <guid>https://m.vlive.tv/video/270720</guid>
+            <pubDate>Mon, 13 Dec 2021 09:32:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211202_109/1638421432610AjHQG_JPEG/upload_825011457477191511b22635f-7fb5-40f8-a71b-f1915da523bb.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
