@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 01:33:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 02:46:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,16 @@
 										오전 12:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211209_51/1639033761735SBdSI_JPEG/upload_831134769682596560130f845-0c79-4dc4-b2b2-59d51928caac.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
+            <link>https://m.vlive.tv/video/271373</link>
+            <guid>https://m.vlive.tv/video/271373</guid>
+            <pubDate>Mon, 13 Dec 2021 02:45:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 2:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211209_252/1639033400152Cm6Af_JPEG/upload_55302988800056944003b6767-b622-49f8-8a78-94ee759f2b44.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
