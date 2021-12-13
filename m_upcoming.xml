@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 10:36:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 11:29:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Sound K / Kidd king 키드킹)]]></title>
-            <link>https://m.vlive.tv/video/271424</link>
-            <guid>https://m.vlive.tv/video/271424</guid>
-            <pubDate>Sun, 12 Dec 2021 10:33:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211209_110/1639048926923Wl5TN_JPEG/upload_83128600406840703a021a92e-0755-4b13-b884-cb1cc1c82ad3.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[EVERGLOW DEBUT 1000 DAYS]]></title>
             <link>https://m.vlive.tv/video/271697</link>
@@ -86,6 +76,16 @@
 										오전 7:00</span>
 										<span class="txt">KINGDOM</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211213_291/1639370726373DWWnb_JPEG/upload_5564032173744789559f31bc7-ef8b-43f9-b595-3be194f6074f.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <줄리엣과 줄리엣> 녹화중계]]></title>
+            <link>https://m.vlive.tv/video/270733</link>
+            <guid>https://m.vlive.tv/video/270733</guid>
+            <pubDate>Mon, 13 Dec 2021 11:28:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">V MUSICAL</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211202_262/1638424588261BU08G_PNG/upload_825043236910794253b2532af-512b-4235-8774-be1b42274c5b.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
