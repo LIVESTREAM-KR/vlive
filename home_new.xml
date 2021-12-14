@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 13:03:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 13:45:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안뇽]]></title>
+            <link>https://www.vlive.tv/video/271819</link>
+            <guid>https://www.vlive.tv/video/271819</guid>
+            <pubDate>Tue, 14 Dec 2021 13:42:33 GMT</pubDate>
+            <content:encoded><![CDATA[CIX]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/271819/thumb?type=f228_128" length="0" type="image//live/271819/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[It's Xiwoo Time❣#52]]></title>
+            <link>https://www.vlive.tv/video/271818</link>
+            <guid>https://www.vlive.tv/video/271818</guid>
+            <pubDate>Tue, 14 Dec 2021 13:42:33 GMT</pubDate>
+            <content:encoded><![CDATA[24K]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/271818/thumb?type=f228_128" length="0" type="image//live/271818/thumb"/>
+        </item>
         <item>
             <title><![CDATA[꿀잠 자기 전 힐링 🕚🕚🕚]]></title>
             <link>https://www.vlive.tv/video/271817</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 14 Dec 2021 11:27:38 GMT</pubDate>
             <content:encoded><![CDATA[시그니처(cignature)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211214_52/16394831305175p2uu_JPEG/2fb11851-5cd4-11ec-a713-a0369ff95ec0_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🌙 TOMOON 1000 DAYS ANNIVERSARY 🌙]]></title>
-            <link>https://www.vlive.tv/video/271801</link>
-            <guid>https://www.vlive.tv/video/271801</guid>
-            <pubDate>Tue, 14 Dec 2021 12:03:13 GMT</pubDate>
-            <content:encoded><![CDATA[ONEUS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211214_98/1639476005578K00bH_JPEG/152351605569514951041ec82a-326f-40c9-8c84-90c7af477063.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🏠집콕!!✋🏻]]></title>
-            <link>https://www.vlive.tv/video/271806</link>
-            <guid>https://www.vlive.tv/video/271806</guid>
-            <pubDate>Tue, 14 Dec 2021 11:27:38 GMT</pubDate>
-            <content:encoded><![CDATA[AWEEK]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211214_32/1639478423882lgNL8_JPEG/1523540058309562629b4a72cc-ea65-4472-b4eb-9fc817961969.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
