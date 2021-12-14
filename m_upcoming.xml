@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 01:36:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 02:49:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
-            <link>https://m.vlive.tv/video/271373</link>
-            <guid>https://m.vlive.tv/video/271373</guid>
-            <pubDate>Mon, 13 Dec 2021 02:45:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 2:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211209_252/1639033400152Cm6Af_JPEG/upload_55302988800056944003b6767-b622-49f8-8a78-94ee759f2b44.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[ASC Live Ep.501 (ONEUS / 원어스)]]></title>
             <link>https://m.vlive.tv/video/271494</link>
@@ -96,6 +86,16 @@
 										오전 2:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211209_243/1639033426114PWSBj_JPEG/upload_831131428312779243792900f-135e-4c66-9624-e680aa6dddc2.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio/K-Poppin'] Music Director Choi Young Ho 음악감독 최영호]]></title>
+            <link>https://m.vlive.tv/video/271382</link>
+            <guid>https://m.vlive.tv/video/271382</guid>
+            <pubDate>Tue, 14 Dec 2021 02:47:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211209_300/16390338914751NQl7_JPEG/upload_831136072510315799f9e8dbb-6507-4e3b-8b28-d8e370b6ce50.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
