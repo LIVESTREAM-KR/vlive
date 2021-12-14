@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 09:33:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 10:36:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2021.12.14 Happy Seobin Day!]]></title>
-            <link>https://m.vlive.tv/video/271748</link>
-            <guid>https://m.vlive.tv/video/271748</guid>
-            <pubDate>Mon, 13 Dec 2021 18:35:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">윤서빈 (Yoon Seobin)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211214_81/1639417409543xkWXi_JPEG/upload_834965386116991545a8a6d16-1610-4b06-81e0-2bf8025d2303.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[연극 <줄리엣과 줄리엣> 녹화중계]]></title>
             <link>https://m.vlive.tv/video/270733</link>
@@ -88,14 +78,24 @@
             <enclosure url="https://v-phinf.pstatic.net/20211214_153/16394708688613OkFm_JPEG/upload_55740390336961158a26c2dbb-e07b-403b-86a6-b326c8a8905a.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[1st Re-Streaming] Beyond LIVE #Cinema - KAI : KLoor]]></title>
-            <link>https://m.vlive.tv/video/269953</link>
-            <guid>https://m.vlive.tv/video/269953</guid>
-            <pubDate>Tue, 14 Dec 2021 07:30:25 GMT</pubDate>
+            <title><![CDATA[HAPPY DAIN DAY🍑💖]]></title>
+            <link>https://m.vlive.tv/video/271802</link>
+            <guid>https://m.vlive.tv/video/271802</guid>
+            <pubDate>Tue, 14 Dec 2021 10:34:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">Beyond LIVE</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211124_5/1637746964089G2NsP_JPEG/upload_54016571132680841b75544f0-ed1f-4778-a4fe-8de1fb0d8e9e.jpg?type=f274_154" length="0" type="image/jpg"/>
+										오전 9:30</span>
+										<span class="txt">HOT ISSUE</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211214_106/1639476011715WW6cE_JPEG/upload_83547208229051838edfe1cd6-450b-4ade-aa13-7e6c5f2ffc52.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영재 V LIVE 같이 보러와줘요(💚)]]></title>
+            <link>https://m.vlive.tv/video/271800</link>
+            <guid>https://m.vlive.tv/video/271800</guid>
+            <pubDate>Tue, 14 Dec 2021 10:34:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">영재 (YOUNGJAE)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211214_26/1639474782603hNvSc_JPEG/upload_83553817407023261f09d62be-d369-457f-81e0-4b3955f7607d.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
