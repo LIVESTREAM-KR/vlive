@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 04:44:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 05:30:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Music Access] Pop&Going wih AleXa 알렉사 & Won Jun 원준 of  E'LAST]]></title>
-            <link>https://m.vlive.tv/video/271371</link>
-            <guid>https://m.vlive.tv/video/271371</guid>
-            <pubDate>Mon, 13 Dec 2021 09:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211209_282/16390333511814K9S9_JPEG/upload_8311308114295158592493cea-fd63-4fef-8ac5-248b42127a31.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio] Oh My K-POP with Samuel Seo 서사무엘]]></title>
             <link>https://m.vlive.tv/video/270720</link>
@@ -96,6 +86,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211209_26/1639032998630TtcgY_JPEG/upload_8311269516303921673cf5c68-45b1-4cfb-ab44-679d48da8ecb.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / 1415)]]></title>
+            <link>https://m.vlive.tv/video/271284</link>
+            <guid>https://m.vlive.tv/video/271284</guid>
+            <pubDate>Tue, 14 Dec 2021 05:29:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211208_269/1638956737852usnUn_JPEG/upload_8303641271602523978d192bd-164d-4e48-8a6c-0b060696560d.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
