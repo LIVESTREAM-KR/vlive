@@ -4,7 +4,7 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 17:06:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 17:44:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,22 @@
             <guid>https://www.vlive.tv/video/271828</guid>
             <pubDate>Tue, 14 Dec 2021 17:03:19 GMT</pubDate>
             <content:encoded><![CDATA[OH MY GIRL]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211215_223/1639502749139CPD99_JPEG/92bbc659-5d02-11ec-a979-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[와이엇이 왔다?!?! "왔엇?!"🦍 늦은 시간에... 미안 ㅎ]]></title>
+            <link>https://www.vlive.tv/video/271829</link>
+            <guid>https://www.vlive.tv/video/271829</guid>
+            <pubDate>Tue, 14 Dec 2021 17:42:03 GMT</pubDate>
+            <content:encoded><![CDATA[온앤오프 (ONF)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[안녕💛]]></title>
+            <link>https://www.vlive.tv/video/271827</link>
+            <guid>https://www.vlive.tv/video/271827</guid>
+            <pubDate>Tue, 14 Dec 2021 17:42:03 GMT</pubDate>
+            <content:encoded><![CDATA[VICTON]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211215_9/1639501444472aGYhR_JPEG/upload_557710418244432567cceb62d-64f5-48cb-ac1c-34db3a2b1ee4.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[다시! 😢]]></title>
@@ -389,22 +405,6 @@
             <pubDate>Tue, 14 Dec 2021 08:36:16 GMT</pubDate>
             <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211214_184/1639473247582FscNN_JPEG/upload_83552971786623964bcf350d9-21f2-4371-b820-6dfc4a0f4158.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[😚😚🐣]]></title>
-            <link>https://www.vlive.tv/video/271790</link>
-            <guid>https://www.vlive.tv/video/271790</guid>
-            <pubDate>Tue, 14 Dec 2021 09:31:06 GMT</pubDate>
-            <content:encoded><![CDATA[예린 (YERIN)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211214_257/1639483475104KMsR8_JPEG/upload_83563207536311602508d1d5d-5276-4527-bf37-861a23594830.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[ Danny's Day 2021 ] Preview Video!]]></title>
-            <link>https://www.vlive.tv/video/271789</link>
-            <guid>https://www.vlive.tv/video/271789</guid>
-            <pubDate>Tue, 14 Dec 2021 08:36:16 GMT</pubDate>
-            <content:encoded><![CDATA[커즈나인엔터테인먼트 (CUZ9)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211214_183/1639468788078r1bya_PNG/upload_835484329108339236cbe712c-3267-495b-a153-58ccd301bc6d.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

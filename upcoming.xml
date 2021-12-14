@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 17:06:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 17:44:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -640,12 +640,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20211215_269/16395002178746HaOS_JPEG/d4583fc6-5cfc-11ec-9e9c-48df379cc9e4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[안녕💛]]></title>
+            <link>https://www.vlive.tv/video/271827</link>
+            <guid>https://www.vlive.tv/video/271827</guid>
+            <pubDate>Tue, 14 Dec 2021 17:43:08 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:05]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211215_9/1639501444472aGYhR_JPEG/upload_557710418244432567cceb62d-64f5-48cb-ac1c-34db3a2b1ee4.jpeg?type=f228_128" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[와이엇이 왔다?!?! "왔엇?!"🦍 늦은 시간에... 미안 ㅎ]]></title>
+            <link>https://www.vlive.tv/video/271829</link>
+            <guid>https://www.vlive.tv/video/271829</guid>
+            <pubDate>Tue, 14 Dec 2021 17:43:08 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:18]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/271829/thumb?type=f228_128" length="0" type="image//live/271829/thumb"/>
+        </item>
+        <item>
             <title><![CDATA[씅디오]]></title>
             <link>https://www.vlive.tv/video/271828</link>
             <guid>https://www.vlive.tv/video/271828</guid>
             <pubDate>Tue, 14 Dec 2021 17:04:22 GMT</pubDate>
-            <content:encoded><![CDATA[오후 4:56]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/271828/thumb?type=f228_128" length="0" type="image//live/271828/thumb"/>
+            <content:encoded><![CDATA[오후 5:25]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211215_223/1639502749139CPD99_JPEG/92bbc659-5d02-11ec-a979-48df37ae3dc4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

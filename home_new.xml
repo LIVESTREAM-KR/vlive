@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 17:06:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 17:44:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,23 @@
             <guid>https://www.vlive.tv/video/271828</guid>
             <pubDate>Tue, 14 Dec 2021 17:03:28 GMT</pubDate>
             <content:encoded><![CDATA[OH MY GIRL]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/271828/thumb?type=f228_128" length="0" type="image//live/271828/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20211215_223/1639502749139CPD99_JPEG/92bbc659-5d02-11ec-a979-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[와이엇이 왔다?!?! "왔엇?!"🦍 늦은 시간에... 미안 ㅎ]]></title>
+            <link>https://www.vlive.tv/video/271829</link>
+            <guid>https://www.vlive.tv/video/271829</guid>
+            <pubDate>Tue, 14 Dec 2021 17:42:13 GMT</pubDate>
+            <content:encoded><![CDATA[온앤오프 (ONF)]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/271829/thumb?type=f228_128" length="0" type="image//live/271829/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[안녕💛]]></title>
+            <link>https://www.vlive.tv/video/271827</link>
+            <guid>https://www.vlive.tv/video/271827</guid>
+            <pubDate>Tue, 14 Dec 2021 17:42:13 GMT</pubDate>
+            <content:encoded><![CDATA[VICTON]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211215_9/1639501444472aGYhR_JPEG/upload_557710418244432567cceb62d-64f5-48cb-ac1c-34db3a2b1ee4.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[다시! 😢]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 14 Dec 2021 14:40:41 GMT</pubDate>
             <content:encoded><![CDATA[KIM WOOJIN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211214_14/1639464310171jsTkv_JPEG/upload_557338140616317140313f2d1-6812-40f8-aee3-172026c9f9e1.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안뇽]]></title>
-            <link>https://www.vlive.tv/video/271819</link>
-            <guid>https://www.vlive.tv/video/271819</guid>
-            <pubDate>Tue, 14 Dec 2021 13:42:33 GMT</pubDate>
-            <content:encoded><![CDATA[CIX]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211214_118/1639489620659tfx5H_JPEG/f7310860-5ce3-11ec-82c9-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Go!9cam] Acting teacher 'Lee jinwoo']]></title>
-            <link>https://www.vlive.tv/video/271765</link>
-            <guid>https://www.vlive.tv/video/271765</guid>
-            <pubDate>Tue, 14 Dec 2021 13:01:27 GMT</pubDate>
-            <content:encoded><![CDATA[GHOST9]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211214_232/1639456062115mDAEP_JPEG/upload_83535674027808181c26131f0-75aa-46e6-9361-5c2085f0a564.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
