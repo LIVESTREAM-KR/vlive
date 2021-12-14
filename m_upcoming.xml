@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 10:36:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 11:30:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[연극 <줄리엣과 줄리엣> 녹화중계]]></title>
-            <link>https://m.vlive.tv/video/270733</link>
-            <guid>https://m.vlive.tv/video/270733</guid>
-            <pubDate>Mon, 13 Dec 2021 11:28:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">V MUSICAL</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211202_262/1638424588261BU08G_PNG/upload_825043236910794253b2532af-512b-4235-8774-be1b42274c5b.png?type=f274_154" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthews]]></title>
             <link>https://m.vlive.tv/video/271379</link>
@@ -96,6 +86,16 @@
 										오전 10:00</span>
 										<span class="txt">영재 (YOUNGJAE)</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211214_26/1639474782603hNvSc_JPEG/upload_83553817407023261f09d62be-d369-457f-81e0-4b3955f7607d.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[1st Re-Streaming] Beyond LIVE #Cinema - KAI : KLoor]]></title>
+            <link>https://m.vlive.tv/video/269953</link>
+            <guid>https://m.vlive.tv/video/269953</guid>
+            <pubDate>Tue, 14 Dec 2021 11:28:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Beyond LIVE</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211124_5/1637746964089G2NsP_JPEG/upload_54016571132680841b75544f0-ed1f-4778-a4fe-8de1fb0d8e9e.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
