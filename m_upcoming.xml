@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 06:38:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 07:32:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio] Oh My K-POP with Samuel Seo 서사무엘 #온앤오프 #ONF]]></title>
-            <link>https://m.vlive.tv/video/270720</link>
-            <guid>https://m.vlive.tv/video/270720</guid>
-            <pubDate>Mon, 13 Dec 2021 09:32:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211214_147/1639461881110R4nWV_JPEG/upload_825011457477191511b22635f-7fb5-40f8-a71b-f1915da523bb.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[킹덤 300일 ♥]]></title>
-            <link>https://m.vlive.tv/video/271685</link>
-            <guid>https://m.vlive.tv/video/271685</guid>
-            <pubDate>Mon, 13 Dec 2021 10:35:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">KINGDOM</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211213_291/1639370726373DWWnb_JPEG/upload_5564032173744789559f31bc7-ef8b-43f9-b595-3be194f6074f.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2021.12.14 Happy Seobin Day!]]></title>
             <link>https://m.vlive.tv/video/271748</link>
@@ -96,6 +76,26 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211208_269/1638956737852usnUn_JPEG/upload_8303641271602523978d192bd-164d-4e48-8a6c-0b060696560d.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[1st Re-Streaming] Beyond LIVE #Cinema - KAI : KLoor]]></title>
+            <link>https://m.vlive.tv/video/269953</link>
+            <guid>https://m.vlive.tv/video/269953</guid>
+            <pubDate>Tue, 14 Dec 2021 07:30:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Beyond LIVE</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211124_5/1637746964089G2NsP_JPEG/upload_54016571132680841b75544f0-ed1f-4778-a4fe-8de1fb0d8e9e.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[♥HAPPY SOEUN DAY♥]]></title>
+            <link>https://m.vlive.tv/video/271769</link>
+            <guid>https://m.vlive.tv/video/271769</guid>
+            <pubDate>Tue, 14 Dec 2021 07:30:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">TRI.BE</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211214_284/1639457468815x1n06_JPEG/upload_835371024417158558211e3ff-18ff-426d-8ec4-e6af980c9df9.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
