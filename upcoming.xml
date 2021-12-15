@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 17:49:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 18:51:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -672,14 +672,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20211216_94/1639581251697oelq6_JPEG/2bcc39c7-5db9-11ec-9970-a0369ff94ec8_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[FALLING AGAIN #OMRR 💛🐝]]></title>
-            <link>https://www.vlive.tv/video/271923</link>
-            <guid>https://www.vlive.tv/video/271923</guid>
-            <pubDate>Wed, 15 Dec 2021 17:04:03 GMT</pubDate>
-            <content:encoded><![CDATA[오후 4:10]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211216_205/1639584657394tvTOR_JPEG/1228961331796849529e32e69d-a8a3-40ba-a6f4-d493acf9969e.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[자쟈💫]]></title>
             <link>https://www.vlive.tv/video/271924</link>
             <guid>https://www.vlive.tv/video/271924</guid>
@@ -694,6 +686,14 @@
             <pubDate>Wed, 15 Dec 2021 17:04:03 GMT</pubDate>
             <content:encoded><![CDATA[오후 5:40]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211216_232/1639587758337MiR7c_JPEG/15237613749801698009d65872-a49b-4f6a-b91a-30a65f9334fa.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[FALLING AGAIN #OMRR 💛🐝]]></title>
+            <link>https://www.vlive.tv/video/271923</link>
+            <guid>https://www.vlive.tv/video/271923</guid>
+            <pubDate>Wed, 15 Dec 2021 17:04:03 GMT</pubDate>
+            <content:encoded><![CDATA[오후 6:28]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211216_205/1639584657394tvTOR_JPEG/1228961331796849529e32e69d-a8a3-40ba-a6f4-d493acf9969e.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
