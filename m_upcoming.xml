@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Dec 2021 23:45:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 01:45:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthews]]></title>
-            <link>https://m.vlive.tv/video/271379</link>
-            <guid>https://m.vlive.tv/video/271379</guid>
-            <pubDate>Mon, 13 Dec 2021 14:29:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 12:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211209_272/1639033677489ns5iX_JPEG/upload_55303257074700941bf9a1a50-edcf-474a-9fab-f70007f42d86.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
             <link>https://m.vlive.tv/video/271374</link>
@@ -106,6 +96,16 @@
 										오전 11:00</span>
 										<span class="txt">TRI.BE</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211214_284/1639457468815x1n06_JPEG/upload_835371024417158558211e3ff-18ff-426d-8ec4-e6af980c9df9.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
+            <link>https://m.vlive.tv/video/271378</link>
+            <guid>https://m.vlive.tv/video/271378</guid>
+            <pubDate>Wed, 15 Dec 2021 01:44:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 12:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211209_145/1639033633427ugwKC_JPEG/upload_8311332930542815594e45bd5-deeb-4f80-9f16-c347bbf5dca2.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
