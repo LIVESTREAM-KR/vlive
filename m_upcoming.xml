@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 10:47:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 11:41:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[1st Re-Streaming] Beyond LIVE #Cinema - KAI : KLoor]]></title>
-            <link>https://m.vlive.tv/video/269953</link>
-            <guid>https://m.vlive.tv/video/269953</guid>
-            <pubDate>Tue, 14 Dec 2021 13:43:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">Beyond LIVE</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211124_5/1637746964089G2NsP_JPEG/upload_54016571132680841b75544f0-ed1f-4778-a4fe-8de1fb0d8e9e.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[♥HAPPY SOEUN DAY♥]]></title>
-            <link>https://m.vlive.tv/video/271769</link>
-            <guid>https://m.vlive.tv/video/271769</guid>
-            <pubDate>Tue, 14 Dec 2021 15:47:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">TRI.BE</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211214_284/1639457468815x1n06_JPEG/upload_835371024417158558211e3ff-18ff-426d-8ec4-e6af980c9df9.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
             <link>https://m.vlive.tv/video/271378</link>
@@ -106,6 +86,26 @@
 										오전 10:15</span>
 										<span class="txt">ARTMCONCERT</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211118_265/1637196054986d1boV_PNG/upload_812757737333661174e8474e1-f88d-453f-a89d-7faf14a8df46.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[무용 <안간힘> 녹화중계]]></title>
+            <link>https://m.vlive.tv/video/270825</link>
+            <guid>https://m.vlive.tv/video/270825</guid>
+            <pubDate>Wed, 15 Dec 2021 11:39:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">V CLASSIC</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211203_273/16384971933024CPiQ_JPEG/upload_82576914673175784ceefbfef-8dff-4e50-8b27-a097eea4eafd.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['킹메이커' 무비토크 라이브]]></title>
+            <link>https://m.vlive.tv/video/271530</link>
+            <guid>https://m.vlive.tv/video/271530</guid>
+            <pubDate>Wed, 15 Dec 2021 11:39:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">V MOVIE</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211210_297/1639131865262rrujw_JPEG/upload_83211600648137098ce8dd3fb-9924-4e4d-8fd3-20788f19a9bb.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
