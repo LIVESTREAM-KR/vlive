@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 07:42:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 08:49:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[자한이 왔어욤 ♥]]></title>
-            <link>https://m.vlive.tv/video/271793</link>
-            <guid>https://m.vlive.tv/video/271793</guid>
-            <pubDate>Tue, 14 Dec 2021 08:37:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 8:00</span>
-										<span class="txt">KINGDOM</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211214_153/16394708688613OkFm_JPEG/upload_55740390336961158a26c2dbb-e07b-403b-86a6-b326c8a8905a.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[HAPPY DAIN DAY🍑💖]]></title>
             <link>https://m.vlive.tv/video/271802</link>
@@ -86,6 +76,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211209_260/1639032945119h2H4V_JPEG/upload_831126571530999372a9b98a8-6390-4200-a668-d1d8701328b6.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop] Club House]]></title>
+            <link>https://m.vlive.tv/video/271368</link>
+            <guid>https://m.vlive.tv/video/271368</guid>
+            <pubDate>Wed, 15 Dec 2021 08:47:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211209_120/1639033226846xCiVd_JPEG/upload_83112933361437930d7ded616-c291-4a51-8e53-d0b8e817af7e.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
