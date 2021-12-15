@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 08:49:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 09:46:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[HAPPY DAIN DAY🍑💖]]></title>
-            <link>https://m.vlive.tv/video/271802</link>
-            <guid>https://m.vlive.tv/video/271802</guid>
-            <pubDate>Tue, 14 Dec 2021 10:34:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 9:30</span>
-										<span class="txt">HOT ISSUE</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211214_106/1639476011715WW6cE_JPEG/upload_83547208229051838edfe1cd6-450b-4ade-aa13-7e6c5f2ffc52.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[영재 V LIVE 같이 보러와줘요(💚)]]></title>
             <link>https://m.vlive.tv/video/271800</link>
@@ -86,6 +76,26 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211209_120/1639033226846xCiVd_JPEG/upload_83112933361437930d7ded616-c291-4a51-8e53-d0b8e817af7e.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[치우의 파스타 만들기👨‍🍳]]></title>
+            <link>https://m.vlive.tv/video/271866</link>
+            <guid>https://m.vlive.tv/video/271866</guid>
+            <pubDate>Wed, 15 Dec 2021 09:44:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">KINGDOM</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211215_60/1639554565442cEwoT_JPEG/upload_8363421491857182099e64c59-777e-4e03-8c20-d182746a4ffb.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[143회 아트엠콘서트, 피아니스트 윤아인]]></title>
+            <link>https://m.vlive.tv/video/269278</link>
+            <guid>https://m.vlive.tv/video/269278</guid>
+            <pubDate>Wed, 15 Dec 2021 09:44:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:15</span>
+										<span class="txt">ARTMCONCERT</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211118_265/1637196054986d1boV_PNG/upload_812757737333661174e8474e1-f88d-453f-a89d-7faf14a8df46.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
