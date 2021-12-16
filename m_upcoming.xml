@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 23:45:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 01:44:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
-            <link>https://m.vlive.tv/video/271378</link>
-            <guid>https://m.vlive.tv/video/271378</guid>
-            <pubDate>Wed, 15 Dec 2021 03:45:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 12:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211209_145/1639033633427ugwKC_JPEG/upload_8311332930542815594e45bd5-deeb-4f80-9f16-c347bbf5dca2.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
             <link>https://m.vlive.tv/video/271375</link>
@@ -106,6 +96,16 @@
 										오전 11:00</span>
 										<span class="txt">V MOVIE</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211210_297/1639131865262rrujw_JPEG/upload_83211600648137098ce8dd3fb-9924-4e4d-8fd3-20788f19a9bb.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / Koonta 쿤타)]]></title>
+            <link>https://m.vlive.tv/video/271842</link>
+            <guid>https://m.vlive.tv/video/271842</guid>
+            <pubDate>Thu, 16 Dec 2021 01:43:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211215_195/1639538231393UMJDj_JPEG/upload_83617931919485838fbf747a4-3bbf-48e8-b5a5-ce9e78197c09.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
