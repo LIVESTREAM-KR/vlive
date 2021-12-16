@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 07:42:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 08:49:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,16 @@
 										오전 3:00</span>
 										<span class="txt">sema</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210602_141/16226120899161VryL_PNG/upload_66691712383119110d1ceeb76-1804-4c79-843a-3d40235addc5.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Simply K-Pop CON-TOUR (심플리케이팝 콘투어) _ Ep.498]]></title>
+            <link>https://m.vlive.tv/video/271970</link>
+            <guid>https://m.vlive.tv/video/271970</guid>
+            <pubDate>Thu, 16 Dec 2021 08:47:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211216_239/1639635892778YAWDK_PNG/upload_83715594605934203d5b4bb56-877c-415a-b074-18bb8bad6330.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
