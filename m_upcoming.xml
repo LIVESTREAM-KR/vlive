@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 06:52:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 07:42:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / Super K-Pop] Club House]]></title>
-            <link>https://m.vlive.tv/video/271368</link>
-            <guid>https://m.vlive.tv/video/271368</guid>
-            <pubDate>Wed, 15 Dec 2021 08:47:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211209_120/1639033226846xCiVd_JPEG/upload_83112933361437930d7ded616-c291-4a51-8e53-d0b8e817af7e.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[치우의 파스타 만들기👨‍🍳]]></title>
-            <link>https://m.vlive.tv/video/271866</link>
-            <guid>https://m.vlive.tv/video/271866</guid>
-            <pubDate>Wed, 15 Dec 2021 09:44:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">KINGDOM</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211215_60/1639554565442cEwoT_JPEG/upload_8363421491857182099e64c59-777e-4e03-8c20-d182746a4ffb.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[LUCY 2nd EP 'BLUE' BEHIND LIVE]]></title>
             <link>https://m.vlive.tv/video/271878</link>
@@ -96,6 +76,26 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211209_217/1639033583474BPRzX_JPEG/upload_831132854016922642e8e8735-4c40-4970-bf80-7ab3709b2e45.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
+            <link>https://m.vlive.tv/video/271376</link>
+            <guid>https://m.vlive.tv/video/271376</guid>
+            <pubDate>Thu, 16 Dec 2021 07:41:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 2:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211209_12/1639033492792Kbk3o_JPEG/upload_8311319766528288475a8fb2c-70e9-4c12-a6e1-d852599a88be.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[mini monster Birthday]]></title>
+            <link>https://m.vlive.tv/video/250861</link>
+            <guid>https://m.vlive.tv/video/250861</guid>
+            <pubDate>Thu, 16 Dec 2021 07:41:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 3:00</span>
+										<span class="txt">sema</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210602_141/16226120899161VryL_PNG/upload_66691712383119110d1ceeb76-1804-4c79-843a-3d40235addc5.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
