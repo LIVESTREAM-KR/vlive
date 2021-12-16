@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 13:04:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 13:45:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,14 +16,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20211215_162/1639564893355FS2dy_JPEG/upload_8364297150721145815046646-3955-4aff-a885-d9d4332daa78.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[드림캐쳐]데칼코마니👥]]></title>
-            <link>https://www.vlive.tv/video/271916</link>
-            <guid>https://www.vlive.tv/video/271916</guid>
-            <pubDate>Thu, 16 Dec 2021 10:42:36 GMT</pubDate>
-            <content:encoded><![CDATA[DREAMCATCHER]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211216_61/1639613209532ONeUL_JPEG/67821ef6-5db4-11ec-a979-48df37ae3dc4_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[Stray Kids(스트레이 키즈) : SKZ-TALKER(슼즈토커)] Ep.43]]></title>
             <link>https://www.vlive.tv/video/272005</link>
             <guid>https://www.vlive.tv/video/272005</guid>
@@ -32,12 +24,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20211216_131/1639652184456hag3s_JPEG/upload_8373022894774586136f9018d-3f81-4ffb-a741-26cac3d8d426.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[지민씨 등장]]></title>
-            <link>https://www.vlive.tv/video/265730</link>
-            <guid>https://www.vlive.tv/video/265730</guid>
-            <pubDate>Thu, 16 Dec 2021 11:39:05 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211013_144/1634122553955eHKox_JPEG/upload_78202275760730696931ec09d-bfa2-4361-8b27-5b66010714b3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <title><![CDATA[ENHYPEN (엔하이픈) 'EN-O'CLOCK' EP.20]]></title>
+            <link>https://www.vlive.tv/video/271983</link>
+            <guid>https://www.vlive.tv/video/271983</guid>
+            <pubDate>Thu, 16 Dec 2021 13:43:05 GMT</pubDate>
+            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211216_183/1639642761443WFGpW_JPEG/upload_837224603202030726383a71a-d441-4403-a194-743e58e7734d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[드림캐쳐]데칼코마니👥]]></title>
+            <link>https://www.vlive.tv/video/271916</link>
+            <guid>https://www.vlive.tv/video/271916</guid>
+            <pubDate>Thu, 16 Dec 2021 10:42:36 GMT</pubDate>
+            <content:encoded><![CDATA[DREAMCATCHER]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211216_61/1639613209532ONeUL_JPEG/67821ef6-5db4-11ec-a979-48df37ae3dc4_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
