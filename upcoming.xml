@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 17:07:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 17:49:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -720,20 +720,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20211217_277/1639671054882u2J70_JPEG/386464215057837336bdb584b-6cdb-40a0-adf5-c5e6e80b22c1.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ㅎ]]></title>
-            <link>https://www.vlive.tv/video/272036</link>
-            <guid>https://www.vlive.tv/video/272036</guid>
-            <pubDate>Thu, 16 Dec 2021 17:05:39 GMT</pubDate>
-            <content:encoded><![CDATA[오후 5:00]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/272036/thumb?type=f228_128" length="0" type="image//live/272036/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[HI 😛🐝🙌🏻💛]]></title>
             <link>https://www.vlive.tv/video/272037</link>
             <guid>https://www.vlive.tv/video/272037</guid>
             <pubDate>Thu, 16 Dec 2021 17:05:39 GMT</pubDate>
             <content:encoded><![CDATA[오후 5:01]]></content:encoded>
             <enclosure url="https://vlive-thumb.pstatic.net/live/272037/thumb?type=f228_128" length="0" type="image//live/272037/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[ㅎ]]></title>
+            <link>https://www.vlive.tv/video/272036</link>
+            <guid>https://www.vlive.tv/video/272036</guid>
+            <pubDate>Thu, 16 Dec 2021 17:05:39 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:33]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211217_87/16396759922100yJys_JPEG/020e00d1-5e96-11ec-ab0b-246e963a464c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
