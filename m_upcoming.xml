@@ -4,39 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Dec 2021 09:46:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Dec 2021 10:45:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[LUCY 2nd EP 'BLUE' BEHIND LIVE]]></title>
-            <link>https://m.vlive.tv/video/271878</link>
-            <guid>https://m.vlive.tv/video/271878</guid>
-            <pubDate>Wed, 15 Dec 2021 10:45:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">LUCY 루시</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211215_132/1639558259333yRPOn_JPEG/upload_83637821532578760f8e916aa-29ee-4fe7-813b-34ee72cac183.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뽀라디오💜]]></title>
-            <link>https://m.vlive.tv/video/271897</link>
-            <guid>https://m.vlive.tv/video/271897</guid>
-            <pubDate>Wed, 15 Dec 2021 10:45:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">Cherry Bullet</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211215_2/1639562409808MxAs7_JPEG/upload_836420522524413446c5c496b-07e3-4af5-81cd-2808d4225eff.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[143회 아트엠콘서트, 피아니스트 윤아인]]></title>
-            <link>https://m.vlive.tv/video/269278</link>
-            <guid>https://m.vlive.tv/video/269278</guid>
-            <pubDate>Wed, 15 Dec 2021 09:44:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:15</span>
-										<span class="txt">ARTMCONCERT</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211118_265/1637196054986d1boV_PNG/upload_812757737333661174e8474e1-f88d-453f-a89d-7faf14a8df46.png?type=f274_154" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[무용 <안간힘> 녹화중계]]></title>
             <link>https://m.vlive.tv/video/270825</link>
@@ -106,6 +76,36 @@
 										오전 4:00</span>
 										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211216_239/1639635892778YAWDK_PNG/upload_83715594605934203d5b4bb56-877c-415a-b074-18bb8bad6330.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Music Access / SOLE 쏠)]]></title>
+            <link>https://m.vlive.tv/video/271428</link>
+            <guid>https://m.vlive.tv/video/271428</guid>
+            <pubDate>Thu, 16 Dec 2021 10:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211209_203/1639049115926f2Yd5_JPEG/upload_8312879789470021954da28fb-b415-40c5-a3a4-db54fa7efa80.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop ] Topic Song with BÉBE YANA]]></title>
+            <link>https://m.vlive.tv/video/271369</link>
+            <guid>https://m.vlive.tv/video/271369</guid>
+            <pubDate>Thu, 16 Dec 2021 10:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211209_151/1639033796368CQjqM_JPEG/upload_5530286715967201388e758d7-a470-4e84-9754-1d605dd4fa3c.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[킹메이커 바니 왔어요🐰❤]]></title>
+            <link>https://m.vlive.tv/video/272000</link>
+            <guid>https://m.vlive.tv/video/272000</guid>
+            <pubDate>Thu, 16 Dec 2021 10:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 8:00</span>
+										<span class="txt">KINGDOM</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211216_238/1639649502445giBiz_JPEG/upload_83729100913345540dda765d1-cfb1-404e-b582-f17ce89e476d.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
