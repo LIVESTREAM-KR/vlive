@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 04:56:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 05:42:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Music Access / SOLE 쏠)]]></title>
-            <link>https://m.vlive.tv/video/271428</link>
-            <guid>https://m.vlive.tv/video/271428</guid>
-            <pubDate>Thu, 16 Dec 2021 10:43:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211209_203/1639049115926f2Yd5_JPEG/upload_8312879789470021954da28fb-b415-40c5-a3a4-db54fa7efa80.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Super K-Pop ] Topic Song with BÉBE YANA]]></title>
             <link>https://m.vlive.tv/video/271369</link>
@@ -66,6 +56,16 @@
 										오후 1:00</span>
 										<span class="txt">MAJOR9 (메이저나인)</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211215_177/1639562206111Jogpv_JPEG/upload_836418886433634749e10d1b4-f4e2-4356-9f83-26ac1ec50225.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2nd Re-Streaming] Beyond LIVE #Cinema - KAI : KLoor]]></title>
+            <link>https://m.vlive.tv/video/269954</link>
+            <guid>https://m.vlive.tv/video/269954</guid>
+            <pubDate>Fri, 17 Dec 2021 05:40:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 2:00</span>
+										<span class="txt">Beyond LIVE</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211124_166/1637746976995KdOMe_JPEG/upload_81826712423080603415ba204-30eb-45ea-b500-452d5d4cf5d6.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
