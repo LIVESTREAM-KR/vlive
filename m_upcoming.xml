@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 11:41:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 13:03:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2ND ANNIVERSARY! 새봄이와 함께해요!]]></title>
-            <link>https://m.vlive.tv/video/272120</link>
-            <guid>https://m.vlive.tv/video/272120</guid>
-            <pubDate>Fri, 17 Dec 2021 10:45:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 12:00</span>
-										<span class="txt">OH SAE BOM / 오새봄</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211217_53/1639737841161sht5N_JPEG/upload_83817481852488784e12b8932-b81b-4322-9db4-2b6182eecdd5.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[한빈] 한빈이의 '백투더퓨처💫' - 2화]]></title>
-            <link>https://m.vlive.tv/video/271894</link>
-            <guid>https://m.vlive.tv/video/271894</guid>
-            <pubDate>Fri, 17 Dec 2021 02:57:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 1:00</span>
-										<span class="txt">MAJOR9 (메이저나인)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211215_177/1639562206111Jogpv_JPEG/upload_836418886433634749e10d1b4-f4e2-4356-9f83-26ac1ec50225.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[2nd Re-Streaming] Beyond LIVE #Cinema - KAI : KLoor]]></title>
             <link>https://m.vlive.tv/video/269954</link>
@@ -76,6 +56,46 @@
 										오전 8:30</span>
 										<span class="txt">AsiaModelAwards</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211215_3/1639556910193WGT7e_JPEG/upload_8363662347578965135af65be-4d59-4420-b6f2-dae4711f4b83.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
+            <link>https://m.vlive.tv/video/271965</link>
+            <guid>https://m.vlive.tv/video/271965</guid>
+            <pubDate>Fri, 17 Dec 2021 13:02:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211216_196/1639631852570ay8up_JPEG/upload_83711557114181624c17e5da3-9038-4752-86bb-5f2b789fbed5.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Music Access / Rockingdoll 록킹돌)]]></title>
+            <link>https://m.vlive.tv/video/271862</link>
+            <guid>https://m.vlive.tv/video/271862</guid>
+            <pubDate>Fri, 17 Dec 2021 13:02:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211215_258/1639551718059pJH8H_JPEG/upload_836314144160888609e6948e9-6204-4d1a-a4d7-e194d620480a.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / B.I.G 비아이지)]]></title>
+            <link>https://m.vlive.tv/video/271858</link>
+            <guid>https://m.vlive.tv/video/271858</guid>
+            <pubDate>Fri, 17 Dec 2021 13:02:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211215_91/16395506335992vbEV_JPEG/upload_83630296134687669541fd8c5-a262-4d5f-a182-ae6e5a226ce9.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE] SIMPLY K-POP CON-TOUR (📍Year-End Special)]]></title>
+            <link>https://m.vlive.tv/video/272071</link>
+            <guid>https://m.vlive.tv/video/272071</guid>
+            <pubDate>Fri, 17 Dec 2021 13:02:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211217_280/1639722368056gay3o_PNG/upload_83802037732660227e843ff15-70ed-4fb8-a3ec-3f535e37dbbf.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
