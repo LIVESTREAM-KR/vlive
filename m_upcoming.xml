@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 08:48:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 09:46:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Happy SeungHyun Day 💙]]></title>
-            <link>https://m.vlive.tv/video/272090</link>
-            <guid>https://m.vlive.tv/video/272090</guid>
-            <pubDate>Fri, 17 Dec 2021 08:47:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 9:00</span>
-										<span class="txt">청공소년 (Bz_Boys)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211217_187/1639728739596NUovm_JPEG/upload_838083526620247592249d728-5207-462a-81e0-28cf3d71b142.jpeg?type=f274_154" length="0" type="image/jpeg"/>
-        </item>
         <item>
             <title><![CDATA[🎉루미너스 100일 축하🎉]]></title>
             <link>https://m.vlive.tv/video/272050</link>
@@ -46,6 +36,16 @@
 										오후 1:00</span>
 										<span class="txt">MAJOR9 (메이저나인)</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211215_177/1639562206111Jogpv_JPEG/upload_836418886433634749e10d1b4-f4e2-4356-9f83-26ac1ec50225.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2nd Re-Streaming] Beyond LIVE #Cinema - KAI : KLoor]]></title>
+            <link>https://m.vlive.tv/video/269954</link>
+            <guid>https://m.vlive.tv/video/269954</guid>
+            <pubDate>Fri, 17 Dec 2021 09:44:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 2:00</span>
+										<span class="txt">Beyond LIVE</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211124_166/1637746976995KdOMe_JPEG/upload_81826712423080603415ba204-30eb-45ea-b500-452d5d4cf5d6.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
