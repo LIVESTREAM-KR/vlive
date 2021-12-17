@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ CHARTS </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 03:46:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 04:56:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20211217_135/1639708846604VpX2D_JPEG/3a60ba39-5ee2-11ec-850b-a0369ff95ec0_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ENHYPEN (엔하이픈) 'EN-O'CLOCK' EP.20]]></title>
-            <link>https://m.vlive.tv/video/271983</link>
-            <guid>https://m.vlive.tv/video/271983</guid>
-            <pubDate>Thu, 16 Dec 2021 15:47:27 GMT</pubDate>
-            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211216_183/1639642761443WFGpW_JPEG/upload_837224603202030726383a71a-d441-4403-a194-743e58e7734d.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[A-T-L]]></title>
             <link>https://m.vlive.tv/video/272047</link>
             <guid>https://m.vlive.tv/video/272047</guid>
             <pubDate>Fri, 17 Dec 2021 03:44:39 GMT</pubDate>
             <content:encoded><![CDATA[MONSTA X]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211217_79/1639711183513RyHUc_JPEG/b48fec0d-5ee7-11ec-bcc9-a0369ff952f4_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ENHYPEN (엔하이픈) 'EN-O'CLOCK' EP.20]]></title>
+            <link>https://m.vlive.tv/video/271983</link>
+            <guid>https://m.vlive.tv/video/271983</guid>
+            <pubDate>Thu, 16 Dec 2021 15:47:27 GMT</pubDate>
+            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211216_183/1639642761443WFGpW_JPEG/upload_837224603202030726383a71a-d441-4403-a194-743e58e7734d.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
