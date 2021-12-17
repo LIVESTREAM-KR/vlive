@@ -4,26 +4,16 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 01:49:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 02:59:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
-            <link>https://m.vlive.tv/video/271376</link>
-            <guid>https://m.vlive.tv/video/271376</guid>
-            <pubDate>Thu, 16 Dec 2021 07:41:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 2:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211209_12/1639033492792Kbk3o_JPEG/upload_8311319766528288475a8fb2c-70e9-4c12-a6e1-d852599a88be.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[mini monster Birthday]]></title>
             <link>https://m.vlive.tv/video/250861</link>
             <guid>https://m.vlive.tv/video/250861</guid>
             <pubDate>Thu, 16 Dec 2021 07:41:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="time">
-										오전 3:00</span>
+										오전 3:30</span>
 										<span class="txt">sema</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210602_141/16226120899161VryL_PNG/upload_66691712383119110d1ceeb76-1804-4c79-843a-3d40235addc5.png?type=f274_154" length="0" type="image/png"/>
         </item>
@@ -76,6 +66,16 @@
 										오전 11:00</span>
 										<span class="txt">TRI.BE</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211216_153/1639627321364Fo0Pl_JPEG/upload_55896667662536061c1120cf5-ed6a-4a03-aff9-c7fdd5f19b6c.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[한빈] 한빈이의 '백투더퓨처💫' - 2화]]></title>
+            <link>https://m.vlive.tv/video/271894</link>
+            <guid>https://m.vlive.tv/video/271894</guid>
+            <pubDate>Fri, 17 Dec 2021 02:57:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 1:00</span>
+										<span class="txt">MAJOR9 (메이저나인)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211215_177/1639562206111Jogpv_JPEG/upload_836418886433634749e10d1b4-f4e2-4356-9f83-26ac1ec50225.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
