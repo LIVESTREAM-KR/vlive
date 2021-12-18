@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Dec 2021 17:05:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Dec 2021 17:49:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -480,20 +480,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20211219_226/1639845743259RCGOi_JPEG/05085edc-601f-11ec-ace2-505dac8c385b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연습끝!]]></title>
-            <link>https://www.vlive.tv/video/272210</link>
-            <guid>https://www.vlive.tv/video/272210</guid>
-            <pubDate>Sat, 18 Dec 2021 17:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[오후 4:53]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211219_245/1639846434760Lfm4x_JPEG/152722098692457909815aaad9-3518-45c5-8a0a-8d01dfd73898.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[불토불토🍯🐝🙌🏻]]></title>
             <link>https://www.vlive.tv/video/272211</link>
             <guid>https://www.vlive.tv/video/272211</guid>
             <pubDate>Sat, 18 Dec 2021 17:04:00 GMT</pubDate>
             <content:encoded><![CDATA[오후 4:59]]></content:encoded>
             <enclosure url="https://vlive-thumb.pstatic.net/live/272211/thumb?type=f228_128" length="0" type="image//live/272211/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[연습끝!]]></title>
+            <link>https://www.vlive.tv/video/272210</link>
+            <guid>https://www.vlive.tv/video/272210</guid>
+            <pubDate>Sat, 18 Dec 2021 17:04:00 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:27]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211219_245/1639846434760Lfm4x_JPEG/152722098692457909815aaad9-3518-45c5-8a0a-8d01dfd73898.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
