@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Dec 2021 08:50:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Dec 2021 09:45:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[🎉HAPPY NAYOUNG DAY🎂]]></title>
-            <link>https://m.vlive.tv/video/271724</link>
-            <guid>https://m.vlive.tv/video/271724</guid>
-            <pubDate>Fri, 17 Dec 2021 10:45:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 9:00</span>
-										<span class="txt">임나영 (Lim Na Young)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211213_206/1639391728118euq8e_JPEG/upload_8346905499446198333c94a9c-9226-42f2-b9fa-0dde9953dbc3.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[🏡트라이비와 함께 이프랜드 게스트하우스에서 만나요🏡]]></title>
             <link>https://m.vlive.tv/video/271968</link>
@@ -106,6 +96,16 @@
 										오전 11:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211216_114/16396508626268zp4v_JPEG/upload_83730534594568748d24d15d5-f98f-4320-87b1-a193291b2569.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
+            <link>https://m.vlive.tv/video/271964</link>
+            <guid>https://m.vlive.tv/video/271964</guid>
+            <pubDate>Sat, 18 Dec 2021 09:44:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211216_230/1639631793708HtVqW_JPEG/upload_83711490211172751c5f15657-36bd-49fa-b503-73db25407adc.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
