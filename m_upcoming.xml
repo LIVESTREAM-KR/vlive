@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Dec 2021 03:01:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Dec 2021 03:47:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -58,6 +58,16 @@
             <enclosure url="https://v-phinf.pstatic.net/20211216_196/1639631852570ay8up_JPEG/upload_83711557114181624c17e5da3-9038-4752-86bb-5f2b789fbed5.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[he;;o]]></title>
+            <link>https://m.vlive.tv/video/272158</link>
+            <guid>https://m.vlive.tv/video/272158</guid>
+            <pubDate>Sat, 18 Dec 2021 03:45:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 2:30</span>
+										<span class="txt">sema</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211218_101/1639797099170AoCrG_JPEG/upload_83876777218146185079d42d7-f854-40af-a856-9ed92dedc790.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Arirang Radio (Music Access / Rockingdoll 록킹돌)]]></title>
             <link>https://m.vlive.tv/video/271862</link>
             <guid>https://m.vlive.tv/video/271862</guid>
@@ -96,16 +106,6 @@
 										오전 11:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211216_114/16396508626268zp4v_JPEG/upload_83730534594568748d24d15d5-f98f-4320-87b1-a193291b2569.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
-            <link>https://m.vlive.tv/video/271964</link>
-            <guid>https://m.vlive.tv/video/271964</guid>
-            <pubDate>Sat, 18 Dec 2021 02:59:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211216_230/1639631793708HtVqW_JPEG/upload_83711490211172751c5f15657-36bd-49fa-b503-73db25407adc.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
