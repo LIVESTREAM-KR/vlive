@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Dec 2021 03:47:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Dec 2021 04:55:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정훈이랑 수다 !]]></title>
+            <link>https://www.vlive.tv/video/272161</link>
+            <guid>https://www.vlive.tv/video/272161</guid>
+            <pubDate>Sat, 18 Dec 2021 04:53:22 GMT</pubDate>
+            <content:encoded><![CDATA[OMEGA X (오메가엑스)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211218_25/1639802540927Ef8CC_JPEG/152591076923878026046d8b0d-7b28-4282-bf5a-ddb14803d0ca.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중대발표합니다.]]></title>
+            <link>https://www.vlive.tv/video/272160</link>
+            <guid>https://www.vlive.tv/video/272160</guid>
+            <pubDate>Sat, 18 Dec 2021 04:53:22 GMT</pubDate>
+            <content:encoded><![CDATA[MONSTA X]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/272160/thumb?type=f228_128" length="0" type="image//live/272160/thumb"/>
+        </item>
         <item>
             <title><![CDATA[[선공개] 감탄이 절로 나오는 토요태의 <Still I Love You> 첫 공개 청음회♥, MBC 211218 방송]]></title>
             <link>https://www.vlive.tv/video/272156</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 17 Dec 2021 15:47:12 GMT</pubDate>
             <content:encoded><![CDATA[MisoJeong]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211202_157/1638430840753OsCFE_PNG/1638418656020.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘의 컨셉은 반말모드!!💓]]></title>
-            <link>https://www.vlive.tv/video/272143</link>
-            <guid>https://www.vlive.tv/video/272143</guid>
-            <pubDate>Fri, 17 Dec 2021 13:42:01 GMT</pubDate>
-            <content:encoded><![CDATA[Busters X 버스터즈]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211217_247/16397465951651MDr2_JPEG/15253496908835949892f01573-916e-4ca2-be00-9be37fa658d5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[다영]모자마스크 된다고 했다 (feat.옷장정리)]]></title>
-            <link>https://www.vlive.tv/video/272138</link>
-            <guid>https://www.vlive.tv/video/272138</guid>
-            <pubDate>Fri, 17 Dec 2021 13:01:01 GMT</pubDate>
-            <content:encoded><![CDATA[우주소녀(WJSN)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211217_114/1639751835602zERD3_JPEG/9ed39070-5f45-11ec-9c5c-48df379cca40_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
