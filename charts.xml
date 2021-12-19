@@ -4,17 +4,9 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 13:45:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 14:42:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[찬이의 "방" 🐺 Ep.137]]></title>
-            <link>https://www.vlive.tv/video/272205</link>
-            <guid>https://www.vlive.tv/video/272205</guid>
-            <pubDate>Sat, 18 Dec 2021 14:40:24 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211219_51/16398411245429RRlX_JPEG/0e809eba-6016-11ec-a2fc-a0369ff94ed0_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Addicted to the sunday afternoon]]></title>
             <link>https://www.vlive.tv/video/272223</link>
@@ -22,6 +14,14 @@
             <pubDate>Sun, 19 Dec 2021 07:40:20 GMT</pubDate>
             <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211219_74/1639900708664F1O4M_JPEG/upload_561703068167114769f9b7135-5f72-43cf-9404-2464f98a5cb1.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찬이의 "방" 🐺 Ep.137]]></title>
+            <link>https://www.vlive.tv/video/272205</link>
+            <guid>https://www.vlive.tv/video/272205</guid>
+            <pubDate>Sat, 18 Dec 2021 14:40:24 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211219_51/16398411245429RRlX_JPEG/0e809eba-6016-11ec-a2fc-a0369ff94ed0_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보고싶다 ㅠ 나는 마이애미야]]></title>
@@ -40,6 +40,13 @@
             <enclosure url="https://v-phinf.pstatic.net/20211204_233/16386184306010X0xi_JPEG/upload_8269812055083229294231289-1df9-400e-93a5-fa9d30a136be.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[꿈?🥰]]></title>
+            <link>https://www.vlive.tv/video/272244</link>
+            <guid>https://www.vlive.tv/video/272244</guid>
+            <pubDate>Sun, 19 Dec 2021 14:40:35 GMT</pubDate>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[Stray Kids(스트레이 키즈) : SKZ-TALKER(슼즈토커)] Ep.44]]></title>
             <link>https://www.vlive.tv/video/272226</link>
             <guid>https://www.vlive.tv/video/272226</guid>
@@ -54,14 +61,6 @@
             <pubDate>Sat, 18 Dec 2021 09:43:51 GMT</pubDate>
             <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211218_67/16398198489769Ybvj_JPEG/upload_83899439394556073b1171f20-4c5e-43cd-946c-5fd9e07ca096.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지민씨 등장]]></title>
-            <link>https://www.vlive.tv/video/265730</link>
-            <guid>https://www.vlive.tv/video/265730</guid>
-            <pubDate>Sun, 19 Dec 2021 13:42:56 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211013_144/1634122553955eHKox_JPEG/upload_78202275760730696931ec09d-bfa2-4361-8b27-5b66010714b3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
