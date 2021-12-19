@@ -4,9 +4,24 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 05:43:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 06:52:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Addicted to the sunday afternoon]]></title>
+            <link>https://www.vlive.tv/video/272223</link>
+            <guid>https://www.vlive.tv/video/272223</guid>
+            <pubDate>Sun, 19 Dec 2021 06:50:07 GMT</pubDate>
+            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[💙혭짱이랑 해피 일요일 💜]]></title>
+            <link>https://www.vlive.tv/video/272222</link>
+            <guid>https://www.vlive.tv/video/272222</guid>
+            <pubDate>Sun, 19 Dec 2021 06:50:07 GMT</pubDate>
+            <content:encoded><![CDATA[MOMOLAND]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211219_8/1639894756386QDzpJ_JPEG/1526831503273966941d26c110-0664-4250-9ca8-f447962e64c0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021桃園鐵玫瑰音樂節]]></title>
             <link>https://www.vlive.tv/video/272220</link>
@@ -110,22 +125,6 @@
             <pubDate>Sat, 18 Dec 2021 15:46:21 GMT</pubDate>
             <content:encoded><![CDATA[MBC드라마]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211219_228/1639841209934wNlV5_JPEG/upload_839209007316035534c271c5b-7d12-4a8b-8daa-0e4000cf5431.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찬이의 "방" 🐺 Ep.137]]></title>
-            <link>https://www.vlive.tv/video/272205</link>
-            <guid>https://www.vlive.tv/video/272205</guid>
-            <pubDate>Sat, 18 Dec 2021 14:39:58 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211219_51/16398411245429RRlX_JPEG/0e809eba-6016-11ec-a2fc-a0369ff94ed0_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오우 안녕]]></title>
-            <link>https://www.vlive.tv/video/272207</link>
-            <guid>https://www.vlive.tv/video/272207</guid>
-            <pubDate>Sat, 18 Dec 2021 15:46:21 GMT</pubDate>
-            <content:encoded><![CDATA[N.O.M]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211219_267/1639840375795FgF5W_JPEG/ce8074e1-6014-11ec-9c5c-48df379cca40_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

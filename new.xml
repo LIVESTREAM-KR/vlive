@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 05:43:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 06:52:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[💙혭짱이랑 해피 일요일 💜]]></title>
+            <link>https://www.vlive.tv/video/272222</link>
+            <guid>https://www.vlive.tv/video/272222</guid>
+            <pubDate>Sun, 19 Dec 2021 06:49:57 GMT</pubDate>
+            <content:encoded><![CDATA[MOMOLAND]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211219_8/1639894756386QDzpJ_JPEG/1526831503273966941d26c110-0664-4250-9ca8-f447962e64c0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2021桃園鐵玫瑰音樂節]]></title>
             <link>https://www.vlive.tv/video/272220</link>
@@ -398,14 +406,6 @@
             <pubDate>Sat, 18 Dec 2021 09:43:20 GMT</pubDate>
             <content:encoded><![CDATA[PURPLE KISS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211217_141/16397324619002Jktg_JPEG/upload_56002029479789329390449f3-4dfe-4b33-a6b3-ad21ff15d9a2.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리노리방😺보라리노]]></title>
-            <link>https://www.vlive.tv/video/272175</link>
-            <guid>https://www.vlive.tv/video/272175</guid>
-            <pubDate>Sat, 18 Dec 2021 07:39:29 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211218_256/1639815175511RoMEL_JPEG/08775446-5fda-11ec-b18f-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
