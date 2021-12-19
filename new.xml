@@ -4,7 +4,7 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 06:52:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 07:42:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,20 @@
             <pubDate>Sun, 19 Dec 2021 06:49:57 GMT</pubDate>
             <content:encoded><![CDATA[MOMOLAND]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211219_8/1639894756386QDzpJ_JPEG/1526831503273966941d26c110-0664-4250-9ca8-f447962e64c0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[좀 늦었죠? 상혁입니다:)]]></title>
+            <link>https://www.vlive.tv/video/272224</link>
+            <guid>https://www.vlive.tv/video/272224</guid>
+            <pubDate>Sun, 19 Dec 2021 07:39:47 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Addicted to the sunday afternoon]]></title>
+            <link>https://www.vlive.tv/video/272223</link>
+            <guid>https://www.vlive.tv/video/272223</guid>
+            <pubDate>Sun, 19 Dec 2021 07:39:47 GMT</pubDate>
+            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021桃園鐵玫瑰音樂節]]></title>
@@ -390,22 +404,6 @@
             <pubDate>Sat, 18 Dec 2021 09:43:20 GMT</pubDate>
             <content:encoded><![CDATA[JUST B (저스트비)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211218_105/16397987499150iTy1_JPEG/upload_56068348530658082e8f1068c-aa83-44b3-a01b-25c32eda1985.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[UNLOCK] 엘라스트 잠금해제 EP.47 슈퍼히어로 비하인드]]></title>
-            <link>https://www.vlive.tv/video/272107</link>
-            <guid>https://www.vlive.tv/video/272107</guid>
-            <pubDate>Sat, 18 Dec 2021 09:43:20 GMT</pubDate>
-            <content:encoded><![CDATA[E'LAST]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211217_108/1639737262365sJ4tI_JPEG/upload_83816981021769538ec458c6a-647f-4424-bd9c-61e15f6d5004.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퍼플키스(PURPLE KISS) 'My My' MV]]></title>
-            <link>https://www.vlive.tv/video/272089</link>
-            <guid>https://www.vlive.tv/video/272089</guid>
-            <pubDate>Sat, 18 Dec 2021 09:43:20 GMT</pubDate>
-            <content:encoded><![CDATA[PURPLE KISS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211217_141/16397324619002Jktg_JPEG/upload_56002029479789329390449f3-4dfe-4b33-a6b3-ad21ff15d9a2.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

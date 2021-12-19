@@ -4,16 +4,9 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 06:52:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 07:42:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Addicted to the sunday afternoon]]></title>
-            <link>https://www.vlive.tv/video/272223</link>
-            <guid>https://www.vlive.tv/video/272223</guid>
-            <pubDate>Sun, 19 Dec 2021 06:50:07 GMT</pubDate>
-            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[💙혭짱이랑 해피 일요일 💜]]></title>
             <link>https://www.vlive.tv/video/272222</link>
@@ -21,6 +14,22 @@
             <pubDate>Sun, 19 Dec 2021 06:50:07 GMT</pubDate>
             <content:encoded><![CDATA[MOMOLAND]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211219_8/1639894756386QDzpJ_JPEG/1526831503273966941d26c110-0664-4250-9ca8-f447962e64c0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[좀 늦었죠? 상혁입니다:)]]></title>
+            <link>https://www.vlive.tv/video/272224</link>
+            <guid>https://www.vlive.tv/video/272224</guid>
+            <pubDate>Sun, 19 Dec 2021 07:39:56 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/272224/thumb?type=f228_128" length="0" type="image//live/272224/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[Addicted to the sunday afternoon]]></title>
+            <link>https://www.vlive.tv/video/272223</link>
+            <guid>https://www.vlive.tv/video/272223</guid>
+            <pubDate>Sun, 19 Dec 2021 06:50:07 GMT</pubDate>
+            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/272223/thumb?type=f228_128" length="0" type="image//live/272223/thumb"/>
         </item>
         <item>
             <title><![CDATA[2021桃園鐵玫瑰音樂節]]></title>
@@ -117,14 +126,6 @@
             <pubDate>Sat, 18 Dec 2021 15:46:21 GMT</pubDate>
             <content:encoded><![CDATA[ONEUS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211219_65/16398447093969Yoye_JPEG/6edbb2bb-601e-11ec-bd92-246e963a49a8_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[옷소매붉은끝동] OST, 전상근 '내가 한 걸음 뒤로 갈게'(Full ver.), MBC 211218 방송]]></title>
-            <link>https://www.vlive.tv/video/272209</link>
-            <guid>https://www.vlive.tv/video/272209</guid>
-            <pubDate>Sat, 18 Dec 2021 15:46:21 GMT</pubDate>
-            <content:encoded><![CDATA[MBC드라마]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211219_228/1639841209934wNlV5_JPEG/upload_839209007316035534c271c5b-7d12-4a8b-8daa-0e4000cf5431.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
