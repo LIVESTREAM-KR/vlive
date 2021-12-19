@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 07:42:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 08:49:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Beyond LIVE - NCT 127 2ND TOUR 'NEO CITY : SEOUL – THE LINK']]></title>
-            <link>https://m.vlive.tv/video/270260</link>
-            <guid>https://m.vlive.tv/video/270260</guid>
-            <pubDate>Fri, 17 Dec 2021 11:39:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 8:00</span>
-										<span class="txt">Beyond LIVE</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211126_38/1637917441054uH9AQ_JPEG/upload_541870481231697870fb1c101-7926-4384-9115-9714af54d8ee.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KOREA H2 ALLIANCE 2021 ASIA MODEL AWARDS with UzNEX]]></title>
-            <link>https://m.vlive.tv/video/271870</link>
-            <guid>https://m.vlive.tv/video/271870</guid>
-            <pubDate>Fri, 17 Dec 2021 11:39:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 8:30</span>
-										<span class="txt">AsiaModelAwards</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211215_3/1639556910193WGT7e_JPEG/upload_8363662347578965135af65be-4d59-4420-b6f2-dae4711f4b83.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
             <link>https://m.vlive.tv/video/271965</link>
@@ -96,6 +76,26 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211216_230/1639631793708HtVqW_JPEG/upload_83711490211172751c5f15657-36bd-49fa-b503-73db25407adc.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
+            <link>https://m.vlive.tv/video/271953</link>
+            <guid>https://m.vlive.tv/video/271953</guid>
+            <pubDate>Sun, 19 Dec 2021 08:47:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 2:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211216_199/1639630940952nnpVx_JPEG/upload_837106471461140583ea5ef79-d4d8-4e27-8a26-2f83ede25b7d.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ASC Live Ep.502 (EVERGLOW / 에버글로우)]]></title>
+            <link>https://m.vlive.tv/video/272080</link>
+            <guid>https://m.vlive.tv/video/272080</guid>
+            <pubDate>Sun, 19 Dec 2021 08:47:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211217_85/16397263646836i0wX_PNG/upload_838060526410722769fe2a8c1-598a-4d8a-b05b-e66eda323a15.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
