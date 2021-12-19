@@ -4,9 +4,25 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Dec 2021 23:44:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 01:52:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[hello]]></title>
+            <link>https://www.vlive.tv/video/272214</link>
+            <guid>https://www.vlive.tv/video/272214</guid>
+            <pubDate>Sun, 19 Dec 2021 01:49:07 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211219_75/1639873709135Ci0Wo_JPEG/upload_839533835725158216fce808c-4da5-4e4e-af20-f8605ebdfbd4.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[선공개] 1학년 중간 평가의 시간💥! 탈락자는 누구?, MBC 211219 방송]]></title>
+            <link>https://www.vlive.tv/video/272213</link>
+            <guid>https://www.vlive.tv/video/272213</guid>
+            <pubDate>Sun, 19 Dec 2021 01:49:07 GMT</pubDate>
+            <content:encoded><![CDATA[MBC 예능]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211219_18/16398700874445TRAg_JPEG/upload_83949787309744160d60ab839-319a-4154-a1b5-ad41aa537d89.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Hello☺️☺️]]></title>
             <link>https://www.vlive.tv/video/272212</link>
@@ -390,22 +406,6 @@
             <pubDate>Sat, 18 Dec 2021 07:39:29 GMT</pubDate>
             <content:encoded><![CDATA[키아라 (KIARA)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211218_270/1639813698747O8NJP_JPEG/860ece96-5fd6-11ec-9c5c-48df379cca40_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021.12.18 1VE ! ELEVEN 🏆🏆🏆🏆🏆💕]]></title>
-            <link>https://www.vlive.tv/video/272176</link>
-            <guid>https://www.vlive.tv/video/272176</guid>
-            <pubDate>Sat, 18 Dec 2021 08:46:58 GMT</pubDate>
-            <content:encoded><![CDATA[IVE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211218_197/1639813647226zVuKS_JPEG/83201313-5fd6-11ec-9c5c-48df379cca40_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[선공개] 구자욱 열기 후끈!  프로야구 10개구단들의 연말축제💥 , MBC 211218 방송]]></title>
-            <link>https://www.vlive.tv/video/272177</link>
-            <guid>https://www.vlive.tv/video/272177</guid>
-            <pubDate>Sat, 18 Dec 2021 08:46:58 GMT</pubDate>
-            <content:encoded><![CDATA[MBC 예능]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211218_73/1639813562351q0aiH_JPEG/upload_5608315350574575367eb9ed7-3951-4bcf-8840-b54cc682bbbe.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
