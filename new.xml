@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 19:41:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 20:45:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잠 못드는 밤에 (그냥 왠지 모를 외로운밤..)]]></title>
+            <link>https://www.vlive.tv/video/272248</link>
+            <guid>https://www.vlive.tv/video/272248</guid>
+            <pubDate>Sun, 19 Dec 2021 20:42:52 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211220_201/16399403382904Q2N1_JPEG/3891570492166264864759588-88f1-4bec-af28-175265e1a8f0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Radio Hama] 심야 라디오 불면증 치료는 여기로]]></title>
             <link>https://www.vlive.tv/video/272243</link>
@@ -398,14 +406,6 @@
             <pubDate>Sat, 18 Dec 2021 13:42:28 GMT</pubDate>
             <content:encoded><![CDATA[EVERGLOW (에버글로우)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211218_157/1639833000553J0587_JPEG/15270852947953594877889ee6-0e2f-4637-9d11-2d500a8ebc04.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김우진 KIM WOOJIN - Underneath the Tree | Cover Live Teaser]]></title>
-            <link>https://www.vlive.tv/video/272182</link>
-            <guid>https://www.vlive.tv/video/272182</guid>
-            <pubDate>Sat, 18 Dec 2021 14:39:48 GMT</pubDate>
-            <content:encoded><![CDATA[KIM WOOJIN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211218_170/1639836333357g2ANO_JPEG/upload_561059374982830659eda7191-8294-4c15-905c-ba9529684560.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

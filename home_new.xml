@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Dec 2021 19:41:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Dec 2021 20:45:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잠 못드는 밤에 (그냥 왠지 모를 외로운밤..)]]></title>
+            <link>https://www.vlive.tv/video/272248</link>
+            <guid>https://www.vlive.tv/video/272248</guid>
+            <pubDate>Sun, 19 Dec 2021 20:43:02 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211220_201/16399403382904Q2N1_JPEG/3891570492166264864759588-88f1-4bec-af28-175265e1a8f0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Radio Hama] 심야 라디오 불면증 치료는 여기로]]></title>
             <link>https://www.vlive.tv/video/272243</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 19 Dec 2021 09:43:22 GMT</pubDate>
             <content:encoded><![CDATA[TRI.BE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211219_156/16399062070006qtWL_JPEG/152781805991293620d61bf881-bf39-4e61-b6ac-cf9c3285f7b6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[😁]]></title>
-            <link>https://www.vlive.tv/video/272232</link>
-            <guid>https://www.vlive.tv/video/272232</guid>
-            <pubDate>Sun, 19 Dec 2021 13:01:32 GMT</pubDate>
-            <content:encoded><![CDATA[PENTAGON]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211219_79/1639914620131lK4KJ_JPEG/02499e63-60bc-11ec-badc-48df37ae3fca_05.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
