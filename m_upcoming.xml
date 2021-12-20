@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 06:54:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 07:42:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Super K-Pop / B.I.G 비아이지)]]></title>
-            <link>https://m.vlive.tv/video/271858</link>
-            <guid>https://m.vlive.tv/video/271858</guid>
-            <pubDate>Fri, 17 Dec 2021 13:02:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211215_91/16395506335992vbEV_JPEG/upload_83630296134687669541fd8c5-a262-4d5f-a182-ae6e5a226ce9.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[LIVE] SIMPLY K-POP CON-TOUR (📍Year-End Special)]]></title>
             <link>https://m.vlive.tv/video/272071</link>
@@ -96,6 +86,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211216_261/1639630898338SnJ2u_JPEG/upload_55900501639152899b1b5e7e1-000f-42ed-b3be-c07cd07238fd.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio] Oh My K-POP with Samuel Seo 서사무엘]]></title>
+            <link>https://m.vlive.tv/video/271959</link>
+            <guid>https://m.vlive.tv/video/271959</guid>
+            <pubDate>Mon, 20 Dec 2021 07:41:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211216_96/1639631215234FVvNP_JPEG/upload_55900759344903622c7327ec5-3799-4b67-bfaf-494aa1e09fda.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
