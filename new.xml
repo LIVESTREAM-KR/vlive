@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 04:57:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 05:43:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Arirang Radio (Music Access / Rockingdoll 록킹돌)]]></title>
+            <link>https://www.vlive.tv/video/271862</link>
+            <guid>https://www.vlive.tv/video/271862</guid>
+            <pubDate>Mon, 20 Dec 2021 05:40:49 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211215_258/1639551718059pJH8H_JPEG/upload_836314144160888609e6948e9-6204-4d1a-a4d7-e194d620480a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[《예고》에버글로우(EVERGLOW)가 세 번째 미니 앨범으로 ASC를 찾아온다!! _ 502회]]></title>
             <link>https://www.vlive.tv/video/272258</link>
@@ -397,14 +405,6 @@
             <pubDate>Sat, 18 Dec 2021 18:48:06 GMT</pubDate>
             <content:encoded><![CDATA[sema]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211219_116/1639849984855PP6wp_JPEG/152638378849725349c6cc4560-00cf-4332-b3ea-789b20e4bb69.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불토불토🍯🐝🙌🏻]]></title>
-            <link>https://www.vlive.tv/video/272211</link>
-            <guid>https://www.vlive.tv/video/272211</guid>
-            <pubDate>Sat, 18 Dec 2021 17:02:54 GMT</pubDate>
-            <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211219_86/1639851177674JVv0p_JPEG/a642c102-602d-11ec-ace2-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
