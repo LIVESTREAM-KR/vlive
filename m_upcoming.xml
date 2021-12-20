@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 01:48:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 02:59:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[he;;o]]></title>
-            <link>https://m.vlive.tv/video/272158</link>
-            <guid>https://m.vlive.tv/video/272158</guid>
-            <pubDate>Sat, 18 Dec 2021 03:45:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 2:30</span>
-										<span class="txt">sema</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211218_101/1639797099170AoCrG_JPEG/upload_83876777218146185079d42d7-f854-40af-a856-9ed92dedc790.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Music Access / Rockingdoll 록킹돌)]]></title>
             <link>https://m.vlive.tv/video/271862</link>
@@ -96,6 +86,16 @@
 										오전 4:00</span>
 										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211217_85/16397263646836i0wX_PNG/upload_838060526410722769fe2a8c1-598a-4d8a-b05b-e66eda323a15.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[Music Access] Pop&Going wih AleXa 알렉사 & Won Jun 원준 of E'LAST]]></title>
+            <link>https://m.vlive.tv/video/271952</link>
+            <guid>https://m.vlive.tv/video/271952</guid>
+            <pubDate>Mon, 20 Dec 2021 02:58:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211216_261/1639630898338SnJ2u_JPEG/upload_55900501639152899b1b5e7e1-000f-42ed-b3be-c07cd07238fd.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
