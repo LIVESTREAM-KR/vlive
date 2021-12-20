@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 02:59:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 03:47:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="https://v-phinf.pstatic.net/20211218_101/1639797099170AoCrG_JPEG/upload_83876777218146185079d42d7-f854-40af-a856-9ed92dedc790.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[CIX(씨아이엑스) - 공식 팬클럽 FIX 3기 모집 안내]]></title>
+            <link>https://www.vlive.tv/video/272219</link>
+            <guid>https://www.vlive.tv/video/272219</guid>
+            <pubDate>Mon, 20 Dec 2021 03:45:32 GMT</pubDate>
+            <content:encoded><![CDATA[오전 3:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211219_171/1639921652616yoM6V_JPEG/upload_56190269322319062c7e7234b-63d0-44d6-b9b2-e29b6153c184.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Arirang Radio (Music Access / Rockingdoll 록킹돌)]]></title>
             <link>https://www.vlive.tv/video/271862</link>
             <guid>https://www.vlive.tv/video/271862</guid>
@@ -102,6 +110,14 @@
             <pubDate>Mon, 20 Dec 2021 01:46:56 GMT</pubDate>
             <content:encoded><![CDATA[오후 12:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211210_83/1639123110560XeJ5r_JPEG/upload_553925941181759892077d4b1-8b5a-48e8-a94f-09a88ed5f12b.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[빈,us] Season2 - 12월 4째주]]></title>
+            <link>https://www.vlive.tv/video/272255</link>
+            <guid>https://www.vlive.tv/video/272255</guid>
+            <pubDate>Mon, 20 Dec 2021 03:45:32 GMT</pubDate>
+            <content:encoded><![CDATA[오후 12:30]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211220_242/1639969208188CiXtt_JPEG/upload_56238572467129673e224e480-2ab8-4faf-909f-f4f0e290091d.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 02:59:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 03:47:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CIX(씨아이엑스) - 공식 팬클럽 FIX 3기 모집 안내]]></title>
+            <link>https://www.vlive.tv/video/272219</link>
+            <guid>https://www.vlive.tv/video/272219</guid>
+            <pubDate>Mon, 20 Dec 2021 03:44:43 GMT</pubDate>
+            <content:encoded><![CDATA[CIX]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211219_171/1639921652616yoM6V_JPEG/upload_56190269322319062c7e7234b-63d0-44d6-b9b2-e29b6153c184.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[he;;o]]></title>
             <link>https://www.vlive.tv/video/272158</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 19 Dec 2021 14:40:09 GMT</pubDate>
             <content:encoded><![CDATA[위아이 (WEi)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211219_133/16399231708047dIqu_JPEG/90cfa335-60d5-11ec-9568-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021桃園鐵玫瑰音樂節]]></title>
-            <link>https://www.vlive.tv/video/272220</link>
-            <guid>https://www.vlive.tv/video/272220</guid>
-            <pubDate>Sun, 19 Dec 2021 14:40:09 GMT</pubDate>
-            <content:encoded><![CDATA[T-ONE MUSIC]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211219_187/1639891416786XWIMG_JPEG/upload_83970807585846836e7f06506-b431-4c7c-8c60-ee27103ce54c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
