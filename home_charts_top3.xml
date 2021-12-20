@@ -4,17 +4,9 @@
         <title>V LIVE ─ 홈 ─ CHARTS TOP3</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 22:45:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 23:45:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Miami❤️]]></title>
-            <link>https://www.vlive.tv/video/272249</link>
-            <guid>https://www.vlive.tv/video/272249</guid>
-            <pubDate>Mon, 20 Dec 2021 03:44:51 GMT</pubDate>
-            <content:encoded><![CDATA[MONSTA X]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211220_2/1639955964711SQHX7_JPEG/af58097a-6121-11ec-8ef1-48df379cc9e4_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[좋은 아침 좋은 밤😊]]></title>
             <link>https://www.vlive.tv/video/272250</link>
@@ -30,6 +22,14 @@
             <pubDate>Mon, 20 Dec 2021 15:47:16 GMT</pubDate>
             <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211210_83/1639123110560XeJ5r_JPEG/upload_553925941181759892077d4b1-8b5a-48e8-a94f-09a88ed5f12b.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Miami❤️]]></title>
+            <link>https://www.vlive.tv/video/272249</link>
+            <guid>https://www.vlive.tv/video/272249</guid>
+            <pubDate>Mon, 20 Dec 2021 03:44:51 GMT</pubDate>
+            <content:encoded><![CDATA[MONSTA X]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211220_2/1639955964711SQHX7_JPEG/af58097a-6121-11ec-8ef1-48df379cc9e4_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
