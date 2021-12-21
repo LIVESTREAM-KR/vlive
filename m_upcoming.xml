@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 10:47:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 11:41:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Beyond LIVE - CHOI MINHO FAN PARTY “BEST CHOI's MINHO 2021”]]></title>
-            <link>https://m.vlive.tv/video/271135</link>
-            <guid>https://m.vlive.tv/video/271135</guid>
-            <pubDate>Mon, 20 Dec 2021 11:41:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">Beyond LIVE</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211207_222/1638853383434vKAD8_JPEG/upload_55122990487251327ac27132a-b50a-4169-98b2-ee5a90a4a7eb.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <슈미> 녹화중계]]></title>
-            <link>https://m.vlive.tv/video/271683</link>
-            <guid>https://m.vlive.tv/video/271683</guid>
-            <pubDate>Mon, 20 Dec 2021 11:41:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">V MUSICAL</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211213_249/1639370016008dvyyM_JPEG/upload_55639623078058249b4cc8252-e89e-4152-bd98-36b135673b1b.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthews]]></title>
             <link>https://m.vlive.tv/video/271963</link>
@@ -76,6 +56,26 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211215_158/163955075372221HPV_JPEG/upload_83630373951472414ebb6adee-fb7b-45ac-bf5a-d5794f01d266.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
+            <link>https://m.vlive.tv/video/271961</link>
+            <guid>https://m.vlive.tv/video/271961</guid>
+            <pubDate>Tue, 21 Dec 2021 11:40:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211216_74/1639631592565VvbfL_JPEG/upload_55901193463622102385ff32a-bae2-415a-8c40-7f8411d2efeb.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
+            <link>https://m.vlive.tv/video/271955</link>
+            <guid>https://m.vlive.tv/video/271955</guid>
+            <pubDate>Tue, 21 Dec 2021 11:40:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 2:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211216_85/1639630996787mFrfY_JPEG/upload_837107160798965618709244d-f00f-4842-9ec0-4415829e56aa.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
