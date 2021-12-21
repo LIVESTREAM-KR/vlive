@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 04:57:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 05:42:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Music Access] Pop&Going wih Fatou 파투 & Won Jun 원준]]></title>
-            <link>https://m.vlive.tv/video/271952</link>
-            <guid>https://m.vlive.tv/video/271952</guid>
-            <pubDate>Mon, 20 Dec 2021 05:41:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 4:55</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211221_70/1640061527617QNBeL_JPEG/upload_55900501639152899b1b5e7e1-000f-42ed-b3be-c07cd07238fd.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio] Oh My K-POP with Samuel Seo 서사무엘]]></title>
             <link>https://m.vlive.tv/video/271959</link>
@@ -86,6 +76,16 @@
 										오전 4:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211216_35/1639632455943UNJKR_JPEG/upload_55902024911891331c0a21e9e-8e2c-4745-b50a-206daf0ad187.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Music Access] MA MVP with DANN of KINGDOM 킹덤 단]]></title>
+            <link>https://m.vlive.tv/video/271951</link>
+            <guid>https://m.vlive.tv/video/271951</guid>
+            <pubDate>Tue, 21 Dec 2021 05:41:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211216_297/1639630829735i0RkA_JPEG/upload_837105475656215157162adb8-e204-40aa-adc3-9b5324be786d.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
