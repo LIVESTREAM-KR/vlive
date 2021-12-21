@@ -4,17 +4,9 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 22:46:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 23:45:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[TO DO X TOMORROW X TOGETHER - EP.63]]></title>
-            <link>https://www.vlive.tv/video/271502</link>
-            <guid>https://www.vlive.tv/video/271502</guid>
-            <pubDate>Tue, 21 Dec 2021 14:41:12 GMT</pubDate>
-            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211210_83/1639123110560XeJ5r_JPEG/upload_553925941181759892077d4b1-8b5a-48e8-a94f-09a88ed5f12b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[NU'EST] 저메츄]]></title>
             <link>https://www.vlive.tv/video/272371</link>
@@ -22,6 +14,14 @@
             <pubDate>Tue, 21 Dec 2021 11:39:23 GMT</pubDate>
             <content:encoded><![CDATA[NU'EST]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211221_253/16400814288987tIKU_JPEG/bb7587ed-6245-11ec-81e6-a0369ff9545c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TO DO X TOMORROW X TOGETHER - EP.63]]></title>
+            <link>https://www.vlive.tv/video/271502</link>
+            <guid>https://www.vlive.tv/video/271502</guid>
+            <pubDate>Tue, 21 Dec 2021 14:41:12 GMT</pubDate>
+            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211210_83/1639123110560XeJ5r_JPEG/upload_553925941181759892077d4b1-8b5a-48e8-a94f-09a88ed5f12b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지민씨 등장]]></title>
@@ -32,12 +32,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20211013_144/1634122553955eHKox_JPEG/upload_78202275760730696931ec09d-bfa2-4361-8b27-5b66010714b3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[MINHO 민호 'Heartbreak' MV]]></title>
-            <link>https://www.vlive.tv/video/272364</link>
-            <guid>https://www.vlive.tv/video/272364</guid>
-            <pubDate>Tue, 21 Dec 2021 15:47:47 GMT</pubDate>
-            <content:encoded><![CDATA[SHINee]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211221_187/16400769629733KQqi_JPEG/1640076713933.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <title><![CDATA[TWICE 4TH WORLD TOUR ‘Ⅲ’ in SEOUL - Guess where TWICE is going]]></title>
+            <link>https://www.vlive.tv/video/272395</link>
+            <guid>https://www.vlive.tv/video/272395</guid>
+            <pubDate>Tue, 21 Dec 2021 23:43:10 GMT</pubDate>
+            <content:encoded><![CDATA[TWICE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211221_163/1640098571332LqSIR_JPEG/ed3e0ab8-624e-11ec-badc-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
