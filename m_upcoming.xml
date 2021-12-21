@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 01:50:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 03:00:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
-            <link>https://m.vlive.tv/video/271953</link>
-            <guid>https://m.vlive.tv/video/271953</guid>
-            <pubDate>Sun, 19 Dec 2021 08:47:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 2:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211216_199/1639630940952nnpVx_JPEG/upload_837106471461140583ea5ef79-d4d8-4e27-8a26-2f83ede25b7d.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[ASC Live Ep.502 (EVERGLOW / 에버글로우)]]></title>
             <link>https://m.vlive.tv/video/272080</link>
@@ -86,6 +76,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211216_67/1639631742175AAoSl_JPEG/upload_837114410443955834a0cc42e-6a91-4df0-a6c7-90f7689e5665.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
+            <link>https://m.vlive.tv/video/271954</link>
+            <guid>https://m.vlive.tv/video/271954</guid>
+            <pubDate>Tue, 21 Dec 2021 02:59:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 2:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211216_202/1639630963420TA510_JPEG/upload_837106837248727586f82c79a-aa06-4046-b00b-e9a7f102cc58.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
