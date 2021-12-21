@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 17:51:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 18:52:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -584,14 +584,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20211221_135/1640091405214NOmuV_JPEG/15287971614591533822e0f739-1541-4e8c-ad01-ef4f27fd3ae4.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[I WANT YOU 〰️〰️〰️💛🐝]]></title>
-            <link>https://www.vlive.tv/video/272399</link>
-            <guid>https://www.vlive.tv/video/272399</guid>
-            <pubDate>Tue, 21 Dec 2021 17:06:01 GMT</pubDate>
-            <content:encoded><![CDATA[오후 5:00]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/272399/thumb?type=f228_128" length="0" type="image//live/272399/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[새벽에 잠깐 🤍⛄️]]></title>
             <link>https://www.vlive.tv/video/272398</link>
             <guid>https://www.vlive.tv/video/272398</guid>
@@ -606,6 +598,14 @@
             <pubDate>Tue, 21 Dec 2021 17:06:01 GMT</pubDate>
             <content:encoded><![CDATA[오후 5:15]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211222_38/164010223130843VvS_JPEG/1528906318746561110bcd15a3-bb17-4eba-a7e8-220200ac870d.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I WANT YOU 〰️〰️〰️💛🐝]]></title>
+            <link>https://www.vlive.tv/video/272399</link>
+            <guid>https://www.vlive.tv/video/272399</guid>
+            <pubDate>Tue, 21 Dec 2021 17:06:01 GMT</pubDate>
+            <content:encoded><![CDATA[오후 6:10]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211222_48/1640110205921TIege_JPEG/ba6ca7f3-6288-11ec-badc-48df37ae3fca_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
