@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 06:54:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 07:43:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Super K-Pop / sokodomo 소코도모)]]></title>
-            <link>https://m.vlive.tv/video/271859</link>
-            <guid>https://m.vlive.tv/video/271859</guid>
-            <pubDate>Tue, 21 Dec 2021 07:41:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211215_158/163955075372221HPV_JPEG/upload_83630373951472414ebb6adee-fb7b-45ac-bf5a-d5794f01d266.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[🎄🎅Merry Christmas with YERIN🐣💛]]></title>
             <link>https://m.vlive.tv/video/272411</link>
@@ -86,6 +76,16 @@
 										오전 11:00</span>
 										<span class="txt">V MUSICAL</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211215_249/1639533224381MVo9a_JPEG/upload_83612959789384026aa252b24-0978-48bf-98f8-0ee5fd60914d.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / DAVII 다비)]]></title>
+            <link>https://m.vlive.tv/video/272002</link>
+            <guid>https://m.vlive.tv/video/272002</guid>
+            <pubDate>Wed, 22 Dec 2021 07:41:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211216_215/1639650712456qW4DS_JPEG/upload_8373039822661001900987242-9086-4a93-831e-940b89e50885.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
