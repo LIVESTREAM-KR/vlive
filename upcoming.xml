@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 21:45:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 22:47:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -744,11 +744,19 @@
             <enclosure url="https://v-phinf.pstatic.net/20211223_19/1640198184914v42bG_JPEG/upload_8427782516040351087dad64f-5621-4927-aac4-aeb19ed7f92b.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[제목은 잠 못드는 밤에 (현실은 굳모닝!!)]]></title>
+            <link>https://www.vlive.tv/video/272514</link>
+            <guid>https://www.vlive.tv/video/272514</guid>
+            <pubDate>Wed, 22 Dec 2021 22:45:15 GMT</pubDate>
+            <content:encoded><![CDATA[오후 10:07]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211223_216/1640210843618j1mSo_JPEG/1530863805847939205546d03b-a8af-431b-8272-30a9aef4a227.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[새벽 방송!_!]]></title>
             <link>https://www.vlive.tv/video/272513</link>
             <guid>https://www.vlive.tv/video/272513</guid>
             <pubDate>Wed, 22 Dec 2021 20:45:05 GMT</pubDate>
-            <content:encoded><![CDATA[오후 8:42]]></content:encoded>
+            <content:encoded><![CDATA[오후 10:40]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211223_243/1640205500345PN1th_JPEG/upload_5647507692452648588537b89-ef6f-4dc1-952e-7c50a7671672.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>

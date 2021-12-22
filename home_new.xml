@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 21:45:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 22:47:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 22 Dec 2021 20:44:20 GMT</pubDate>
             <content:encoded><![CDATA[sema]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211223_243/1640205500345PN1th_JPEG/upload_5647507692452648588537b89-ef6f-4dc1-952e-7c50a7671672.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제목은 잠 못드는 밤에 (현실은 굳모닝!!)]]></title>
+            <link>https://www.vlive.tv/video/272514</link>
+            <guid>https://www.vlive.tv/video/272514</guid>
+            <pubDate>Wed, 22 Dec 2021 22:44:12 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211223_216/1640210843618j1mSo_JPEG/1530863805847939205546d03b-a8af-431b-8272-30a9aef4a227.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Desk Tour 심슨 덕후의 데스크투어 + 미니언즈 스폰지밥 💛]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 22 Dec 2021 13:03:17 GMT</pubDate>
             <content:encoded><![CDATA[그레이시]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211222_89/1640182748766mwqqP_JPEG/9231f3f8-6330-11ec-a273-505dac8c3607_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안녕하세요]]></title>
-            <link>https://www.vlive.tv/video/272496</link>
-            <guid>https://www.vlive.tv/video/272496</guid>
-            <pubDate>Wed, 22 Dec 2021 13:44:10 GMT</pubDate>
-            <content:encoded><![CDATA[미래소년 (MIRAE)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211222_80/1640182233433Dj3z8_JPEG/67db2da5-6330-11ec-b18f-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
