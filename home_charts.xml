@@ -4,17 +4,9 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 14:43:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 15:50:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[커콬콘]]></title>
-            <link>https://www.vlive.tv/video/272392</link>
-            <guid>https://www.vlive.tv/video/272392</guid>
-            <pubDate>Wed, 22 Dec 2021 14:41:30 GMT</pubDate>
-            <content:encoded><![CDATA[TWICE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211221_120/164009500517189mH8_JPEG/a45cd95c-6265-11ec-8ef1-48df379cc9e4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[석진 생일!🎂& 슈퍼참치🐟쇼케이스]]></title>
             <link>https://www.vlive.tv/video/270943</link>
@@ -38,6 +30,14 @@
             <pubDate>Tue, 21 Dec 2021 23:43:10 GMT</pubDate>
             <content:encoded><![CDATA[TWICE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211221_163/1640098571332LqSIR_JPEG/ed3e0ab8-624e-11ec-badc-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[커콬콘]]></title>
+            <link>https://www.vlive.tv/video/272392</link>
+            <guid>https://www.vlive.tv/video/272392</guid>
+            <pubDate>Wed, 22 Dec 2021 14:41:30 GMT</pubDate>
+            <content:encoded><![CDATA[TWICE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211221_120/164009500517189mH8_JPEG/a45cd95c-6265-11ec-8ef1-48df379cc9e4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

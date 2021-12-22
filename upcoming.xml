@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 14:43:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 15:50:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -576,14 +576,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20211222_168/1640174467855BVxS6_JPEG/upload_84253432086935256bdb04218-e550-4b31-bf25-170570a6b50e.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[하루의 온🦙]]></title>
-            <link>https://www.vlive.tv/video/272477</link>
-            <guid>https://www.vlive.tv/video/272477</guid>
-            <pubDate>Wed, 22 Dec 2021 13:04:18 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:57]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211222_254/1640177873977hbjLB_JPEG/1530534109148155944528564d-7a5b-4d69-acbe-245d4eafcf4a.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[Right! Just THAT!] 롸저댓 EP.3 미미(美味)를 찾아서 #1]]></title>
             <link>https://www.vlive.tv/video/272458</link>
             <guid>https://www.vlive.tv/video/272458</guid>
@@ -606,14 +598,6 @@
             <pubDate>Wed, 22 Dec 2021 13:04:18 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:23]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211222_133/16401795202622P5V1_JPEG/upload_564491183549494368de1660d-5359-43cc-b3b2-adf5258466db.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김.라<김재현의 라디오>]]></title>
-            <link>https://www.vlive.tv/video/272495</link>
-            <guid>https://www.vlive.tv/video/272495</guid>
-            <pubDate>Wed, 22 Dec 2021 13:45:13 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:24]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/272495/thumb?type=f228_128" length="0" type="image//live/272495/thumb"/>
         </item>
         <item>
             <title><![CDATA[🎉고미사해🎊]]></title>
@@ -702,6 +686,30 @@
             <pubDate>Wed, 22 Dec 2021 11:40:13 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211222_186/16401708415458U4vn_PNG/1640170735300.png?type=f228_128" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[김.라<김재현의 라디오>]]></title>
+            <link>https://www.vlive.tv/video/272495</link>
+            <guid>https://www.vlive.tv/video/272495</guid>
+            <pubDate>Wed, 22 Dec 2021 13:45:13 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:02]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211223_66/1640185345278uREhv_JPEG/a081931d-6337-11ec-a273-505dac8c3607_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠깐만!!!]]></title>
+            <link>https://www.vlive.tv/video/272504</link>
+            <guid>https://www.vlive.tv/video/272504</guid>
+            <pubDate>Wed, 22 Dec 2021 15:48:23 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:06]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211223_16/1640185604697fzpsR_JPEG/b1996047-6338-11ec-b18f-48df37ae3dc4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하루의 온🦙]]></title>
+            <link>https://www.vlive.tv/video/272477</link>
+            <guid>https://www.vlive.tv/video/272477</guid>
+            <pubDate>Wed, 22 Dec 2021 13:04:18 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:22]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211222_254/1640177873977hbjLB_JPEG/1530534109148155944528564d-7a5b-4d69-acbe-245d4eafcf4a.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
