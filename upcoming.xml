@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 17:09:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 17:50:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -724,8 +724,16 @@
             <link>https://www.vlive.tv/video/272510</link>
             <guid>https://www.vlive.tv/video/272510</guid>
             <pubDate>Wed, 22 Dec 2021 17:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[오후 4:58]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/272510/thumb?type=f228_128" length="0" type="image//live/272510/thumb"/>
+            <content:encoded><![CDATA[오후 5:40]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211223_116/1640194808956VTncG_JPEG/fa443b55-634d-11ec-badc-48df37ae3fca_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그래 내가 졌다 😭]]></title>
+            <link>https://www.vlive.tv/video/272511</link>
+            <guid>https://www.vlive.tv/video/272511</guid>
+            <pubDate>Wed, 22 Dec 2021 17:49:20 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:49]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211223_237/1640195355519LQWDK_JPEG/603f4ccf-634f-11ec-8ef1-48df379cc9e4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
