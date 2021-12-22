@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 04:57:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 05:43:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / Music Access] MA MVP with DANN of KINGDOM 킹덤 단]]></title>
-            <link>https://m.vlive.tv/video/271951</link>
-            <guid>https://m.vlive.tv/video/271951</guid>
-            <pubDate>Tue, 21 Dec 2021 05:41:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211216_297/1639630829735i0RkA_JPEG/upload_837105475656215157162adb8-e204-40aa-adc3-9b5324be786d.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🐻 자한이 왔다 🐻]]></title>
-            <link>https://m.vlive.tv/video/272415</link>
-            <guid>https://m.vlive.tv/video/272415</guid>
-            <pubDate>Wed, 22 Dec 2021 04:55:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">KINGDOM</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211222_285/1640147919011gA4Yf_JPEG/upload_84227521607235739c3758a1b-1147-425c-8422-b632cb62f00d.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Super K-Pop / sokodomo 소코도모)]]></title>
             <link>https://m.vlive.tv/video/271859</link>
@@ -86,6 +66,26 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211216_175/1639631084356ExJ4D_JPEG/upload_5590067041071311646184014-9cc3-4832-b7fe-38bece106f3e.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[VVLIVE] 업사이클링 패션 스타일링_ 최복호 CHOIBOKO"]]></title>
+            <link>https://m.vlive.tv/video/272335</link>
+            <guid>https://m.vlive.tv/video/272335</guid>
+            <pubDate>Wed, 22 Dec 2021 05:41:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">VVLIVE</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211221_73/1640060497822vKYJh_JPEG/upload_8414010614828340699b609d5-6e4c-444f-91bc-5052527e9731.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가족음악극 <나무의 아이> 녹화중계]]></title>
+            <link>https://m.vlive.tv/video/271832</link>
+            <guid>https://m.vlive.tv/video/271832</guid>
+            <pubDate>Wed, 22 Dec 2021 05:41:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">V MUSICAL</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211215_249/1639533224381MVo9a_JPEG/upload_83612959789384026aa252b24-0978-48bf-98f8-0ee5fd60914d.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
