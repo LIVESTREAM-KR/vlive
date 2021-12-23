@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 23:45:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 01:48:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
-            <link>https://m.vlive.tv/video/271961</link>
-            <guid>https://m.vlive.tv/video/271961</guid>
-            <pubDate>Tue, 21 Dec 2021 11:40:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211216_74/1639631592565VvbfL_JPEG/upload_55901193463622102385ff32a-bae2-415a-8c40-7f8411d2efeb.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
             <link>https://m.vlive.tv/video/271955</link>
@@ -106,6 +96,16 @@
 										오후 1:00</span>
 										<span class="txt">MAJOR9 (메이저나인)</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211221_12/1640064259433pCNIs_JPEG/upload_56333444979125975f15357c8-b140-442d-9e98-3c902753ca0c.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미리 Merry Christmas With  'ABC Family' 🎄🎊]]></title>
+            <link>https://m.vlive.tv/video/272505</link>
+            <guid>https://m.vlive.tv/video/272505</guid>
+            <pubDate>Thu, 23 Dec 2021 01:46:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 2:00</span>
+										<span class="txt">CHUNG HA</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211223_147/1640188108722YDfMY_JPEG/upload_84267487758366805720482b4-93f1-425f-8128-620a77644b17.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
