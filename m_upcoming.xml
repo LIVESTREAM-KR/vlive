@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 11:41:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 13:06:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[포맨] 포맨(4MEN)과 미리 메리 크리스마스🎄]]></title>
-            <link>https://m.vlive.tv/video/272340</link>
-            <guid>https://m.vlive.tv/video/272340</guid>
-            <pubDate>Thu, 23 Dec 2021 08:48:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 1:00</span>
-										<span class="txt">MAJOR9 (메이저나인)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211221_12/1640064259433pCNIs_JPEG/upload_56333444979125975f15357c8-b140-442d-9e98-3c902753ca0c.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[미리 Merry Christmas With  'ABC Family' 🎄🎊]]></title>
             <link>https://m.vlive.tv/video/272505</link>
@@ -106,6 +96,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211216_223/1639631128692gmvzz_JPEG/upload_83710840548186262ce2c1313-2f1c-46b9-b16b-fee079ced74d.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아리아즈 와 함께 미리 메리크리스마스]]></title>
+            <link>https://m.vlive.tv/video/272638</link>
+            <guid>https://m.vlive.tv/video/272638</guid>
+            <pubDate>Thu, 23 Dec 2021 13:04:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 9:00</span>
+										<span class="txt">ARIAZ</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211223_270/1640259214378lw9Hk_PNG/upload_56528751871461322d39694c1-59b0-4e2c-b63c-a712393b6d5d.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
