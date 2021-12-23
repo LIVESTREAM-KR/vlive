@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 09:47:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 10:47:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[가족음악극 <나무의 아이> 녹화중계]]></title>
-            <link>https://m.vlive.tv/video/271832</link>
-            <guid>https://m.vlive.tv/video/271832</guid>
-            <pubDate>Wed, 22 Dec 2021 05:41:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">V MUSICAL</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211215_249/1639533224381MVo9a_JPEG/upload_83612959789384026aa252b24-0978-48bf-98f8-0ee5fd60914d.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Sound K / DAVII 다비)]]></title>
             <link>https://m.vlive.tv/video/272002</link>
@@ -106,6 +96,16 @@
 										오전 4:00</span>
 										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211223_270/1640239264741hto5L_PNG/upload_8431896555419595956b44696-e716-4ae3-91a0-3c4fa00e30b9.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Music Access / SKYLE & Roda 스카이리 & 로다)]]></title>
+            <link>https://m.vlive.tv/video/271861</link>
+            <guid>https://m.vlive.tv/video/271861</guid>
+            <pubDate>Thu, 23 Dec 2021 10:46:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211221_111/1640063042589DlIq2_JPEG/upload_563326106111798915072466d-d2d5-4e94-962f-33d2f4129593.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
