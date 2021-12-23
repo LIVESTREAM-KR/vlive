@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 22:45:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 23:45:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,20 +112,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20211224_229/1640271948161qDTA5_PNG/upload_8435167709679747741e884d4-a607-4393-9d65-328e78bf22f6.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Merry FIX Christmas🎄🎅🏻]]></title>
-            <link>https://www.vlive.tv/video/272660</link>
-            <guid>https://www.vlive.tv/video/272660</guid>
-            <pubDate>Thu, 23 Dec 2021 14:41:05 GMT</pubDate>
-            <content:encoded><![CDATA[CIX]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211223_279/1640268005288eUQSU_JPEG/15314353428280269484c1f978-922b-495d-8b98-8b6974171220.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Stray Kids(스트레이 키즈) "Placebo" Special Video]]></title>
             <link>https://www.vlive.tv/video/272665</link>
             <guid>https://www.vlive.tv/video/272665</guid>
             <pubDate>Thu, 23 Dec 2021 15:47:03 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211223_247/1640270630724UuOqi_PNG/upload_565351766807409948272034e-a803-40d6-8684-40dee1335236.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Merry FIX Christmas🎄🎅🏻]]></title>
+            <link>https://www.vlive.tv/video/272660</link>
+            <guid>https://www.vlive.tv/video/272660</guid>
+            <pubDate>Thu, 23 Dec 2021 14:41:05 GMT</pubDate>
+            <content:encoded><![CDATA[CIX]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211223_279/1640268005288eUQSU_JPEG/15314353428280269484c1f978-922b-495d-8b98-8b6974171220.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
