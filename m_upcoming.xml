@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 04:57:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 05:43:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,6 +26,16 @@
 										오전 7:00</span>
 										<span class="txt">VVLIVE</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211221_73/1640060497822vKYJh_JPEG/upload_8414010614828340699b609d5-6e4c-444f-91bc-5052527e9731.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[라비(RAVI)] 2022 시즌그리팅 언박싱🐶]]></title>
+            <link>https://m.vlive.tv/video/272539</link>
+            <guid>https://m.vlive.tv/video/272539</guid>
+            <pubDate>Thu, 23 Dec 2021 05:42:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 9:00</span>
+										<span class="txt">GROOVL1N</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211223_11/1640235614149YWAjq_JPEG/upload_84315080917945343ce44390c-dae0-498f-9ce9-218d909b8f31.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가족음악극 <나무의 아이> 녹화중계]]></title>
@@ -86,16 +96,6 @@
 										오후 2:00</span>
 										<span class="txt">CHUNG HA</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211223_147/1640188108722YDfMY_JPEG/upload_84267487758366805720482b4-93f1-425f-8128-620a77644b17.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
-            <link>https://m.vlive.tv/video/271962</link>
-            <guid>https://m.vlive.tv/video/271962</guid>
-            <pubDate>Thu, 23 Dec 2021 04:55:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211216_67/1639631682635UfBjH_JPEG/upload_8371134211457059893d30ddf-c115-49eb-9498-124d995f6d58.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
