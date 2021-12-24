@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 08:50:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 09:46:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[아리아즈 와 함께 미리 메리크리스마스]]></title>
-            <link>https://m.vlive.tv/video/272638</link>
-            <guid>https://m.vlive.tv/video/272638</guid>
-            <pubDate>Thu, 23 Dec 2021 13:04:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 9:00</span>
-										<span class="txt">ARIAZ</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211223_270/1640259214378lw9Hk_PNG/upload_56528751871461322d39694c1-59b0-4e2c-b63c-a712393b6d5d.png?type=f274_154" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[💎깜짝 중대 발표💎]]></title>
-            <link>https://m.vlive.tv/video/272729</link>
-            <guid>https://m.vlive.tv/video/272729</guid>
-            <pubDate>Fri, 24 Dec 2021 06:52:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 9:00</span>
-										<span class="txt">Bling Bling</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211224_265/1640326015412u9g3W_JPEG/upload_84405724793620223d14140dd-ffb4-427a-9668-e034aee8cc88.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[크리스마스에 유리가 올까요? 👩🏻‍🍳🍪]]></title>
             <link>https://m.vlive.tv/video/272494</link>
@@ -66,6 +46,26 @@
 										오전 11:00</span>
 										<span class="txt">T1419</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211223_75/1640262608511FgVD3_JPEG/upload_8434203430837581231d9d843-b9ac-47e0-b4a2-54f5b74ffc8f.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트라이비의 🎄MERRY CHRISTMAS🎄]]></title>
+            <link>https://m.vlive.tv/video/272532</link>
+            <guid>https://m.vlive.tv/video/272532</guid>
+            <pubDate>Fri, 24 Dec 2021 09:45:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:30</span>
+										<span class="txt">TRI.BE</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211223_264/1640231973860FjVTv_JPEG/upload_84311564683967702f5480b8f-9de5-4acf-a82f-be3118a8269c.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메리 크리스마스 초이스 🎄]]></title>
+            <link>https://m.vlive.tv/video/271998</link>
+            <guid>https://m.vlive.tv/video/271998</guid>
+            <pubDate>Fri, 24 Dec 2021 09:45:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 1:00</span>
+										<span class="txt">에이스(A.C.E)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211216_281/1639648846778X7C0g_JPEG/upload_837251590550708322e924d4d-05c4-4cd2-93df-1e42f5d0fb37.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
