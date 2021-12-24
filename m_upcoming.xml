@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 13:45:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 14:43:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[🎄메리 예삐뉴 마스🎄]]></title>
-            <link>https://m.vlive.tv/video/272595</link>
-            <guid>https://m.vlive.tv/video/272595</guid>
-            <pubDate>Fri, 24 Dec 2021 10:46:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 2:00</span>
-										<span class="txt">AB6IX</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211223_205/1640247791366oEfpB_JPEG/upload_8432744721045269397e1730a-cb65-4150-8c20-035e463ed7e8.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스카이리 ‘Our Christmas’ LIVE ❄️]]></title>
-            <link>https://m.vlive.tv/video/272609</link>
-            <guid>https://m.vlive.tv/video/272609</guid>
-            <pubDate>Fri, 24 Dec 2021 10:46:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 2:00</span>
-										<span class="txt">SKYLE</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211223_234/1640253564979SfzJ3_JPEG/upload_843330586874511203dff785b-effa-4574-bd2a-8621a516f6c6.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[HAPPY DANA DAY🐰🎄🤍]]></title>
             <link>https://m.vlive.tv/video/272714</link>
@@ -66,6 +46,26 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211223_281/1640245029703UAUfx_JPEG/upload_84324732735868689dd5ca302-7671-427c-ae2d-dab0de6a4c16.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Music Access / Billlie 빌리)]]></title>
+            <link>https://m.vlive.tv/video/272670</link>
+            <guid>https://m.vlive.tv/video/272670</guid>
+            <pubDate>Fri, 24 Dec 2021 14:41:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211223_121/1640271399458IwE3h_JPEG/upload_84351105688291091e193225d-4d93-43e7-bdc6-c340c17b1de6.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / GHOST9 고스트나인)]]></title>
+            <link>https://m.vlive.tv/video/272672</link>
+            <guid>https://m.vlive.tv/video/272672</guid>
+            <pubDate>Fri, 24 Dec 2021 14:41:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211223_216/1640271579393qLWFb_JPEG/upload_8435120378079128547e1a0ff-9132-4f6a-940c-a36f37985727.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
