@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 18:51:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 19:41:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1225,14 +1225,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20211225_260/1640361072313vv1gQ_JPEG/15314946200545969300f0f8c8-a531-4d17-bfda-3af87b0ac2da.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Re Merry Christmas!]]></title>
-            <link>https://www.vlive.tv/video/272863</link>
-            <guid>https://www.vlive.tv/video/272863</guid>
-            <pubDate>Fri, 24 Dec 2021 17:04:56 GMT</pubDate>
-            <content:encoded><![CDATA[오후 4:05]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211225_223/1640361947123LKuNn_JPEG/624143856502425980f1825e8-37fe-425e-a231-e492d07aa840.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[매리크리스마스]]></title>
             <link>https://www.vlive.tv/video/272862</link>
             <guid>https://www.vlive.tv/video/272862</guid>
@@ -1279,6 +1271,14 @@
             <pubDate>Fri, 24 Dec 2021 17:48:24 GMT</pubDate>
             <content:encoded><![CDATA[오후 6:15]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211225_129/1640369741154RmdMP_JPEG/a7b99059-64e4-11ec-810a-505dac8c3607_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Re Merry Christmas!]]></title>
+            <link>https://www.vlive.tv/video/272863</link>
+            <guid>https://www.vlive.tv/video/272863</guid>
+            <pubDate>Fri, 24 Dec 2021 17:04:56 GMT</pubDate>
+            <content:encoded><![CDATA[오후 7:37]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211225_223/1640361947123LKuNn_JPEG/624143856502425980f1825e8-37fe-425e-a231-e492d07aa840.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
