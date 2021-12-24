@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 17:49:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 18:51:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1249,14 +1249,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20211224_3/1640354092943j06qU_JPEG/1532297068610156726dd811fb-5069-4d70-aab1-0e9823fc2957.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[잠안오묜 같이 있자..❤️]]></title>
-            <link>https://www.vlive.tv/video/272866</link>
-            <guid>https://www.vlive.tv/video/272866</guid>
-            <pubDate>Fri, 24 Dec 2021 17:48:24 GMT</pubDate>
-            <content:encoded><![CDATA[오후 5:05]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/272866/thumb?type=f228_128" length="0" type="image//live/272866/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[Merry Christmas🎄]]></title>
             <link>https://www.vlive.tv/video/272854</link>
             <guid>https://www.vlive.tv/video/272854</guid>
@@ -1279,6 +1271,14 @@
             <pubDate>Fri, 24 Dec 2021 17:48:24 GMT</pubDate>
             <content:encoded><![CDATA[오후 5:46]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211225_173/1640367960971TtEbJ_JPEG/261aeac2-64e1-11ec-b908-48df37ae3fca_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠안오묜 같이 있자..❤️]]></title>
+            <link>https://www.vlive.tv/video/272866</link>
+            <guid>https://www.vlive.tv/video/272866</guid>
+            <pubDate>Fri, 24 Dec 2021 17:48:24 GMT</pubDate>
+            <content:encoded><![CDATA[오후 6:15]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211225_129/1640369741154RmdMP_JPEG/a7b99059-64e4-11ec-810a-505dac8c3607_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
