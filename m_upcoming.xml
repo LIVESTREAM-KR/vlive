@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 04:56:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 05:42:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Music Access / SKYLE & Roda 스카이리 & 로다)]]></title>
-            <link>https://m.vlive.tv/video/271861</link>
-            <guid>https://m.vlive.tv/video/271861</guid>
-            <pubDate>Thu, 23 Dec 2021 10:46:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 4:54</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211221_111/1640063042589DlIq2_JPEG/upload_563326106111798915072466d-d2d5-4e94-962f-33d2f4129593.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[♥️메리크리스마스 라떼♥️]]></title>
             <link>https://m.vlive.tv/video/272518</link>
@@ -86,6 +76,16 @@
 										오전 11:00</span>
 										<span class="txt">T1419</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211223_75/1640262608511FgVD3_JPEG/upload_8434203430837581231d9d843-b9ac-47e0-b4a2-54f5b74ffc8f.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트라이비의 🎄MERRY CHRISTMAS🎄]]></title>
+            <link>https://m.vlive.tv/video/272532</link>
+            <guid>https://m.vlive.tv/video/272532</guid>
+            <pubDate>Fri, 24 Dec 2021 05:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:30</span>
+										<span class="txt">TRI.BE</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211223_264/1640231973860FjVTv_JPEG/upload_84311564683967702f5480b8f-9de5-4acf-a82f-be3118a8269c.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
