@@ -4,26 +4,16 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 03:46:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 04:56:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Simply K-Pop CON-TOUR (심플리케이팝 콘투어) _ Ep.499]]></title>
-            <link>https://m.vlive.tv/video/272555</link>
-            <guid>https://m.vlive.tv/video/272555</guid>
-            <pubDate>Thu, 23 Dec 2021 09:45:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 4:00</span>
-										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211223_270/1640239264741hto5L_PNG/upload_8431896555419595956b44696-e716-4ae3-91a0-3c4fa00e30b9.png?type=f274_154" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Music Access / SKYLE & Roda 스카이리 & 로다)]]></title>
             <link>https://m.vlive.tv/video/271861</link>
             <guid>https://m.vlive.tv/video/271861</guid>
             <pubDate>Thu, 23 Dec 2021 10:46:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
+										오전 4:54</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211221_111/1640063042589DlIq2_JPEG/upload_563326106111798915072466d-d2d5-4e94-962f-33d2f4129593.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
@@ -86,6 +76,16 @@
 										오전 11:00</span>
 										<span class="txt">YOO SEONHO</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211223_73/1640236584621RWyQv_JPEG/upload_565054853497188165a82ce16-0cca-4f12-856a-b6941a8c49fe.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021 연말 파티일사일구]]></title>
+            <link>https://m.vlive.tv/video/272645</link>
+            <guid>https://m.vlive.tv/video/272645</guid>
+            <pubDate>Fri, 24 Dec 2021 04:55:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">T1419</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211223_75/1640262608511FgVD3_JPEG/upload_8434203430837581231d9d843-b9ac-47e0-b4a2-54f5b74ffc8f.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
