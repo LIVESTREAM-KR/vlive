@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 11:41:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 13:05:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[메리 크리스마스 초이스 🎄]]></title>
-            <link>https://m.vlive.tv/video/271998</link>
-            <guid>https://m.vlive.tv/video/271998</guid>
-            <pubDate>Fri, 24 Dec 2021 09:45:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 1:00</span>
-										<span class="txt">에이스(A.C.E)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211216_281/1639648846778X7C0g_JPEG/upload_837251590550708322e924d4d-05c4-4cd2-93df-1e42f5d0fb37.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[🎄메리 예삐뉴 마스🎄]]></title>
             <link>https://m.vlive.tv/video/272595</link>
@@ -46,6 +36,26 @@
 										오전 5:00</span>
 										<span class="txt">HOT ISSUE</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211224_78/1640322015532KmHfx_JPEG/upload_84396177533305831f811f045-775c-4430-bf87-f1b95449d659.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Re-Streaming] Beyond LIVE - NCT 127 2ND TOUR 'NEO CITY : SEOUL – THE LINK']]></title>
+            <link>https://m.vlive.tv/video/272105</link>
+            <guid>https://m.vlive.tv/video/272105</guid>
+            <pubDate>Fri, 24 Dec 2021 13:03:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 2:00</span>
+										<span class="txt">Beyond LIVE</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211126_38/1637917441054uH9AQ_JPEG/upload_541870481231697870fb1c101-7926-4384-9115-9714af54d8ee.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyond LIVE -TWICE 4TH WORLD TOUR ‘Ⅲ’ : SEOUL]]></title>
+            <link>https://m.vlive.tv/video/270711</link>
+            <guid>https://m.vlive.tv/video/270711</guid>
+            <pubDate>Fri, 24 Dec 2021 13:03:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 8:00</span>
+										<span class="txt">Beyond LIVE</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211202_36/1638420408876pKr6x_PNG/upload_8250014429217456710b39cbc-3f73-4d7e-a9c1-b8c0df8a1a98.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
