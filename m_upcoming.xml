@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 02:59:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 03:46:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[🎅withus 미리 크리스마스 LIVE🎄]]></title>
-            <link>https://m.vlive.tv/video/272591</link>
-            <guid>https://m.vlive.tv/video/272591</guid>
-            <pubDate>Thu, 23 Dec 2021 09:45:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 3:00</span>
-										<span class="txt">위드에이치씨 (withHC)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211223_284/16402470811022buWN_JPEG/upload_84326584419689906daa8eb02-de4c-4067-a2b2-72948048e781.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Simply K-Pop CON-TOUR (심플리케이팝 콘투어) _ Ep.499]]></title>
             <link>https://m.vlive.tv/video/272555</link>
@@ -76,6 +66,26 @@
 										오전 9:00</span>
 										<span class="txt">ARIAZ</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211223_270/1640259214378lw9Hk_PNG/upload_56528751871461322d39694c1-59b0-4e2c-b63c-a712393b6d5d.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[크리스마스에 유리가 올까요? 👩🏻‍🍳🍪]]></title>
+            <link>https://m.vlive.tv/video/272494</link>
+            <guid>https://m.vlive.tv/video/272494</guid>
+            <pubDate>Fri, 24 Dec 2021 03:45:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:30</span>
+										<span class="txt">조유리 JO YURI</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211223_169/1640249542327OlbwO_PNG/upload_84329259715078069abc6e54c-355a-4106-98b9-01d05bf999b3.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[MERRY CHRISTMAS with SEONHO 🎅💛🦌]]></title>
+            <link>https://m.vlive.tv/video/272545</link>
+            <guid>https://m.vlive.tv/video/272545</guid>
+            <pubDate>Fri, 24 Dec 2021 03:45:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">YOO SEONHO</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211223_73/1640236584621RWyQv_JPEG/upload_565054853497188165a82ce16-0cca-4f12-856a-b6941a8c49fe.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
