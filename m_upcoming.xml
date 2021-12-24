@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 14:43:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 15:49:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -66,6 +66,26 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211223_216/1640271579393qLWFb_JPEG/upload_8435120378079128547e1a0ff-9132-4f6a-940c-a36f37985727.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[승민이의 음악공방 #5 🎼🧰]]></title>
+            <link>https://m.vlive.tv/video/272795</link>
+            <guid>https://m.vlive.tv/video/272795</guid>
+            <pubDate>Fri, 24 Dec 2021 15:48:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 9:00</span>
+										<span class="txt">Golden Child</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211224_16/16403401813567qgIX_JPEG/upload_84419824825731901e25ae108-9007-4ced-b34f-aa3d81dd7009.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HAPPY BIRTHDAY SEUNGEUN! 🎂🙌]]></title>
+            <link>https://m.vlive.tv/video/272820</link>
+            <guid>https://m.vlive.tv/video/272820</guid>
+            <pubDate>Fri, 24 Dec 2021 15:48:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 9:00</span>
+										<span class="txt">BVNDIT(밴디트)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211224_230/1640346218117ekdhp_JPEG/upload_8442572765549754136d77056-5896-4884-be04-6b90cd72d24f.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
