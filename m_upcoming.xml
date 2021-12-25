@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Dec 2021 08:50:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Dec 2021 09:46:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Merry Christmas with Seobin 🎄]]></title>
-            <link>https://m.vlive.tv/video/272864</link>
-            <guid>https://m.vlive.tv/video/272864</guid>
-            <pubDate>Fri, 24 Dec 2021 17:05:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 9:30</span>
-										<span class="txt">윤서빈 (Yoon Seobin)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211225_19/1640364843388Q4sSr_JPEG/upload_84444256355175003ada2afeb-c81b-4a7a-a73e-6cef55ef9807.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Re-Streaming] Beyond LIVE - NCT 127 2ND TOUR 'NEO CITY : SEOUL – THE LINK']]></title>
             <link>https://m.vlive.tv/video/272105</link>
@@ -86,6 +76,16 @@
 										오전 9:00</span>
 										<span class="txt">BVNDIT(밴디트)</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211224_230/1640346218117ekdhp_JPEG/upload_8442572765549754136d77056-5896-4884-be04-6b90cd72d24f.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yoon JiSung X Preview Camping - 윤지성 X 프리뷰 캠핑]]></title>
+            <link>https://m.vlive.tv/video/272549</link>
+            <guid>https://m.vlive.tv/video/272549</guid>
+            <pubDate>Sat, 25 Dec 2021 09:44:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">V COOKIE</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211223_119/1640233958662y5EVw_JPEG/upload_84313694062307806f070b25c-5f7c-4498-9b4d-8c6cb87e7b8e.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
