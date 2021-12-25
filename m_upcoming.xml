@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Dec 2021 14:43:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Dec 2021 15:48:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,16 @@
 										오전 11:00</span>
 										<span class="txt">윤지성 (YOON JISUNG)</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211223_119/1640233958662y5EVw_JPEG/upload_84313694062307806f070b25c-5f7c-4498-9b4d-8c6cb87e7b8e.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / DUNK 덩크)]]></title>
+            <link>https://m.vlive.tv/video/272669</link>
+            <guid>https://m.vlive.tv/video/272669</guid>
+            <pubDate>Sat, 25 Dec 2021 15:47:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211223_46/1640271322202INwrq_JPEG/upload_84351018242202901d9d30193-e269-442e-bd15-308a8a88a415.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
