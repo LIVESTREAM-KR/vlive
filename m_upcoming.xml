@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Dec 2021 01:51:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Dec 2021 03:01:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Re-Streaming] Beyond LIVE - NCT 127 2ND TOUR 'NEO CITY : SEOUL – THE LINK']]></title>
-            <link>https://m.vlive.tv/video/272105</link>
-            <guid>https://m.vlive.tv/video/272105</guid>
-            <pubDate>Fri, 24 Dec 2021 13:03:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 2:00</span>
-										<span class="txt">Beyond LIVE</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211126_38/1637917441054uH9AQ_JPEG/upload_541870481231697870fb1c101-7926-4384-9115-9714af54d8ee.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Beyond LIVE -TWICE 4TH WORLD TOUR ‘Ⅲ’ : SEOUL]]></title>
             <link>https://m.vlive.tv/video/270711</link>
@@ -106,6 +96,16 @@
 										오전 11:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211223_46/1640271322202INwrq_JPEG/upload_84351018242202901d9d30193-e269-442e-bd15-308a8a88a415.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
+            <link>https://m.vlive.tv/video/272585</link>
+            <guid>https://m.vlive.tv/video/272585</guid>
+            <pubDate>Sun, 26 Dec 2021 02:59:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211223_170/1640244972550cr9GQ_JPEG/upload_84324684546240207224e5f1e-2300-4fad-b6bd-7816bf58e3c1.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
