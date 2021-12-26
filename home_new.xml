@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Dec 2021 17:05:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Dec 2021 17:49:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Short talk]]></title>
+            <link>https://www.vlive.tv/video/272972</link>
+            <guid>https://www.vlive.tv/video/272972</guid>
+            <pubDate>Sun, 26 Dec 2021 17:46:48 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211227_33/1640538810109KNwUa_JPEG/796952929420762442981e06f-3ef9-4c09-8fae-cc3f65678242.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[학교 다녀왔습니다🙌🏻]]></title>
             <link>https://www.vlive.tv/video/272969</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 26 Dec 2021 09:43:07 GMT</pubDate>
             <content:encoded><![CDATA[EVERGLOW (에버글로우)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211226_152/1640511190776La9Em_JPEG/1532995017137447890fa7e32f-8080-49df-8c75-af9d0f3ab5a5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SKYLE Crownary (스카이리 크라운어리) _ 'Welcome to GINNYLAND' 편]]></title>
-            <link>https://www.vlive.tv/video/272944</link>
-            <guid>https://www.vlive.tv/video/272944</guid>
-            <pubDate>Sun, 26 Dec 2021 10:44:16 GMT</pubDate>
-            <content:encoded><![CDATA[SKYLE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211226_294/16404590981219a0Th_JPEG/upload_845388106179915324ee378c3-25e9-4303-8c32-508246c9a145.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
