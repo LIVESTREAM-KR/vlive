@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 13:04:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 13:55:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -408,14 +408,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20211227_25/1640604025465zw0MH_JPEG/1534795563843196034db4105d-eced-4b19-b38e-59eceed27f25.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[크리스마스 실험실]]></title>
-            <link>https://www.vlive.tv/video/273043</link>
-            <guid>https://www.vlive.tv/video/273043</guid>
-            <pubDate>Mon, 27 Dec 2021 11:44:55 GMT</pubDate>
-            <content:encoded><![CDATA[오전 11:30]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211227_25/1640604613119bjh4p_JPEG/153480213031203515a1fc8f12-0795-4adb-ba83-8420ea677edf.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2021년 마지막 주]]></title>
             <link>https://www.vlive.tv/video/273032</link>
             <guid>https://www.vlive.tv/video/273032</guid>
@@ -512,14 +504,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20211227_75/1640608824424pY2mP_JPEG/11d799d9-6711-11ec-908e-48df379cc9e4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Yoon JiSung x Closet Camping - 윤지성 X 클로젯 캠핑]]></title>
-            <link>https://www.vlive.tv/video/272534</link>
-            <guid>https://www.vlive.tv/video/272534</guid>
-            <pubDate>Mon, 27 Dec 2021 01:47:55 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:43]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211223_119/1640233958662y5EVw_JPEG/upload_84313694062307806f070b25c-5f7c-4498-9b4d-8c6cb87e7b8e.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[?!]]></title>
             <link>https://www.vlive.tv/video/273046</link>
             <guid>https://www.vlive.tv/video/273046</guid>
@@ -550,6 +534,30 @@
             <pubDate>Mon, 27 Dec 2021 13:03:35 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211227_35/1640604267609hCh0L_JPEG/4cba91a5-6707-11ec-b776-246e963a49a8_01.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / DUNK 덩크)]]></title>
+            <link>https://www.vlive.tv/video/272669</link>
+            <guid>https://www.vlive.tv/video/272669</guid>
+            <pubDate>Mon, 27 Dec 2021 13:54:16 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:07]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211223_46/1640271322202INwrq_JPEG/upload_84351018242202901d9d30193-e269-442e-bd15-308a8a88a415.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크리스마스 실험실]]></title>
+            <link>https://www.vlive.tv/video/273043</link>
+            <guid>https://www.vlive.tv/video/273043</guid>
+            <pubDate>Mon, 27 Dec 2021 11:44:55 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:39]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211227_25/1640604613119bjh4p_JPEG/153480213031203515a1fc8f12-0795-4adb-ba83-8420ea677edf.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Radio Hama] 심야라디오.]]></title>
+            <link>https://www.vlive.tv/video/273050</link>
+            <guid>https://www.vlive.tv/video/273050</guid>
+            <pubDate>Mon, 27 Dec 2021 13:54:16 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:50]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211227_39/1640613043447pPvJQ_JPEG/342308196547024690c276578-cb09-49b9-a235-54468707cc18.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 13:04:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 13:55:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,16 @@
 										오후 1:00</span>
 										<span class="txt">HA HYUN SANG</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211227_210/1640610030304v22QR_JPEG/upload_84689725982113863f75fe8f4-4009-4ff2-96db-b2b527d857c8.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthews]]></title>
+            <link>https://m.vlive.tv/video/272584</link>
+            <guid>https://m.vlive.tv/video/272584</guid>
+            <pubDate>Mon, 27 Dec 2021 13:54:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211223_225/16402453664337NNTx_JPEG/upload_84324615759992366d4e11902-15ac-4089-90e9-19ad82f5740a.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
