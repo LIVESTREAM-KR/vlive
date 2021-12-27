@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 06:54:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 07:45:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Super K-Pop / GHOST9 고스트나인)]]></title>
-            <link>https://m.vlive.tv/video/272672</link>
-            <guid>https://m.vlive.tv/video/272672</guid>
-            <pubDate>Fri, 24 Dec 2021 14:41:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211223_216/1640271579393qLWFb_JPEG/upload_8435120378079128547e1a0ff-9132-4f6a-940c-a36f37985727.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[승민이의 음악공방 #5 🎼🧰]]></title>
             <link>https://m.vlive.tv/video/272795</link>
@@ -96,6 +86,16 @@
 										오전 4:00</span>
 										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211224_259/1640325633732ORlQk_PNG/upload_5659521363287598521dca548-96a4-4a03-b0bc-ed894aa6a501.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[Music Access] Pop&Going wih AleXa 알렉사 & Won Jun 원준 of E'LAST]]></title>
+            <link>https://m.vlive.tv/video/272574</link>
+            <guid>https://m.vlive.tv/video/272574</guid>
+            <pubDate>Mon, 27 Dec 2021 07:43:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211223_176/1640244491762uibJv_JPEG/upload_843241947714387507a6efb4a-f130-4e70-876f-3f3dde2081df.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
