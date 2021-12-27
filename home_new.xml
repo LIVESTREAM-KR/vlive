@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 22:45:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 23:45:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오디션 봤는데 곡을 준다고 UiU 첫 팀미션 - 곡선택 1화]]></title>
+            <link>https://www.vlive.tv/video/273062</link>
+            <guid>https://www.vlive.tv/video/273062</guid>
+            <pubDate>Mon, 27 Dec 2021 23:43:01 GMT</pubDate>
+            <content:encoded><![CDATA[UiU]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211228_45/16406485480591sIuk_PNG/upload_569180351034862266c3b4029-43cd-4ac4-be5e-b803e3f7b51f.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Short]]></title>
             <link>https://www.vlive.tv/video/273060</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 27 Dec 2021 13:53:30 GMT</pubDate>
             <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211223_46/1640271322202INwrq_JPEG/upload_84351018242202901d9d30193-e269-442e-bd15-308a8a88a415.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[bugAboo(버가부)｜booboo TV EP.14 ID photo & boobooTV INTRO BEHIND]]></title>
-            <link>https://www.vlive.tv/video/273042</link>
-            <guid>https://www.vlive.tv/video/273042</guid>
-            <pubDate>Mon, 27 Dec 2021 13:02:52 GMT</pubDate>
-            <content:encoded><![CDATA[bugAboo]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211227_35/1640604267609hCh0L_JPEG/4cba91a5-6707-11ec-b776-246e963a49a8_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
