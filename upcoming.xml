@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 15:58:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 17:07:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -592,28 +592,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20211228_41/16406174157302z1Yj_JPEG/fcac658c-6725-11ec-9576-48df379ccacc_01.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[나 보고싶었죠!!!!]]></title>
-            <link>https://www.vlive.tv/video/273055</link>
-            <guid>https://www.vlive.tv/video/273055</guid>
-            <pubDate>Mon, 27 Dec 2021 15:57:16 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:15]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/273055/thumb?type=f228_128" length="0" type="image//live/273055/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[붕어빵 먹고싶따]]></title>
             <link>https://www.vlive.tv/video/273045</link>
             <guid>https://www.vlive.tv/video/273045</guid>
             <pubDate>Mon, 27 Dec 2021 13:03:35 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:20]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211227_169/1640607222162jgQa5_JPEG/6265966067260960088e6f4c6-5a8e-4b10-b760-206be75653e9.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[4관왕 태환]]></title>
-            <link>https://www.vlive.tv/video/273056</link>
-            <guid>https://www.vlive.tv/video/273056</guid>
-            <pubDate>Mon, 27 Dec 2021 15:57:16 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:21]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/273056/thumb?type=f228_128" length="0" type="image//live/273056/thumb"/>
         </item>
         <item>
             <title><![CDATA[노아 이리온~]]></title>
@@ -638,6 +622,14 @@
             <pubDate>Mon, 27 Dec 2021 15:57:16 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:54]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211228_151/1640620549866PCXwz_PNG/upload_847002677445744222bbb6700-7489-446a-b377-7175843f2c61.PNG?type=f228_128" length="0" type="image/PNG"/>
+        </item>
+        <item>
+            <title><![CDATA[4관왕 태환]]></title>
+            <link>https://www.vlive.tv/video/273056</link>
+            <guid>https://www.vlive.tv/video/273056</guid>
+            <pubDate>Mon, 27 Dec 2021 15:57:16 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:38]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211228_211/16406230890911iFXq_JPEG/525f3727-6732-11ec-b908-48df37ae3fca_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
