@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 02:59:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 04:57:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Music Access / Billlie 빌리)]]></title>
-            <link>https://m.vlive.tv/video/272670</link>
-            <guid>https://m.vlive.tv/video/272670</guid>
-            <pubDate>Fri, 24 Dec 2021 14:41:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211223_121/1640271399458IwE3h_JPEG/upload_84351105688291091e193225d-4d93-43e7-bdc6-c340c17b1de6.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Super K-Pop / GHOST9 고스트나인)]]></title>
             <link>https://m.vlive.tv/video/272672</link>
@@ -96,6 +86,16 @@
 										오전 2:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211223_181/1640244645566OlCHX_JPEG/upload_565142313276263975dc28407-b9b3-46c6-8b0a-2efee9600cf7.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ASC Live Ep.503 (Xdinary Heroes / 엑스디너리 히어로즈)]]></title>
+            <link>https://m.vlive.tv/video/272727</link>
+            <guid>https://m.vlive.tv/video/272727</guid>
+            <pubDate>Mon, 27 Dec 2021 04:55:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211224_259/1640325633732ORlQk_PNG/upload_5659521363287598521dca548-96a4-4a03-b0bc-ed894aa6a501.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
