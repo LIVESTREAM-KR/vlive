@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 05:43:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 06:53:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,16 @@
 										오전 2:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211223_264/1640244678288nevPw_JPEG/upload_8432439336538066467ff8adf-8a57-4dc5-a938-ac8323b6da65.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio/K-Poppin'] J The Magician 마술사 김종수]]></title>
+            <link>https://m.vlive.tv/video/272735</link>
+            <guid>https://m.vlive.tv/video/272735</guid>
+            <pubDate>Tue, 28 Dec 2021 06:51:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211224_280/1640327152756eWobP_JPEG/upload_84406768273759719c5954ae3-89a5-4f32-84a2-97b056145444.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
