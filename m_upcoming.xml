@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 02:59:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 03:46:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,6 +36,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211223_138/1640244195353R67GS_JPEG/upload_843239094267982100683ca39-56f8-4204-885c-538aa5845486.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주찬이의 가로등이 빛나는 밤에🌙 │주빛밤 Ep.27]]></title>
+            <link>https://m.vlive.tv/video/273074</link>
+            <guid>https://m.vlive.tv/video/273074</guid>
+            <pubDate>Tue, 28 Dec 2021 03:45:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 9:00</span>
+										<span class="txt">Golden Child</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211228_45/1640660402321JGxy3_JPEG/upload_84739963494941938eb7b5060-c58a-47f3-9318-bb23e68037d1.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레미의 실험실🔬]]></title>
@@ -76,16 +86,6 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211223_225/16402453664337NNTx_JPEG/upload_84324615759992366d4e11902-15ac-4089-90e9-19ad82f5740a.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
-            <link>https://m.vlive.tv/video/272576</link>
-            <guid>https://m.vlive.tv/video/272576</guid>
-            <pubDate>Tue, 28 Dec 2021 02:57:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 2:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211223_264/1640244678288nevPw_JPEG/upload_8432439336538066467ff8adf-8a57-4dc5-a938-ac8323b6da65.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
