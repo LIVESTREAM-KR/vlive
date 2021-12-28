@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 06:53:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 07:42:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Oh My K-POP with Samuel Seo 서사무엘]]></title>
-            <link>https://m.vlive.tv/video/272570</link>
-            <guid>https://m.vlive.tv/video/272570</guid>
-            <pubDate>Mon, 27 Dec 2021 11:45:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211223_138/1640244195353R67GS_JPEG/upload_843239094267982100683ca39-56f8-4204-885c-538aa5845486.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[주찬이의 가로등이 빛나는 밤에🌙 │주빛밤 Ep.27]]></title>
             <link>https://m.vlive.tv/video/273074</link>
@@ -96,6 +86,16 @@
 										오전 4:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211224_280/1640327152756eWobP_JPEG/upload_84406768273759719c5954ae3-89a5-4f32-84a2-97b056145444.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Music Access] MA MVP with DANN of KINGDOM 킹덤 단]]></title>
+            <link>https://m.vlive.tv/video/272572</link>
+            <guid>https://m.vlive.tv/video/272572</guid>
+            <pubDate>Tue, 28 Dec 2021 07:41:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211223_145/1640244309767F2FJq_JPEG/upload_8432401202952200711c0ddfc-9b1b-4f29-84d0-7a098228ec7d.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
