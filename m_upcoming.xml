@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 09:46:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 10:47:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[레미의 실험실🔬]]></title>
-            <link>https://m.vlive.tv/video/273028</link>
-            <guid>https://m.vlive.tv/video/273028</guid>
-            <pubDate>Mon, 27 Dec 2021 11:45:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">Cherry Bullet</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211227_171/1640599206427M2dJ1_JPEG/upload_8467885111137640250ec550d-5bf8-4156-89df-177c01b3c1fa.jpeg?type=f274_154" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[소수점이 점쳐주는 켓치점2⃣]]></title>
-            <link>https://m.vlive.tv/video/273083</link>
-            <guid>https://m.vlive.tv/video/273083</guid>
-            <pubDate>Tue, 28 Dec 2021 04:55:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">Rocket Punch</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211228_235/1640663389111kUkfM_JPEG/upload_84742984434692342b48182be-6a6d-4c11-bab0-b672f0366911.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[연극 <죄와벌_파란 관성의 시대> 녹화중계]]></title>
             <link>https://m.vlive.tv/video/272039</link>
@@ -96,6 +76,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211224_35/1640271720608Px4RD_JPEG/upload_8435140106010697619aee243-1f81-4618-8c35-c6447f96c833.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HAPPY YIREN DAY💕]]></title>
+            <link>https://m.vlive.tv/video/273108</link>
+            <guid>https://m.vlive.tv/video/273108</guid>
+            <pubDate>Tue, 28 Dec 2021 10:45:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">EVERGLOW (에버글로우)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211228_275/1640679725836HWqm9_JPEG/upload_84759356616951476280987fa-1c34-482a-9543-5f59c504cb4c.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
