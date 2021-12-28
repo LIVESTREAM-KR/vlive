@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 17:50:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 18:51:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잠 못드는 밤에(2021 마무리 하는 기분이 어떠신가요?)]]></title>
+            <link>https://www.vlive.tv/video/273153</link>
+            <guid>https://www.vlive.tv/video/273153</guid>
+            <pubDate>Tue, 28 Dec 2021 18:49:01 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211229_290/16407168116706bUsD_JPEG/34334587931746874d85f6f04-a6ff-4db6-82d2-171ef242bebd.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지금들어온다는건안자는게아니라못자고있는거겠찌]]></title>
+            <link>https://www.vlive.tv/video/273152</link>
+            <guid>https://www.vlive.tv/video/273152</guid>
+            <pubDate>Tue, 28 Dec 2021 18:49:01 GMT</pubDate>
+            <content:encoded><![CDATA[VIVIZ (비비지)]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/273152/thumb?type=f228_128" length="0" type="image//live/273152/thumb"/>
+        </item>
         <item>
             <title><![CDATA[유노랑 놀사람🐿]]></title>
             <link>https://www.vlive.tv/video/273149</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 28 Dec 2021 13:02:52 GMT</pubDate>
             <content:encoded><![CDATA[루미너스 (LUMINOUS)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211228_267/16406878150665Qz3Y_JPEG/153563397053143240c7bdcc5c-e786-4708-92d4-5a91e8f654ab.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BLITZERS 1ST SINGLE 'BOBBIN' HIGHLIGHT MEDLEY]]></title>
-            <link>https://www.vlive.tv/video/273143</link>
-            <guid>https://www.vlive.tv/video/273143</guid>
-            <pubDate>Tue, 28 Dec 2021 13:02:52 GMT</pubDate>
-            <content:encoded><![CDATA[블리처스(BLITZERS)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211228_53/1640692805705cu4YF_JPEG/upload_569619801088479708958a6b9-3a79-43c4-83ce-57e558c17ed0.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[주찬(Golden Child) - '눈사람' COVER (원곡 : 정승환)]]></title>
-            <link>https://www.vlive.tv/video/273085</link>
-            <guid>https://www.vlive.tv/video/273085</guid>
-            <pubDate>Tue, 28 Dec 2021 13:02:52 GMT</pubDate>
-            <content:encoded><![CDATA[Golden Child]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211228_137/1640667814292jG7lM_JPEG/upload_84747501062754458f5253cf4-b1e4-4322-ad0e-1d4c1bf6999c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
