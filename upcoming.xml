@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 19:41:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 20:46:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -616,20 +616,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20211229_265/16407077687651xOfk_JPEG/6f3351c8-67f7-11ec-9d44-48df37ae3dc4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[지금들어온다는건안자는게아니라못자고있는거겠찌]]></title>
-            <link>https://www.vlive.tv/video/273152</link>
-            <guid>https://www.vlive.tv/video/273152</guid>
-            <pubDate>Tue, 28 Dec 2021 18:49:55 GMT</pubDate>
-            <content:encoded><![CDATA[오후 6:33]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/273152/thumb?type=f228_128" length="0" type="image//live/273152/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[잠 못드는 밤에(2021 마무리 하는 기분이 어떠신가요?)]]></title>
             <link>https://www.vlive.tv/video/273153</link>
             <guid>https://www.vlive.tv/video/273153</guid>
             <pubDate>Tue, 28 Dec 2021 18:49:56 GMT</pubDate>
-            <content:encoded><![CDATA[오후 6:40]]></content:encoded>
+            <content:encoded><![CDATA[오후 8:01]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211229_290/16407168116706bUsD_JPEG/34334587931746874d85f6f04-a6ff-4db6-82d2-171ef242bebd.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지금들어온다는건안자는게아니라못자고있는거겠찌]]></title>
+            <link>https://www.vlive.tv/video/273152</link>
+            <guid>https://www.vlive.tv/video/273152</guid>
+            <pubDate>Tue, 28 Dec 2021 18:49:55 GMT</pubDate>
+            <content:encoded><![CDATA[오후 8:36]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211229_145/1640723792616BiINf_JPEG/47b99ec1-681d-11ec-b776-246e963a49a8_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
