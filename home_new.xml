@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 01:47:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 02:59:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[hi minimonster]]></title>
+            <link>https://www.vlive.tv/video/273072</link>
+            <guid>https://www.vlive.tv/video/273072</guid>
+            <pubDate>Tue, 28 Dec 2021 02:56:40 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211228_234/1640658609130vr5pz_JPEG/upload_56928188280879940b20d4069-d547-4e73-94d0-65a5ed76dd0d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
             <link>https://www.vlive.tv/video/272585</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 27 Dec 2021 14:52:32 GMT</pubDate>
             <content:encoded><![CDATA[KEYEAST]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211227_180/1640599711065G8CaB_JPEG/upload_846739707153420935db9b4bf-57eb-4ea3-a969-e4afaa47ef48.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스마스 실험실]]></title>
-            <link>https://www.vlive.tv/video/273043</link>
-            <guid>https://www.vlive.tv/video/273043</guid>
-            <pubDate>Mon, 27 Dec 2021 13:53:30 GMT</pubDate>
-            <content:encoded><![CDATA[BOL4]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211227_25/1640604613119bjh4p_JPEG/153480213031203515a1fc8f12-0795-4adb-ba83-8420ea677edf.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
