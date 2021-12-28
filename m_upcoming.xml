@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 08:50:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 09:46:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[주찬이의 가로등이 빛나는 밤에🌙 │주빛밤 Ep.27]]></title>
-            <link>https://m.vlive.tv/video/273074</link>
-            <guid>https://m.vlive.tv/video/273074</guid>
-            <pubDate>Tue, 28 Dec 2021 03:45:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 9:00</span>
-										<span class="txt">Golden Child</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211228_45/1640660402321JGxy3_JPEG/upload_84739963494941938eb7b5060-c58a-47f3-9318-bb23e68037d1.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[레미의 실험실🔬]]></title>
             <link>https://m.vlive.tv/video/273028</link>
@@ -96,6 +86,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211223_145/1640244309767F2FJq_JPEG/upload_8432401202952200711c0ddfc-9b1b-4f29-84d0-7a098228ec7d.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / LambC 램씨)]]></title>
+            <link>https://m.vlive.tv/video/272673</link>
+            <guid>https://m.vlive.tv/video/272673</guid>
+            <pubDate>Tue, 28 Dec 2021 09:45:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211224_35/1640271720608Px4RD_JPEG/upload_8435140106010697619aee243-1f81-4618-8c35-c6447f96c833.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
