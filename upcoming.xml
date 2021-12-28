@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Dec 2021 14:43:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 15:50:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -598,6 +598,22 @@
             <pubDate>Tue, 28 Dec 2021 13:44:34 GMT</pubDate>
             <content:encoded><![CDATA[오후 2:21]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211228_204/16407017107298wFr4_JPEG/upload_84781401974466105cc4c515e-1138-429c-8090-989d11de5b8f.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유노랑 놀사람🐿]]></title>
+            <link>https://www.vlive.tv/video/273149</link>
+            <guid>https://www.vlive.tv/video/273149</guid>
+            <pubDate>Tue, 28 Dec 2021 15:48:19 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:44]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/273149/thumb?type=f228_128" length="0" type="image//live/273149/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[[TEASER] 문별 (Moon Byul) - '머리에서 발끝까지 (feat. Seori)' Live Clip]]></title>
+            <link>https://www.vlive.tv/video/273146</link>
+            <guid>https://www.vlive.tv/video/273146</guid>
+            <pubDate>Tue, 28 Dec 2021 15:48:19 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211228_271/1640694987145GO6gz_JPEG/upload_847746774623262391f9f3a41-d645-4fc7-8653-1a8944f4dfe1.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
