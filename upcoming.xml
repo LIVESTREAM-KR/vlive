@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 15:49:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 17:07:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -528,14 +528,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20211229_110/1640755337532NoWX3_JPEG/upload_57024916270552241545b5340-dea7-4a16-8534-65857e3f1592.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[과일🍒🍇옥수수수염차🌽]]></title>
-            <link>https://www.vlive.tv/video/273236</link>
-            <guid>https://www.vlive.tv/video/273236</guid>
-            <pubDate>Wed, 29 Dec 2021 14:41:42 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:00]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211229_274/16407864473258Bczq_JPEG/1535748173141805116564ad00-4ddb-437e-896c-6beef2e263c9.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[#한사람만] 상상 이상의 REAL 찐텐 대공개! #윤보라 #장서원｜Yoon Bo Ra, Jang Seo Won]]></title>
             <link>https://www.vlive.tv/video/273217</link>
             <guid>https://www.vlive.tv/video/273217</guid>
@@ -616,20 +608,28 @@
             <enclosure url="https://vlive-thumb.pstatic.net/live/273239/thumb?type=f228_128" length="0" type="image//live/273239/thumb"/>
         </item>
         <item>
-            <title><![CDATA[It's Xiwoo Time❣️#53 Good bye 2021👋🏻]]></title>
-            <link>https://www.vlive.tv/video/273240</link>
-            <guid>https://www.vlive.tv/video/273240</guid>
-            <pubDate>Wed, 29 Dec 2021 15:47:59 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:20]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/273240/thumb?type=f228_128" length="0" type="image//live/273240/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[조용한밤]]></title>
             <link>https://www.vlive.tv/video/273233</link>
             <guid>https://www.vlive.tv/video/273233</guid>
             <pubDate>Wed, 29 Dec 2021 13:44:41 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:21]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211230_135/1640791283567sJzCR_JPEG/2ca61398-68ba-11ec-810a-505dac8c3607_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[It's Xiwoo Time❣️#53 Good bye 2021👋🏻]]></title>
+            <link>https://www.vlive.tv/video/273240</link>
+            <guid>https://www.vlive.tv/video/273240</guid>
+            <pubDate>Wed, 29 Dec 2021 15:47:59 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:14]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211230_72/1640794469716iNKzt_JPEG/2091c1ff-68c2-11ec-8cee-a0369ff95678_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[과일🍒🍇옥수수수염차🌽]]></title>
+            <link>https://www.vlive.tv/video/273236</link>
+            <guid>https://www.vlive.tv/video/273236</guid>
+            <pubDate>Wed, 29 Dec 2021 14:41:42 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:27]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211229_274/16407864473258Bczq_JPEG/1535748173141805116564ad00-4ddb-437e-896c-6beef2e263c9.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
