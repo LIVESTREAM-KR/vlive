@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 14:43:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 15:49:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,16 @@
 										오전 11:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211223_34/1640271259580q22Su_JPEG/upload_84350924237415887cf72bfe4-4f3a-4c9a-aebc-e6ecb05c2837.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MAJOR9] 2021년 우당탕탕 M9 ‘송년의 밤’🔔]]></title>
+            <link>https://m.vlive.tv/video/273118</link>
+            <guid>https://m.vlive.tv/video/273118</guid>
+            <pubDate>Wed, 29 Dec 2021 15:48:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 1:00</span>
+										<span class="txt">MAJOR9 (메이저나인)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211228_262/1640683098437XIMLl_JPEG/upload_847627744521260817d0a237f-8024-48a8-944f-5ee40ec52083.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
