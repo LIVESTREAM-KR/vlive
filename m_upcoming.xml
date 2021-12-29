@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 06:54:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 07:41:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Super K-Pop / LambC 램씨)]]></title>
-            <link>https://m.vlive.tv/video/272673</link>
-            <guid>https://m.vlive.tv/video/272673</guid>
-            <pubDate>Tue, 28 Dec 2021 09:45:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211224_35/1640271720608Px4RD_JPEG/upload_8435140106010697619aee243-1f81-4618-8c35-c6447f96c833.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HAPPY YIREN DAY💕]]></title>
-            <link>https://m.vlive.tv/video/273108</link>
-            <guid>https://m.vlive.tv/video/273108</guid>
-            <pubDate>Tue, 28 Dec 2021 10:45:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">EVERGLOW (에버글로우)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211228_275/1640679725836HWqm9_JPEG/upload_84759356616951476280987fa-1c34-482a-9543-5f59c504cb4c.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[🔴공연 생중계]🎤 구원찬 | 알리 | 윤하]]></title>
             <link>https://m.vlive.tv/video/273155</link>
@@ -66,6 +46,16 @@
 										오전 2:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211223_113/1640244706016eGXtH_JPEG/upload_565142911468397149a2d1039-34cf-4497-9c84-945fd293fb70.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Music Access] TMB(Text Me Back) with JUNNY(주니)]]></title>
+            <link>https://m.vlive.tv/video/272571</link>
+            <guid>https://m.vlive.tv/video/272571</guid>
+            <pubDate>Wed, 29 Dec 2021 07:40:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211223_199/1640244270089TWyx6_JPEG/upload_843239546765190995bbb8c88-a9f1-4c04-8536-2310195cc284.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
