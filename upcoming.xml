@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 17:07:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 17:50:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -600,14 +600,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20211230_49/1640790560940inETI_JPEG/60c88dbb-68b8-11ec-9d44-48df37ae3dc4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[먹방하면서 브이라이브하깅!💓]]></title>
-            <link>https://www.vlive.tv/video/273239</link>
-            <guid>https://www.vlive.tv/video/273239</guid>
-            <pubDate>Wed, 29 Dec 2021 15:47:59 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:12]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/273239/thumb?type=f228_128" length="0" type="image//live/273239/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[조용한밤]]></title>
             <link>https://www.vlive.tv/video/273233</link>
             <guid>https://www.vlive.tv/video/273233</guid>
@@ -630,6 +622,14 @@
             <pubDate>Wed, 29 Dec 2021 14:41:42 GMT</pubDate>
             <content:encoded><![CDATA[오후 4:27]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211229_274/16407864473258Bczq_JPEG/1535748173141805116564ad00-4ddb-437e-896c-6beef2e263c9.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먹방하면서 브이라이브하깅!💓]]></title>
+            <link>https://www.vlive.tv/video/273239</link>
+            <guid>https://www.vlive.tv/video/273239</guid>
+            <pubDate>Wed, 29 Dec 2021 15:47:59 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:24]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211230_181/1640798668509WyARJ_JPEG/a8e11b69-68ca-11ec-8a02-505dac8c35ff_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
