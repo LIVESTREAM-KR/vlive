@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 09:46:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 10:47:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,26 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211223_174/1640244062633CYTll_JPEG/upload_843237759232231756095984b-e266-4aea-8b31-94d0baa25683.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[치우의 핫케이크 만들기🥞]]></title>
+            <link>https://m.vlive.tv/video/272984</link>
+            <guid>https://m.vlive.tv/video/272984</guid>
+            <pubDate>Wed, 29 Dec 2021 10:45:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">KINGDOM</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211227_33/16405756504128f4qq_JPEG/upload_846553038675757060f5aa1f0-74d7-4e85-b732-b5b8b96397b5.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[랩X씨어터 <헌책방 래퍼> 녹화중계]]></title>
+            <link>https://m.vlive.tv/video/272054</link>
+            <guid>https://m.vlive.tv/video/272054</guid>
+            <pubDate>Wed, 29 Dec 2021 10:45:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">V MUSICAL</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211217_287/16397165409723RIFv_JPEG/upload_8379627639649368430cd703b-31a4-453b-919a-1a454994bcce.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
