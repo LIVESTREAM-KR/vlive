@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 17:06:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 17:40:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -864,14 +864,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20211230_269/1640873685597nzMSi_JPEG/1536620595497759599cb6e870-b498-4ebc-ad3d-22f9e8940b6f.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[하이]]></title>
-            <link>https://www.vlive.tv/video/273404</link>
-            <guid>https://www.vlive.tv/video/273404</guid>
-            <pubDate>Thu, 30 Dec 2021 17:05:20 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:59]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/273404/thumb?type=f228_128" length="0" type="image//live/273404/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[[Radio Hama] 연말엔 심야 라디오지! ( 오늘 풀메인건 안비밀)]]></title>
             <link>https://www.vlive.tv/video/273397</link>
             <guid>https://www.vlive.tv/video/273397</guid>
@@ -902,6 +894,30 @@
             <pubDate>Thu, 30 Dec 2021 17:05:20 GMT</pubDate>
             <content:encoded><![CDATA[오후 4:50]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211231_88/1640883006345L5Pox_JPEG/153758605321569033a82c7c83-4e80-486d-a877-8ecd99735351.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아아 #OMRR 테스트 🎤💛🐝]]></title>
+            <link>https://www.vlive.tv/video/273408</link>
+            <guid>https://www.vlive.tv/video/273408</guid>
+            <pubDate>Thu, 30 Dec 2021 17:38:44 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:07]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211231_34/1640884053964nYYLh_JPEG/62936492463814293ecd2d911-b584-4e12-ac4f-5e661b40df4b.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🔴]]></title>
+            <link>https://www.vlive.tv/video/273409</link>
+            <guid>https://www.vlive.tv/video/273409</guid>
+            <pubDate>Thu, 30 Dec 2021 17:38:44 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:09]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/273409/thumb?type=f228_128" length="0" type="image//live/273409/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[하이]]></title>
+            <link>https://www.vlive.tv/video/273404</link>
+            <guid>https://www.vlive.tv/video/273404</guid>
+            <pubDate>Thu, 30 Dec 2021 17:05:20 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:16]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211231_247/16408845609451MhH0_JPEG/8a090a95-6993-11ec-810a-505dac8c3607_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
