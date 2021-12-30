@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 10:46:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 11:41:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[랩X씨어터 <헌책방 래퍼> 녹화중계]]></title>
-            <link>https://m.vlive.tv/video/272054</link>
-            <guid>https://m.vlive.tv/video/272054</guid>
-            <pubDate>Wed, 29 Dec 2021 10:45:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">V MUSICAL</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211217_287/16397165409723RIFv_JPEG/upload_8379627639649368430cd703b-31a4-453b-919a-1a454994bcce.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arirang Radio (Sound K / Minzy 공민지)]]></title>
-            <link>https://m.vlive.tv/video/272668</link>
-            <guid>https://m.vlive.tv/video/272668</guid>
-            <pubDate>Wed, 29 Dec 2021 13:03:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211223_34/1640271259580q22Su_JPEG/upload_84350924237415887cf72bfe4-4f3a-4c9a-aebc-e6ecb05c2837.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[MAJOR9] 2021년 우당탕탕 M9 ‘송년의 밤’🔔]]></title>
             <link>https://m.vlive.tv/video/273118</link>
@@ -76,6 +56,36 @@
 										오전 4:00</span>
 										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211230_230/1640851108219wtr0q_PNG/upload_84930817763715002216fecd9-a2de-484a-a573-1958c29db22f.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Music Access / W.A.O 위아더원)]]></title>
+            <link>https://m.vlive.tv/video/272671</link>
+            <guid>https://m.vlive.tv/video/272671</guid>
+            <pubDate>Thu, 30 Dec 2021 11:40:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211223_293/1640271467996JRK4D_JPEG/upload_84351170937236113ccb8ad9d-9bd1-4e9b-93a4-85577f660c29.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio] Topic Song with Aaron 아론 of W24 and BÉBE YANA]]></title>
+            <link>https://m.vlive.tv/video/272569</link>
+            <guid>https://m.vlive.tv/video/272569</guid>
+            <pubDate>Thu, 30 Dec 2021 11:40:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211223_191/1640245055763O7vnw_JPEG/upload_565137344386554980c64357b-8aca-46b1-b765-ac447360007e.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GOOD BYE 2021]]></title>
+            <link>https://m.vlive.tv/video/273321</link>
+            <guid>https://m.vlive.tv/video/273321</guid>
+            <pubDate>Thu, 30 Dec 2021 11:40:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 8:00</span>
+										<span class="txt">KINGDOM</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211230_143/1640852925364CH4ou_JPEG/upload_8493238553821834004bd7940-e182-448a-98d1-cb602ed30ca7.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
