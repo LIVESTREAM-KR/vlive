@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 17:06:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 17:49:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -896,14 +896,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20211231_266/1640953930120mHlnz_JPEG/upload_850336604856879872d5e62d9-a5d9-4d33-9b86-6d43f06c2612.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[해피뉴이어]]></title>
-            <link>https://www.vlive.tv/video/273545</link>
-            <guid>https://www.vlive.tv/video/273545</guid>
-            <pubDate>Fri, 31 Dec 2021 13:03:48 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:00]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211231_168/1640955656123LIxVk_JPEG/1537440501198418909754e031-6c68-4a16-bc10-4c075905cc03.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Happy New Year!]]></title>
             <link>https://www.vlive.tv/video/273535</link>
             <guid>https://www.vlive.tv/video/273535</guid>
@@ -926,14 +918,6 @@
             <pubDate>Fri, 31 Dec 2021 13:43:53 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:52]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211231_282/1640958748072R7wIw_JPEG/113c2c63-6a40-11ec-8a02-505dac8c35ff_03.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[welcome 2022]]></title>
-            <link>https://www.vlive.tv/video/273555</link>
-            <guid>https://www.vlive.tv/video/273555</guid>
-            <pubDate>Fri, 31 Dec 2021 14:41:30 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:12]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/273555/thumb?type=f228_128" length="0" type="image//live/273555/thumb"/>
         </item>
         <item>
             <title><![CDATA[달밤의 어쿠스틱🌙❤️ #9]]></title>
@@ -1168,14 +1152,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220101_32/1640966208720TDUHR_JPEG/40834609-6a52-11ec-ad60-505dacfba98a_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[HAPPY NEW YEAR 💛🐝 HELLO 2022 🙌🏻]]></title>
-            <link>https://www.vlive.tv/video/273571</link>
-            <guid>https://www.vlive.tv/video/273571</guid>
-            <pubDate>Fri, 31 Dec 2021 17:05:14 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:57]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/273571/thumb?type=f228_128" length="0" type="image//live/273571/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[COUNTDOWN PARTY 💛🙌🏻 HAPPY NEW YEAR 🐝🎤]]></title>
             <link>https://www.vlive.tv/video/273569</link>
             <guid>https://www.vlive.tv/video/273569</guid>
@@ -1228,8 +1204,16 @@
             <link>https://www.vlive.tv/video/273573</link>
             <guid>https://www.vlive.tv/video/273573</guid>
             <pubDate>Fri, 31 Dec 2021 17:05:14 GMT</pubDate>
-            <content:encoded><![CDATA[오후 5:01]]></content:encoded>
+            <content:encoded><![CDATA[오후 5:28]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220101_87/1640970076311mOAim_JPEG/153758447293771269f7c90ff8-323a-4e32-8f08-7fc13c1e926c.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HAPPY NEW YEAR 💛🐝 HELLO 2022 🙌🏻]]></title>
+            <link>https://www.vlive.tv/video/273571</link>
+            <guid>https://www.vlive.tv/video/273571</guid>
+            <pubDate>Fri, 31 Dec 2021 17:05:14 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:47]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220101_300/1640972831976dspKY_JPEG/e548ca20-6a60-11ec-ad60-505dacfba98a_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
