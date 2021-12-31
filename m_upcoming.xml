@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 23:45:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 01:49:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
-            <link>https://m.vlive.tv/video/272580</link>
-            <guid>https://m.vlive.tv/video/272580</guid>
-            <pubDate>Thu, 30 Dec 2021 01:45:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211223_279/1640244814892DhI3J_JPEG/upload_84324512574452586d1789242-9395-496f-a922-594d8fec78fe.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
             <link>https://m.vlive.tv/video/272579</link>
@@ -76,6 +66,16 @@
 										오전 8:00</span>
 										<span class="txt">KINGDOM</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211230_143/1640852925364CH4ou_JPEG/upload_8493238553821834004bd7940-e182-448a-98d1-cb602ed30ca7.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🧸트라이비의 "2021 연말 정산"🧸]]></title>
+            <link>https://m.vlive.tv/video/273258</link>
+            <guid>https://m.vlive.tv/video/273258</guid>
+            <pubDate>Fri, 31 Dec 2021 01:47:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">TRI.BE</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211230_219/1640835315435bH4iv_JPEG/upload_84914956938243078bd258e20-510e-49e5-823b-fa4112b1ad2f.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
