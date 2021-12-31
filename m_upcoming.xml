@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 09:46:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 10:47:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211229_187/1640769729500llEeR_JPEG/upload_848493907238220427789e3bb-9dcc-4945-a222-ab9c23541a39.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[P1Harmony 3RD MINI ALBUM 'DISHARMONY : FIND OUT' SHOWCASE]]></title>
+            <link>https://m.vlive.tv/video/273068</link>
+            <guid>https://m.vlive.tv/video/273068</guid>
+            <pubDate>Fri, 31 Dec 2021 10:45:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">P1Harmony</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211228_240/1640652724873LRwku_JPEG/upload_847324462431191818895714e-7525-43ec-bb05-49b221e6e105.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
