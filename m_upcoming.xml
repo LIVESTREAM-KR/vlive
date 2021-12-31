@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 06:53:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 07:42:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[KBS 2021 연기대상 레드카펫 라이브 I KBS 방송]]></title>
-            <link>https://m.vlive.tv/video/273470</link>
-            <guid>https://m.vlive.tv/video/273470</guid>
-            <pubDate>Fri, 31 Dec 2021 06:52:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 6:43</span>
-										<span class="txt">KBS드라마</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211231_72/1640932475138qouVh_PNG/upload_8501201386610302127263b8e-f6fd-4e56-9d43-40283e221f11.png?type=f274_154" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio] Topic Song with Aaron 아론 of W24 and BÉBE YANA]]></title>
-            <link>https://m.vlive.tv/video/272569</link>
-            <guid>https://m.vlive.tv/video/272569</guid>
-            <pubDate>Thu, 30 Dec 2021 11:40:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211223_191/1640245055763O7vnw_JPEG/upload_565137344386554980c64357b-8aca-46b1-b765-ac447360007e.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[GOOD BYE 2021]]></title>
             <link>https://m.vlive.tv/video/273321</link>
@@ -46,6 +26,16 @@
 										오전 11:00</span>
 										<span class="txt">TRI.BE</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211230_219/1640835315435bH4iv_JPEG/upload_84914956938243078bd258e20-510e-49e5-823b-fa4112b1ad2f.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
+            <link>https://m.vlive.tv/video/273284</link>
+            <guid>https://m.vlive.tv/video/273284</guid>
+            <pubDate>Fri, 31 Dec 2021 07:41:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211230_158/1640841070953zudsi_JPEG/upload_8492078718956905911cac165-02f4-40c8-a1cb-efc5283bb30f.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
