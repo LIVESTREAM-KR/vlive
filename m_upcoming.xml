@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 10:47:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 11:41:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[🧸트라이비의 "2021 연말 정산"🧸]]></title>
-            <link>https://m.vlive.tv/video/273258</link>
-            <guid>https://m.vlive.tv/video/273258</guid>
-            <pubDate>Fri, 31 Dec 2021 01:47:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">TRI.BE</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211230_219/1640835315435bH4iv_JPEG/upload_84914956938243078bd258e20-510e-49e5-823b-fa4112b1ad2f.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
             <link>https://m.vlive.tv/video/273284</link>
@@ -56,6 +46,16 @@
 										오전 11:00</span>
 										<span class="txt">P1Harmony</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211228_240/1640652724873LRwku_JPEG/upload_847324462431191818895714e-7525-43ec-bb05-49b221e6e105.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UP10TION(업텐션) [Novella] SHOWCASE]]></title>
+            <link>https://m.vlive.tv/video/273069</link>
+            <guid>https://m.vlive.tv/video/273069</guid>
+            <pubDate>Fri, 31 Dec 2021 11:40:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">UP10TION</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211228_189/16406528293266JmuV_JPEG/upload_847325506996903907cbb0319-2988-4f91-ad2f-7e3362963ffb.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
