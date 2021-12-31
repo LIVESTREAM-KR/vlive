@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 11:41:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 13:05:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,16 @@
 										오전 11:00</span>
 										<span class="txt">UP10TION</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211228_189/16406528293266JmuV_JPEG/upload_847325506996903907cbb0319-2988-4f91-ad2f-7e3362963ffb.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / HA HYUN SANG 하현상)]]></title>
+            <link>https://m.vlive.tv/video/273368</link>
+            <guid>https://m.vlive.tv/video/273368</guid>
+            <pubDate>Fri, 31 Dec 2021 13:03:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211230_227/16408637657014qgO1_JPEG/upload_571333219750106799091fdbf-454a-4308-a2b0-7e876196304b.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
