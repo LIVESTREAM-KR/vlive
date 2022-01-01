@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 07:41:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 08:50:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[햅삐한 해리벌쓰데이🎂]]></title>
-            <link>https://m.vlive.tv/video/273449</link>
-            <guid>https://m.vlive.tv/video/273449</guid>
-            <pubDate>Fri, 31 Dec 2021 15:48:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 8:00</span>
-										<span class="txt">다크비(DKB)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211231_274/1640928597289oThGo_JPEG/upload_57197380555263135cdbc272f-7054-41a3-bc12-6bca5f2b0bfd.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
             <link>https://m.vlive.tv/video/273284</link>
@@ -96,6 +86,16 @@
 										오전 2:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211230_128/1640840066523Tyyhq_JPEG/upload_84919732469906828f5dd09dc-7b86-4a77-9d13-30cc71148e9a.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ASC Live Ep.504 (UP10TION / 업텐션)]]></title>
+            <link>https://m.vlive.tv/video/273472</link>
+            <guid>https://m.vlive.tv/video/273472</guid>
+            <pubDate>Sat, 01 Jan 2022 08:49:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211231_143/1640933464516Dxzyy_PNG/upload_85013167136967509ee345daf-fe67-4ecd-b721-f2c5763e515f.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
