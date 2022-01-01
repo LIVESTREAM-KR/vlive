@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 13:44:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 14:42:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -632,14 +632,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220101_19/1641038684132jrCnY_PNG/upload_85118363849760800057871f5-2eee-4863-83fb-74da085eff54.png?type=f228_128" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[Radio Hama] 2022년 첫 심야 라디오]]></title>
-            <link>https://www.vlive.tv/video/273608</link>
-            <guid>https://www.vlive.tv/video/273608</guid>
-            <pubDate>Sat, 01 Jan 2022 13:03:19 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:30]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220101_247/1641040254944QggR6_JPEG/153915771849222763349428ff-51f1-4be1-b1e1-bf727c60a135.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[예찬 | 린(LYn) - '시간을 거슬러(해를 품은 달 OST)' Vocal Cover]]></title>
             <link>https://www.vlive.tv/video/273498</link>
             <guid>https://www.vlive.tv/video/273498</guid>
@@ -688,12 +680,44 @@
             <enclosure url="https://vlive-thumb.pstatic.net/live/273610/thumb?type=f228_128" length="0" type="image//live/273610/thumb"/>
         </item>
         <item>
+            <title><![CDATA[새해 첫]]></title>
+            <link>https://www.vlive.tv/video/273609</link>
+            <guid>https://www.vlive.tv/video/273609</guid>
+            <pubDate>Sat, 01 Jan 2022 14:41:35 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:44]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220101_279/164104298939056xCI_JPEG/15391859237286676304590fbf-fbbe-4cce-9f23-2af7c34389d3.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WOOTERVIEW : 26살 우진이도 기대해 주실 거죠? ❤️Happy New Year❤️]]></title>
+            <link>https://www.vlive.tv/video/273582</link>
+            <guid>https://www.vlive.tv/video/273582</guid>
+            <pubDate>Sat, 01 Jan 2022 14:41:35 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:05]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220101_39/1641013520687M9jGE_PNG/upload_85093167293840174c8cb8e7f-1a16-4af6-b399-855836a799bb.png?type=f228_128" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[22]]></title>
             <link>https://www.vlive.tv/video/273611</link>
             <guid>https://www.vlive.tv/video/273611</guid>
             <pubDate>Sat, 01 Jan 2022 13:43:25 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:42]]></content:encoded>
+            <content:encoded><![CDATA[오후 2:11]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220101_273/1641044521187a5enO_JPEG/153920103085786607d736e8f8-1b62-4e73-a76f-6d54039d9bb7.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Radio Hama] 2022년 첫 심야 라디오]]></title>
+            <link>https://www.vlive.tv/video/273608</link>
+            <guid>https://www.vlive.tv/video/273608</guid>
+            <pubDate>Sat, 01 Jan 2022 13:03:19 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:39]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220101_247/1641040254944QggR6_JPEG/153915771849222763349428ff-51f1-4be1-b1e1-bf727c60a135.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시크한 블랙 감성 가득!😎 한해&넉살이 반한 블랙 본부 <문 인 블랙 하우스>, MBC 220102 방송]]></title>
+            <link>https://www.vlive.tv/video/273612</link>
+            <guid>https://www.vlive.tv/video/273612</guid>
+            <pubDate>Sat, 01 Jan 2022 14:41:35 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:40]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220101_55/1641048044738evQCs_JPEG/upload_85127760549652059cd0ac896-2334-4d9c-85d1-a0fc9c5f14b7.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
