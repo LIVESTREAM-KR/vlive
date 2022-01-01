@@ -4,17 +4,9 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 14:42:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 15:48:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[HEE-PLY]]></title>
-            <link>https://www.vlive.tv/video/273556</link>
-            <guid>https://www.vlive.tv/video/273556</guid>
-            <pubDate>Fri, 31 Dec 2021 15:47:37 GMT</pubDate>
-            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220101_85/1640967186650U93sT_JPEG/upload_572367886238355337f762885-5f0b-4c39-a302-f81bfc18c4c7.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Stray Kids(스트레이 키즈) "STEP OUT 2022"]]></title>
             <link>https://www.vlive.tv/video/273541</link>
@@ -37,7 +29,15 @@
             <guid>https://www.vlive.tv/video/273575</guid>
             <pubDate>Sat, 01 Jan 2022 04:54:48 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220101_266/1640978803921i5yVg_JPEG/upload_572479533862818967b08d9f3-89be-42b9-815d-e75705343abd.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220101_266/1640978803921i5yVg_JPEG/upload_572479533862818967b08d9f3-89be-42b9-815d-e75705343abd.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HEE-PLY]]></title>
+            <link>https://www.vlive.tv/video/273556</link>
+            <guid>https://www.vlive.tv/video/273556</guid>
+            <pubDate>Fri, 31 Dec 2021 15:47:37 GMT</pubDate>
+            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220101_85/1640967186650U93sT_JPEG/upload_572367886238355337f762885-5f0b-4c39-a302-f81bfc18c4c7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[석진 생일!🎂& 슈퍼참치🐟쇼케이스]]></title>
@@ -48,20 +48,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20211204_233/16386184306010X0xi_JPEG/upload_8269812055083229294231289-1df9-400e-93a5-fa9d30a136be.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[지민씨 등장]]></title>
+            <link>https://www.vlive.tv/video/265730</link>
+            <guid>https://www.vlive.tv/video/265730</guid>
+            <pubDate>Sat, 01 Jan 2022 15:46:35 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211013_144/1634122553955eHKox_JPEG/upload_78202275760730696931ec09d-bfa2-4361-8b27-5b66010714b3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2022년 호랑이해도 잘부탁해]]></title>
             <link>https://www.vlive.tv/video/273539</link>
             <guid>https://www.vlive.tv/video/273539</guid>
             <pubDate>Fri, 31 Dec 2021 13:43:25 GMT</pubDate>
             <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211231_201/1640955659583RawPK_JPEG/upload_85035390832839548d07bfa71-5010-454f-945d-cb596cb0ccd4.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LIVE] HELLO 2022]]></title>
-            <link>https://www.vlive.tv/video/273559</link>
-            <guid>https://www.vlive.tv/video/273559</guid>
-            <pubDate>Sat, 01 Jan 2022 14:41:13 GMT</pubDate>
-            <content:encoded><![CDATA[원호 (WONHO)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220101_69/1640963308545QTdb1_JPEG/42f31174-6a4b-11ec-9576-48df379ccacc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
