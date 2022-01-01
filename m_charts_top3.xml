@@ -4,17 +4,9 @@
         <title>V LIVE 모바일 ─ CHARTS </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 17:05:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 17:49:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS - Teaser SPOT]]></title>
-            <link>https://m.vlive.tv/video/273184</link>
-            <guid>https://m.vlive.tv/video/273184</guid>
-            <pubDate>Sat, 01 Jan 2022 13:43:07 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211229_263/1640759058626hegW5_JPEG/upload_57027749478374359aa7e773e-4348-44e4-9cd4-4b443ea7d44d.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2022 HAPPY NEW YEAR MESSAGE💓 FROM. Stray Kids(스트레이 키즈)]]></title>
             <link>https://m.vlive.tv/video/273575</link>
@@ -24,12 +16,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220101_266/1640978803921i5yVg_JPEG/upload_572479533862818967b08d9f3-89be-42b9-815d-e75705343abd.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Stray Kids(스트레이 키즈) "STEP OUT 2022"]]></title>
-            <link>https://m.vlive.tv/video/273541</link>
-            <guid>https://m.vlive.tv/video/273541</guid>
-            <pubDate>Sat, 01 Jan 2022 11:39:23 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211231_146/16409542769359KL0u_PNG/upload_850331070062308404d2d9b04-4671-426a-9316-a65bbbdd1afd.png?type=f640_360_wp" length="0" type="image/png"/>
+            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS - Teaser SPOT]]></title>
+            <link>https://m.vlive.tv/video/273184</link>
+            <guid>https://m.vlive.tv/video/273184</guid>
+            <pubDate>Sat, 01 Jan 2022 13:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211229_263/1640759058626hegW5_JPEG/upload_57027749478374359aa7e773e-4348-44e4-9cd4-4b443ea7d44d.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HEE-PLY]]></title>
+            <link>https://m.vlive.tv/video/273556</link>
+            <guid>https://m.vlive.tv/video/273556</guid>
+            <pubDate>Sat, 01 Jan 2022 17:47:46 GMT</pubDate>
+            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220101_85/1640967186650U93sT_JPEG/upload_572367886238355337f762885-5f0b-4c39-a302-f81bfc18c4c7.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
