@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 15:48:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 17:05:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1월 1일 새해 첫 파티! HELLO 2022 🙌🏻🐝💛]]></title>
+            <link>https://www.vlive.tv/video/273616</link>
+            <guid>https://www.vlive.tv/video/273616</guid>
+            <pubDate>Sat, 01 Jan 2022 17:03:48 GMT</pubDate>
+            <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/273616/thumb?type=f228_128" length="0" type="image//live/273616/thumb"/>
+        </item>
         <item>
             <title><![CDATA[1월 1일은 기욱이와 함께💙🛌💭]]></title>
             <link>https://www.vlive.tv/video/273610</link>
@@ -40,12 +48,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20211231_169/1640938009693nYgGR_JPEG/upload_850177258909642435dc271eb-c188-4207-aa75-6d10a0e84338.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[시크한 블랙 감성 가득!😎 한해&넉살이 반한 블랙 본부 <문 인 블랙 하우스>, MBC 220102 방송]]></title>
+            <title><![CDATA[[선공개] 시크한 블랙 감성 가득!😎 한해&넉살이 반한 블랙 본부 <문 인 블랙 하우스>, MBC 220102 방송]]></title>
             <link>https://www.vlive.tv/video/273612</link>
             <guid>https://www.vlive.tv/video/273612</guid>
             <pubDate>Sat, 01 Jan 2022 15:46:09 GMT</pubDate>
             <content:encoded><![CDATA[MBC 예능]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220101_55/1641048044738evQCs_JPEG/upload_85127760549652059cd0ac896-2334-4d9c-85d1-a0fc9c5f14b7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220102_43/1641054885001foyqw_JPEG/upload_85127760549652059cd0ac896-2334-4d9c-85d1-a0fc9c5f14b7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Radio Hama] 2022년 첫 심야 라디오]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 01 Jan 2022 13:02:15 GMT</pubDate>
             <content:encoded><![CDATA[핑크판타지 / PINKFANTASY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211231_106/1640939455929BXMJv_JPEG/upload_8501910067785914218a766c0-0fc3-47df-b51d-ae4dc85487d8.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[S&A ENT.]Happy New Year 2022!!!]]></title>
-            <link>https://www.vlive.tv/video/273604</link>
-            <guid>https://www.vlive.tv/video/273604</guid>
-            <pubDate>Sat, 01 Jan 2022 13:02:15 GMT</pubDate>
-            <content:encoded><![CDATA[S&amp;A엔터테인먼트]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220101_19/1641038684132jrCnY_PNG/upload_85118363849760800057871f5-2eee-4863-83fb-74da085eff54.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

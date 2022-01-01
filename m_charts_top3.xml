@@ -4,17 +4,9 @@
         <title>V LIVE 모바일 ─ CHARTS </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 15:48:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 17:05:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Stray Kids(스트레이 키즈) "STEP OUT 2022"]]></title>
-            <link>https://m.vlive.tv/video/273541</link>
-            <guid>https://m.vlive.tv/video/273541</guid>
-            <pubDate>Sat, 01 Jan 2022 11:39:23 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211231_146/16409542769359KL0u_PNG/upload_850331070062308404d2d9b04-4671-426a-9316-a65bbbdd1afd.png?type=f640_360_wp" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[ARTIST-MADE COLLECTION BY BTS - Teaser SPOT]]></title>
             <link>https://m.vlive.tv/video/273184</link>
@@ -30,6 +22,14 @@
             <pubDate>Sat, 01 Jan 2022 15:46:43 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220101_266/1640978803921i5yVg_JPEG/upload_572479533862818967b08d9f3-89be-42b9-815d-e75705343abd.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stray Kids(스트레이 키즈) "STEP OUT 2022"]]></title>
+            <link>https://m.vlive.tv/video/273541</link>
+            <guid>https://m.vlive.tv/video/273541</guid>
+            <pubDate>Sat, 01 Jan 2022 11:39:23 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211231_146/16409542769359KL0u_PNG/upload_850331070062308404d2d9b04-4671-426a-9316-a65bbbdd1afd.png?type=f640_360_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
