@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jan 2022 17:49:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jan 2022 18:50:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -748,8 +748,16 @@
             <link>https://www.vlive.tv/video/273616</link>
             <guid>https://www.vlive.tv/video/273616</guid>
             <pubDate>Sat, 01 Jan 2022 17:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[오후 4:58]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/273616/thumb?type=f228_128" length="0" type="image//live/273616/thumb"/>
+            <content:encoded><![CDATA[오후 6:12]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220102_69/1641060742706wF52E_JPEG/d410bd99-6b2d-11ec-84bc-505dacfbaa5c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Happy Coco’s early B-day🎂💖🥥🍓]]></title>
+            <link>https://www.vlive.tv/video/273617</link>
+            <guid>https://www.vlive.tv/video/273617</guid>
+            <pubDate>Sat, 01 Jan 2022 18:49:19 GMT</pubDate>
+            <content:encoded><![CDATA[오후 6:15]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220102_292/1641060921130tm7I2_JPEG/153849312569008392510cc57d-81b0-4d55-8610-8c317d93e5d9.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
