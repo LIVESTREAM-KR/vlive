@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 05:42:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 06:52:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안녕하세요 박콘서트입니다]]></title>
+            <link>https://www.vlive.tv/video/273624</link>
+            <guid>https://www.vlive.tv/video/273624</guid>
+            <pubDate>Sun, 02 Jan 2022 06:50:01 GMT</pubDate>
+            <content:encoded><![CDATA[Park Si Hwan]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220102_93/1641105954615OASAi_JPEG/7004cfd8-6b97-11ec-ad60-505dacfba98a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새해 복 많이 받으세요😊]]></title>
+            <link>https://www.vlive.tv/video/273625</link>
+            <guid>https://www.vlive.tv/video/273625</guid>
+            <pubDate>Sun, 02 Jan 2022 06:50:01 GMT</pubDate>
+            <content:encoded><![CDATA[멋진녀석들 (GreatGuys)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220102_142/16411053908562CBbi_JPEG/15389376184061675873ae1e34-3527-47c4-beba-97a936f0ebbf.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새해 복 많이 많이 받아요 글에이스 ;)]]></title>
             <link>https://www.vlive.tv/video/273620</link>
@@ -110,22 +126,6 @@
             <pubDate>Sat, 01 Jan 2022 15:46:09 GMT</pubDate>
             <content:encoded><![CDATA[MBC 예능]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220102_43/1641054885001foyqw_JPEG/upload_85127760549652059cd0ac896-2334-4d9c-85d1-a0fc9c5f14b7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Radio Hama] 2022년 첫 심야 라디오]]></title>
-            <link>https://www.vlive.tv/video/273608</link>
-            <guid>https://www.vlive.tv/video/273608</guid>
-            <pubDate>Sat, 01 Jan 2022 13:02:15 GMT</pubDate>
-            <content:encoded><![CDATA[청공소년 (Bz_Boys)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220101_247/1641040254944QggR6_JPEG/153915771849222763349428ff-51f1-4be1-b1e1-bf727c60a135.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[22]]></title>
-            <link>https://www.vlive.tv/video/273611</link>
-            <guid>https://www.vlive.tv/video/273611</guid>
-            <pubDate>Sat, 01 Jan 2022 13:42:33 GMT</pubDate>
-            <content:encoded><![CDATA[멋진녀석들 (GreatGuys)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220101_273/1641044521187a5enO_JPEG/153920103085786607d736e8f8-1b62-4e73-a76f-6d54039d9bb7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
