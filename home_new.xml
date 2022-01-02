@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 19:41:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 20:45:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[JUEON] 붐.]]></title>
+            <link>https://www.vlive.tv/video/273652</link>
+            <guid>https://www.vlive.tv/video/273652</guid>
+            <pubDate>Sun, 02 Jan 2022 20:43:09 GMT</pubDate>
+            <content:encoded><![CDATA[CLIMIX BOYGROUP]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/273652/thumb?type=f228_128" length="0" type="image//live/273652/thumb"/>
+        </item>
         <item>
             <title><![CDATA[잠 못드는 밤에 (드릴말씀이 있어요.)]]></title>
             <link>https://www.vlive.tv/video/273650</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 02 Jan 2022 13:01:44 GMT</pubDate>
             <content:encoded><![CDATA[Weki Meki]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220102_64/1641129993967LvJ6W_JPEG/e8de23b5-6bce-11ec-b8bc-246e963a4708_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기타칠깡현?🎸]]></title>
-            <link>https://www.vlive.tv/video/273638</link>
-            <guid>https://www.vlive.tv/video/273638</guid>
-            <pubDate>Sun, 02 Jan 2022 13:01:44 GMT</pubDate>
-            <content:encoded><![CDATA[ONEWE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220102_8/1641129558097YUfdv_JPEG/edc3e9ee-6bcd-11ec-810a-505dac8c3607_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

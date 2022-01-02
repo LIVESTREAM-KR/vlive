@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 19:41:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 20:45:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -310,6 +310,14 @@
             <pubDate>Sun, 02 Jan 2022 18:49:10 GMT</pubDate>
             <content:encoded><![CDATA[오후 6:56]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220103_222/1641145821931MQzyg_JPEG/15402142490120028412745992-5fc9-401f-9a86-1a9da9ad434f.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[JUEON] 붐.]]></title>
+            <link>https://www.vlive.tv/video/273652</link>
+            <guid>https://www.vlive.tv/video/273652</guid>
+            <pubDate>Sun, 02 Jan 2022 20:44:04 GMT</pubDate>
+            <content:encoded><![CDATA[오후 8:12]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/273652/thumb?type=f228_128" length="0" type="image//live/273652/thumb"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,16 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 19:41:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 20:45:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[JUEON] 붐.]]></title>
+            <link>https://www.vlive.tv/video/273652</link>
+            <guid>https://www.vlive.tv/video/273652</guid>
+            <pubDate>Sun, 02 Jan 2022 20:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[CLIMIX BOYGROUP]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[잠 못드는 밤에 (드릴말씀이 있어요.)]]></title>
             <link>https://www.vlive.tv/video/273650</link>
@@ -398,14 +405,6 @@
             <pubDate>Sat, 01 Jan 2022 14:40:40 GMT</pubDate>
             <content:encoded><![CDATA[멋진녀석들 (GreatGuys)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220101_279/164104298939056xCI_JPEG/15391859237286676304590fbf-fbbe-4cce-9f23-2af7c34389d3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 RoaD-B 새해 인사 드립니다🐯]]></title>
-            <link>https://www.vlive.tv/video/273603</link>
-            <guid>https://www.vlive.tv/video/273603</guid>
-            <pubDate>Sat, 01 Jan 2022 13:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[RoaD-B]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220101_231/1641042965543NmM5p_JPEG/3417f861-6b04-11ec-b776-246e963a49a8_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
