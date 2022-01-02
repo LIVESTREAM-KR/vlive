@@ -4,15 +4,24 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 20:45:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 21:43:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[#너의밤] 너의 밤에 몰래온 손님?! #강지영 #키동캠 | 강지영]]></title>
+            <link>https://www.vlive.tv/video/273627</link>
+            <guid>https://www.vlive.tv/video/273627</guid>
+            <pubDate>Sun, 02 Jan 2022 21:40:46 GMT</pubDate>
+            <content:encoded><![CDATA[KEYEAST]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220102_145/1641108751972sFFxY_JPEG/upload_851882461862595358930a17f-9975-4b93-af51-f6acb8c2726f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[JUEON] 붐.]]></title>
             <link>https://www.vlive.tv/video/273652</link>
             <guid>https://www.vlive.tv/video/273652</guid>
             <pubDate>Sun, 02 Jan 2022 20:43:00 GMT</pubDate>
             <content:encoded><![CDATA[CLIMIX BOYGROUP]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220103_272/1641158203985aFM0z_JPEG/917f2c79-6c10-11ec-8a02-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[잠 못드는 밤에 (드릴말씀이 있어요.)]]></title>
@@ -397,14 +406,6 @@
             <pubDate>Sat, 01 Jan 2022 14:40:40 GMT</pubDate>
             <content:encoded><![CDATA[KIM WOOJIN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220101_39/1641013520687M9jGE_PNG/upload_85093167293840174c8cb8e7f-1a16-4af6-b399-855836a799bb.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[새해 첫]]></title>
-            <link>https://www.vlive.tv/video/273609</link>
-            <guid>https://www.vlive.tv/video/273609</guid>
-            <pubDate>Sat, 01 Jan 2022 14:40:40 GMT</pubDate>
-            <content:encoded><![CDATA[멋진녀석들 (GreatGuys)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220101_279/164104298939056xCI_JPEG/15391859237286676304590fbf-fbbe-4cce-9f23-2af7c34389d3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

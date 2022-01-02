@@ -4,16 +4,24 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 20:45:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 21:43:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[#너의밤] 너의 밤에 몰래온 손님?! #강지영 #키동캠 | 강지영]]></title>
+            <link>https://www.vlive.tv/video/273627</link>
+            <guid>https://www.vlive.tv/video/273627</guid>
+            <pubDate>Sun, 02 Jan 2022 21:40:55 GMT</pubDate>
+            <content:encoded><![CDATA[KEYEAST]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220102_145/1641108751972sFFxY_JPEG/upload_851882461862595358930a17f-9975-4b93-af51-f6acb8c2726f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[JUEON] 붐.]]></title>
             <link>https://www.vlive.tv/video/273652</link>
             <guid>https://www.vlive.tv/video/273652</guid>
             <pubDate>Sun, 02 Jan 2022 20:43:09 GMT</pubDate>
             <content:encoded><![CDATA[CLIMIX BOYGROUP]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/273652/thumb?type=f228_128" length="0" type="image//live/273652/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220103_272/1641158203985aFM0z_JPEG/917f2c79-6c10-11ec-8a02-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[잠 못드는 밤에 (드릴말씀이 있어요.)]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 02 Jan 2022 13:01:44 GMT</pubDate>
             <content:encoded><![CDATA[24K]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220102_154/1641130534419byLIc_JPEG/92d16a93-6bd0-11ec-a831-48df379cca40_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안뇽해요]]></title>
-            <link>https://www.vlive.tv/video/273639</link>
-            <guid>https://www.vlive.tv/video/273639</guid>
-            <pubDate>Sun, 02 Jan 2022 13:01:44 GMT</pubDate>
-            <content:encoded><![CDATA[Weki Meki]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220102_64/1641129993967LvJ6W_JPEG/e8de23b5-6bce-11ec-b8bc-246e963a4708_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

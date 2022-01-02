@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 20:45:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 21:43:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -316,8 +316,16 @@
             <link>https://www.vlive.tv/video/273652</link>
             <guid>https://www.vlive.tv/video/273652</guid>
             <pubDate>Sun, 02 Jan 2022 20:44:04 GMT</pubDate>
-            <content:encoded><![CDATA[오후 8:12]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/273652/thumb?type=f228_128" length="0" type="image//live/273652/thumb"/>
+            <content:encoded><![CDATA[오후 9:16]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220103_272/1641158203985aFM0z_JPEG/917f2c79-6c10-11ec-8a02-505dac8c35ff_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#너의밤] 너의 밤에 몰래온 손님?! #강지영 #키동캠 | 강지영]]></title>
+            <link>https://www.vlive.tv/video/273627</link>
+            <guid>https://www.vlive.tv/video/273627</guid>
+            <pubDate>Sun, 02 Jan 2022 21:41:47 GMT</pubDate>
+            <content:encoded><![CDATA[오후 9:30]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220102_145/1641108751972sFFxY_JPEG/upload_851882461862595358930a17f-9975-4b93-af51-f6acb8c2726f.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
