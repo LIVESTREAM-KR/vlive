@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 08:49:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 09:45:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,6 +36,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211229_187/1640769729500llEeR_JPEG/upload_848493907238220427789e3bb-9dcc-4945-a222-ab9c23541a39.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🎂 HAPPY JAEHYUN DAY 전야제🎂]]></title>
+            <link>https://m.vlive.tv/video/273631</link>
+            <guid>https://m.vlive.tv/video/273631</guid>
+            <pubDate>Sun, 02 Jan 2022 09:44:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 9:00</span>
+										<span class="txt">Golden Child</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220102_97/1641114012374QVKAl_JPEG/upload_57382060854807602d3ed6314-9cd0-4471-87d4-e0638ee1bc7f.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[P1Harmony 3RD MINI ALBUM 'DISHARMONY : FIND OUT' SHOWCASE]]></title>
@@ -76,16 +86,6 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211230_218/1640840373066k3mnJ_JPEG/upload_849200776723750050c942c8d-9ec4-4a72-84cf-0f64176dae03.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
-            <link>https://m.vlive.tv/video/273266</link>
-            <guid>https://m.vlive.tv/video/273266</guid>
-            <pubDate>Sat, 01 Jan 2022 03:00:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 2:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211230_128/1640840066523Tyyhq_JPEG/upload_84919732469906828f5dd09dc-7b86-4a77-9d13-30cc71148e9a.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
