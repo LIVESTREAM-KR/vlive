@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 18:50:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 19:41:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,14 +288,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220102_24/1641134100259bg8DE_JPEG/15392247124414820589c4f384-582b-4599-a42f-1291b5cd0857.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[잠 못드는 밤에 (드릴말씀이 있어요.)]]></title>
-            <link>https://www.vlive.tv/video/273650</link>
-            <guid>https://www.vlive.tv/video/273650</guid>
-            <pubDate>Sun, 02 Jan 2022 18:49:10 GMT</pubDate>
-            <content:encoded><![CDATA[오후 5:50]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220103_222/1641145821931MQzyg_JPEG/15402142490120028412745992-5fc9-401f-9a86-1a9da9ad434f.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[옷소매붉은끝동] OST, 이선희 "그대 손 놓아요"(Full ver.), MBC 220101 방송]]></title>
             <link>https://www.vlive.tv/video/273651</link>
             <guid>https://www.vlive.tv/video/273651</guid>
@@ -310,6 +302,14 @@
             <pubDate>Sun, 02 Jan 2022 17:04:33 GMT</pubDate>
             <content:encoded><![CDATA[오후 6:45]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220103_30/1641149141206698AV_JPEG/30ec2b4a-6bfb-11ec-be2f-505dac8c38f5_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠 못드는 밤에 (드릴말씀이 있어요.)]]></title>
+            <link>https://www.vlive.tv/video/273650</link>
+            <guid>https://www.vlive.tv/video/273650</guid>
+            <pubDate>Sun, 02 Jan 2022 18:49:10 GMT</pubDate>
+            <content:encoded><![CDATA[오후 6:56]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220103_222/1641145821931MQzyg_JPEG/15402142490120028412745992-5fc9-401f-9a86-1a9da9ad434f.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
