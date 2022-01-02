@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 17:49:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 18:50:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,23 @@
             <guid>https://www.vlive.tv/video/273649</guid>
             <pubDate>Sun, 02 Jan 2022 17:03:39 GMT</pubDate>
             <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/273649/thumb?type=f228_128" length="0" type="image//live/273649/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220103_30/1641149141206698AV_JPEG/30ec2b4a-6bfb-11ec-be2f-505dac8c38f5_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[옷소매붉은끝동] OST, 이선희 "그대 손 놓아요"(Full ver.), MBC 220101 방송]]></title>
+            <link>https://www.vlive.tv/video/273651</link>
+            <guid>https://www.vlive.tv/video/273651</guid>
+            <pubDate>Sun, 02 Jan 2022 18:48:13 GMT</pubDate>
+            <content:encoded><![CDATA[MBC드라마]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220103_76/1641146162375jvwwk_JPEG/upload_852258907286611161c71bf01-8596-45b5-9d80-d9b45a1676e6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠 못드는 밤에 (드릴말씀이 있어요.)]]></title>
+            <link>https://www.vlive.tv/video/273650</link>
+            <guid>https://www.vlive.tv/video/273650</guid>
+            <pubDate>Sun, 02 Jan 2022 18:48:13 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220103_222/1641145821931MQzyg_JPEG/15402142490120028412745992-5fc9-401f-9a86-1a9da9ad434f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새 해 주말을 마무리하며😴]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Sun, 02 Jan 2022 13:01:44 GMT</pubDate>
             <content:encoded><![CDATA[ONEWE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220102_8/1641129558097YUfdv_JPEG/edc3e9ee-6bcd-11ec-810a-505dac8c3607_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[💗🐷]]></title>
-            <link>https://www.vlive.tv/video/273641</link>
-            <guid>https://www.vlive.tv/video/273641</guid>
-            <pubDate>Sun, 02 Jan 2022 13:01:44 GMT</pubDate>
-            <content:encoded><![CDATA[TWICE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220102_271/1641129134585Vd8e1_JPEG/5eef2077-6bcd-11ec-a42f-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Behind] LUCY - All kind of 콘서트 비하인드]]></title>
-            <link>https://www.vlive.tv/video/273632</link>
-            <guid>https://www.vlive.tv/video/273632</guid>
-            <pubDate>Sun, 02 Jan 2022 13:01:44 GMT</pubDate>
-            <content:encoded><![CDATA[LUCY 루시]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220102_197/1641114122754HYttt_JPEG/upload_85193829068977148b784693e-dee4-4931-841b-087dc5e44b84.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

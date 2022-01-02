@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 17:49:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 18:50:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Sun, 02 Jan 2022 01:50:49 GMT</pubDate>
             <content:encoded><![CDATA[오전 12:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220101_254/16410268656040s1p3_JPEG/upload_8510659281867156808a289ed-2d2f-4590-9082-a444dece067d.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[옷소매붉은끝동] OST, 이선희 "그대 손 놓아요"(Full ver.), MBC 220101 방송]]></title>
-            <link>https://www.vlive.tv/video/273615</link>
-            <guid>https://www.vlive.tv/video/273615</guid>
-            <pubDate>Sun, 02 Jan 2022 01:50:49 GMT</pubDate>
-            <content:encoded><![CDATA[오전 12:00]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220102_141/1641054841160tw04X_JPEG/upload_85134563547243568b7c71632-7826-447e-97b2-67f006c1776d.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김요한(KIM YO HAN) 'Illusion' VISUAL SHORT A]]></title>
@@ -296,12 +288,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20220102_24/1641134100259bg8DE_JPEG/15392247124414820589c4f384-582b-4599-a42f-1291b5cd0857.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[잠 못드는 밤에 (드릴말씀이 있어요.)]]></title>
+            <link>https://www.vlive.tv/video/273650</link>
+            <guid>https://www.vlive.tv/video/273650</guid>
+            <pubDate>Sun, 02 Jan 2022 18:49:10 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:50]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220103_222/1641145821931MQzyg_JPEG/15402142490120028412745992-5fc9-401f-9a86-1a9da9ad434f.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[옷소매붉은끝동] OST, 이선희 "그대 손 놓아요"(Full ver.), MBC 220101 방송]]></title>
+            <link>https://www.vlive.tv/video/273651</link>
+            <guid>https://www.vlive.tv/video/273651</guid>
+            <pubDate>Sun, 02 Jan 2022 18:49:10 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:57]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220103_76/1641146162375jvwwk_JPEG/upload_852258907286611161c71bf01-8596-45b5-9d80-d9b45a1676e6.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2022 SUNDAY LIVE 💛🐝🙌🏻 썬데잉]]></title>
             <link>https://www.vlive.tv/video/273649</link>
             <guid>https://www.vlive.tv/video/273649</guid>
             <pubDate>Sun, 02 Jan 2022 17:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[오후 4:55]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/273649/thumb?type=f228_128" length="0" type="image//live/273649/thumb"/>
+            <content:encoded><![CDATA[오후 6:45]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220103_30/1641149141206698AV_JPEG/30ec2b4a-6bfb-11ec-be2f-505dac8c38f5_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
