@@ -4,9 +4,17 @@
         <title>V LIVE 모바일 ─ CHARTS </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 07:42:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 08:49:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🐯]]></title>
+            <link>https://m.vlive.tv/video/273628</link>
+            <guid>https://m.vlive.tv/video/273628</guid>
+            <pubDate>Sun, 02 Jan 2022 08:47:32 GMT</pubDate>
+            <content:encoded><![CDATA[TWICE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220102_187/1641109688145v7f6W_JPEG/153985270086454109f6dbf8fc-f4fc-406c-ae2b-d97121c76d95.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ARTIST-MADE COLLECTION BY BTS - Teaser SPOT]]></title>
             <link>https://m.vlive.tv/video/273184</link>
@@ -22,14 +30,6 @@
             <pubDate>Sat, 01 Jan 2022 15:46:43 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220101_266/1640978803921i5yVg_JPEG/upload_572479533862818967b08d9f3-89be-42b9-815d-e75705343abd.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[석진 생일!🎂& 슈퍼참치🐟쇼케이스]]></title>
-            <link>https://m.vlive.tv/video/270943</link>
-            <guid>https://m.vlive.tv/video/270943</guid>
-            <pubDate>Sat, 01 Jan 2022 21:41:56 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211204_233/16386184306010X0xi_JPEG/upload_8269812055083229294231289-1df9-400e-93a5-fa9d30a136be.jpeg?type=f640_360_wp" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

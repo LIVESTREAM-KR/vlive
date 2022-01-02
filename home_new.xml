@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 07:42:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 08:49:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[찬희]]></title>
+            <link>https://www.vlive.tv/video/273629</link>
+            <guid>https://www.vlive.tv/video/273629</guid>
+            <pubDate>Sun, 02 Jan 2022 08:46:55 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220102_11/16411112899627imBp_JPEG/df6b8710-6ba3-11ec-8a02-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🐯]]></title>
+            <link>https://www.vlive.tv/video/273628</link>
+            <guid>https://www.vlive.tv/video/273628</guid>
+            <pubDate>Sun, 02 Jan 2022 08:46:55 GMT</pubDate>
+            <content:encoded><![CDATA[TWICE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220102_187/1641109688145v7f6W_JPEG/153985270086454109f6dbf8fc-f4fc-406c-ae2b-d97121c76d95.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새해 복 많이 받으세요😊]]></title>
             <link>https://www.vlive.tv/video/273625</link>
@@ -110,22 +126,6 @@
             <pubDate>Sat, 01 Jan 2022 15:46:09 GMT</pubDate>
             <content:encoded><![CDATA[UP10TION]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220101_72/1641023453946Nk666_JPEG/upload_5729305048974656547810ee8-8623-48e5-8504-6e76f139b660.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DRIPPIN(드리핀) 'Villain'｜Prologue #이협 #LEEHYEOP]]></title>
-            <link>https://www.vlive.tv/video/273488</link>
-            <guid>https://www.vlive.tv/video/273488</guid>
-            <pubDate>Sat, 01 Jan 2022 15:46:09 GMT</pubDate>
-            <content:encoded><![CDATA[Woollim Ent]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211231_169/1640938009693nYgGR_JPEG/upload_850177258909642435dc271eb-c188-4207-aa75-6d10a0e84338.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[선공개] 시크한 블랙 감성 가득!😎 한해&넉살이 반한 블랙 본부 <문 인 블랙 하우스>, MBC 220102 방송]]></title>
-            <link>https://www.vlive.tv/video/273612</link>
-            <guid>https://www.vlive.tv/video/273612</guid>
-            <pubDate>Sat, 01 Jan 2022 15:46:09 GMT</pubDate>
-            <content:encoded><![CDATA[MBC 예능]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220102_43/1641054885001foyqw_JPEG/upload_85127760549652059cd0ac896-2334-4d9c-85d1-a0fc9c5f14b7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

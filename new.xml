@@ -4,9 +4,25 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 07:42:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 08:49:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[찬희]]></title>
+            <link>https://www.vlive.tv/video/273629</link>
+            <guid>https://www.vlive.tv/video/273629</guid>
+            <pubDate>Sun, 02 Jan 2022 08:46:46 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220102_11/16411112899627imBp_JPEG/df6b8710-6ba3-11ec-8a02-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🐯]]></title>
+            <link>https://www.vlive.tv/video/273628</link>
+            <guid>https://www.vlive.tv/video/273628</guid>
+            <pubDate>Sun, 02 Jan 2022 08:46:46 GMT</pubDate>
+            <content:encoded><![CDATA[TWICE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220102_187/1641109688145v7f6W_JPEG/153985270086454109f6dbf8fc-f4fc-406c-ae2b-d97121c76d95.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새해 복 많이 받으세요😊]]></title>
             <link>https://www.vlive.tv/video/273625</link>
@@ -390,22 +406,6 @@
             <pubDate>Sat, 01 Jan 2022 09:43:24 GMT</pubDate>
             <content:encoded><![CDATA[SECRET NUMBER]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211231_61/1640930802725xtAFX_JPEG/upload_85010526152278103aab6caf2-eef2-4122-88e8-5034e02c4dab.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[THE BOYZ ‘Kill This Love’ DANCE PRACTICE VIDEO (MBC 가요대제전 ver.)]]></title>
-            <link>https://www.vlive.tv/video/273440</link>
-            <guid>https://www.vlive.tv/video/273440</guid>
-            <pubDate>Sat, 01 Jan 2022 09:43:24 GMT</pubDate>
-            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211231_169/1640923799283P0l42_JPEG/upload_85003295487723658cfc6d669-897e-4b5e-97bf-edfcc0f48995.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[NSC] 노슬립클럽 (No Sleep Club) 'SAMMY' Official Teaser]]></title>
-            <link>https://www.vlive.tv/video/273288</link>
-            <guid>https://www.vlive.tv/video/273288</guid>
-            <pubDate>Sat, 01 Jan 2022 09:43:24 GMT</pubDate>
-            <content:encoded><![CDATA[MAJOR9 (메이저나인)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211230_81/1640842758013PzhY6_JPEG/upload_84922371630397211b49a2154-ca77-436d-8a18-6eccf7ef118b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
