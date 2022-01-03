@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 13:05:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 13:46:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,16 @@
 										오전 2:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211230_51/1640840094749NDn64_JPEG/upload_57109682781960125ce5c12ae-48ee-48fa-9805-5029e732a773.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Music Access] MA MVP with DANN of KINGDOM 킹덤 단]]></title>
+            <link>https://m.vlive.tv/video/273276</link>
+            <guid>https://m.vlive.tv/video/273276</guid>
+            <pubDate>Mon, 03 Jan 2022 13:45:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211230_147/1640840553307JQY8K_JPEG/upload_84920273851455366437fcf2c-9a8f-40c5-8d6d-894161a59b41.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
