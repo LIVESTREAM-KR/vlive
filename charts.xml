@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 04:56:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 05:43:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,12 +24,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220103_103/1641136628647N7IA5_JPEG/e3a07206-6bdd-11ec-908e-48df379cc9e4_05.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from Jin]]></title>
+            <link>https://www.vlive.tv/video/273619</link>
+            <guid>https://www.vlive.tv/video/273619</guid>
+            <pubDate>Mon, 03 Jan 2022 05:41:42 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220102_170/1641093914444C7DIu_JPEG/upload_851734060146958444de45e62-c8d8-4205-a762-df8ffd18d646.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[💗🐷]]></title>
             <link>https://www.vlive.tv/video/273641</link>
             <guid>https://www.vlive.tv/video/273641</guid>
             <pubDate>Sun, 02 Jan 2022 13:42:53 GMT</pubDate>
             <content:encoded><![CDATA[TWICE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220102_271/1641129134585Vd8e1_JPEG/5eef2077-6bcd-11ec-a42f-505dac8c3721_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220102_271/1641129134585Vd8e1_JPEG/5eef2077-6bcd-11ec-a42f-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[🐯]]></title>
@@ -54,14 +62,6 @@
             <pubDate>Thu, 30 Dec 2021 17:04:52 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211229_263/1640759058626hegW5_JPEG/upload_57027749478374359aa7e773e-4348-44e4-9cd4-4b443ea7d44d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[석진 생일!🎂& 슈퍼참치🐟쇼케이스]]></title>
-            <link>https://www.vlive.tv/video/270943</link>
-            <guid>https://www.vlive.tv/video/270943</guid>
-            <pubDate>Tue, 28 Dec 2021 17:05:06 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211204_233/16386184306010X0xi_JPEG/upload_8269812055083229294231289-1df9-400e-93a5-fa9d30a136be.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
