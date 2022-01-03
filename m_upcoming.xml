@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 02:59:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 03:46:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -68,6 +68,16 @@
             <enclosure url="https://v-phinf.pstatic.net/20211230_227/16408637657014qgO1_JPEG/upload_571333219750106799091fdbf-454a-4308-a2b0-7e876196304b.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[빈,us] Season2 - 1월 1째주]]></title>
+            <link>https://m.vlive.tv/video/273660</link>
+            <guid>https://m.vlive.tv/video/273660</guid>
+            <pubDate>Mon, 03 Jan 2022 03:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:30</span>
+										<span class="txt">SF9</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220103_115/1641178806884X2QvQ_JPEG/upload_85258228725469786eae1d899-1239-4aa4-9e5d-5a6a834e3d04.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
             <link>https://m.vlive.tv/video/273273</link>
             <guid>https://m.vlive.tv/video/273273</guid>
@@ -86,16 +96,6 @@
 										오전 2:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211230_128/1640840066523Tyyhq_JPEG/upload_84919732469906828f5dd09dc-7b86-4a77-9d13-30cc71148e9a.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ASC Live Ep.504 (UP10TION / 업텐션)]]></title>
-            <link>https://m.vlive.tv/video/273472</link>
-            <guid>https://m.vlive.tv/video/273472</guid>
-            <pubDate>Mon, 03 Jan 2022 01:46:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 4:00</span>
-										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211231_143/1640933464516Dxzyy_PNG/upload_85013167136967509ee345daf-fe67-4ecd-b721-f2c5763e515f.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
