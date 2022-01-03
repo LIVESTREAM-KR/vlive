@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 17:08:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 17:50:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -448,14 +448,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220103_63/1641202965297qiodz_JPEG/154078564282825746d8fb5ab9-8ea1-4d41-a79d-41bf88b5efac.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[새해 첫 라이뷰😁]]></title>
-            <link>https://www.vlive.tv/video/273706</link>
-            <guid>https://www.vlive.tv/video/273706</guid>
-            <pubDate>Mon, 03 Jan 2022 11:40:12 GMT</pubDate>
-            <content:encoded><![CDATA[오전 11:36]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220103_116/1641209596971fJtuz_JPEG/154085127959598064659e883e-9299-4a7f-af2a-5bc127f500be.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[HAPPY NEW YEAR🎉 RAINBOO🌈💕]]></title>
             <link>https://www.vlive.tv/video/273703</link>
             <guid>https://www.vlive.tv/video/273703</guid>
@@ -630,6 +622,14 @@
             <pubDate>Mon, 03 Jan 2022 17:06:41 GMT</pubDate>
             <content:encoded><![CDATA[오후 4:59]]></content:encoded>
             <enclosure url="https://vlive-thumb.pstatic.net/live/273720/thumb?type=f228_128" length="0" type="image//live/273720/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[Short]]></title>
+            <link>https://www.vlive.tv/video/273721</link>
+            <guid>https://www.vlive.tv/video/273721</guid>
+            <pubDate>Mon, 03 Jan 2022 17:49:33 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:33]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220104_141/1641230590667xRGYt_JPEG/1541061075833370637e2b0b94-fc16-47a7-b9c5-a84b88292698.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

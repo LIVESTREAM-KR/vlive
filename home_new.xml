@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 17:08:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 17:50:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Short]]></title>
+            <link>https://www.vlive.tv/video/273721</link>
+            <guid>https://www.vlive.tv/video/273721</guid>
+            <pubDate>Mon, 03 Jan 2022 17:48:40 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220104_141/1641230590667xRGYt_JPEG/1541061075833370637e2b0b94-fc16-47a7-b9c5-a84b88292698.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[HAPPY MONDAY 💛🐝🙌🏻 해피 먼뎅]]></title>
             <link>https://www.vlive.tv/video/273720</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 03 Jan 2022 13:03:02 GMT</pubDate>
             <content:encoded><![CDATA[VANNER (배너)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220103_197/1641210951314xRz4C_JPEG/1540864812889792587c3e9be5-8bfc-40c2-a254-11bef1828eb1.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arirang Radio (Sound K / HA HYUN SANG 하현상)]]></title>
-            <link>https://www.vlive.tv/video/273368</link>
-            <guid>https://www.vlive.tv/video/273368</guid>
-            <pubDate>Mon, 03 Jan 2022 13:44:14 GMT</pubDate>
-            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211230_227/16408637657014qgO1_JPEG/upload_571333219750106799091fdbf-454a-4308-a2b0-7e876196304b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
