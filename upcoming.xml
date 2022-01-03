@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 13:46:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 14:43:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -464,14 +464,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220103_87/1641212673044o0Qmo_JPEG/upload_85292386673914253a61bd831-dec8-49b8-b455-7b0a38521ba6.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[👋]]></title>
-            <link>https://www.vlive.tv/video/273709</link>
-            <guid>https://www.vlive.tv/video/273709</guid>
-            <pubDate>Mon, 03 Jan 2022 13:03:54 GMT</pubDate>
-            <content:encoded><![CDATA[오전 11:55]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220103_69/16412109524097eyDs_JPEG/154086534394577214cddfde75-251d-48b9-8ec6-31e4722c9c79.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[TO DO X TOMORROW X TOGETHER - EP.65]]></title>
             <link>https://www.vlive.tv/video/272989</link>
             <guid>https://www.vlive.tv/video/272989</guid>
@@ -536,20 +528,44 @@
             <enclosure url="https://v-phinf.pstatic.net/20220103_197/1641210951314xRz4C_JPEG/1540864812889792587c3e9be5-8bfc-40c2-a254-11bef1828eb1.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[모해 다들!?]]></title>
-            <link>https://www.vlive.tv/video/273712</link>
-            <guid>https://www.vlive.tv/video/273712</guid>
-            <pubDate>Mon, 03 Jan 2022 13:45:06 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:21]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220103_208/1641216098512Aq6dx_JPEG/1540916164443964280e4598c1-028c-4630-99d5-7226aa472d27.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[깜짝 퇴근길 👀]]></title>
             <link>https://www.vlive.tv/video/273711</link>
             <guid>https://www.vlive.tv/video/273711</guid>
             <pubDate>Mon, 03 Jan 2022 13:03:54 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:29]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220103_63/16412149885082PId1_JPEG/154090570438848578da607cc5-ce07-4e4b-9894-06981253f808.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022🖤🙏]]></title>
+            <link>https://www.vlive.tv/video/273715</link>
+            <guid>https://www.vlive.tv/video/273715</guid>
+            <pubDate>Mon, 03 Jan 2022 14:42:12 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:54]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/273715/thumb?type=f228_128" length="0" type="image//live/273715/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[[Radio Hama] 심야 라디오 잠안오는 사람 드루와~]]></title>
+            <link>https://www.vlive.tv/video/273716</link>
+            <guid>https://www.vlive.tv/video/273716</guid>
+            <pubDate>Mon, 03 Jan 2022 14:42:12 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:58]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220103_3/1641218315775ePhBU_JPEG/154093931700143316df923eb7-48a2-49b3-b142-4fd47d753f6f.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모해 다들!?]]></title>
+            <link>https://www.vlive.tv/video/273712</link>
+            <guid>https://www.vlive.tv/video/273712</guid>
+            <pubDate>Mon, 03 Jan 2022 13:45:06 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:17]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220103_208/1641216098512Aq6dx_JPEG/1540916164443964280e4598c1-028c-4630-99d5-7226aa472d27.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[👋]]></title>
+            <link>https://www.vlive.tv/video/273709</link>
+            <guid>https://www.vlive.tv/video/273709</guid>
+            <pubDate>Mon, 03 Jan 2022 13:03:54 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:21]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220103_69/16412109524097eyDs_JPEG/154086534394577214cddfde75-251d-48b9-8ec6-31e4722c9c79.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
