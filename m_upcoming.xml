@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 08:50:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 09:46:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[🎂 HAPPY JAEHYUN DAY 전야제🎂]]></title>
-            <link>https://m.vlive.tv/video/273631</link>
-            <guid>https://m.vlive.tv/video/273631</guid>
-            <pubDate>Sun, 02 Jan 2022 09:44:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 9:00</span>
-										<span class="txt">Golden Child</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220102_97/1641114012374QVKAl_JPEG/upload_57382060854807602d3ed6314-9cd0-4471-87d4-e0638ee1bc7f.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[P1Harmony 3RD MINI ALBUM 'DISHARMONY : FIND OUT' SHOWCASE]]></title>
             <link>https://m.vlive.tv/video/273068</link>
@@ -86,6 +76,26 @@
 										오전 4:00</span>
 										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211231_143/1640933464516Dxzyy_PNG/upload_85013167136967509ee345daf-fe67-4ecd-b721-f2c5763e515f.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[Music Access] Pop&Going wih AleXa 알렉사 & Won Jun 원준 of E'LAST]]></title>
+            <link>https://m.vlive.tv/video/273277</link>
+            <guid>https://m.vlive.tv/video/273277</guid>
+            <pubDate>Mon, 03 Jan 2022 09:45:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211230_269/1640840609747CTgrx_JPEG/upload_849203149226451516863d967-46e3-4347-a349-33f41e02df8f.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oh My K-POP with Samuel Seo 서사무엘]]></title>
+            <link>https://m.vlive.tv/video/273278</link>
+            <guid>https://m.vlive.tv/video/273278</guid>
+            <pubDate>Mon, 03 Jan 2022 09:45:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211230_100/16408406685502EEOl_JPEG/upload_5711025750143308673144998-fd4e-49c9-9781-ba6b1ac1ac36.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
