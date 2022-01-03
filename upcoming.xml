@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 17:50:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 18:51:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -616,20 +616,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220104_291/1641226091000lUhgc_JPEG/94c43a6e-6cae-11ec-8a04-505dac8c3639_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[HAPPY MONDAY 💛🐝🙌🏻 해피 먼뎅]]></title>
-            <link>https://www.vlive.tv/video/273720</link>
-            <guid>https://www.vlive.tv/video/273720</guid>
-            <pubDate>Mon, 03 Jan 2022 17:06:41 GMT</pubDate>
-            <content:encoded><![CDATA[오후 4:59]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/273720/thumb?type=f228_128" length="0" type="image//live/273720/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[Short]]></title>
             <link>https://www.vlive.tv/video/273721</link>
             <guid>https://www.vlive.tv/video/273721</guid>
             <pubDate>Mon, 03 Jan 2022 17:49:33 GMT</pubDate>
             <content:encoded><![CDATA[오후 5:33]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220104_141/1641230590667xRGYt_JPEG/1541061075833370637e2b0b94-fc16-47a7-b9c5-a84b88292698.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HAPPY MONDAY 💛🐝🙌🏻 해피 먼뎅]]></title>
+            <link>https://www.vlive.tv/video/273720</link>
+            <guid>https://www.vlive.tv/video/273720</guid>
+            <pubDate>Mon, 03 Jan 2022 17:06:41 GMT</pubDate>
+            <content:encoded><![CDATA[오후 6:10]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220104_176/1641233400636kWCXN_JPEG/e15db25b-6cbf-11ec-bf52-a0369ff9545c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
