@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 14:43:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 15:49:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20211227_224/1640579869117ahjkl_JPEG/upload_568493983944106857b2f1c26-0092-4de9-a523-4b43bb8c4e55.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS - Teaser SPOT]]></title>
-            <link>https://www.vlive.tv/video/273184</link>
-            <guid>https://www.vlive.tv/video/273184</guid>
-            <pubDate>Sun, 02 Jan 2022 13:42:43 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211229_263/1640759058626hegW5_JPEG/upload_57027749478374359aa7e773e-4348-44e4-9cd4-4b443ea7d44d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[WOOZI 'Ruby' Official MV]]></title>
             <link>https://www.vlive.tv/video/273677</link>
             <guid>https://www.vlive.tv/video/273677</guid>
             <pubDate>Mon, 03 Jan 2022 10:45:50 GMT</pubDate>
             <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220103_122/1641193761829OF93w_JPEG/upload_85273492658543923f56003d8-5812-438b-a90d-7cec094cc5fb.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS - Teaser SPOT]]></title>
+            <link>https://www.vlive.tv/video/273184</link>
+            <guid>https://www.vlive.tv/video/273184</guid>
+            <pubDate>Sun, 02 Jan 2022 13:42:43 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211229_263/1640759058626hegW5_JPEG/upload_57027749478374359aa7e773e-4348-44e4-9cd4-4b443ea7d44d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
