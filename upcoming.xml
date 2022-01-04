@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 13:05:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 13:46:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -336,14 +336,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220104_119/1641300445933f9Y7y_JPEG/3584d838-6d5c-11ec-b776-246e963a49a8_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뮤지컬 <바바리맨-킬라이크아이두> 녹화중계]]></title>
-            <link>https://www.vlive.tv/video/272414</link>
-            <guid>https://www.vlive.tv/video/272414</guid>
-            <pubDate>Tue, 04 Jan 2022 01:48:02 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:50]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211222_229/16401476335008ACal_JPEG/upload_56417240539647594de62b3c1-4f39-436d-a84a-37e6a78b91c8.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[masa]]></title>
             <link>https://www.vlive.tv/video/273785</link>
             <guid>https://www.vlive.tv/video/273785</guid>
@@ -390,6 +382,30 @@
             <pubDate>Tue, 04 Jan 2022 13:04:08 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:03]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220104_67/1641301406158hPjdP_JPEG/2975c527-6d5e-11ec-9576-48df379ccacc_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[집 가기전 🏠]]></title>
+            <link>https://www.vlive.tv/video/273786</link>
+            <guid>https://www.vlive.tv/video/273786</guid>
+            <pubDate>Tue, 04 Jan 2022 13:44:42 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:20]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/273786/thumb?type=f228_128" length="0" type="image//live/273786/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE] UP10TION(업텐션) '너에게 미쳤었다 (Crazy About You) (Vertical ver.)]]></title>
+            <link>https://www.vlive.tv/video/273787</link>
+            <guid>https://www.vlive.tv/video/273787</guid>
+            <pubDate>Tue, 04 Jan 2022 13:44:42 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:30]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220104_72/16413027680678dsnC_JPEG/upload_5757237088213716962fc47ad-e2c5-4b87-bef5-314ab0b9777f.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[부스터샷 맞고 왔어요..]]></title>
+            <link>https://www.vlive.tv/video/273788</link>
+            <guid>https://www.vlive.tv/video/273788</guid>
+            <pubDate>Tue, 04 Jan 2022 13:44:42 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:40]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220104_233/1641303632955guGSP_JPEG/154092002881458574806e761b-9010-4b85-9b79-a388b65ea77f.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
