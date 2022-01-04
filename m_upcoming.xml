@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 09:47:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 10:47:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[닼둥이들과 함께하는 새해BINGO🐯]]></title>
-            <link>https://m.vlive.tv/video/273688</link>
-            <guid>https://m.vlive.tv/video/273688</guid>
-            <pubDate>Mon, 03 Jan 2022 11:40:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">다크비(DKB)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220103_284/1641200412165XehyJ_JPEG/upload_852782774836833259dc7dac1-70a1-4571-933d-c6257cde3ea4.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[뮤지컬 <바바리맨-킬라이크아이두> 녹화중계]]></title>
             <link>https://m.vlive.tv/video/272414</link>
@@ -96,6 +86,16 @@
 										오전 2:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211230_131/1640840120464wDpRh_JPEG/upload_849198361014500311f1898f0-aa9d-4db4-8b84-5f95bf396edb.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Music Access] TMB(Text Me Back) with JUNNY(주니)]]></title>
+            <link>https://m.vlive.tv/video/273275</link>
+            <guid>https://m.vlive.tv/video/273275</guid>
+            <pubDate>Tue, 04 Jan 2022 10:46:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211230_194/1640840436526kbBJz_JPEG/upload_57110028314883180dd03dc8a-12f1-44de-a6fa-23c3f7263527.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
