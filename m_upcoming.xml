@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 03:46:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jan 2022 04:56:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[ASC Live Ep.504 (UP10TION / 업텐션)]]></title>
-            <link>https://m.vlive.tv/video/273472</link>
-            <guid>https://m.vlive.tv/video/273472</guid>
-            <pubDate>Mon, 03 Jan 2022 04:55:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 4:00</span>
-										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211231_143/1640933464516Dxzyy_PNG/upload_85013167136967509ee345daf-fe67-4ecd-b721-f2c5763e515f.png?type=f274_154" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[Music Access] Pop&Going wih AleXa 알렉사 & Won Jun 원준 of E'LAST]]></title>
-            <link>https://m.vlive.tv/video/273277</link>
-            <guid>https://m.vlive.tv/video/273277</guid>
-            <pubDate>Mon, 03 Jan 2022 09:45:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211230_269/1640840609747CTgrx_JPEG/upload_849203149226451516863d967-46e3-4347-a349-33f41e02df8f.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Oh My K-POP with Samuel Seo 서사무엘]]></title>
             <link>https://m.vlive.tv/video/273278</link>
@@ -106,6 +86,26 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211229_180/1640769639310gNTak_JPEG/upload_84849358692095032db5642d0-729d-47f8-a69b-0130a9151cc1.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
+            <link>https://m.vlive.tv/video/273270</link>
+            <guid>https://m.vlive.tv/video/273270</guid>
+            <pubDate>Tue, 04 Jan 2022 04:55:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211230_249/1640840221609FJ1xC_JPEG/upload_84919924235993536ad42f524-73c2-4fa1-8169-e837336c2c28.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
+            <link>https://m.vlive.tv/video/273268</link>
+            <guid>https://m.vlive.tv/video/273268</guid>
+            <pubDate>Tue, 04 Jan 2022 04:55:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 2:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211230_131/1640840120464wDpRh_JPEG/upload_849198361014500311f1898f0-aa9d-4db4-8b84-5f95bf396edb.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
