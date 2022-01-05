@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 17:51:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 18:52:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -760,20 +760,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20220105_241/1641391601673erzMi_JPEG/154180137587312190b8ff4ba4-921b-4b33-8691-135faadef7d8.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Short]]></title>
-            <link>https://www.vlive.tv/video/273913</link>
-            <guid>https://www.vlive.tv/video/273913</guid>
-            <pubDate>Wed, 05 Jan 2022 17:07:16 GMT</pubDate>
-            <content:encoded><![CDATA[오후 4:59]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220106_182/1641401955604Yum6V_JPEG/154277554520400914ffde47cf-7c4b-4022-9140-09f99bdef917.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[초이들 오랜만입니다🙂]]></title>
             <link>https://www.vlive.tv/video/273909</link>
             <guid>https://www.vlive.tv/video/273909</guid>
             <pubDate>Wed, 05 Jan 2022 15:48:50 GMT</pubDate>
             <content:encoded><![CDATA[오후 5:27]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220106_159/1641403638132Qnyyg_JPEG/a5b52f6e-6e4b-11ec-8a02-505dac8c35ff_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Short]]></title>
+            <link>https://www.vlive.tv/video/273913</link>
+            <guid>https://www.vlive.tv/video/273913</guid>
+            <pubDate>Wed, 05 Jan 2022 17:07:16 GMT</pubDate>
+            <content:encoded><![CDATA[오후 6:09]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220106_182/1641401955604Yum6V_JPEG/154277554520400914ffde47cf-7c4b-4022-9140-09f99bdef917.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠 못드는 밤에 (이불속 몰래 속삭이는 그냥 수다떨기!)]]></title>
+            <link>https://www.vlive.tv/video/273914</link>
+            <guid>https://www.vlive.tv/video/273914</guid>
+            <pubDate>Wed, 05 Jan 2022 18:51:01 GMT</pubDate>
+            <content:encoded><![CDATA[오후 6:38]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220106_209/1641407933211WINuN_JPEG/1541963032082410741483553c-c6fe-470f-b136-d20240e9ebc1.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

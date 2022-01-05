@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 17:51:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 18:52:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220105_180/1641387324384U41SD_JPEG/3d702ea4-6e25-11ec-be2f-505dac8c38f5_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ARTIST-MADE COLLECTION 'SHOW' BY BTS - Jin]]></title>
-            <link>https://www.vlive.tv/video/273618</link>
-            <guid>https://www.vlive.tv/video/273618</guid>
-            <pubDate>Wed, 05 Jan 2022 05:41:35 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220102_126/16410926570568Kza5_JPEG/upload_8517210258950368245269e64-8a55-4d3b-8950-ff37d0dcc2b6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[햅삐new👂]]></title>
             <link>https://www.vlive.tv/video/273870</link>
             <guid>https://www.vlive.tv/video/273870</guid>
             <pubDate>Wed, 05 Jan 2022 13:45:15 GMT</pubDate>
             <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220105_105/1641379177666tPP0n_JPEG/58bfc76c-6e13-11ec-846d-246e963a464c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION 'SHOW' BY BTS - Jin]]></title>
+            <link>https://www.vlive.tv/video/273618</link>
+            <guid>https://www.vlive.tv/video/273618</guid>
+            <pubDate>Wed, 05 Jan 2022 05:41:35 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220102_126/16410926570568Kza5_JPEG/upload_8517210258950368245269e64-8a55-4d3b-8950-ff37d0dcc2b6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
