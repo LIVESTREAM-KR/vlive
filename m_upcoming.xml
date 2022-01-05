@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 10:47:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 11:41:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,16 @@
             <enclosure url="https://v-phinf.pstatic.net/20211230_19/1640863820622PhfCh_JPEG/upload_84943511760250269359f819f-3557-438d-b843-19534cea1a0c.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[HI~ 레미랜드🐸💕]]></title>
+            <link>https://m.vlive.tv/video/273879</link>
+            <guid>https://m.vlive.tv/video/273879</guid>
+            <pubDate>Wed, 05 Jan 2022 11:40:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Cherry Bullet</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220105_135/1641380404933DMsBx_JPEG/upload_85459926686967988ac8e59c8-5cd9-4e07-9ea4-3cbc24ff4ad4.jpeg?type=f274_154" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
             <link>https://m.vlive.tv/video/273271</link>
             <guid>https://m.vlive.tv/video/273271</guid>
@@ -86,16 +96,6 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211230_47/1640840253867NAbU7_JPEG/upload_8491995791745882705152870-7798-4e14-840f-e1f22afeec81.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
-            <link>https://m.vlive.tv/video/273269</link>
-            <guid>https://m.vlive.tv/video/273269</guid>
-            <pubDate>Wed, 05 Jan 2022 09:45:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 2:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211230_178/1640840144344HoHk5_JPEG/upload_57109734324203619aa5165b2-d261-4cf3-b204-b1a402170e5d.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
