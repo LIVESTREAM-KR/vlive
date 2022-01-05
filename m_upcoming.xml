@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 03:00:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 03:47:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,26 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211230_210/1640840944401Hsvqq_JPEG/upload_571104433447297312d877bf2-0f80-444e-8f2c-6deeb2d61c5e.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무용 <1687-움직임에 대한 원리> 녹화중계]]></title>
+            <link>https://m.vlive.tv/video/272537</link>
+            <guid>https://m.vlive.tv/video/272537</guid>
+            <pubDate>Wed, 05 Jan 2022 03:46:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">V CLASSIC</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211223_228/1640235392171X04aY_JPEG/upload_5650499923715056281f117d9-246d-480c-b84b-d5235d189a10.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / NADA 나다)]]></title>
+            <link>https://m.vlive.tv/video/273369</link>
+            <guid>https://m.vlive.tv/video/273369</guid>
+            <pubDate>Wed, 05 Jan 2022 03:46:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211230_19/1640863820622PhfCh_JPEG/upload_84943511760250269359f819f-3557-438d-b843-19534cea1a0c.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
