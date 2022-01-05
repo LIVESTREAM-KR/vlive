@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 17:08:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 17:51:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,14 +688,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220105_61/16413921927843UQ00_JPEG/cc8147e8-6e31-11ec-908e-48df379cc9e4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[초이들 오랜만입니다🙂]]></title>
-            <link>https://www.vlive.tv/video/273909</link>
-            <guid>https://www.vlive.tv/video/273909</guid>
-            <pubDate>Wed, 05 Jan 2022 15:48:50 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:56]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/273909/thumb?type=f228_128" length="0" type="image//live/273909/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[유주(YUJU) - [REC.] CONCEPT FILM]]></title>
             <link>https://www.vlive.tv/video/273908</link>
             <guid>https://www.vlive.tv/video/273908</guid>
@@ -774,6 +766,14 @@
             <pubDate>Wed, 05 Jan 2022 17:07:16 GMT</pubDate>
             <content:encoded><![CDATA[오후 4:59]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220106_182/1641401955604Yum6V_JPEG/154277554520400914ffde47cf-7c4b-4022-9140-09f99bdef917.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[초이들 오랜만입니다🙂]]></title>
+            <link>https://www.vlive.tv/video/273909</link>
+            <guid>https://www.vlive.tv/video/273909</guid>
+            <pubDate>Wed, 05 Jan 2022 15:48:50 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:27]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220106_159/1641403638132Qnyyg_JPEG/a5b52f6e-6e4b-11ec-8a02-505dac8c35ff_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
