@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jan 2022 23:45:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 01:51:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthews]]></title>
-            <link>https://m.vlive.tv/video/273272</link>
-            <guid>https://m.vlive.tv/video/273272</guid>
-            <pubDate>Mon, 03 Jan 2022 11:40:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211230_224/1640840300474botb4_JPEG/upload_84920009090714695bd3431a6-4c89-4e0a-87ad-cb1066848ef5.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
             <link>https://m.vlive.tv/video/273267</link>
@@ -86,6 +76,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211230_194/1640840436526kbBJz_JPEG/upload_57110028314883180dd03dc8a-12f1-44de-a6fa-23c3f7263527.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop] Club House]]></title>
+            <link>https://m.vlive.tv/video/273282</link>
+            <guid>https://m.vlive.tv/video/273282</guid>
+            <pubDate>Wed, 05 Jan 2022 01:50:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211230_210/1640840944401Hsvqq_JPEG/upload_571104433447297312d877bf2-0f80-444e-8f2c-6deeb2d61c5e.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
