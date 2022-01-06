@@ -4,39 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 10:47:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 11:42:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[무용 <1687-움직임에 대한 원리> 녹화중계]]></title>
-            <link>https://m.vlive.tv/video/272537</link>
-            <guid>https://m.vlive.tv/video/272537</guid>
-            <pubDate>Wed, 05 Jan 2022 03:46:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">V CLASSIC</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211223_228/1640235392171X04aY_JPEG/upload_5650499923715056281f117d9-246d-480c-b84b-d5235d189a10.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arirang Radio (Sound K / NADA 나다)]]></title>
-            <link>https://m.vlive.tv/video/273369</link>
-            <guid>https://m.vlive.tv/video/273369</guid>
-            <pubDate>Wed, 05 Jan 2022 03:46:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211230_19/1640863820622PhfCh_JPEG/upload_84943511760250269359f819f-3557-438d-b843-19534cea1a0c.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HI~ 레미랜드🐸💕]]></title>
-            <link>https://m.vlive.tv/video/273879</link>
-            <guid>https://m.vlive.tv/video/273879</guid>
-            <pubDate>Wed, 05 Jan 2022 11:40:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">Cherry Bullet</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220105_135/1641380404933DMsBx_JPEG/upload_85459926686967988ac8e59c8-5cd9-4e07-9ea4-3cbc24ff4ad4.jpeg?type=f274_154" length="0" type="image/jpeg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
             <link>https://m.vlive.tv/video/273271</link>
@@ -86,6 +56,26 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211230_29/1640840764933sMTFF_JPEG/upload_5711034941540343229705041-2918-4aaa-9dd5-49e893969b71.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아리아즈 새해 맞이 떡국vs떡볶이 대결]]></title>
+            <link>https://m.vlive.tv/video/273995</link>
+            <guid>https://m.vlive.tv/video/273995</guid>
+            <pubDate>Thu, 06 Jan 2022 11:40:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 9:00</span>
+										<span class="txt">ARIAZ</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220106_87/1641465941746cBf0V_PNG/upload_85545646390949270f7ce4996-3751-4d1c-ae6f-63303425bce1.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[드림캐쳐] HAPPY YOOHYEON DAY 🐶🎂🎉]]></title>
+            <link>https://m.vlive.tv/video/273672</link>
+            <guid>https://m.vlive.tv/video/273672</guid>
+            <pubDate>Thu, 06 Jan 2022 11:40:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">DREAMCATCHER</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220103_92/1641188016753zX0Jg_JPEG/upload_8526769498534903696e16492-66bb-496c-9c2d-b2bbd490dcc4.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
