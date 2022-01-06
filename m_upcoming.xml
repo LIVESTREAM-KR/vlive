@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 23:45:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 01:56:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
-            <link>https://m.vlive.tv/video/273270</link>
-            <guid>https://m.vlive.tv/video/273270</guid>
-            <pubDate>Tue, 04 Jan 2022 04:55:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211230_249/1640840221609FJ1xC_JPEG/upload_84919924235993536ad42f524-73c2-4fa1-8169-e837336c2c28.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
             <link>https://m.vlive.tv/video/273268</link>
@@ -106,6 +96,16 @@
 										오전 2:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211230_178/1640840144344HoHk5_JPEG/upload_57109734324203619aa5165b2-d261-4cf3-b204-b1a402170e5d.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Simply K-Pop CON-TOUR (심플리케이팝 콘투어) Ep.501 - New Year Special]]></title>
+            <link>https://m.vlive.tv/video/273854</link>
+            <guid>https://m.vlive.tv/video/273854</guid>
+            <pubDate>Thu, 06 Jan 2022 01:55:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220105_4/1641370030407lfdt2_PNG/upload_5763957090092290069c63dc2-50f0-4d78-8c66-80791bad8249.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
