@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 17:08:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 17:51:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -694,6 +694,14 @@
             <pubDate>Fri, 07 Jan 2022 14:42:28 GMT</pubDate>
             <content:encoded><![CDATA[오후 4:05]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220108_271/1641571517129TOAAE_JPEG/d45f5c2a-6fd1-11ec-84bc-505dacfbaa5c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Muckbang Hama] 컴백 첫방송 후 폭식하는 사람 나야나]]></title>
+            <link>https://www.vlive.tv/video/274123</link>
+            <guid>https://www.vlive.tv/video/274123</guid>
+            <pubDate>Fri, 07 Jan 2022 17:50:38 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:22]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220107_189/1641567142104wdiBk_JPEG/154442672027633064239d7884-3714-4602-bc22-181a17e94108.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
