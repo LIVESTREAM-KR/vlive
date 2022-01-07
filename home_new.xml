@@ -4,9 +4,33 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 13:05:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 13:46:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모여라 에비뉴]]></title>
+            <link>https://www.vlive.tv/video/274114</link>
+            <guid>https://www.vlive.tv/video/274114</guid>
+            <pubDate>Fri, 07 Jan 2022 13:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[AB6IX]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/274114/thumb?type=f228_128" length="0" type="image//live/274114/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[안녕하세요. 저희는 2Z라고 하고요. 밴드입니다.]]></title>
+            <link>https://www.vlive.tv/video/274106</link>
+            <guid>https://www.vlive.tv/video/274106</guid>
+            <pubDate>Fri, 07 Jan 2022 13:03:18 GMT</pubDate>
+            <content:encoded><![CDATA[2Z]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220107_166/16415568083966zRaa_JPEG/35174584656447523fd2f027f-b059-4e37-9cb8-8f42ebd79129.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[3_3]]></title>
+            <link>https://www.vlive.tv/video/274112</link>
+            <guid>https://www.vlive.tv/video/274112</guid>
+            <pubDate>Fri, 07 Jan 2022 13:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[CIX]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/274112/thumb?type=f228_128" length="0" type="image//live/274112/thumb"/>
+        </item>
         <item>
             <title><![CDATA[집 공사!]]></title>
             <link>https://www.vlive.tv/video/274104</link>
@@ -64,14 +88,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220107_12/1641557995446G6h2E_JPEG/d5918107-6fb1-11ec-9576-48df379ccacc_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[안녕하세요. 저희는 2Z라고 하고요. 밴드입니다.]]></title>
-            <link>https://www.vlive.tv/video/274106</link>
-            <guid>https://www.vlive.tv/video/274106</guid>
-            <pubDate>Fri, 07 Jan 2022 13:03:18 GMT</pubDate>
-            <content:encoded><![CDATA[2Z]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220107_166/16415568083966zRaa_JPEG/35174584656447523fd2f027f-b059-4e37-9cb8-8f42ebd79129.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[펜타곤 - 막 나가는 인터뷰 #01 : 오각 엔터테인먼트 시무식 날]]></title>
             <link>https://www.vlive.tv/video/274072</link>
             <guid>https://www.vlive.tv/video/274072</guid>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 07 Jan 2022 13:03:18 GMT</pubDate>
             <content:encoded><![CDATA[T1419]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220107_89/1641550373767YPErx_JPEG/1543389097585523661b993287-577d-4bd6-92d7-8f767b8cc95c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[📹오늘은 시호데이📹]]></title>
-            <link>https://www.vlive.tv/video/274094</link>
-            <guid>https://www.vlive.tv/video/274094</guid>
-            <pubDate>Fri, 07 Jan 2022 10:46:25 GMT</pubDate>
-            <content:encoded><![CDATA[TREASURE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220107_74/164155071099064YsA_JPEG/405260775690421358c25a659-dafb-459a-adf2-76fddf0743fa.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[짬깐]]></title>
-            <link>https://www.vlive.tv/video/274101</link>
-            <guid>https://www.vlive.tv/video/274101</guid>
-            <pubDate>Fri, 07 Jan 2022 11:39:23 GMT</pubDate>
-            <content:encoded><![CDATA[SF9]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220107_185/1641554615313CjqvL_JPEG/f7f9651d-6fab-11ec-b776-246e963a49a8_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
