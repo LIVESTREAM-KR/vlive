@@ -4,17 +4,9 @@
         <title>V LIVE 모바일 ─ CHARTS </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 09:47:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 10:48:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[목요일 밤3 🐻]]></title>
-            <link>https://m.vlive.tv/video/273980</link>
-            <guid>https://m.vlive.tv/video/273980</guid>
-            <pubDate>Thu, 06 Jan 2022 10:46:15 GMT</pubDate>
-            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220106_132/1641464166999OBu0b_JPEG/upload_85543899370728760ee525cf6-9cba-43b4-93a0-203f215694f7.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[빠이빠이이 S2 🥰]]></title>
             <link>https://m.vlive.tv/video/273994</link>
@@ -30,6 +22,14 @@
             <pubDate>Wed, 05 Jan 2022 05:41:56 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220104_17/1641261601606tPEmS_JPEG/upload_5753100388712674545cc8ca6-7071-4e65-840b-62097e466163.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[목요일 밤3 🐻]]></title>
+            <link>https://m.vlive.tv/video/273980</link>
+            <guid>https://m.vlive.tv/video/273980</guid>
+            <pubDate>Thu, 06 Jan 2022 10:46:15 GMT</pubDate>
+            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220106_132/1641464166999OBu0b_JPEG/upload_85543899370728760ee525cf6-9cba-43b4-93a0-203f215694f7.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
