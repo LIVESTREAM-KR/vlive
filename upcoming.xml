@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 15:50:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 17:08:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -632,14 +632,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220107_166/16415568083966zRaa_JPEG/35174584656447523fd2f027f-b059-4e37-9cb8-8f42ebd79129.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[다 알려드립니다 ! 😳]]></title>
-            <link>https://www.vlive.tv/video/274118</link>
-            <guid>https://www.vlive.tv/video/274118</guid>
-            <pubDate>Fri, 07 Jan 2022 14:42:28 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:03]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/274118/thumb?type=f228_128" length="0" type="image//live/274118/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[3_3]]></title>
             <link>https://www.vlive.tv/video/274112</link>
             <guid>https://www.vlive.tv/video/274112</guid>
@@ -672,14 +664,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220107_219/164156643668799yOb_JPEG/13b4225d-6fc7-11ec-8e73-505dac8c37f3_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[Muckbang Hama] 컴백 첫방송 후 폭식하는 사람 나야나]]></title>
-            <link>https://www.vlive.tv/video/274123</link>
-            <guid>https://www.vlive.tv/video/274123</guid>
-            <pubDate>Fri, 07 Jan 2022 15:49:15 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:52]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220107_189/1641567142104wdiBk_JPEG/154442672027633064239d7884-3714-4602-bc22-181a17e94108.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[MAX CHANGMIN 최강창민 'Fever' Stage Video]]></title>
             <link>https://www.vlive.tv/video/274100</link>
             <guid>https://www.vlive.tv/video/274100</guid>
@@ -702,6 +686,14 @@
             <pubDate>Fri, 07 Jan 2022 14:42:28 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:02]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220108_182/1641567720377TgDAp_JPEG/8fb31e0e-6fca-11ec-b908-48df37ae3fca_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다 알려드립니다 ! 😳]]></title>
+            <link>https://www.vlive.tv/video/274118</link>
+            <guid>https://www.vlive.tv/video/274118</guid>
+            <pubDate>Fri, 07 Jan 2022 14:42:28 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:05]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220108_271/1641571517129TOAAE_JPEG/d45f5c2a-6fd1-11ec-84bc-505dacfbaa5c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
