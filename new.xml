@@ -4,9 +4,16 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 17:51:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 18:52:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LAST FRIDAY 🐝💛🙌🏻]]></title>
+            <link>https://www.vlive.tv/video/274125</link>
+            <guid>https://www.vlive.tv/video/274125</guid>
+            <pubDate>Fri, 07 Jan 2022 18:49:56 GMT</pubDate>
+            <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[Muckbang Hama] 컴백 첫방송 후 폭식하는 사람 나야나]]></title>
             <link>https://www.vlive.tv/video/274123</link>
@@ -398,14 +405,6 @@
             <pubDate>Fri, 07 Jan 2022 09:45:18 GMT</pubDate>
             <content:encoded><![CDATA[Planetarium Records]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220107_294/1641532064695x6vWt_JPEG/upload_85611794880726385de4263bc-dd4a-40de-893a-0616c494ddd1.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TWICE REALITY “TIME TO TWICE” TWICE New Year 2022 EP.01]]></title>
-            <link>https://www.vlive.tv/video/274046</link>
-            <guid>https://www.vlive.tv/video/274046</guid>
-            <pubDate>Fri, 07 Jan 2022 09:45:18 GMT</pubDate>
-            <content:encoded><![CDATA[TWICE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220107_190/16415340392570e0Ls_PNG/upload_85613755521124454338deb7d-2df3-4068-af0a-edbe26031029.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
