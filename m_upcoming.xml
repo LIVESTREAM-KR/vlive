@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 04:56:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 05:43:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Music Access / W.O.W 와우)]]></title>
-            <link>https://m.vlive.tv/video/273205</link>
-            <guid>https://m.vlive.tv/video/273205</guid>
-            <pubDate>Thu, 06 Jan 2022 03:00:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211229_80/1640769555212rLaQt_JPEG/upload_5703912669411637320d85538-7580-4c52-aa40-05d49c4c1274.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio] Topic Song with Aaron 아론 of W24 and BÉBE YANA]]></title>
             <link>https://m.vlive.tv/video/273279</link>
@@ -56,6 +46,16 @@
 										오전 10:00</span>
 										<span class="txt">DREAMCATCHER</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220103_92/1641188016753zX0Jg_JPEG/upload_8526769498534903696e16492-66bb-496c-9c2d-b2bbd490dcc4.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
+            <link>https://m.vlive.tv/video/273806</link>
+            <guid>https://m.vlive.tv/video/273806</guid>
+            <pubDate>Fri, 07 Jan 2022 05:42:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220105_279/1641348025713xoTqY_JPEG/upload_85427747392096094ed137597-206c-4670-a51d-f2e5035173d0.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
