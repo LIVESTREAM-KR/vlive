@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jan 2022 08:50:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jan 2022 09:46:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220105_168/1641347982776zmUIA_JPEG/upload_57617574551757262f876150a-6b8f-4920-9ae8-74573c85a850.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
+            <link>https://m.vlive.tv/video/273807</link>
+            <guid>https://m.vlive.tv/video/273807</guid>
+            <pubDate>Sat, 08 Jan 2022 09:45:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 2:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220105_41/1641348050838e7Evk_JPEG/upload_85427772765822598b0131c50-d66b-4705-b4ca-815056bd7574.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
