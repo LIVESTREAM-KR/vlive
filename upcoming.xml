@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jan 2022 15:48:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jan 2022 17:06:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -401,14 +401,6 @@
         </item>
         <item>
             <title><![CDATA[오늘은 달이 참 밝네요]]></title>
-            <link>https://www.vlive.tv/video/274179</link>
-            <guid>https://www.vlive.tv/video/274179</guid>
-            <pubDate>Sat, 08 Jan 2022 15:47:31 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:20]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/274179/thumb?type=f228_128" length="0" type="image//live/274179/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘은 달이 참 밝네요]]></title>
             <link>https://www.vlive.tv/video/274178</link>
             <guid>https://www.vlive.tv/video/274178</guid>
             <pubDate>Sat, 08 Jan 2022 15:47:31 GMT</pubDate>
@@ -416,12 +408,36 @@
             <enclosure url="https://v-phinf.pstatic.net/20220109_47/1641655423524wYPE1_JPEG/85e0cc9b-7096-11ec-895c-a0369ff94ed0_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘노’ ‘레’를 부르자~]]></title>
+            <link>https://www.vlive.tv/video/274176</link>
+            <guid>https://www.vlive.tv/video/274176</guid>
+            <pubDate>Sat, 08 Jan 2022 17:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:52]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220108_50/1641650847338a0Ow9_JPEG/154526364312692814d4908b57-bcc0-4851-ac21-d96e503b0f3d.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘은 달이 참 밝네요]]></title>
+            <link>https://www.vlive.tv/video/274179</link>
+            <guid>https://www.vlive.tv/video/274179</guid>
+            <pubDate>Sat, 08 Jan 2022 15:47:31 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:53]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220109_89/1641657188013AMybx_JPEG/93672e36-709a-11ec-9d44-48df37ae3dc4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[It's Xiwoo Time❣#55 꼬르륵🤤]]></title>
             <link>https://www.vlive.tv/video/274180</link>
             <guid>https://www.vlive.tv/video/274180</guid>
             <pubDate>Sat, 08 Jan 2022 15:47:31 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:24]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/274180/thumb?type=f228_128" length="0" type="image//live/274180/thumb"/>
+            <content:encoded><![CDATA[오후 4:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220109_254/1641657644217VHwJi_JPEG/8ca073a7-709b-11ec-84bc-505dacfbaa5c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LAST SATURDAY IN THIS CITY💛🐝🙌🏻]]></title>
+            <link>https://www.vlive.tv/video/274182</link>
+            <guid>https://www.vlive.tv/video/274182</guid>
+            <pubDate>Sat, 08 Jan 2022 17:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:56]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/274182/thumb?type=f228_128" length="0" type="image//live/274182/thumb"/>
         </item>
     </channel>
 </rss>
