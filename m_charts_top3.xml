@@ -4,9 +4,17 @@
         <title>V LIVE 모바일 ─ CHARTS </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jan 2022 09:46:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jan 2022 10:46:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION 'SHOW' BY BTS - V]]></title>
+            <link>https://m.vlive.tv/video/274181</link>
+            <guid>https://m.vlive.tv/video/274181</guid>
+            <pubDate>Sun, 09 Jan 2022 10:45:17 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220109_17/16416568747985PcCe_JPEG/upload_85736400157995877d449a994-642e-4736-8e73-a0dff59f5f50.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[찬이의 "방" 🐺 Ep. 140]]></title>
             <link>https://m.vlive.tv/video/274161</link>
@@ -22,14 +30,6 @@
             <pubDate>Sat, 08 Jan 2022 11:40:06 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220108_77/1641638771607FQzt6_JPEG/f69456ef-706f-11ec-a831-48df379cca40_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음반부분 본상~~!!!받았어요!!!]]></title>
-            <link>https://m.vlive.tv/video/274155</link>
-            <guid>https://m.vlive.tv/video/274155</guid>
-            <pubDate>Sat, 08 Jan 2022 11:40:06 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220108_100/1641637239204cj4dI_JPEG/78a60e42-706c-11ec-8cee-a0369ff95678_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
