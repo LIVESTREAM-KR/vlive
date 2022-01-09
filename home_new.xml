@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Jan 2022 04:57:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jan 2022 05:43:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[곰찌즈 왔닷!😈🐻🐹]]></title>
+            <link>https://www.vlive.tv/video/274188</link>
+            <guid>https://www.vlive.tv/video/274188</guid>
+            <pubDate>Sun, 09 Jan 2022 05:41:22 GMT</pubDate>
+            <content:encoded><![CDATA[DRIPPIN]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/274188/thumb?type=f228_128" length="0" type="image//live/274188/thumb"/>
+        </item>
         <item>
             <title><![CDATA[꿀빵소 🍯🍞]]></title>
             <link>https://www.vlive.tv/video/274185</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 08 Jan 2022 15:46:37 GMT</pubDate>
             <content:encoded><![CDATA[SF9]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220109_47/1641655423524wYPE1_JPEG/85e0cc9b-7096-11ec-895c-a0369ff94ed0_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주말 밤 엘링이랑❤]]></title>
-            <link>https://www.vlive.tv/video/274172</link>
-            <guid>https://www.vlive.tv/video/274172</guid>
-            <pubDate>Sat, 08 Jan 2022 14:40:49 GMT</pubDate>
-            <content:encoded><![CDATA[E'LAST]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220109_172/1641654749754yFxdi_JPEG/b64bbc1e-7094-11ec-a831-48df379cca40_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
