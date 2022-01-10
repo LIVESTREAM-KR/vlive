@@ -4,16 +4,24 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 15:50:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 17:08:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[J]]></title>
-            <link>https://www.vlive.tv/video/274326</link>
-            <guid>https://www.vlive.tv/video/274326</guid>
-            <pubDate>Mon, 10 Jan 2022 15:48:22 GMT</pubDate>
-            <content:encoded><![CDATA[WINNER]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/274326/thumb?type=f228_128" length="0" type="image//live/274326/thumb"/>
+            <title><![CDATA[Short]]></title>
+            <link>https://www.vlive.tv/video/274328</link>
+            <guid>https://www.vlive.tv/video/274328</guid>
+            <pubDate>Mon, 10 Jan 2022 17:06:27 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220111_166/1641834114517K6Dyw_JPEG/1547096314518358514925b810-9bab-49b3-90cb-b4455ff701e4.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LAST MONDAY 💛🐝🙌🏻]]></title>
+            <link>https://www.vlive.tv/video/274327</link>
+            <guid>https://www.vlive.tv/video/274327</guid>
+            <pubDate>Mon, 10 Jan 2022 17:06:27 GMT</pubDate>
+            <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/274327/thumb?type=f228_128" length="0" type="image//live/274327/thumb"/>
         </item>
         <item>
             <title><![CDATA[민수방방송]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 10 Jan 2022 13:45:34 GMT</pubDate>
             <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220110_19/1641812388105iLVe7_JPEG/upload_580819705243640460895f0e2-4e20-4f85-ab62-de89ce0cb656.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[💜 오늘의 주인공 강쥐대장 💜]]></title>
-            <link>https://www.vlive.tv/video/274314</link>
-            <guid>https://www.vlive.tv/video/274314</guid>
-            <pubDate>Mon, 10 Jan 2022 13:04:43 GMT</pubDate>
-            <content:encoded><![CDATA[ONEUS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220110_147/1641816310974r6RkV_JPEG/1546046819637879960a9752e0-2d66-449f-81a0-41567e5873d5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
