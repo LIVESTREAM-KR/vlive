@@ -4,7 +4,7 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 17:52:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 18:52:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,15 @@
             <guid>https://www.vlive.tv/video/274327</guid>
             <pubDate>Mon, 10 Jan 2022 17:06:18 GMT</pubDate>
             <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220111_255/1641838156738QBHkz_JPEG/e7f34aa0-723f-11ec-8f60-505dac8c37f3_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Short]]></title>
+            <link>https://www.vlive.tv/video/274328</link>
+            <guid>https://www.vlive.tv/video/274328</guid>
+            <pubDate>Mon, 10 Jan 2022 18:50:06 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220111_166/1641834114517K6Dyw_JPEG/1547096314518358514925b810-9bab-49b3-90cb-b4455ff701e4.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[민수방방송]]></title>
@@ -397,14 +406,6 @@
             <pubDate>Mon, 10 Jan 2022 08:48:53 GMT</pubDate>
             <content:encoded><![CDATA[싸이퍼(Ciipher)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220110_200/1641808708979nk32J_JPEG/e5720413-71fa-11ec-b908-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LIVE] 형주니]]></title>
-            <link>https://www.vlive.tv/video/274278</link>
-            <guid>https://www.vlive.tv/video/274278</guid>
-            <pubDate>Mon, 10 Jan 2022 17:49:48 GMT</pubDate>
-            <content:encoded><![CDATA[CRAVITY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220110_67/1641806466030gxx6T_JPEG/47af58ba-71f6-11ec-bf61-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

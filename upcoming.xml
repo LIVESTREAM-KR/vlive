@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 17:52:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 18:52:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -664,20 +664,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220111_66/1641827583209CDWMj_JPEG/7ca3dc8e-7226-11ec-b908-48df37ae3fca_06.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[LAST MONDAY 💛🐝🙌🏻]]></title>
-            <link>https://www.vlive.tv/video/274327</link>
-            <guid>https://www.vlive.tv/video/274327</guid>
-            <pubDate>Mon, 10 Jan 2022 17:07:21 GMT</pubDate>
-            <content:encoded><![CDATA[오후 4:56]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/274327/thumb?type=f228_128" length="0" type="image//live/274327/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[Short]]></title>
             <link>https://www.vlive.tv/video/274328</link>
             <guid>https://www.vlive.tv/video/274328</guid>
             <pubDate>Mon, 10 Jan 2022 17:07:21 GMT</pubDate>
             <content:encoded><![CDATA[오후 5:49]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220111_166/1641834114517K6Dyw_JPEG/1547096314518358514925b810-9bab-49b3-90cb-b4455ff701e4.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LAST MONDAY 💛🐝🙌🏻]]></title>
+            <link>https://www.vlive.tv/video/274327</link>
+            <guid>https://www.vlive.tv/video/274327</guid>
+            <pubDate>Mon, 10 Jan 2022 17:07:21 GMT</pubDate>
+            <content:encoded><![CDATA[오후 6:09]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220111_255/1641838156738QBHkz_JPEG/e7f34aa0-723f-11ec-8f60-505dac8c37f3_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
