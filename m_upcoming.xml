@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 09:47:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 10:48:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220105_267/1641348512221ecnvn_JPEG/upload_576180883034311129ca63e07-9487-4e9e-85c6-45fbd3a6ad89.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oh My K-POP with Samuel Seo 서사무엘]]></title>
+            <link>https://m.vlive.tv/video/273814</link>
+            <guid>https://m.vlive.tv/video/273814</guid>
+            <pubDate>Mon, 10 Jan 2022 10:47:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220105_142/1641348230331k21xV_JPEG/upload_854279319714845779b519218-5969-42af-8151-ad72fc082f3c.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
