@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 13:06:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 13:47:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[두번째 월요일!]]></title>
+            <link>https://www.vlive.tv/video/274309</link>
+            <guid>https://www.vlive.tv/video/274309</guid>
+            <pubDate>Mon, 10 Jan 2022 13:45:34 GMT</pubDate>
+            <content:encoded><![CDATA[잔나비 JANNABI]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220110_186/1641814627372HgGtV_JPEG/15469020935769671907ec084c-1ddf-482b-ba15-bcabfea33a82.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / AVOKID 에이보키드)]]></title>
+            <link>https://www.vlive.tv/video/274301</link>
+            <guid>https://www.vlive.tv/video/274301</guid>
+            <pubDate>Mon, 10 Jan 2022 13:45:34 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220110_19/1641812388105iLVe7_JPEG/upload_580819705243640460895f0e2-4e20-4f85-ab62-de89ce0cb656.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[💜 오늘의 주인공 강쥐대장 💜]]></title>
             <link>https://www.vlive.tv/video/274314</link>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 10 Jan 2022 11:39:51 GMT</pubDate>
             <content:encoded><![CDATA[MustB]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220110_169/1641813246985Hskfk_JPEG/154688775961132703021711e7-53e1-4951-bc02-2e89a33bf254.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LIVE] SIMPLY K-POP CON-TOUR (📍Spain)]]></title>
-            <link>https://www.vlive.tv/video/274071</link>
-            <guid>https://www.vlive.tv/video/274071</guid>
-            <pubDate>Mon, 10 Jan 2022 13:04:43 GMT</pubDate>
-            <content:encoded><![CDATA[ARIRANG K Pop │ 아리랑케이팝]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220110_170/1641774812769Q7njp_PNG/upload_58044379556521894d03475b5-d0c8-4e0e-ae2f-96f29f785724.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Marvelous - MIRAE 3rd Mini Album | ALBUM SPOILER]]></title>
-            <link>https://www.vlive.tv/video/274302</link>
-            <guid>https://www.vlive.tv/video/274302</guid>
-            <pubDate>Mon, 10 Jan 2022 13:04:43 GMT</pubDate>
-            <content:encoded><![CDATA[미래소년 (MIRAE)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220110_99/16418124283205Ll99_JPEG/upload_858921463432818054d2e14f3-13f0-4c0f-9f11-bf19aa8ae87e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

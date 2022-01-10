@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 13:06:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 13:47:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -448,22 +448,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220110_145/164181408536838A0W_JPEG/2bf4e56c-7207-11ec-846d-246e963a464c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[두번째 월요일!]]></title>
-            <link>https://www.vlive.tv/video/274309</link>
-            <guid>https://www.vlive.tv/video/274309</guid>
-            <pubDate>Mon, 10 Jan 2022 11:40:46 GMT</pubDate>
-            <content:encoded><![CDATA[오전 11:37]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220110_186/1641814627372HgGtV_JPEG/15469020935769671907ec084c-1ddf-482b-ba15-bcabfea33a82.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[권정열 고영배의 십란한 밤 #229]]></title>
-            <link>https://www.vlive.tv/video/274311</link>
-            <guid>https://www.vlive.tv/video/274311</guid>
-            <pubDate>Mon, 10 Jan 2022 13:05:32 GMT</pubDate>
-            <content:encoded><![CDATA[오전 11:53]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220110_137/1641814915802GmaLM_PNG/upload_858945849430971883b151da6-c129-4a0f-80df-92946a6174bf.png?type=f228_128" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[TO DO X TOMORROW X TOGETHER - EP.66]]></title>
             <link>https://www.vlive.tv/video/273670</link>
             <guid>https://www.vlive.tv/video/273670</guid>
@@ -606,6 +590,14 @@
             <pubDate>Mon, 10 Jan 2022 11:40:46 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:04]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220110_19/1641812388105iLVe7_JPEG/upload_580819705243640460895f0e2-4e20-4f85-ab62-de89ce0cb656.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[두번째 월요일!]]></title>
+            <link>https://www.vlive.tv/video/274309</link>
+            <guid>https://www.vlive.tv/video/274309</guid>
+            <pubDate>Mon, 10 Jan 2022 11:40:46 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:27]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220110_186/1641814627372HgGtV_JPEG/15469020935769671907ec084c-1ddf-482b-ba15-bcabfea33a82.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
