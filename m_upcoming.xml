@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 08:51:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 09:47:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,16 @@
 										오전 4:00</span>
 										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220107_210/1641541159648lYGoR_PNG/upload_85620850406917877a1331256-d3d5-433f-92b5-d6fdc1b5d76c.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[Music Access] Pop&Going wih Fatou 파투 & Won Jun 원준]]></title>
+            <link>https://m.vlive.tv/video/273817</link>
+            <guid>https://m.vlive.tv/video/273817</guid>
+            <pubDate>Mon, 10 Jan 2022 09:46:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220105_267/1641348512221ecnvn_JPEG/upload_576180883034311129ca63e07-9487-4e9e-85c6-45fbd3a6ad89.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
