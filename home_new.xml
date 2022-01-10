@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 05:43:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 06:54:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 10 Jan 2022 05:41:48 GMT</pubDate>
             <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220110_124/16417909876218bwRs_JPEG/1545793789777879049b3b560b-90fe-48a6-bd0b-772bfa506c57.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오정연(Oh Jung Yeon)·서정희(Seo Jeong Hee)] '불후의 명곡 많이 기대해주세요']]></title>
+            <link>https://www.vlive.tv/video/274261</link>
+            <guid>https://www.vlive.tv/video/274261</guid>
+            <pubDate>Mon, 10 Jan 2022 06:52:17 GMT</pubDate>
+            <content:encoded><![CDATA[mydaily]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220110_58/1641794320126rKgy1_JPEG/d550b1e1-71d9-11ec-a831-48df379cca40_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Arirang Radio (Music Access / woo!ah! 우아!)]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 10 Jan 2022 02:59:06 GMT</pubDate>
             <content:encoded><![CDATA[넷플릭스 (Netflixkr)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220110_134/1641779670808N6xxR_JPEG/upload_5804925820979040014a42f3b-d27b-4a67-bb15-0d43e8a7e23e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] [Ep2] 연기 꽤 하는 배우들끼리 연기 대결?! (배두나vs공유) | 고요의바다]]></title>
-            <link>https://www.vlive.tv/video/274246</link>
-            <guid>https://www.vlive.tv/video/274246</guid>
-            <pubDate>Mon, 10 Jan 2022 02:59:06 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 (Netflixkr)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220110_5/1641779559704jm1dF_JPEG/upload_85859250710932584bb870c3c-6dcf-4eca-adb4-7bf9457d46bf.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

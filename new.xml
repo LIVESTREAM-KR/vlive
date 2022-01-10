@@ -4,7 +4,7 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 05:43:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 06:54:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 10 Jan 2022 05:41:38 GMT</pubDate>
             <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220110_124/16417909876218bwRs_JPEG/1545793789777879049b3b560b-90fe-48a6-bd0b-772bfa506c57.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오정연(Oh Jung Yeon)·서정희(Seo Jeong Hee)] '불후의 명곡 많이 기대해주세요']]></title>
+            <link>https://www.vlive.tv/video/274261</link>
+            <guid>https://www.vlive.tv/video/274261</guid>
+            <pubDate>Mon, 10 Jan 2022 06:52:08 GMT</pubDate>
+            <content:encoded><![CDATA[mydaily]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220110_58/1641794320126rKgy1_JPEG/d550b1e1-71d9-11ec-a831-48df379cca40_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Arirang Radio (Music Access / woo!ah! 우아!)]]></title>
@@ -398,14 +406,6 @@
             <pubDate>Sun, 09 Jan 2022 13:02:18 GMT</pubDate>
             <content:encoded><![CDATA[미래소년 (MIRAE)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220108_98/1641634518177yt2RT_JPEG/upload_57904122033766591e0b82342-c296-471f-83e4-ff5be1d26f1a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[💜VERIVERY 3rd birthday🤍]]></title>
-            <link>https://www.vlive.tv/video/274205</link>
-            <guid>https://www.vlive.tv/video/274205</guid>
-            <pubDate>Sun, 09 Jan 2022 10:44:33 GMT</pubDate>
-            <content:encoded><![CDATA[VERIVERY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220109_12/16417289435215s36t_JPEG/197b8154-7141-11ec-9576-48df379ccacc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
