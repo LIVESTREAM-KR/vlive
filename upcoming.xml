@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 17:07:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 17:52:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -584,14 +584,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220112_223/1641916582179YaSDK_PNG/upload_581861165738787441d4845a5-f5a8-43c9-80aa-e813460925d7.png?type=f228_128" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[LAST TUESDAY 💛🐝🙌🏻]]></title>
-            <link>https://www.vlive.tv/video/274405</link>
-            <guid>https://www.vlive.tv/video/274405</guid>
-            <pubDate>Tue, 11 Jan 2022 17:06:43 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:56]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/274405/thumb?type=f228_128" length="0" type="image//live/274405/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[1주년 축하해💕]]></title>
             <link>https://www.vlive.tv/video/274395</link>
             <guid>https://www.vlive.tv/video/274395</guid>
@@ -606,6 +598,22 @@
             <pubDate>Tue, 11 Jan 2022 14:42:35 GMT</pubDate>
             <content:encoded><![CDATA[오후 4:14]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220112_180/1641917692906iXHA8_JPEG/9f92cf68-72f7-11ec-8e85-48df379ccacc_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LAST TUESDAY 💛🐝🙌🏻]]></title>
+            <link>https://www.vlive.tv/video/274405</link>
+            <guid>https://www.vlive.tv/video/274405</guid>
+            <pubDate>Tue, 11 Jan 2022 17:06:43 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:12]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220112_188/1641921134417DvHsP_JPEG/1b437593-7301-11ec-b11b-246e963a464c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Live is Yours (@marxh12)]]></title>
+            <link>https://www.vlive.tv/video/274406</link>
+            <guid>https://www.vlive.tv/video/274406</guid>
+            <pubDate>Tue, 11 Jan 2022 17:51:01 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:44]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220112_237/1641923071201jFisu_JPEG/cbaac5be-7305-11ec-bd70-505dac8c38f5_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
