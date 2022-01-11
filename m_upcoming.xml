@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 06:55:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 07:43:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Oh My K-POP with Samuel Seo 서사무엘 #ParkBoRam #박보람]]></title>
-            <link>https://m.vlive.tv/video/273814</link>
-            <guid>https://m.vlive.tv/video/273814</guid>
-            <pubDate>Mon, 10 Jan 2022 10:47:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220111_262/1641879839726oy1EG_JPEG/upload_854279319714845779b519218-5969-42af-8151-ad72fc082f3c.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[🐣빌리랑 생일 파티 할 사람🐣]]></title>
             <link>https://m.vlive.tv/video/274334</link>
@@ -96,6 +86,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220105_212/1641348358766b2XWJ_JPEG/upload_85428030008032027a9e93cff-cf2c-446b-81c5-be0fd192133a.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / Jang HeeWon 장희원)]]></title>
+            <link>https://m.vlive.tv/video/274063</link>
+            <guid>https://m.vlive.tv/video/274063</guid>
+            <pubDate>Tue, 11 Jan 2022 07:42:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220109_298/1641722304396ylUdb_JPEG/upload_856204606498714834c1224c6-216e-4c34-92a0-f6f2ae93d59f.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
