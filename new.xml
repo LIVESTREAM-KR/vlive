@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 21:44:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 22:46:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[굿모닝]]></title>
+            <link>https://www.vlive.tv/video/274407</link>
+            <guid>https://www.vlive.tv/video/274407</guid>
+            <pubDate>Tue, 11 Jan 2022 22:43:50 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220112_101/1641939566516oNm7x_JPEG/689c6d0c-732c-11ec-abae-a0369ff94f34_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Live is Yours (@marxh12)]]></title>
             <link>https://www.vlive.tv/video/274406</link>
@@ -398,14 +406,6 @@
             <pubDate>Tue, 11 Jan 2022 07:41:03 GMT</pubDate>
             <content:encoded><![CDATA[BOTOPASS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220111_243/1641884317830IUUbQ_JPEG/154759835818998862d9c4a3da-99fe-41eb-be3a-ff9cb8800bab.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OMEGA X(오메가엑스) l 재한 & 정훈 - 인형 (Original Song by. 이지훈, 신혜성)]]></title>
-            <link>https://www.vlive.tv/video/274370</link>
-            <guid>https://www.vlive.tv/video/274370</guid>
-            <pubDate>Tue, 11 Jan 2022 08:47:39 GMT</pubDate>
-            <content:encoded><![CDATA[OMEGA X (오메가엑스)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220111_203/1641888538312swajJ_JPEG/upload_58158136420837781c97f2ac4-8fd0-4d2f-b832-76f72c8971d0.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
