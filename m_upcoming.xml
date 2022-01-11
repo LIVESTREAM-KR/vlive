@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 14:43:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 15:50:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -68,6 +68,16 @@
             <enclosure url="https://v-phinf.pstatic.net/20220110_264/1641779408626yIahl_JPEG/upload_580490156942712674b457f61-ea21-4359-928b-6a11a59bef40.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[혜빈이의 생일을 축하합니다🎂]]></title>
+            <link>https://m.vlive.tv/video/274404</link>
+            <guid>https://m.vlive.tv/video/274404</guid>
+            <pubDate>Tue, 11 Jan 2022 15:49:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">MOMOLAND</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220112_233/1641915003632zKkGv_JPEG/upload_859940775593413331aed541f-b920-46d2-aa04-398fe2bf50e5.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
             <link>https://m.vlive.tv/video/273803</link>
             <guid>https://m.vlive.tv/video/273803</guid>
@@ -76,16 +86,6 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220105_142/1641347906256atkcR_JPEG/upload_8542761186833703377a6edfd-36c6-418d-bd10-f7f1a0252db3.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
-            <link>https://m.vlive.tv/video/273809</link>
-            <guid>https://m.vlive.tv/video/273809</guid>
-            <pubDate>Tue, 11 Jan 2022 13:45:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 2:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220105_127/1641348088894kQo2A_JPEG/upload_85427795079936496c853b95c-8ee4-41d0-b9ce-94894237f9c5.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
