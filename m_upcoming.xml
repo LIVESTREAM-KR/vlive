@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 03:48:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 04:56:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[ASC Live Ep.505 (ONEWE / 원위)]]></title>
-            <link>https://m.vlive.tv/video/274064</link>
-            <guid>https://m.vlive.tv/video/274064</guid>
-            <pubDate>Mon, 10 Jan 2022 07:42:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 4:00</span>
-										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220107_210/1641541159648lYGoR_PNG/upload_85620850406917877a1331256-d3d5-433f-92b5-d6fdc1b5d76c.png?type=f274_154" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[Music Access] Pop&Going wih Fatou 파투 & Won Jun 원준]]></title>
-            <link>https://m.vlive.tv/video/273817</link>
-            <guid>https://m.vlive.tv/video/273817</guid>
-            <pubDate>Mon, 10 Jan 2022 09:46:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220105_267/1641348512221ecnvn_JPEG/upload_576180883034311129ca63e07-9487-4e9e-85c6-45fbd3a6ad89.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Oh My K-POP with Samuel Seo 서사무엘]]></title>
             <link>https://m.vlive.tv/video/273814</link>
@@ -106,6 +86,26 @@
 										오전 4:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220107_29/1641521000216Xx5JO_JPEG/upload_856006950562913574d168d6a-cc0b-4dfb-8d57-f38a41c5be79.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Music Access] MA MVP with DANN of KINGDOM 킹덤 단]]></title>
+            <link>https://m.vlive.tv/video/273816</link>
+            <guid>https://m.vlive.tv/video/273816</guid>
+            <pubDate>Tue, 11 Jan 2022 04:55:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220105_212/1641348358766b2XWJ_JPEG/upload_85428030008032027a9e93cff-cf2c-446b-81c5-be0fd192133a.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / Jang HeeWon 장희원)]]></title>
+            <link>https://m.vlive.tv/video/274063</link>
+            <guid>https://m.vlive.tv/video/274063</guid>
+            <pubDate>Tue, 11 Jan 2022 04:55:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220109_298/1641722304396ylUdb_JPEG/upload_856204606498714834c1224c6-216e-4c34-92a0-f6f2ae93d59f.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
