@@ -4,17 +4,9 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jan 2022 22:46:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 23:46:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from V]]></title>
-            <link>https://www.vlive.tv/video/274236</link>
-            <guid>https://www.vlive.tv/video/274236</guid>
-            <pubDate>Tue, 11 Jan 2022 17:06:12 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220110_178/1641774657405mNMzG_JPEG/upload_58044020055841614a956567e-911a-41dd-ab03-046c2969262b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Quarantine...]]></title>
             <link>https://www.vlive.tv/video/274400</link>
@@ -22,6 +14,14 @@
             <pubDate>Tue, 11 Jan 2022 15:48:36 GMT</pubDate>
             <content:encoded><![CDATA[BamBam]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220111_234/1641912285501O4mR8_JPEG/bc4bae09-72eb-11ec-8fb9-48df379cc9e4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from V]]></title>
+            <link>https://www.vlive.tv/video/274236</link>
+            <guid>https://www.vlive.tv/video/274236</guid>
+            <pubDate>Tue, 11 Jan 2022 17:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220110_178/1641774657405mNMzG_JPEG/upload_58044020055841614a956567e-911a-41dd-ab03-046c2969262b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ARTIST-MADE COLLECTION 'SHOW' BY BTS - V]]></title>
