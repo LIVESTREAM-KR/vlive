@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 01:50:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 03:01:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
-            <link>https://m.vlive.tv/video/273808</link>
-            <guid>https://m.vlive.tv/video/273808</guid>
-            <pubDate>Mon, 10 Jan 2022 15:49:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 2:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220105_258/164134806816322taD_JPEG/upload_8542777719910734833381daa-bef6-4de1-9bcc-a3d829a7163d.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio/K-Poppin'] Firefighter Lee Dae Keun 소방관 이대근]]></title>
             <link>https://m.vlive.tv/video/274029</link>
@@ -76,6 +66,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220105_142/1641347906256atkcR_JPEG/upload_8542761186833703377a6edfd-36c6-418d-bd10-f7f1a0252db3.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
+            <link>https://m.vlive.tv/video/273809</link>
+            <guid>https://m.vlive.tv/video/273809</guid>
+            <pubDate>Wed, 12 Jan 2022 03:00:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 2:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220105_127/1641348088894kQo2A_JPEG/upload_85427795079936496c853b95c-8ee4-41d0-b9ce-94894237f9c5.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

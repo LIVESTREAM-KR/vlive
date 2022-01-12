@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 01:50:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 03:01:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[hi minimonster]]></title>
+            <link>https://www.vlive.tv/video/274410</link>
+            <guid>https://www.vlive.tv/video/274410</guid>
+            <pubDate>Wed, 12 Jan 2022 02:59:18 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220112_7/1641953357441JvuiI_JPEG/upload_86033043727717211168a592f-58db-4fc9-82a4-db1534e94acf.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthews]]></title>
             <link>https://www.vlive.tv/video/273804</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 11 Jan 2022 13:03:10 GMT</pubDate>
             <content:encoded><![CDATA[EVERGLOW (에버글로우)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220111_190/1641911273008Wz7pt_JPEG/e934a367-72e9-11ec-b282-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Billlie | BE'O (비오) '네가 없는 밤 (Prod. GRAY)' Rap COVER | BY MOONSUA]]></title>
-            <link>https://www.vlive.tv/video/274393</link>
-            <guid>https://www.vlive.tv/video/274393</guid>
-            <pubDate>Tue, 11 Jan 2022 14:41:44 GMT</pubDate>
-            <content:encoded><![CDATA[Billlie 빌리]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220111_7/1641905476779fQktl_JPEG/upload_85985060066188037465c3f71-d2d4-4067-8560-870dbc0ad0a0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

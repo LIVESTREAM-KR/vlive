@@ -4,17 +4,9 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 01:50:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 03:01:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthews]]></title>
-            <link>https://www.vlive.tv/video/273804</link>
-            <guid>https://www.vlive.tv/video/273804</guid>
-            <pubDate>Wed, 12 Jan 2022 01:48:49 GMT</pubDate>
-            <content:encoded><![CDATA[오전 12:50]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220105_142/16413479475180fL5o_JPEG/upload_85427645845857024ccd73991-8549-4645-bb45-f5810fd2f37c.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[REPLAY] 안녕하세요~]]></title>
             <link>https://www.vlive.tv/video/274173</link>
@@ -24,11 +16,27 @@
             <enclosure url="https://v-phinf.pstatic.net/20220109_235/16416851466223WLSz_JPEG/1592f0bb-70dc-11ec-b8bc-246e963a4708_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthews]]></title>
+            <link>https://www.vlive.tv/video/273804</link>
+            <guid>https://www.vlive.tv/video/273804</guid>
+            <pubDate>Wed, 12 Jan 2022 01:48:49 GMT</pubDate>
+            <content:encoded><![CDATA[오전 2:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220105_142/16413479475180fL5o_JPEG/upload_85427645845857024ccd73991-8549-4645-bb45-f5810fd2f37c.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[hi minimonster]]></title>
+            <link>https://www.vlive.tv/video/274410</link>
+            <guid>https://www.vlive.tv/video/274410</guid>
+            <pubDate>Wed, 12 Jan 2022 02:59:58 GMT</pubDate>
+            <content:encoded><![CDATA[오전 2:21]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220112_7/1641953357441JvuiI_JPEG/upload_86033043727717211168a592f-58db-4fc9-82a4-db1534e94acf.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
             <link>https://www.vlive.tv/video/273808</link>
             <guid>https://www.vlive.tv/video/273808</guid>
             <pubDate>Wed, 12 Jan 2022 01:48:49 GMT</pubDate>
-            <content:encoded><![CDATA[오전 2:00]]></content:encoded>
+            <content:encoded><![CDATA[오전 2:59]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220105_258/164134806816322taD_JPEG/upload_8542777719910734833381daa-bef6-4de1-9bcc-a3d829a7163d.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>

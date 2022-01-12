@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 01:50:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 03:01:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[hi minimonster]]></title>
+            <link>https://www.vlive.tv/video/274410</link>
+            <guid>https://www.vlive.tv/video/274410</guid>
+            <pubDate>Wed, 12 Jan 2022 02:59:10 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220112_7/1641953357441JvuiI_JPEG/upload_86033043727717211168a592f-58db-4fc9-82a4-db1534e94acf.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthews]]></title>
             <link>https://www.vlive.tv/video/273804</link>
@@ -261,7 +269,7 @@
             <guid>https://www.vlive.tv/video/274373</guid>
             <pubDate>Tue, 11 Jan 2022 11:39:23 GMT</pubDate>
             <content:encoded><![CDATA[KWON EUN BI]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220111_179/1641889966202fY5wD_JPEG/upload_859696732632282662727b424-6e0a-4cdf-aa4f-50deb98b8306.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220112_128/16419538712439geYo_JPEG/upload_859696732632282662727b424-6e0a-4cdf-aa4f-50deb98b8306.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ONEWE(원위) '너의 우주는 (Universe_)' Band Performance Video]]></title>
@@ -398,14 +406,6 @@
             <pubDate>Tue, 11 Jan 2022 09:45:02 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220111_222/1641867338999ELLPG_JPEG/upload_85946856718416277de4efc10-ca0d-4342-99f4-6ca1e38ad7fe.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[P1Harmony (피원하모니) [DISHARMONY : FIND OUT] SPECIAL CLIP : 6자 토크]]></title>
-            <link>https://www.vlive.tv/video/274296</link>
-            <guid>https://www.vlive.tv/video/274296</guid>
-            <pubDate>Tue, 11 Jan 2022 09:45:02 GMT</pubDate>
-            <content:encoded><![CDATA[P1Harmony]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220110_166/1641809804590WJkXN_JPEG/upload_580794028004835525f955233-5812-416e-a13a-c37bc0b854b1.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
