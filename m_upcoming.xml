@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 20:46:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 21:42:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,16 @@
 										오전 2:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220105_211/1641348112181vP9oP_JPEG/upload_85427830104331850b738b8b3-422f-40e9-bedd-8ca923b7601f.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Simply K-Pop CON-TOUR (심플리케이팝 콘투어) Ep.502]]></title>
+            <link>https://m.vlive.tv/video/274443</link>
+            <guid>https://m.vlive.tv/video/274443</guid>
+            <pubDate>Wed, 12 Jan 2022 21:41:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220112_85/1641975410879TDDR6_PNG/upload_58244991629306439a05e1e5a-a22b-4fff-bc83-71b5f9a15f1c.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
