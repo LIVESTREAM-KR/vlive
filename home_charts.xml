@@ -4,17 +4,9 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 10:48:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 11:42:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[밥밥밥 밥이나 먹자여]]></title>
-            <link>https://www.vlive.tv/video/274378</link>
-            <guid>https://www.vlive.tv/video/274378</guid>
-            <pubDate>Wed, 12 Jan 2022 06:53:22 GMT</pubDate>
-            <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220111_71/1641905317984aBn8t_JPEG/upload_8598503581481772033b285d8-43ba-446e-a12b-615eb3428750.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[밥 먹자🍚]]></title>
             <link>https://www.vlive.tv/video/274440</link>
@@ -38,6 +30,14 @@
             <pubDate>Wed, 12 Jan 2022 09:44:54 GMT</pubDate>
             <content:encoded><![CDATA[BamBam]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220112_53/1641977950310bosBL_JPEG/1fde9cc7-7385-11ec-a810-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밥밥밥 밥이나 먹자여]]></title>
+            <link>https://www.vlive.tv/video/274378</link>
+            <guid>https://www.vlive.tv/video/274378</guid>
+            <pubDate>Wed, 12 Jan 2022 06:53:22 GMT</pubDate>
+            <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220111_71/1641905317984aBn8t_JPEG/upload_8598503581481772033b285d8-43ba-446e-a12b-615eb3428750.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
