@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 07:43:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 08:49:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[I know you guys not sleep yet! don't be shy~ come and see me]]></title>
+            <link>https://www.vlive.tv/video/274442</link>
+            <guid>https://www.vlive.tv/video/274442</guid>
+            <pubDate>Wed, 12 Jan 2022 08:47:48 GMT</pubDate>
+            <content:encoded><![CDATA[BamBam]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/274442/thumb?type=f228_128" length="0" type="image//live/274442/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[밥 먹자🍚]]></title>
+            <link>https://www.vlive.tv/video/274440</link>
+            <guid>https://www.vlive.tv/video/274440</guid>
+            <pubDate>Wed, 12 Jan 2022 08:47:48 GMT</pubDate>
+            <content:encoded><![CDATA[ATEEZ]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/274440/thumb?type=f228_128" length="0" type="image//live/274440/thumb"/>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Music Access] MA MVP with DANN of KINGDOM 킹덤 단]]></title>
             <link>https://www.vlive.tv/video/273816</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 12 Jan 2022 05:41:36 GMT</pubDate>
             <content:encoded><![CDATA[T1419]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220111_263/1641884990166qsAeF_JPEG/upload_859645905092803056084ca27-1cd8-402d-adf6-98fcfdb96b5d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ENHYPEN COMEBACK LIVE : ANSWER with 박제이쇼]]></title>
-            <link>https://www.vlive.tv/video/273450</link>
-            <guid>https://www.vlive.tv/video/273450</guid>
-            <pubDate>Wed, 12 Jan 2022 05:41:36 GMT</pubDate>
-            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211231_61/16409282022731zvRF_PNG/upload_85007923626163557a9fd2d34-6e66-4356-8138-dd22cdd7c437.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[선공개] 친절한 아저씨의 비밀! 멩겔레가 임신부였던 수감자를 살려준 진짜 이유는?!, MBC 220112 방송]]></title>
-            <link>https://www.vlive.tv/video/274418</link>
-            <guid>https://www.vlive.tv/video/274418</guid>
-            <pubDate>Wed, 12 Jan 2022 04:54:59 GMT</pubDate>
-            <content:encoded><![CDATA[MBC 예능]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220112_18/1641962456520wUAEp_JPEG/upload_86042174730422137908b9960-9bf5-49e8-8aac-83282a051cf2.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
