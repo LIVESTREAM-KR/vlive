@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 08:49:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 09:47:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,6 +36,26 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220105_142/1641347906256atkcR_JPEG/upload_8542761186833703377a6edfd-36c6-418d-bd10-f7f1a0252db3.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
+            <link>https://m.vlive.tv/video/273809</link>
+            <guid>https://m.vlive.tv/video/273809</guid>
+            <pubDate>Wed, 12 Jan 2022 09:45:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 2:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220105_127/1641348088894kQo2A_JPEG/upload_85427795079936496c853b95c-8ee4-41d0-b9ce-94894237f9c5.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Music Access] TMB(Text Me Back) with JUNNY(주니)]]></title>
+            <link>https://m.vlive.tv/video/273815</link>
+            <guid>https://m.vlive.tv/video/273815</guid>
+            <pubDate>Wed, 12 Jan 2022 09:45:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220105_215/164134827501424QeB_JPEG/upload_85427986902400277446a7c26-5cc6-4ceb-afcc-edac2455938a.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
