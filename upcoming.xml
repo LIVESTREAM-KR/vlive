@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 17:08:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 17:52:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -744,14 +744,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220113_217/164208009364653dwA_JPEG/154955709636378872811c1a5b-bc97-4797-85b1-696bd38f55a0.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[20220114 혜소통통💛마라탕타라 탕탕탕]]></title>
-            <link>https://www.vlive.tv/video/274628</link>
-            <guid>https://www.vlive.tv/video/274628</guid>
-            <pubDate>Thu, 13 Jan 2022 17:07:30 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:52]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/274628/thumb?type=f228_128" length="0" type="image//live/274628/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[[Radio Hama] 심야 라디오 불면증 치료 시작합니다~]]></title>
             <link>https://www.vlive.tv/video/274615</link>
             <guid>https://www.vlive.tv/video/274615</guid>
@@ -766,6 +758,14 @@
             <pubDate>Thu, 13 Jan 2022 17:07:30 GMT</pubDate>
             <content:encoded><![CDATA[오후 4:54]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220114_43/1642090184312lDik4_JPEG/154878563483080338e9efccb4-0f63-4eed-8c68-28f420c6d618.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[20220114 혜소통통💛마라탕타라 탕탕탕]]></title>
+            <link>https://www.vlive.tv/video/274628</link>
+            <guid>https://www.vlive.tv/video/274628</guid>
+            <pubDate>Thu, 13 Jan 2022 17:07:30 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:23]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220114_189/1642094624036W6XV3_JPEG/6e22836f-7494-11ec-9c62-505dac8c381b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
