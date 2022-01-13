@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 10:47:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 11:41:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Sound K / SIM2 심투)]]></title>
-            <link>https://m.vlive.tv/video/273991</link>
-            <guid>https://m.vlive.tv/video/273991</guid>
-            <pubDate>Wed, 12 Jan 2022 10:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220106_5/1641465101886w8xYi_JPEG/upload_577346618794801721abaa60e-9a0d-4c0c-8d54-9d37e5c53300.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
             <link>https://m.vlive.tv/video/273802</link>
@@ -66,6 +56,26 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220105_297/16413481500054m0D8_JPEG/upload_576177404770961346c5ebfd9-1c2d-4732-9359-24a4f1a3a83e.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🎉JO YURI SOLO DEBUT 100 DAYS🎉]]></title>
+            <link>https://m.vlive.tv/video/274593</link>
+            <guid>https://m.vlive.tv/video/274593</guid>
+            <pubDate>Thu, 13 Jan 2022 11:40:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">조유리 JO YURI</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220113_65/1642070448218UgnyV_PNG/upload_86150131623338165d036d70f-5f33-4e8b-81d2-51d213dd1697.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[규진이의, 밤이라서 하는 말🌙 시즌3 <11화>]]></title>
+            <link>https://m.vlive.tv/video/274601</link>
+            <guid>https://m.vlive.tv/video/274601</guid>
+            <pubDate>Thu, 13 Jan 2022 11:40:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">UP10TION</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220113_221/1642071714614JPfS8_JPEG/upload_861514127683183688bca8b0b-734b-428f-a097-2fc1e506ba98.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
