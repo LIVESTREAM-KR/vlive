@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ CHARTS TOP3</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 14:43:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 15:49:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,15 +13,7 @@
             <guid>https://www.vlive.tv/video/274616</guid>
             <pubDate>Thu, 13 Jan 2022 14:41:34 GMT</pubDate>
             <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220113_217/1642083282108fVlzf_JPEG/27ff561b-747a-11ec-b11b-246e963a464c_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from SUGA]]></title>
-            <link>https://www.vlive.tv/video/274337</link>
-            <guid>https://www.vlive.tv/video/274337</guid>
-            <pubDate>Wed, 12 Jan 2022 06:53:13 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220111_265/1641868124947CTjBp_JPEG/upload_8594768694306398698844997-f9c0-43a5-aca2-30845c1d0b9e.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220113_146/1642085301827vDpWG_JPEG/upload_86165007884943531b8271d34-96f1-4f00-ab21-0f885f0e97be.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[.]]></title>
@@ -30,6 +22,14 @@
             <pubDate>Thu, 13 Jan 2022 13:04:42 GMT</pubDate>
             <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220113_266/1642075975025C3kXS_JPEG/64373364-7469-11ec-8fb9-48df379cc9e4_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from SUGA]]></title>
+            <link>https://www.vlive.tv/video/274337</link>
+            <guid>https://www.vlive.tv/video/274337</guid>
+            <pubDate>Wed, 12 Jan 2022 06:53:13 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220111_265/1641868124947CTjBp_JPEG/upload_8594768694306398698844997-f9c0-43a5-aca2-30845c1d0b9e.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
