@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 03:01:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 03:48:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[hi minimonster]]></title>
-            <link>https://m.vlive.tv/video/274639</link>
-            <guid>https://m.vlive.tv/video/274639</guid>
-            <pubDate>Fri, 14 Jan 2022 03:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 3:00</span>
-										<span class="txt">sema</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220114_58/1642127207230S1GWk_JPEG/upload_862068532794843971c68a57c-fd3b-4c65-92a8-32c151990e90.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Simply K-Pop CON-TOUR (심플리케이팝 콘투어) Ep.502]]></title>
             <link>https://m.vlive.tv/video/274443</link>
@@ -66,6 +56,16 @@
 										오전 11:00</span>
 										<span class="txt">UP10TION</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220113_221/1642071714614JPfS8_JPEG/upload_861514127683183688bca8b0b-734b-428f-a097-2fc1e506ba98.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[드림캐쳐] 데뷔 5주년 기념 V LIVE🎂]]></title>
+            <link>https://m.vlive.tv/video/274282</link>
+            <guid>https://m.vlive.tv/video/274282</guid>
+            <pubDate>Fri, 14 Jan 2022 03:47:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 8:00</span>
+										<span class="txt">DREAMCATCHER</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220110_143/1641806023935cY4sd_JPEG/upload_858856958604677012c7b1a2a-32fa-4bf2-a0ba-7758e50994e9.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
