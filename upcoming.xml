@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 15:50:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 17:06:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -397,7 +397,7 @@
             <guid>https://www.vlive.tv/video/274689</guid>
             <pubDate>Fri, 14 Jan 2022 09:45:51 GMT</pubDate>
             <content:encoded><![CDATA[오전 9:00]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220114_188/1642150357197wG5MP_JPEG/upload_58419956646028718fb79384e-424c-4702-81fc-684080fd5449.jpg?type=f228_128" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220115_166/1642177563505Du7G0_JPEG/upload_58419956646028718fb79384e-424c-4702-81fc-684080fd5449.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TWICE REALITY “TIME TO TWICE” TWICE New Year 2022 EP.02]]></title>
@@ -784,14 +784,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220114_137/1642169450972G82uG_JPEG/155045114955906177bc1e405d-e479-47ab-b783-84929cea784d.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[자기전 샤랑 수다❤️]]></title>
-            <link>https://www.vlive.tv/video/274742</link>
-            <guid>https://www.vlive.tv/video/274742</guid>
-            <pubDate>Fri, 14 Jan 2022 15:48:45 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:08]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/274742/thumb?type=f228_128" length="0" type="image//live/274742/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[[vav]stvan 금요일 🔥]]></title>
             <link>https://www.vlive.tv/video/274729</link>
             <guid>https://www.vlive.tv/video/274729</guid>
@@ -806,6 +798,30 @@
             <pubDate>Fri, 14 Jan 2022 15:48:45 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:46]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220115_88/1642175196597G7Ogh_JPEG/73b4e0ab-7550-11ec-bf63-505dac8c3721_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[조하]심야 라이브~]]></title>
+            <link>https://www.vlive.tv/video/274745</link>
+            <guid>https://www.vlive.tv/video/274745</guid>
+            <pubDate>Fri, 14 Jan 2022 17:05:35 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:03]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/274745/thumb?type=f228_128" length="0" type="image//live/274745/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[자기전 샤랑 수다❤️]]></title>
+            <link>https://www.vlive.tv/video/274742</link>
+            <guid>https://www.vlive.tv/video/274742</guid>
+            <pubDate>Fri, 14 Jan 2022 15:48:45 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:24]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220115_276/1642177458155KCOR5_JPEG/e53ddf36-7555-11ec-bf63-505dac8c3721_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엥 다시옴!]]></title>
+            <link>https://www.vlive.tv/video/274746</link>
+            <guid>https://www.vlive.tv/video/274746</guid>
+            <pubDate>Fri, 14 Jan 2022 17:05:35 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:03]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220115_274/16421798140512f00f_JPEG/9f8ffd0a-755b-11ec-b11b-246e963a464c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
