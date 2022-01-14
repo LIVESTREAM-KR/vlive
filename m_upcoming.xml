@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 10:47:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 11:41:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[🎉JO YURI SOLO DEBUT 100 DAYS🎉]]></title>
-            <link>https://m.vlive.tv/video/274593</link>
-            <guid>https://m.vlive.tv/video/274593</guid>
-            <pubDate>Thu, 13 Jan 2022 11:40:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">조유리 JO YURI</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220113_65/1642070448218UgnyV_PNG/upload_86150131623338165d036d70f-5f33-4e8b-81d2-51d213dd1697.png?type=f274_154" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[규진이의, 밤이라서 하는 말🌙 시즌3 <11화>]]></title>
-            <link>https://m.vlive.tv/video/274601</link>
-            <guid>https://m.vlive.tv/video/274601</guid>
-            <pubDate>Thu, 13 Jan 2022 11:40:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">UP10TION</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220113_221/1642071714614JPfS8_JPEG/upload_861514127683183688bca8b0b-734b-428f-a097-2fc1e506ba98.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[드림캐쳐] 데뷔 5주년 기념 V LIVE🎂]]></title>
             <link>https://m.vlive.tv/video/274282</link>
@@ -86,6 +66,26 @@
 										오전 11:00</span>
 										<span class="txt">YENA(최예나)</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220112_104/1641961890590iRFmD_JPEG/upload_5823138788141152041d9779c-cbce-4739-9edc-a3f45b9bccd8.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / Grizzly 그리즐리)]]></title>
+            <link>https://m.vlive.tv/video/274594</link>
+            <guid>https://m.vlive.tv/video/274594</guid>
+            <pubDate>Fri, 14 Jan 2022 11:40:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220113_292/1642070521560cPmxe_JPEG/upload_86150214659230536778829d2-5a63-44ad-bfbd-3065ff4a7bec.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DRIPPIN(드리핀) COMEBACK SHOWCASE [Villain]]]></title>
+            <link>https://m.vlive.tv/video/274691</link>
+            <guid>https://m.vlive.tv/video/274691</guid>
+            <pubDate>Fri, 14 Jan 2022 11:40:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">DRIPPIN</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220114_297/1642151742495QTp8i_JPEG/upload_86227636570804428d9267ea6-7870-46df-8a71-64005229d36c.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
