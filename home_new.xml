@@ -4,9 +4,33 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 17:06:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 17:51:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SKZ in Riyadh]]></title>
+            <link>https://www.vlive.tv/video/274750</link>
+            <guid>https://www.vlive.tv/video/274750</guid>
+            <pubDate>Fri, 14 Jan 2022 17:48:51 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/274750/thumb?type=f228_128" length="0" type="image//live/274750/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[🥲]]></title>
+            <link>https://www.vlive.tv/video/274749</link>
+            <guid>https://www.vlive.tv/video/274749</guid>
+            <pubDate>Fri, 14 Jan 2022 17:48:51 GMT</pubDate>
+            <content:encoded><![CDATA[CHUNG HA]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/274749/thumb?type=f228_128" length="0" type="image//live/274749/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[[조하]심야 라이브~]]></title>
+            <link>https://www.vlive.tv/video/274745</link>
+            <guid>https://www.vlive.tv/video/274745</guid>
+            <pubDate>Fri, 14 Jan 2022 17:04:42 GMT</pubDate>
+            <content:encoded><![CDATA[LAM(영화처럼)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220115_201/1642180228186WQSeg_JPEG/5318ae24-755c-11ec-acdf-505dac8c3607_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엥 다시옴!]]></title>
             <link>https://www.vlive.tv/video/274746</link>
@@ -22,14 +46,6 @@
             <pubDate>Fri, 14 Jan 2022 15:47:51 GMT</pubDate>
             <content:encoded><![CDATA[EVERGLOW (에버글로우)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220115_276/1642177458155KCOR5_JPEG/e53ddf36-7555-11ec-bf63-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[조하]심야 라이브~]]></title>
-            <link>https://www.vlive.tv/video/274745</link>
-            <guid>https://www.vlive.tv/video/274745</guid>
-            <pubDate>Fri, 14 Jan 2022 17:04:42 GMT</pubDate>
-            <content:encoded><![CDATA[LAM(영화처럼)]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/274745/thumb?type=f228_128" length="0" type="image//live/274745/thumb"/>
         </item>
         <item>
             <title><![CDATA[야심한 하소하💚]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 14 Jan 2022 14:41:14 GMT</pubDate>
             <content:encoded><![CDATA[VICTON]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220113_292/1642051648442gXT3y_JPEG/upload_8613135685215505534503e3f-e0f1-48a2-ab72-098943613833.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[🎂HAPPY Gaon DAY🎂]]></title>
-            <link>https://www.vlive.tv/video/274727</link>
-            <guid>https://www.vlive.tv/video/274727</guid>
-            <pubDate>Fri, 14 Jan 2022 13:04:04 GMT</pubDate>
-            <content:encoded><![CDATA[Xdinary Heroes]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220114_223/1642168277135rPFCq_JPEG/63ac103d-7540-11ec-99fd-a0369ff94ed0_04.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[선공개] "화장실도 만들어주고 이런 멤버들이 어디 있냐?" 과연 이들의 완성작은?, MBC 220117 방송]]></title>
-            <link>https://www.vlive.tv/video/274731</link>
-            <guid>https://www.vlive.tv/video/274731</guid>
-            <pubDate>Fri, 14 Jan 2022 13:44:41 GMT</pubDate>
-            <content:encoded><![CDATA[MBC 예능]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220114_96/1642167068306L74Cz_JPEG/upload_8624679870540484554441545-0271-4bc4-9942-9b16fbdd6825.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

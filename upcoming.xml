@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 17:06:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 17:51:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -800,14 +800,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220115_88/1642175196597G7Ogh_JPEG/73b4e0ab-7550-11ec-bf63-505dac8c3721_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[조하]심야 라이브~]]></title>
-            <link>https://www.vlive.tv/video/274745</link>
-            <guid>https://www.vlive.tv/video/274745</guid>
-            <pubDate>Fri, 14 Jan 2022 17:05:35 GMT</pubDate>
-            <content:encoded><![CDATA[오후 4:03]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/274745/thumb?type=f228_128" length="0" type="image//live/274745/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[자기전 샤랑 수다❤️]]></title>
             <link>https://www.vlive.tv/video/274742</link>
             <guid>https://www.vlive.tv/video/274742</guid>
@@ -822,6 +814,30 @@
             <pubDate>Fri, 14 Jan 2022 17:05:35 GMT</pubDate>
             <content:encoded><![CDATA[오후 5:03]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220115_274/16421798140512f00f_JPEG/9f8ffd0a-755b-11ec-b11b-246e963a464c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[조하]심야 라이브~]]></title>
+            <link>https://www.vlive.tv/video/274745</link>
+            <guid>https://www.vlive.tv/video/274745</guid>
+            <pubDate>Fri, 14 Jan 2022 17:05:35 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:10]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220115_201/1642180228186WQSeg_JPEG/5318ae24-755c-11ec-acdf-505dac8c3607_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🥲]]></title>
+            <link>https://www.vlive.tv/video/274749</link>
+            <guid>https://www.vlive.tv/video/274749</guid>
+            <pubDate>Fri, 14 Jan 2022 17:49:47 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:44]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/274749/thumb?type=f228_128" length="0" type="image//live/274749/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[SKZ in Riyadh]]></title>
+            <link>https://www.vlive.tv/video/274750</link>
+            <guid>https://www.vlive.tv/video/274750</guid>
+            <pubDate>Fri, 14 Jan 2022 17:49:47 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:44]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/274750/thumb?type=f228_128" length="0" type="image//live/274750/thumb"/>
         </item>
     </channel>
 </rss>
