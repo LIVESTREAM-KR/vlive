@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 09:47:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 10:47:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220112_243/1641980936163TT6vb_JPEG/upload_860605775348240713d0a50d9-8b24-46de-82c5-9b5d7f9198ca.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[YENA 1ST MINI ALBUM [ˣ‿ˣ (SMiLEY)] SHOWCASE]]></title>
+            <link>https://m.vlive.tv/video/274416</link>
+            <guid>https://m.vlive.tv/video/274416</guid>
+            <pubDate>Fri, 14 Jan 2022 10:46:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">YENA(최예나)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220112_104/1641961890590iRFmD_JPEG/upload_5823138788141152041d9779c-cbce-4739-9edc-a3f45b9bccd8.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
