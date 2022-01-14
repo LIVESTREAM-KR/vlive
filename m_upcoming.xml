@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 06:54:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 07:43:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio] Topic Song with Aaron 아론 of W24 and BÉBE YANA]]></title>
-            <link>https://m.vlive.tv/video/273811</link>
-            <guid>https://m.vlive.tv/video/273811</guid>
-            <pubDate>Thu, 13 Jan 2022 10:46:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220105_297/16413481500054m0D8_JPEG/upload_576177404770961346c5ebfd9-1c2d-4732-9359-24a4f1a3a83e.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[🎉JO YURI SOLO DEBUT 100 DAYS🎉]]></title>
             <link>https://m.vlive.tv/video/274593</link>
@@ -66,6 +56,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220113_151/16420551958269nLVo_JPEG/upload_861347567991580277b4dea3a-b9c8-48bd-9ea7-8f76cde81615.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Music Access / P1Harmony 피원하모니)]]></title>
+            <link>https://m.vlive.tv/video/274597</link>
+            <guid>https://m.vlive.tv/video/274597</guid>
+            <pubDate>Fri, 14 Jan 2022 07:41:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220113_211/1642070798233zbans_JPEG/upload_583403555284897903ff87aee-6712-4439-a4f2-80934c77cbe4.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
