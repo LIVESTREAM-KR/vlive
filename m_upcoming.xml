@@ -4,26 +4,16 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 03:48:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 04:57:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Simply K-Pop CON-TOUR (심플리케이팝 콘투어) Ep.502]]></title>
-            <link>https://m.vlive.tv/video/274443</link>
-            <guid>https://m.vlive.tv/video/274443</guid>
-            <pubDate>Wed, 12 Jan 2022 21:41:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 4:00</span>
-										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220113_127/1642058034916ahvsv_PNG/upload_86137761130436777ff373157-13fc-4935-bd28-c620f5ec2de1.png?type=f274_154" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Music Access / SUNGMIN 성민)]]></title>
             <link>https://m.vlive.tv/video/274060</link>
             <guid>https://m.vlive.tv/video/274060</guid>
             <pubDate>Thu, 13 Jan 2022 01:51:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
+										오전 4:54</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220107_285/1641540652126yfUr1_JPEG/upload_85620345396926827114572a9-3c4a-4682-a29b-0c81f5c8a3d6.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
@@ -66,6 +56,16 @@
 										오전 8:00</span>
 										<span class="txt">DREAMCATCHER</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220110_143/1641806023935cY4sd_JPEG/upload_858856958604677012c7b1a2a-32fa-4bf2-a0ba-7758e50994e9.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[💙 CNBLUE 12th Anniversary 💙]]></title>
+            <link>https://m.vlive.tv/video/274340</link>
+            <guid>https://m.vlive.tv/video/274340</guid>
+            <pubDate>Fri, 14 Jan 2022 04:56:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">CNBLUE</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220111_90/1641900818894lilHX_JPEG/upload_5817040341663087292b67cae-d31c-4504-8f3b-f789245473f2.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
