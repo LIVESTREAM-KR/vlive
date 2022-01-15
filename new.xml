@@ -4,9 +4,16 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 17:06:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 17:49:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잠깐..🤍 기웃기웃]]></title>
+            <link>https://www.vlive.tv/video/274793</link>
+            <guid>https://www.vlive.tv/video/274793</guid>
+            <pubDate>Sat, 15 Jan 2022 17:47:58 GMT</pubDate>
+            <content:encoded><![CDATA[VIVIZ (비비지)]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[Muckbang Hama] 심야 라디오도 식후경]]></title>
             <link>https://www.vlive.tv/video/274782</link>
@@ -398,14 +405,6 @@
             <pubDate>Sat, 15 Jan 2022 03:45:52 GMT</pubDate>
             <content:encoded><![CDATA[MBC 예능]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220115_8/1642219194676wRKUS_JPEG/upload_8629729621886504801c5b86f-ad06-4c25-89d6-3dc1ca4445ef.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ENHYPEN (엔하이픈) ‘Blessed-Cursed’ Dance Practice]]></title>
-            <link>https://www.vlive.tv/video/274743</link>
-            <guid>https://www.vlive.tv/video/274743</guid>
-            <pubDate>Sat, 15 Jan 2022 17:04:13 GMT</pubDate>
-            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220115_248/1642174932508IXYdn_JPEG/upload_862546601644191189e9f7f15-1e6c-4693-8c54-352d0db181cb.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
