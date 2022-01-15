@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 07:42:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 08:50:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[드림캐쳐] 데뷔 5주년 기념 V LIVE🎂]]></title>
-            <link>https://m.vlive.tv/video/274282</link>
-            <guid>https://m.vlive.tv/video/274282</guid>
-            <pubDate>Fri, 14 Jan 2022 03:47:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 8:00</span>
-										<span class="txt">DREAMCATCHER</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220110_143/1641806023935cY4sd_JPEG/upload_858856958604677012c7b1a2a-32fa-4bf2-a0ba-7758e50994e9.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[💙 CNBLUE 12th Anniversary 💙]]></title>
             <link>https://m.vlive.tv/video/274340</link>
@@ -86,6 +76,16 @@
 										오전 11:00</span>
 										<span class="txt">DRIPPIN</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220114_297/1642151742495QTp8i_JPEG/upload_86227636570804428d9267ea6-7870-46df-8a71-64005229d36c.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
+            <link>https://m.vlive.tv/video/274537</link>
+            <guid>https://m.vlive.tv/video/274537</guid>
+            <pubDate>Sat, 15 Jan 2022 08:49:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220113_99/16420549751699psHg_JPEG/upload_583245759502126488c04437f-1636-4e64-ac86-2ae54b1f9860.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
