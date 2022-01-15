@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 17:49:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 18:51:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 14 Jan 2022 23:43:58 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220115_212/1642182987289Relgq_JPEG/3368f032-7563-11ec-abae-a0369ff94f34_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[?]]></title>
+            <link>https://www.vlive.tv/video/274794</link>
+            <guid>https://www.vlive.tv/video/274794</guid>
+            <pubDate>Sat, 15 Jan 2022 18:49:39 GMT</pubDate>
+            <content:encoded><![CDATA[TWICE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220116_229/1642269442073UmkVU_JPEG/785aadf9-762c-11ec-8355-246e963a4708_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from SUGA]]></title>
@@ -29,7 +37,7 @@
             <guid>https://www.vlive.tv/video/274784</guid>
             <pubDate>Sat, 15 Jan 2022 14:41:25 GMT</pubDate>
             <content:encoded><![CDATA[MAMAMOO]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220115_285/1642251816215fT5al_JPEG/155127432201856823399659ec-f953-4385-b72a-0c4cfb229e5a.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220115_285/1642251816215fT5al_JPEG/155127432201856823399659ec-f953-4385-b72a-0c4cfb229e5a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[드림캐쳐] 데뷔 5주년 기념 V LIVE🎂]]></title>
@@ -54,14 +62,6 @@
             <pubDate>Sat, 15 Jan 2022 17:04:45 GMT</pubDate>
             <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220115_258/16422451226226eW6u_JPEG/upload_585146942034699474976fc22-bf02-4312-9933-ecb1c784fc3d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ARTIST-MADE COLLECTION 'SHOW' BY BTS - SUGA]]></title>
-            <link>https://www.vlive.tv/video/274336</link>
-            <guid>https://www.vlive.tv/video/274336</guid>
-            <pubDate>Sat, 15 Jan 2022 17:48:30 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220111_222/1641867338999ELLPG_JPEG/upload_85946856718416277de4efc10-ca0d-4342-99f4-6ca1e38ad7fe.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

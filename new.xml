@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 17:49:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 18:51:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[?]]></title>
+            <link>https://www.vlive.tv/video/274794</link>
+            <guid>https://www.vlive.tv/video/274794</guid>
+            <pubDate>Sat, 15 Jan 2022 18:49:04 GMT</pubDate>
+            <content:encoded><![CDATA[TWICE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220116_229/1642269442073UmkVU_JPEG/785aadf9-762c-11ec-8355-246e963a4708_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잠깐..🤍 기웃기웃]]></title>
             <link>https://www.vlive.tv/video/274793</link>
@@ -397,14 +405,6 @@
             <pubDate>Sat, 15 Jan 2022 03:45:52 GMT</pubDate>
             <content:encoded><![CDATA[GHOST9]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220115_56/1642220954695SVHYR_JPEG/16a4b62b-75bb-11ec-8fb9-48df379cc9e4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[선공개] 기리보이 드디어 성사된 초사이언티와의 조우!"잘.지.냈.어..?"🛸, MBC 220115 방송]]></title>
-            <link>https://www.vlive.tv/video/274753</link>
-            <guid>https://www.vlive.tv/video/274753</guid>
-            <pubDate>Sat, 15 Jan 2022 03:45:52 GMT</pubDate>
-            <content:encoded><![CDATA[MBC 예능]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220115_8/1642219194676wRKUS_JPEG/upload_8629729621886504801c5b86f-ad06-4c25-89d6-3dc1ca4445ef.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
