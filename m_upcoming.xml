@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 06:53:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 07:42:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[🎉HBD TO JINHWA🎉 #HAPPYJINHWADAY]]></title>
-            <link>https://m.vlive.tv/video/274741</link>
-            <guid>https://m.vlive.tv/video/274741</guid>
-            <pubDate>Fri, 14 Jan 2022 15:48:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">블리처스(BLITZERS)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220115_141/1642172406347p0luV_JPEG/upload_58441957261062492bdb8096d-d38f-4af1-b2c5-8f7c2785838e.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[드림캐쳐] 데뷔 5주년 기념 V LIVE🎂]]></title>
             <link>https://m.vlive.tv/video/274282</link>
@@ -86,6 +76,16 @@
 										오전 11:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220113_292/1642070521560cPmxe_JPEG/upload_86150214659230536778829d2-5a63-44ad-bfbd-3065ff4a7bec.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DRIPPIN(드리핀) COMEBACK SHOWCASE [Villain]]]></title>
+            <link>https://m.vlive.tv/video/274691</link>
+            <guid>https://m.vlive.tv/video/274691</guid>
+            <pubDate>Sat, 15 Jan 2022 07:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">DRIPPIN</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220114_297/1642151742495QTp8i_JPEG/upload_86227636570804428d9267ea6-7870-46df-8a71-64005229d36c.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
