@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 20:45:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 21:43:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[drawing show in Atlanta(usa)]]></title>
+            <link>https://www.vlive.tv/video/274795</link>
+            <guid>https://www.vlive.tv/video/274795</guid>
+            <pubDate>Sat, 15 Jan 2022 21:41:17 GMT</pubDate>
+            <content:encoded><![CDATA[M.O.N.T (몬트)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220116_147/1642282647238xKKOk_JPEG/3462af33-764b-11ec-bf63-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잠깐..🤍 기웃기웃]]></title>
             <link>https://www.vlive.tv/video/274793</link>
@@ -398,14 +406,6 @@
             <pubDate>Sat, 15 Jan 2022 04:54:55 GMT</pubDate>
             <content:encoded><![CDATA[연선 Yeonsun]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220115_243/1642222387118H2l2J_JPEG/upload_5849170011348583138db62d2-9955-4ab9-a5e2-70674ae98a2d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Healing Live in LA]]></title>
-            <link>https://www.vlive.tv/video/274754</link>
-            <guid>https://www.vlive.tv/video/274754</guid>
-            <pubDate>Sat, 15 Jan 2022 03:45:52 GMT</pubDate>
-            <content:encoded><![CDATA[GHOST9]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220115_56/1642220954695SVHYR_JPEG/16a4b62b-75bb-11ec-8fb9-48df379cc9e4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

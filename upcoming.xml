@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 20:45:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 21:43:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -454,6 +454,14 @@
             <pubDate>Sat, 15 Jan 2022 17:48:51 GMT</pubDate>
             <content:encoded><![CDATA[오후 6:55]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220116_130/1642272921014heXnp_JPEG/4b8161b9-7634-11ec-8fb9-48df379cc9e4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[drawing show in Atlanta(usa)]]></title>
+            <link>https://www.vlive.tv/video/274795</link>
+            <guid>https://www.vlive.tv/video/274795</guid>
+            <pubDate>Sat, 15 Jan 2022 21:42:19 GMT</pubDate>
+            <content:encoded><![CDATA[오후 9:37]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220116_147/1642282647238xKKOk_JPEG/3462af33-764b-11ec-bf63-505dac8c3721_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

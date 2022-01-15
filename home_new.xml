@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 20:45:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 21:43:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[drawing show in Atlanta(usa)]]></title>
+            <link>https://www.vlive.tv/video/274795</link>
+            <guid>https://www.vlive.tv/video/274795</guid>
+            <pubDate>Sat, 15 Jan 2022 21:41:26 GMT</pubDate>
+            <content:encoded><![CDATA[M.O.N.T (몬트)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220116_147/1642282647238xKKOk_JPEG/3462af33-764b-11ec-bf63-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잠깐..🤍 기웃기웃]]></title>
             <link>https://www.vlive.tv/video/274793</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 15 Jan 2022 14:40:57 GMT</pubDate>
             <content:encoded><![CDATA[VICTON]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220114_234/1642143464620l9RKH_JPEG/upload_58412770418762223fc93f2e9-cb66-4775-a56f-a18f14673d36.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[in Dubai]]></title>
-            <link>https://www.vlive.tv/video/274783</link>
-            <guid>https://www.vlive.tv/video/274783</guid>
-            <pubDate>Sat, 15 Jan 2022 13:02:32 GMT</pubDate>
-            <content:encoded><![CDATA[SUNMI]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220115_113/1642251693107SbNjN_JPEG/155127296100964790a067ca99-4270-41bb-beb0-65b9f2a61756.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
