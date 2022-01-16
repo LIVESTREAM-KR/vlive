@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 06:53:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 07:42:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[♥HAPPY KELLY DAY♥]]></title>
-            <link>https://m.vlive.tv/video/274798</link>
-            <guid>https://m.vlive.tv/video/274798</guid>
-            <pubDate>Sun, 16 Jan 2022 03:46:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">TRI.BE</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220116_187/1642302231558xCwx2_JPEG/upload_86381910521231858e4e815d8-882f-4b9f-99a4-659998dfb083.JPG?type=f274_154" length="0" type="image/JPG"/>
-        </item>
         <item>
             <title><![CDATA[💖햅삐💖벌쓰데이 준서🎂]]></title>
             <link>https://m.vlive.tv/video/274711</link>
@@ -86,6 +76,16 @@
 										오전 11:00</span>
 										<span class="txt">DRIPPIN</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220114_297/1642151742495QTp8i_JPEG/upload_86227636570804428d9267ea6-7870-46df-8a71-64005229d36c.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
+            <link>https://m.vlive.tv/video/274537</link>
+            <guid>https://m.vlive.tv/video/274537</guid>
+            <pubDate>Sun, 16 Jan 2022 07:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220113_99/16420549751699psHg_JPEG/upload_583245759502126488c04437f-1636-4e64-ac86-2ae54b1f9860.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
