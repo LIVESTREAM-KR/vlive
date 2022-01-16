@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 01:53:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 03:01:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남해의 아침]]></title>
+            <link>https://www.vlive.tv/video/274796</link>
+            <guid>https://www.vlive.tv/video/274796</guid>
+            <pubDate>Sun, 16 Jan 2022 02:59:00 GMT</pubDate>
+            <content:encoded><![CDATA[윤한 YOONHAN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220116_239/16422980089654APzV_JPEG/12560948475713785084192ebf-c99c-4a73-b07a-95fe8ed07472.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[선공개] "찢었다!"😍 실력자 올라운더 대결!🔥, MBC 220116 방송]]></title>
             <link>https://www.vlive.tv/video/274748</link>
@@ -398,14 +406,6 @@
             <pubDate>Sat, 15 Jan 2022 05:40:52 GMT</pubDate>
             <content:encoded><![CDATA[P1Harmony]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220114_104/1642168755266PLO1L_JPEG/upload_862484859665941672a450658-7542-46ea-82bd-e93a063b1179.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[T1419 데일리어스(Daily Us) 99초 스탠바이Q | EP.4]]></title>
-            <link>https://www.vlive.tv/video/274712</link>
-            <guid>https://www.vlive.tv/video/274712</guid>
-            <pubDate>Sat, 15 Jan 2022 05:40:52 GMT</pubDate>
-            <content:encoded><![CDATA[T1419]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220114_6/1642155669943tkMOp_JPEG/upload_862352065334450809e4ccdf3-da63-48c8-9fc6-c4565a7a9565.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
