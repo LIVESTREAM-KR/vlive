@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 04:56:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 05:43:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[💙 CNBLUE 12th Anniversary 💙]]></title>
+            <link>https://www.vlive.tv/video/274340</link>
+            <guid>https://www.vlive.tv/video/274340</guid>
+            <pubDate>Sun, 16 Jan 2022 05:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[CNBLUE]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/274340/thumb?type=f228_128" length="0" type="image//live/274340/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[MOMOLAND X NATTI NATASHA 'Yummy Yummy Love' Dance Practice]]></title>
+            <link>https://www.vlive.tv/video/274797</link>
+            <guid>https://www.vlive.tv/video/274797</guid>
+            <pubDate>Sun, 16 Jan 2022 05:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[MOMOLAND]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220116_53/1642299502514GizD2_JPEG/upload_8637915851535484491cc8987-5c06-471d-bba1-f5fbeb14021c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남해의 아침]]></title>
             <link>https://www.vlive.tv/video/274796</link>
@@ -110,22 +126,6 @@
             <pubDate>Sat, 15 Jan 2022 15:46:42 GMT</pubDate>
             <content:encoded><![CDATA[SMTOWN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220115_287/1642245946108nuKLc_JPEG/upload_863256642170479323d052e9c-0f6e-4366-85fd-0f51ac25b3b9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ENHYPEN (엔하이픈) 'Blessed-Cursed' Official MV (Choreography ver.)]]></title>
-            <link>https://www.vlive.tv/video/274772</link>
-            <guid>https://www.vlive.tv/video/274772</guid>
-            <pubDate>Sat, 15 Jan 2022 15:46:42 GMT</pubDate>
-            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220115_258/16422451226226eW6u_JPEG/upload_585146942034699474976fc22-bf02-4312-9933-ecb1c784fc3d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['2021 우진대상' 영광의 수상자는?! #wooAlog​​ (2022. 01. 15)]]></title>
-            <link>https://www.vlive.tv/video/274779</link>
-            <guid>https://www.vlive.tv/video/274779</guid>
-            <pubDate>Sat, 15 Jan 2022 14:40:57 GMT</pubDate>
-            <content:encoded><![CDATA[KIM WOOJIN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220115_139/1642249391374z907J_PNG/upload_86328801413916116f025924c-d2de-4405-ad90-20962553c0d2.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
