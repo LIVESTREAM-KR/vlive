@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 13:04:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 13:45:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20220116_6/1642329326302o2gOv_JPEG/upload_8640905930928379765632104-67ea-44dd-b9f6-3714fc3c08d1.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[?]]></title>
-            <link>https://www.vlive.tv/video/274794</link>
-            <guid>https://www.vlive.tv/video/274794</guid>
-            <pubDate>Sat, 15 Jan 2022 18:49:39 GMT</pubDate>
-            <content:encoded><![CDATA[TWICE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220116_229/1642269442073UmkVU_JPEG/785aadf9-762c-11ec-8355-246e963a4708_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[BB2 Highlight Medley]]></title>
             <link>https://www.vlive.tv/video/274821</link>
             <guid>https://www.vlive.tv/video/274821</guid>
             <pubDate>Sun, 16 Jan 2022 13:02:54 GMT</pubDate>
             <content:encoded><![CDATA[BamBam]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220116_262/1642335707628PH8cv_JPEG/489a32f6-76c6-11ec-9c62-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220116_262/1642335707628PH8cv_JPEG/489a32f6-76c6-11ec-9c62-505dac8c381b_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[?]]></title>
+            <link>https://www.vlive.tv/video/274794</link>
+            <guid>https://www.vlive.tv/video/274794</guid>
+            <pubDate>Sat, 15 Jan 2022 18:49:39 GMT</pubDate>
+            <content:encoded><![CDATA[TWICE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220116_229/1642269442073UmkVU_JPEG/785aadf9-762c-11ec-8355-246e963a4708_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개방-노래방🎤]]></title>
+            <link>https://www.vlive.tv/video/274823</link>
+            <guid>https://www.vlive.tv/video/274823</guid>
+            <pubDate>Sun, 16 Jan 2022 13:43:55 GMT</pubDate>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220116_78/1642338206794dkxLa_JPEG/e68e4ee5-76ca-11ec-b11b-246e963a464c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from SUGA]]></title>
@@ -54,14 +62,6 @@
             <pubDate>Sat, 15 Jan 2022 14:41:25 GMT</pubDate>
             <content:encoded><![CDATA[MAMAMOO]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220115_285/1642251816215fT5al_JPEG/155127432201856823399659ec-f953-4385-b72a-0c4cfb229e5a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ENHYPEN (엔하이픈) 'Blessed-Cursed' Official MV (Choreography ver.)]]></title>
-            <link>https://www.vlive.tv/video/274772</link>
-            <guid>https://www.vlive.tv/video/274772</guid>
-            <pubDate>Sat, 15 Jan 2022 17:04:45 GMT</pubDate>
-            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220115_258/16422451226226eW6u_JPEG/upload_585146942034699474976fc22-bf02-4312-9933-ecb1c784fc3d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
