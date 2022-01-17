@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 04:57:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 05:44:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BB2 Highlight Medley]]></title>
+            <link>https://www.vlive.tv/video/274821</link>
+            <guid>https://www.vlive.tv/video/274821</guid>
+            <pubDate>Mon, 17 Jan 2022 05:42:11 GMT</pubDate>
+            <content:encoded><![CDATA[BamBam]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220116_262/1642335707628PH8cv_JPEG/489a32f6-76c6-11ec-9c62-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[개방-노래방🎤]]></title>
             <link>https://www.vlive.tv/video/274823</link>
@@ -30,14 +38,6 @@
             <pubDate>Sun, 16 Jan 2022 10:45:01 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220111_265/1641868124947CTjBp_JPEG/upload_8594768694306398698844997-f9c0-43a5-aca2-30845c1d0b9e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ARTIST-MADE COLLECTION 'SHOW' BY BTS - V]]></title>
-            <link>https://www.vlive.tv/video/274181</link>
-            <guid>https://www.vlive.tv/video/274181</guid>
-            <pubDate>Sun, 16 Jan 2022 20:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220109_17/16416568747985PcCe_JPEG/upload_85736400157995877d449a994-642e-4736-8e73-a0dff59f5f50.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

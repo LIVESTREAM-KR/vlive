@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 04:57:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 05:44:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Happy sunday(미국기준)]]></title>
+            <link>https://www.vlive.tv/video/274850</link>
+            <guid>https://www.vlive.tv/video/274850</guid>
+            <pubDate>Mon, 17 Jan 2022 05:41:56 GMT</pubDate>
+            <content:encoded><![CDATA[GHOST9]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/274850/thumb?type=f228_128" length="0" type="image//live/274850/thumb"/>
+        </item>
         <item>
             <title><![CDATA[Arirang Radio (Music Access / P1Harmony 피원하모니)]]></title>
             <link>https://www.vlive.tv/video/274597</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 16 Jan 2022 14:40:35 GMT</pubDate>
             <content:encoded><![CDATA[24K]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220116_282/1642342584614wdgYl_JPEG/1552181156101457151e442b3c-d2c6-4e7b-b9d6-d6bc23488fe2.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[TEASER] 유주(YUJU) - 놀이(Play) M/V #2]]></title>
-            <link>https://www.vlive.tv/video/274832</link>
-            <guid>https://www.vlive.tv/video/274832</guid>
-            <pubDate>Sun, 16 Jan 2022 15:47:02 GMT</pubDate>
-            <content:encoded><![CDATA[유주 (YUJU)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220116_122/16423440974541wbdY_JPEG/upload_864237887999492467c12bf1b-0b4d-4125-b3cd-0d2bf5ea997c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

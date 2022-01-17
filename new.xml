@@ -4,9 +4,16 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 04:57:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 05:44:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Happy sunday(미국기준)]]></title>
+            <link>https://www.vlive.tv/video/274850</link>
+            <guid>https://www.vlive.tv/video/274850</guid>
+            <pubDate>Mon, 17 Jan 2022 05:41:47 GMT</pubDate>
+            <content:encoded><![CDATA[GHOST9]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Arirang Radio (Music Access / P1Harmony 피원하모니)]]></title>
             <link>https://www.vlive.tv/video/274597</link>
@@ -397,14 +404,6 @@
             <pubDate>Sun, 16 Jan 2022 08:47:16 GMT</pubDate>
             <content:encoded><![CDATA[AB6IX]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220116_52/1642305286294hp3mI_JPEG/upload_86384990812640981b351968d-8744-4e71-93d9-688e44d11175.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠깐만]]></title>
-            <link>https://www.vlive.tv/video/274801</link>
-            <guid>https://www.vlive.tv/video/274801</guid>
-            <pubDate>Sun, 16 Jan 2022 06:50:55 GMT</pubDate>
-            <content:encoded><![CDATA[AWEEK]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220116_228/1642312530145Aklyz_JPEG/155188061120936276f6054057-f1e9-48f0-8275-058e80482d80.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
