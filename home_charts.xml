@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 14:43:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 15:50:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220112_104/1641961890590iRFmD_JPEG/upload_5823138788141152041d9779c-cbce-4739-9edc-a3f45b9bccd8.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ARTIST-MADE COLLECTION 'SHOW' BY BTS - SUGA]]></title>
-            <link>https://www.vlive.tv/video/274336</link>
-            <guid>https://www.vlive.tv/video/274336</guid>
-            <pubDate>Sun, 16 Jan 2022 17:04:30 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220111_222/1641867338999ELLPG_JPEG/upload_85946856718416277de4efc10-ca0d-4342-99f4-6ca1e38ad7fe.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[TO DO X TOMORROW X TOGETHER - EP.67]]></title>
             <link>https://www.vlive.tv/video/274262</link>
             <guid>https://www.vlive.tv/video/274262</guid>
             <pubDate>Mon, 17 Jan 2022 14:41:56 GMT</pubDate>
             <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220110_207/1641794840094qpqpo_JPEG/upload_858744728587505915ddef2ab-003d-4cb7-9b74-4c038e72a7e3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION 'SHOW' BY BTS - SUGA]]></title>
+            <link>https://www.vlive.tv/video/274336</link>
+            <guid>https://www.vlive.tv/video/274336</guid>
+            <pubDate>Sun, 16 Jan 2022 17:04:30 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220111_222/1641867338999ELLPG_JPEG/upload_85946856718416277de4efc10-ca0d-4342-99f4-6ca1e38ad7fe.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
