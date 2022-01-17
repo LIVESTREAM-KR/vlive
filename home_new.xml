@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 15:50:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 17:08:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,23 @@
             <guid>https://www.vlive.tv/video/274910</guid>
             <pubDate>Mon, 17 Jan 2022 15:48:47 GMT</pubDate>
             <content:encoded><![CDATA[P1Harmony]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/274910/thumb?type=f228_128" length="0" type="image//live/274910/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220118_61/1642438097898xeqDR_JPEG/446d600b-77b4-11ec-b3d2-48df37ae3fca_02.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Radio Hama] 심야 라디오~]]></title>
+            <link>https://www.vlive.tv/video/274894</link>
+            <guid>https://www.vlive.tv/video/274894</guid>
+            <pubDate>Mon, 17 Jan 2022 17:06:05 GMT</pubDate>
+            <content:encoded><![CDATA[청공소년 (Bz_Boys)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220117_196/1642422115901qedR6_JPEG/155297632806448422e9c0b684-bffa-4c69-9cc7-fd8fd35214f2.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#OMRR 방가방가🌝]]></title>
+            <link>https://www.vlive.tv/video/274913</link>
+            <guid>https://www.vlive.tv/video/274913</guid>
+            <pubDate>Mon, 17 Jan 2022 17:06:06 GMT</pubDate>
+            <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/274913/thumb?type=f228_128" length="0" type="image//live/274913/thumb"/>
         </item>
         <item>
             <title><![CDATA[대청소 하고 온 태환2222]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 17 Jan 2022 13:45:59 GMT</pubDate>
             <content:encoded><![CDATA[EVERGLOW (에버글로우)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220117_107/1642425655879gON5e_JPEG/155301258822447647ac351d90-821b-4c9a-b606-e7ca66378128.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VICTON 빅톤 'Chronograph' MV Teaser 2 #Performance]]></title>
-            <link>https://www.vlive.tv/video/274838</link>
-            <guid>https://www.vlive.tv/video/274838</guid>
-            <pubDate>Mon, 17 Jan 2022 14:41:43 GMT</pubDate>
-            <content:encoded><![CDATA[VICTON]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220117_235/16423858049255E9C2_JPEG/upload_864655218355953723b895d4e-6e02-460c-9ea7-8b35655df6f9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[드리밍 수고했어요😈❤️‍🔥]]></title>
-            <link>https://www.vlive.tv/video/274898</link>
-            <guid>https://www.vlive.tv/video/274898</guid>
-            <pubDate>Mon, 17 Jan 2022 13:45:59 GMT</pubDate>
-            <content:encoded><![CDATA[DRIPPIN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220117_14/1642425465098qGD5P_JPEG/afd854a7-7797-11ec-b3f1-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
