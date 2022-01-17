@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 09:47:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 10:48:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 17 Jan 2022 05:42:11 GMT</pubDate>
             <content:encoded><![CDATA[BamBam]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220116_262/1642335707628PH8cv_JPEG/489a32f6-76c6-11ec-9c62-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HAPPY BOO's DAY 🍊]]></title>
+            <link>https://www.vlive.tv/video/274812</link>
+            <guid>https://www.vlive.tv/video/274812</guid>
+            <pubDate>Mon, 17 Jan 2022 10:46:23 GMT</pubDate>
+            <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220116_6/1642329326302o2gOv_JPEG/upload_8640905930928379765632104-67ea-44dd-b9f6-3714fc3c08d1.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[개방-노래방🎤]]></title>
@@ -30,14 +38,6 @@
             <pubDate>Sun, 16 Jan 2022 17:04:30 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220111_222/1641867338999ELLPG_JPEG/upload_85946856718416277de4efc10-ca0d-4342-99f4-6ca1e38ad7fe.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from SUGA]]></title>
-            <link>https://www.vlive.tv/video/274337</link>
-            <guid>https://www.vlive.tv/video/274337</guid>
-            <pubDate>Sun, 16 Jan 2022 10:45:01 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220111_265/1641868124947CTjBp_JPEG/upload_8594768694306398698844997-f9c0-43a5-aca2-30845c1d0b9e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
