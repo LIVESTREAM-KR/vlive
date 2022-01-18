@@ -4,9 +4,24 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 07:43:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 08:51:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[커몬]]></title>
+            <link>https://www.vlive.tv/video/274958</link>
+            <guid>https://www.vlive.tv/video/274958</guid>
+            <pubDate>Tue, 18 Jan 2022 08:49:12 GMT</pubDate>
+            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[미래소년 (MIRAE) - Marvelous | 파트 스위치 ver. (Part Switch ver.)]]></title>
+            <link>https://www.vlive.tv/video/274893</link>
+            <guid>https://www.vlive.tv/video/274893</guid>
+            <pubDate>Tue, 18 Jan 2022 08:49:12 GMT</pubDate>
+            <content:encoded><![CDATA[미래소년 (MIRAE)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220117_39/16424218388466UQ5k_JPEG/upload_865015700683047398db047b3-6dee-4e5e-8835-8ff9f90f94c7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[🐥🖤]]></title>
             <link>https://www.vlive.tv/video/274948</link>
@@ -390,22 +405,6 @@
             <pubDate>Mon, 17 Jan 2022 13:04:56 GMT</pubDate>
             <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220110_207/1641794840094qpqpo_JPEG/upload_858744728587505915ddef2ab-003d-4cb7-9b74-4c038e72a7e3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[끊기지 말라는 눈빛. ㅎ헤헿💗🖤]]></title>
-            <link>https://www.vlive.tv/video/274889</link>
-            <guid>https://www.vlive.tv/video/274889</guid>
-            <pubDate>Mon, 17 Jan 2022 11:43:48 GMT</pubDate>
-            <content:encoded><![CDATA[PURPLE KISS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220117_66/1642417336806UpnaT_JPEG/41392703435050689036d8188-ec87-44cb-ae42-3d7b9350b5b3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[펑펑🎶눈이 옵니다❄️하늘에서 눈이 옵니다🌨]]></title>
-            <link>https://www.vlive.tv/video/274875</link>
-            <guid>https://www.vlive.tv/video/274875</guid>
-            <pubDate>Mon, 17 Jan 2022 09:45:17 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220117_4/1642411051703X5h1d_JPEG/155199422615770325b62efdf2-4173-4914-ac98-30cd040d8fb8.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

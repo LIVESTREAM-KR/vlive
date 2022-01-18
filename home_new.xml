@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 07:43:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 08:51:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[커몬]]></title>
+            <link>https://www.vlive.tv/video/274958</link>
+            <guid>https://www.vlive.tv/video/274958</guid>
+            <pubDate>Tue, 18 Jan 2022 08:49:21 GMT</pubDate>
+            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/274958/thumb?type=f228_128" length="0" type="image//live/274958/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[미래소년 (MIRAE) - Marvelous | 파트 스위치 ver. (Part Switch ver.)]]></title>
+            <link>https://www.vlive.tv/video/274893</link>
+            <guid>https://www.vlive.tv/video/274893</guid>
+            <pubDate>Tue, 18 Jan 2022 08:49:21 GMT</pubDate>
+            <content:encoded><![CDATA[미래소년 (MIRAE)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220117_39/16424218388466UQ5k_JPEG/upload_865015700683047398db047b3-6dee-4e5e-8835-8ff9f90f94c7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[🐥🖤]]></title>
             <link>https://www.vlive.tv/video/274948</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 18 Jan 2022 03:45:49 GMT</pubDate>
             <content:encoded><![CDATA[FNC]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220117_183/1642397962643u1tRz_JPEG/upload_864776622278807048a7d98a0-c344-4bf7-9d6b-3d6789673cf5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
-            <link>https://www.vlive.tv/video/274522</link>
-            <guid>https://www.vlive.tv/video/274522</guid>
-            <pubDate>Tue, 18 Jan 2022 03:45:49 GMT</pubDate>
-            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220113_232/1642053891040M23dN_JPEG/upload_86133586888357025a9153dac-0e4f-4a7c-8924-2487f71fb964.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 종이의 집: 공동경제구역 | 스페셜 티저]]></title>
-            <link>https://www.vlive.tv/video/274901</link>
-            <guid>https://www.vlive.tv/video/274901</guid>
-            <pubDate>Tue, 18 Jan 2022 01:50:23 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 (Netflixkr)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220118_179/1642464193549kNB49_JPEG/upload_86543911179563257a7c18ff7-1281-47ff-84ab-8943fe00b533.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
