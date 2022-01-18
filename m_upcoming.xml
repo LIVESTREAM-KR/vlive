@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 23:45:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 01:52:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
-            <link>https://m.vlive.tv/video/274537</link>
-            <guid>https://m.vlive.tv/video/274537</guid>
-            <pubDate>Sun, 16 Jan 2022 07:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220113_99/16420549751699psHg_JPEG/upload_583245759502126488c04437f-1636-4e64-ac86-2ae54b1f9860.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
             <link>https://m.vlive.tv/video/274522</link>
@@ -106,6 +96,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220113_151/1642054781699qpECX_JPEG/upload_861344783614067772782b29a-8740-4f54-8d52-a76dc8553b3a.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
+            <link>https://m.vlive.tv/video/274523</link>
+            <guid>https://m.vlive.tv/video/274523</guid>
+            <pubDate>Tue, 18 Jan 2022 01:51:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 2:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220113_200/1642053954718AmvEy_JPEG/upload_86133675929617454ebb55228-8f84-4295-8ccc-761dab3d9e71.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
