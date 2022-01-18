@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 18:52:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 19:42:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잠 못드는 밤에 (코막힘 주의!!)]]></title>
+            <link>https://www.vlive.tv/video/275002</link>
+            <guid>https://www.vlive.tv/video/275002</guid>
+            <pubDate>Tue, 18 Jan 2022 19:40:31 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220119_261/1642533207359kvSt1_JPEG/1258446831615674383d0546b6-aa72-48bf-a1eb-033af1f1c92a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하루의 온 ⭐️]]></title>
             <link>https://www.vlive.tv/video/275000</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 18 Jan 2022 13:04:42 GMT</pubDate>
             <content:encoded><![CDATA[SF9]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220118_259/16425134547756gEc6_JPEG/58da5969-7864-11ec-bf63-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🖤HBD 카엘🖤]]></title>
-            <link>https://www.vlive.tv/video/274981</link>
-            <guid>https://www.vlive.tv/video/274981</guid>
-            <pubDate>Tue, 18 Jan 2022 13:04:42 GMT</pubDate>
-            <content:encoded><![CDATA[미래소년 (MIRAE)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220118_269/1642507420546W38CM_JPEG/155295790521249281111f24cd-b4c3-40ee-ac02-94afaf189a8a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 18:52:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 19:42:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잠 못드는 밤에 (코막힘 주의!!)]]></title>
+            <link>https://www.vlive.tv/video/275002</link>
+            <guid>https://www.vlive.tv/video/275002</guid>
+            <pubDate>Tue, 18 Jan 2022 19:40:21 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220119_261/1642533207359kvSt1_JPEG/1258446831615674383d0546b6-aa72-48bf-a1eb-033af1f1c92a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하루의 온 ⭐️]]></title>
             <link>https://www.vlive.tv/video/275000</link>
@@ -398,14 +406,6 @@
             <pubDate>Tue, 18 Jan 2022 09:45:06 GMT</pubDate>
             <content:encoded><![CDATA[유주 (YUJU)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220118_96/1642489387888dyWtE_JPEG/upload_5875897637430152499752ab5-850c-45b2-ba50-a071191b8973.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KEVIN - White]]></title>
-            <link>https://www.vlive.tv/video/274935</link>
-            <guid>https://www.vlive.tv/video/274935</guid>
-            <pubDate>Tue, 18 Jan 2022 09:45:06 GMT</pubDate>
-            <content:encoded><![CDATA[T1419]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220118_154/1642496174421d8i1K_JPEG/upload_58748589986079229151f7f89-9065-4ea5-aff7-447b80c26d05.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
