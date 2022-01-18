@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 01:52:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 03:00:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
-            <link>https://m.vlive.tv/video/274522</link>
-            <guid>https://m.vlive.tv/video/274522</guid>
-            <pubDate>Sun, 16 Jan 2022 08:48:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 2:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220113_232/1642053891040M23dN_JPEG/upload_86133586888357025a9153dac-0e4f-4a7c-8924-2487f71fb964.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[ASC Live Ep.506 (WJSN CHOCOME / 우주소녀 쪼꼬미)]]></title>
             <link>https://m.vlive.tv/video/274673</link>
@@ -106,6 +96,16 @@
 										오전 2:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220113_200/1642053954718AmvEy_JPEG/upload_86133675929617454ebb55228-8f84-4295-8ccc-761dab3d9e71.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio/K-Poppin'] Singer Seo Moon Tak 가수 서문탁]]></title>
+            <link>https://m.vlive.tv/video/274860</link>
+            <guid>https://m.vlive.tv/video/274860</guid>
+            <pubDate>Tue, 18 Jan 2022 02:59:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220117_227/1642404526838HsWqj_JPEG/upload_86484225859678578e04ea49f-5db9-4ea7-bde6-0ab36224b168.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
