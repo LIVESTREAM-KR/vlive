@@ -4,9 +4,24 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 23:41:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 01:40:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ㅇㄴㅎㅅㅇ ㅅ ㅅ ㅇㄴㄷ]]></title>
+            <link>https://www.vlive.tv/video/275003</link>
+            <guid>https://www.vlive.tv/video/275003</guid>
+            <pubDate>Wed, 19 Jan 2022 01:38:27 GMT</pubDate>
+            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthews]]></title>
+            <link>https://www.vlive.tv/video/274535</link>
+            <guid>https://www.vlive.tv/video/274535</guid>
+            <pubDate>Wed, 19 Jan 2022 01:38:27 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220113_151/1642054781699qpECX_JPEG/upload_861344783614067772782b29a-8740-4f54-8d52-a76dc8553b3a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잠 못드는 밤에 (코막힘 주의!!)]]></title>
             <link>https://www.vlive.tv/video/275002</link>
@@ -390,22 +405,6 @@
             <pubDate>Tue, 18 Jan 2022 08:49:12 GMT</pubDate>
             <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220118_77/1642498425067X8RYC_JPEG/upload_8657815483179968698536d0e-bd1d-43f5-ace8-9b445d742d7c.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oh My K-POP with Samuel Seo 서사무엘 #ERICNAM #에릭남]]></title>
-            <link>https://www.vlive.tv/video/274528</link>
-            <guid>https://www.vlive.tv/video/274528</guid>
-            <pubDate>Tue, 18 Jan 2022 07:41:06 GMT</pubDate>
-            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220118_61/16424851035861WltH_JPEG/upload_861338887608046231488771a-1c73-4fc4-9e11-ddda305d2425.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유주(YUJU) - 놀이(Play) M/V]]></title>
-            <link>https://www.vlive.tv/video/274943</link>
-            <guid>https://www.vlive.tv/video/274943</guid>
-            <pubDate>Tue, 18 Jan 2022 09:45:06 GMT</pubDate>
-            <content:encoded><![CDATA[유주 (YUJU)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220118_96/1642489387888dyWtE_JPEG/upload_5875897637430152499752ab5-850c-45b2-ba50-a071191b8973.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

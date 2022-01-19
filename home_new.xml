@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 23:41:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 01:40:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ㅇㄴㅎㅅㅇ ㅅ ㅅ ㅇㄴㄷ]]></title>
+            <link>https://www.vlive.tv/video/275003</link>
+            <guid>https://www.vlive.tv/video/275003</guid>
+            <pubDate>Wed, 19 Jan 2022 01:38:36 GMT</pubDate>
+            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/275003/thumb?type=f228_128" length="0" type="image//live/275003/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthews]]></title>
+            <link>https://www.vlive.tv/video/274535</link>
+            <guid>https://www.vlive.tv/video/274535</guid>
+            <pubDate>Wed, 19 Jan 2022 01:38:36 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220113_151/1642054781699qpECX_JPEG/upload_861344783614067772782b29a-8740-4f54-8d52-a76dc8553b3a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잠 못드는 밤에 (코막힘 주의!!)]]></title>
             <link>https://www.vlive.tv/video/275002</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 18 Jan 2022 13:04:42 GMT</pubDate>
             <content:encoded><![CDATA[E'LAST]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220118_148/1642507586618602e0_JPEG/64560025131920685cb755832-83a1-44a0-82e4-553003a1bafa.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나랑 놀자٩( ᐛ )و]]></title>
-            <link>https://www.vlive.tv/video/274985</link>
-            <guid>https://www.vlive.tv/video/274985</guid>
-            <pubDate>Tue, 18 Jan 2022 14:41:53 GMT</pubDate>
-            <content:encoded><![CDATA[드림노트 (DreamNote)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220118_112/1642513836145Tbrlj_JPEG/c4db45d1-7864-11ec-bf63-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이]]></title>
-            <link>https://www.vlive.tv/video/274989</link>
-            <guid>https://www.vlive.tv/video/274989</guid>
-            <pubDate>Tue, 18 Jan 2022 13:04:42 GMT</pubDate>
-            <content:encoded><![CDATA[SF9]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220118_259/16425134547756gEc6_JPEG/58da5969-7864-11ec-bf63-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
