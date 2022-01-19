@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 06:49:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 07:41:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Super K-Pop / Ji Jin Seok 지진석)]]></title>
-            <link>https://m.vlive.tv/video/274596</link>
-            <guid>https://m.vlive.tv/video/274596</guid>
-            <pubDate>Tue, 18 Jan 2022 10:46:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220113_249/1642070725725LXb9o_JPEG/upload_861503947561290313175db21-83c9-4672-ac75-9554ea564da7.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[🔴공연 생중계]🎤 1415 | 그리즐리 | 강백수]]></title>
             <link>https://m.vlive.tv/video/274920</link>
@@ -86,6 +76,16 @@
 										오전 11:00</span>
 										<span class="txt">V CLASSIC</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220106_93/1641443228747xY3hY_JPEG/upload_85522964177663964bbd20dfa-6fe8-4865-be21-205d2be12940.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / ZELO 젤로)]]></title>
+            <link>https://m.vlive.tv/video/274595</link>
+            <guid>https://m.vlive.tv/video/274595</guid>
+            <pubDate>Wed, 19 Jan 2022 07:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220113_205/1642070614809LCR3K_JPEG/upload_861503061278929508b20ec88-9e3d-459f-b8bb-7ab1a625fb84.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
