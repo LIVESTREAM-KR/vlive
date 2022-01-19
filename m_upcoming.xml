@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 02:50:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 03:43:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[hi minimonster]]></title>
-            <link>https://m.vlive.tv/video/275006</link>
-            <guid>https://m.vlive.tv/video/275006</guid>
-            <pubDate>Wed, 19 Jan 2022 02:49:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										방송취소</span>
-										<span class="txt">sema</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220119_235/1642560133643fifry_JPEG/upload_58829707509078348658e58e9-5a15-4fd0-82b7-58f6e3f1b066.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio/K-Poppin'] Singer Seo Moon Tak 가수 서문탁]]></title>
             <link>https://m.vlive.tv/video/274860</link>
@@ -86,6 +76,26 @@
 										오전 2:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220113_140/1642054002283g8A1J_JPEG/upload_5832359192792331459388c4a-b143-45b5-9d7a-e88e7daa491b.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Music Access] TMB(Text Me Back) with JUNNY(주니)]]></title>
+            <link>https://m.vlive.tv/video/274529</link>
+            <guid>https://m.vlive.tv/video/274529</guid>
+            <pubDate>Wed, 19 Jan 2022 03:42:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220113_159/1642054238609whb4y_JPEG/upload_583238099991411524bc83212-b717-4fb6-abea-32efdc77bc15.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop] Club House]]></title>
+            <link>https://m.vlive.tv/video/274527</link>
+            <guid>https://m.vlive.tv/video/274527</guid>
+            <pubDate>Wed, 19 Jan 2022 03:42:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220113_1/1642054115091Xu4Bf_JPEG/upload_861338200593160669254100c-f4fc-42af-9a91-b717aa3dc4e3.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
