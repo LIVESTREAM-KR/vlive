@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 08:44:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 09:43:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -173,7 +173,7 @@
             <guid>https://www.vlive.tv/video/275018</guid>
             <pubDate>Wed, 19 Jan 2022 04:50:44 GMT</pubDate>
             <content:encoded><![CDATA[오전 5:18]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220119_199/1642569481642AnmcR_JPEG/aef670be-78e6-11ec-9c62-505dac8c381b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220119_1/1642583116109cqbCY_JPEG/aef670be-78e6-11ec-9c62-505dac8c381b_04.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[VICTON diary EP.105 ('Chronograph' MV 촬영 현장 DAY 1)]]></title>
@@ -208,14 +208,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220119_60/1642574269525mezSQ_JPEG/upload_58843873368192113252ab1d2-7d8f-4020-8fd1-b94b16960171.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Arirang Radio (Super K-Pop / Ji Jin Seok 지진석)]]></title>
-            <link>https://www.vlive.tv/video/274596</link>
-            <guid>https://www.vlive.tv/video/274596</guid>
-            <pubDate>Wed, 19 Jan 2022 01:39:30 GMT</pubDate>
-            <content:encoded><![CDATA[오전 6:56]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220113_249/1642070725725LXb9o_JPEG/upload_861503947561290313175db21-83c9-4672-ac75-9554ea564da7.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[Arirang Radio / Music Access] MA MVP with DANN of KINGDOM 킹덤 단]]></title>
             <link>https://www.vlive.tv/video/274530</link>
             <guid>https://www.vlive.tv/video/274530</guid>
@@ -240,20 +232,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20220119_254/1642580114117Rssdj_JPEG/upload_86659845703144280985584b1-2698-4b6d-b6bb-f0bbad3c29fe.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[붕어빵 장수 나용 🙋‍♀️🤎]]></title>
-            <link>https://www.vlive.tv/video/275034</link>
-            <guid>https://www.vlive.tv/video/275034</guid>
-            <pubDate>Wed, 19 Jan 2022 08:43:24 GMT</pubDate>
-            <content:encoded><![CDATA[오전 8:30]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220119_165/1642581013696r3uIt_JPEG/125892489497663658fd2c090c-89fb-45d3-a9c7-fc8813fe0e23.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[🔴공연 생중계]🎤 1415 | 그리즐리 | 강백수]]></title>
             <link>https://www.vlive.tv/video/274920</link>
             <guid>https://www.vlive.tv/video/274920</guid>
             <pubDate>Wed, 19 Jan 2022 01:39:30 GMT</pubDate>
-            <content:encoded><![CDATA[오전 9:00]]></content:encoded>
+            <content:encoded><![CDATA[오전 8:51]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220118_168/16424719071477C3VW_PNG/upload_86551597575603902b6657f11-9f05-4ab1-8b75-394ccabae253.png?type=f228_128" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[쇼챔 같이 볼 나우 구함주의:)]]></title>
+            <link>https://www.vlive.tv/video/275036</link>
+            <guid>https://www.vlive.tv/video/275036</guid>
+            <pubDate>Wed, 19 Jan 2022 09:42:15 GMT</pubDate>
+            <content:encoded><![CDATA[오전 8:53]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/275036/thumb?type=f228_128" length="0" type="image//live/275036/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[ONG SEONG WU 옹성우 - #2 2022 SEASON'S GREETINGS 촬영 비하인드]]></title>
+            <link>https://www.vlive.tv/video/274922</link>
+            <guid>https://www.vlive.tv/video/274922</guid>
+            <pubDate>Wed, 19 Jan 2022 09:42:15 GMT</pubDate>
+            <content:encoded><![CDATA[오전 9:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220118_19/1642473857739xm2IQ_JPEG/741c8437-7808-11ec-9c62-505dac8c381b_07.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[존잘남의 첫사랑? 그거 내가 해볼게 ( •͈ᴗ-)ᓂ-💖 [돈 라이 라희] EP01]]></title>
@@ -262,6 +262,102 @@
             <pubDate>Wed, 19 Jan 2022 01:39:30 GMT</pubDate>
             <content:encoded><![CDATA[오전 9:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220118_99/16425027663304I6k4_PNG/upload_865824752125332600c2321c3-f88a-49f2-b3c5-3a01e3c7f736.png?type=f228_128" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[싸이퍼(Ciipher) 315 ZIP | 싸랑이 기운 충전]]></title>
+            <link>https://www.vlive.tv/video/275024</link>
+            <guid>https://www.vlive.tv/video/275024</guid>
+            <pubDate>Wed, 19 Jan 2022 09:42:15 GMT</pubDate>
+            <content:encoded><![CDATA[오전 9:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220119_134/1642575261838BBd01_JPEG/upload_86653784256039860fca74f3d-05ff-4b08-bc87-2aeb587f8395.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["Remember Us" A.C.E PHOTOBOOK&DVD Preview]]></title>
+            <link>https://www.vlive.tv/video/275030</link>
+            <guid>https://www.vlive.tv/video/275030</guid>
+            <pubDate>Wed, 19 Jan 2022 09:42:15 GMT</pubDate>
+            <content:encoded><![CDATA[오전 9:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220119_267/1642578678395WYeYG_JPEG/upload_58848164785244832d5374f95-7472-4720-8f14-579d7d780be2.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] 문별 (Moon Byul) - LUNATIC]]></title>
+            <link>https://www.vlive.tv/video/275035</link>
+            <guid>https://www.vlive.tv/video/275035</guid>
+            <pubDate>Wed, 19 Jan 2022 09:42:15 GMT</pubDate>
+            <content:encoded><![CDATA[오전 9:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220119_135/1642581392112SYJFF_JPEG/upload_86661107468673341d3e63352-3c40-4c11-83cd-2ed697b9aa75.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유주(YUJU) - ‘놀이(Play)’ 응원법]]></title>
+            <link>https://www.vlive.tv/video/275038</link>
+            <guid>https://www.vlive.tv/video/275038</guid>
+            <pubDate>Wed, 19 Jan 2022 09:42:15 GMT</pubDate>
+            <content:encoded><![CDATA[오전 9:01]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220119_278/1642582869033aVWDd_JPEG/upload_86662593926123124dfe24ec5-6589-491d-9343-a3ed52d33dd5.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[YENA(최예나) - 'SMILEY' 응원법 (Cheering Guide)]]></title>
+            <link>https://www.vlive.tv/video/275033</link>
+            <guid>https://www.vlive.tv/video/275033</guid>
+            <pubDate>Wed, 19 Jan 2022 09:42:15 GMT</pubDate>
+            <content:encoded><![CDATA[오전 9:02]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220119_124/1642580594899xPcO4_JPEG/upload_8666030216659375123afc26c-864c-4a19-bbec-5eb0e158aaf7.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / Ji Jin Seok 지진석)]]></title>
+            <link>https://www.vlive.tv/video/274596</link>
+            <guid>https://www.vlive.tv/video/274596</guid>
+            <pubDate>Wed, 19 Jan 2022 01:39:30 GMT</pubDate>
+            <content:encoded><![CDATA[오전 9:05]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220113_249/1642070725725LXb9o_JPEG/upload_861503947561290313175db21-83c9-4672-ac75-9554ea564da7.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[신화 앤디:SHINHWA ANDY]  SNS통해 결혼 발표…아내는 9살 연하의 아나운서]]></title>
+            <link>https://www.vlive.tv/video/275040</link>
+            <guid>https://www.vlive.tv/video/275040</guid>
+            <pubDate>Wed, 19 Jan 2022 09:42:15 GMT</pubDate>
+            <content:encoded><![CDATA[오전 9:18]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220119_285/1642583887624ePArs_JPEG/upload_8666360408692651616eb8346-d4c9-4171-b833-36af7b587b27.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[눈온 뒤☃️🐶👋]]></title>
+            <link>https://www.vlive.tv/video/275041</link>
+            <guid>https://www.vlive.tv/video/275041</guid>
+            <pubDate>Wed, 19 Jan 2022 09:42:15 GMT</pubDate>
+            <content:encoded><![CDATA[오전 9:19]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/275041/thumb?type=f228_128" length="0" type="image//live/275041/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[[루미너스:LUMINOUS] 믿보돌을 꿈꾼다 'All eyes down(비상)' LIVE STAGE]]></title>
+            <link>https://www.vlive.tv/video/275042</link>
+            <guid>https://www.vlive.tv/video/275042</guid>
+            <pubDate>Wed, 19 Jan 2022 09:42:15 GMT</pubDate>
+            <content:encoded><![CDATA[오전 9:25]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220119_285/1642584337577cIFLf_JPEG/upload_86664047451875300e16b11ea-2b37-4812-8e13-37375aaf1f19.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[루미너스:LUMINOUS] 청춘의 무모함을 그리다 '섬광증(Blind)' LIVE STAGE]]></title>
+            <link>https://www.vlive.tv/video/275043</link>
+            <guid>https://www.vlive.tv/video/275043</guid>
+            <pubDate>Wed, 19 Jan 2022 09:42:15 GMT</pubDate>
+            <content:encoded><![CDATA[오전 9:25]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220119_176/1642584352682E4xqR_JPEG/upload_58853914730958201c75d17a3-f253-41ff-9a89-9e6f7c2caacb.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[필라테스 다녀온 샤랑 얘기하자 🥰💋]]></title>
+            <link>https://www.vlive.tv/video/275045</link>
+            <guid>https://www.vlive.tv/video/275045</guid>
+            <pubDate>Wed, 19 Jan 2022 09:42:15 GMT</pubDate>
+            <content:encoded><![CDATA[오전 9:30]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/275045/thumb?type=f228_128" length="0" type="image//live/275045/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[붕어빵 장수 나용 🙋‍♀️🤎]]></title>
+            <link>https://www.vlive.tv/video/275034</link>
+            <guid>https://www.vlive.tv/video/275034</guid>
+            <pubDate>Wed, 19 Jan 2022 08:43:24 GMT</pubDate>
+            <content:encoded><![CDATA[오전 9:40]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220119_165/1642581013696r3uIt_JPEG/125892489497663658fd2c090c-89fb-45d3-a9c7-fc8813fe0e23.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[♪찐우정 떠오르게 하는 노래♪ Best Friend(We can) - [소녀의 세계2] OST]]></title>
