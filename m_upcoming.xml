@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 09:43:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 10:44:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[준꽌찬과 함께하는 호캉스 ✌️ 라이브]]></title>
-            <link>https://m.vlive.tv/video/275153</link>
-            <guid>https://m.vlive.tv/video/275153</guid>
-            <pubDate>Thu, 20 Jan 2022 08:45:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">에이스(A.C.E)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220120_198/1642667395145Mm7SR_JPEG/upload_867470107087687920effb56d-21e1-4474-b231-62aa021e75bd.jpeg?type=f274_154" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[무용 <3rd Altimeets> 녹화중계]]></title>
-            <link>https://m.vlive.tv/video/273935</link>
-            <guid>https://m.vlive.tv/video/273935</guid>
-            <pubDate>Wed, 19 Jan 2022 05:39:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">V CLASSIC</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220106_93/1641443228747xY3hY_JPEG/upload_85522964177663964bbd20dfa-6fe8-4865-be21-205d2be12940.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Sound K / ZELO 젤로)]]></title>
             <link>https://m.vlive.tv/video/274595</link>
@@ -86,6 +66,26 @@
 										방송취소</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220113_180/1642054064162qT3Io_JPEG/upload_86133766209354773e385c817-6853-4af7-b423-eb5df451547e.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[툔TV📺 | 제이유가 먹는 이유?!🍽 #1]]></title>
+            <link>https://m.vlive.tv/video/275167</link>
+            <guid>https://m.vlive.tv/video/275167</guid>
+            <pubDate>Thu, 20 Jan 2022 10:43:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">TO1</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220120_190/1642672801953r7pEc_JPEG/upload_58942091841398226360766aa-7905-44a5-a148-28d57a9adf98.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하은이의 달콤한V, 심야라디오📻 - 신년특집]]></title>
+            <link>https://m.vlive.tv/video/274951</link>
+            <guid>https://m.vlive.tv/video/274951</guid>
+            <pubDate>Thu, 20 Jan 2022 10:43:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 1:00</span>
+										<span class="txt">MAJOR9 (메이저나인)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220118_8/1642490593262StNiK_JPEG/upload_86570267750946679fb93f796-fd01-40f1-af2b-7c76db3b0efe.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
