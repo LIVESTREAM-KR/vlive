@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 04:51:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 05:40:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,20 +48,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220119_193/1642584432948r3ASs_PNG/upload_588470956233802224a5c5f6f-df00-4201-bcbf-6d939481e942.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from Jimin]]></title>
-            <link>https://www.vlive.tv/video/274836</link>
-            <guid>https://www.vlive.tv/video/274836</guid>
-            <pubDate>Mon, 17 Jan 2022 05:42:23 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220117_246/1642381648243TekFO_JPEG/upload_864609791141190217b5ada59-b66d-4e51-b59d-8864da74e160.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[GOING SEVENTEEN SPECIAL] 고잉 코멘터리 (GOING COMMENTARY)]]></title>
             <link>https://www.vlive.tv/video/275046</link>
             <guid>https://www.vlive.tv/video/275046</guid>
             <pubDate>Thu, 20 Jan 2022 03:41:10 GMT</pubDate>
             <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220119_203/1642584673838dgp1P_JPEG/upload_58854216796429316f933fd5e-a8ea-4d8e-9322-a90e97b94048.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from Jimin]]></title>
+            <link>https://www.vlive.tv/video/274836</link>
+            <guid>https://www.vlive.tv/video/274836</guid>
+            <pubDate>Mon, 17 Jan 2022 05:42:23 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220117_246/1642381648243TekFO_JPEG/upload_864609791141190217b5ada59-b66d-4e51-b59d-8864da74e160.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
