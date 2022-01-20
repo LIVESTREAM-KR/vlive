@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 23:43:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 01:56:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
-            <link>https://m.vlive.tv/video/274534</link>
-            <guid>https://m.vlive.tv/video/274534</guid>
-            <pubDate>Tue, 18 Jan 2022 13:05:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220113_291/1642054678293q4w8K_JPEG/upload_86134378492084545f74d954f-1a3f-4eeb-8f8c-92eef5523668.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
             <link>https://m.vlive.tv/video/274524</link>
@@ -106,6 +96,16 @@
 										오전 4:00</span>
 										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220119_76/164258258526678nTI_PNG/upload_866622827293640592529e44e-603d-44cf-8ac6-957aea224477.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Music Access / HONG EUNKI 홍은기)]]></title>
+            <link>https://m.vlive.tv/video/274598</link>
+            <guid>https://m.vlive.tv/video/274598</guid>
+            <pubDate>Thu, 20 Jan 2022 01:55:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220113_152/1642070852816kYXY7_JPEG/upload_58340424782362900e6c7eadb-5e36-491b-800e-541d037ec0ab.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
