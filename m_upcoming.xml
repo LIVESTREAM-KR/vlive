@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 14:41:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 15:46:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -58,6 +58,16 @@
             <enclosure url="https://v-phinf.pstatic.net/20220113_180/1642054064162qT3Io_JPEG/upload_86133766209354773e385c817-6853-4af7-b423-eb5df451547e.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[🎉HBD TO WOOJU🎉 #HAPPYWOOJUDAY]]></title>
+            <link>https://m.vlive.tv/video/275206</link>
+            <guid>https://m.vlive.tv/video/275206</guid>
+            <pubDate>Thu, 20 Jan 2022 15:44:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 8:30</span>
+										<span class="txt">블리처스(BLITZERS)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220121_234/16426908027247EzRC_JPEG/upload_5896015121316935695228bcb-3e8c-4055-aeae-8ea4e3a104e8.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[툔TV📺 | 제이유가 먹는 이유?!🍽 #1]]></title>
             <link>https://m.vlive.tv/video/275167</link>
             <guid>https://m.vlive.tv/video/275167</guid>
@@ -86,16 +96,6 @@
 										오전 2:00</span>
 										<span class="txt">Beyond LIVE</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211202_248/1638420670800OCs3i_PNG/upload_54690277864586291cfc21fd2-75ee-46ea-ac48-6601a21e4f66.png?type=f274_154" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
-            <link>https://m.vlive.tv/video/275124</link>
-            <guid>https://m.vlive.tv/video/275124</guid>
-            <pubDate>Thu, 20 Jan 2022 13:39:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220120_45/1642655145209GyT7n_JPEG/upload_8673486024750208304153f33-da28-4c1e-bbb1-a567ce5eed64.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
