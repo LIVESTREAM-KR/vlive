@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 10:44:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 11:40:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Sound K / ZELO 젤로)]]></title>
-            <link>https://m.vlive.tv/video/274595</link>
-            <guid>https://m.vlive.tv/video/274595</guid>
-            <pubDate>Wed, 19 Jan 2022 07:40:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220113_205/1642070614809LCR3K_JPEG/upload_861503061278929508b20ec88-9e3d-459f-b8bb-7ab1a625fb84.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
             <link>https://m.vlive.tv/video/274533</link>
@@ -86,6 +76,26 @@
 										오후 1:00</span>
 										<span class="txt">MAJOR9 (메이저나인)</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220118_8/1642490593262StNiK_JPEG/upload_86570267750946679fb93f796-fd01-40f1-af2b-7c76db3b0efe.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[1st Re-Streaming] Beyond LIVE -TWICE 4TH WORLD TOUR ‘Ⅲ’ : SEOUL]]></title>
+            <link>https://m.vlive.tv/video/270712</link>
+            <guid>https://m.vlive.tv/video/270712</guid>
+            <pubDate>Thu, 20 Jan 2022 11:39:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 2:00</span>
+										<span class="txt">Beyond LIVE</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211202_248/1638420670800OCs3i_PNG/upload_54690277864586291cfc21fd2-75ee-46ea-ac48-6601a21e4f66.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
+            <link>https://m.vlive.tv/video/275124</link>
+            <guid>https://m.vlive.tv/video/275124</guid>
+            <pubDate>Thu, 20 Jan 2022 11:39:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220120_45/1642655145209GyT7n_JPEG/upload_8673486024750208304153f33-da28-4c1e-bbb1-a567ce5eed64.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
