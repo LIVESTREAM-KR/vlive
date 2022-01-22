@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jan 2022 07:40:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 08:46:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,31 @@
             <guid>https://www.vlive.tv/video/275323</guid>
             <pubDate>Sat, 22 Jan 2022 06:47:00 GMT</pubDate>
             <content:encoded><![CDATA[ONEWE]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/275323/thumb?type=f228_128" length="0" type="image//live/275323/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220122_216/1642838963836u87qG_JPEG/63113389-7b59-11ec-b3d2-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도모다]]></title>
+            <link>https://www.vlive.tv/video/275320</link>
+            <guid>https://www.vlive.tv/video/275320</guid>
+            <pubDate>Sat, 22 Jan 2022 08:43:42 GMT</pubDate>
+            <content:encoded><![CDATA[LAM(영화처럼)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220122_189/1642838391850QB02q_JPEG/01756217-7b51-11ec-8fb9-48df379cc9e4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Back again…]]></title>
+            <link>https://www.vlive.tv/video/275327</link>
+            <guid>https://www.vlive.tv/video/275327</guid>
+            <pubDate>Sat, 22 Jan 2022 08:43:42 GMT</pubDate>
+            <content:encoded><![CDATA[PURPLE KISS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220122_124/1642837243052JUSil_JPEG/1556256130335928624b5e7237-5ccf-4d02-9dc2-b00b809d3cfa.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘은 black mask girl🖤]]></title>
+            <link>https://www.vlive.tv/video/275326</link>
+            <guid>https://www.vlive.tv/video/275326</guid>
+            <pubDate>Sat, 22 Jan 2022 08:43:42 GMT</pubDate>
+            <content:encoded><![CDATA[PURPLE KISS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220122_8/1642836819697WPv01_JPEG/1557124226797487243f80d0b4-568c-4c8a-a731-64c579584f80.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뱀뱀 (BamBam) 'Slow Mo' Showcase Performance]]></title>
@@ -102,30 +126,6 @@
             <pubDate>Fri, 21 Jan 2022 15:44:14 GMT</pubDate>
             <content:encoded><![CDATA[다크비(DKB)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220121_200/1642769719183zmCYY_JPEG/15564530115274601173da652f-d36e-4aa5-b190-06ec6ad9bbb8.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TREASURE - 'THE SECOND STEP : CHAPTER ONE' CONCEPT FILM <BANG YE DAM>]]></title>
-            <link>https://www.vlive.tv/video/275290</link>
-            <guid>https://www.vlive.tv/video/275290</guid>
-            <pubDate>Fri, 21 Jan 2022 15:44:14 GMT</pubDate>
-            <content:encoded><![CDATA[TREASURE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220121_183/1642767130374YHqUY_JPEG/upload_590367313102312491eada4a6-3ad3-4696-8ada-63f36bc886ed.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TREASURE - 'THE SECOND STEP : CHAPTER ONE' CONCEPT FILM <ASAHI>]]></title>
-            <link>https://www.vlive.tv/video/275289</link>
-            <guid>https://www.vlive.tv/video/275289</guid>
-            <pubDate>Fri, 21 Jan 2022 15:44:14 GMT</pubDate>
-            <content:encoded><![CDATA[TREASURE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220121_65/1642767037496Ql5rW_JPEG/upload_868467408132772413f931420-7b09-41f6-a9b3-a257732a792f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TREASURE - 'THE SECOND STEP : CHAPTER ONE' CONCEPT FILM <YOON JAE HYUK>]]></title>
-            <link>https://www.vlive.tv/video/275285</link>
-            <guid>https://www.vlive.tv/video/275285</guid>
-            <pubDate>Sat, 22 Jan 2022 07:38:41 GMT</pubDate>
-            <content:encoded><![CDATA[TREASURE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220121_36/1642764589594bszBq_JPEG/upload_868443015469923991ad80777-7fb7-4a1a-b90a-895fac8ef5c9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
