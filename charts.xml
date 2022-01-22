@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jan 2022 12:57:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 13:41:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,14 +40,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220119_60/1642565743429wQwNP_JPEG/upload_8664541025144065198679d73-eaa2-4f13-a0be-ee7288a976d9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[숨좀쉬자 !!!]]></title>
-            <link>https://www.vlive.tv/video/275294</link>
-            <guid>https://www.vlive.tv/video/275294</guid>
-            <pubDate>Fri, 21 Jan 2022 13:39:25 GMT</pubDate>
-            <content:encoded><![CDATA[ASTRO]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220121_184/1642768768138Jtbyx_JPEG/126080243879355399719bbd7f-7f62-4857-827b-70c67f4ec4d7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[ARTIST-MADE COLLECTION 'SHOW' BY BTS - j-hope]]></title>
             <link>https://www.vlive.tv/video/274924</link>
             <guid>https://www.vlive.tv/video/274924</guid>
@@ -62,6 +54,14 @@
             <pubDate>Sat, 22 Jan 2022 10:42:16 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220115_243/1642200774877gpMw3_JPEG/upload_8628035023478190451158d97-51de-4cfc-9992-c0e72219827c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from Jimin]]></title>
+            <link>https://www.vlive.tv/video/274836</link>
+            <guid>https://www.vlive.tv/video/274836</guid>
+            <pubDate>Sat, 22 Jan 2022 13:39:17 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220117_246/1642381648243TekFO_JPEG/upload_864609791141190217b5ada59-b66d-4e51-b59d-8864da74e160.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
