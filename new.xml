@@ -4,7 +4,7 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 03:43:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 04:51:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,22 @@
             <guid>https://www.vlive.tv/video/275363</guid>
             <pubDate>Sun, 23 Jan 2022 03:41:11 GMT</pubDate>
             <content:encoded><![CDATA[GHOST9]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220123_256/1642911259852blNSV_JPEG/65949e0a-7c02-11ec-bf63-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JUST B환상의 짝꿍 #JM🐰 #상우🐺]]></title>
+            <link>https://www.vlive.tv/video/275365</link>
+            <guid>https://www.vlive.tv/video/275365</guid>
+            <pubDate>Sun, 23 Jan 2022 04:49:09 GMT</pubDate>
+            <content:encoded><![CDATA[JUST B (저스트비)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from Jung Kook]]></title>
+            <link>https://www.vlive.tv/video/275231</link>
+            <guid>https://www.vlive.tv/video/275231</guid>
+            <pubDate>Sun, 23 Jan 2022 04:49:09 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220121_165/1642743304770R8eme_JPEG/upload_86822901680035504b7979e38-a803-4324-8664-931b4478995b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김요한(KIM YO HAN) 'DESSERT' Dance Practice Video]]></title>
@@ -389,22 +405,6 @@
             <pubDate>Sat, 22 Jan 2022 08:43:33 GMT</pubDate>
             <content:encoded><![CDATA[PURPLE KISS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220122_8/1642836819697WPv01_JPEG/1557124226797487243f80d0b4-568c-4c8a-a731-64c579584f80.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뱀뱀 (BamBam) 'Slow Mo' Showcase Performance]]></title>
-            <link>https://www.vlive.tv/video/275254</link>
-            <guid>https://www.vlive.tv/video/275254</guid>
-            <pubDate>Sat, 22 Jan 2022 05:38:48 GMT</pubDate>
-            <content:encoded><![CDATA[BamBam]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220121_129/16427516897687nDVK_JPEG/upload_86831405379715043cc9bcb18-cf55-4654-bf2e-75abb855f911.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 N.Flying LIVE '&CON' - Man on the Moon OFFICIAL MD MAKING FILM]]></title>
-            <link>https://www.vlive.tv/video/275308</link>
-            <guid>https://www.vlive.tv/video/275308</guid>
-            <pubDate>Sat, 22 Jan 2022 04:48:58 GMT</pubDate>
-            <content:encoded><![CDATA[N.Flying]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220122_273/1642778377323v7QQP_JPEG/upload_8685807957273030195cdbd0e-3305-47af-8cd5-86863d2d239a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 03:43:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 04:51:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,23 @@
             <guid>https://www.vlive.tv/video/275363</guid>
             <pubDate>Sun, 23 Jan 2022 03:41:19 GMT</pubDate>
             <content:encoded><![CDATA[GHOST9]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/275363/thumb?type=f228_128" length="0" type="image//live/275363/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220123_256/1642911259852blNSV_JPEG/65949e0a-7c02-11ec-bf63-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JUST B환상의 짝꿍 #JM🐰 #상우🐺]]></title>
+            <link>https://www.vlive.tv/video/275365</link>
+            <guid>https://www.vlive.tv/video/275365</guid>
+            <pubDate>Sun, 23 Jan 2022 04:49:17 GMT</pubDate>
+            <content:encoded><![CDATA[JUST B (저스트비)]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/275365/thumb?type=f228_128" length="0" type="image//live/275365/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from Jung Kook]]></title>
+            <link>https://www.vlive.tv/video/275231</link>
+            <guid>https://www.vlive.tv/video/275231</guid>
+            <pubDate>Sun, 23 Jan 2022 04:49:17 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220121_165/1642743304770R8eme_JPEG/upload_86822901680035504b7979e38-a803-4324-8664-931b4478995b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김요한(KIM YO HAN) 'DESSERT' Dance Practice Video]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Sat, 22 Jan 2022 15:42:36 GMT</pubDate>
             <content:encoded><![CDATA[TREASURE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220122_235/16428505841959kGhG_JPEG/upload_86930287011604724cd76c3e1-3829-4f6b-a8f9-6cbce4fecf28.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TREASURE - 'THE SECOND STEP : CHAPTER ONE' CONCEPT FILM <PARK JEONG WOO>]]></title>
-            <link>https://www.vlive.tv/video/275338</link>
-            <guid>https://www.vlive.tv/video/275338</guid>
-            <pubDate>Sat, 22 Jan 2022 15:42:36 GMT</pubDate>
-            <content:encoded><![CDATA[TREASURE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220122_189/1642850431969IfUts_JPEG/upload_5912002654536026166830477-2075-4247-b2eb-5107e68fe107.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TREASURE - 'THE SECOND STEP : CHAPTER ONE' CONCEPT FILM <HARUTO>]]></title>
-            <link>https://www.vlive.tv/video/275337</link>
-            <guid>https://www.vlive.tv/video/275337</guid>
-            <pubDate>Sat, 22 Jan 2022 15:42:36 GMT</pubDate>
-            <content:encoded><![CDATA[TREASURE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220122_37/16428503153111XKlU_JPEG/upload_86930044490474598a300d9f8-392f-4354-b25b-aea8373f3ec6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
