@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 10:43:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 11:40:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,12 +192,52 @@
             <enclosure url="https://vlive-thumb.pstatic.net/live/275380/thumb?type=f228_128" length="0" type="image//live/275380/thumb"/>
         </item>
         <item>
+            <title><![CDATA[식샤를 합시다]]></title>
+            <link>https://www.vlive.tv/video/275377</link>
+            <guid>https://www.vlive.tv/video/275377</guid>
+            <pubDate>Sun, 23 Jan 2022 11:39:28 GMT</pubDate>
+            <content:encoded><![CDATA[오전 10:46]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220123_286/1642934819064A3dsd_JPEG/e57cb1f7-7c38-11ec-b27b-48df379cca40_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[🦊🐿🐊🐶🐰🐻🐱]]></title>
             <link>https://www.vlive.tv/video/275248</link>
             <guid>https://www.vlive.tv/video/275248</guid>
             <pubDate>Sun, 23 Jan 2022 01:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[오전 11:00]]></content:encoded>
+            <content:encoded><![CDATA[오전 10:59]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220121_27/1642749343822bAHrS_JPEG/upload_86829009015605262dc0a807d-7d7e-4774-ad4c-c2180faaf2af.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VICTON 빅톤 'Chronograph' Performance Video]]></title>
+            <link>https://www.vlive.tv/video/275309</link>
+            <guid>https://www.vlive.tv/video/275309</guid>
+            <pubDate>Sun, 23 Jan 2022 11:39:28 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220122_63/1642850335737W256c_JPEG/upload_5904930432733969197621f28-ebcf-4840-9f2a-a1bea83a59a0.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[MCND-LOG 28] 휘준이의 일기 제 2장 ❄ 스무살은 뭘 들고 다닐까? (What's in my bag?✨)]]></title>
+            <link>https://www.vlive.tv/video/275375</link>
+            <guid>https://www.vlive.tv/video/275375</guid>
+            <pubDate>Sun, 23 Jan 2022 11:39:28 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220123_165/1642930406887Mc1oy_JPEG/upload_59200006899281787a0945bd1-168d-43e9-be58-7be99178116b.jpeg?type=f228_128" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[뀨..?]]></title>
+            <link>https://www.vlive.tv/video/275381</link>
+            <guid>https://www.vlive.tv/video/275381</guid>
+            <pubDate>Sun, 23 Jan 2022 11:39:28 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:04]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220123_50/1642935867239zNlot_JPEG/155811531206245704eafe59c3-a6d2-4a7c-93b7-ce79f297a667.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🖤🤍🖤]]></title>
+            <link>https://www.vlive.tv/video/275382</link>
+            <guid>https://www.vlive.tv/video/275382</guid>
+            <pubDate>Sun, 23 Jan 2022 11:39:28 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:18]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220123_270/1642936681880Bucqo_JPEG/15581221184595745142bcb01b-f4c6-4d87-b657-838f5c26ccd3.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
