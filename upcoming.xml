@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 12:58:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 13:40:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -176,13 +176,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220123_113/1642934381460laIHV_JPEG/77985f88-7c38-11ec-b282-48df37ae3dc4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[박준희 먹방.]]></title>
-            <link>https://www.vlive.tv/video/275380</link>
-            <guid>https://www.vlive.tv/video/275380</guid>
-            <pubDate>Sun, 23 Jan 2022 10:41:56 GMT</pubDate>
-            <content:encoded><![CDATA[오전 10:40]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[식샤를 합시다]]></title>
             <link>https://www.vlive.tv/video/275377</link>
             <guid>https://www.vlive.tv/video/275377</guid>
@@ -287,14 +280,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220123_105/1642939231554aCSJw_JPEG/155727605491612276b8623277-de6d-4472-a77e-f8e167ad11a3.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[WJSN] 쪼꼬미 히어로 졸업식🦸‍♀️]]></title>
-            <link>https://www.vlive.tv/video/275393</link>
-            <guid>https://www.vlive.tv/video/275393</guid>
-            <pubDate>Sun, 23 Jan 2022 12:57:31 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:48]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/275393/thumb?type=f228_128" length="0" type="image//live/275393/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[🖤🤍🖤]]></title>
             <link>https://www.vlive.tv/video/275382</link>
             <guid>https://www.vlive.tv/video/275382</guid>
@@ -309,6 +294,38 @@
             <pubDate>Sun, 23 Jan 2022 12:57:31 GMT</pubDate>
             <content:encoded><![CDATA[오후 12:53]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220123_237/16429423954799fk5n_JPEG/7f77bbdc-7c4a-11ec-9f69-505dac8c3639_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[몬채널][B] EP.279 MINHYUK MAPS]]></title>
+            <link>https://www.vlive.tv/video/275165</link>
+            <guid>https://www.vlive.tv/video/275165</guid>
+            <pubDate>Sun, 23 Jan 2022 13:39:40 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220120_111/1642672086236fb9NK_JPEG/upload_8675179692238591683382233-44ed-4ba5-b1db-e2c96b070413.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[fromis_9 (프로미스나인) 'DM' M/V Reaction]]></title>
+            <link>https://www.vlive.tv/video/275166</link>
+            <guid>https://www.vlive.tv/video/275166</guid>
+            <pubDate>Sun, 23 Jan 2022 13:39:40 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220121_156/1642745110273ex3d0_JPEG/upload_86824826016967322cc73151e-0158-4ab0-bec1-c75a33376098.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박준희 먹방.]]></title>
+            <link>https://www.vlive.tv/video/275380</link>
+            <guid>https://www.vlive.tv/video/275380</guid>
+            <pubDate>Sun, 23 Jan 2022 10:41:56 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:19]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220123_86/1642943947726cvQ3S_JPEG/e2cb5db4-7c4c-11ec-b27b-48df379cca40_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[WJSN] 쪼꼬미 히어로 졸업식🦸‍♀️]]></title>
+            <link>https://www.vlive.tv/video/275393</link>
+            <guid>https://www.vlive.tv/video/275393</guid>
+            <pubDate>Sun, 23 Jan 2022 12:57:31 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:29]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220123_297/1642944590697LGQ22_JPEG/f1f99949-7c4f-11ec-8e85-48df379ccacc_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
