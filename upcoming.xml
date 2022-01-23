@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 15:45:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 16:59:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -344,14 +344,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220123_213/1642948579896f07ca_JPEG/4d57b5f4-7c59-11ec-8e85-48df379ccacc_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[❤️🎉happy IMCHAN day🥳❤️]]></title>
-            <link>https://www.vlive.tv/video/275404</link>
-            <guid>https://www.vlive.tv/video/275404</guid>
-            <pubDate>Sun, 23 Jan 2022 15:44:31 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:52]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220123_285/1642949528367pWwAB_JPEG/upload_87029208845194115d1d3d847-6fa8-48bf-822d-ba9d1ec647ae.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[원필 <Pilmography> Mood Film]]></title>
             <link>https://www.vlive.tv/video/275234</link>
             <guid>https://www.vlive.tv/video/275234</guid>
@@ -406,6 +398,22 @@
             <pubDate>Sun, 23 Jan 2022 15:44:31 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:36]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220123_141/1642949368686duG9Y_JPEG/1557377600556370862f51e08c-b519-45e9-8e12-ca18df3a53e9.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쪼 왔다🐯]]></title>
+            <link>https://www.vlive.tv/video/275397</link>
+            <guid>https://www.vlive.tv/video/275397</guid>
+            <pubDate>Sun, 23 Jan 2022 16:58:03 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:44]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220124_148/16429526732565thVW_JPEG/85b36ad5-7c62-11ec-955b-a0369ff95678_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[❤️🎉happy IMCHAN day🥳❤️]]></title>
+            <link>https://www.vlive.tv/video/275404</link>
+            <guid>https://www.vlive.tv/video/275404</guid>
+            <pubDate>Sun, 23 Jan 2022 15:44:31 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:02]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220123_285/1642949528367pWwAB_JPEG/upload_87029208845194115d1d3d847-6fa8-48bf-822d-ba9d1ec647ae.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
