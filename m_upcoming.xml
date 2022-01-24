@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 04:52:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 05:40:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Music Access / MIRAE 미래소년)]]></title>
-            <link>https://m.vlive.tv/video/275048</link>
-            <guid>https://m.vlive.tv/video/275048</guid>
-            <pubDate>Fri, 21 Jan 2022 08:45:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220119_173/1642585419619bzS5L_JPEG/upload_866650950555327870ed729c8-2640-4cc0-ba0f-a9194eee1d4f.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Super K-Pop / BZ-BOYS 청공소년)]]></title>
             <link>https://m.vlive.tv/video/275049</link>
@@ -96,6 +86,16 @@
 										오전 4:00</span>
 										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220121_66/1642749708494w9LuX_PNG/upload_86829402173481041a25b260e-58ab-421b-b541-6c5f13117f3d.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[Music Access] Pop&Going wih Fatou 파투 & Won Jun 원준]]></title>
+            <link>https://m.vlive.tv/video/275116</link>
+            <guid>https://m.vlive.tv/video/275116</guid>
+            <pubDate>Mon, 24 Jan 2022 05:39:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220120_277/1642654830274vA4fL_JPEG/upload_5892442234201135026dceddf-86f2-48b8-8369-e4da1c67bca6.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
