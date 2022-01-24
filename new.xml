@@ -4,7 +4,7 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 03:45:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 04:52:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,23 @@
             <guid>https://www.vlive.tv/video/275416</guid>
             <pubDate>Mon, 24 Jan 2022 03:43:07 GMT</pubDate>
             <content:encoded><![CDATA[GHOST9]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220124_259/16429991917539H1f9_JPEG/00cafc6d-7ccf-11ec-bf5d-a0369ff952f4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예고] 연극 <터키행진곡> 녹화중계]]></title>
+            <link>https://www.vlive.tv/video/275418</link>
+            <guid>https://www.vlive.tv/video/275418</guid>
+            <pubDate>Mon, 24 Jan 2022 04:50:09 GMT</pubDate>
+            <content:encoded><![CDATA[V MUSICAL]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220124_184/16429991555465j0pt_JPEG/5fd287da-7ccf-11ec-9cfd-505dacfba98a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[hi minimonster]]></title>
+            <link>https://www.vlive.tv/video/275413</link>
+            <guid>https://www.vlive.tv/video/275413</guid>
+            <pubDate>Mon, 24 Jan 2022 02:55:44 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220124_5/1642991860600x2cBt_JPEG/upload_870715622010827258290f56b-721e-4db0-97eb-6f56b0937b1d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[The M] 경서 "꿈이라면(Maybe if)" M/V]]></title>
@@ -53,14 +70,6 @@
             <pubDate>Mon, 24 Jan 2022 03:43:07 GMT</pubDate>
             <content:encoded><![CDATA[FNC]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220120_296/1642642926428HCFRm_JPEG/upload_5866951739001269593952b8e-d81e-4385-a5c6-e0d548d54bcc.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[hi minimonster]]></title>
-            <link>https://www.vlive.tv/video/275413</link>
-            <guid>https://www.vlive.tv/video/275413</guid>
-            <pubDate>Mon, 24 Jan 2022 02:55:44 GMT</pubDate>
-            <content:encoded><![CDATA[sema]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220124_5/1642991860600x2cBt_JPEG/upload_870715622010827258290f56b-721e-4db0-97eb-6f56b0937b1d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
@@ -397,14 +406,6 @@
             <pubDate>Sun, 23 Jan 2022 10:41:04 GMT</pubDate>
             <content:encoded><![CDATA[루미너스 (LUMINOUS)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220122_288/16428285706584sUFY_PNG/upload_86907961857428253d03827ad-fda7-405b-8094-3d5e264597d9.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[일요일😝]]></title>
-            <link>https://www.vlive.tv/video/275374</link>
-            <guid>https://www.vlive.tv/video/275374</guid>
-            <pubDate>Sun, 23 Jan 2022 09:39:36 GMT</pubDate>
-            <content:encoded><![CDATA[멋진녀석들 (GreatGuys)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220123_41/1642929773930PKIXX_JPEG/6498221239722764247b9588f-072f-4c68-8dbc-60729dc45734.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
