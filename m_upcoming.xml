@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 11:41:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 13:00:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,16 @@
 										오전 11:00</span>
 										<span class="txt">V MUSICAL</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220111_47/1641876691782kRX8U_JPEG/upload_581462988491608038648cb73-febc-4830-9752-b07d04f18955.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[NU'EST] 2022 HAPPY NU'YEAR : 안방 1열 라이브]]></title>
+            <link>https://m.vlive.tv/video/275460</link>
+            <guid>https://m.vlive.tv/video/275460</guid>
+            <pubDate>Mon, 24 Jan 2022 12:59:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">NU'EST</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220124_205/1643018424142oA24F_JPEG/upload_870868762431920972cfb4d15-d908-4ae3-87ab-87c9af8c8fc2.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
