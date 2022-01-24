@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 19:44:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 20:42:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Short]]></title>
+            <link>https://www.vlive.tv/video/275484</link>
+            <guid>https://www.vlive.tv/video/275484</guid>
+            <pubDate>Mon, 24 Jan 2022 20:40:38 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220125_186/1643054156894Azwcn_JPEG/420295234530962815dac46df-a312-430c-9ee9-5cfc082241e5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[😽]]></title>
             <link>https://www.vlive.tv/video/275480</link>
@@ -398,14 +406,6 @@
             <pubDate>Mon, 24 Jan 2022 08:44:38 GMT</pubDate>
             <content:encoded><![CDATA[Ktimes]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220124_85/16430136311400FXHg_PNG/upload_8709334912639574608437b8a-6f47-455c-8219-9aabc5e45666.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[놀러왓당!]]></title>
-            <link>https://www.vlive.tv/video/275435</link>
-            <guid>https://www.vlive.tv/video/275435</guid>
-            <pubDate>Mon, 24 Jan 2022 06:51:22 GMT</pubDate>
-            <content:encoded><![CDATA[EVERGLOW (에버글로우)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220124_49/164300690184191ECx_JPEG/650593402945684044f97addd-77af-49f4-ba1f-978b9897858e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

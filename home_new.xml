@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 19:44:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 20:42:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Short]]></title>
+            <link>https://www.vlive.tv/video/275484</link>
+            <guid>https://www.vlive.tv/video/275484</guid>
+            <pubDate>Mon, 24 Jan 2022 20:40:47 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220125_186/1643054156894Azwcn_JPEG/420295234530962815dac46df-a312-430c-9ee9-5cfc082241e5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[😽]]></title>
             <link>https://www.vlive.tv/video/275480</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 24 Jan 2022 12:58:08 GMT</pubDate>
             <content:encoded><![CDATA[VERIVERY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220124_194/1643030993301Og59F_JPEG/f84178f0-7d18-11ec-bf63-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빈,us 레츠고]]></title>
-            <link>https://www.vlive.tv/video/275466</link>
-            <guid>https://www.vlive.tv/video/275466</guid>
-            <pubDate>Mon, 24 Jan 2022 12:58:08 GMT</pubDate>
-            <content:encoded><![CDATA[SF9]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220124_113/1643030799879bz8Qc_JPEG/af8e2c7d-7d18-11ec-9f69-505dac8c3639_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
