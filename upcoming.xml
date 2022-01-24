@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 05:40:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 06:53:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -164,8 +164,16 @@
             <link>https://www.vlive.tv/video/275425</link>
             <guid>https://www.vlive.tv/video/275425</guid>
             <pubDate>Mon, 24 Jan 2022 05:39:33 GMT</pubDate>
-            <content:encoded><![CDATA[오전 5:25]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/275425/thumb?type=f228_128" length="0" type="image//live/275425/thumb"/>
+            <content:encoded><![CDATA[오전 5:57]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220124_105/1643003838156pkIQ9_JPEG/f6a9240b-7cd9-11ec-b3d2-48df37ae3fca_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[놀러왓당!]]></title>
+            <link>https://www.vlive.tv/video/275435</link>
+            <guid>https://www.vlive.tv/video/275435</guid>
+            <pubDate>Mon, 24 Jan 2022 06:52:13 GMT</pubDate>
+            <content:encoded><![CDATA[오전 6:48]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220124_49/164300690184191ECx_JPEG/650593402945684044f97addd-77af-49f4-ba1f-978b9897858e.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Arirang Radio (Super K-Pop / BZ-BOYS 청공소년)]]></title>

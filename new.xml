@@ -4,15 +4,24 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 05:40:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 06:53:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[놀러왓당!]]></title>
+            <link>https://www.vlive.tv/video/275435</link>
+            <guid>https://www.vlive.tv/video/275435</guid>
+            <pubDate>Mon, 24 Jan 2022 06:51:22 GMT</pubDate>
+            <content:encoded><![CDATA[EVERGLOW (에버글로우)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220124_49/164300690184191ECx_JPEG/650593402945684044f97addd-77af-49f4-ba1f-978b9897858e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Ciipehr] 🌀🌀🌀]]></title>
             <link>https://www.vlive.tv/video/275425</link>
             <guid>https://www.vlive.tv/video/275425</guid>
             <pubDate>Mon, 24 Jan 2022 05:38:32 GMT</pubDate>
             <content:encoded><![CDATA[싸이퍼(Ciipher)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220124_105/1643003838156pkIQ9_JPEG/f6a9240b-7cd9-11ec-b3d2-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Ciipher] 🌀🌀🌀]]></title>
@@ -397,14 +406,6 @@
             <pubDate>Sun, 23 Jan 2022 11:38:35 GMT</pubDate>
             <content:encoded><![CDATA[VICTON]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220122_63/1642850335737W256c_JPEG/upload_5904930432733969197621f28-ebcf-4840-9f2a-a1bea83a59a0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[식샤를 합시다]]></title>
-            <link>https://www.vlive.tv/video/275377</link>
-            <guid>https://www.vlive.tv/video/275377</guid>
-            <pubDate>Sun, 23 Jan 2022 11:38:35 GMT</pubDate>
-            <content:encoded><![CDATA[블리처스(BLITZERS)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220123_286/1642934819064A3dsd_JPEG/e57cb1f7-7c38-11ec-b27b-48df379cca40_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,16 +4,24 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 05:40:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 06:53:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[놀러왓당!]]></title>
+            <link>https://www.vlive.tv/video/275435</link>
+            <guid>https://www.vlive.tv/video/275435</guid>
+            <pubDate>Mon, 24 Jan 2022 06:51:30 GMT</pubDate>
+            <content:encoded><![CDATA[EVERGLOW (에버글로우)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220124_49/164300690184191ECx_JPEG/650593402945684044f97addd-77af-49f4-ba1f-978b9897858e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Ciipehr] 🌀🌀🌀]]></title>
             <link>https://www.vlive.tv/video/275425</link>
             <guid>https://www.vlive.tv/video/275425</guid>
             <pubDate>Mon, 24 Jan 2022 05:38:42 GMT</pubDate>
             <content:encoded><![CDATA[싸이퍼(Ciipher)]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/275425/thumb?type=f228_128" length="0" type="image//live/275425/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220124_105/1643003838156pkIQ9_JPEG/f6a9240b-7cd9-11ec-b3d2-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Ciipher] 🌀🌀🌀]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 24 Jan 2022 01:44:26 GMT</pubDate>
             <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220120_45/1642655145209GyT7n_JPEG/upload_8673486024750208304153f33-da28-4c1e-bbb1-a567ce5eed64.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[《예고》진진&라키(ASTRO)가 유쾌한 매력의 곡 '숨 좀 쉬자(Just Breath)'로 ASC를 찾아온다~!! _ 507회]]></title>
-            <link>https://www.vlive.tv/video/275406</link>
-            <guid>https://www.vlive.tv/video/275406</guid>
-            <pubDate>Mon, 24 Jan 2022 02:55:52 GMT</pubDate>
-            <content:encoded><![CDATA[After School Club │ 애프터스쿨클럽]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220124_24/16429890683932vWAC_PNG/upload_870688006466056402539cf89-e5af-405c-b7a4-dda41305ae59.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
