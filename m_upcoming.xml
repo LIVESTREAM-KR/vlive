@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 10:44:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 11:41:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[2nd Re-Streaming] Beyond LIVE -TWICE 4TH WORLD TOUR ‘Ⅲ’ : SEOUL]]></title>
-            <link>https://m.vlive.tv/video/270714</link>
-            <guid>https://m.vlive.tv/video/270714</guid>
-            <pubDate>Fri, 21 Jan 2022 10:45:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">Beyond LIVE</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211202_197/1638420760728s1x8y_PNG/upload_82500496150897953e3119c30-6570-469b-a60f-f513fed946ab.png?type=f274_154" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Arirang Radio (Sound K / Mckdaddy 맥대디)]]></title>
-            <link>https://m.vlive.tv/video/275180</link>
-            <guid>https://m.vlive.tv/video/275180</guid>
-            <pubDate>Sat, 22 Jan 2022 09:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220120_277/1642677482651lKGow_JPEG/upload_589470498908760561d9603d5-bf84-4462-8c20-46d63570d9cd.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
             <link>https://m.vlive.tv/video/275130</link>
@@ -76,6 +56,26 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220120_142/1642655102673EpdWQ_JPEG/upload_8673480345066091816a9b35a-b772-486e-a3a5-9ce9e2b251e2.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HAPPY NAHYUN DAY 🐱💛]]></title>
+            <link>https://m.vlive.tv/video/275457</link>
+            <guid>https://m.vlive.tv/video/275457</guid>
+            <pubDate>Mon, 24 Jan 2022 11:40:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:30</span>
+										<span class="txt">HOT ISSUE</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220124_43/1643016601981hILN9_JPEG/upload_87096158776826114130d8f8d-c186-4b32-9bee-e5c21bdfa1a1.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <월드다방> 녹화중계]]></title>
+            <link>https://m.vlive.tv/video/274346</link>
+            <guid>https://m.vlive.tv/video/274346</guid>
+            <pubDate>Mon, 24 Jan 2022 11:40:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">V MUSICAL</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220111_47/1641876691782kRX8U_JPEG/upload_581462988491608038648cb73-febc-4830-9752-b07d04f18955.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
