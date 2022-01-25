@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 15:46:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 17:01:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -504,14 +504,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220125_200/1643116577090BT8EE_JPEG/bbc2932f-7de0-11ec-8355-246e963a4708_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[안늉]]></title>
-            <link>https://www.vlive.tv/video/275563</link>
-            <guid>https://www.vlive.tv/video/275563</guid>
-            <pubDate>Tue, 25 Jan 2022 13:40:11 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:17]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/275563/thumb?type=f228_128" length="0" type="image//live/275563/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[[vav]세반 잠깐 들려요^^]]></title>
             <link>https://www.vlive.tv/video/275555</link>
             <guid>https://www.vlive.tv/video/275555</guid>
@@ -598,6 +590,22 @@
             <pubDate>Tue, 25 Jan 2022 13:40:11 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:13]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220126_65/1643123584816q2imm_JPEG/cc9a25cf-7df0-11ec-bf63-505dac8c3721_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보라를 보라💚]]></title>
+            <link>https://www.vlive.tv/video/275566</link>
+            <guid>https://www.vlive.tv/video/275566</guid>
+            <pubDate>Tue, 25 Jan 2022 17:00:11 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:45]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220126_149/1643125558551yHqcb_JPEG/2a10351e-7df4-11ec-b3d2-48df37ae3fca_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안늉]]></title>
+            <link>https://www.vlive.tv/video/275563</link>
+            <guid>https://www.vlive.tv/video/275563</guid>
+            <pubDate>Tue, 25 Jan 2022 13:40:11 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:01]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220126_139/1643126463538dKUbI_JPEG/4352336c-7df6-11ec-b282-48df37ae3dc4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
