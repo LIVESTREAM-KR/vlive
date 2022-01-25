@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 01:50:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 02:53:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
-            <link>https://m.vlive.tv/video/275117</link>
-            <guid>https://m.vlive.tv/video/275117</guid>
-            <pubDate>Sun, 23 Jan 2022 15:44:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 2:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220120_153/16426548836765LLSe_JPEG/upload_58924471713536137ebacd9fa-c9ac-4239-ac36-157bbd8653e1.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[ASC Live Ep.507 (JINJIN&ROCKY(ASTRO) / 진진&라키(아스트로))]]></title>
             <link>https://m.vlive.tv/video/275249</link>
@@ -78,6 +68,16 @@
             <enclosure url="https://v-phinf.pstatic.net/20220124_205/1643018424142oA24F_JPEG/upload_870868762431920972cfb4d15-d908-4ae3-87ab-87c9af8c8fc2.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[포맨] 미리 만나는 포맨(4MEN) ‘설날특집’🥣]]></title>
+            <link>https://m.vlive.tv/video/275493</link>
+            <guid>https://m.vlive.tv/video/275493</guid>
+            <pubDate>Tue, 25 Jan 2022 02:52:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 1:00</span>
+										<span class="txt">MAJOR9 (메이저나인)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220125_167/1643078477817UxHff_JPEG/upload_87158163573323315759d0307-cd32-4687-8991-21997092c7d9.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthews]]></title>
             <link>https://m.vlive.tv/video/275127</link>
             <guid>https://m.vlive.tv/video/275127</guid>
@@ -96,6 +96,16 @@
 										오전 2:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220120_232/1642654912362h8Ap7_JPEG/upload_86734632821438529fd972eef-85d3-499a-9be5-4d3176dc9a06.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[K-Poppin'] Musical Composer Kim Hyo Eun 뮤지컬 작곡가 김효은]]></title>
+            <link>https://m.vlive.tv/video/275132</link>
+            <guid>https://m.vlive.tv/video/275132</guid>
+            <pubDate>Tue, 25 Jan 2022 02:52:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220120_102/1642655631630HIXyh_JPEG/upload_867353277360808659509d2a5-6d4a-4f99-95b8-887e21df53de.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
