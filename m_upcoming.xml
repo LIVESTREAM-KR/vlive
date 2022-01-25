@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 23:40:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 01:50:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
-            <link>https://m.vlive.tv/video/275130</link>
-            <guid>https://m.vlive.tv/video/275130</guid>
-            <pubDate>Sat, 22 Jan 2022 09:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220120_150/1642655326619y1Xu1_JPEG/upload_58924910836032418799a91c0-b52f-4d7d-81db-645f0e5b3643.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
             <link>https://m.vlive.tv/video/275117</link>
@@ -86,6 +76,26 @@
 										오전 11:00</span>
 										<span class="txt">NU'EST</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220124_205/1643018424142oA24F_JPEG/upload_870868762431920972cfb4d15-d908-4ae3-87ab-87c9af8c8fc2.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthews]]></title>
+            <link>https://m.vlive.tv/video/275127</link>
+            <guid>https://m.vlive.tv/video/275127</guid>
+            <pubDate>Tue, 25 Jan 2022 01:48:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220120_246/1642655272811qcAic_JPEG/upload_867349726410897591a6eb97a-9193-4804-9bf2-d2316cb51df4.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
+            <link>https://m.vlive.tv/video/275118</link>
+            <guid>https://m.vlive.tv/video/275118</guid>
+            <pubDate>Tue, 25 Jan 2022 01:48:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 2:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220120_232/1642654912362h8Ap7_JPEG/upload_86734632821438529fd972eef-85d3-499a-9be5-4d3176dc9a06.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

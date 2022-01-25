@@ -1,29 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>V LIVE ─ STORE ─ V LIVE+</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 23:40:55 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[코드 입력 상품] Beyond LIVE -TWICE 4TH WORLD TOUR ‘Ⅲ’ : SEOUL]]></title>
-            <link>https://www.vlive.tv/product/ds00u00u00000458</link>
-            <guid>https://www.vlive.tv/product/ds00u00u00000458</guid>
-            <pubDate>Mon, 06 Dec 2021 06:38:46 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.06.-
-			2021.12.06.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211203_210/1638512046181Ptp6m_PNG/upload_82591781601267926656d9e80-c07c-49af-ae12-c5af7887014e.png?type=f389_146" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Beyond LIVE -TWICE 4TH WORLD TOUR ‘Ⅲ’ : SEOUL]]></title>
-            <link>https://www.vlive.tv/product/ds00u00u00000457</link>
-            <guid>https://www.vlive.tv/product/ds00u00u00000457</guid>
-            <pubDate>Mon, 06 Dec 2021 06:38:46 GMT</pubDate>
-            <content:encoded><![CDATA[2021.12.06.-
-			2021.12.06.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211203_210/1638512046181Ptp6m_PNG/upload_82591781601267926656d9e80-c07c-49af-ae12-c5af7887014e.png?type=f389_146" length="0" type="image/png"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.vlive.tv/vstore/video?lang=ko</id>
+    <title>V LIVE ─ STORE ─ V LIVE+</title>
+    <updated>2022-01-25T01:50:11.875Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.vlive.tv/vstore/favicon.ico</icon>
+</feed>
