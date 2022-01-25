@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 13:00:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 13:41:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[포맨] 미리 만나는 포맨(4MEN) ‘설날특집’🥣]]></title>
-            <link>https://m.vlive.tv/video/275493</link>
-            <guid>https://m.vlive.tv/video/275493</guid>
-            <pubDate>Tue, 25 Jan 2022 02:52:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 12:59</span>
-										<span class="txt">MAJOR9 (메이저나인)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220125_167/1643078477817UxHff_JPEG/upload_87158163573323315759d0307-cd32-4687-8991-21997092c7d9.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthews]]></title>
             <link>https://m.vlive.tv/video/275127</link>
@@ -76,6 +66,26 @@
 										오전 10:00</span>
 										<span class="txt">청공소년 (Bz_Boys)</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220125_244/1643115225229QPPnp_JPEG/upload_87194735527680569c6968b42-06ff-4ea0-9a65-82d1e7c02e4e.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우즈도령의 떡국 만들기]]></title>
+            <link>https://m.vlive.tv/video/275562</link>
+            <guid>https://m.vlive.tv/video/275562</guid>
+            <pubDate>Tue, 25 Jan 2022 13:40:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">WOODZ (조승연)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220125_243/1643116253170tWKNC_JPEG/upload_59385279112412133dfaf7d56-fd9b-49f2-972f-56a07e371729.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🐰05즈의 잘보이는 라디오📻🦜 EP.10 쏭언니와 함께 하는 고민 상담소🐹🎉]]></title>
+            <link>https://m.vlive.tv/video/274862</link>
+            <guid>https://m.vlive.tv/video/274862</guid>
+            <pubDate>Tue, 25 Jan 2022 13:40:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">TRI.BE</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220117_125/1642406741123pldiM_JPEG/upload_86486366366139578bb08678d-e14b-4f32-842a-5e51d28527f3.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
