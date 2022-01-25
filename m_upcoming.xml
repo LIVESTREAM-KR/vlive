@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 09:43:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 10:44:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[HAPPY NAHYUN DAY 🐱💛]]></title>
-            <link>https://m.vlive.tv/video/275457</link>
-            <guid>https://m.vlive.tv/video/275457</guid>
-            <pubDate>Mon, 24 Jan 2022 11:40:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										방송취소</span>
-										<span class="txt">HOT ISSUE</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220124_43/1643016601981hILN9_JPEG/upload_87096158776826114130d8f8d-c186-4b32-9bee-e5c21bdfa1a1.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연극 <월드다방> 녹화중계]]></title>
-            <link>https://m.vlive.tv/video/274346</link>
-            <guid>https://m.vlive.tv/video/274346</guid>
-            <pubDate>Mon, 24 Jan 2022 11:40:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">V MUSICAL</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220111_47/1641876691782kRX8U_JPEG/upload_581462988491608038648cb73-febc-4830-9752-b07d04f18955.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[NU'EST] 2022 HAPPY NU'YEAR : 안방 1열 라이브]]></title>
             <link>https://m.vlive.tv/video/275460</link>
@@ -96,6 +76,26 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220119_74/1642585612701V3QYr_JPEG/upload_86665259408365252e5579ef4-71a9-45d2-af1e-23d2d5e115d0.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🐰05즈의 잘보이는 라디오📻🦜 EP.10 쏭언니와 함께 하는 고민 상담소🐹🎉]]></title>
+            <link>https://m.vlive.tv/video/274862</link>
+            <guid>https://m.vlive.tv/video/274862</guid>
+            <pubDate>Tue, 25 Jan 2022 10:43:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">TRI.BE</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220117_125/1642406741123pldiM_JPEG/upload_86486366366139578bb08678d-e14b-4f32-842a-5e51d28527f3.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
+            <link>https://m.vlive.tv/video/275126</link>
+            <guid>https://m.vlive.tv/video/275126</guid>
+            <pubDate>Tue, 25 Jan 2022 10:43:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220120_172/1642655233874o87si_JPEG/upload_8673492908573380944579a0c-a991-4db6-b4f4-3767dfba3cb8.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
