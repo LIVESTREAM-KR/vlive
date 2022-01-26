@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 22:42:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 23:42:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -814,6 +814,14 @@
             <pubDate>Wed, 26 Jan 2022 16:59:10 GMT</pubDate>
             <content:encoded><![CDATA[오후 4:47]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220127_69/1643215620419WshC1_JPEG/f54a8a9f-7ec6-11ec-9ab6-a0369ff963bc_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[제31회 서울가요대상 SMA 풀캠] 임영웅(Lim Young woong) '본상 소감']]></title>
+            <link>https://www.vlive.tv/video/275676</link>
+            <guid>https://www.vlive.tv/video/275676</guid>
+            <pubDate>Wed, 26 Jan 2022 23:41:10 GMT</pubDate>
+            <content:encoded><![CDATA[오후 11:40]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220127_160/1643240432505Efj6y_PNG/upload_595100111901601252e9226c0-aef2-449a-a87f-31864314bb68.png?type=f228_128" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
