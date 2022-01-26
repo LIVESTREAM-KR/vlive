@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 05:41:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 06:50:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -33,7 +33,7 @@
             <guid>https://m.vlive.tv/video/275562</guid>
             <pubDate>Tue, 25 Jan 2022 13:40:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
+										방송취소</span>
 										<span class="txt">WOODZ (조승연)</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220125_243/1643116253170tWKNC_JPEG/upload_59385279112412133dfaf7d56-fd9b-49f2-972f-56a07e371729.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
@@ -66,16 +66,6 @@
 										오전 2:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220120_103/1642654934906cOuNG_JPEG/upload_589245255709811663292a7be-7abf-46c4-bb37-ca696bdf1b04.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Music Access] TMB(Text Me Back) with JUNNY(주니)]]></title>
-            <link>https://m.vlive.tv/video/275113</link>
-            <guid>https://m.vlive.tv/video/275113</guid>
-            <pubDate>Wed, 26 Jan 2022 05:40:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220120_2/1642654766459M1uKH_JPEG/upload_589243512282308272bd07c24-2c27-4688-87a4-e5f5c9c611f4.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
