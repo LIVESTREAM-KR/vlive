@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 08:45:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 09:43:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220120_266/1642655002601YEft9_JPEG/upload_58924592607667658f1d05c47-cf07-4ba0-951f-b5fbdfa463fe.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <서찰을 전하는 아이> 녹화중계]]></title>
+            <link>https://m.vlive.tv/video/274937</link>
+            <guid>https://m.vlive.tv/video/274937</guid>
+            <pubDate>Wed, 26 Jan 2022 09:42:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">V MUSICAL</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220118_28/1642480267240wBQlB_JPEG/upload_5874987426594155067d7c821-105f-4b00-bd8c-edda03877e4b.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
