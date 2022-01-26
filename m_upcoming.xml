@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 09:43:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 10:44:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[🎂 HBD TAEWOONG 🎂]]></title>
-            <link>https://m.vlive.tv/video/275559</link>
-            <guid>https://m.vlive.tv/video/275559</guid>
-            <pubDate>Tue, 25 Jan 2022 12:59:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">청공소년 (Bz_Boys)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220125_244/1643115225229QPPnp_JPEG/upload_87194735527680569c6968b42-06ff-4ea0-9a65-82d1e7c02e4e.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우즈도령의 떡국 만들기]]></title>
-            <link>https://m.vlive.tv/video/275562</link>
-            <guid>https://m.vlive.tv/video/275562</guid>
-            <pubDate>Tue, 25 Jan 2022 13:40:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										방송취소</span>
-										<span class="txt">WOODZ (조승연)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220125_243/1643116253170tWKNC_JPEG/upload_59385279112412133dfaf7d56-fd9b-49f2-972f-56a07e371729.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[🐰05즈의 잘보이는 라디오📻🦜 EP.10 쏭언니와 함께 하는 고민 상담소🐹🎉]]></title>
             <link>https://m.vlive.tv/video/274862</link>
@@ -86,6 +66,36 @@
 										오전 11:00</span>
 										<span class="txt">V MUSICAL</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220118_28/1642480267240wBQlB_JPEG/upload_5874987426594155067d7c821-105f-4b00-bd8c-edda03877e4b.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / Way Ched 웨이체드)]]></title>
+            <link>https://m.vlive.tv/video/275179</link>
+            <guid>https://m.vlive.tv/video/275179</guid>
+            <pubDate>Wed, 26 Jan 2022 10:43:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220120_35/1642677384524zCoT5_JPEG/upload_589469481360233581a74374a-99fb-468d-89d0-e568b2055b02.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
+            <link>https://m.vlive.tv/video/275125</link>
+            <guid>https://m.vlive.tv/video/275125</guid>
+            <pubDate>Wed, 26 Jan 2022 10:43:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220120_276/164265518646194KCp_JPEG/upload_86734884183423188b43a9944-dd11-4786-965f-c0c656ebe068.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
+            <link>https://m.vlive.tv/video/275120</link>
+            <guid>https://m.vlive.tv/video/275120</guid>
+            <pubDate>Wed, 26 Jan 2022 10:43:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 2:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220120_232/1642654965742vRJnk_JPEG/upload_867346885059517051d358ed1-de1c-49b2-a004-37da066453b2.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
