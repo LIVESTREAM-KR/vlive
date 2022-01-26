@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 03:43:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 04:51:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[K-Poppin'] Musical Composer Kim Hyo Eun 뮤지컬 작곡가 김효은]]></title>
-            <link>https://m.vlive.tv/video/275132</link>
-            <guid>https://m.vlive.tv/video/275132</guid>
-            <pubDate>Tue, 25 Jan 2022 02:52:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 4:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220120_102/1642655631630HIXyh_JPEG/upload_867353277360808659509d2a5-6d4a-4f99-95b8-887e21df53de.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Music Access] MA MVP with DANN of KINGDOM 킹덤 단]]></title>
             <link>https://m.vlive.tv/video/275114</link>
@@ -76,6 +66,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220120_172/1642655233874o87si_JPEG/upload_8673492908573380944579a0c-a991-4db6-b4f4-3767dfba3cb8.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
+            <link>https://m.vlive.tv/video/275119</link>
+            <guid>https://m.vlive.tv/video/275119</guid>
+            <pubDate>Wed, 26 Jan 2022 04:50:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 2:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220120_103/1642654934906cOuNG_JPEG/upload_589245255709811663292a7be-7abf-46c4-bb37-ca696bdf1b04.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
