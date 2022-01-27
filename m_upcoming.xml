@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 09:44:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 10:44:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[연극 <서찰을 전하는 아이> 녹화중계]]></title>
-            <link>https://m.vlive.tv/video/274937</link>
-            <guid>https://m.vlive.tv/video/274937</guid>
-            <pubDate>Wed, 26 Jan 2022 09:42:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">V MUSICAL</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220118_28/1642480267240wBQlB_JPEG/upload_5874987426594155067d7c821-105f-4b00-bd8c-edda03877e4b.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Sound K / Way Ched 웨이체드)]]></title>
             <link>https://m.vlive.tv/video/275179</link>
@@ -86,6 +76,16 @@
 										오전 10:00</span>
 										<span class="txt">WOODZ (조승연)</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220127_68/1643252173992WNgGB_JPEG/upload_8733182573407132161cf791a-0b0c-4ec9-8171-d6368307d6fe.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[✨2대휘's BIRTHDAY PARTY✨]]></title>
+            <link>https://m.vlive.tv/video/275737</link>
+            <guid>https://m.vlive.tv/video/275737</guid>
+            <pubDate>Thu, 27 Jan 2022 10:42:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 2:00</span>
+										<span class="txt">AB6IX</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220127_94/1643271985852lXXt2_JPEG/upload_873515306426164629872e7be-141a-4a00-ab98-859c82a4c258.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
