@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 15:45:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 16:59:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -816,14 +816,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220128_136/1643378800474wRaeH_JPEG/upload_874585095554803091a0481d2-6683-4ec6-8beb-6714c320a54e.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[#OMRR 겨울잠💛🐝]]></title>
-            <link>https://www.vlive.tv/video/275958</link>
-            <guid>https://www.vlive.tv/video/275958</guid>
-            <pubDate>Fri, 28 Jan 2022 15:44:49 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:15]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/275958/thumb?type=f228_128" length="0" type="image//live/275958/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[✨2대휘's BIRTHDAY PARTY✨]]></title>
             <link>https://www.vlive.tv/video/275737</link>
             <guid>https://www.vlive.tv/video/275737</guid>
@@ -838,6 +830,22 @@
             <pubDate>Fri, 28 Jan 2022 12:57:34 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:24]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220128_281/1643371482484dWeu2_JPEG/156247019481577100988a361a-22a6-4084-8662-d4169757fe3e.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[vav] 세반이 잠깐 들려요 ^^]]></title>
+            <link>https://www.vlive.tv/video/275961</link>
+            <guid>https://www.vlive.tv/video/275961</guid>
+            <pubDate>Fri, 28 Jan 2022 16:58:26 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:30]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/275961/thumb?type=f228_128" length="0" type="image//live/275961/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[[선공개] "왜 이렇게 떨어요" 시키려는 자 VS 안 하려는 자 🔥,  MBC 220131 방송]]></title>
+            <link>https://www.vlive.tv/video/275962</link>
+            <guid>https://www.vlive.tv/video/275962</guid>
+            <pubDate>Fri, 28 Jan 2022 16:58:26 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:51]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220129_45/1643388666036FBEqd_JPEG/upload_87468396123221983c940b972-b304-4ec9-8060-fd4974c8b8e6.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
