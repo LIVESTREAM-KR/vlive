@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 03:43:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 04:51:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Simply K-Pop CON-TOUR] 2022 Fly high K-POP Concert Part.1 (심플리케이팝 콘투어) Ep.504]]></title>
-            <link>https://m.vlive.tv/video/275746</link>
-            <guid>https://m.vlive.tv/video/275746</guid>
-            <pubDate>Thu, 27 Jan 2022 09:42:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 4:00</span>
-										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220127_231/1643276317441Jsz8G_PNG/upload_87355569932973916873ea830-94ec-4f2f-b2cf-f87c4dc66314.png?type=f274_154" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Music Access / Moon Sujin 문수진)]]></title>
             <link>https://m.vlive.tv/video/275047</link>
@@ -56,6 +46,16 @@
 										오후 2:00</span>
 										<span class="txt">AB6IX</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220127_94/1643271985852lXXt2_JPEG/upload_873515306426164629872e7be-141a-4a00-ab98-859c82a4c258.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ASC Live Ep.508 (MOMOLAND / 모모랜드)]]></title>
+            <link>https://m.vlive.tv/video/275819</link>
+            <guid>https://m.vlive.tv/video/275819</guid>
+            <pubDate>Fri, 28 Jan 2022 04:50:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220128_39/1643343976249FE0vR_PNG/upload_874232501829771485a517554-18fb-4350-b142-618eef9d7a33.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
