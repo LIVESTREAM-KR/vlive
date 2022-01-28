@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 04:51:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 05:41:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Music Access / Moon Sujin 문수진)]]></title>
-            <link>https://m.vlive.tv/video/275047</link>
-            <guid>https://m.vlive.tv/video/275047</guid>
-            <pubDate>Wed, 26 Jan 2022 11:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220119_218/1642585367784ObdSO_JPEG/upload_866650669703771065227a6a9-396b-4b77-a3b3-00bde9c7bee3.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio] Topic Song with Aaron 아론 of W24 and BÉBE YANA]]></title>
             <link>https://m.vlive.tv/video/275122</link>
@@ -55,7 +45,17 @@
             <content:encoded><![CDATA[<span class="time">
 										오전 4:00</span>
 										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220128_39/1643343976249FE0vR_PNG/upload_874232501829771485a517554-18fb-4350-b142-618eef9d7a33.png?type=f274_154" length="0" type="image/png"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220128_80/1643345821693FUxXv_PNG/upload_874255337156667798306f722-6454-4126-9c42-31239097d298.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthew]]></title>
+            <link>https://m.vlive.tv/video/275709</link>
+            <guid>https://m.vlive.tv/video/275709</guid>
+            <pubDate>Fri, 28 Jan 2022 05:39:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220127_153/1643260028126Fn1im_JPEG/upload_8733973261215681515f6c8e4-0f7c-43d5-876c-0ce93d77a4c4.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
