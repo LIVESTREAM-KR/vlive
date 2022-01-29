@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 10:42:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 11:41:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220127_279/1643259768885dvfc7_JPEG/upload_873394894904149042b1587ad-bb0b-41aa-8599-4b39c08a047d.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / Gaho 가호)]]></title>
+            <link>https://m.vlive.tv/video/275758</link>
+            <guid>https://m.vlive.tv/video/275758</guid>
+            <pubDate>Sat, 29 Jan 2022 11:40:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220127_87/1643279560730GyXCU_JPEG/upload_595490520800781395d83e99f-5af5-4d2b-897f-6414b06b4523.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
