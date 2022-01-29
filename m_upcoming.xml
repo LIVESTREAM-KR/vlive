@@ -4,9 +4,19 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 07:40:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 08:45:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Xydo(시도)] 💚HAPPY Xydo DAY💙]]></title>
+            <link>https://m.vlive.tv/video/275980</link>
+            <guid>https://m.vlive.tv/video/275980</guid>
+            <pubDate>Sat, 29 Jan 2022 08:44:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">GROOVL1N</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220129_71/1643443206186Upc4a_JPEG/upload_875224619921125965b64e38c-00b7-40d7-8dea-0381bbc943aa.jpeg?type=f274_154" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[ASC Live Ep.508 (MOMOLAND / 모모랜드)]]></title>
             <link>https://m.vlive.tv/video/275819</link>
@@ -46,16 +56,6 @@
 										오전 4:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220128_75/1643349219757Xbhy9_JPEG/upload_8742892273804550152f69838-233f-4de9-99ba-1ba78951edf2.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Music Access] MA MVP with DANN of KINGDOM 킹덤 단]]></title>
-            <link>https://m.vlive.tv/video/275704</link>
-            <guid>https://m.vlive.tv/video/275704</guid>
-            <pubDate>Sat, 29 Jan 2022 03:41:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220127_279/1643259768885dvfc7_JPEG/upload_873394894904149042b1587ad-bb0b-41aa-8599-4b39c08a047d.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
