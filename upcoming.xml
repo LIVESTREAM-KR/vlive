@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 15:44:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 16:57:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -374,6 +374,22 @@
             <pubDate>Sun, 30 Jan 2022 12:56:00 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:21]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220130_145/1643546508245YPIfq_JPEG/4252187487205177922a319e7-22e8-4bc4-9720-305444329cdb.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[막밤]]></title>
+            <link>https://www.vlive.tv/video/276071</link>
+            <guid>https://www.vlive.tv/video/276071</guid>
+            <pubDate>Sun, 30 Jan 2022 16:56:32 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:09]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/276071/thumb?type=f228_128" length="0" type="image//live/276071/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[ㅡㅡ]]></title>
+            <link>https://www.vlive.tv/video/276072</link>
+            <guid>https://www.vlive.tv/video/276072</guid>
+            <pubDate>Sun, 30 Jan 2022 16:56:32 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:36]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220131_283/16435606139245eY2R_JPEG/156436142913655749c1c39bf6-b060-49e2-a148-3529503f525d.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

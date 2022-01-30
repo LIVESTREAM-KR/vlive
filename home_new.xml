@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 15:44:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 16:57:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ㅡㅡ]]></title>
+            <link>https://www.vlive.tv/video/276072</link>
+            <guid>https://www.vlive.tv/video/276072</guid>
+            <pubDate>Sun, 30 Jan 2022 16:55:48 GMT</pubDate>
+            <content:encoded><![CDATA[OH MY GIRL]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220131_283/16435606139245eY2R_JPEG/156436142913655749c1c39bf6-b060-49e2-a148-3529503f525d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[막밤]]></title>
+            <link>https://www.vlive.tv/video/276071</link>
+            <guid>https://www.vlive.tv/video/276071</guid>
+            <pubDate>Sun, 30 Jan 2022 16:55:48 GMT</pubDate>
+            <content:encoded><![CDATA[유주 (YUJU)]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/276071/thumb?type=f228_128" length="0" type="image//live/276071/thumb"/>
+        </item>
         <item>
             <title><![CDATA[[Radio Hama] 인기가요 끝난 후 심야 라디오]]></title>
             <link>https://www.vlive.tv/video/276061</link>
@@ -110,22 +126,6 @@
             <pubDate>Sun, 30 Jan 2022 12:55:05 GMT</pubDate>
             <content:encoded><![CDATA[PURPLE KISS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220130_61/1643542828501JwfRn_JPEG/1563312225045924719c5ba85c-07cf-4e9e-a18f-143b660a11a5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새해 복 많이 받으세요]]></title>
-            <link>https://www.vlive.tv/video/276060</link>
-            <guid>https://www.vlive.tv/video/276060</guid>
-            <pubDate>Sun, 30 Jan 2022 12:55:05 GMT</pubDate>
-            <content:encoded><![CDATA[PENTAGON]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220130_233/16435474368349D9g2_JPEG/6c2a8202-81c8-11ec-9cfd-505dacfba98a_04.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[펜타곤 - 펜토리 #151 ('Feelin' Like' M/V 촬영 비하인드 PART 1 : 새롭게 변신한 펜타곤!)]]></title>
-            <link>https://www.vlive.tv/video/275952</link>
-            <guid>https://www.vlive.tv/video/275952</guid>
-            <pubDate>Sun, 30 Jan 2022 12:55:05 GMT</pubDate>
-            <content:encoded><![CDATA[PENTAGON]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220129_83/164343530609589jRd_JPEG/upload_874579541767593899c2f89f5-8b1d-41b3-a1dd-db7f1edff20e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
