@@ -4,17 +4,9 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 05:40:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 06:47:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[LIVE]]]></title>
-            <link>https://www.vlive.tv/video/276013</link>
-            <guid>https://www.vlive.tv/video/276013</guid>
-            <pubDate>Sat, 29 Jan 2022 15:42:09 GMT</pubDate>
-            <content:encoded><![CDATA[원호 (WONHO)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220129_95/1643466467735QOOdr_JPEG/754548d1-810f-11ec-bf63-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[ARTIST-MADE COLLECTION 'SHOW' BY BTS - Jung Kook]]></title>
             <link>https://www.vlive.tv/video/275227</link>
@@ -38,6 +30,14 @@
             <pubDate>Sat, 29 Jan 2022 20:44:06 GMT</pubDate>
             <content:encoded><![CDATA[N.Flying]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220129_160/1643448841654CV2Gh_JPEG/6c831a14-80e5-11ec-bf63-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지민씨 등장]]></title>
+            <link>https://www.vlive.tv/video/265730</link>
+            <guid>https://www.vlive.tv/video/265730</guid>
+            <pubDate>Sun, 30 Jan 2022 06:45:52 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211013_144/1634122553955eHKox_JPEG/upload_78202275760730696931ec09d-bfa2-4361-8b27-5b66010714b3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
