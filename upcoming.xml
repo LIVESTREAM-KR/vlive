@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 04:55:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 05:40:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Sun, 30 Jan 2022 03:40:57 GMT</pubDate>
             <content:encoded><![CDATA[오전 3:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220130_61/1643481907214JraAy_JPEG/upload_87561546895798119d969c198-1f45-4190-9d37-ff01e4b8f835.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#BAE173] 연휴에도 우리가 왔다!!!]]></title>
+            <link>https://www.vlive.tv/video/276031</link>
+            <guid>https://www.vlive.tv/video/276031</guid>
+            <pubDate>Sun, 30 Jan 2022 05:39:26 GMT</pubDate>
+            <content:encoded><![CDATA[오전 5:12]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220130_170/164351956386816sN1_JPEG/156395163812506175dba61f72-10dc-4fe7-ab18-95e2a92b96c5.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

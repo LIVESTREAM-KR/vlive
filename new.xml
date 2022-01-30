@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 04:55:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 05:40:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[#BAE173] 연휴에도 우리가 왔다!!!]]></title>
+            <link>https://www.vlive.tv/video/276031</link>
+            <guid>https://www.vlive.tv/video/276031</guid>
+            <pubDate>Sun, 30 Jan 2022 05:38:36 GMT</pubDate>
+            <content:encoded><![CDATA[BAE173]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220130_170/164351956386816sN1_JPEG/156395163812506175dba61f72-10dc-4fe7-ab18-95e2a92b96c5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[fromis_9 (프로미스나인)의 2022 설날 인사 영상]]></title>
             <link>https://www.vlive.tv/video/276020</link>
@@ -398,14 +406,6 @@
             <pubDate>Sat, 29 Jan 2022 09:39:43 GMT</pubDate>
             <content:encoded><![CDATA[MBC 예능]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220129_296/1643451166784EWOvb_JPEG/upload_875308824839470333c2a53ca-b930-4f2e-a6cb-ee03dd6ee604.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뭐지?!]]></title>
-            <link>https://www.vlive.tv/video/275982</link>
-            <guid>https://www.vlive.tv/video/275982</guid>
-            <pubDate>Sat, 29 Jan 2022 08:43:10 GMT</pubDate>
-            <content:encoded><![CDATA[E'LAST]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220129_73/1643443210278wJueV_JPEG/1562315812449652806e02bc07-d501-4dec-a0fd-9dd592e2e404.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
