@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 15:45:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 16:56:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -766,6 +766,22 @@
             <pubDate>Mon, 31 Jan 2022 15:44:34 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:29]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220201_270/164364294584700YzD_JPEG/upload_87722661189423719401eb323-a1ac-4bc2-9858-5095e9dc0f44.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠깐 들어와 보시게😉]]></title>
+            <link>https://www.vlive.tv/video/276112</link>
+            <guid>https://www.vlive.tv/video/276112</guid>
+            <pubDate>Mon, 31 Jan 2022 16:55:06 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:51]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220201_92/16436442948859XGCX_JPEG/48432b4a-82ac-11ec-8fb9-48df379cc9e4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새해 복 많이 받으세요! HAPPY LUNAR YRAR💛🐝🙌🏻]]></title>
+            <link>https://www.vlive.tv/video/276125</link>
+            <guid>https://www.vlive.tv/video/276125</guid>
+            <pubDate>Mon, 31 Jan 2022 16:55:06 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:03]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/276125/thumb?type=f228_128" length="0" type="image//live/276125/thumb"/>
         </item>
     </channel>
 </rss>
