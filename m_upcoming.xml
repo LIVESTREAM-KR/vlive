@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 14:41:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 15:45:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -66,6 +66,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220127_87/1643279560730GyXCU_JPEG/upload_595490520800781395d83e99f-5af5-4d2b-897f-6414b06b4523.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
+            <link>https://m.vlive.tv/video/275707</link>
+            <guid>https://m.vlive.tv/video/275707</guid>
+            <pubDate>Mon, 31 Jan 2022 15:44:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220127_161/16432599144370SGnE_JPEG/upload_87339616033096338c74b46dd-fdf7-424a-9e64-ca64d4e36183.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
