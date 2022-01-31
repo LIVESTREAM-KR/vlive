@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 11:40:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 12:59:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새복많]]></title>
+            <link>https://www.vlive.tv/video/276100</link>
+            <guid>https://www.vlive.tv/video/276100</guid>
+            <pubDate>Mon, 31 Jan 2022 12:57:31 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220131_229/1643626038633CEJ7C_JPEG/a39c4777-8282-11ec-89ca-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[심심..]]></title>
+            <link>https://www.vlive.tv/video/276103</link>
+            <guid>https://www.vlive.tv/video/276103</guid>
+            <pubDate>Mon, 31 Jan 2022 12:57:31 GMT</pubDate>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220131_23/1643630342013p1VEV_JPEG/b368e13c-828c-11ec-8fb9-48df379cc9e4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ARTIST-MADE COLLECTION 'SHOW' BY BTS - Jung Kook]]></title>
             <link>https://www.vlive.tv/video/275227</link>
@@ -22,22 +38,6 @@
             <pubDate>Sun, 30 Jan 2022 09:40:03 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211013_144/1634122553955eHKox_JPEG/upload_78202275760730696931ec09d-bfa2-4361-8b27-5b66010714b3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ㅡㅡ]]></title>
-            <link>https://www.vlive.tv/video/276072</link>
-            <guid>https://www.vlive.tv/video/276072</guid>
-            <pubDate>Mon, 31 Jan 2022 01:38:46 GMT</pubDate>
-            <content:encoded><![CDATA[OH MY GIRL]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220131_283/16435606139245eY2R_JPEG/156436142913655749c1c39bf6-b060-49e2-a148-3529503f525d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[막밤]]></title>
-            <link>https://www.vlive.tv/video/276071</link>
-            <guid>https://www.vlive.tv/video/276071</guid>
-            <pubDate>Mon, 31 Jan 2022 07:39:12 GMT</pubDate>
-            <content:encoded><![CDATA[유주 (YUJU)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220131_159/1643562599816NO2FC_JPEG/f92b5999-81ee-11ec-8fb9-48df379cc9e4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
