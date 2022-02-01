@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Feb 2022 03:42:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 04:51:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,12 +144,36 @@
             <enclosure url="https://v-phinf.pstatic.net/20220201_174/16436806135904WrKU_JPEG/upload_599502094987054345fdbefe0-3e5e-457d-af4a-a830093981e5.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2022년 설 인사 영상 From. 모모랜드]]></title>
+            <link>https://www.vlive.tv/video/276082</link>
+            <guid>https://www.vlive.tv/video/276082</guid>
+            <pubDate>Tue, 01 Feb 2022 04:49:54 GMT</pubDate>
+            <content:encoded><![CDATA[오전 4:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220131_8/1643604180514zR6Q0_JPEG/upload_87683737808782048c204232a-3472-450c-993a-ce85ab1cdf50.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[ASC Live Ep.508 (MOMOLAND / 모모랜드)]]></title>
             <link>https://www.vlive.tv/video/275819</link>
             <guid>https://www.vlive.tv/video/275819</guid>
             <pubDate>Tue, 01 Feb 2022 01:45:07 GMT</pubDate>
-            <content:encoded><![CDATA[오전 4:00]]></content:encoded>
+            <content:encoded><![CDATA[오전 4:01]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220128_80/1643345821693FUxXv_PNG/upload_874255337156667798306f722-6454-4126-9c42-31239097d298.png?type=f228_128" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[레인보우99 (RAINBOW99) - 산 (Feat. 윤재호) [MV]]]></title>
+            <link>https://www.vlive.tv/video/276131</link>
+            <guid>https://www.vlive.tv/video/276131</guid>
+            <pubDate>Tue, 01 Feb 2022 04:49:54 GMT</pubDate>
+            <content:encoded><![CDATA[오전 4:17]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220201_121/1643689033145eWhup_JPEG/b4fc53d4-8315-11ec-acdf-505dac8c3607_08.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레인보우99 (RAINBOW99) - 드라이브 [MV]]]></title>
+            <link>https://www.vlive.tv/video/276132</link>
+            <guid>https://www.vlive.tv/video/276132</guid>
+            <pubDate>Tue, 01 Feb 2022 04:49:54 GMT</pubDate>
+            <content:encoded><![CDATA[오전 4:18]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220201_133/1643689101626mtK2T_JPEG/e68d3b5c-8315-11ec-8581-505dac8c37f3_04.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
