@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Feb 2022 15:46:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 17:01:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새해복많이받으세요 마이판타지]]></title>
+            <link>https://www.vlive.tv/video/276163</link>
+            <guid>https://www.vlive.tv/video/276163</guid>
+            <pubDate>Tue, 01 Feb 2022 16:59:09 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/276163/thumb?type=f228_128" length="0" type="image//live/276163/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[떠꾹떢..꾹..!]]></title>
+            <link>https://www.vlive.tv/video/276162</link>
+            <guid>https://www.vlive.tv/video/276162</guid>
+            <pubDate>Tue, 01 Feb 2022 16:59:09 GMT</pubDate>
+            <content:encoded><![CDATA[VIVIZ (비비지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220202_93/1643730463777XSpeg_JPEG/29721f6c-8375-11ec-b3d2-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[루미큐브하자]]></title>
             <link>https://www.vlive.tv/video/276160</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 01 Feb 2022 10:41:52 GMT</pubDate>
             <content:encoded><![CDATA[VANNER (배너)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220201_44/1643713922047bbA3B_JPEG/289fa9b0-834f-11ec-a810-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오토바이 조립합니다]]></title>
-            <link>https://www.vlive.tv/video/276140</link>
-            <guid>https://www.vlive.tv/video/276140</guid>
-            <pubDate>Tue, 01 Feb 2022 09:40:52 GMT</pubDate>
-            <content:encoded><![CDATA[SF9]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220201_257/1643713851228dN7ov_JPEG/76e7e7c5-834e-11ec-8fb9-48df379cc9e4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ONEWE(원위) '궤도 (Orbit_) + 별 (STAR)' Special Acoustic ver.]]></title>
-            <link>https://www.vlive.tv/video/276130</link>
-            <guid>https://www.vlive.tv/video/276130</guid>
-            <pubDate>Tue, 01 Feb 2022 11:38:49 GMT</pubDate>
-            <content:encoded><![CDATA[ONEWE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220201_111/1643683022724iP8as_JPEG/upload_877627349056691198a3e383d-cd68-4f32-8030-88cfd0fa9eae.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

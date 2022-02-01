@@ -4,9 +4,24 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Feb 2022 15:46:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 17:01:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새해복많이받으세요 마이판타지]]></title>
+            <link>https://www.vlive.tv/video/276163</link>
+            <guid>https://www.vlive.tv/video/276163</guid>
+            <pubDate>Tue, 01 Feb 2022 16:58:59 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[떠꾹떢..꾹..!]]></title>
+            <link>https://www.vlive.tv/video/276162</link>
+            <guid>https://www.vlive.tv/video/276162</guid>
+            <pubDate>Tue, 01 Feb 2022 16:58:59 GMT</pubDate>
+            <content:encoded><![CDATA[VIVIZ (비비지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220202_93/1643730463777XSpeg_JPEG/29721f6c-8375-11ec-b3d2-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[루미큐브하자]]></title>
             <link>https://www.vlive.tv/video/276160</link>
@@ -390,22 +405,6 @@
             <pubDate>Tue, 01 Feb 2022 03:40:34 GMT</pubDate>
             <content:encoded><![CDATA[TRI.BE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220127_25/164327696240090Dix_JPEG/upload_594585517213137992b2793b3-64fc-4b5f-9fbc-80cd096d151c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stray Kids' 2022 New Year's card💌｜HAPPY NEW YEAR with Stray Kids(스트레이 키즈)]]></title>
-            <link>https://www.vlive.tv/video/276127</link>
-            <guid>https://www.vlive.tv/video/276127</guid>
-            <pubDate>Tue, 01 Feb 2022 01:44:07 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220201_247/1643652060114FSsnU_JPEG/upload_59921174602623405d0101c67-48f1-4967-9e5b-c1122858049f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 다크비 설날 인사🐯💌]]></title>
-            <link>https://www.vlive.tv/video/275754</link>
-            <guid>https://www.vlive.tv/video/275754</guid>
-            <pubDate>Tue, 01 Feb 2022 01:44:07 GMT</pubDate>
-            <content:encoded><![CDATA[다크비(DKB)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220127_237/16432777589604hwex_PNG/upload_873574124870506232348d6b8-3ebd-44da-aeef-5a121d1ed9c3.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

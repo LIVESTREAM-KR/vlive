@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Feb 2022 15:46:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 17:01:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -430,6 +430,22 @@
             <pubDate>Tue, 01 Feb 2022 14:39:52 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:25]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220202_153/1643729139236aqUWL_JPEG/817f3290-8372-11ec-8e85-48df379ccacc_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[떠꾹떢..꾹..!]]></title>
+            <link>https://www.vlive.tv/video/276162</link>
+            <guid>https://www.vlive.tv/video/276162</guid>
+            <pubDate>Tue, 01 Feb 2022 17:00:03 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:47]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220202_93/1643730463777XSpeg_JPEG/29721f6c-8375-11ec-b3d2-48df37ae3fca_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새해복많이받으세요 마이판타지]]></title>
+            <link>https://www.vlive.tv/video/276163</link>
+            <guid>https://www.vlive.tv/video/276163</guid>
+            <pubDate>Tue, 01 Feb 2022 17:00:03 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:56]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/276163/thumb?type=f228_128" length="0" type="image//live/276163/thumb"/>
         </item>
     </channel>
 </rss>
