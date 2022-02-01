@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Feb 2022 17:44:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 18:48:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -352,6 +352,14 @@
             <enclosure url="https://v-phinf.pstatic.net/20220130_188/1643482138044BvcQO_JPEG/upload_59751693153806804d7430cc5-b0b3-4084-ae6d-3a363589111f.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[신원군]]></title>
+            <link>https://www.vlive.tv/video/276146</link>
+            <guid>https://www.vlive.tv/video/276146</guid>
+            <pubDate>Tue, 01 Feb 2022 18:46:40 GMT</pubDate>
+            <content:encoded><![CDATA[오후 12:55]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220202_88/1643738234483CS72d_JPEG/upload_87817946018571161befa73bb-7e99-4532-8890-9a83122c6098.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[누가 오케이 소리를 내었는가 ⁉ │ GHOST9의 훈민정음 윷놀이]]></title>
             <link>https://www.vlive.tv/video/275854</link>
             <guid>https://www.vlive.tv/video/275854</guid>
@@ -444,8 +452,16 @@
             <link>https://www.vlive.tv/video/276163</link>
             <guid>https://www.vlive.tv/video/276163</guid>
             <pubDate>Tue, 01 Feb 2022 17:00:03 GMT</pubDate>
-            <content:encoded><![CDATA[오후 4:56]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/276163/thumb?type=f228_128" length="0" type="image//live/276163/thumb"/>
+            <content:encoded><![CDATA[오후 5:54]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220202_166/16437380918188xwLN_JPEG/519f4a59-8387-11ec-bd70-505dac8c38f5_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[허영생의 잠 못드는 밤에 (남은연휴 잘보내세요!!)]]></title>
+            <link>https://www.vlive.tv/video/276165</link>
+            <guid>https://www.vlive.tv/video/276165</guid>
+            <pubDate>Tue, 01 Feb 2022 18:46:40 GMT</pubDate>
+            <content:encoded><![CDATA[오후 6:36]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220202_155/16437405961429K3t7_JPEG/1565291321269442112fe825db-b543-4c2b-b826-b674f8041e2f.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
