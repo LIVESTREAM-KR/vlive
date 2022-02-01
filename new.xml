@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Feb 2022 06:48:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 07:40:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Let's Play MCND] 순간의 선택이 2022 설날을 좌우한다!]]></title>
+            <link>https://www.vlive.tv/video/276137</link>
+            <guid>https://www.vlive.tv/video/276137</guid>
+            <pubDate>Tue, 01 Feb 2022 07:38:29 GMT</pubDate>
+            <content:encoded><![CDATA[MCND]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220201_174/1643699459205v6QSs_JPEG/upload_87779189235729683ca6d8a3f-570a-497d-95e1-566019f65275.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하루씨네 가족들]]></title>
             <link>https://www.vlive.tv/video/276136</link>
@@ -398,14 +406,6 @@
             <pubDate>Mon, 31 Jan 2022 11:38:46 GMT</pubDate>
             <content:encoded><![CDATA[PURPLE KISS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220131_47/1643632395156MMRor_JPEG/4e1d89d7-8291-11ec-8fb9-48df379cc9e4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새해 복 마니 마니 받으세영🌪💙]]></title>
-            <link>https://www.vlive.tv/video/276105</link>
-            <guid>https://www.vlive.tv/video/276105</guid>
-            <pubDate>Mon, 31 Jan 2022 11:38:46 GMT</pubDate>
-            <content:encoded><![CDATA[미래소년 (MIRAE)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220131_236/1643631351783SNxks_JPEG/eeed0465-828e-11ec-9cfd-505dacfba98a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

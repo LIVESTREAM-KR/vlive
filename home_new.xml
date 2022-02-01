@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Feb 2022 06:48:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 07:40:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Let's Play MCND] 순간의 선택이 2022 설날을 좌우한다!]]></title>
+            <link>https://www.vlive.tv/video/276137</link>
+            <guid>https://www.vlive.tv/video/276137</guid>
+            <pubDate>Tue, 01 Feb 2022 07:38:38 GMT</pubDate>
+            <content:encoded><![CDATA[MCND]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220201_174/1643699459205v6QSs_JPEG/upload_87779189235729683ca6d8a3f-570a-497d-95e1-566019f65275.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하루씨네 가족들]]></title>
             <link>https://www.vlive.tv/video/276136</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 01 Feb 2022 03:40:44 GMT</pubDate>
             <content:encoded><![CDATA[ONEUS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220131_70/1643600945015Fi5kD_JPEG/upload_59870459660883621a850cec9-2bb5-47f2-bf7e-440099e5cc3b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[JUST B] 짱스트비 미니 게임 월드🎮 MT편 (ZZANGST B MINI GAME WORLD)]]></title>
-            <link>https://www.vlive.tv/video/276077</link>
-            <guid>https://www.vlive.tv/video/276077</guid>
-            <pubDate>Tue, 01 Feb 2022 03:40:44 GMT</pubDate>
-            <content:encoded><![CDATA[JUST B (저스트비)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220131_212/1643598516735AyzYv_PNG/upload_5986806083195776506b0b0f2-508f-4f62-ab0c-3a02ec08ff74.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
