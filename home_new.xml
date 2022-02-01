@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Feb 2022 12:59:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 13:41:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[누가 오케이 소리를 내었는가 ⁉ │ GHOST9의 훈민정음 윷놀이]]></title>
+            <link>https://www.vlive.tv/video/275854</link>
+            <guid>https://www.vlive.tv/video/275854</guid>
+            <pubDate>Tue, 01 Feb 2022 13:39:06 GMT</pubDate>
+            <content:encoded><![CDATA[GHOST9]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220128_227/1643351892750kUHd2_JPEG/upload_874315823306324218d8086c0-7243-4331-8a3a-44bfc684e1be.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오늘은 문앞 아님! 본가닷🥰]]></title>
             <link>https://www.vlive.tv/video/276149</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 01 Feb 2022 09:40:52 GMT</pubDate>
             <content:encoded><![CDATA[ITZY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220129_208/1643451838132anmSV_JPEG/upload_59721425213674174840e3c35-7040-4b57-9a95-e69d6fd27807.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[싸이퍼(Ciipher) 설맞이 '떡국 만들기' #2]]></title>
-            <link>https://www.vlive.tv/video/275975</link>
-            <guid>https://www.vlive.tv/video/275975</guid>
-            <pubDate>Tue, 01 Feb 2022 09:40:52 GMT</pubDate>
-            <content:encoded><![CDATA[싸이퍼(Ciipher)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220129_245/1643434114136aj9HJ_JPEG/upload_87513823591565394c511175c-80f1-42b4-a475-55a09b98e3b2.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

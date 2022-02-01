@@ -4,17 +4,9 @@
         <title>V LIVE 모바일 ─ CHARTS </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Feb 2022 12:59:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 13:41:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[TO DO X TOMORROW X TOGETHER - EP.69]]></title>
-            <link>https://m.vlive.tv/video/275426</link>
-            <guid>https://m.vlive.tv/video/275426</guid>
-            <pubDate>Mon, 31 Jan 2022 13:39:57 GMT</pubDate>
-            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220124_57/1643002787538kncPP_JPEG/upload_59272287467162537137e2c5a-9382-4f99-88b3-652da6533fc6.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Stray Kids' 2022 New Year's card💌｜HAPPY NEW YEAR with Stray Kids(스트레이 키즈)]]></title>
             <link>https://m.vlive.tv/video/276127</link>
@@ -30,6 +22,14 @@
             <pubDate>Tue, 01 Feb 2022 10:42:29 GMT</pubDate>
             <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220201_68/16436415711629eICd_JPEG/b1a49d63-82a6-11ec-bf46-a0369ff95ec0_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TO DO X TOMORROW X TOGETHER - EP.69]]></title>
+            <link>https://m.vlive.tv/video/275426</link>
+            <guid>https://m.vlive.tv/video/275426</guid>
+            <pubDate>Mon, 31 Jan 2022 13:39:57 GMT</pubDate>
+            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220124_57/1643002787538kncPP_JPEG/upload_59272287467162537137e2c5a-9382-4f99-88b3-652da6533fc6.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
