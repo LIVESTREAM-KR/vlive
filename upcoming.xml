@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 09:42:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 10:43:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,22 +160,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220202_207/16437927907652itA6_JPEG/upload_87872509341990466962fb1b0-2172-4403-a02e-ca1ffd91232f.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[내 평생 2가 가장 많이 들어가는 생일✌]]></title>
-            <link>https://www.vlive.tv/video/276182</link>
-            <guid>https://www.vlive.tv/video/276182</guid>
-            <pubDate>Wed, 02 Feb 2022 09:41:08 GMT</pubDate>
-            <content:encoded><![CDATA[오전 9:00]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/276182/thumb?type=f228_128" length="0" type="image//live/276182/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[신원]]></title>
-            <link>https://www.vlive.tv/video/276183</link>
-            <guid>https://www.vlive.tv/video/276183</guid>
-            <pubDate>Wed, 02 Feb 2022 09:41:08 GMT</pubDate>
-            <content:encoded><![CDATA[오전 9:00]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/276183/thumb?type=f228_128" length="0" type="image//live/276183/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[Arirang Radio (Super K-Pop / Gaho 가호)]]></title>
             <link>https://www.vlive.tv/video/275758</link>
             <guid>https://www.vlive.tv/video/275758</guid>
@@ -190,6 +174,30 @@
             <pubDate>Wed, 02 Feb 2022 08:44:17 GMT</pubDate>
             <content:encoded><![CDATA[오전 9:21]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220202_65/1643789674575OfkaY_JPEG/15666527755612214432c46ecf-9b75-48e3-b80e-f9ce76c1965e.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Let's VICTON Ep.5 빅톤의 육아일기ㅣ오늘의 아이를 찾아라!]]></title>
+            <link>https://www.vlive.tv/video/276121</link>
+            <guid>https://www.vlive.tv/video/276121</guid>
+            <pubDate>Wed, 02 Feb 2022 10:42:30 GMT</pubDate>
+            <content:encoded><![CDATA[오전 10:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220131_171/16436386404530simr_PNG/upload_87718306294633450efb963a4-0ec2-49b3-ac4c-4afc96b43f58.png?type=f228_128" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[신원]]></title>
+            <link>https://www.vlive.tv/video/276183</link>
+            <guid>https://www.vlive.tv/video/276183</guid>
+            <pubDate>Wed, 02 Feb 2022 09:41:08 GMT</pubDate>
+            <content:encoded><![CDATA[오전 10:04]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220202_179/1643796634060hvigN_JPEG/f7ca46de-840e-11ec-8581-505dac8c37f3_05.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내 평생 2가 가장 많이 들어가는 생일✌]]></title>
+            <link>https://www.vlive.tv/video/276182</link>
+            <guid>https://www.vlive.tv/video/276182</guid>
+            <pubDate>Wed, 02 Feb 2022 09:41:08 GMT</pubDate>
+            <content:encoded><![CDATA[오전 10:18]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220202_9/16437970842799M2pI_JPEG/5f188bf6-8410-11ec-b27b-48df379cca40_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
