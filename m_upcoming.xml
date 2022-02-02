@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 01:44:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 02:51:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
-            <link>https://m.vlive.tv/video/275699</link>
-            <guid>https://m.vlive.tv/video/275699</guid>
-            <pubDate>Fri, 28 Jan 2022 10:43:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 2:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220127_107/1643259391989HRKDG_JPEG/upload_595289771284928508773d731-e9d7-4efe-be38-f10d0bfa09b8.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio/K-Poppin'] Plus size Hanbok CEO Catharina 플러스 사이즈 한복 대표 카타리나]]></title>
             <link>https://m.vlive.tv/video/275840</link>
@@ -86,6 +76,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220127_287/1643259725587Ylt4d_JPEG/upload_87339444434764092ec9241fe-58f6-4848-9291-7f88114b148d.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop] Club House]]></title>
+            <link>https://m.vlive.tv/video/275705</link>
+            <guid>https://m.vlive.tv/video/275705</guid>
+            <pubDate>Wed, 02 Feb 2022 02:50:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220127_111/1643259817582oAVeI_JPEG/upload_595294058833377749ca01243-6c68-402c-a52d-99936d911efd.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

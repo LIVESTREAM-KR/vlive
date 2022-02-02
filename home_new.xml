@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 01:44:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 02:51:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 02 Feb 2022 01:42:01 GMT</pubDate>
             <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220127_153/1643260028126Fn1im_JPEG/upload_8733973261215681515f6c8e4-0f7c-43d5-876c-0ce93d77a4c4.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
+            <link>https://www.vlive.tv/video/275699</link>
+            <guid>https://www.vlive.tv/video/275699</guid>
+            <pubDate>Wed, 02 Feb 2022 02:48:57 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220127_107/1643259391989HRKDG_JPEG/upload_595289771284928508773d731-e9d7-4efe-be38-f10d0bfa09b8.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[허영생의 잠 못드는 밤에 (남은연휴 잘보내세요!!)]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 01 Feb 2022 13:39:06 GMT</pubDate>
             <content:encoded><![CDATA[GHOST9]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220128_227/1643351892750kUHd2_JPEG/upload_874315823306324218d8086c0-7243-4331-8a3a-44bfc684e1be.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신원군]]></title>
-            <link>https://www.vlive.tv/video/276146</link>
-            <guid>https://www.vlive.tv/video/276146</guid>
-            <pubDate>Tue, 01 Feb 2022 18:45:44 GMT</pubDate>
-            <content:encoded><![CDATA[PENTAGON]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220202_88/1643738234483CS72d_JPEG/upload_87817946018571161befa73bb-7e99-4532-8890-9a83122c6098.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
