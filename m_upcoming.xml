@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 03:42:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 04:51:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio/K-Poppin'] Plus size Hanbok CEO Catharina 플러스 사이즈 한복 대표 카타리나]]></title>
-            <link>https://m.vlive.tv/video/275840</link>
-            <guid>https://m.vlive.tv/video/275840</guid>
-            <pubDate>Sat, 29 Jan 2022 03:41:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 4:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220128_75/1643349219757Xbhy9_JPEG/upload_8742892273804550152f69838-233f-4de9-99ba-1ba78951edf2.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Music Access] MA MVP with DANN of KINGDOM 킹덤 단]]></title>
             <link>https://m.vlive.tv/video/275704</link>
@@ -96,6 +86,16 @@
 										오전 10:00</span>
 										<span class="txt">TEMPEST (템페스트)</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220131_153/1643620853100KwQaG_JPEG/upload_877003145077605692e7dc335-47c9-48a8-b5aa-f77fffbf88c0.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <데미안 비더게부르트> 녹화중계]]></title>
+            <link>https://m.vlive.tv/video/275072</link>
+            <guid>https://m.vlive.tv/video/275072</guid>
+            <pubDate>Wed, 02 Feb 2022 04:49:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">V MUSICAL</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220120_192/1642643099701ccHRX_JPEG/upload_8672283508888051285a535f3-6f15-4bdf-b49f-355e1a4d3a25.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
