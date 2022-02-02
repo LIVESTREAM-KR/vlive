@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Feb 2022 23:41:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 01:44:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthew]]></title>
+            <link>https://www.vlive.tv/video/275709</link>
+            <guid>https://www.vlive.tv/video/275709</guid>
+            <pubDate>Wed, 02 Feb 2022 01:42:01 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220127_153/1643260028126Fn1im_JPEG/upload_8733973261215681515f6c8e4-0f7c-43d5-876c-0ce93d77a4c4.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[허영생의 잠 못드는 밤에 (남은연휴 잘보내세요!!)]]></title>
             <link>https://www.vlive.tv/video/276165</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 01 Feb 2022 18:45:44 GMT</pubDate>
             <content:encoded><![CDATA[PENTAGON]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220202_88/1643738234483CS72d_JPEG/upload_87817946018571161befa73bb-7e99-4532-8890-9a83122c6098.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[FM_1.24 Special] 지금 뭐 해, 잠깐 타로 봐 볼래? 🔮]]></title>
-            <link>https://www.vlive.tv/video/276021</link>
-            <guid>https://www.vlive.tv/video/276021</guid>
-            <pubDate>Tue, 01 Feb 2022 12:57:31 GMT</pubDate>
-            <content:encoded><![CDATA[fromis_9]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220130_188/1643482138044BvcQO_JPEG/upload_59751693153806804d7430cc5-b0b3-4084-ae6d-3a363589111f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
