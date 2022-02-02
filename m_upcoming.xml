@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 04:51:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 05:41:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / Music Access] MA MVP with DANN of KINGDOM 킹덤 단]]></title>
-            <link>https://m.vlive.tv/video/275704</link>
-            <guid>https://m.vlive.tv/video/275704</guid>
-            <pubDate>Sat, 29 Jan 2022 09:40:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220127_279/1643259768885dvfc7_JPEG/upload_873394894904149042b1587ad-bb0b-41aa-8599-4b39c08a047d.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Super K-Pop / Gaho 가호)]]></title>
             <link>https://m.vlive.tv/video/275758</link>
@@ -96,6 +86,16 @@
 										오전 11:00</span>
 										<span class="txt">V MUSICAL</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220120_192/1642643099701ccHRX_JPEG/upload_8672283508888051285a535f3-6f15-4bdf-b49f-355e1a4d3a25.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[드림캐쳐] HAPPY GAHYEON DAY 🐶🎂🎉]]></title>
+            <link>https://m.vlive.tv/video/275845</link>
+            <guid>https://m.vlive.tv/video/275845</guid>
+            <pubDate>Wed, 02 Feb 2022 05:40:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">DREAMCATCHER</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220128_141/1643350389542n3vBa_JPEG/upload_87430045912730681fd768a38-a6f8-442a-9797-e5a5768012c7.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
