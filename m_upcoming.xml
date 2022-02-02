@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 06:48:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 07:41:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Super K-Pop / Gaho 가호)]]></title>
-            <link>https://m.vlive.tv/video/275758</link>
-            <guid>https://m.vlive.tv/video/275758</guid>
-            <pubDate>Sat, 29 Jan 2022 11:40:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220127_87/1643279560730GyXCU_JPEG/upload_595490520800781395d83e99f-5af5-4d2b-897f-6414b06b4523.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[유얼 마이 썬 “샨” 🎂]]></title>
             <link>https://m.vlive.tv/video/276143</link>
@@ -96,6 +86,16 @@
 										오전 11:00</span>
 										<span class="txt">DREAMCATCHER</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220128_141/1643350389542n3vBa_JPEG/upload_87430045912730681fd768a38-a6f8-442a-9797-e5a5768012c7.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / C.Swag 씨스웩)]]></title>
+            <link>https://m.vlive.tv/video/276173</link>
+            <guid>https://m.vlive.tv/video/276173</guid>
+            <pubDate>Wed, 02 Feb 2022 07:39:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220202_27/1643784117052vwFRq_JPEG/upload_878638116162040557c92c64e-22de-42fa-80b3-83fce408d298.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
