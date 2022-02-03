@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 20:42:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 21:41:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -648,14 +648,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220203_20/1643891009697V1qQr_PNG/upload_8797071333504564799adbcbd-e5e9-4870-b19a-4bd66c8431b2.png?type=f228_128" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[cignature's 24hours 릴레이 VLIVE💝]]></title>
-            <link>https://www.vlive.tv/video/276312</link>
-            <guid>https://www.vlive.tv/video/276312</guid>
-            <pubDate>Thu, 03 Feb 2022 15:44:29 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:00]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220204_80/1643900423318HaIJ6_JPEG/1567759522980284329f9d19f8-c941-41d6-b3f9-007ea7565782.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[헤헤]]></title>
             <link>https://www.vlive.tv/video/276297</link>
             <guid>https://www.vlive.tv/video/276297</guid>
@@ -726,6 +718,22 @@
             <pubDate>Thu, 03 Feb 2022 16:58:33 GMT</pubDate>
             <content:encoded><![CDATA[오후 5:16]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220204_56/1643908587495v6aUJ_JPEG/9ca71ba4-8514-11ec-bd70-505dac8c38f5_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[cignature's 24hours 릴레이 VLIVE💝]]></title>
+            <link>https://www.vlive.tv/video/276316</link>
+            <guid>https://www.vlive.tv/video/276316</guid>
+            <pubDate>Thu, 03 Feb 2022 21:40:39 GMT</pubDate>
+            <content:encoded><![CDATA[오후 9:04]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220204_246/16439222469598AiW8_JPEG/156797849955439188a1140c57-1af7-43de-879b-52f98921a1a2.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[cignature's 24hours 릴레이 VLIVE💝]]></title>
+            <link>https://www.vlive.tv/video/276312</link>
+            <guid>https://www.vlive.tv/video/276312</guid>
+            <pubDate>Thu, 03 Feb 2022 15:44:29 GMT</pubDate>
+            <content:encoded><![CDATA[오후 9:36]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220204_80/1643900423318HaIJ6_JPEG/1567759522980284329f9d19f8-c941-41d6-b3f9-007ea7565782.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
