@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 08:46:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 09:42:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,26 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220127_67/1643259958610Phn0p_JPEG/upload_87339656743379958867e3f31-ad17-4e81-bdbb-117e5bfa725c.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
+            <link>https://m.vlive.tv/video/275701</link>
+            <guid>https://m.vlive.tv/video/275701</guid>
+            <pubDate>Thu, 03 Feb 2022 09:41:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 2:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220127_95/1643259622085smFyB_JPEG/upload_8733933908009311513e935ef-a748-4181-9350-64ff2b3e0f54.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Simply K-Pop CON-TOUR | 2022 Fly high K-POP Concert Part.2 (심플리케이팝 콘투어) Ep.505]]></title>
+            <link>https://m.vlive.tv/video/276249</link>
+            <guid>https://m.vlive.tv/video/276249</guid>
+            <pubDate>Thu, 03 Feb 2022 09:41:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220203_107/1643876948708VoigE_PNG/upload_60146553364124810fe3fda7e-effa-47b2-82ab-0413c0bec7eb.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
