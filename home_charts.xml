@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 10:43:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 11:41:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안뇽 나 은하]]></title>
+            <link>https://www.vlive.tv/video/276193</link>
+            <guid>https://www.vlive.tv/video/276193</guid>
+            <pubDate>Thu, 03 Feb 2022 11:39:06 GMT</pubDate>
+            <content:encoded><![CDATA[VIVIZ (비비지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220202_32/1643806782965tLNh5_JPEG/156682396926726034b4189635-7f2d-4671-8f50-75a4f639d051.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[설 잘 보냈나요]]></title>
+            <link>https://www.vlive.tv/video/276175</link>
+            <guid>https://www.vlive.tv/video/276175</guid>
+            <pubDate>Thu, 03 Feb 2022 11:39:06 GMT</pubDate>
+            <content:encoded><![CDATA[ASTRO]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220202_89/1643786477291KOLSw_JPEG/78e89888-83f8-11ec-bf63-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from Jung Kook]]></title>
             <link>https://www.vlive.tv/video/275231</link>
@@ -22,22 +38,6 @@
             <pubDate>Wed, 02 Feb 2022 13:39:38 GMT</pubDate>
             <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220202_149/1643796119290zeRLS_JPEG/upload_87875740687750692174fef94-b427-407b-8576-dd7720458fbc.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설 잘 보냈어??👋]]></title>
-            <link>https://www.vlive.tv/video/276240</link>
-            <guid>https://www.vlive.tv/video/276240</guid>
-            <pubDate>Thu, 03 Feb 2022 07:38:57 GMT</pubDate>
-            <content:encoded><![CDATA[P1Harmony]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220203_171/1643870977379z2DIB_JPEG/7dfbfe8e-84bb-11ec-9c62-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[판다들~~]]></title>
-            <link>https://www.vlive.tv/video/276222</link>
-            <guid>https://www.vlive.tv/video/276222</guid>
-            <pubDate>Thu, 03 Feb 2022 08:44:21 GMT</pubDate>
-            <content:encoded><![CDATA[Apink]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220203_227/1643862159811EL4de_JPEG/cc5b1a21-84a7-11ec-9f25-246e963a49a8_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
