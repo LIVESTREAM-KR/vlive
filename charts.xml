@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 12:59:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 13:41:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,6 +40,14 @@
             <enclosure url="https://v-phinf.pstatic.net/20220202_32/1643806782965tLNh5_JPEG/156682396926726034b4189635-7f2d-4671-8f50-75a4f639d051.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[SKZ VLOG] 한 : 뿌듯한 일상로그]]></title>
+            <link>https://www.vlive.tv/video/276277</link>
+            <guid>https://www.vlive.tv/video/276277</guid>
+            <pubDate>Thu, 03 Feb 2022 12:58:03 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220203_228/1643881186989u5pkK_JPEG/upload_87958172986867117530fb7b7-1c68-40d6-8013-0dd5abf77372.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[설 잘 보냈나요]]></title>
             <link>https://www.vlive.tv/video/276175</link>
             <guid>https://www.vlive.tv/video/276175</guid>
@@ -54,14 +62,6 @@
             <pubDate>Sun, 23 Jan 2022 05:39:19 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220121_165/1642743304770R8eme_JPEG/upload_86822901680035504b7979e38-a803-4324-8664-931b4478995b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SKZ VLOG] 한 : 뿌듯한 일상로그]]></title>
-            <link>https://www.vlive.tv/video/276277</link>
-            <guid>https://www.vlive.tv/video/276277</guid>
-            <pubDate>Thu, 03 Feb 2022 12:58:03 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220203_228/1643881186989u5pkK_JPEG/upload_87958172986867117530fb7b7-1c68-40d6-8013-0dd5abf77372.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

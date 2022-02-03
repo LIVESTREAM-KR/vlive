@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 12:59:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 13:41:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220203_200/1643885605832zuzNI_JPEG/upload_60155184679241898da58f424-7dbe-4333-a411-327b9b1073e3.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원필 1st Album < Pilmography > LIVE TALK]]></title>
+            <link>https://m.vlive.tv/video/276218</link>
+            <guid>https://m.vlive.tv/video/276218</guid>
+            <pubDate>Thu, 03 Feb 2022 13:40:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 8:00</span>
+										<span class="txt">DAY6</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220203_163/1643854619596dltko_JPEG/upload_8793434097450899553c843a3-581b-497e-bf88-a93d4638ecda.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
