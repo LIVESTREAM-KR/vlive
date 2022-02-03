@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 05:41:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 06:49:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220203_5/1643823723563Ct8lr_JPEG/b60c1a13-844c-11ec-8fb9-48df379cc9e4_08.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[잠깐]]></title>
-            <link>https://www.vlive.tv/video/276180</link>
-            <guid>https://www.vlive.tv/video/276180</guid>
-            <pubDate>Wed, 02 Feb 2022 16:57:54 GMT</pubDate>
-            <content:encoded><![CDATA[SF9]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220202_276/1643791887941kbGtg_JPEG/e6feb30e-8404-11ec-9c62-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[판다들~~]]></title>
             <link>https://www.vlive.tv/video/276222</link>
             <guid>https://www.vlive.tv/video/276222</guid>
             <pubDate>Thu, 03 Feb 2022 05:39:14 GMT</pubDate>
             <content:encoded><![CDATA[Apink]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220203_227/1643862159811EL4de_JPEG/cc5b1a21-84a7-11ec-9f25-246e963a49a8_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠깐]]></title>
+            <link>https://www.vlive.tv/video/276180</link>
+            <guid>https://www.vlive.tv/video/276180</guid>
+            <pubDate>Wed, 02 Feb 2022 16:57:54 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220202_276/1643791887941kbGtg_JPEG/e6feb30e-8404-11ec-9c62-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
