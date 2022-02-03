@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 06:49:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 07:40:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / Super K-Pop] Club House]]></title>
-            <link>https://m.vlive.tv/video/275705</link>
-            <guid>https://m.vlive.tv/video/275705</guid>
-            <pubDate>Wed, 02 Feb 2022 02:50:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220127_111/1643259817582oAVeI_JPEG/upload_595294058833377749ca01243-6c68-402c-a52d-99936d911efd.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[TEMPEST FIRST VLIVE]]></title>
             <link>https://m.vlive.tv/video/276097</link>
@@ -96,6 +86,16 @@
 										오전 2:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220127_95/1643259622085smFyB_JPEG/upload_8733933908009311513e935ef-a748-4181-9350-64ff2b3e0f54.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Simply K-Pop CON-TOUR | 2022 Fly high K-POP Concert Part.2 (심플리케이팝 콘투어) Ep.505]]></title>
+            <link>https://m.vlive.tv/video/276249</link>
+            <guid>https://m.vlive.tv/video/276249</guid>
+            <pubDate>Thu, 03 Feb 2022 07:39:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220203_298/1643870017232wqv9V_PNG/upload_87949706683665281418f349f-1f37-4804-946c-394d99f3a9ec.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
