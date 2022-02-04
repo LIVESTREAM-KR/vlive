@@ -4,9 +4,16 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 18:41:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 19:41:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[늦었지만☁️💙]]></title>
+            <link>https://www.vlive.tv/video/276413</link>
+            <guid>https://www.vlive.tv/video/276413</guid>
+            <pubDate>Fri, 04 Feb 2022 19:38:59 GMT</pubDate>
+            <content:encoded><![CDATA[ONEUS]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[봄과 함께 찾아온 1위 가수 펜타곤입니다🌸]]></title>
             <link>https://www.vlive.tv/video/276412</link>
@@ -398,14 +405,6 @@
             <pubDate>Fri, 04 Feb 2022 09:39:56 GMT</pubDate>
             <content:encoded><![CDATA[VIXX]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220204_66/1643965309281900aU_JPEG/1568409082492049982cc351cb-3260-4e16-a917-29dd67b36b11.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🐯🎂🐯]]></title>
-            <link>https://www.vlive.tv/video/276372</link>
-            <guid>https://www.vlive.tv/video/276372</guid>
-            <pubDate>Fri, 04 Feb 2022 09:39:56 GMT</pubDate>
-            <content:encoded><![CDATA[싸이퍼(Ciipher)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220204_176/1643969486849hrPrx_JPEG/d42cd78b-85a1-11ec-b11b-246e963a464c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

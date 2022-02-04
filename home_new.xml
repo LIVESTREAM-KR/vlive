@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 18:41:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 19:41:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[늦었지만☁️💙]]></title>
+            <link>https://www.vlive.tv/video/276413</link>
+            <guid>https://www.vlive.tv/video/276413</guid>
+            <pubDate>Fri, 04 Feb 2022 19:39:07 GMT</pubDate>
+            <content:encoded><![CDATA[ONEUS]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/276413/thumb?type=f228_128" length="0" type="image//live/276413/thumb"/>
+        </item>
         <item>
             <title><![CDATA[봄과 함께 찾아온 1위 가수 펜타곤입니다🌸]]></title>
             <link>https://www.vlive.tv/video/276412</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 04 Feb 2022 14:38:51 GMT</pubDate>
             <content:encoded><![CDATA[MAMAMOO]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220204_9/1643978682260RewBt_JPEG/upload_60247604742645372ed70700a-fc8f-4634-bcba-a5e029b0d92d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[$2 Press on Nails Review 2천원대 네일팁 후기 | 붙이기 | 셀프네일]]></title>
-            <link>https://www.vlive.tv/video/276313</link>
-            <guid>https://www.vlive.tv/video/276313</guid>
-            <pubDate>Fri, 04 Feb 2022 14:38:51 GMT</pubDate>
-            <content:encoded><![CDATA[EUNBI]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220204_56/1643902707183Imod4_JPEG/c68c3246-8505-11ec-b3f1-505dacfbaa5c_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
