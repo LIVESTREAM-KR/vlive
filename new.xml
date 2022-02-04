@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 17:40:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 18:41:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄과 함께 찾아온 1위 가수 펜타곤입니다🌸]]></title>
+            <link>https://www.vlive.tv/video/276412</link>
+            <guid>https://www.vlive.tv/video/276412</guid>
+            <pubDate>Fri, 04 Feb 2022 18:38:59 GMT</pubDate>
+            <content:encoded><![CDATA[PENTAGON]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220205_115/1643993888674tX3e8_JPEG/3761166494161733559b64f14-b013-4292-93a2-86d8e2e62329.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Radio Hama] 아이스크림과 심야라디오]]></title>
             <link>https://www.vlive.tv/video/276404</link>
@@ -398,14 +406,6 @@
             <pubDate>Fri, 04 Feb 2022 09:39:56 GMT</pubDate>
             <content:encoded><![CDATA[싸이퍼(Ciipher)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220204_176/1643969486849hrPrx_JPEG/d42cd78b-85a1-11ec-b11b-246e963a464c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YENA(최예나) - 'SMILEY' Costume Performance Video]]></title>
-            <link>https://www.vlive.tv/video/276328</link>
-            <guid>https://www.vlive.tv/video/276328</guid>
-            <pubDate>Fri, 04 Feb 2022 10:38:44 GMT</pubDate>
-            <content:encoded><![CDATA[YENA(최예나)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220204_22/1643941015178n3r6u_PNG/upload_88020720608872270844ef811-84dd-47e4-ba86-2a0d8a2cf198.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
