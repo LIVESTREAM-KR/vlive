@@ -4,9 +4,24 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 07:40:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 08:40:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[간만에 라이브💙]]></title>
+            <link>https://www.vlive.tv/video/276366</link>
+            <guid>https://www.vlive.tv/video/276366</guid>
+            <pubDate>Fri, 04 Feb 2022 08:38:38 GMT</pubDate>
+            <content:encoded><![CDATA[LEE JIN HYUK]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[🎬] 째니타임즈⏰ EP.70 ‘다 잊은 줄 알았어’ 뮤직비디오 촬영 비하인드]]></title>
+            <link>https://www.vlive.tv/video/276354</link>
+            <guid>https://www.vlive.tv/video/276354</guid>
+            <pubDate>Fri, 04 Feb 2022 08:38:38 GMT</pubDate>
+            <content:encoded><![CDATA[KIM JAEHWAN(김재환)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220204_68/16439583118690L6L0_JPEG/upload_88037857246788860a981e06b-9703-46a9-ac60-3047b25c9d27.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[INFP vs INFP]]></title>
             <link>https://www.vlive.tv/video/276359</link>
@@ -389,22 +404,6 @@
             <pubDate>Thu, 03 Feb 2022 13:38:58 GMT</pubDate>
             <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220202_27/1643784117052vwFRq_JPEG/upload_878638116162040557c92c64e-22de-42fa-80b3-83fce408d298.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유주(YUJU) - [REC.] 작업기 #Take1]]></title>
-            <link>https://www.vlive.tv/video/276290</link>
-            <guid>https://www.vlive.tv/video/276290</guid>
-            <pubDate>Thu, 03 Feb 2022 13:38:58 GMT</pubDate>
-            <content:encoded><![CDATA[유주 (YUJU)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220203_280/16438910255197l2dB_JPEG/upload_8797072357920024269bb697e-1cae-49cf-8574-2756461281b3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[FM_1.24] 'Hush Hush' 녹음 비하인드]]></title>
-            <link>https://www.vlive.tv/video/276022</link>
-            <guid>https://www.vlive.tv/video/276022</guid>
-            <pubDate>Thu, 03 Feb 2022 13:38:58 GMT</pubDate>
-            <content:encoded><![CDATA[fromis_9]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220130_41/16434824218160vxLo_JPEG/upload_87562151277086189ccda48e8-f452-4313-8778-6c20ed4fc8ac.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
