@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 06:42:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 07:40:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Thu, 03 Feb 2022 11:39:16 GMT</pubDate>
             <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220131_153/1643620853100KwQaG_JPEG/upload_877003145077605692e7dc335-47c9-48a8-b5aa-f77fffbf88c0.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[👶🏻💜]]></title>
-            <link>https://www.vlive.tv/video/276248</link>
-            <guid>https://www.vlive.tv/video/276248</guid>
-            <pubDate>Thu, 03 Feb 2022 07:39:08 GMT</pubDate>
-            <content:encoded><![CDATA[TWICE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220203_61/1643870392242Te5wq_JPEG/e81035e3-84bb-11ec-bf63-505dac8c3721_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[220203 🦋HAPPY REI DAY🦋]]></title>
@@ -37,7 +29,15 @@
             <guid>https://www.vlive.tv/video/276277</guid>
             <pubDate>Thu, 03 Feb 2022 12:58:03 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220203_228/1643881186989u5pkK_JPEG/upload_87958172986867117530fb7b7-1c68-40d6-8013-0dd5abf77372.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220203_228/1643881186989u5pkK_JPEG/upload_87958172986867117530fb7b7-1c68-40d6-8013-0dd5abf77372.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[👶🏻💜]]></title>
+            <link>https://www.vlive.tv/video/276248</link>
+            <guid>https://www.vlive.tv/video/276248</guid>
+            <pubDate>Thu, 03 Feb 2022 07:39:08 GMT</pubDate>
+            <content:encoded><![CDATA[TWICE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220203_61/1643870392242Te5wq_JPEG/e81035e3-84bb-11ec-bf63-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ENHYPEN (엔하이픈) 'EN-O'CLOCK' EP.23]]></title>
@@ -48,20 +48,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220126_108/1643185782425rCo7J_PNG/upload_87265495606169558a62cc939-f674-4528-b74b-50c71988c5ba.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from Jung Kook]]></title>
-            <link>https://www.vlive.tv/video/275231</link>
-            <guid>https://www.vlive.tv/video/275231</guid>
-            <pubDate>Sun, 23 Jan 2022 05:39:19 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220121_165/1642743304770R8eme_JPEG/upload_86822901680035504b7979e38-a803-4324-8664-931b4478995b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[이 기분을 따라 bop bop하러 왔습니다]]></title>
             <link>https://www.vlive.tv/video/276314</link>
             <guid>https://www.vlive.tv/video/276314</guid>
             <pubDate>Thu, 03 Feb 2022 18:45:55 GMT</pubDate>
             <content:encoded><![CDATA[VIVIZ (비비지)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220204_267/1643902904998BwEgA_JPEG/1567784869842851213c4ab954-9943-499d-a4ff-99b66bffebfb.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from Jung Kook]]></title>
+            <link>https://www.vlive.tv/video/275231</link>
+            <guid>https://www.vlive.tv/video/275231</guid>
+            <pubDate>Sun, 23 Jan 2022 05:39:19 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220121_165/1642743304770R8eme_JPEG/upload_86822901680035504b7979e38-a803-4324-8664-931b4478995b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
