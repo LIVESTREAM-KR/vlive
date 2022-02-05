@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 11:40:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 12:48:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,14 +120,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220205_50/1644045198460XNSr0_JPEG/upload_88124909911189170e9214ecb-7a32-4867-88d1-c4155c459200.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오늘의 mustb는 무엇을 할까요?😮]]></title>
-            <link>https://www.vlive.tv/video/276425</link>
-            <guid>https://www.vlive.tv/video/276425</guid>
-            <pubDate>Sat, 05 Feb 2022 11:39:29 GMT</pubDate>
-            <content:encoded><![CDATA[오전 11:00]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220205_138/1644058829005pxDqs_JPEG/15684722300452570098dc35c5-a988-4ed5-b0fa-28fcc4daabab.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[YENA HI-YENA ep.03 I say hey]]></title>
             <link>https://www.vlive.tv/video/276331</link>
             <guid>https://www.vlive.tv/video/276331</guid>
@@ -160,20 +152,60 @@
             <enclosure url="https://v-phinf.pstatic.net/20220205_149/1644055207224b8Blg_JPEG/15693080620726111379788f6a-1f08-46c2-875e-538907d855d3.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[조곤조곤]]></title>
-            <link>https://www.vlive.tv/video/276427</link>
-            <guid>https://www.vlive.tv/video/276427</guid>
-            <pubDate>Sat, 05 Feb 2022 11:39:29 GMT</pubDate>
-            <content:encoded><![CDATA[오전 11:28]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/276427/thumb?type=f228_128" length="0" type="image//live/276427/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[갬성 배달 왔어요(향수)]]></title>
             <link>https://www.vlive.tv/video/276423</link>
             <guid>https://www.vlive.tv/video/276423</guid>
             <pubDate>Sat, 05 Feb 2022 10:39:59 GMT</pubDate>
             <content:encoded><![CDATA[오전 11:35]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220205_207/1644056582240Y8pfx_JPEG/156932113219874033f3c5b075-f740-474d-8c32-5592490551fa.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘의 mustb는 무엇을 할까요?😮]]></title>
+            <link>https://www.vlive.tv/video/276425</link>
+            <guid>https://www.vlive.tv/video/276425</guid>
+            <pubDate>Sat, 05 Feb 2022 11:39:29 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:47]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220205_138/1644058829005pxDqs_JPEG/15684722300452570098dc35c5-a988-4ed5-b0fa-28fcc4daabab.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[펜타곤 - 'Feelin' Like' Special Performance Video]]></title>
+            <link>https://www.vlive.tv/video/276293</link>
+            <guid>https://www.vlive.tv/video/276293</guid>
+            <pubDate>Sat, 05 Feb 2022 12:47:26 GMT</pubDate>
+            <content:encoded><![CDATA[오후 12:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220204_76/1643944511862MX5XM_JPEG/upload_8797360525270838493e3788e-5bea-456c-b4ee-801e9c1ea9b2.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[샤슐랭] EP.4 샤볶이 (ENG/JPN/ESP)]]></title>
+            <link>https://www.vlive.tv/video/276429</link>
+            <guid>https://www.vlive.tv/video/276429</guid>
+            <pubDate>Sat, 05 Feb 2022 12:47:26 GMT</pubDate>
+            <content:encoded><![CDATA[오후 12:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220205_204/1644062635287Lo46B_JPEG/upload_88140988217258386afeecb3f-4cf0-4b91-b58a-89c57f3b92a9.jpeg?type=f228_128" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[조곤조곤]]></title>
+            <link>https://www.vlive.tv/video/276427</link>
+            <guid>https://www.vlive.tv/video/276427</guid>
+            <pubDate>Sat, 05 Feb 2022 11:39:29 GMT</pubDate>
+            <content:encoded><![CDATA[오후 12:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220205_207/1644062412838iN3rs_JPEG/f115ea9a-867a-11ec-bd70-505dac8c38f5_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[CLEAN CAM] ep.32 '로엠' 광고 촬영 비하인드]]></title>
+            <link>https://www.vlive.tv/video/276285</link>
+            <guid>https://www.vlive.tv/video/276285</guid>
+            <pubDate>Sat, 05 Feb 2022 12:47:26 GMT</pubDate>
+            <content:encoded><![CDATA[오후 12:01]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220203_284/1643887062390XQAAu_JPEG/upload_60156489300424496b788615e-36d6-4cf3-9db2-370dcce823c6.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[:D]]></title>
+            <link>https://www.vlive.tv/video/276431</link>
+            <guid>https://www.vlive.tv/video/276431</guid>
+            <pubDate>Sat, 05 Feb 2022 12:47:26 GMT</pubDate>
+            <content:encoded><![CDATA[오후 12:16]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/276431/thumb?type=f228_128" length="0" type="image//live/276431/thumb"/>
         </item>
         <item>
             <title><![CDATA[15분 초간단⏰ 왕초보 꾸안꾸 데일리 메이크업+스킨케어 (화장잘먹는법)]]></title>
