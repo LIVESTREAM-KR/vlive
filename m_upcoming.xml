@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 23:41:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 01:27:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,6 +36,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220204_232/1643960028443d1jsL_JPEG/upload_880397013924291091dd1cc28-aff6-487c-85ce-4e57995eb2bf.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / DRIPPIN 드리핀)]]></title>
+            <link>https://m.vlive.tv/video/275051</link>
+            <guid>https://m.vlive.tv/video/275051</guid>
+            <pubDate>Sat, 05 Feb 2022 01:26:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										방송취소</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220119_188/164258575176618XCB_JPEG/upload_8666542442426200182c0052c-8d4f-4b03-9df3-bfab1a702d10.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
