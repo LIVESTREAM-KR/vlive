@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 17:41:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 18:41:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[허영생의 잠 못드는 밤에(심심한 주말)]]></title>
+            <link>https://www.vlive.tv/video/276441</link>
+            <guid>https://www.vlive.tv/video/276441</guid>
+            <pubDate>Sat, 05 Feb 2022 18:39:01 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220206_288/1644083166315BqEjj_JPEG/156871557755733605261614ad-4244-4c7e-ac70-6daa098130ff.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ㅜ]]></title>
             <link>https://www.vlive.tv/video/276439</link>
@@ -397,14 +405,6 @@
             <pubDate>Fri, 04 Feb 2022 14:38:42 GMT</pubDate>
             <content:encoded><![CDATA[ONEWE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220204_279/16439867700366N7Qu_JPEG/3a2390bc-85ca-11ec-9ab6-a0369ff963bc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문가영에 진심인 #키동캠 화보 비하인드 | Mun Ka Young]]></title>
-            <link>https://www.vlive.tv/video/276392</link>
-            <guid>https://www.vlive.tv/video/276392</guid>
-            <pubDate>Fri, 04 Feb 2022 14:38:42 GMT</pubDate>
-            <content:encoded><![CDATA[KEYEAST]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220204_100/1643973214661vVxUt_JPEG/upload_88052796274211451ca51b683-0949-4711-8284-950e03e8e070.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
