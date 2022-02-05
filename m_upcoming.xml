@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 08:41:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 09:41:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,16 @@
 										오전 8:00</span>
 										<span class="txt">DAY6</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220203_163/1643854619596dltko_JPEG/upload_8793434097450899553c843a3-581b-497e-bf88-a93d4638ecda.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NAYOUNG with NALANG💝]]></title>
+            <link>https://m.vlive.tv/video/276378</link>
+            <guid>https://m.vlive.tv/video/276378</guid>
+            <pubDate>Sat, 05 Feb 2022 09:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 9:00</span>
+										<span class="txt">임나영 (Lim Na Young)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220204_113/1643965981724TItMM_JPEG/upload_88045230845813148bbc9f71e-1a3a-442c-88d1-dffa73451478.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
