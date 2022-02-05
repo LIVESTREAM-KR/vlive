@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 19:41:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 20:40:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Sat, 05 Feb 2022 17:38:53 GMT</pubDate>
             <content:encoded><![CDATA[KINGDOM]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220206_210/1644082355212RqAvv_JPEG/988b6592-86a9-11ec-8fb9-48df379cc9e4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안뇽]]></title>
-            <link>https://www.vlive.tv/video/276440</link>
-            <guid>https://www.vlive.tv/video/276440</guid>
-            <pubDate>Sat, 05 Feb 2022 17:38:53 GMT</pubDate>
-            <content:encoded><![CDATA[KINGDOM]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/276440/thumb?type=f228_128" length="0" type="image//live/276440/thumb"/>
         </item>
         <item>
             <title><![CDATA[새해 복 많이 받으세요(늦음🥲)]]></title>
@@ -126,6 +118,14 @@
             <pubDate>Sat, 05 Feb 2022 12:46:40 GMT</pubDate>
             <content:encoded><![CDATA[SF9]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220205_154/1644065505957yGVmo_JPEG/10c10c21-8682-11ec-9ab6-a0369ff963bc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[CLEAN CAM] ep.32 '로엠' 광고 촬영 비하인드]]></title>
+            <link>https://www.vlive.tv/video/276285</link>
+            <guid>https://www.vlive.tv/video/276285</guid>
+            <pubDate>Sat, 05 Feb 2022 20:38:54 GMT</pubDate>
+            <content:encoded><![CDATA[김세정 (KIM SEJEONG)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220203_284/1643887062390XQAAu_JPEG/upload_60156489300424496b788615e-36d6-4cf3-9db2-370dcce823c6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
