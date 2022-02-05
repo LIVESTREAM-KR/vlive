@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 02:40:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 03:40:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[IMERA] EP.107 'DESSERT' 음악방송 비하인드]]></title>
+            <link>https://www.vlive.tv/video/276398</link>
+            <guid>https://www.vlive.tv/video/276398</guid>
+            <pubDate>Sat, 05 Feb 2022 03:38:41 GMT</pubDate>
+            <content:encoded><![CDATA[위아이 (WEi)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220204_195/1643976285932OPsbN_JPEG/upload_602458541515450275ca28d7d-4c49-463c-b24e-7dd6c639156b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[리그 1,2위를 결정짓는 빅매치! FC개벤져스 VS FC구척장신의 경기!]]></title>
             <link>https://www.vlive.tv/video/276370</link>
@@ -398,14 +406,6 @@
             <pubDate>Fri, 04 Feb 2022 10:38:44 GMT</pubDate>
             <content:encoded><![CDATA[케이시(Kassy)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220204_73/1643968884550UiWEP_JPEG/156844421495259638a8f5f881-2e37-4ee7-8310-874fee3c0cb6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[cignature's 24hours 릴레이 VLIVE💝]]></title>
-            <link>https://www.vlive.tv/video/276342</link>
-            <guid>https://www.vlive.tv/video/276342</guid>
-            <pubDate>Fri, 04 Feb 2022 04:42:06 GMT</pubDate>
-            <content:encoded><![CDATA[시그니처(cignature)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220204_100/1643947202801hbpA0_JPEG/1568227397975557837d7b0599-0a9f-4330-abe5-3a49cb651314.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

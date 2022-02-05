@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 02:40:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 03:40:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[IMERA] EP.107 'DESSERT' 음악방송 비하인드]]></title>
+            <link>https://www.vlive.tv/video/276398</link>
+            <guid>https://www.vlive.tv/video/276398</guid>
+            <pubDate>Sat, 05 Feb 2022 03:38:50 GMT</pubDate>
+            <content:encoded><![CDATA[위아이 (WEi)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220204_195/1643976285932OPsbN_JPEG/upload_602458541515450275ca28d7d-4c49-463c-b24e-7dd6c639156b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[리그 1,2위를 결정짓는 빅매치! FC개벤져스 VS FC구척장신의 경기!]]></title>
             <link>https://www.vlive.tv/video/276370</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 04 Feb 2022 14:38:51 GMT</pubDate>
             <content:encoded><![CDATA[ONEWE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220204_279/16439867700366N7Qu_JPEG/3a2390bc-85ca-11ec-9ab6-a0369ff963bc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문가영에 진심인 #키동캠 화보 비하인드 | Mun Ka Young]]></title>
-            <link>https://www.vlive.tv/video/276392</link>
-            <guid>https://www.vlive.tv/video/276392</guid>
-            <pubDate>Fri, 04 Feb 2022 14:38:51 GMT</pubDate>
-            <content:encoded><![CDATA[KEYEAST]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220204_100/1643973214661vVxUt_JPEG/upload_88052796274211451ca51b683-0949-4711-8284-950e03e8e070.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
