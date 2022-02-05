@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 14:40:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 15:40:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -66,6 +66,16 @@
 										오전 9:00</span>
 										<span class="txt">임나영 (Lim Na Young)</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220204_113/1643965981724TItMM_JPEG/upload_88045230845813148bbc9f71e-1a3a-442c-88d1-dffa73451478.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE] SIMPLY K-POP CON-TOUR (📍Germany)]]></title>
+            <link>https://m.vlive.tv/video/276363</link>
+            <guid>https://m.vlive.tv/video/276363</guid>
+            <pubDate>Sat, 05 Feb 2022 15:39:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220204_76/16439609817724oHCo_PNG/upload_602305554803813881ed3b714-4d72-44f1-ae16-f7d80458075a.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
