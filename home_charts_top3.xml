@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ CHARTS TOP3</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 14:41:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 15:44:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,15 +13,7 @@
             <guid>https://www.vlive.tv/video/276472</guid>
             <pubDate>Sun, 06 Feb 2022 14:39:30 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/276472/thumb?type=f640_362" length="0" type="image//live/276472/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from Jung Kook]]></title>
-            <link>https://www.vlive.tv/video/275231</link>
-            <guid>https://www.vlive.tv/video/275231</guid>
-            <pubDate>Sat, 05 Feb 2022 18:39:16 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220121_165/1642743304770R8eme_JPEG/upload_86822901680035504b7979e38-a803-4324-8664-931b4478995b.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220207_23/16441604051908PGpP_JPEG/87f1a9bc-875e-11ec-8fb9-48df379cc9e4_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[👅]]></title>
@@ -30,6 +22,14 @@
             <pubDate>Sun, 06 Feb 2022 11:39:09 GMT</pubDate>
             <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220206_112/1644137704298P6Kfi_JPEG/8329418714604155322d7a29e-c6b8-495d-80ef-380cbbf78eb4.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from Jung Kook]]></title>
+            <link>https://www.vlive.tv/video/275231</link>
+            <guid>https://www.vlive.tv/video/275231</guid>
+            <pubDate>Sat, 05 Feb 2022 18:39:16 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220121_165/1642743304770R8eme_JPEG/upload_86822901680035504b7979e38-a803-4324-8664-931b4478995b.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
