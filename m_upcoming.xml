@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 02:57:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 03:42:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,16 @@
 										오전 10:00</span>
 										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220204_76/16439609817724oHCo_PNG/upload_602305554803813881ed3b714-4d72-44f1-ae16-f7d80458075a.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[이동욱] 합니다 박박짜짜 재미있는 이동욱 V 라이브]]></title>
+            <link>https://m.vlive.tv/video/276381</link>
+            <guid>https://m.vlive.tv/video/276381</guid>
+            <pubDate>Sun, 06 Feb 2022 03:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">LEE DONG WOOK</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220204_229/1643967975343Uvoi9_JPEG/upload_602374310507305051377ccda-e898-4e7c-8763-0d8225a9799c.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
