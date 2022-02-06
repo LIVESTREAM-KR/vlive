@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 06:48:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 07:40:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[First concert in LA]]></title>
+            <link>https://www.vlive.tv/video/276448</link>
+            <guid>https://www.vlive.tv/video/276448</guid>
+            <pubDate>Sun, 06 Feb 2022 07:38:44 GMT</pubDate>
+            <content:encoded><![CDATA[블리처스(BLITZERS)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220206_28/1644132185405PTUvI_JPEG/3e6af10b-871d-11ec-9f69-505dac8c3639_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다시 시작하자 ✌]]></title>
             <link>https://www.vlive.tv/video/276447</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 05 Feb 2022 15:38:56 GMT</pubDate>
             <content:encoded><![CDATA[ONEUS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220205_279/16440584993722BnX1_PNG/upload_88138199171894676a7fa7408-d2c3-400c-9f29-c734d2a3e56a.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[15분 초간단⏰ 왕초보 꾸안꾸 데일리 메이크업+스킨케어 (화장잘먹는법)]]></title>
-            <link>https://www.vlive.tv/video/276419</link>
-            <guid>https://www.vlive.tv/video/276419</guid>
-            <pubDate>Sat, 05 Feb 2022 15:38:56 GMT</pubDate>
-            <content:encoded><![CDATA[MisoJeong]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220205_47/1644054646323q1m4j_PNG/upload_881329362247903744abc9020-d716-4de5-a0fa-e0387bf4384d.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
