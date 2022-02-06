@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 11:41:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 12:56:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[준희 하고 싶은 거 다 해]]></title>
-            <link>https://m.vlive.tv/video/276274</link>
-            <guid>https://m.vlive.tv/video/276274</guid>
-            <pubDate>Thu, 03 Feb 2022 10:42:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 12:00</span>
-										<span class="txt">에이스(A.C.E)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220203_244/1643879934843sb9TN_JPEG/upload_87958731839145448067c3968-2ff0-4b1f-b376-db9240f26165.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
             <link>https://m.vlive.tv/video/275912</link>
@@ -96,6 +86,16 @@
 										오전 11:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220203_93/16438842858074rW8n_JPEG/upload_879639582009260487292aa8a-d5fe-4e81-8ced-83696d6cf2fc.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
+            <link>https://m.vlive.tv/video/275911</link>
+            <guid>https://m.vlive.tv/video/275911</guid>
+            <pubDate>Sun, 06 Feb 2022 12:55:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220128_15/1643363958416usms9_JPEG/upload_87443671480306765d8458441-7ac3-4925-9b1f-c11213280267.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
