@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 07:40:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 08:44:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잠깐 만나러 와써☁️💙]]></title>
+            <link>https://www.vlive.tv/video/276449</link>
+            <guid>https://www.vlive.tv/video/276449</guid>
+            <pubDate>Sun, 06 Feb 2022 08:42:18 GMT</pubDate>
+            <content:encoded><![CDATA[ONEUS]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/276449/thumb?type=f228_128" length="0" type="image//live/276449/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[동동(蝀)하다 - EP.13 집밥 동선생]]></title>
+            <link>https://www.vlive.tv/video/276444</link>
+            <guid>https://www.vlive.tv/video/276444</guid>
+            <pubDate>Sun, 06 Feb 2022 08:42:18 GMT</pubDate>
+            <content:encoded><![CDATA[AB6IX]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220206_128/1644120683461BCXCR_JPEG/upload_882004037527546539cd4af9e-c515-4d04-ba32-62e615243a5d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[First concert in LA]]></title>
             <link>https://www.vlive.tv/video/276448</link>
@@ -110,22 +126,6 @@
             <pubDate>Sat, 05 Feb 2022 14:38:50 GMT</pubDate>
             <content:encoded><![CDATA[ONEUS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220206_123/1644075057471L5hW4_JPEG/dd0d4294-8697-11ec-9cfd-505dacfba98a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하하]]></title>
-            <link>https://www.vlive.tv/video/276435</link>
-            <guid>https://www.vlive.tv/video/276435</guid>
-            <pubDate>Sat, 05 Feb 2022 14:38:50 GMT</pubDate>
-            <content:encoded><![CDATA[루미너스 (LUMINOUS)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220206_222/1644073656329IzTzn_JPEG/d29fea54-8694-11ec-b3d2-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[ONEUS DIARY] KEON HEE SELF CAM l 2022 ONEUS TOUR BLOOD MOON]]></title>
-            <link>https://www.vlive.tv/video/276424</link>
-            <guid>https://www.vlive.tv/video/276424</guid>
-            <pubDate>Sat, 05 Feb 2022 15:38:56 GMT</pubDate>
-            <content:encoded><![CDATA[ONEUS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220205_279/16440584993722BnX1_PNG/upload_88138199171894676a7fa7408-d2c3-400c-9f29-c734d2a3e56a.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
