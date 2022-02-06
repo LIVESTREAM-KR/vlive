@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 12:56:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 13:40:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,14 +128,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220206_190/1644142488083SouBP_JPEG/156930888717447101a2556c11-35c7-46f0-bbed-e19814c85714.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[일욜이라 샤가 왔옹]]></title>
-            <link>https://www.vlive.tv/video/276458</link>
-            <guid>https://www.vlive.tv/video/276458</guid>
-            <pubDate>Sun, 06 Feb 2022 11:39:53 GMT</pubDate>
-            <content:encoded><![CDATA[오전 11:03]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/276458/thumb?type=f228_128" length="0" type="image//live/276458/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[2022 문종업 생일 팬미팅]]></title>
             <link>https://www.vlive.tv/video/276455</link>
             <guid>https://www.vlive.tv/video/276455</guid>
@@ -184,28 +176,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20220206_70/16441187524947uM5J_JPEG/upload_881984703570475357001a858-eca2-43e5-92c9-c74e85e971e9.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[준희 하고 싶은 거 다 해]]></title>
-            <link>https://www.vlive.tv/video/276274</link>
-            <guid>https://www.vlive.tv/video/276274</guid>
-            <pubDate>Sun, 06 Feb 2022 01:48:18 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:00]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220203_244/1643879934843sb9TN_JPEG/upload_87958731839145448067c3968-2ff0-4b1f-b376-db9240f26165.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[인투유유유유유유유유]]></title>
             <link>https://www.vlive.tv/video/276457</link>
             <guid>https://www.vlive.tv/video/276457</guid>
             <pubDate>Sun, 06 Feb 2022 11:39:53 GMT</pubDate>
             <content:encoded><![CDATA[오후 12:08]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220206_68/16441493212281dR6R_JPEG/b22249c7-8744-11ec-b9f9-a0369ff94ec8_03.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안뇽 나 짜파구리먹을거야]]></title>
-            <link>https://www.vlive.tv/video/276464</link>
-            <guid>https://www.vlive.tv/video/276464</guid>
-            <pubDate>Sun, 06 Feb 2022 12:55:41 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:28]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220206_148/1644150498805qRnlf_JPEG/1569388687790213310f240327-6099-446f-ab83-e8b34bdb8335.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CRAVITY ‘LIBERTY : IN OUR COSMOS’ Concept Film]]></title>
@@ -238,6 +214,46 @@
             <pubDate>Sun, 06 Feb 2022 12:55:41 GMT</pubDate>
             <content:encoded><![CDATA[오후 12:50]]></content:encoded>
             <enclosure url="https://vlive-thumb.pstatic.net/live/276466/thumb?type=f228_128" length="0" type="image//live/276466/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[[MCND-LOG 30] LOGwin 🖥 있다 나도 민증]]></title>
+            <link>https://www.vlive.tv/video/276446</link>
+            <guid>https://www.vlive.tv/video/276446</guid>
+            <pubDate>Sun, 06 Feb 2022 13:39:38 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220206_228/1644150544019u2MsU_JPEG/9452511b-870d-11ec-8e85-48df379ccacc_01.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일욜이라 샤가 왔옹]]></title>
+            <link>https://www.vlive.tv/video/276458</link>
+            <guid>https://www.vlive.tv/video/276458</guid>
+            <pubDate>Sun, 06 Feb 2022 11:39:53 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:20]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220206_141/16441536160015FdjM_JPEG/1036a1d5-874d-11ec-8fb9-48df379cc9e4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[NU’EST] 🙌🏻]]></title>
+            <link>https://www.vlive.tv/video/276468</link>
+            <guid>https://www.vlive.tv/video/276468</guid>
+            <pubDate>Sun, 06 Feb 2022 13:39:38 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:21]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/276468/thumb?type=f228_128" length="0" type="image//live/276468/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[준희 하고 싶은 거 다 해]]></title>
+            <link>https://www.vlive.tv/video/276274</link>
+            <guid>https://www.vlive.tv/video/276274</guid>
+            <pubDate>Sun, 06 Feb 2022 01:48:18 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:24]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220203_244/1643879934843sb9TN_JPEG/upload_87958731839145448067c3968-2ff0-4b1f-b376-db9240f26165.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안뇽 나 짜파구리먹을거야]]></title>
+            <link>https://www.vlive.tv/video/276464</link>
+            <guid>https://www.vlive.tv/video/276464</guid>
+            <pubDate>Sun, 06 Feb 2022 12:55:41 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:25]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220206_148/1644150498805qRnlf_JPEG/1569388687790213310f240327-6099-446f-ab83-e8b34bdb8335.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
