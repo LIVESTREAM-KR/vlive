@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 17:41:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 18:46:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,20 +304,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220207_23/16441604051908PGpP_JPEG/87f1a9bc-875e-11ec-8fb9-48df379cc9e4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[#OMRR 일요일밤🐝]]></title>
-            <link>https://www.vlive.tv/video/276477</link>
-            <guid>https://www.vlive.tv/video/276477</guid>
-            <pubDate>Sun, 06 Feb 2022 16:55:45 GMT</pubDate>
-            <content:encoded><![CDATA[오후 4:09]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220207_8/1644163762082d7dXy_JPEG/1570393610421459756a40b08b-2cf2-41bf-97da-5275d75f3c07.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[오늘은 살짝만^^]]></title>
             <link>https://www.vlive.tv/video/276476</link>
             <guid>https://www.vlive.tv/video/276476</guid>
             <pubDate>Sun, 06 Feb 2022 16:55:45 GMT</pubDate>
             <content:encoded><![CDATA[오후 4:25]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220207_257/1644164713573fe0Sm_JPEG/fc7b9aaf-8768-11ec-8fb9-48df379cc9e4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#OMRR 일요일밤🐝]]></title>
+            <link>https://www.vlive.tv/video/276477</link>
+            <guid>https://www.vlive.tv/video/276477</guid>
+            <pubDate>Sun, 06 Feb 2022 16:55:45 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:52]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220207_8/1644163762082d7dXy_JPEG/1570393610421459756a40b08b-2cf2-41bf-97da-5275d75f3c07.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
