@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 19:40:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 20:41:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -526,6 +526,14 @@
             <pubDate>Mon, 07 Feb 2022 16:58:49 GMT</pubDate>
             <content:encoded><![CDATA[오후 4:52]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220208_68/1644252734234DKwSr_JPEG/12a72cc0-8836-11ec-b27b-48df379cca40_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[허영생의 잠 못드는 밤에(...)]]></title>
+            <link>https://www.vlive.tv/video/276542</link>
+            <guid>https://www.vlive.tv/video/276542</guid>
+            <pubDate>Mon, 07 Feb 2022 20:39:43 GMT</pubDate>
+            <content:encoded><![CDATA[오후 7:40]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220208_49/1644259210164HFY3h_JPEG/1570475893388621372a00e05c-a1ed-4697-8603-00766bc4e9b9.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
