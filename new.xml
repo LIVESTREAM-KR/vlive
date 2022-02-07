@@ -4,17 +4,9 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 18:46:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 19:40:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[허영생의 잠 못드는 밤에(...)]]></title>
-            <link>https://www.vlive.tv/video/276542</link>
-            <guid>https://www.vlive.tv/video/276542</guid>
-            <pubDate>Mon, 07 Feb 2022 18:43:46 GMT</pubDate>
-            <content:encoded><![CDATA[허영생]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220208_49/1644259210164HFY3h_JPEG/1570475893388621372a00e05c-a1ed-4697-8603-00766bc4e9b9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[ㅎ]]></title>
             <link>https://www.vlive.tv/video/276541</link>
@@ -406,6 +398,14 @@
             <pubDate>Mon, 07 Feb 2022 08:44:13 GMT</pubDate>
             <content:encoded><![CDATA[mydaily]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220207_232/16442204756669i0du_JPEG/upload_88300176403239804722d2bab-30dc-4801-8135-b44f506d9d40.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[송가인:Song Gain] "앞으로 연기 못할 것 같아, 노래만 열심히 할 것" (영화 매미소리)]]></title>
+            <link>https://www.vlive.tv/video/276504</link>
+            <guid>https://www.vlive.tv/video/276504</guid>
+            <pubDate>Mon, 07 Feb 2022 19:38:43 GMT</pubDate>
+            <content:encoded><![CDATA[mydaily]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220207_271/1644220466803YaONI_JPEG/upload_604900667708550506ff7826e-b299-411f-a606-59e61cf8b03d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
