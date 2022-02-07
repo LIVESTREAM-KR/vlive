@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 09:42:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 10:43:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[LIVE] SIMPLY K-POP CON-TOUR (📍Germany)]]></title>
-            <link>https://m.vlive.tv/video/276363</link>
-            <guid>https://m.vlive.tv/video/276363</guid>
-            <pubDate>Sun, 06 Feb 2022 01:48:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220204_76/16439609817724oHCo_PNG/upload_602305554803813881ed3b714-4d72-44f1-ae16-f7d80458075a.png?type=f274_154" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[이동욱] 합니다 박박짜짜 재미있는 이동욱 V 라이브]]></title>
-            <link>https://m.vlive.tv/video/276381</link>
-            <guid>https://m.vlive.tv/video/276381</guid>
-            <pubDate>Sun, 06 Feb 2022 03:41:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">LEE DONG WOOK</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220204_229/1643967975343Uvoi9_JPEG/upload_602374310507305051377ccda-e898-4e7c-8763-0d8225a9799c.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Sound K / TAEWOO 태우)]]></title>
             <link>https://m.vlive.tv/video/276278</link>
@@ -96,6 +76,26 @@
 										오전 11:00</span>
 										<span class="txt">V MUSICAL</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220124_33/1642998918855hkhFX_JPEG/upload_8707864019372481722addb7f-b04e-4be2-8365-ab5fc0949a22.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthew]]></title>
+            <link>https://m.vlive.tv/video/275910</link>
+            <guid>https://m.vlive.tv/video/275910</guid>
+            <pubDate>Mon, 07 Feb 2022 10:42:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220128_169/1643363910256kqBXb_JPEG/upload_874436126058507233842f847-fdb3-44f9-9900-66bd091fb47b.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
+            <link>https://m.vlive.tv/video/275922</link>
+            <guid>https://m.vlive.tv/video/275922</guid>
+            <pubDate>Mon, 07 Feb 2022 10:42:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 2:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220128_238/1643364384088hIIgh_JPEG/upload_59633971457552302b5dfbbed-16be-4382-9bb6-15a22a6ae9ac.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
