@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 08:46:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 09:42:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[NAYOUNG with NALANG💝]]></title>
-            <link>https://m.vlive.tv/video/276378</link>
-            <guid>https://m.vlive.tv/video/276378</guid>
-            <pubDate>Sat, 05 Feb 2022 09:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 9:00</span>
-										<span class="txt">임나영 (Lim Na Young)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220204_113/1643965981724TItMM_JPEG/upload_88045230845813148bbc9f71e-1a3a-442c-88d1-dffa73451478.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[LIVE] SIMPLY K-POP CON-TOUR (📍Germany)]]></title>
             <link>https://m.vlive.tv/video/276363</link>
@@ -96,6 +86,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220128_261/16433641319063mhp8_JPEG/upload_59633689633948989cc8ae63a-ba8a-44cf-97ae-c670738ee220.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연극 <터키행진곡> 녹화중계]]></title>
+            <link>https://m.vlive.tv/video/275417</link>
+            <guid>https://m.vlive.tv/video/275417</guid>
+            <pubDate>Mon, 07 Feb 2022 09:41:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">V MUSICAL</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220124_33/1642998918855hkhFX_JPEG/upload_8707864019372481722addb7f-b04e-4be2-8365-ab5fc0949a22.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
