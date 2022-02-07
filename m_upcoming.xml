@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 07:41:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 08:46:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[원필 1st Album < Pilmography > LIVE TALK]]></title>
-            <link>https://m.vlive.tv/video/276218</link>
-            <guid>https://m.vlive.tv/video/276218</guid>
-            <pubDate>Sat, 05 Feb 2022 07:39:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 8:00</span>
-										<span class="txt">DAY6</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220203_163/1643854619596dltko_JPEG/upload_8793434097450899553c843a3-581b-497e-bf88-a93d4638ecda.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[NAYOUNG with NALANG💝]]></title>
             <link>https://m.vlive.tv/video/276378</link>
@@ -96,6 +86,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220128_250/1643364303208RksLU_JPEG/upload_59633892125717059f44552d3-0e39-45c7-9de1-cfba07771070.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop] Oh My K-POP with Samuel Seo 서사무엘]]></title>
+            <link>https://m.vlive.tv/video/275916</link>
+            <guid>https://m.vlive.tv/video/275916</guid>
+            <pubDate>Mon, 07 Feb 2022 08:45:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220128_261/16433641319063mhp8_JPEG/upload_59633689633948989cc8ae63a-ba8a-44cf-97ae-c670738ee220.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
