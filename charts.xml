@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 15:45:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 16:59:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,20 +48,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220207_104/1644229694794dm78o_JPEG/e2c38f40-87ff-11ec-9c62-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[🍀]]></title>
-            <link>https://www.vlive.tv/video/276532</link>
-            <guid>https://www.vlive.tv/video/276532</guid>
-            <pubDate>Mon, 07 Feb 2022 13:39:42 GMT</pubDate>
-            <content:encoded><![CDATA[DAY6]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220207_131/16442350434119cAhq_JPEG/1571105613373518426792e9e9-e2df-4739-8db4-09b8340e9e93.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[TO DO X TOMORROW X TOGETHER - EP.70]]></title>
             <link>https://www.vlive.tv/video/275956</link>
             <guid>https://www.vlive.tv/video/275956</guid>
             <pubDate>Mon, 07 Feb 2022 14:39:28 GMT</pubDate>
             <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220207_135/1644222346672oxoNC_JPEG/upload_88302040161284853328b2fb4-0df1-4f95-a407-d0600bc97a90.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🍀]]></title>
+            <link>https://www.vlive.tv/video/276532</link>
+            <guid>https://www.vlive.tv/video/276532</guid>
+            <pubDate>Mon, 07 Feb 2022 13:39:42 GMT</pubDate>
+            <content:encoded><![CDATA[DAY6]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220207_131/16442350434119cAhq_JPEG/1571105613373518426792e9e9-e2df-4739-8db4-09b8340e9e93.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
