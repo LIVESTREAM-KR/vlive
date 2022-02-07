@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 04:51:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 05:40:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -61,6 +61,7 @@
             <guid>https://www.vlive.tv/video/276483</guid>
             <pubDate>Mon, 07 Feb 2022 04:50:08 GMT</pubDate>
             <content:encoded><![CDATA[오전 4:27]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/276483/thumb?type=f228_128" length="0" type="image//live/276483/thumb"/>
         </item>
         <item>
             <title><![CDATA[[제31회 서울가요대상 SMA 리액션캠] NCT127(엔시티127), 첫 대상 수상 '리얼 반응' ①]]></title>
@@ -75,8 +76,24 @@
             <link>https://www.vlive.tv/video/276360</link>
             <guid>https://www.vlive.tv/video/276360</guid>
             <pubDate>Mon, 07 Feb 2022 01:41:43 GMT</pubDate>
-            <content:encoded><![CDATA[오전 5:00]]></content:encoded>
+            <content:encoded><![CDATA[오전 4:51]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220204_232/1643960028443d1jsL_JPEG/upload_880397013924291091dd1cc28-aff6-487c-85ce-4e57995eb2bf.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[제31회 서울가요대상 SMA 리액션캠] NCT127(엔시티127), 첫 대상 수상 '리얼 반응' ②]]></title>
+            <link>https://www.vlive.tv/video/276489</link>
+            <guid>https://www.vlive.tv/video/276489</guid>
+            <pubDate>Mon, 07 Feb 2022 05:39:38 GMT</pubDate>
+            <content:encoded><![CDATA[오전 5:21]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220207_280/1644211307143GV284_PNG/upload_8829101358089895655876374-3000-4056-9350-9d122e64aa2c.png?type=f228_128" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[cignature's 24hours 릴레이 VLIVE💝]]></title>
+            <link>https://www.vlive.tv/video/276488</link>
+            <guid>https://www.vlive.tv/video/276488</guid>
+            <pubDate>Mon, 07 Feb 2022 05:39:38 GMT</pubDate>
+            <content:encoded><![CDATA[오전 5:22]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220207_76/1644211336314DLayw_JPEG/upload_604809121136596302881dc78-d50e-43a8-a79d-a05b9d163873.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Arirang Radio (Super K-Pop / woo!ah! 우아)]]></title>

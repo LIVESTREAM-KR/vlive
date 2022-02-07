@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 04:51:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 05:40:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Music Access / LUMINOUS 루미너스)]]></title>
-            <link>https://m.vlive.tv/video/276360</link>
-            <guid>https://m.vlive.tv/video/276360</guid>
-            <pubDate>Fri, 04 Feb 2022 14:39:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220204_232/1643960028443d1jsL_JPEG/upload_880397013924291091dd1cc28-aff6-487c-85ce-4e57995eb2bf.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Super K-Pop / woo!ah! 우아)]]></title>
             <link>https://m.vlive.tv/video/276283</link>
@@ -96,6 +86,16 @@
 										오전 2:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220128_57/1643364352414MQRjT_JPEG/upload_87444054482292641fd51dcb1-0ee7-4300-9c6d-f2b9ab1720b8.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ASC Live Ep.509 (JAMIE / 제이미)]]></title>
+            <link>https://m.vlive.tv/video/276368</link>
+            <guid>https://m.vlive.tv/video/276368</guid>
+            <pubDate>Mon, 07 Feb 2022 05:39:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220204_261/1643964095894aUzBH_PNG/upload_880437967789613986d698c1c-8cfb-4322-aab5-29c5a9ad41b3.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
