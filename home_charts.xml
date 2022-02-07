@@ -4,17 +4,9 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 11:42:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 12:59:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[안뇽 나 짜파구리먹을거야]]></title>
-            <link>https://www.vlive.tv/video/276464</link>
-            <guid>https://www.vlive.tv/video/276464</guid>
-            <pubDate>Mon, 07 Feb 2022 11:40:56 GMT</pubDate>
-            <content:encoded><![CDATA[VIVIZ (비비지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220206_148/1644150498805qRnlf_JPEG/1569388687790213310f240327-6099-446f-ab83-e8b34bdb8335.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[이동욱] 합니다 박박짜짜 재미있는 이동욱 V 라이브]]></title>
             <link>https://www.vlive.tv/video/276381</link>
@@ -24,20 +16,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20220204_229/1643967975343Uvoi9_JPEG/upload_602374310507305051377ccda-e898-4e7c-8763-0d8225a9799c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[NU’EST] 🙌🏻]]></title>
+            <link>https://www.vlive.tv/video/276468</link>
+            <guid>https://www.vlive.tv/video/276468</guid>
+            <pubDate>Mon, 07 Feb 2022 12:58:01 GMT</pubDate>
+            <content:encoded><![CDATA[NU'EST]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220206_182/16441592907751BIhj_JPEG/960a8c37-875b-11ec-89ca-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안뇽 나 짜파구리먹을거야]]></title>
+            <link>https://www.vlive.tv/video/276464</link>
+            <guid>https://www.vlive.tv/video/276464</guid>
+            <pubDate>Mon, 07 Feb 2022 11:40:56 GMT</pubDate>
+            <content:encoded><![CDATA[VIVIZ (비비지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220206_148/1644150498805qRnlf_JPEG/1569388687790213310f240327-6099-446f-ab83-e8b34bdb8335.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from Jung Kook]]></title>
             <link>https://www.vlive.tv/video/275231</link>
             <guid>https://www.vlive.tv/video/275231</guid>
             <pubDate>Sun, 06 Feb 2022 16:55:15 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220121_165/1642743304770R8eme_JPEG/upload_86822901680035504b7979e38-a803-4324-8664-931b4478995b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[준희 하고 싶은 거 다 해]]></title>
-            <link>https://www.vlive.tv/video/276274</link>
-            <guid>https://www.vlive.tv/video/276274</guid>
-            <pubDate>Sun, 06 Feb 2022 13:39:07 GMT</pubDate>
-            <content:encoded><![CDATA[에이스(A.C.E)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220203_244/1643879934843sb9TN_JPEG/upload_87958731839145448067c3968-2ff0-4b1f-b376-db9240f26165.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
