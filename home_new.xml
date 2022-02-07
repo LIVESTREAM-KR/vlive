@@ -4,9 +4,33 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 05:40:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 06:49:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오야후]]></title>
+            <link>https://www.vlive.tv/video/276492</link>
+            <guid>https://www.vlive.tv/video/276492</guid>
+            <pubDate>Mon, 07 Feb 2022 06:47:19 GMT</pubDate>
+            <content:encoded><![CDATA[LOUDI (로우디)]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/276492/thumb?type=f228_128" length="0" type="image//live/276492/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[[제31회 서울가요대상 SMA 리액션캠] NCT DREAM(엔시티드림), NCT127 대상 앵콜 무대 cut]]></title>
+            <link>https://www.vlive.tv/video/276491</link>
+            <guid>https://www.vlive.tv/video/276491</guid>
+            <pubDate>Mon, 07 Feb 2022 06:47:19 GMT</pubDate>
+            <content:encoded><![CDATA[Ktimes]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220207_135/1644215652076SVer2_PNG/upload_882953708258452653507b7d0-6b24-4409-b611-6618b5e79315.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[다원]오늘은 TMI]]></title>
+            <link>https://www.vlive.tv/video/276483</link>
+            <guid>https://www.vlive.tv/video/276483</guid>
+            <pubDate>Mon, 07 Feb 2022 04:49:21 GMT</pubDate>
+            <content:encoded><![CDATA[우주소녀(WJSN)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220207_177/1644213124292mEL25_JPEG/e49b47db-87d8-11ec-8355-246e963a4708_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[cignature's 24hours 릴레이 VLIVE💝]]></title>
             <link>https://www.vlive.tv/video/276488</link>
@@ -38,14 +62,6 @@
             <pubDate>Mon, 07 Feb 2022 04:49:21 GMT</pubDate>
             <content:encoded><![CDATA[Ktimes]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220207_111/1644209010554drPms_PNG/upload_88288658008977261c66e6521-b056-4854-a796-6703a789704c.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[다원]오늘은 TMI]]></title>
-            <link>https://www.vlive.tv/video/276483</link>
-            <guid>https://www.vlive.tv/video/276483</guid>
-            <pubDate>Mon, 07 Feb 2022 04:49:21 GMT</pubDate>
-            <content:encoded><![CDATA[우주소녀(WJSN)]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/276483/thumb?type=f228_128" length="0" type="image//live/276483/thumb"/>
         </item>
         <item>
             <title><![CDATA[hi miniomonster]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Sun, 06 Feb 2022 16:55:02 GMT</pubDate>
             <content:encoded><![CDATA[SF9]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220207_257/1644164713573fe0Sm_JPEG/fc7b9aaf-8768-11ec-8fb9-48df379cc9e4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찬이의 "방" 🐺 Ep. 143 RADIO]]></title>
-            <link>https://www.vlive.tv/video/276472</link>
-            <guid>https://www.vlive.tv/video/276472</guid>
-            <pubDate>Sun, 06 Feb 2022 14:39:21 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220207_23/16441604051908PGpP_JPEG/87f1a9bc-875e-11ec-8fb9-48df379cc9e4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뒷북라이브]]></title>
-            <link>https://www.vlive.tv/video/276473</link>
-            <guid>https://www.vlive.tv/video/276473</guid>
-            <pubDate>Sun, 06 Feb 2022 14:39:21 GMT</pubDate>
-            <content:encoded><![CDATA[멋진녀석들 (GreatGuys)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220206_105/1644156911094a6HgP_JPEG/157032442084091463bedfcf43-a8e0-420b-94a9-81ba5fe38e53.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

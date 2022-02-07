@@ -4,9 +4,32 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 05:40:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 06:49:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오야후]]></title>
+            <link>https://www.vlive.tv/video/276492</link>
+            <guid>https://www.vlive.tv/video/276492</guid>
+            <pubDate>Mon, 07 Feb 2022 06:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[LOUDI (로우디)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[제31회 서울가요대상 SMA 리액션캠] NCT DREAM(엔시티드림), NCT127 대상 앵콜 무대 cut]]></title>
+            <link>https://www.vlive.tv/video/276491</link>
+            <guid>https://www.vlive.tv/video/276491</guid>
+            <pubDate>Mon, 07 Feb 2022 06:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[Ktimes]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220207_135/1644215652076SVer2_PNG/upload_882953708258452653507b7d0-6b24-4409-b611-6618b5e79315.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[다원]오늘은 TMI]]></title>
+            <link>https://www.vlive.tv/video/276483</link>
+            <guid>https://www.vlive.tv/video/276483</guid>
+            <pubDate>Mon, 07 Feb 2022 04:49:12 GMT</pubDate>
+            <content:encoded><![CDATA[우주소녀(WJSN)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220207_177/1644213124292mEL25_JPEG/e49b47db-87d8-11ec-8355-246e963a4708_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[cignature's 24hours 릴레이 VLIVE💝]]></title>
             <link>https://www.vlive.tv/video/276488</link>
@@ -38,13 +61,6 @@
             <pubDate>Mon, 07 Feb 2022 04:49:12 GMT</pubDate>
             <content:encoded><![CDATA[Ktimes]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220207_111/1644209010554drPms_PNG/upload_88288658008977261c66e6521-b056-4854-a796-6703a789704c.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[다원]오늘은 TMI]]></title>
-            <link>https://www.vlive.tv/video/276483</link>
-            <guid>https://www.vlive.tv/video/276483</guid>
-            <pubDate>Mon, 07 Feb 2022 04:49:12 GMT</pubDate>
-            <content:encoded><![CDATA[우주소녀(WJSN)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[hi miniomonster]]></title>
@@ -389,22 +405,6 @@
             <pubDate>Sun, 06 Feb 2022 03:40:15 GMT</pubDate>
             <content:encoded><![CDATA[VANNER (배너)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220206_286/1644083919306snaC8_JPEG/5f207f9c-869f-11ec-a810-505dac8c385b_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BEHIND THE SCENE] EP.04 슈퍼 콘서트 비하인드]]></title>
-            <link>https://www.vlive.tv/video/276430</link>
-            <guid>https://www.vlive.tv/video/276430</guid>
-            <pubDate>Sun, 06 Feb 2022 03:40:15 GMT</pubDate>
-            <content:encoded><![CDATA[OUI ENTERTAINMENT]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220205_86/1644063088281DCnXt_JPEG/upload_88142810337410834026c8ab0-ed13-4568-b366-3dc5ca98072e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[제31회 서울가요대상 SMA 아이컨택캠] 이무진(Lee Mu jin)]]></title>
-            <link>https://www.vlive.tv/video/276352</link>
-            <guid>https://www.vlive.tv/video/276352</guid>
-            <pubDate>Sun, 06 Feb 2022 01:47:28 GMT</pubDate>
-            <content:encoded><![CDATA[Ktimes]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220204_182/1643957866268wPain_PNG/upload_60227352247882081815e1c10-1987-4a97-a4f1-5902ee5bcbaa.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
