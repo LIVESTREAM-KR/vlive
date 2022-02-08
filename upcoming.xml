@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 16:59:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 17:43:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -536,14 +536,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220209_239/16443324700902uiQG_JPEG/upload_883959323563794826742c9c3-be23-4f57-8be7-c81892814ce5.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[하이룽]]></title>
-            <link>https://www.vlive.tv/video/276617</link>
-            <guid>https://www.vlive.tv/video/276617</guid>
-            <pubDate>Tue, 08 Feb 2022 15:44:24 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:00]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/276617/thumb?type=f228_128" length="0" type="image//live/276617/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[TEMPEST VISUAL CLIP #한빈]]></title>
             <link>https://www.vlive.tv/video/276595</link>
             <guid>https://www.vlive.tv/video/276595</guid>
@@ -592,12 +584,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220209_213/1644337469501HFji3_JPEG/1572129874955224811b84be3c-81d1-4354-9321-3fde6e84c481.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[하이룽]]></title>
+            <link>https://www.vlive.tv/video/276617</link>
+            <guid>https://www.vlive.tv/video/276617</guid>
+            <pubDate>Tue, 08 Feb 2022 15:44:24 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:04]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220209_180/1644339889810VfsAd_JPEG/a193b61c-8900-11ec-bf63-505dac8c3721_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[안자는 사람~~]]></title>
             <link>https://www.vlive.tv/video/276619</link>
             <guid>https://www.vlive.tv/video/276619</guid>
             <pubDate>Tue, 08 Feb 2022 16:57:47 GMT</pubDate>
-            <content:encoded><![CDATA[오후 4:33]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/276619/thumb?type=f228_128" length="0" type="image//live/276619/thumb"/>
+            <content:encoded><![CDATA[오후 5:10]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220209_43/1644340210566c7r6R_JPEG/bdd66655-8901-11ec-9c62-505dac8c381b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

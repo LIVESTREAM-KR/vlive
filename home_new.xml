@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 16:59:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 17:43:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,15 @@
             <guid>https://www.vlive.tv/video/276619</guid>
             <pubDate>Tue, 08 Feb 2022 16:56:54 GMT</pubDate>
             <content:encoded><![CDATA[KIM SO JEONG (김소정)]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/276619/thumb?type=f228_128" length="0" type="image//live/276619/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220209_43/1644340210566c7r6R_JPEG/bdd66655-8901-11ec-9c62-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하이룽]]></title>
+            <link>https://www.vlive.tv/video/276617</link>
+            <guid>https://www.vlive.tv/video/276617</guid>
+            <pubDate>Tue, 08 Feb 2022 15:43:28 GMT</pubDate>
+            <content:encoded><![CDATA[KINGDOM]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220209_180/1644339889810VfsAd_JPEG/a193b61c-8900-11ec-bf63-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[#OMRR 호랑호랑해 🐝💛]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 08 Feb 2022 15:43:28 GMT</pubDate>
             <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220208_223/1644320453403Vru7K_JPEG/upload_88400030970916266095b69e6-c975-4efa-9717-d31de1357754.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이룽]]></title>
-            <link>https://www.vlive.tv/video/276617</link>
-            <guid>https://www.vlive.tv/video/276617</guid>
-            <pubDate>Tue, 08 Feb 2022 15:43:28 GMT</pubDate>
-            <content:encoded><![CDATA[KINGDOM]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/276617/thumb?type=f228_128" length="0" type="image//live/276617/thumb"/>
         </item>
         <item>
             <title><![CDATA[TREASURE - '직진 (JIKJIN)' DOCUMENTARY TRAILER]]></title>
