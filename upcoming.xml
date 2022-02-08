@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 17:43:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 18:44:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -576,14 +576,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220209_100/1644336803944e7Qra_JPEG/ae32e2cf-88f8-11ec-b282-48df37ae3dc4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[#OMRR 호랑호랑해 🐝💛]]></title>
-            <link>https://www.vlive.tv/video/276618</link>
-            <guid>https://www.vlive.tv/video/276618</guid>
-            <pubDate>Tue, 08 Feb 2022 16:57:47 GMT</pubDate>
-            <content:encoded><![CDATA[오후 4:24]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220209_213/1644337469501HFji3_JPEG/1572129874955224811b84be3c-81d1-4354-9321-3fde6e84c481.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[하이룽]]></title>
             <link>https://www.vlive.tv/video/276617</link>
             <guid>https://www.vlive.tv/video/276617</guid>
@@ -598,6 +590,14 @@
             <pubDate>Tue, 08 Feb 2022 16:57:47 GMT</pubDate>
             <content:encoded><![CDATA[오후 5:10]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220209_43/1644340210566c7r6R_JPEG/bdd66655-8901-11ec-9c62-505dac8c381b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#OMRR 호랑호랑해 🐝💛]]></title>
+            <link>https://www.vlive.tv/video/276618</link>
+            <guid>https://www.vlive.tv/video/276618</guid>
+            <pubDate>Tue, 08 Feb 2022 16:57:47 GMT</pubDate>
+            <content:encoded><![CDATA[오후 6:11]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220209_213/1644337469501HFji3_JPEG/1572129874955224811b84be3c-81d1-4354-9321-3fde6e84c481.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
