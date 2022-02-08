@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 23:42:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 01:45:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
-            <link>https://m.vlive.tv/video/275911</link>
-            <guid>https://m.vlive.tv/video/275911</guid>
-            <pubDate>Sun, 06 Feb 2022 12:55:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220128_15/1643363958416usms9_JPEG/upload_87443671480306765d8458441-7ac3-4925-9b1f-c11213280267.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
             <link>https://m.vlive.tv/video/275921</link>
@@ -106,6 +96,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220128_123/1643364216211auStC_JPEG/upload_87443915322727715d794ff3e-55a3-409a-9c4c-6c1e99854a99.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / Sangjaru 상자루)]]></title>
+            <link>https://m.vlive.tv/video/276174</link>
+            <guid>https://m.vlive.tv/video/276174</guid>
+            <pubDate>Tue, 08 Feb 2022 01:44:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220202_174/1643784643355QSUVs_JPEG/upload_60054111082600983a882a9ad-a936-425e-9762-59c12b93526a.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
