@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 12:58:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 13:41:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,16 @@
 										오전 2:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220128_276/16433644110628wRG1_JPEG/upload_8744412740913612383b053fa-4549-4513-b80a-7669d990ebb5.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Music Access] TMB(Text Me Back) with JUNNY(주니)]]></title>
+            <link>https://m.vlive.tv/video/275917</link>
+            <guid>https://m.vlive.tv/video/275917</guid>
+            <pubDate>Tue, 08 Feb 2022 13:40:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220128_93/1643364169624YOPHd_JPEG/upload_59633759660482122047c5e7c-d624-4bf5-b3d1-f468b913d0aa.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
