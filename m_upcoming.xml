@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 01:45:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 02:53:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
-            <link>https://m.vlive.tv/video/275921</link>
-            <guid>https://m.vlive.tv/video/275921</guid>
-            <pubDate>Mon, 07 Feb 2022 01:41:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 2:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220128_57/1643364352414MQRjT_JPEG/upload_87444054482292641fd51dcb1-0ee7-4300-9c6d-f2b9ab1720b8.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[ASC Live Ep.509 (JAMIE / 제이미)]]></title>
             <link>https://m.vlive.tv/video/276368</link>
@@ -106,6 +96,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220202_174/1643784643355QSUVs_JPEG/upload_60054111082600983a882a9ad-a936-425e-9762-59c12b93526a.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
+            <link>https://m.vlive.tv/video/275909</link>
+            <guid>https://m.vlive.tv/video/275909</guid>
+            <pubDate>Tue, 08 Feb 2022 02:52:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220128_148/16433638764399fxYQ_JPEG/upload_874435764494555203890711a-3eed-44e3-a79f-eb1a81aec771.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
