@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 08:45:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 09:42:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[🔴공연 생중계]🎤 에스나 | 빌리어코스티 | 이예준]]></title>
-            <link>https://m.vlive.tv/video/276555</link>
-            <guid>https://m.vlive.tv/video/276555</guid>
-            <pubDate>Tue, 08 Feb 2022 05:39:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 9:00</span>
-										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220208_160/1644296691236uOspW_PNG/upload_88375938692791878aeaf4b44-b61d-4730-850d-48a3a0832588.png?type=f274_154" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
             <link>https://m.vlive.tv/video/275909</link>
@@ -86,6 +76,36 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220128_233/1643363840146qFfe0_JPEG/upload_87443550806094004ca3f18b1-c4a7-4003-8e63-e6f5bd54d805.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
+            <link>https://m.vlive.tv/video/275926</link>
+            <guid>https://m.vlive.tv/video/275926</guid>
+            <pubDate>Wed, 09 Feb 2022 09:41:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 2:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220128_148/1643364641560429pF_JPEG/upload_59634224924459903f65ad2cd-40c5-4081-a66f-34b14a10acbc.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Simply K-Pop CON-TOUR (심플리케이팝 콘투어) Ep.506]]></title>
+            <link>https://m.vlive.tv/video/276671</link>
+            <guid>https://m.vlive.tv/video/276671</guid>
+            <pubDate>Wed, 09 Feb 2022 09:41:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220209_11/1644396898212daOf2_PNG/upload_88476589697626056709a7450-c294-4044-9995-79e284ff6d49.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Music Access / HALF 하프)]]></title>
+            <link>https://m.vlive.tv/video/276485</link>
+            <guid>https://m.vlive.tv/video/276485</guid>
+            <pubDate>Wed, 09 Feb 2022 09:41:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220207_70/1644209307611rr2mS_JPEG/upload_60478847970294165331ed49f-cc53-42dd-95e0-0043411068f1.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
