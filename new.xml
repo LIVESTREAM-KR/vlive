@@ -4,7 +4,7 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 03:43:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 04:51:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 09 Feb 2022 03:40:58 GMT</pubDate>
             <content:encoded><![CDATA[sema]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220209_273/1644377047985zRXjp_JPEG/upload_60646619280906723e16094cd-426b-44a1-bf50-6826f179e975.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio/K-Poppin'] Daegeum Artist Lee Ju Hang 대금연주자 이주항]]></title>
+            <link>https://www.vlive.tv/video/276361</link>
+            <guid>https://www.vlive.tv/video/276361</guid>
+            <pubDate>Wed, 09 Feb 2022 04:48:54 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220204_82/1643960104608y6J3r_JPEG/upload_88039756873140080cf5009b5-6a37-439b-b80c-f9b4ab937379.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ASC Live Ep.509 (JAMIE / 제이미)]]></title>
@@ -398,14 +406,6 @@
             <pubDate>Tue, 08 Feb 2022 10:42:09 GMT</pubDate>
             <content:encoded><![CDATA[스타잇엔터테인먼트(STARIT ENT)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220209_248/1644375413495CsBSL_JPEG/upload_88378530596409053cd33d59e-72b9-4faf-a134-5460ac7684ff.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[루미너스 (LUMINOUS) 2ND MINI ALBUM [빛과 어둠 사이 (Self n Ego)] 팬 쇼케이스 BEHIND]]></title>
-            <link>https://www.vlive.tv/video/276550</link>
-            <guid>https://www.vlive.tv/video/276550</guid>
-            <pubDate>Tue, 08 Feb 2022 10:42:09 GMT</pubDate>
-            <content:encoded><![CDATA[루미너스 (LUMINOUS)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220208_284/1644302761190uprBQ_PNG/upload_60572364847272458582986e0-679e-401c-9c22-18a2b3173504.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 03:43:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 04:51:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,20 +48,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220208_199/1644320296618k1BjY_JPEG/691d68c2-88d1-11ec-b3f1-505dacfbaa5c_06.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[🍀🍀]]></title>
-            <link>https://www.vlive.tv/video/276597</link>
-            <guid>https://www.vlive.tv/video/276597</guid>
-            <pubDate>Tue, 08 Feb 2022 16:57:22 GMT</pubDate>
-            <content:encoded><![CDATA[DAY6]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220208_16/1644326395872E2WMu_JPEG/55d193ca-88e1-11ec-b3f1-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[TREASURE - '직진 (JIKJIN)' DOCUMENTARY TRAILER]]></title>
             <link>https://www.vlive.tv/video/276590</link>
             <guid>https://www.vlive.tv/video/276590</guid>
             <pubDate>Tue, 08 Feb 2022 22:40:38 GMT</pubDate>
             <content:encoded><![CDATA[TREASURE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220209_239/16443324700902uiQG_JPEG/upload_883959323563794826742c9c3-be23-4f57-8be7-c81892814ce5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🍀🍀]]></title>
+            <link>https://www.vlive.tv/video/276597</link>
+            <guid>https://www.vlive.tv/video/276597</guid>
+            <pubDate>Tue, 08 Feb 2022 16:57:22 GMT</pubDate>
+            <content:encoded><![CDATA[DAY6]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220208_16/1644326395872E2WMu_JPEG/55d193ca-88e1-11ec-b3f1-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
