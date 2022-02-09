@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 18:48:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 19:40:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -632,22 +632,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220210_278/164442229864672jJY_JPEG/b7fa4140-89c0-11ec-bf46-a0369ff95ec0_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[안농]]></title>
-            <link>https://www.vlive.tv/video/276716</link>
-            <guid>https://www.vlive.tv/video/276716</guid>
-            <pubDate>Wed, 09 Feb 2022 16:59:06 GMT</pubDate>
-            <content:encoded><![CDATA[오후 4:53]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/276716/thumb?type=f228_128" length="0" type="image//live/276716/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[🌹🔥 RVILLBOARD 🙏]]></title>
-            <link>https://www.vlive.tv/video/276717</link>
-            <guid>https://www.vlive.tv/video/276717</guid>
-            <pubDate>Wed, 09 Feb 2022 16:59:06 GMT</pubDate>
-            <content:encoded><![CDATA[오후 4:57]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/276717/thumb?type=f228_128" length="0" type="image//live/276717/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[#OMRR 오 마이 라임 라디오 🐝💛]]></title>
             <link>https://www.vlive.tv/video/276714</link>
             <guid>https://www.vlive.tv/video/276714</guid>
@@ -662,6 +646,22 @@
             <pubDate>Wed, 09 Feb 2022 16:59:06 GMT</pubDate>
             <content:encoded><![CDATA[오후 5:12]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220210_60/1644423874023eMULa_JPEG/1572994030178273535309699d-9324-4cc9-8121-afa3915c6cb4.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안농]]></title>
+            <link>https://www.vlive.tv/video/276716</link>
+            <guid>https://www.vlive.tv/video/276716</guid>
+            <pubDate>Wed, 09 Feb 2022 16:59:06 GMT</pubDate>
+            <content:encoded><![CDATA[오후 7:01]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220210_60/1644433261134e1YMY_JPEG/dd123810-89d9-11ec-9ab6-a0369ff963bc_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🌹🔥 RVILLBOARD 🙏]]></title>
+            <link>https://www.vlive.tv/video/276717</link>
+            <guid>https://www.vlive.tv/video/276717</guid>
+            <pubDate>Wed, 09 Feb 2022 16:59:06 GMT</pubDate>
+            <content:encoded><![CDATA[오후 7:01]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220210_191/1644433280845BR5lx_JPEG/96eff777-89d9-11ec-8fb9-48df379cc9e4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
