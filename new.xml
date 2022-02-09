@@ -4,9 +4,16 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 07:40:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 08:45:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[:(]]></title>
+            <link>https://www.vlive.tv/video/276652</link>
+            <guid>https://www.vlive.tv/video/276652</guid>
+            <pubDate>Wed, 09 Feb 2022 08:43:43 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[드림캐쳐] 잠깐마-안!]]></title>
             <link>https://www.vlive.tv/video/276642</link>
@@ -398,14 +405,6 @@
             <pubDate>Tue, 08 Feb 2022 13:39:06 GMT</pubDate>
             <content:encoded><![CDATA[다크비(DKB)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220208_173/1644318346446aAGaD_JPEG/1571068824395281377d07fe8d-1886-444d-a2af-0ebe1c7d1f8c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다녀왔습니다!]]></title>
-            <link>https://www.vlive.tv/video/276602</link>
-            <guid>https://www.vlive.tv/video/276602</guid>
-            <pubDate>Tue, 08 Feb 2022 12:56:18 GMT</pubDate>
-            <content:encoded><![CDATA[Golden Child]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220208_144/1644324763989upS1E_JPEG/f2454ac4-88dd-11ec-955b-a0369ff95678_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
