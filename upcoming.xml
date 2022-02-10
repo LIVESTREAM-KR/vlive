@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 16:57:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 17:42:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -768,14 +768,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220211_41/1644505882063oNe5j_JPEG/50e6bbb4-8a83-11ec-b3f1-505dacfbaa5c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[#OMRR 오 마이 라임 라디오 💛🐝 #20220210]]></title>
-            <link>https://www.vlive.tv/video/276826</link>
-            <guid>https://www.vlive.tv/video/276826</guid>
-            <pubDate>Thu, 10 Feb 2022 15:44:09 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:11]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220211_211/1644505903295jwiLA_JPEG/1573814212617705486ef2bab7-a900-4810-bae3-b63a30c12eb4.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[🍀🍀🍀🍀]]></title>
             <link>https://www.vlive.tv/video/276820</link>
             <guid>https://www.vlive.tv/video/276820</guid>
@@ -808,20 +800,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20220210_275/1644503995078hlUlS_JPEG/15729238471486386176d60779-09e3-4c4f-b4dc-6e6ac796e17b.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[조용하게 왔어용><]]></title>
-            <link>https://www.vlive.tv/video/276830</link>
-            <guid>https://www.vlive.tv/video/276830</guid>
-            <pubDate>Thu, 10 Feb 2022 16:56:27 GMT</pubDate>
-            <content:encoded><![CDATA[오후 4:44]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/276830/thumb?type=f228_128" length="0" type="image//live/276830/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[in Taksim]]></title>
             <link>https://www.vlive.tv/video/276831</link>
             <guid>https://www.vlive.tv/video/276831</guid>
             <pubDate>Thu, 10 Feb 2022 16:56:27 GMT</pubDate>
-            <content:encoded><![CDATA[오후 4:54]]></content:encoded>
+            <content:encoded><![CDATA[오후 5:08]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220211_235/1644512063583iFkKv_JPEG/157300464219497396c3e071ab-103c-4522-bf0d-d2ccc0f48650.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#OMRR 오 마이 라임 라디오 💛🐝 #20220210]]></title>
+            <link>https://www.vlive.tv/video/276826</link>
+            <guid>https://www.vlive.tv/video/276826</guid>
+            <pubDate>Thu, 10 Feb 2022 15:44:09 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:32]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220211_211/1644505903295jwiLA_JPEG/1573814212617705486ef2bab7-a900-4810-bae3-b63a30c12eb4.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조용하게 왔어용><]]></title>
+            <link>https://www.vlive.tv/video/276830</link>
+            <guid>https://www.vlive.tv/video/276830</guid>
+            <pubDate>Thu, 10 Feb 2022 16:56:27 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:37]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220211_203/1644514670442MAqUL_JPEG/6ec87b65-8a97-11ec-955b-a0369ff95678_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
