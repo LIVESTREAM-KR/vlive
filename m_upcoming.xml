@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 07:41:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 08:45:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,16 @@
 										오전 10:00</span>
 										<span class="txt">윤지성 (YOON JISUNG)</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220204_131/1643961769388jtJAw_JPEG/upload_60230692832966837b1e37973-a8e9-4ef4-89d1-ea71599eb5bb.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[포맨] 미리 만나는 포맨(4MEN) ‘발렌타인데이 특집’🍫]]></title>
+            <link>https://m.vlive.tv/video/276772</link>
+            <guid>https://m.vlive.tv/video/276772</guid>
+            <pubDate>Thu, 10 Feb 2022 08:44:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 1:00</span>
+										<span class="txt">MAJOR9 (메이저나인)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220210_255/1644482302033qepkY_JPEG/upload_60751831732282463b5ae0011-5dc0-499b-b419-2d29b7ba5e37.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
