@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 20:42:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 21:41:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220210_1/16444899750583i9pW_PNG/upload_60758544480585318d92e82a7-8f0b-4923-8879-9d71bc0443c2.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[안녕♡]]></title>
-            <link>https://www.vlive.tv/video/276700</link>
-            <guid>https://www.vlive.tv/video/276700</guid>
-            <pubDate>Thu, 10 Feb 2022 15:43:37 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220209_186/1644417428479CqRCP_JPEG/upload_884971528511455091d529770-d7b2-428e-ab14-62e83d8a3fdc.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[정원이의 열아홉번째 생일파티에 초대합니다💙 (반모)]]></title>
             <link>https://www.vlive.tv/video/276682</link>
             <guid>https://www.vlive.tv/video/276682</guid>
             <pubDate>Thu, 10 Feb 2022 12:56:30 GMT</pubDate>
             <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220209_190/16444144675444VHhu_JPEG/upload_884941956575543395e3f9685-678a-4559-94d8-15748470158f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안녕♡]]></title>
+            <link>https://www.vlive.tv/video/276700</link>
+            <guid>https://www.vlive.tv/video/276700</guid>
+            <pubDate>Thu, 10 Feb 2022 15:43:37 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220209_186/1644417428479CqRCP_JPEG/upload_884971528511455091d529770-d7b2-428e-ab14-62e83d8a3fdc.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
