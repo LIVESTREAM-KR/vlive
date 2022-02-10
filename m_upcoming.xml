@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 01:45:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 02:50:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
-            <link>https://m.vlive.tv/video/275923</link>
-            <guid>https://m.vlive.tv/video/275923</guid>
-            <pubDate>Tue, 08 Feb 2022 09:42:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 2:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220128_276/16433644110628wRG1_JPEG/upload_8744412740913612383b053fa-4549-4513-b80a-7669d990ebb5.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Music Access]]]></title>
             <link>https://m.vlive.tv/video/275917</link>
@@ -106,6 +96,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220128_124/1643364024665TUhWY_JPEG/upload_5963361237189225291ee3cf2-d9b6-47c7-86da-e7e1e314edef.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밥알 생일파티🎂]]></title>
+            <link>https://m.vlive.tv/video/276365</link>
+            <guid>https://m.vlive.tv/video/276365</guid>
+            <pubDate>Thu, 10 Feb 2022 02:49:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">윤지성 (YOON JISUNG)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220204_131/1643961769388jtJAw_JPEG/upload_60230692832966837b1e37973-a8e9-4ef4-89d1-ea71599eb5bb.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
