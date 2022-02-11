@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 09:42:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 10:43:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[밥알 생일파티🎂]]></title>
-            <link>https://m.vlive.tv/video/276365</link>
-            <guid>https://m.vlive.tv/video/276365</guid>
-            <pubDate>Thu, 10 Feb 2022 07:40:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">윤지성 (YOON JISUNG)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220204_131/1643961769388jtJAw_JPEG/upload_60230692832966837b1e37973-a8e9-4ef4-89d1-ea71599eb5bb.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[포맨] 미리 만나는 포맨(4MEN) ‘발렌타인데이 특집’🍫]]></title>
             <link>https://m.vlive.tv/video/276772</link>
@@ -58,14 +48,24 @@
             <enclosure url="https://v-phinf.pstatic.net/20220209_222/1644392618731PBOBs_JPEG/upload_88472318581506641e770146b-b294-4d9b-8aea-cb2054b6939f.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Arirang Radio (Super K-Pop / DRIPPIN 드리핀)]]></title>
-            <link>https://m.vlive.tv/video/276648</link>
-            <guid>https://m.vlive.tv/video/276648</guid>
-            <pubDate>Fri, 11 Feb 2022 09:41:40 GMT</pubDate>
+            <title><![CDATA[Arirang Radio (Super K-Pop / Rocking doll 록킹돌)]]></title>
+            <link>https://m.vlive.tv/video/276796</link>
+            <guid>https://m.vlive.tv/video/276796</guid>
+            <pubDate>Fri, 11 Feb 2022 10:42:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="time">
-										방송취소</span>
+										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220209_43/1644392853208kkoN5_JPEG/upload_6066241931697120549bd70f8-66a8-4026-8a3c-c5b61baffd59.jpg?type=f274_154" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220210_92/1644489055108xl2Nj_JPEG/upload_88568708816450816b25470f6-5b30-480c-bfbe-7cb86f432203.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["만나고 싶어서" FM 51.1 MHz 'On' 차학연]]></title>
+            <link>https://m.vlive.tv/video/276774</link>
+            <guid>https://m.vlive.tv/video/276774</guid>
+            <pubDate>Fri, 11 Feb 2022 10:42:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 9:30</span>
+										<span class="txt">51k</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220210_47/1644482693217NBeMu_JPEG/upload_885622692355774097c723d6a-ac10-4b13-9c4b-a6940ee149b0.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
