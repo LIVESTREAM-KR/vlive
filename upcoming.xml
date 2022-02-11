@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 19:41:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 20:42:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -734,6 +734,14 @@
             <pubDate>Fri, 11 Feb 2022 08:43:35 GMT</pubDate>
             <content:encoded><![CDATA[오후 8:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220211_58/1644568705392qGPxR_JPEG/upload_886484369089852954d1d1077-b04c-43e4-9541-46363af4bd91.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[루아이 뭐해~?]]></title>
+            <link>https://www.vlive.tv/video/276923</link>
+            <guid>https://www.vlive.tv/video/276923</guid>
+            <pubDate>Fri, 11 Feb 2022 20:40:57 GMT</pubDate>
+            <content:encoded><![CDATA[오후 8:06]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220212_248/1644610014623YloTr_JPEG/fa161b88-8b75-11ec-8caf-a0369ff94f34_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
