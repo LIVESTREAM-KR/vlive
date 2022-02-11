@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 22:41:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 23:42:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멋쟁이 둘 등장!!!]]></title>
+            <link>https://www.vlive.tv/video/276924</link>
+            <guid>https://www.vlive.tv/video/276924</guid>
+            <pubDate>Fri, 11 Feb 2022 23:40:04 GMT</pubDate>
+            <content:encoded><![CDATA[ONEUS]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/276924/thumb?type=f228_128" length="0" type="image//live/276924/thumb"/>
+        </item>
         <item>
             <title><![CDATA[루아이 뭐해~?]]></title>
             <link>https://www.vlive.tv/video/276923</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 11 Feb 2022 15:43:02 GMT</pubDate>
             <content:encoded><![CDATA[시그니처(cignature)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220211_193/1644590605726gNOzD_JPEG/bdfbafe8-8b47-11ec-94f6-246e963a49a8_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[vav] stvan 잠깐들려요 ☕️]]></title>
-            <link>https://www.vlive.tv/video/276902</link>
-            <guid>https://www.vlive.tv/video/276902</guid>
-            <pubDate>Fri, 11 Feb 2022 12:55:43 GMT</pubDate>
-            <content:encoded><![CDATA[VAV]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220211_288/1644589248651k7K3R_JPEG/d2bd173a-8b43-11ec-bef7-505dac8c38f5_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

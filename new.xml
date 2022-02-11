@@ -4,9 +4,16 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 22:41:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 23:42:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멋쟁이 둘 등장!!!]]></title>
+            <link>https://www.vlive.tv/video/276924</link>
+            <guid>https://www.vlive.tv/video/276924</guid>
+            <pubDate>Fri, 11 Feb 2022 23:39:54 GMT</pubDate>
+            <content:encoded><![CDATA[ONEUS]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[루아이 뭐해~?]]></title>
             <link>https://www.vlive.tv/video/276923</link>
@@ -398,14 +405,6 @@
             <pubDate>Fri, 11 Feb 2022 09:40:30 GMT</pubDate>
             <content:encoded><![CDATA[케이시(Kassy)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220211_178/1644540189358q5GhB_JPEG/upload_88619763670297576f740e651-d9a3-472d-becb-3871df39e1de.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HBD DINO DAY🦕]]></title>
-            <link>https://www.vlive.tv/video/276872</link>
-            <guid>https://www.vlive.tv/video/276872</guid>
-            <pubDate>Fri, 11 Feb 2022 08:42:42 GMT</pubDate>
-            <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220211_47/16445836496698iILD_JPEG/upload_886633819058981215dc3dde5-542d-4966-a837-38fa4220473c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
