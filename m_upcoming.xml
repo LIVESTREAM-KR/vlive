@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 06:49:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 07:40:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio] Topic Song with Aaron 아론 of W24 and BÉBE YANA]]></title>
-            <link>https://m.vlive.tv/video/275913</link>
-            <guid>https://m.vlive.tv/video/275913</guid>
-            <pubDate>Thu, 10 Feb 2022 01:44:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220128_124/1643364024665TUhWY_JPEG/upload_5963361237189225291ee3cf2-d9b6-47c7-86da-e7e1e314edef.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[밥알 생일파티🎂]]></title>
             <link>https://m.vlive.tv/video/276365</link>
@@ -66,6 +56,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220209_222/1644392618731PBOBs_JPEG/upload_88472318581506641e770146b-b294-4d9b-8aea-cb2054b6939f.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / DRIPPIN 드리핀)]]></title>
+            <link>https://m.vlive.tv/video/276648</link>
+            <guid>https://m.vlive.tv/video/276648</guid>
+            <pubDate>Fri, 11 Feb 2022 07:39:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										방송취소</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220209_43/1644392853208kkoN5_JPEG/upload_6066241931697120549bd70f8-66a8-4026-8a3c-c5b61baffd59.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
