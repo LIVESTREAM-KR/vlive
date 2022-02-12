@@ -4,9 +4,17 @@
         <title>V LIVE 모바일 ─ CHARTS </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 09:42:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 10:42:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[:)]]></title>
+            <link>https://m.vlive.tv/video/276940</link>
+            <guid>https://m.vlive.tv/video/276940</guid>
+            <pubDate>Sat, 12 Feb 2022 10:40:59 GMT</pubDate>
+            <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220212_109/1644660388275t50Q2_JPEG/upload_887401159131810679f228176-3fcf-4d72-9ab1-642601986c86.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[💚]]></title>
             <link>https://m.vlive.tv/video/276874</link>
@@ -22,14 +30,6 @@
             <pubDate>Fri, 11 Feb 2022 10:41:51 GMT</pubDate>
             <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220211_47/16445836496698iILD_JPEG/upload_886633819058981215dc3dde5-542d-4966-a837-38fa4220473c.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어쩔시그 ❤️💚]]></title>
-            <link>https://m.vlive.tv/video/276929</link>
-            <guid>https://m.vlive.tv/video/276929</guid>
-            <pubDate>Sat, 12 Feb 2022 08:43:32 GMT</pubDate>
-            <content:encoded><![CDATA[영재 (YOUNGJAE)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220212_12/1644647763629lEmbp_JPEG/8f1706bb-8bcd-11ec-a295-a0369ff968b0_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
