@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 06:47:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 07:40:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어쩔시그 ❤️💚]]></title>
+            <link>https://www.vlive.tv/video/276929</link>
+            <guid>https://www.vlive.tv/video/276929</guid>
+            <pubDate>Sat, 12 Feb 2022 07:39:20 GMT</pubDate>
+            <content:encoded><![CDATA[영재 (YOUNGJAE)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220212_12/1644647763629lEmbp_JPEG/8f1706bb-8bcd-11ec-a295-a0369ff968b0_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[ITZY(있지) VLOG] YUNA's Graduation VLOG]]></title>
             <link>https://www.vlive.tv/video/276871</link>
@@ -30,14 +38,6 @@
             <pubDate>Fri, 11 Feb 2022 15:43:18 GMT</pubDate>
             <content:encoded><![CDATA[NU'EST]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220211_206/1644580479488nO0z0_JPEG/upload_60850079682099782b93b5962-ef4e-4986-a085-99c9635779e4.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from Jung Kook]]></title>
-            <link>https://www.vlive.tv/video/275231</link>
-            <guid>https://www.vlive.tv/video/275231</guid>
-            <pubDate>Fri, 11 Feb 2022 13:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220121_165/1642743304770R8eme_JPEG/upload_86822901680035504b7979e38-a803-4324-8664-931b4478995b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
