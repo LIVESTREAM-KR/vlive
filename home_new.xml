@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 15:43:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 16:55:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하이!]]></title>
+            <link>https://www.vlive.tv/video/276969</link>
+            <guid>https://www.vlive.tv/video/276969</guid>
+            <pubDate>Sat, 12 Feb 2022 16:54:03 GMT</pubDate>
+            <content:encoded><![CDATA[DONGKIZ]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220213_87/1644680482713uyMTi_JPEG/8e8c19e4-8c19-11ec-9e68-a0369ff9545c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미소앱🐱✌️]]></title>
             <link>https://www.vlive.tv/video/276970</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 12 Feb 2022 12:54:42 GMT</pubDate>
             <content:encoded><![CDATA[Weki Meki]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220212_145/1644672934591MFMKz_JPEG/5e80f767-8c08-11ec-9fe3-505dac8c37f3_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[?]]></title>
-            <link>https://www.vlive.tv/video/276964</link>
-            <guid>https://www.vlive.tv/video/276964</guid>
-            <pubDate>Sat, 12 Feb 2022 13:38:44 GMT</pubDate>
-            <content:encoded><![CDATA[HA HYUN SANG]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220212_239/1644671858728iDwWM_JPEG/fe249c7b-8c05-11ec-a7bf-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
