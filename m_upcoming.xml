@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 08:44:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 09:42:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,16 @@
 										오전 11:00</span>
 										<span class="txt">TRI.BE</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220211_81/1644569915151oB6nG_JPEG/upload_60839436683118277c15d4b66-71c1-4ce4-a9a4-c5ee38ba20c4.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
+            <link>https://m.vlive.tv/video/276663</link>
+            <guid>https://m.vlive.tv/video/276663</guid>
+            <pubDate>Sat, 12 Feb 2022 09:41:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220209_59/1644395895988mOXAa_JPEG/upload_6066548098363592117d42691-c453-484f-930a-aad3d623ffcd.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
