@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 05:40:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 06:48:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,7 +45,7 @@
             <guid>https://www.vlive.tv/video/276943</guid>
             <pubDate>Sun, 13 Feb 2022 03:41:44 GMT</pubDate>
             <content:encoded><![CDATA[오전 3:00]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220212_238/1644659880698nvFua_JPEG/upload_887396095379272711ede62f1-7f00-4b4e-9328-a60f3b9cd8c9.jpg?type=f228_128" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220213_270/1644734205551QlUmz_JPEG/upload_887396095379272711ede62f1-7f00-4b4e-9328-a60f3b9cd8c9.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TREASURE - ‘THE SECOND STEP : CHAPTER ONE’ SAMPLER <ASAHI>]]></title>
@@ -110,6 +110,22 @@
             <pubDate>Sun, 13 Feb 2022 04:48:46 GMT</pubDate>
             <content:encoded><![CDATA[오전 5:36]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220213_119/1644730610772Rt3vM_JPEG/7b226978-8c8e-11ec-a295-a0369ff968b0_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[루다 은서] 단쟌단쟌의 희희낙락 EP.3]]></title>
+            <link>https://www.vlive.tv/video/276983</link>
+            <guid>https://www.vlive.tv/video/276983</guid>
+            <pubDate>Sun, 13 Feb 2022 06:46:41 GMT</pubDate>
+            <content:encoded><![CDATA[오전 6:32]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/276983/thumb?type=f228_128" length="0" type="image//live/276983/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[민규의 디너쇼🍽 #9]]></title>
+            <link>https://www.vlive.tv/video/276984</link>
+            <guid>https://www.vlive.tv/video/276984</guid>
+            <pubDate>Sun, 13 Feb 2022 06:46:41 GMT</pubDate>
+            <content:encoded><![CDATA[오전 6:37]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/276984/thumb?type=f228_128" length="0" type="image//live/276984/thumb"/>
         </item>
     </channel>
 </rss>
