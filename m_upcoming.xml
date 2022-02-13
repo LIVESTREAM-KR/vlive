@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 09:42:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 10:42:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,16 @@
             <enclosure url="https://v-phinf.pstatic.net/20220210_47/1644482693217NBeMu_JPEG/upload_885622692355774097c723d6a-ac10-4b13-9c4b-a6940ee149b0.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[❤️🍫유주와 초콜릿 공장🍫❤️]]></title>
+            <link>https://m.vlive.tv/video/276993</link>
+            <guid>https://m.vlive.tv/video/276993</guid>
+            <pubDate>Sun, 13 Feb 2022 10:41:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">유주 (YUJU)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220213_283/1644746404435zJ14M_JPEG/upload_61014728901371991db07a0cc-78db-4052-bee1-0f5e404eead6.jpeg?type=f274_154" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[🎉AB6IX ❤ ABNEW SWEET 1000DAYS🎉]]></title>
             <link>https://m.vlive.tv/video/276884</link>
             <guid>https://m.vlive.tv/video/276884</guid>
@@ -86,16 +96,6 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220209_59/1644395895988mOXAa_JPEG/upload_6066548098363592117d42691-c453-484f-930a-aad3d623ffcd.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
-            <link>https://m.vlive.tv/video/276655</link>
-            <guid>https://m.vlive.tv/video/276655</guid>
-            <pubDate>Sat, 12 Feb 2022 15:42:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 2:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220209_20/164439563933649q6J_JPEG/upload_88475338776611472968ae42f-8f63-4d5f-a485-c80fa11d4c4c.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
