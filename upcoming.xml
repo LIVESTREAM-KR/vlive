@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 19:41:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 20:42:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -312,20 +312,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220214_27/1644770420656bOaKf_PNG/upload_61040018375625980c660a354-2479-4f42-928d-99a0fb4ec7b6.png?type=f228_128" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[힣]]></title>
-            <link>https://www.vlive.tv/video/277009</link>
-            <guid>https://www.vlive.tv/video/277009</guid>
-            <pubDate>Sun, 13 Feb 2022 17:39:51 GMT</pubDate>
-            <content:encoded><![CDATA[오후 5:20]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/277009/thumb?type=f228_128" length="0" type="image//live/277009/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[#OMRR 해피 발렌타인데이 전야제 🍪🍩💛🐝]]></title>
             <link>https://www.vlive.tv/video/277007</link>
             <guid>https://www.vlive.tv/video/277007</guid>
             <pubDate>Sun, 13 Feb 2022 15:43:37 GMT</pubDate>
             <content:encoded><![CDATA[오후 5:56]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220214_63/1644766985532Aj0fT_JPEG/15755538616542870795eace7c-d446-40d2-b4fa-15626013df3b.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Live]]></title>
+            <link>https://www.vlive.tv/video/277010</link>
+            <guid>https://www.vlive.tv/video/277010</guid>
+            <pubDate>Sun, 13 Feb 2022 20:41:07 GMT</pubDate>
+            <content:encoded><![CDATA[오후 8:31]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220214_122/16447842876097GqVY_JPEG/cf388ff4-8d0b-11ec-b19d-505dacfba98a_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
