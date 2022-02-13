@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 16:56:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 17:41:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -310,6 +310,22 @@
             <pubDate>Sun, 13 Feb 2022 16:54:53 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:46]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220214_45/1644767218126vAR2G_JPEG/f0090339-8ce3-11ec-be77-a0369ff963bc_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[ONEUS DIARY] in New York | 2022 ONEUS TOUR BLOOD MOON]]></title>
+            <link>https://www.vlive.tv/video/277008</link>
+            <guid>https://www.vlive.tv/video/277008</guid>
+            <pubDate>Sun, 13 Feb 2022 17:39:51 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220214_27/1644770420656bOaKf_PNG/upload_61040018375625980c660a354-2479-4f42-928d-99a0fb4ec7b6.png?type=f228_128" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[힣]]></title>
+            <link>https://www.vlive.tv/video/277009</link>
+            <guid>https://www.vlive.tv/video/277009</guid>
+            <pubDate>Sun, 13 Feb 2022 17:39:51 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:20]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/277009/thumb?type=f228_128" length="0" type="image//live/277009/thumb"/>
         </item>
     </channel>
 </rss>
