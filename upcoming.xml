@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 15:45:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 16:55:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -684,8 +684,16 @@
             <link>https://www.vlive.tv/video/277100</link>
             <guid>https://www.vlive.tv/video/277100</guid>
             <pubDate>Mon, 14 Feb 2022 15:43:47 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:16]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/277100/thumb?type=f228_128" length="0" type="image//live/277100/thumb"/>
+            <content:encoded><![CDATA[오후 4:04]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220215_220/1644854655799vT8PL_JPEG/86dbd5ec-8daf-11ec-af2b-246e963a4708_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[눈 굴리기~~~~ㅎㅎㅎㅎㅎ]]></title>
+            <link>https://www.vlive.tv/video/277102</link>
+            <guid>https://www.vlive.tv/video/277102</guid>
+            <pubDate>Mon, 14 Feb 2022 16:54:16 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:13]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220215_31/1644855209115Adj3q_JPEG/f1593ae6-8db0-11ec-8052-505dacfbaa5c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
