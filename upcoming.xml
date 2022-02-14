@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 03:43:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 04:50:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -61,6 +61,15 @@
             <guid>https://www.vlive.tv/video/277021</guid>
             <pubDate>Mon, 14 Feb 2022 03:42:28 GMT</pubDate>
             <content:encoded><![CDATA[오전 3:40]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/277021/thumb?type=f228_128" length="0" type="image//live/277021/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[초콜릿 줄 사람💖💖💖]]></title>
+            <link>https://www.vlive.tv/video/277022</link>
+            <guid>https://www.vlive.tv/video/277022</guid>
+            <pubDate>Mon, 14 Feb 2022 04:49:24 GMT</pubDate>
+            <content:encoded><![CDATA[오전 4:45]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220214_73/1644813930508qDdhF_JPEG/54a23775-8d50-11ec-a295-a0369ff968b0_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Arirang Radio (Music Access / NATURE 네이처)]]></title>
