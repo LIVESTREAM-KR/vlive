@@ -4,17 +4,9 @@
         <title>V LIVE 모바일 ─ CHARTS </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 13:41:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 14:41:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[찬이의 "방" 🐺 Ep. 144]]></title>
-            <link>https://m.vlive.tv/video/277001</link>
-            <guid>https://m.vlive.tv/video/277001</guid>
-            <pubDate>Sun, 13 Feb 2022 15:43:20 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220214_84/1644831080847TeTIg_JPEG/upload_88910813469096560c14540c8-c75b-47f1-9043-fcefc865116e.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[뽀뽀즈의 발렌타인데이🍫🍩]]></title>
             <link>https://m.vlive.tv/video/277043</link>
@@ -30,6 +22,14 @@
             <pubDate>Mon, 14 Feb 2022 10:42:14 GMT</pubDate>
             <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220214_290/1644836352969DMLkw_PNG/upload_611059539598581115f41a0bf-a9b2-4ccf-88bf-aae3d7782832.png?type=f640_360_wp" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[찬이의 "방" 🐺 Ep. 144]]></title>
+            <link>https://m.vlive.tv/video/277001</link>
+            <guid>https://m.vlive.tv/video/277001</guid>
+            <pubDate>Sun, 13 Feb 2022 15:43:20 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220214_84/1644831080847TeTIg_JPEG/upload_88910813469096560c14540c8-c75b-47f1-9043-fcefc865116e.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
