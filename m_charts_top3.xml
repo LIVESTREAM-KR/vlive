@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ CHARTS </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 08:45:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 09:42:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,15 @@
             <guid>https://m.vlive.tv/video/277001</guid>
             <pubDate>Sun, 13 Feb 2022 15:43:20 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220213_88/1644763424822Q5RPz_JPEG/9f1b5363-8cda-11ec-9e68-a0369ff9545c_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220214_84/1644831080847TeTIg_JPEG/upload_88910813469096560c14540c8-c75b-47f1-9043-fcefc865116e.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뽀뽀즈의 발렌타인데이🍫🍩]]></title>
+            <link>https://m.vlive.tv/video/277043</link>
+            <guid>https://m.vlive.tv/video/277043</guid>
+            <pubDate>Mon, 14 Feb 2022 08:44:00 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220214_237/1644830993025hP45G_JPEG/upload_61100597399511348dfdd1745-15bc-4369-b499-4e5e75040ec8.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Stray Kids(스트레이 키즈) "ODDINARY" Trailer]]></title>
@@ -22,14 +30,6 @@
             <pubDate>Sun, 13 Feb 2022 12:55:09 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220213_37/1644738693171l2OdK_JPEG/upload_888182790207580148c218df8-6d63-45e0-80bc-2abbd0f4a75a.JPG?type=f640_360_wp" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[뽀뽀즈의 발렌타인데이🍫🍩]]></title>
-            <link>https://m.vlive.tv/video/277043</link>
-            <guid>https://m.vlive.tv/video/277043</guid>
-            <pubDate>Mon, 14 Feb 2022 08:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/277043/thumb?type=f640_362" length="0" type="image//live/277043/thumb"/>
         </item>
     </channel>
 </rss>
