@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 12:59:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 13:41:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220209_123/1644396014298d5R88_JPEG/upload_60665600300449985a1fa263a-d06a-4a94-aae9-a30da053f252.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / YunB 윤비)]]></title>
+            <link>https://m.vlive.tv/video/277072</link>
+            <guid>https://m.vlive.tv/video/277072</guid>
+            <pubDate>Tue, 15 Feb 2022 13:40:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220214_76/16448369780760JNBr_JPEG/upload_61106541990549384613da00f-a3b0-4409-89a0-028ece676def.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
