@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 09:43:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 10:44:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[라비(RAVI)] ❤HAPPY RAVI DAY🖤]]></title>
-            <link>https://m.vlive.tv/video/277127</link>
-            <guid>https://m.vlive.tv/video/277127</guid>
-            <pubDate>Tue, 15 Feb 2022 07:39:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">GROOVL1N</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220215_79/1644910232954o0OGo_JPEG/upload_611793693404045809e9ae494-1719-4b3b-ac74-37b83d574036.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘 동12 생일파티🎂 하디원💖]]></title>
-            <link>https://m.vlive.tv/video/277086</link>
-            <guid>https://m.vlive.tv/video/277086</guid>
-            <pubDate>Mon, 14 Feb 2022 15:43:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:30</span>
-										<span class="txt">다크비(DKB)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220214_201/1644843926202iRX6u_JPEG/upload_88923232141351446a44efe6b-cef3-451a-9217-b0716d9fb823.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[연극 <욕망의 불가능한 대상> 녹화중계]]></title>
             <link>https://m.vlive.tv/video/276330</link>
@@ -96,6 +76,36 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220209_249/1644395803558jQllq_JPEG/upload_6066538692910640798d287ad-08a8-43ad-adeb-1d2ea7220817.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
+            <link>https://m.vlive.tv/video/276657</link>
+            <guid>https://m.vlive.tv/video/276657</guid>
+            <pubDate>Tue, 15 Feb 2022 10:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 2:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220209_278/1644395696115fg64i_JPEG/upload_8847539798309794452dd7e52-a536-4a3c-bfe8-74ef60accc8a.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Music Access] TMB(Text Me Back) with DEMIAN 데미안]]></title>
+            <link>https://m.vlive.tv/video/277011</link>
+            <guid>https://m.vlive.tv/video/277011</guid>
+            <pubDate>Tue, 15 Feb 2022 10:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220214_196/16447984302818DtXJ_JPEG/upload_88878128111122189ecf1fc16-95d2-4a96-b98a-a45b86b39180.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop] Club House]]></title>
+            <link>https://m.vlive.tv/video/276666</link>
+            <guid>https://m.vlive.tv/video/276666</guid>
+            <pubDate>Tue, 15 Feb 2022 10:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220209_123/1644396014298d5R88_JPEG/upload_60665600300449985a1fa263a-d06a-4a94-aae9-a30da053f252.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
