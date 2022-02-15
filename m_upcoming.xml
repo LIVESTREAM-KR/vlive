@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 10:44:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 11:41:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[연극 <욕망의 불가능한 대상> 녹화중계]]></title>
-            <link>https://m.vlive.tv/video/276330</link>
-            <guid>https://m.vlive.tv/video/276330</guid>
-            <pubDate>Mon, 14 Feb 2022 11:39:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">V MUSICAL</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220204_59/1643941404595N9ADL_JPEG/upload_6021101165366012966fd990b-4187-4746-a7ce-2df5f6e72a7c.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthew]]></title>
             <link>https://m.vlive.tv/video/276662</link>
@@ -106,6 +96,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220209_123/1644396014298d5R88_JPEG/upload_60665600300449985a1fa263a-d06a-4a94-aae9-a30da053f252.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / YunB 윤비)]]></title>
+            <link>https://m.vlive.tv/video/277072</link>
+            <guid>https://m.vlive.tv/video/277072</guid>
+            <pubDate>Tue, 15 Feb 2022 11:40:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220214_76/16448369780760JNBr_JPEG/upload_61106541990549384613da00f-a3b0-4409-89a0-028ece676def.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
