@@ -4,9 +4,16 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 05:41:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 06:49:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[들려요~♥]]></title>
+            <link>https://www.vlive.tv/video/277120</link>
+            <guid>https://www.vlive.tv/video/277120</guid>
+            <pubDate>Tue, 15 Feb 2022 06:46:45 GMT</pubDate>
+            <content:encoded><![CDATA[fromis_9]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 브리저튼 시즌 2 | 공식 티저 예고편]]></title>
             <link>https://www.vlive.tv/video/277116</link>
@@ -398,14 +405,6 @@
             <pubDate>Mon, 14 Feb 2022 10:41:31 GMT</pubDate>
             <content:encoded><![CDATA[SUNMI]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220214_267/1644834954174am0bD_JPEG/157710471165614599e4bea272-dd02-4b02-89a4-f79814ff5a78.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쇼트트랙 김아랑(Kim Alang), 쉬자너 스휠팅과 트리코 교환 사진 화제 '인싸력 무엇?' (2022 베이징올림픽)]]></title>
-            <link>https://www.vlive.tv/video/277076</link>
-            <guid>https://www.vlive.tv/video/277076</guid>
-            <pubDate>Mon, 14 Feb 2022 11:38:48 GMT</pubDate>
-            <content:encoded><![CDATA[mydaily]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220214_193/1644837543501lablg_JPEG/upload_6110714787363664349e266f8-da60-4a39-8352-9e367ff5b837.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
