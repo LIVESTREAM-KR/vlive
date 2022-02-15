@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 08:45:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 09:43:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[YEIN 1st V LIVE💝]]></title>
-            <link>https://m.vlive.tv/video/277044</link>
-            <guid>https://m.vlive.tv/video/277044</guid>
-            <pubDate>Mon, 14 Feb 2022 11:39:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 9:00</span>
-										<span class="txt">정예인 (YEIN)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220214_158/1644826095220qOrU9_JPEG/upload_61095639201015947a16c737f-1069-480a-94d8-22cb2b37b2b3.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[라비(RAVI)] ❤HAPPY RAVI DAY🖤]]></title>
             <link>https://m.vlive.tv/video/277127</link>
@@ -86,6 +76,26 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220209_149/1644392688474ElvjR_JPEG/upload_88472400376757207923d3e4d-f0f0-4a30-bc17-541fe759316c.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[한빈] 한빈이의 ‘백투더퓨처’ – 다시 과거로 1화📻]]></title>
+            <link>https://m.vlive.tv/video/277137</link>
+            <guid>https://m.vlive.tv/video/277137</guid>
+            <pubDate>Tue, 15 Feb 2022 09:42:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 1:00</span>
+										<span class="txt">MAJOR9 (메이저나인)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220215_289/1644913815668lIck9_JPEG/upload_889933168968618101a3850e7-0e7e-4add-b1ea-d1f2e413930d.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
+            <link>https://m.vlive.tv/video/276660</link>
+            <guid>https://m.vlive.tv/video/276660</guid>
+            <pubDate>Tue, 15 Feb 2022 09:42:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220209_249/1644395803558jQllq_JPEG/upload_6066538692910640798d287ad-08a8-43ad-adeb-1d2ea7220817.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
