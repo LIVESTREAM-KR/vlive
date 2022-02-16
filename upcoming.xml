@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 16:57:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 17:42:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -616,14 +616,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220217_272/16450256515441UObK_JPEG/1b1bda94-8f3d-11ec-a7bf-48df37ae3dc4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[💫]]></title>
-            <link>https://www.vlive.tv/video/277268</link>
-            <guid>https://www.vlive.tv/video/277268</guid>
-            <pubDate>Wed, 16 Feb 2022 16:55:59 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:58]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/277268/thumb?type=f228_128" length="0" type="image//live/277268/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[🐣오랜만에 찬슈타임❣️]]></title>
             <link>https://www.vlive.tv/video/277265</link>
             <guid>https://www.vlive.tv/video/277265</guid>
@@ -654,6 +646,22 @@
             <pubDate>Wed, 16 Feb 2022 16:55:59 GMT</pubDate>
             <content:encoded><![CDATA[오후 4:41]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220217_259/1645029711686519pA_JPEG/128341187478241359f7b165b9-3e1a-49e6-9fed-877da165caa7.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[💫]]></title>
+            <link>https://www.vlive.tv/video/277268</link>
+            <guid>https://www.vlive.tv/video/277268</guid>
+            <pubDate>Wed, 16 Feb 2022 16:55:59 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:16]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220217_46/1645031786097C2GDm_JPEG/37a14e58-8f4b-11ec-92eb-48df379cca40_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ㅍ]]></title>
+            <link>https://www.vlive.tv/video/277277</link>
+            <guid>https://www.vlive.tv/video/277277</guid>
+            <pubDate>Wed, 16 Feb 2022 17:41:11 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:19]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220217_48/16450319649968vtsl_JPEG/771b7f66-8f4c-11ec-a12c-505dac8c3721_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
