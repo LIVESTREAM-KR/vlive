@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 09:42:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 10:44:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -73,9 +73,19 @@
             <guid>https://m.vlive.tv/video/277232</guid>
             <pubDate>Wed, 16 Feb 2022 09:41:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
+										방송취소</span>
 										<span class="txt">V MOVIE</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220216_45/1645003305404DIURl_JPEG/upload_890830267819282271dfc9a7d-785b-4816-bdba-bb4f478ce979.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['디렉터스 체어' 스페셜 토크 '감독들이 뽑은 최고의 시리즈5편']]></title>
+            <link>https://m.vlive.tv/video/277236</link>
+            <guid>https://m.vlive.tv/video/277236</guid>
+            <pubDate>Wed, 16 Feb 2022 10:43:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">V MOVIE</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220216_30/16450045829704cWJa_JPEG/upload_61274190022320043ec5d88ea-10b2-491d-8a4b-f677776199f0.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Arirang Radio (Sound K / YunB 윤비)]]></title>
@@ -96,16 +106,6 @@
 										오후 2:00</span>
 										<span class="txt">KINGDOM</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220215_254/1644893646987BproB_JPEG/upload_88973151892057995f15ea5cf-fa78-4c57-bfc2-d7d6a6d24559.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
-            <link>https://m.vlive.tv/video/276659</link>
-            <guid>https://m.vlive.tv/video/276659</guid>
-            <pubDate>Wed, 16 Feb 2022 05:39:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220209_292/1644395765544sL36W_JPEG/upload_60665348932352693ce8a7a85-950c-46ec-a7b2-a707ed3c00d1.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
