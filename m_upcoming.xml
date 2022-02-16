@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 01:52:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 02:54:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
-            <link>https://m.vlive.tv/video/276656</link>
-            <guid>https://m.vlive.tv/video/276656</guid>
-            <pubDate>Tue, 15 Feb 2022 01:53:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 2:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220209_112/1644395669648r1XE7_JPEG/upload_8847538133986705230a78e14-6537-41fd-bca2-134fa99e9cd5.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio/K-Poppin'] Profiler Yeom Gun Woong 프로파일러 염건웅]]></title>
             <link>https://m.vlive.tv/video/277182</link>
@@ -96,6 +86,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220209_123/1644396014298d5R88_JPEG/upload_60665600300449985a1fa263a-d06a-4a94-aae9-a30da053f252.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / YunB 윤비)]]></title>
+            <link>https://m.vlive.tv/video/277072</link>
+            <guid>https://m.vlive.tv/video/277072</guid>
+            <pubDate>Wed, 16 Feb 2022 02:53:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220214_76/16448369780760JNBr_JPEG/upload_61106541990549384613da00f-a3b0-4409-89a0-028ece676def.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
