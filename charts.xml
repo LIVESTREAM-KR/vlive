@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 20:41:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 21:41:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,20 +48,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20211013_144/1634122553955eHKox_JPEG/upload_78202275760730696931ec09d-bfa2-4361-8b27-5b66010714b3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[🐯]]></title>
-            <link>https://www.vlive.tv/video/277263</link>
-            <guid>https://www.vlive.tv/video/277263</guid>
-            <pubDate>Thu, 17 Feb 2022 13:39:44 GMT</pubDate>
-            <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220217_236/1645088809039FtYEi_JPEG/upload_89168542045297552d1306477-6852-4aab-9cdc-b31ff9192f6f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[ARTIST-MADE COLLECTION 'SHOW' BY BTS - Jung Kook]]></title>
             <link>https://www.vlive.tv/video/275227</link>
             <guid>https://www.vlive.tv/video/275227</guid>
             <pubDate>Thu, 17 Feb 2022 20:40:03 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220121_294/1642742010233PXj1U_JPEG/upload_86821530519990350946d3353-e30e-456d-9dc9-66daf95a6fd1.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🐯]]></title>
+            <link>https://www.vlive.tv/video/277263</link>
+            <guid>https://www.vlive.tv/video/277263</guid>
+            <pubDate>Thu, 17 Feb 2022 13:39:44 GMT</pubDate>
+            <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220217_236/1645088809039FtYEi_JPEG/upload_89168542045297552d1306477-6852-4aab-9cdc-b31ff9192f6f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
