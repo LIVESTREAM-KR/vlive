@@ -4,9 +4,17 @@
         <title>V LIVE 모바일 ─ CHARTS </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 14:41:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 15:46:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해피홉데이 🤗]]></title>
+            <link>https://m.vlive.tv/video/277359</link>
+            <guid>https://m.vlive.tv/video/277359</guid>
+            <pubDate>Thu, 17 Feb 2022 15:45:00 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220218_263/1645112623311whgBi_JPEG/87c2e3b7-9007-11ec-87d4-48df37ae3fca_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[🐯]]></title>
             <link>https://m.vlive.tv/video/277263</link>
@@ -22,14 +30,6 @@
             <pubDate>Wed, 16 Feb 2022 10:43:07 GMT</pubDate>
             <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220216_57/1645007976202RvpKH_JPEG/upload_61277573979423855566052ab-b8c7-47af-933e-ec259bcbd92a.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from Jung Kook]]></title>
-            <link>https://m.vlive.tv/video/275231</link>
-            <guid>https://m.vlive.tv/video/275231</guid>
-            <pubDate>Thu, 17 Feb 2022 14:40:08 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220121_165/1642743304770R8eme_JPEG/upload_86822901680035504b7979e38-a803-4324-8664-931b4478995b.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
