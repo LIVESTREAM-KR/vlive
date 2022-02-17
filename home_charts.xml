@@ -4,17 +4,9 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 15:46:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 16:58:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[ARTIST-MADE COLLECTION BY BTS 'Making-of Log' from Jung Kook]]></title>
-            <link>https://www.vlive.tv/video/275231</link>
-            <guid>https://www.vlive.tv/video/275231</guid>
-            <pubDate>Thu, 17 Feb 2022 15:44:41 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220121_165/1642743304770R8eme_JPEG/upload_86822901680035504b7979e38-a803-4324-8664-931b4478995b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[ENHYPEN (엔하이픈) 'EN-O'CLOCK' EP.25]]></title>
             <link>https://www.vlive.tv/video/276867</link>
@@ -24,12 +16,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20220211_200/1644562179880TPxQQ_PNG/upload_8864186974850787793d9fa78-c987-4565-8f8b-a3b13e2af669.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[💫]]></title>
-            <link>https://www.vlive.tv/video/277268</link>
-            <guid>https://www.vlive.tv/video/277268</guid>
-            <pubDate>Thu, 17 Feb 2022 13:39:33 GMT</pubDate>
-            <content:encoded><![CDATA[SF9]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220217_173/1645071642869kjWc5_JPEG/37a14e58-8f4b-11ec-92eb-48df379cca40_07.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <title><![CDATA[🐯]]></title>
+            <link>https://www.vlive.tv/video/277263</link>
+            <guid>https://www.vlive.tv/video/277263</guid>
+            <pubDate>Thu, 17 Feb 2022 16:56:16 GMT</pubDate>
+            <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220217_236/1645088809039FtYEi_JPEG/upload_89168542045297552d1306477-6852-4aab-9cdc-b31ff9192f6f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[토크 토크~]]></title>
@@ -38,6 +30,14 @@
             <pubDate>Thu, 17 Feb 2022 13:39:33 GMT</pubDate>
             <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220216_77/1645006859032xBKXO_JPEG/upload_61276462291803320f21b7e9a-b487-41da-a93f-254b88c2afec.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[💫]]></title>
+            <link>https://www.vlive.tv/video/277268</link>
+            <guid>https://www.vlive.tv/video/277268</guid>
+            <pubDate>Thu, 17 Feb 2022 13:39:33 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220217_173/1645071642869kjWc5_JPEG/37a14e58-8f4b-11ec-92eb-48df379cca40_07.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
