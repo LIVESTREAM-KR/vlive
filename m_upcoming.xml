@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 13:41:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 14:41:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[다람쥐가 준비한 폴라 이벤트 🐿❤]]></title>
-            <link>https://m.vlive.tv/video/277108</link>
-            <guid>https://m.vlive.tv/video/277108</guid>
-            <pubDate>Wed, 16 Feb 2022 03:43:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 2:00</span>
-										<span class="txt">KINGDOM</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220215_254/1644893646987BproB_JPEG/upload_88973151892057995f15ea5cf-fa78-4c57-bfc2-d7d6a6d24559.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
             <link>https://m.vlive.tv/video/276659</link>
@@ -106,6 +96,16 @@
 										오전 8:00</span>
 										<span class="txt">KINGDOM</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220217_258/1645027096001IzLDw_PNG/upload_612963450648767125cd12a0d-c057-4332-8b0b-98681ddc1e28.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[WONHO COMEBACK LIVE < Obsession >]]></title>
+            <link>https://m.vlive.tv/video/277107</link>
+            <guid>https://m.vlive.tv/video/277107</guid>
+            <pubDate>Thu, 17 Feb 2022 14:40:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">원호 (WONHO)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220215_51/1644892465925h66Hs_JPEG/upload_88972187299159372033fc999-8ecc-4e31-875a-fa005c58a325.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
