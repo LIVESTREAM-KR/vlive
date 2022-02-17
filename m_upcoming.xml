@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 10:44:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 11:41:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Sound K / YunB 윤비)]]></title>
-            <link>https://m.vlive.tv/video/277072</link>
-            <guid>https://m.vlive.tv/video/277072</guid>
-            <pubDate>Wed, 16 Feb 2022 02:53:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220214_76/16448369780760JNBr_JPEG/upload_61106541990549384613da00f-a3b0-4409-89a0-028ece676def.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[다람쥐가 준비한 폴라 이벤트 🐿❤]]></title>
             <link>https://m.vlive.tv/video/277108</link>
@@ -86,6 +76,36 @@
 										오전 5:00</span>
 										<span class="txt">KINGDOM</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220217_175/1645027073146pIJQ9_PNG/upload_89106327754689777e5d73eef-a2a0-4873-8561-101a7229f064.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[릴레이 브이앱 3번 🐶]]></title>
+            <link>https://m.vlive.tv/video/277269</link>
+            <guid>https://m.vlive.tv/video/277269</guid>
+            <pubDate>Thu, 17 Feb 2022 11:40:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 6:30</span>
+										<span class="txt">KINGDOM</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220217_37/1645027084529dKdmp_PNG/upload_891064063838023579614a9ca-1a60-49f6-a77e-fa3ad9caa6f2.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio] Topic Song with Aaron 아론 of W24 and BÉBE YANA]]></title>
+            <link>https://m.vlive.tv/video/276665</link>
+            <guid>https://m.vlive.tv/video/276665</guid>
+            <pubDate>Thu, 17 Feb 2022 11:40:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220209_29/1644395978486RmXJc_JPEG/upload_884756782849348873318e440-15e4-463b-b7a5-73743d8cd504.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[릴레이 브이앱 4번🐊]]></title>
+            <link>https://m.vlive.tv/video/277270</link>
+            <guid>https://m.vlive.tv/video/277270</guid>
+            <pubDate>Thu, 17 Feb 2022 11:40:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 8:00</span>
+										<span class="txt">KINGDOM</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220217_258/1645027096001IzLDw_PNG/upload_612963450648767125cd12a0d-c057-4332-8b0b-98681ddc1e28.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
