@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 08:51:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 09:43:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -66,6 +66,26 @@
 										오전 2:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220209_119/1644395726049o9XRx_JPEG/upload_88475440681596782954afc84-d4e8-45ce-8203-b54eb0d53fdd.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[릴레이브이앱 1번 🐰]]></title>
+            <link>https://m.vlive.tv/video/277266</link>
+            <guid>https://m.vlive.tv/video/277266</guid>
+            <pubDate>Thu, 17 Feb 2022 09:42:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 3:00</span>
+										<span class="txt">KINGDOM</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220217_145/1645027060935kvG6m_PNG/upload_6129600687634196568be9196-d8a0-416d-912e-338db6a862d5.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Simply K-Pop CON-TOUR (심플리케이팝 콘투어) Ep.507]]></title>
+            <link>https://m.vlive.tv/video/277225</link>
+            <guid>https://m.vlive.tv/video/277225</guid>
+            <pubDate>Thu, 17 Feb 2022 09:42:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220216_162/1644999579522niD4h_PNG/upload_890792952369437137f396264-460d-4a98-b3b3-a558ffb03ead.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
