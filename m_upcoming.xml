@@ -4,39 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 09:42:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 10:44:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[WONHO COMEBACK LIVE < Obsession >]]></title>
-            <link>https://m.vlive.tv/video/277107</link>
-            <guid>https://m.vlive.tv/video/277107</guid>
-            <pubDate>Thu, 17 Feb 2022 14:40:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">원호 (WONHO)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220215_51/1644892465925h66Hs_JPEG/upload_88972187299159372033fc999-8ecc-4e31-875a-fa005c58a325.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['디렉터스 체어' 스페셜 토크 '감독들이 뽑은 최고의 영화5편']]></title>
-            <link>https://m.vlive.tv/video/277237</link>
-            <guid>https://m.vlive.tv/video/277237</guid>
-            <pubDate>Fri, 18 Feb 2022 03:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">V MOVIE</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220216_212/1645004639036oHtLm_JPEG/upload_89084360396888262e30ea8fb-3791-460f-b6ae-5b18638de620.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[릴레이 브이앱 5번 🐻]]></title>
-            <link>https://m.vlive.tv/video/277271</link>
-            <guid>https://m.vlive.tv/video/277271</guid>
-            <pubDate>Fri, 18 Feb 2022 03:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">KINGDOM</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220218_88/1645111524145ykziy_PNG/upload_61296393470520566575587e6-935d-48f2-a801-9ba54088a927.png?type=f274_154" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[릴레이 브이앱 6번 🦊]]></title>
             <link>https://m.vlive.tv/video/277272</link>
@@ -96,6 +66,36 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220217_1/1645093745589xxbYa_JPEG/upload_891733864369494583a08afd2-1248-4394-942a-666b34328eef.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / DRIPPIN 드리핀)]]></title>
+            <link>https://m.vlive.tv/video/277217</link>
+            <guid>https://m.vlive.tv/video/277217</guid>
+            <pubDate>Fri, 18 Feb 2022 10:43:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220216_198/1644993817675dK12f_JPEG/upload_61263365325724166dfc35adb-0448-4be3-b68f-e18a1324c16b.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE] SIMPLY K-POP CON-TOUR (📍Egypt)]]></title>
+            <link>https://m.vlive.tv/video/277425</link>
+            <guid>https://m.vlive.tv/video/277425</guid>
+            <pubDate>Fri, 18 Feb 2022 10:43:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220218_116/1645175588765pnKoX_PNG/upload_892553218528218834e020b7f-bce0-4c19-ac93-c834e4578ac3.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / EB 이비)]]></title>
+            <link>https://m.vlive.tv/video/277335</link>
+            <guid>https://m.vlive.tv/video/277335</guid>
+            <pubDate>Fri, 18 Feb 2022 10:43:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220217_76/16450935434599y1hT_JPEG/upload_89173230631598988355c488e-5319-4e1e-b767-41be464995f0.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
