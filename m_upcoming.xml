@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 06:49:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 07:40:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio] Topic Song with Aaron 아론 of W24 and BÉBE YANA]]></title>
-            <link>https://m.vlive.tv/video/276665</link>
-            <guid>https://m.vlive.tv/video/276665</guid>
-            <pubDate>Thu, 17 Feb 2022 11:40:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220209_29/1644395978486RmXJc_JPEG/upload_884756782849348873318e440-15e4-463b-b7a5-73743d8cd504.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[릴레이 브이앱 4번🐊]]></title>
             <link>https://m.vlive.tv/video/277270</link>
@@ -86,6 +76,16 @@
 										방송취소</span>
 										<span class="txt">다크비(DKB)</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220217_108/1645104674946uD56L_JPEG/upload_89183976089336494b7e4d6bc-5e96-48df-8a97-cdbb45edebd0.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
+            <link>https://m.vlive.tv/video/277387</link>
+            <guid>https://m.vlive.tv/video/277387</guid>
+            <pubDate>Fri, 18 Feb 2022 07:39:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220218_228/1645160394126JcmDp_JPEG/upload_892401008816205733ce20681-713c-490b-a373-c03bf11bac51.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
