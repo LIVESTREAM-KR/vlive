@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 02:54:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 03:44:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[릴레이브이앱 1번 🐰]]></title>
-            <link>https://m.vlive.tv/video/277266</link>
-            <guid>https://m.vlive.tv/video/277266</guid>
-            <pubDate>Thu, 17 Feb 2022 09:42:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 3:00</span>
-										<span class="txt">KINGDOM</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220217_145/1645027060935kvG6m_PNG/upload_6129600687634196568be9196-d8a0-416d-912e-338db6a862d5.png?type=f274_154" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[hi minimonster]]></title>
-            <link>https://m.vlive.tv/video/277377</link>
-            <guid>https://m.vlive.tv/video/277377</guid>
-            <pubDate>Fri, 18 Feb 2022 02:53:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 3:00</span>
-										<span class="txt">sema</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220218_113/16451513482174QHoY_JPEG/upload_892310018052659725bf73d8f-fb9e-4bd9-a944-11172dc7962d.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Simply K-Pop CON-TOUR (심플리케이팝 콘투어) Ep.507]]></title>
             <link>https://m.vlive.tv/video/277225</link>
@@ -96,6 +76,26 @@
 										오전 10:00</span>
 										<span class="txt">원호 (WONHO)</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220215_51/1644892465925h66Hs_JPEG/upload_88972187299159372033fc999-8ecc-4e31-875a-fa005c58a325.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['디렉터스 체어' 스페셜 토크 '감독들이 뽑은 최고의 영화5편']]></title>
+            <link>https://m.vlive.tv/video/277237</link>
+            <guid>https://m.vlive.tv/video/277237</guid>
+            <pubDate>Fri, 18 Feb 2022 03:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">V MOVIE</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220216_212/1645004639036oHtLm_JPEG/upload_89084360396888262e30ea8fb-3791-460f-b6ae-5b18638de620.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[릴레이 브이앱 5번 🐻]]></title>
+            <link>https://m.vlive.tv/video/277271</link>
+            <guid>https://m.vlive.tv/video/277271</guid>
+            <pubDate>Fri, 18 Feb 2022 03:43:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">KINGDOM</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220218_88/1645111524145ykziy_PNG/upload_61296393470520566575587e6-935d-48f2-a801-9ba54088a927.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
