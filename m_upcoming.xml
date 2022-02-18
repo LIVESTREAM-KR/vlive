@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 12:59:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 13:41:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[릴레이 브이앱 7번 🐿]]></title>
-            <link>https://m.vlive.tv/video/277273</link>
-            <guid>https://m.vlive.tv/video/277273</guid>
-            <pubDate>Fri, 18 Feb 2022 05:39:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 1:30</span>
-										<span class="txt">KINGDOM</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220217_93/1645027142921GJsdd_PNG/upload_89106638116603750934ba17f-e84a-4391-8c98-9c76d137af8d.png?type=f274_154" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘 생일파티 주인공 이찬완댜님 '찬'하고 등장🎂💖]]></title>
-            <link>https://m.vlive.tv/video/277354</link>
-            <guid>https://m.vlive.tv/video/277354</guid>
-            <pubDate>Fri, 18 Feb 2022 05:39:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										방송취소</span>
-										<span class="txt">다크비(DKB)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220217_108/1645104674946uD56L_JPEG/upload_89183976089336494b7e4d6bc-5e96-48df-8a97-cdbb45edebd0.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[🎂~정환이의 생일 파티~🎂]]></title>
             <link>https://m.vlive.tv/video/277422</link>
@@ -36,6 +16,16 @@
 										오전 8:00</span>
 										<span class="txt">BDC</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220218_119/1645173415104A2lCo_JPEG/upload_89253087745085098c0dec085-b4d6-4d5c-aa84-e2bd9320dee3.jpeg?type=f274_154" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[🐺 LOBO 안무가와의 만남 😎]]></title>
+            <link>https://m.vlive.tv/video/277455</link>
+            <guid>https://m.vlive.tv/video/277455</guid>
+            <pubDate>Fri, 18 Feb 2022 13:40:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">TRI.BE</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220218_203/16451894246898xp8c_JPEG/upload_8926905926483100440fdd0c0-cf24-49eb-a7e9-8ef9cbe655ea.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
@@ -96,6 +86,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220218_228/1645160362716vrjnU_JPEG/upload_8924008461857997697bc323e-380c-45d2-9b1c-54400e749cf9.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
+            <link>https://m.vlive.tv/video/277395</link>
+            <guid>https://m.vlive.tv/video/277395</guid>
+            <pubDate>Fri, 18 Feb 2022 13:40:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 2:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220218_80/16451606525447XF5O_JPEG/upload_8924035652918831354b34706-4010-4ce6-aa78-55f911c213a8.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
