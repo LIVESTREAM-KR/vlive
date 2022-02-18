@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 04:51:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 05:40:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Music Access / VANNER 배너)]]></title>
-            <link>https://m.vlive.tv/video/277040</link>
-            <guid>https://m.vlive.tv/video/277040</guid>
-            <pubDate>Thu, 17 Feb 2022 10:43:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220214_290/1644823249906Fckl3_JPEG/upload_6109281511672935276c6d954-c792-4785-8e97-71cfc6b8e18b.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[릴레이브이앱 2번 🐱]]></title>
-            <link>https://m.vlive.tv/video/277267</link>
-            <guid>https://m.vlive.tv/video/277267</guid>
-            <pubDate>Thu, 17 Feb 2022 10:43:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">KINGDOM</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220218_87/1645111511074Soz2D_PNG/upload_89106327754689777e5d73eef-a2a0-4873-8561-101a7229f064.png?type=f274_154" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[릴레이 브이앱 3번 🐶]]></title>
             <link>https://m.vlive.tv/video/277269</link>
@@ -96,6 +76,26 @@
 										오후 12:00</span>
 										<span class="txt">KINGDOM</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220217_33/1645027118949Ujgrk_PNG/upload_61296455198037372d6903c51-52b0-4d2e-b1a2-57280bb9d6ee.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[릴레이 브이앱 7번 🐿]]></title>
+            <link>https://m.vlive.tv/video/277273</link>
+            <guid>https://m.vlive.tv/video/277273</guid>
+            <pubDate>Fri, 18 Feb 2022 05:39:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 1:30</span>
+										<span class="txt">KINGDOM</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220217_93/1645027142921GJsdd_PNG/upload_89106638116603750934ba17f-e84a-4391-8c98-9c76d137af8d.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘 생일파티 주인공 이찬완댜님 '찬'하고 등장🎂💖]]></title>
+            <link>https://m.vlive.tv/video/277354</link>
+            <guid>https://m.vlive.tv/video/277354</guid>
+            <pubDate>Fri, 18 Feb 2022 05:39:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										방송취소</span>
+										<span class="txt">다크비(DKB)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220217_108/1645104674946uD56L_JPEG/upload_89183976089336494b7e4d6bc-5e96-48df-8a97-cdbb45edebd0.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
