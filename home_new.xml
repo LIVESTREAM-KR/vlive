@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 15:44:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 16:56:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Sat, 19 Feb 2022 14:38:47 GMT</pubDate>
             <content:encoded><![CDATA[스누퍼(SNUPER)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220219_30/1645279834097LMRus_JPEG/158155498093740294c7d3a1a7-263b-4afe-88cb-71102aa319fe.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WooSeokWorld]]></title>
-            <link>https://www.vlive.tv/video/277510</link>
-            <guid>https://www.vlive.tv/video/277510</guid>
-            <pubDate>Sat, 19 Feb 2022 15:42:25 GMT</pubDate>
-            <content:encoded><![CDATA[PENTAGON]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/277510/thumb?type=f228_128" length="0" type="image//live/277510/thumb"/>
         </item>
         <item>
             <title><![CDATA[TREASURE - ‘직진 (JIKJIN)’ SPECIAL STAGE]]></title>
@@ -126,6 +118,14 @@
             <pubDate>Sat, 19 Feb 2022 12:55:22 GMT</pubDate>
             <content:encoded><![CDATA[블리처스(BLITZERS)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220219_25/1645272126633aVWtQ_JPEG/upload_615396244859822806947cc05-8d2c-4a41-96c1-75b3db22b411.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[범키 (BUMKEY) '난치병 (Incurable Disease)' TEASER]]></title>
+            <link>https://www.vlive.tv/video/277499</link>
+            <guid>https://www.vlive.tv/video/277499</guid>
+            <pubDate>Sat, 19 Feb 2022 16:54:14 GMT</pubDate>
+            <content:encoded><![CDATA[BRANDNEW MUSIC]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220219_272/16452706866201o2SQ_JPEG/upload_89349409313337143b2a7b37c-330f-491e-b904-2c18bc2dcb8e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
