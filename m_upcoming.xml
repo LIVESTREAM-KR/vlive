@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 10:43:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 11:40:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[🐺 LOBO 안무가와의 만남 😎]]></title>
-            <link>https://m.vlive.tv/video/277455</link>
-            <guid>https://m.vlive.tv/video/277455</guid>
-            <pubDate>Fri, 18 Feb 2022 13:40:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">TRI.BE</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220218_203/16451894246898xp8c_JPEG/upload_8926905926483100440fdd0c0-cf24-49eb-a7e9-8ef9cbe655ea.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
             <link>https://m.vlive.tv/video/277387</link>
@@ -96,6 +86,16 @@
 										오전 4:00</span>
 										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220218_232/1645173463025h9m8x_PNG/upload_89253123851375249e9a268fa-255d-4dea-960a-043f5b3a7f06.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[채널A '강철부대2' 온라인 제작발표회 (2월 22일 오후 2시)]]></title>
+            <link>https://m.vlive.tv/video/277013</link>
+            <guid>https://m.vlive.tv/video/277013</guid>
+            <pubDate>Sat, 19 Feb 2022 11:39:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">채널A</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220218_141/1645164410616qJsrC_PNG/upload_888809441385817333f222827-90b8-4963-938b-01d410da4691.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
