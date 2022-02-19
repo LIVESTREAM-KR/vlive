@@ -4,9 +4,19 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 11:40:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 12:57:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[♥TRI.BE WEEK를 마무리 하며♥ 트라이비랑 놀자!]]></title>
+            <link>https://m.vlive.tv/video/277503</link>
+            <guid>https://m.vlive.tv/video/277503</guid>
+            <pubDate>Sat, 19 Feb 2022 12:56:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">TRI.BE</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220219_253/1645272632958TG6JF_JPEG/upload_615421470888019062c502129-bed1-41e9-9c71-0df9b0430bce.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
             <link>https://m.vlive.tv/video/277387</link>
@@ -76,26 +86,6 @@
 										오전 2:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220218_80/16451606525447XF5O_JPEG/upload_8924035652918831354b34706-4010-4ce6-aa78-55f911c213a8.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ASC Live Ep.511 (LUMINOUS / 루미너스)]]></title>
-            <link>https://m.vlive.tv/video/277423</link>
-            <guid>https://m.vlive.tv/video/277423</guid>
-            <pubDate>Sat, 19 Feb 2022 08:43:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 4:00</span>
-										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220218_232/1645173463025h9m8x_PNG/upload_89253123851375249e9a268fa-255d-4dea-960a-043f5b3a7f06.png?type=f274_154" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[채널A '강철부대2' 온라인 제작발표회 (2월 22일 오후 2시)]]></title>
-            <link>https://m.vlive.tv/video/277013</link>
-            <guid>https://m.vlive.tv/video/277013</guid>
-            <pubDate>Sat, 19 Feb 2022 11:39:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">채널A</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220218_141/1645164410616qJsrC_PNG/upload_888809441385817333f222827-90b8-4963-938b-01d410da4691.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

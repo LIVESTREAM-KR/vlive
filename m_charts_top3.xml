@@ -4,17 +4,9 @@
         <title>V LIVE 모바일 ─ CHARTS </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 11:40:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 12:57:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[제이크와 책읽개🐶]]></title>
-            <link>https://m.vlive.tv/video/277444</link>
-            <guid>https://m.vlive.tv/video/277444</guid>
-            <pubDate>Fri, 18 Feb 2022 12:57:34 GMT</pubDate>
-            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220218_239/1645186687487DF7rz_JPEG/upload_89266414017481295cb135626-ec11-4760-af59-b81f19716053.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[해피홉데이 🤗]]></title>
             <link>https://m.vlive.tv/video/277359</link>
@@ -30,6 +22,14 @@
             <pubDate>Sat, 19 Feb 2022 11:39:24 GMT</pubDate>
             <content:encoded><![CDATA[TREASURE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220218_83/1645186942541wPEy3_JPEG/158062545493718711a2918ee2-b69a-4ae5-8754-46c4117461f0.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제이크와 책읽개🐶]]></title>
+            <link>https://m.vlive.tv/video/277444</link>
+            <guid>https://m.vlive.tv/video/277444</guid>
+            <pubDate>Fri, 18 Feb 2022 12:57:34 GMT</pubDate>
+            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220218_239/1645186687487DF7rz_JPEG/upload_89266414017481295cb135626-ec11-4760-af59-b81f19716053.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
