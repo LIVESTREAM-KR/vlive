@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 05:40:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 06:48:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VICTON 승식 (SEUNGSIK of VICTON) - 취중고백 (Drunken Confession) (COVER)]]></title>
+            <link>https://www.vlive.tv/video/277460</link>
+            <guid>https://www.vlive.tv/video/277460</guid>
+            <pubDate>Sun, 20 Feb 2022 06:45:54 GMT</pubDate>
+            <content:encoded><![CDATA[VICTON]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220218_177/1645193021993q6gCj_JPEG/upload_892725303246489012166256e-7860-4161-9d6d-fce230323c40.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[선공개] "부족한 게 너무 보여"😟💬아직은 완벽하지 않은 레옹 팀!, MBC 220220 방송]]></title>
             <link>https://www.vlive.tv/video/277458</link>
@@ -398,14 +406,6 @@
             <pubDate>Sat, 19 Feb 2022 01:44:00 GMT</pubDate>
             <content:encoded><![CDATA[SBS 예능]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220218_72/1645174345369tTs2j_JPEG/upload_8925404695649871495699ad7-3272-45fe-9aff-eae322bce128.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[선공개] "이대로라면 이길 확률 희박"😨미나미가 표현하는 <Havana>는?💃, MBC 220220 방송]]></title>
-            <link>https://www.vlive.tv/video/277454</link>
-            <guid>https://www.vlive.tv/video/277454</guid>
-            <pubDate>Sat, 19 Feb 2022 01:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[MBC 예능]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220218_92/1645189185808JEc5T_JPEG/upload_8926885375777778923a92d17-8691-4826-8099-85a9d06d333d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

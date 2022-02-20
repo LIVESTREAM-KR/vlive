@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 05:40:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 06:48:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VICTON 승식 (SEUNGSIK of VICTON) - 취중고백 (Drunken Confession) (COVER)]]></title>
+            <link>https://www.vlive.tv/video/277460</link>
+            <guid>https://www.vlive.tv/video/277460</guid>
+            <pubDate>Sun, 20 Feb 2022 06:46:02 GMT</pubDate>
+            <content:encoded><![CDATA[VICTON]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220218_177/1645193021993q6gCj_JPEG/upload_892725303246489012166256e-7860-4161-9d6d-fce230323c40.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[선공개] "부족한 게 너무 보여"😟💬아직은 완벽하지 않은 레옹 팀!, MBC 220220 방송]]></title>
             <link>https://www.vlive.tv/video/277458</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 19 Feb 2022 11:38:49 GMT</pubDate>
             <content:encoded><![CDATA[B1A4]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220219_246/1645272810963xP44b_JPEG/411ffc1b-917c-11ec-8a3e-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🐺 LOBO 안무가와의 만남 😎]]></title>
-            <link>https://www.vlive.tv/video/277455</link>
-            <guid>https://www.vlive.tv/video/277455</guid>
-            <pubDate>Sat, 19 Feb 2022 11:38:49 GMT</pubDate>
-            <content:encoded><![CDATA[TRI.BE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220218_203/16451894246898xp8c_JPEG/upload_8926905926483100440fdd0c0-cf24-49eb-a7e9-8ef9cbe655ea.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
