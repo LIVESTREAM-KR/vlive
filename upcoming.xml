@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 13:41:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 14:40:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -176,14 +176,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220220_30/1645358151058cjmXf_JPEG/1581465220502065288cfd38cc-e5cf-4628-90cd-2149b6f5099f.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[찬이의 "방" 🐺 Ep.145]]></title>
-            <link>https://www.vlive.tv/video/277531</link>
-            <guid>https://www.vlive.tv/video/277531</guid>
-            <pubDate>Sun, 20 Feb 2022 12:56:18 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:48]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/277531/thumb?type=f228_128" length="0" type="image//live/277531/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[[TEASER] Moon Byul 2nd Mini Concert [Director’s Cut : 6equence] TAKE 2]]></title>
             <link>https://www.vlive.tv/video/277525</link>
             <guid>https://www.vlive.tv/video/277525</guid>
@@ -217,11 +209,34 @@
         </item>
         <item>
             <title><![CDATA[한 주의 마무리 나랑 할래~?]]></title>
+            <link>https://www.vlive.tv/video/277536</link>
+            <guid>https://www.vlive.tv/video/277536</guid>
+            <pubDate>Sun, 20 Feb 2022 14:39:50 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:43]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[한 주의 마무리 나랑 할래~?]]></title>
             <link>https://www.vlive.tv/video/277534</link>
             <guid>https://www.vlive.tv/video/277534</guid>
             <pubDate>Sun, 20 Feb 2022 13:39:51 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:31]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/277534/thumb?type=f228_128" length="0" type="image//live/277534/thumb"/>
+            <content:encoded><![CDATA[오후 1:45]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220220_253/1645364757385MmgvG_JPEG/3baa9a7c-9253-11ec-bcfb-246e963a464c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찬이의 "방" 🐺 Ep.145]]></title>
+            <link>https://www.vlive.tv/video/277531</link>
+            <guid>https://www.vlive.tv/video/277531</guid>
+            <pubDate>Sun, 20 Feb 2022 12:56:18 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:46]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220220_138/16453650321414UgEe_JPEG/upload_6163463660691612783175f09-c1be-490e-b79f-b1d4d38b480d.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[름달이 퇴근길🌝🐯]]></title>
+            <link>https://www.vlive.tv/video/277535</link>
+            <guid>https://www.vlive.tv/video/277535</guid>
+            <pubDate>Sun, 20 Feb 2022 14:39:50 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:12]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220220_193/1645366338780NSor3_JPEG/975e6047-9256-11ec-a412-a0369ff95678_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
