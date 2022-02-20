@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 15:44:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 16:55:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -229,7 +229,7 @@
             <guid>https://www.vlive.tv/video/277532</guid>
             <pubDate>Sun, 20 Feb 2022 13:39:51 GMT</pubDate>
             <content:encoded><![CDATA[오후 2:57]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220220_261/16453690308227UPH6_JPEG/52b3471e-925c-11ec-a412-a0369ff95678_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220221_164/1645374612790H2DmR_JPEG/52b3471e-925c-11ec-a412-a0369ff95678_01.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[YOUNITE PROLOGUE FILM | 은호 (EUNHO)]]></title>
@@ -264,20 +264,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220221_227/1645369797814ncrOb_JPEG/24143d6a-925e-11ec-a7bf-48df37ae3dc4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[잠 못드는 밤에 (첫사연)]]></title>
-            <link>https://www.vlive.tv/video/277538</link>
-            <guid>https://www.vlive.tv/video/277538</guid>
-            <pubDate>Sun, 20 Feb 2022 15:43:39 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:13]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220221_260/1645370007816GJw9S_JPEG/158158401813092516f07af07c-5ea5-4f6e-b99f-e01dcd4f2ca0.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[#OMRR 썬데이 뾰로통💛🐝]]></title>
             <link>https://www.vlive.tv/video/277539</link>
             <guid>https://www.vlive.tv/video/277539</guid>
             <pubDate>Sun, 20 Feb 2022 15:43:39 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:29]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220221_208/1645370963093rpc5e_JPEG/1582465770511683355a50933b-663f-4e7b-96f8-c539d1875628.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠 못드는 밤에 (첫사연)]]></title>
+            <link>https://www.vlive.tv/video/277538</link>
+            <guid>https://www.vlive.tv/video/277538</guid>
+            <pubDate>Sun, 20 Feb 2022 15:43:39 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:13]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220221_260/1645370007816GJw9S_JPEG/158158401813092516f07af07c-5ea5-4f6e-b99f-e01dcd4f2ca0.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
