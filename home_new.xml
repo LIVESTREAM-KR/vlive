@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 23:42:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 01:50:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[선공개] "부족한 게 너무 보여"😟💬아직은 완벽하지 않은 레옹 팀!, MBC 220220 방송]]></title>
+            <link>https://www.vlive.tv/video/277458</link>
+            <guid>https://www.vlive.tv/video/277458</guid>
+            <pubDate>Sun, 20 Feb 2022 01:48:25 GMT</pubDate>
+            <content:encoded><![CDATA[MBC 예능]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220218_79/1645190633624LSffp_JPEG/upload_89270021422556736be1e26cb-65cc-4149-ae31-42623f56a02c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[WooSeokWorld]]></title>
             <link>https://www.vlive.tv/video/277510</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 19 Feb 2022 11:38:49 GMT</pubDate>
             <content:encoded><![CDATA[TRI.BE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220218_203/16451894246898xp8c_JPEG/upload_8926905926483100440fdd0c0-cf24-49eb-a7e9-8ef9cbe655ea.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BLICAM] EP.27 심심한 게 뭐죠? 블리처스 대기실 탐방기 (ENG/JPN/ESP)]]></title>
-            <link>https://www.vlive.tv/video/277501</link>
-            <guid>https://www.vlive.tv/video/277501</guid>
-            <pubDate>Sat, 19 Feb 2022 12:55:22 GMT</pubDate>
-            <content:encoded><![CDATA[블리처스(BLITZERS)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220219_25/1645272126633aVWtQ_JPEG/upload_615396244859822806947cc05-8d2c-4a41-96c1-75b3db22b411.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
