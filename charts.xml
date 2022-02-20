@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 04:50:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 05:40:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,20 +48,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220220_32/1645290986991l6yJ7_JPEG/3196e7b8-91a4-11ec-b145-48df379cc9e4_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[리노리방😺바쁘다길래 혼자 밥먹으러왔지]]></title>
-            <link>https://www.vlive.tv/video/277426</link>
-            <guid>https://www.vlive.tv/video/277426</guid>
-            <pubDate>Fri, 18 Feb 2022 10:42:43 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220218_126/1645179773983zhX4P_JPEG/upload_61449377630855943e0583351-921d-453c-9ef9-c2fab391376e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[지민씨 등장]]></title>
             <link>https://www.vlive.tv/video/265730</link>
             <guid>https://www.vlive.tv/video/265730</guid>
             <pubDate>Sat, 19 Feb 2022 19:39:08 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211013_144/1634122553955eHKox_JPEG/upload_78202275760730696931ec09d-bfa2-4361-8b27-5b66010714b3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리노리방😺바쁘다길래 혼자 밥먹으러왔지]]></title>
+            <link>https://www.vlive.tv/video/277426</link>
+            <guid>https://www.vlive.tv/video/277426</guid>
+            <pubDate>Fri, 18 Feb 2022 10:42:43 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220218_126/1645179773983zhX4P_JPEG/upload_61449377630855943e0583351-921d-453c-9ef9-c2fab391376e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
