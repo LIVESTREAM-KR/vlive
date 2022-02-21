@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 06:49:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 07:41:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Super K-Pop / DRIPPIN 드리핀)]]></title>
-            <link>https://m.vlive.tv/video/277217</link>
-            <guid>https://m.vlive.tv/video/277217</guid>
-            <pubDate>Fri, 18 Feb 2022 10:43:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220216_198/1644993817675dK12f_JPEG/upload_61263365325724166dfc35adb-0448-4be3-b68f-e18a1324c16b.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[LIVE] SIMPLY K-POP CON-TOUR (📍Egypt)]]></title>
             <link>https://m.vlive.tv/video/277425</link>
@@ -96,6 +86,16 @@
 										오전 5:00</span>
 										<span class="txt">세상의 모든 즐거움 #skyTV</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220215_158/16449133410619gIvA_PNG/upload_88993071645796346f46e9f28-c4a9-44ae-a64a-3f490e069e24.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[Music Access] Pop&Going wih Fatou 파투 & Won Jun 원준]]></title>
+            <link>https://m.vlive.tv/video/277390</link>
+            <guid>https://m.vlive.tv/video/277390</guid>
+            <pubDate>Mon, 21 Feb 2022 07:39:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220218_26/1645160508911kWO9t_JPEG/upload_6143010228950137084754b96-d67b-4e33-b2cd-4f6dfca93d15.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
