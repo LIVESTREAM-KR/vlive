@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 15:46:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 16:57:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잠 못드는 밤에 (혼술 보라 나중 삭제)]]></title>
+            <link>https://www.vlive.tv/video/277613</link>
+            <guid>https://www.vlive.tv/video/277613</guid>
+            <pubDate>Mon, 21 Feb 2022 16:55:09 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220222_91/1645461028742KjqGG_JPEG/1582493397278865343bcaa263-d606-4f6d-aba9-6c1952b41708.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[☁️두둥! 태환입니다☁️]]></title>
             <link>https://www.vlive.tv/video/277609</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 21 Feb 2022 12:58:11 GMT</pubDate>
             <content:encoded><![CDATA[TO1]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220221_284/1645450447297YkR9F_JPEG/c273fedf-9319-11ec-bef7-505dac8c38f5_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ㅎ]]></title>
-            <link>https://www.vlive.tv/video/277595</link>
-            <guid>https://www.vlive.tv/video/277595</guid>
-            <pubDate>Mon, 21 Feb 2022 12:58:11 GMT</pubDate>
-            <content:encoded><![CDATA[강다니엘 (KANGDANIEL)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220221_31/1645447940172HVxCd_JPEG/3906571643825795980cb71cf-a056-414c-bb01-dbcfccef706d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
