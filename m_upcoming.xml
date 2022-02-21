@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 04:51:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 05:40:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Music Access / TRENDZ 트렌드지)]]></title>
-            <link>https://m.vlive.tv/video/277336</link>
-            <guid>https://m.vlive.tv/video/277336</guid>
-            <pubDate>Fri, 18 Feb 2022 09:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220217_1/1645093745589xxbYa_JPEG/upload_891733864369494583a08afd2-1248-4394-942a-666b34328eef.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Super K-Pop / DRIPPIN 드리핀)]]></title>
             <link>https://m.vlive.tv/video/277217</link>
@@ -95,7 +85,17 @@
             <content:encoded><![CDATA[<span class="time">
 										오전 5:00</span>
 										<span class="txt">채널A</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220218_141/1645164410616qJsrC_PNG/upload_888809441385817333f222827-90b8-4963-938b-01d410da4691.png?type=f274_154" length="0" type="image/png"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220221_55/1645421538658Doixq_JPEG/upload_616911371963670440e094dc4-35b3-4ad1-b28e-acdff629cc31.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SKY채널 〈강철부대2〉 온라인 제작발표회 I 2월 22일(화) 오후 2시]]></title>
+            <link>https://m.vlive.tv/video/277130</link>
+            <guid>https://m.vlive.tv/video/277130</guid>
+            <pubDate>Mon, 21 Feb 2022 05:39:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">세상의 모든 즐거움 #skyTV</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220215_158/16449133410619gIvA_PNG/upload_88993071645796346f46e9f28-c4a9-44ae-a64a-3f490e069e24.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
