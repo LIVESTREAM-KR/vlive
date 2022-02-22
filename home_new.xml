@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 16:59:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 17:42:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이 밤중에 승구 등장]]></title>
+            <link>https://www.vlive.tv/video/277685</link>
+            <guid>https://www.vlive.tv/video/277685</guid>
+            <pubDate>Tue, 22 Feb 2022 15:44:33 GMT</pubDate>
+            <content:encoded><![CDATA[N.Flying]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220223_75/16455512828854SE9m_JPEG/b9c0733a-9404-11ec-b145-48df379cc9e4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠 못드는 밤에 (혼술 보라)]]></title>
+            <link>https://www.vlive.tv/video/277687</link>
+            <guid>https://www.vlive.tv/video/277687</guid>
+            <pubDate>Tue, 22 Feb 2022 17:40:40 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220223_232/16455509567377GyR3_JPEG/15833933072124335048d87823-a334-45e8-8f02-bf82acf9e94d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뜨끈한]]></title>
             <link>https://www.vlive.tv/video/277686</link>
@@ -22,14 +38,6 @@
             <pubDate>Tue, 22 Feb 2022 14:39:26 GMT</pubDate>
             <content:encoded><![CDATA[fromis_9]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220223_82/16455490185421cctt_JPEG/upload_89628734421153382801b7a99-7137-417b-9124-6d93bd771509.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이 밤중에 승구 등장]]></title>
-            <link>https://www.vlive.tv/video/277685</link>
-            <guid>https://www.vlive.tv/video/277685</guid>
-            <pubDate>Tue, 22 Feb 2022 15:44:33 GMT</pubDate>
-            <content:encoded><![CDATA[N.Flying]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/277685/thumb?type=f228_128" length="0" type="image//live/277685/thumb"/>
         </item>
         <item>
             <title><![CDATA[화요일🎀지은🤍]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 22 Feb 2022 13:40:07 GMT</pubDate>
             <content:encoded><![CDATA[SF9]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220222_56/1645537704917Opd2c_JPEG/9121118b-93e5-11ec-9fe3-505dac8c37f3_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠깐]]></title>
-            <link>https://www.vlive.tv/video/277676</link>
-            <guid>https://www.vlive.tv/video/277676</guid>
-            <pubDate>Tue, 22 Feb 2022 13:40:07 GMT</pubDate>
-            <content:encoded><![CDATA[유주 (YUJU)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220222_40/1645537691163rDat3_JPEG/b51d4216-93e5-11ec-b19d-505dacfba98a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

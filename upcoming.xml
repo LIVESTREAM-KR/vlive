@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 16:59:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 17:42:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -600,14 +600,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220223_111/1645543308018BMfSq_JPEG/49a15019-93f2-11ec-be77-a0369ff963bc_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이 밤중에 승구 등장]]></title>
-            <link>https://www.vlive.tv/video/277685</link>
-            <guid>https://www.vlive.tv/video/277685</guid>
-            <pubDate>Tue, 22 Feb 2022 15:45:26 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:26]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/277685/thumb?type=f228_128" length="0" type="image//live/277685/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[🐿️❤️]]></title>
             <link>https://www.vlive.tv/video/277682</link>
             <guid>https://www.vlive.tv/video/277682</guid>
@@ -622,6 +614,22 @@
             <pubDate>Tue, 22 Feb 2022 15:45:26 GMT</pubDate>
             <content:encoded><![CDATA[오후 4:49]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220223_70/1645548570886aUVG0_JPEG/fde78f5a-93fe-11ec-a7bf-48df37ae3dc4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠 못드는 밤에 (혼술 보라)]]></title>
+            <link>https://www.vlive.tv/video/277687</link>
+            <guid>https://www.vlive.tv/video/277687</guid>
+            <pubDate>Tue, 22 Feb 2022 17:41:32 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:29]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220223_232/16455509567377GyR3_JPEG/15833933072124335048d87823-a334-45e8-8f02-bf82acf9e94d.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이 밤중에 승구 등장]]></title>
+            <link>https://www.vlive.tv/video/277685</link>
+            <guid>https://www.vlive.tv/video/277685</guid>
+            <pubDate>Tue, 22 Feb 2022 15:45:26 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:34]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220223_75/16455512828854SE9m_JPEG/b9c0733a-9404-11ec-b145-48df379cc9e4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
