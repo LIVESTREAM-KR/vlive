@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 01:45:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 02:51:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
-            <link>https://m.vlive.tv/video/277395</link>
-            <guid>https://m.vlive.tv/video/277395</guid>
-            <pubDate>Fri, 18 Feb 2022 13:40:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 2:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220218_80/16451606525447XF5O_JPEG/upload_8924035652918831354b34706-4010-4ce6-aa78-55f911c213a8.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[ASC Live Ep.511 (LUMINOUS / 루미너스)]]></title>
             <link>https://m.vlive.tv/video/277423</link>
@@ -96,6 +86,16 @@
 										오전 2:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220221_247/1645437786686iRSQj_JPEG/upload_89240380342918030f075005b-5425-4218-80b0-974a83907f60.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio/K-Poppin'] Singer Songwriter Kwon Jang Hyeok 싱어송라이터 권장혁]]></title>
+            <link>https://m.vlive.tv/video/277400</link>
+            <guid>https://m.vlive.tv/video/277400</guid>
+            <pubDate>Tue, 22 Feb 2022 02:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220218_285/1645161235309uAIAS_JPEG/upload_892409291766121330063615c-5baa-4b92-ba68-74df629d7b75.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
