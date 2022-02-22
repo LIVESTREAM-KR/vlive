@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 08:45:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 09:42:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[🐰05즈의 잘보이는 라디오📻🦜 EP.11 나에게 특별한 기념일🎉]]></title>
-            <link>https://m.vlive.tv/video/277577</link>
-            <guid>https://m.vlive.tv/video/277577</guid>
-            <pubDate>Mon, 21 Feb 2022 10:43:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 9:00</span>
-										<span class="txt">TRI.BE</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220221_87/1645434509759K9yp2_JPEG/upload_61704044864042911713a54dd-dab6-4a2b-b2a5-2c191f94c7ff.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthew]]></title>
             <link>https://m.vlive.tv/video/277385</link>
@@ -96,6 +86,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220218_10/1645160426021RhaNR_JPEG/upload_61430017893443203bbb8e177-1e6c-440e-9482-f91260a76ecf.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop] Club House]]></title>
+            <link>https://m.vlive.tv/video/277392</link>
+            <guid>https://m.vlive.tv/video/277392</guid>
+            <pubDate>Tue, 22 Feb 2022 09:41:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220218_29/1645160574618P7jdC_JPEG/upload_614301633895343315141655d-7f0c-42e3-8714-a90235ade7a1.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
