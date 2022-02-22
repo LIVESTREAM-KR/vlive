@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 11:40:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 13:01:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220218_10/1645160426021RhaNR_JPEG/upload_61430017893443203bbb8e177-1e6c-440e-9482-f91260a76ecf.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop] Club House]]></title>
+            <link>https://m.vlive.tv/video/277392</link>
+            <guid>https://m.vlive.tv/video/277392</guid>
+            <pubDate>Tue, 22 Feb 2022 13:00:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220218_29/1645160574618P7jdC_JPEG/upload_614301633895343315141655d-7f0c-42e3-8714-a90235ade7a1.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
