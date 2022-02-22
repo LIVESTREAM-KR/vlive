@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 23:42:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 01:45:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
-            <link>https://m.vlive.tv/video/277386</link>
-            <guid>https://m.vlive.tv/video/277386</guid>
-            <pubDate>Fri, 18 Feb 2022 12:57:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220218_228/1645160362716vrjnU_JPEG/upload_8924008461857997697bc323e-380c-45d2-9b1c-54400e749cf9.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
             <link>https://m.vlive.tv/video/277395</link>
@@ -96,6 +86,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220218_84/1645160334600SxivW_JPEG/upload_614299262902628527636a1bd-ec5f-4941-b33b-4be9350e0c2e.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Cine Factory] Special Interview with Actor Kwak Min Kyu 배우 곽민규]]></title>
+            <link>https://m.vlive.tv/video/277396</link>
+            <guid>https://m.vlive.tv/video/277396</guid>
+            <pubDate>Tue, 22 Feb 2022 01:44:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 2:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220221_247/1645437786686iRSQj_JPEG/upload_89240380342918030f075005b-5425-4218-80b0-974a83907f60.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
