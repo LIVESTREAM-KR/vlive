@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 02:54:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 03:43:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,26 @@
 										오전 10:00</span>
 										<span class="txt">V MOVIE</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220216_278/1645003463428013RF_JPEG/upload_61273070482431856a9374830-3708-4a99-b67f-5abbed65428a.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / TRADE L 트레이드 엘)]]></title>
+            <link>https://m.vlive.tv/video/276799</link>
+            <guid>https://m.vlive.tv/video/276799</guid>
+            <pubDate>Wed, 23 Feb 2022 03:42:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220210_71/16444892471825jnmV_JPEG/upload_885689130069421111b98dadc-3339-4586-9e9b-0bcebac1a096.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
+            <link>https://m.vlive.tv/video/277383</link>
+            <guid>https://m.vlive.tv/video/277383</guid>
+            <pubDate>Wed, 23 Feb 2022 03:42:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220218_255/1645160269915eeBYn_JPEG/upload_8923997050265111992c12241-b738-464c-b5a0-72d49ec1a3ee.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
