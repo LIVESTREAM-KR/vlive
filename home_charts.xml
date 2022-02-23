@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 10:44:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 11:40:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해피홉데이 🤗]]></title>
+            <link>https://www.vlive.tv/video/277359</link>
+            <guid>https://www.vlive.tv/video/277359</guid>
+            <pubDate>Wed, 23 Feb 2022 11:39:16 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220218_110/1645113313977VupR6_JPEG/upload_613829113569869245aef51f3-161c-454a-ab11-111b4000a5e4.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[🐿️❤️]]></title>
             <link>https://www.vlive.tv/video/277682</link>
@@ -30,14 +38,6 @@
             <pubDate>Wed, 23 Feb 2022 08:43:37 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211013_144/1634122553955eHKox_JPEG/upload_78202275760730696931ec09d-bfa2-4361-8b27-5b66010714b3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TO DO X TOMORROW X TOGETHER - EP.72]]></title>
-            <link>https://www.vlive.tv/video/277174</link>
-            <guid>https://www.vlive.tv/video/277174</guid>
-            <pubDate>Wed, 23 Feb 2022 10:42:38 GMT</pubDate>
-            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220215_255/1644934110624Cx66C_PNG/upload_6120367863758741289d7d15d-b8e9-4db4-b388-dcd43e47b25a.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
