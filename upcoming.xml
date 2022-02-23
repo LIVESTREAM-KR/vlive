@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 16:59:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 17:43:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -568,14 +568,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220224_105/164563061185803krd_JPEG/b6a8f0c1-94bc-11ec-92eb-48df379cca40_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[보이스 온리🪨]]></title>
-            <link>https://www.vlive.tv/video/277766</link>
-            <guid>https://www.vlive.tv/video/277766</guid>
-            <pubDate>Wed, 23 Feb 2022 16:58:35 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:58]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/277766/thumb?type=f228_128" length="0" type="image//live/277766/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[오랜만이죠?💕]]></title>
             <link>https://www.vlive.tv/video/277764</link>
             <guid>https://www.vlive.tv/video/277764</guid>
@@ -590,6 +582,22 @@
             <pubDate>Wed, 23 Feb 2022 16:58:35 GMT</pubDate>
             <content:encoded><![CDATA[오후 4:29]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220224_276/1645633787882QaFDd_JPEG/8148e990-94c5-11ec-b19d-505dacfba98a_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보이스 온리🪨]]></title>
+            <link>https://www.vlive.tv/video/277766</link>
+            <guid>https://www.vlive.tv/video/277766</guid>
+            <pubDate>Wed, 23 Feb 2022 16:58:35 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:03]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220224_154/1645635821657BO5p4_JPEG/1d614080-94ca-11ec-a295-a0369ff968b0_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#OMRR STAY WITH ME 💛🌝🐝]]></title>
+            <link>https://www.vlive.tv/video/277767</link>
+            <guid>https://www.vlive.tv/video/277767</guid>
+            <pubDate>Wed, 23 Feb 2022 17:42:19 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:11]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220224_141/1645636292920ml5g2_JPEG/158511810910586119b63deec8-dc41-4e19-8e78-b16e28fd9420.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
