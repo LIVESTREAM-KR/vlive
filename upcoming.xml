@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 15:46:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 16:59:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -560,20 +560,36 @@
             <enclosure url="https://v-phinf.pstatic.net/20220224_210/1645630074195Cdoti_JPEG/f09a01df-94bc-11ec-a7bf-48df37ae3dc4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오랜만이죠?💕]]></title>
-            <link>https://www.vlive.tv/video/277764</link>
-            <guid>https://www.vlive.tv/video/277764</guid>
-            <pubDate>Wed, 23 Feb 2022 15:45:20 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:32]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220224_50/1645630339543l1Qlu_JPEG/39248115824285204692512a1-6743-4bd8-9385-b64865af83b6.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[연습🤩✌️💛]]></title>
             <link>https://www.vlive.tv/video/277759</link>
             <guid>https://www.vlive.tv/video/277759</guid>
             <pubDate>Wed, 23 Feb 2022 13:41:25 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:36]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220224_105/164563061185803krd_JPEG/b6a8f0c1-94bc-11ec-92eb-48df379cca40_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보이스 온리🪨]]></title>
+            <link>https://www.vlive.tv/video/277766</link>
+            <guid>https://www.vlive.tv/video/277766</guid>
+            <pubDate>Wed, 23 Feb 2022 16:58:35 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:58]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/277766/thumb?type=f228_128" length="0" type="image//live/277766/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[오랜만이죠?💕]]></title>
+            <link>https://www.vlive.tv/video/277764</link>
+            <guid>https://www.vlive.tv/video/277764</guid>
+            <pubDate>Wed, 23 Feb 2022 15:45:20 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:23]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220224_50/1645630339543l1Qlu_JPEG/39248115824285204692512a1-6743-4bd8-9385-b64865af83b6.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[진정한 심야라이브 🙃]]></title>
+            <link>https://www.vlive.tv/video/277765</link>
+            <guid>https://www.vlive.tv/video/277765</guid>
+            <pubDate>Wed, 23 Feb 2022 16:58:35 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:29]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220224_276/1645633787882QaFDd_JPEG/8148e990-94c5-11ec-b19d-505dacfba98a_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
