@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 08:45:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 09:43:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -66,6 +66,16 @@
 										오전 4:00</span>
 										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220223_243/1645599610548TaNm6_PNG/upload_89679312114061548c54be6cb-5c2e-4136-b7f8-d63b12daff22.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Music Access / YONGYONG & hundred 용용 & 헌드레드)]]></title>
+            <link>https://m.vlive.tv/video/277540</link>
+            <guid>https://m.vlive.tv/video/277540</guid>
+            <pubDate>Thu, 24 Feb 2022 09:42:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220223_135/1645599020320eG69y_JPEG/upload_61868611263993447c9e4ae5a-74b5-4ec2-9227-1cc43ceda114.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
