@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 17:43:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 18:48:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -673,14 +673,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220225_220/164571710944026JUX_JPEG/2161e592-9587-11ec-bcec-505dac8c35ff_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[나우즈의 첫 새벽라이브✨🌼🍯]]></title>
-            <link>https://www.vlive.tv/video/277878</link>
-            <guid>https://www.vlive.tv/video/277878</guid>
-            <pubDate>Thu, 24 Feb 2022 16:56:32 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:46]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220225_11/1645717566835PHe5b_JPEG/1585059607858782435c781cf0-d46d-4617-aded-50fc353281a6.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[하루의 마무리]]></title>
             <link>https://www.vlive.tv/video/277875</link>
             <guid>https://www.vlive.tv/video/277875</guid>
@@ -713,20 +705,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20220225_60/1645720942462icv3Y_JPEG/5748a345-9590-11ec-87d4-48df37ae3fca_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[잠 못드는 밤에 (혼술 먹방)]]></title>
-            <link>https://www.vlive.tv/video/277879</link>
-            <guid>https://www.vlive.tv/video/277879</guid>
-            <pubDate>Thu, 24 Feb 2022 17:41:43 GMT</pubDate>
-            <content:encoded><![CDATA[오후 4:58]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220225_248/1645721918238uobcw_JPEG/1585974362127949620ca8858b-36db-407e-9162-4e8c849f2fa3.jpg?type=f228_128" length="0" type="image/jpg"/>
+            <title><![CDATA[나우즈의 첫 새벽라이브✨🌼🍯]]></title>
+            <link>https://www.vlive.tv/video/277878</link>
+            <guid>https://www.vlive.tv/video/277878</guid>
+            <pubDate>Thu, 24 Feb 2022 16:56:32 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:59]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220225_11/1645717566835PHe5b_JPEG/1585059607858782435c781cf0-d46d-4617-aded-50fc353281a6.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘은 목소리^^]]></title>
             <link>https://www.vlive.tv/video/277880</link>
             <guid>https://www.vlive.tv/video/277880</guid>
             <pubDate>Thu, 24 Feb 2022 17:41:43 GMT</pubDate>
-            <content:encoded><![CDATA[오후 5:24]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/277880/thumb?type=f228_128" length="0" type="image//live/277880/thumb"/>
+            <content:encoded><![CDATA[오후 6:05]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220225_243/1645725926358xgXdh_JPEG/13e38f6d-959c-11ec-92eb-48df379cca40_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠 못드는 밤에 (혼술 먹방)]]></title>
+            <link>https://www.vlive.tv/video/277879</link>
+            <guid>https://www.vlive.tv/video/277879</guid>
+            <pubDate>Thu, 24 Feb 2022 17:41:43 GMT</pubDate>
+            <content:encoded><![CDATA[오후 6:14]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220225_248/1645721918238uobcw_JPEG/1585974362127949620ca8858b-36db-407e-9162-4e8c849f2fa3.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
