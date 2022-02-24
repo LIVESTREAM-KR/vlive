@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 16:57:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 17:43:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘은 목소리^^]]></title>
+            <link>https://www.vlive.tv/video/277880</link>
+            <guid>https://www.vlive.tv/video/277880</guid>
+            <pubDate>Thu, 24 Feb 2022 17:40:48 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/277880/thumb?type=f228_128" length="0" type="image//live/277880/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[잠 못드는 밤에 (혼술 먹방)]]></title>
+            <link>https://www.vlive.tv/video/277879</link>
+            <guid>https://www.vlive.tv/video/277879</guid>
+            <pubDate>Thu, 24 Feb 2022 17:40:48 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220225_248/1645721918238uobcw_JPEG/1585974362127949620ca8858b-36db-407e-9162-4e8c849f2fa3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[🍀🍀🍀🍀🍀🍀🍀🍀🍀]]></title>
             <link>https://www.vlive.tv/video/277876</link>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 24 Feb 2022 15:44:30 GMT</pubDate>
             <content:encoded><![CDATA[핑크판타지 / PINKFANTASY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220224_289/1645705624004GJ2eu_JPEG/158494160001957270b3879d2d-5f04-4707-8ba6-64e11cf9f7e1.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오랜만에 개인 브이앱!❤️]]></title>
-            <link>https://www.vlive.tv/video/277870</link>
-            <guid>https://www.vlive.tv/video/277870</guid>
-            <pubDate>Thu, 24 Feb 2022 14:39:42 GMT</pubDate>
-            <content:encoded><![CDATA[Busters X 버스터즈]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220224_107/1645712654974jlwH5_JPEG/57d41531-957d-11ec-af2b-246e963a4708_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠깐의 라이브!!]]></title>
-            <link>https://www.vlive.tv/video/277860</link>
-            <guid>https://www.vlive.tv/video/277860</guid>
-            <pubDate>Thu, 24 Feb 2022 12:59:21 GMT</pubDate>
-            <content:encoded><![CDATA[디크런치 (D_CRUNCH)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220224_2/1645712384124jzwGl_JPEG/d91121df-957a-11ec-a7bf-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

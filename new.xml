@@ -4,9 +4,24 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 16:57:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 17:43:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘은 목소리^^]]></title>
+            <link>https://www.vlive.tv/video/277880</link>
+            <guid>https://www.vlive.tv/video/277880</guid>
+            <pubDate>Thu, 24 Feb 2022 17:40:38 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[잠 못드는 밤에 (혼술 먹방)]]></title>
+            <link>https://www.vlive.tv/video/277879</link>
+            <guid>https://www.vlive.tv/video/277879</guid>
+            <pubDate>Thu, 24 Feb 2022 17:40:38 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220225_248/1645721918238uobcw_JPEG/1585974362127949620ca8858b-36db-407e-9162-4e8c849f2fa3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[🍀🍀🍀🍀🍀🍀🍀🍀🍀]]></title>
             <link>https://www.vlive.tv/video/277876</link>
@@ -391,22 +406,6 @@
             <pubDate>Thu, 24 Feb 2022 11:39:10 GMT</pubDate>
             <content:encoded><![CDATA[mydaily]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220224_232/1645699988899TEl1p_JPEG/upload_619695907268487785f29da2a-96c7-4679-9a34-ff597a64463b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘은 저랑 함께 할 시간🤙]]></title>
-            <link>https://www.vlive.tv/video/277838</link>
-            <guid>https://www.vlive.tv/video/277838</guid>
-            <pubDate>Thu, 24 Feb 2022 11:39:10 GMT</pubDate>
-            <content:encoded><![CDATA[MustB]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220224_75/1645699716376Bd9Yn_JPEG/1290111921178305031d1f810b-2f80-48dd-87f2-18753bfe834b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[하승리:Ha Seung Ri] 지우학 양궁선배의 멋진 포즈 '깜찍함 UP' (아는형님)]]></title>
-            <link>https://www.vlive.tv/video/277843</link>
-            <guid>https://www.vlive.tv/video/277843</guid>
-            <pubDate>Thu, 24 Feb 2022 11:39:10 GMT</pubDate>
-            <content:encoded><![CDATA[mydaily]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220224_123/1645699774499pSKQh_JPEG/upload_89779426166888141f28e26eb-43a2-4c51-9573-23ba99264c68.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

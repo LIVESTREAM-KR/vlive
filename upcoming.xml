@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 16:57:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 17:43:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -711,6 +711,22 @@
             <pubDate>Thu, 24 Feb 2022 15:45:16 GMT</pubDate>
             <content:encoded><![CDATA[오후 4:42]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220225_60/1645720942462icv3Y_JPEG/5748a345-9590-11ec-87d4-48df37ae3fca_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠 못드는 밤에 (혼술 먹방)]]></title>
+            <link>https://www.vlive.tv/video/277879</link>
+            <guid>https://www.vlive.tv/video/277879</guid>
+            <pubDate>Thu, 24 Feb 2022 17:41:43 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:58]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220225_248/1645721918238uobcw_JPEG/1585974362127949620ca8858b-36db-407e-9162-4e8c849f2fa3.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘은 목소리^^]]></title>
+            <link>https://www.vlive.tv/video/277880</link>
+            <guid>https://www.vlive.tv/video/277880</guid>
+            <pubDate>Thu, 24 Feb 2022 17:41:43 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:24]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/277880/thumb?type=f228_128" length="0" type="image//live/277880/thumb"/>
         </item>
     </channel>
 </rss>
