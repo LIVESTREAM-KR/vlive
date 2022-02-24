@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 10:44:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 11:41:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Sound K / TRADE L 트레이드 엘)]]></title>
-            <link>https://m.vlive.tv/video/276799</link>
-            <guid>https://m.vlive.tv/video/276799</guid>
-            <pubDate>Wed, 23 Feb 2022 03:42:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220210_71/16444892471825jnmV_JPEG/upload_885689130069421111b98dadc-3339-4586-9e9b-0bcebac1a096.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
             <link>https://m.vlive.tv/video/277383</link>
@@ -58,6 +48,16 @@
             <enclosure url="https://v-phinf.pstatic.net/20220223_135/1645599020320eG69y_JPEG/upload_61868611263993447c9e4ae5a-74b5-4ec2-9227-1cc43ceda114.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[쪼끔 늦은 💖이찬완댜님💖 생일파티로 초대합니다🥳]]></title>
+            <link>https://m.vlive.tv/video/277849</link>
+            <guid>https://m.vlive.tv/video/277849</guid>
+            <pubDate>Thu, 24 Feb 2022 11:40:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">다크비(DKB)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220224_81/1645700403872qcoQF_JPEG/upload_89779764682809567fcfe53d5-9298-4a1c-b641-8fd63c92eb89.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Arirang Radio] Topic Song with Aaron 아론 of W24 and BÉBE YANA]]></title>
             <link>https://m.vlive.tv/video/277391</link>
             <guid>https://m.vlive.tv/video/277391</guid>
@@ -76,6 +76,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220224_65/1645679216962F6bGj_JPEG/upload_61948803541994816b892dd71-8478-42ad-adb4-1af9ab438075.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Music Access / JWiiver 제이위버)]]></title>
+            <link>https://m.vlive.tv/video/277830</link>
+            <guid>https://m.vlive.tv/video/277830</guid>
+            <pubDate>Thu, 24 Feb 2022 11:40:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220224_147/1645698354881Bks0q_JPEG/upload_61967912697763242a779fec3-1110-458e-965a-7d0e20aff55a.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
