@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 02:55:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 03:44:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,26 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220224_147/1645698354881Bks0q_JPEG/upload_61967912697763242a779fec3-1110-458e-965a-7d0e20aff55a.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / Omega Sapien 오메가 사피엔)]]></title>
+            <link>https://m.vlive.tv/video/277831</link>
+            <guid>https://m.vlive.tv/video/277831</guid>
+            <pubDate>Fri, 25 Feb 2022 03:43:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220224_180/1645698434540A5Cla_JPEG/upload_8977810587286240040807014-a12b-40e4-9268-71bd6332bb31.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthew]]></title>
+            <link>https://m.vlive.tv/video/277794</link>
+            <guid>https://m.vlive.tv/video/277794</guid>
+            <pubDate>Fri, 25 Feb 2022 03:43:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220224_162/1645679021372NSBuJ_JPEG/upload_89758723126992139961a0341-cb55-43d1-944c-48ae9f4203b0.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
