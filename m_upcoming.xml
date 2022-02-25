@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 09:43:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 10:44:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[덥디 순간은 너였다]]></title>
-            <link>https://m.vlive.tv/video/277934</link>
-            <guid>https://m.vlive.tv/video/277934</guid>
-            <pubDate>Fri, 25 Feb 2022 09:42:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">청공소년 (Bz_Boys)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220225_162/16457820038042oDkH_JPEG/upload_6205113726310564158f7e4d7-c5b9-4acf-acd5-7d19037481c4.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[MCND 2nd ANNIVERSARY] 데뷔 2주년 축하해 ❤]]></title>
             <link>https://m.vlive.tv/video/277889</link>
@@ -106,6 +96,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220224_269/1645678802343Gjn29_JPEG/upload_89758505059061319e2caaaf6-e628-4719-a293-76694bf1e255.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / Jin Ah Lee 이진아)]]></title>
+            <link>https://m.vlive.tv/video/277457</link>
+            <guid>https://m.vlive.tv/video/277457</guid>
+            <pubDate>Fri, 25 Feb 2022 10:43:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										방송취소</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220218_210/1645190174441ppKXW_JPEG/upload_61459745502886793ee3308ff-2f90-4e38-a752-8723c3f89879.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
