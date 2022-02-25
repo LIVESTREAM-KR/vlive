@@ -4,9 +4,16 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 17:42:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 18:48:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새벽영광]]></title>
+            <link>https://www.vlive.tv/video/277972</link>
+            <guid>https://www.vlive.tv/video/277972</guid>
+            <pubDate>Fri, 25 Feb 2022 18:46:07 GMT</pubDate>
+            <content:encoded><![CDATA[VANNER (배너)]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[#OMRR 불금불금💛🐝🙌🏻]]></title>
             <link>https://www.vlive.tv/video/277970</link>
@@ -398,14 +405,6 @@
             <pubDate>Fri, 25 Feb 2022 10:42:37 GMT</pubDate>
             <content:encoded><![CDATA[루미너스 (LUMINOUS)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220224_223/1645673744443iqboz_JPEG/upload_8975342147090804313de53ef-087b-41b5-9326-6335efdfa8a4.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다시]]></title>
-            <link>https://www.vlive.tv/video/277928</link>
-            <guid>https://www.vlive.tv/video/277928</guid>
-            <pubDate>Fri, 25 Feb 2022 09:40:54 GMT</pubDate>
-            <content:encoded><![CDATA[MustB]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220225_246/1645781020478vc5Gq_JPEG/4475638707311422880069320-3ce1-4a7e-ae2e-22a51a4b5564.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
