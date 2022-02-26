@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Feb 2022 15:45:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 16:56:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[늦은 밤이네용]]></title>
+            <link>https://www.vlive.tv/video/278023</link>
+            <guid>https://www.vlive.tv/video/278023</guid>
+            <pubDate>Sat, 26 Feb 2022 16:54:13 GMT</pubDate>
+            <content:encoded><![CDATA[VICTON]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220227_291/1645891203790a4xfu_JPEG/158679595208072935bf5fd2d3-2554-4b97-b458-abdeb2a4e9c4.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[파자마 생일파티 올 쁠랑~~~?🎂🎉💖]]></title>
             <link>https://www.vlive.tv/video/278019</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 26 Feb 2022 13:39:06 GMT</pubDate>
             <content:encoded><![CDATA[VIXX]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220226_152/1645881084503LQIVU_JPEG/3949886077697161376447a6f-6509-4acc-9095-bc411764a257.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🎉승훈이의 생일파티에 초대합니다🎉]]></title>
-            <link>https://www.vlive.tv/video/277997</link>
-            <guid>https://www.vlive.tv/video/277997</guid>
-            <pubDate>Sat, 26 Feb 2022 11:39:38 GMT</pubDate>
-            <content:encoded><![CDATA[CIX]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220226_107/1645873293303CfUBW_JPEG/15866168300269119726f18272-86c8-4395-bddd-c4768829a9f9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

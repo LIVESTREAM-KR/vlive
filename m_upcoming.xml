@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Feb 2022 15:45:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 16:56:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,6 +26,16 @@
 										오전 9:00</span>
 										<span class="txt">다크비(DKB)</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220226_143/1645844606895fL2lo_JPEG/upload_89924208837609807a9f3e35b-65b0-47de-b443-310c7dad6c35.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🖤아서&무진&루이🖤]]></title>
+            <link>https://m.vlive.tv/video/278022</link>
+            <guid>https://m.vlive.tv/video/278022</guid>
+            <pubDate>Sat, 26 Feb 2022 16:55:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:30</span>
+										<span class="txt">KINGDOM</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220227_281/1645890928684bhOht_PNG/upload_62160385239401105c930d5e8-9a6d-470d-82a1-2f70d71a0003.png?type=f274_154" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
@@ -86,16 +96,6 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220224_162/1645679021372NSBuJ_JPEG/upload_89758723126992139961a0341-cb55-43d1-944c-48ae9f4203b0.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
-            <link>https://m.vlive.tv/video/277787</link>
-            <guid>https://m.vlive.tv/video/277787</guid>
-            <pubDate>Sat, 26 Feb 2022 11:40:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 2:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220224_67/1645678701464RCMjF_JPEG/upload_89758412094239758a4f408d9-2dd7-4232-af5d-ace347614660.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
