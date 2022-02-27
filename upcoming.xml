@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 17:42:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 18:47:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <pubDate>Sun, 27 Feb 2022 16:55:11 GMT</pubDate>
             <content:encoded><![CDATA[오후 5:07]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220228_216/16459816762626c7R2_JPEG/eaf79f90-97ee-11ec-b69c-a0369ff94ed0_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[진짜 잠 못드는 밤에]]></title>
+            <link>https://www.vlive.tv/video/278064</link>
+            <guid>https://www.vlive.tv/video/278064</guid>
+            <pubDate>Sun, 27 Feb 2022 18:46:09 GMT</pubDate>
+            <content:encoded><![CDATA[오후 6:44]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220228_220/16459874542749UV8K_JPEG/6803989281326756841252723-ab1b-4cb7-b44b-277a2484d2b5.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
