@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 04:50:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 05:41:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[MCND 2nd ANNIVERSARY] 데뷔 2주년 축하해 ❤]]></title>
-            <link>https://m.vlive.tv/video/277889</link>
-            <guid>https://m.vlive.tv/video/277889</guid>
-            <pubDate>Fri, 25 Feb 2022 02:54:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:27</span>
-										<span class="txt">MCND</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220225_196/1645756200587xoAlx_JPEG/upload_898357018900154266c9d27d5-1fb9-461c-ab5f-c20213ace990.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[🎂룬이 생일파티로 어여 오셔와요🎂]]></title>
             <link>https://m.vlive.tv/video/277976</link>
@@ -86,6 +76,16 @@
 										오전 4:00</span>
 										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220225_4/1645766207375uewgs_PNG/upload_62035786689954038f9478e8c-cee5-4246-87ec-873c9be2eec6.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[YOUNITE가 직접 전해드립니다🌲]]></title>
+            <link>https://m.vlive.tv/video/278027</link>
+            <guid>https://m.vlive.tv/video/278027</guid>
+            <pubDate>Sun, 27 Feb 2022 05:40:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">YOUNITE</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220227_239/16459344050582QNRk_JPEG/upload_900135458215064465c7fea5b-4914-4617-944d-351d8462013b.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
