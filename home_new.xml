@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 20:43:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 21:44:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[진짜 잠 못드는 밤에]]></title>
+            <link>https://www.vlive.tv/video/278064</link>
+            <guid>https://www.vlive.tv/video/278064</guid>
+            <pubDate>Sun, 27 Feb 2022 21:42:28 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220228_220/16459874542749UV8K_JPEG/6803989281326756841252723-ab1b-4cb7-b44b-277a2484d2b5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[찬이의 "방" 🐺 Ep.146]]></title>
             <link>https://www.vlive.tv/video/278059</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 27 Feb 2022 13:39:31 GMT</pubDate>
             <content:encoded><![CDATA[MAMAMOO]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220227_14/1645957872056Jl2eH_JPEG/upload_90037590127251636fcbb53ba-7562-4cc1-b00f-846b44be5f0c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WONHO 원호 'EYE ON YOU' Dance Practice]]></title>
-            <link>https://www.vlive.tv/video/278031</link>
-            <guid>https://www.vlive.tv/video/278031</guid>
-            <pubDate>Sun, 27 Feb 2022 20:41:19 GMT</pubDate>
-            <content:encoded><![CDATA[원호 (WONHO)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220227_106/1645948379030ryisc_JPEG/upload_9002809685604899402a44891-551f-44b5-ad50-b0ac22442f11.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
