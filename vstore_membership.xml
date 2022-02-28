@@ -4,7 +4,7 @@
         <title>V LIVE ─ STORE ─ MEMBERSHIP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 14:42:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 15:47:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,14 +104,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20210305_184/1614934486340xDQOS_JPEG/upload_59014221759728226cb4578f8-8830-4cf4-bb34-1b7db097bdb1.jpg?type=f389_195" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김세정 (KIM SE JEONG) OFFICIAL FANCLUB 1ST]]></title>
-            <link>https://www.vlive.tv/membership/152</link>
-            <guid>https://www.vlive.tv/membership/152</guid>
-            <pubDate>Thu, 02 Dec 2021 16:51:41 GMT</pubDate>
-            <content:encoded><![CDATA[세상(SESANG)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210222_147/1613977930574u5wlY_JPEG/upload_58057665999516013c0d63dd8-1420-4fe4-9d66-a3f563fab82d.jpg?type=f389_195" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[ITZY OFFICIAL FANCLUB MIDZY 1ST GENERATION]]></title>
             <link>https://www.vlive.tv/membership/151</link>
             <guid>https://www.vlive.tv/membership/151</guid>
@@ -126,6 +118,14 @@
             <pubDate>Mon, 24 Jan 2022 15:45:34 GMT</pubDate>
             <content:encoded><![CDATA[BABAL]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210106_74/16098999535642Ev1R_JPEG/upload_26169560626967405d2f3456d-1ac3-4164-93dd-6bc61049682d.jpg?type=f389_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ONEUS Official Fanclub 'TOMOON' 2nd]]></title>
+            <link>https://www.vlive.tv/membership/137</link>
+            <guid>https://www.vlive.tv/membership/137</guid>
+            <pubDate>Mon, 28 Feb 2022 15:46:32 GMT</pubDate>
+            <content:encoded><![CDATA[TOMOON]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20201223_233/1608716020533MWnX8_JPEG/upload_24985627590937417453749bd-1ffa-4ffc-9fb3-45da82f8ae73.jpg?type=f389_195" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
