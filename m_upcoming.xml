@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 13:01:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 13:42:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[It's ME, It's WE] UNBOXING LIVE]]></title>
-            <link>https://m.vlive.tv/video/278068</link>
-            <guid>https://m.vlive.tv/video/278068</guid>
-            <pubDate>Mon, 28 Feb 2022 02:53:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 1:00</span>
-										<span class="txt">TEMPEST (템페스트)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220228_230/1646014095223eywTn_JPEG/upload_6228319490120954117270006-afd9-4006-bbf7-08fbec147887.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[ASC Live Ep.512 (TO1 / 티오원)]]></title>
             <link>https://m.vlive.tv/video/277905</link>
@@ -86,6 +76,26 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220228_24/1646037245473BzV6p_JPEG/upload_62306734265125648966b10c6-b055-499c-acb9-3f797c4a0d8d.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[🔴공연 생중계]🎤 케빈킴 | 김마리 | 휘인]]></title>
+            <link>https://m.vlive.tv/video/278096</link>
+            <guid>https://m.vlive.tv/video/278096</guid>
+            <pubDate>Mon, 28 Feb 2022 13:41:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 9:00</span>
+										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220228_285/1646035295156l1UAj_PNG/upload_9011500789190054095e23ef8-dc1b-4c54-b52f-2261a1e1c07f.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[TEMPEST 1ST MINI ALBUM [It's ME, It's WE] SHOWCASE]]></title>
+            <link>https://m.vlive.tv/video/278067</link>
+            <guid>https://m.vlive.tv/video/278067</guid>
+            <pubDate>Mon, 28 Feb 2022 13:41:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">TEMPEST (템페스트)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220228_60/1646014007559WSDdu_JPEG/upload_9009345346146821814f51341-a213-490f-9f52-0494c821a150.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
