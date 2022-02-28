@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 05:41:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 06:50:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,15 @@
             <guid>https://www.vlive.tv/video/278078</guid>
             <pubDate>Mon, 28 Feb 2022 05:38:59 GMT</pubDate>
             <content:encoded><![CDATA[VERIVERY]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/278078/thumb?type=f228_128" length="0" type="image//live/278078/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220228_28/1646028342047Bdk3g_JPEG/e2f474a6-985b-11ec-a565-48df379ccacc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[weeek:live🎞] 2022 FEBRUARY.zip]]></title>
+            <link>https://www.vlive.tv/video/277925</link>
+            <guid>https://www.vlive.tv/video/277925</guid>
+            <pubDate>Mon, 28 Feb 2022 06:48:16 GMT</pubDate>
+            <content:encoded><![CDATA[Weeekly(위클리)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220225_47/1645780276354SvWcV_JPEG/upload_620498694583312576fdf0842-3899-494a-9f7f-814cbc5d5a86.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[제31회 서울가요대상 SMA 리액션캠] 오마이걸(OH MY GIRL), 임영웅(Lim Young woong) 수상 소감 reaction]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 28 Feb 2022 02:52:56 GMT</pubDate>
             <content:encoded><![CDATA[After School Club │ 애프터스쿨클럽]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220228_195/1646014200780IRvY1_PNG/upload_622837992005482085c118034-29d6-4d5b-9e1a-e05ac89130c5.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
-            <link>https://www.vlive.tv/video/277795</link>
-            <guid>https://www.vlive.tv/video/277795</guid>
-            <pubDate>Mon, 28 Feb 2022 01:49:43 GMT</pubDate>
-            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220224_65/1645679216962F6bGj_JPEG/upload_61948803541994816b892dd71-8478-42ad-adb4-1af9ab438075.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
