@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 15:47:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 16:59:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -488,20 +488,36 @@
             <enclosure url="https://v-phinf.pstatic.net/20220301_116/16460613660489TY4z_JPEG/b76f11fe-98a8-11ec-b19d-505dacfba98a_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[헤어밴드의 비밀 🤫]]></title>
-            <link>https://www.vlive.tv/video/278128</link>
-            <guid>https://www.vlive.tv/video/278128</guid>
-            <pubDate>Mon, 28 Feb 2022 15:46:12 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:27]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/278128/thumb?type=f228_128" length="0" type="image//live/278128/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[우리 얘기 좀 합시다 #132]]></title>
             <link>https://www.vlive.tv/video/278129</link>
             <guid>https://www.vlive.tv/video/278129</guid>
             <pubDate>Mon, 28 Feb 2022 15:46:12 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:40]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/278129/thumb?type=f228_128" length="0" type="image//live/278129/thumb"/>
+            <content:encoded><![CDATA[오후 4:02]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220301_296/1646064178838BPR7t_JPEG/b2b8ffa0-98af-11ec-8caf-a0369ff94f34_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TREASURE - [T.M.I] EP.22 ‘직진 (JIKJIN)’ DANCE PRACTICE Behind The Scenes]]></title>
+            <link>https://www.vlive.tv/video/278130</link>
+            <guid>https://www.vlive.tv/video/278130</guid>
+            <pubDate>Mon, 28 Feb 2022 16:58:23 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:03]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220301_123/1646064182119qkKuF_JPEG/upload_90143912775148113945be519-3377-4779-a287-f3c3165a855c.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오웅✋]]></title>
+            <link>https://www.vlive.tv/video/278131</link>
+            <guid>https://www.vlive.tv/video/278131</guid>
+            <pubDate>Mon, 28 Feb 2022 16:58:23 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:19]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/278131/thumb?type=f228_128" length="0" type="image//live/278131/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[헤어밴드의 비밀 🤫]]></title>
+            <link>https://www.vlive.tv/video/278128</link>
+            <guid>https://www.vlive.tv/video/278128</guid>
+            <pubDate>Mon, 28 Feb 2022 15:46:12 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:56]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220301_69/1646067372424NTwEK_JPEG/2226a3c3-98b6-11ec-92eb-48df379cca40_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
