@@ -4,9 +4,19 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 01:51:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 02:55:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[monday live]]></title>
+            <link>https://m.vlive.tv/video/278071</link>
+            <guid>https://m.vlive.tv/video/278071</guid>
+            <pubDate>Mon, 28 Feb 2022 02:53:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 3:00</span>
+										<span class="txt">sema</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220228_68/164601610404111Hfr_JPEG/upload_90095796615760914d3b90d43-48af-4f20-b253-4774a63bc73c.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Arirang Radio (Music Access / JWiiver 제이위버)]]></title>
             <link>https://m.vlive.tv/video/277830</link>
@@ -48,6 +58,16 @@
             <enclosure url="https://v-phinf.pstatic.net/20220224_180/1645698434540A5Cla_JPEG/upload_8977810587286240040807014-a12b-40e4-9268-71bd6332bb31.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[It's ME, It's WE] UNBOXING LIVE]]></title>
+            <link>https://m.vlive.tv/video/278068</link>
+            <guid>https://m.vlive.tv/video/278068</guid>
+            <pubDate>Mon, 28 Feb 2022 02:53:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 1:00</span>
+										<span class="txt">TEMPEST (템페스트)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220228_230/1646014095223eywTn_JPEG/upload_6228319490120954117270006-afd9-4006-bbf7-08fbec147887.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[ASC Live Ep.512 (TO1 / 티오원)]]></title>
             <link>https://m.vlive.tv/video/277905</link>
             <guid>https://m.vlive.tv/video/277905</guid>
@@ -76,26 +96,6 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220224_162/1645679021372NSBuJ_JPEG/upload_89758723126992139961a0341-cb55-43d1-944c-48ae9f4203b0.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
-            <link>https://m.vlive.tv/video/277787</link>
-            <guid>https://m.vlive.tv/video/277787</guid>
-            <pubDate>Sun, 27 Feb 2022 09:41:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 2:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220224_67/1645678701464RCMjF_JPEG/upload_89758412094239758a4f408d9-2dd7-4232-af5d-ace347614660.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Music Access] MA MVP with DANN of KINGDOM 킹덤 단]]></title>
-            <link>https://m.vlive.tv/video/277790</link>
-            <guid>https://m.vlive.tv/video/277790</guid>
-            <pubDate>Mon, 28 Feb 2022 01:50:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220224_269/1645678802343Gjn29_JPEG/upload_89758505059061319e2caaaf6-e628-4719-a293-76694bf1e255.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
