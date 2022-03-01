@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 15:46:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 16:58:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,14 +256,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220301_93/16461316802500GxnO_JPEG/upload_902113973912602885e51f197-76fa-4d66-8596-f08e7ecedf6a.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[새학기 준비 💗]]></title>
-            <link>https://www.vlive.tv/video/278163</link>
-            <guid>https://www.vlive.tv/video/278163</guid>
-            <pubDate>Tue, 01 Mar 2022 15:45:31 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:54]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/278163/thumb?type=f228_128" length="0" type="image//live/278163/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[KIM WOO SEOK (김우석) ‘3RD DESIRE [Reve]’ MOOD FILM : Bobbidi ver.]]></title>
             <link>https://www.vlive.tv/video/278086</link>
             <guid>https://www.vlive.tv/video/278086</guid>
@@ -296,12 +288,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20220301_117/1646141852456MwKu4_JPEG/upload_9022156828564380431d88afb-3f19-4d87-925c-2acd206851cc.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[새학기 준비 💗]]></title>
+            <link>https://www.vlive.tv/video/278163</link>
+            <guid>https://www.vlive.tv/video/278163</guid>
+            <pubDate>Tue, 01 Mar 2022 15:45:31 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:19]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220302_280/1646151558809uJXK9_JPEG/ae2e435a-997a-11ec-87d4-48df37ae3fca_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[새벽동🌗]]></title>
             <link>https://www.vlive.tv/video/278164</link>
             <guid>https://www.vlive.tv/video/278164</guid>
             <pubDate>Tue, 01 Mar 2022 15:45:31 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:16]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/278164/thumb?type=f228_128" length="0" type="image//live/278164/thumb"/>
+            <content:encoded><![CDATA[오후 4:27]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220302_281/1646152051762DIhqz_JPEG/131302e6-997c-11ec-8ff6-505dac8c385b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#OMRR 💛🐝🇰🇷]]></title>
+            <link>https://www.vlive.tv/video/278168</link>
+            <guid>https://www.vlive.tv/video/278168</guid>
+            <pubDate>Tue, 01 Mar 2022 16:57:38 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:51]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220302_151/1646153479648p2U3r_JPEG/159029078583157880df0b16bb-89e4-4a69-9e95-a253f3e0d149.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
