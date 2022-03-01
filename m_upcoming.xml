@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 08:46:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 09:43:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[아이반&자한&치우의 치킨 먹방🍗❤]]></title>
-            <link>https://m.vlive.tv/video/278102</link>
-            <guid>https://m.vlive.tv/video/278102</guid>
-            <pubDate>Mon, 28 Feb 2022 09:42:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 9:00</span>
-										<span class="txt">KINGDOM</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220228_63/1646037893586oasOC_PNG/upload_9011754190739931099dec3c8-4958-4672-b2d3-8a621ab0fb6f.png?type=f274_154" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[YOUNITE가 직접 전해드립니다🌲]]></title>
             <link>https://m.vlive.tv/video/278027</link>
@@ -96,6 +86,26 @@
 										오전 11:00</span>
 										<span class="txt">Cherry Bullet</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220223_202/1645585202603lluOz_JPEG/upload_61854044392015982975e7f8f-ff32-40e9-8322-280977be4636.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🎉HAPPY DAYEON DAY💜]]></title>
+            <link>https://m.vlive.tv/video/278134</link>
+            <guid>https://m.vlive.tv/video/278134</guid>
+            <pubDate>Tue, 01 Mar 2022 09:42:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Kep1er</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220301_159/1646107203367N7zuu_JPEG/upload_9018593925002621495ac4599-b785-4883-a5b9-64c46f0d08dc.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[하은] 하은이의 생일파티에 초대합니다🎂]]></title>
+            <link>https://m.vlive.tv/video/277890</link>
+            <guid>https://m.vlive.tv/video/277890</guid>
+            <pubDate>Tue, 01 Mar 2022 09:42:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 12:00</span>
+										<span class="txt">MAJOR9 (메이저나인)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220225_51/1645756212629Uzxrl_JPEG/upload_8983556499238161537bfc7a4-a69b-43e6-91ee-c9febac77d12.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>V LIVE 모바일 ─ CHARTS </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 08:46:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 09:43:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[머리가 많이 길었습니다]]></title>
+            <link>https://m.vlive.tv/video/278143</link>
+            <guid>https://m.vlive.tv/video/278143</guid>
+            <pubDate>Tue, 01 Mar 2022 09:41:48 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220301_247/1646126761899xtK3E_JPEG/upload_62396363549454618d4daa323-a118-48b0-a742-47c91781d0f6.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[도겸이의 심야책빵🍞]]></title>
             <link>https://m.vlive.tv/video/278126</link>
@@ -22,14 +30,6 @@
             <pubDate>Mon, 28 Feb 2022 16:58:09 GMT</pubDate>
             <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220228_230/1646014095223eywTn_JPEG/upload_6228319490120954117270006-afd9-4006-bbf7-08fbec147887.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TO DO X TOMORROW X TOGETHER - EP.73]]></title>
-            <link>https://m.vlive.tv/video/277551</link>
-            <guid>https://m.vlive.tv/video/277551</guid>
-            <pubDate>Mon, 28 Feb 2022 21:40:08 GMT</pubDate>
-            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220221_36/1645416918409FucFl_JPEG/upload_89496515491229465b904c712-9f0f-49a4-a739-d3d1e20db9be.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
