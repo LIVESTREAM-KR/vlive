@@ -4,9 +4,16 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 05:40:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 06:50:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[냠냠 😗]]></title>
+            <link>https://www.vlive.tv/video/278137</link>
+            <guid>https://www.vlive.tv/video/278137</guid>
+            <pubDate>Tue, 01 Mar 2022 06:48:05 GMT</pubDate>
+            <content:encoded><![CDATA[TO1]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 천적을 만난 김혜수 | 소년심판]]></title>
             <link>https://www.vlive.tv/video/277802</link>
@@ -398,14 +405,6 @@
             <pubDate>Mon, 28 Feb 2022 05:38:49 GMT</pubDate>
             <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220224_147/1645698354881Bks0q_JPEG/upload_61967912697763242a779fec3-1110-458e-965a-7d0e20aff55a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LINE VOOM에서 OSEN을 검색하세요! 세븐틴·NCT·스키즈→ITZY·아이브까지]]></title>
-            <link>https://www.vlive.tv/video/278080</link>
-            <guid>https://www.vlive.tv/video/278080</guid>
-            <pubDate>Tue, 01 Mar 2022 05:38:40 GMT</pubDate>
-            <content:encoded><![CDATA[OSEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220228_79/16460266958265sPlW_PNG/upload_90105799174703133324e7480-372d-4e2b-90c2-45f20ffdef5b.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
