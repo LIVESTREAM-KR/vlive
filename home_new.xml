@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 06:50:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 07:40:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,23 @@
             <guid>https://www.vlive.tv/video/278137</guid>
             <pubDate>Tue, 01 Mar 2022 06:48:13 GMT</pubDate>
             <content:encoded><![CDATA[TO1]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/278137/thumb?type=f228_128" length="0" type="image//live/278137/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220301_162/16461184220275PX3P_JPEG/6eef7f10-992d-11ec-8ff6-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[선공개] 패알못 조쌍둥이들을 위한 홍새로이 픽 코디🕶 '댄디 조'의 마음을 사로잡은 베스트 룩은?, MBC 220301 방송]]></title>
+            <link>https://www.vlive.tv/video/278141</link>
+            <guid>https://www.vlive.tv/video/278141</guid>
+            <pubDate>Tue, 01 Mar 2022 07:39:04 GMT</pubDate>
+            <content:encoded><![CDATA[MBC 예능]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220301_222/1646118345586YqV4q_JPEG/upload_62387948407364006b5ba8815-5299-4176-a44c-82cf31c0c02c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[선공개] 동생과 함께하기 위한 언니의 비책🌟 "1분당 만 원 줄게~", MBC 220301 방송]]></title>
+            <link>https://www.vlive.tv/video/278140</link>
+            <guid>https://www.vlive.tv/video/278140</guid>
+            <pubDate>Tue, 01 Mar 2022 07:39:04 GMT</pubDate>
+            <content:encoded><![CDATA[MBC 예능]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220301_291/1646118059242lDrTV_JPEG/upload_901977758328396462d81a59b-d689-4951-b58e-703f0f7a5897.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 천적을 만난 김혜수 | 소년심판]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 28 Feb 2022 12:58:51 GMT</pubDate>
             <content:encoded><![CDATA[woo!ah! (우아!)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220228_181/1646051185977YoogS_JPEG/1293626617295003200dd5d34f-ff48-47cf-9569-b7127a72e080.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠깐]]></title>
-            <link>https://www.vlive.tv/video/278122</link>
-            <guid>https://www.vlive.tv/video/278122</guid>
-            <pubDate>Mon, 28 Feb 2022 12:58:51 GMT</pubDate>
-            <content:encoded><![CDATA[멋진녀석들 (GreatGuys)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220228_71/1646052578686rYTpA_JPEG/1589281786739787969b54ecd8-5894-4276-b060-757fee210b16.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2월의 마지막 밤🌙]]></title>
-            <link>https://www.vlive.tv/video/278125</link>
-            <guid>https://www.vlive.tv/video/278125</guid>
-            <pubDate>Mon, 28 Feb 2022 13:40:46 GMT</pubDate>
-            <content:encoded><![CDATA[24K]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220228_135/1646056073787o2qjk_JPEG/d6e5d7a4-989c-11ec-baa2-a0369ff952f4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
