@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 10:44:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 11:40:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Cherry Bullet 2ND MINI ALBUM 'Cherry Wish' SHOWCASE]]></title>
-            <link>https://m.vlive.tv/video/277699</link>
-            <guid>https://m.vlive.tv/video/277699</guid>
-            <pubDate>Tue, 01 Mar 2022 04:50:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">Cherry Bullet</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220223_202/1645585202603lluOz_JPEG/upload_61854044392015982975e7f8f-ff32-40e9-8322-280977be4636.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🎉HAPPY DAYEON DAY💜]]></title>
-            <link>https://m.vlive.tv/video/278134</link>
-            <guid>https://m.vlive.tv/video/278134</guid>
-            <pubDate>Tue, 01 Mar 2022 09:42:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">Kep1er</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220301_159/1646107203367N7zuu_JPEG/upload_9018593925002621495ac4599-b785-4883-a5b9-64c46f0d08dc.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[하은] 하은이의 생일파티에 초대합니다🎂]]></title>
             <link>https://m.vlive.tv/video/277890</link>
@@ -96,6 +76,26 @@
 										오전 2:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220224_251/1645678732688x0ExN_JPEG/upload_89758449869255756d6bdf23a-5aab-4d04-ba4d-0275f54c9158.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Music Access / Rock Hyun 록현)]]></title>
+            <link>https://m.vlive.tv/video/277834</link>
+            <guid>https://m.vlive.tv/video/277834</guid>
+            <pubDate>Wed, 02 Mar 2022 11:39:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220224_242/1645698822661rGEu8_JPEG/upload_89778465542364924e5077ad6-5024-46dd-951e-d00b23c48084.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KIM WOO SEOK(김우석) 3RD DESIRE [Reve] SHOWCASE]]></title>
+            <link>https://m.vlive.tv/video/278066</link>
+            <guid>https://m.vlive.tv/video/278066</guid>
+            <pubDate>Wed, 02 Mar 2022 11:39:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">KIM WOO SEOK</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220228_20/1646025094263hFwok_JPEG/upload_622947013236338726da8c29e-7142-4741-b063-cc4a2bcfcceb.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
