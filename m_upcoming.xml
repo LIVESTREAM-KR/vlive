@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 04:51:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 05:41:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / Music Access] MA MVP with DANN of KINGDOM 킹덤 단]]></title>
-            <link>https://m.vlive.tv/video/277790</link>
-            <guid>https://m.vlive.tv/video/277790</guid>
-            <pubDate>Mon, 28 Feb 2022 10:44:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220224_269/1645678802343Gjn29_JPEG/upload_89758505059061319e2caaaf6-e628-4719-a293-76694bf1e255.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Super K-Pop / Peakboy 픽보이)]]></title>
             <link>https://m.vlive.tv/video/278100</link>
@@ -106,6 +96,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220224_142/1645678854019h4PEC_JPEG/upload_619484440636426364e93551e-4d18-455c-8e64-27e007c18681.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / B-Free 비프리)]]></title>
+            <link>https://m.vlive.tv/video/277833</link>
+            <guid>https://m.vlive.tv/video/277833</guid>
+            <pubDate>Wed, 02 Mar 2022 05:39:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220224_205/1645698724961b1lfW_JPEG/upload_8977826623855583564582c3d-23c0-4fc5-a069-e741471aac80.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
