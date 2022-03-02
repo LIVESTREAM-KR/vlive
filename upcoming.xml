@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 03:45:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 04:51:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,28 +88,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20220302_159/1646186465498H2Vvz_JPEG/upload_902661788368670619a12935a-88e3-41c2-8476-4ca0cd639158.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Hello]]></title>
-            <link>https://www.vlive.tv/video/278180</link>
-            <guid>https://www.vlive.tv/video/278180</guid>
-            <pubDate>Wed, 02 Mar 2022 02:56:52 GMT</pubDate>
-            <content:encoded><![CDATA[오전 2:43]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220302_45/1646189015758tP64k_JPEG/3980679204156687048c53589-cf37-4a59-9299-2f154751808c.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
             <link>https://www.vlive.tv/video/277787</link>
             <guid>https://www.vlive.tv/video/277787</guid>
             <pubDate>Wed, 02 Mar 2022 03:43:45 GMT</pubDate>
             <content:encoded><![CDATA[오전 2:59]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220224_67/1645678701464RCMjF_JPEG/upload_89758412094239758a4f408d9-2dd7-4232-af5d-ace347614660.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[점심시간이쟌]]></title>
-            <link>https://www.vlive.tv/video/278181</link>
-            <guid>https://www.vlive.tv/video/278181</guid>
-            <pubDate>Wed, 02 Mar 2022 03:43:45 GMT</pubDate>
-            <content:encoded><![CDATA[오전 3:02]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/278181/thumb?type=f228_128" length="0" type="image//live/278181/thumb"/>
         </item>
         <item>
             <title><![CDATA[여러분 신곡 발매 했어요!🥰]]></title>
@@ -124,8 +108,40 @@
             <link>https://www.vlive.tv/video/278170</link>
             <guid>https://www.vlive.tv/video/278170</guid>
             <pubDate>Wed, 02 Mar 2022 01:57:02 GMT</pubDate>
-            <content:encoded><![CDATA[오전 4:00]]></content:encoded>
+            <content:encoded><![CDATA[오전 3:50]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220302_50/16461804617919Pf7H_JPEG/upload_624500487712096987a5e7209-b7db-4d60-bad8-2fc7e60c2fd5.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[점심시간이쟌]]></title>
+            <link>https://www.vlive.tv/video/278181</link>
+            <guid>https://www.vlive.tv/video/278181</guid>
+            <pubDate>Wed, 02 Mar 2022 03:43:45 GMT</pubDate>
+            <content:encoded><![CDATA[오전 3:51]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220302_210/1646193063336dURJO_JPEG/5a84e96a-99db-11ec-a7bf-48df37ae3dc4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엔믹스:NMIXX] 규진(KYUJIN)·릴리(LILY)·해원(HAEWON) '두근두근 첫 라디오 출근길']]></title>
+            <link>https://www.vlive.tv/video/278184</link>
+            <guid>https://www.vlive.tv/video/278184</guid>
+            <pubDate>Wed, 02 Mar 2022 04:50:17 GMT</pubDate>
+            <content:encoded><![CDATA[오전 4:03]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220302_205/1646193807246qiwc3_JPEG/upload_902735372348753471e912790-ddca-47c6-8527-28ed428778b8.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['오늘은 봄의 여신' 레드벨벳 조이(REDVELVET JOY), 한결 가벼워진 '동물농장' 출근룩]]></title>
+            <link>https://www.vlive.tv/video/278185</link>
+            <guid>https://www.vlive.tv/video/278185</guid>
+            <pubDate>Wed, 02 Mar 2022 04:50:17 GMT</pubDate>
+            <content:encoded><![CDATA[오전 4:07]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220302_160/1646194059304xKyQB_JPEG/upload_90273775210698193c7c45d6c-4b7e-4ff0-adb7-7b93a99418e8.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hello]]></title>
+            <link>https://www.vlive.tv/video/278180</link>
+            <guid>https://www.vlive.tv/video/278180</guid>
+            <pubDate>Wed, 02 Mar 2022 02:56:52 GMT</pubDate>
+            <content:encoded><![CDATA[오전 4:35]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220302_45/1646189015758tP64k_JPEG/3980679204156687048c53589-cf37-4a59-9299-2f154751808c.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio / Music Access] MA MVP with DANN of KINGDOM 킹덤 단]]></title>
