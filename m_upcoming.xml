@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 14:42:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 15:44:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,26 @@
             <enclosure url="https://v-phinf.pstatic.net/20220224_242/1645698822661rGEu8_JPEG/upload_89778465542364924e5077ad6-5024-46dd-951e-d00b23c48084.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Arirang Radio (Music Access / Rocket Punch 로켓펀치)]]></title>
+            <link>https://m.vlive.tv/video/278259</link>
+            <guid>https://m.vlive.tv/video/278259</guid>
+            <pubDate>Wed, 02 Mar 2022 15:43:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220303_117/1646233636486G9gq2_JPEG/upload_90313284860668267a8ce23df-49ad-46bb-bc23-e50dbb956062.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / JWiiver 제이위버)]]></title>
+            <link>https://m.vlive.tv/video/278261</link>
+            <guid>https://m.vlive.tv/video/278261</guid>
+            <pubDate>Wed, 02 Mar 2022 15:43:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220303_101/1646233774923l5XGK_JPEG/upload_62503377753116717277d4b36-57b6-4426-a867-b2dbaf0a6d49.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[KIM WOO SEOK(김우석) 3RD DESIRE [Reve] SHOWCASE]]></title>
             <link>https://m.vlive.tv/video/278066</link>
             <guid>https://m.vlive.tv/video/278066</guid>
@@ -86,16 +106,6 @@
 										오전 11:00</span>
 										<span class="txt">KIM WOO SEOK</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220228_20/1646025094263hFwok_JPEG/upload_622947013236338726da8c29e-7142-4741-b063-cc4a2bcfcceb.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[mini monster Birthdaysetting 2!!!!]]></title>
-            <link>https://m.vlive.tv/video/272157</link>
-            <guid>https://m.vlive.tv/video/272157</guid>
-            <pubDate>Wed, 02 Mar 2022 13:00:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 3:00</span>
-										<span class="txt">sema</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211218_94/1639796711375GzQ8F_JPEG/upload_83876405217509231884b5a01-39a9-4367-9b92-da56781d7305.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
