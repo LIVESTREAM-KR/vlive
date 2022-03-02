@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 11:40:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 13:01:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[하은] 하은이의 생일파티에 초대합니다🎂]]></title>
-            <link>https://m.vlive.tv/video/277890</link>
-            <guid>https://m.vlive.tv/video/277890</guid>
-            <pubDate>Tue, 01 Mar 2022 09:42:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 12:00</span>
-										<span class="txt">MAJOR9 (메이저나인)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220225_51/1645756212629Uzxrl_JPEG/upload_8983556499238161537bfc7a4-a69b-43e6-91ee-c9febac77d12.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
             <link>https://m.vlive.tv/video/277792</link>
@@ -96,6 +86,16 @@
 										오전 11:00</span>
 										<span class="txt">KIM WOO SEOK</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220228_20/1646025094263hFwok_JPEG/upload_622947013236338726da8c29e-7142-4741-b063-cc4a2bcfcceb.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[mini monster Birthdaysetting 2!!!!]]></title>
+            <link>https://m.vlive.tv/video/272157</link>
+            <guid>https://m.vlive.tv/video/272157</guid>
+            <pubDate>Wed, 02 Mar 2022 13:00:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 3:00</span>
+										<span class="txt">sema</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211218_94/1639796711375GzQ8F_JPEG/upload_83876405217509231884b5a01-39a9-4367-9b92-da56781d7305.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
