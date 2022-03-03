@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 10:47:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 11:41:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Sound K / B-Free 비프리)]]></title>
-            <link>https://m.vlive.tv/video/277833</link>
-            <guid>https://m.vlive.tv/video/277833</guid>
-            <pubDate>Wed, 02 Mar 2022 05:39:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220224_205/1645698724961b1lfW_JPEG/upload_8977826623855583564582c3d-23c0-4fc5-a069-e741471aac80.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크나큰(KNK) 데뷔 6주년 LIVE🎉 | KNK 6th Anniversary❤]]></title>
-            <link>https://m.vlive.tv/video/278278</link>
-            <guid>https://m.vlive.tv/video/278278</guid>
-            <pubDate>Thu, 03 Mar 2022 03:00:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">크나큰(KNK)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220303_239/1646276404056FwqJj_JPEG/upload_625438579518288546f99f57d-d4bd-4886-b6dd-eec4d2e512e4.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
             <link>https://m.vlive.tv/video/277793</link>
@@ -76,6 +56,26 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220303_137/1646284057446dXKpb_JPEG/upload_903637426420806911423e2c3-013c-4fab-acf5-a9cfaf3517a2.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Music Access / Rocket Punch 로켓펀치)]]></title>
+            <link>https://m.vlive.tv/video/278259</link>
+            <guid>https://m.vlive.tv/video/278259</guid>
+            <pubDate>Thu, 03 Mar 2022 11:40:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220303_117/1646233636486G9gq2_JPEG/upload_90313284860668267a8ce23df-49ad-46bb-bc23-e50dbb956062.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / JWiiver 제이위버)]]></title>
+            <link>https://m.vlive.tv/video/278261</link>
+            <guid>https://m.vlive.tv/video/278261</guid>
+            <pubDate>Thu, 03 Mar 2022 11:40:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220303_101/1646233774923l5XGK_JPEG/upload_62503377753116717277d4b36-57b6-4426-a867-b2dbaf0a6d49.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
