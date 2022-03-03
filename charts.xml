@@ -4,17 +4,9 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 11:41:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 13:01:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[하이👋]]></title>
-            <link>https://www.vlive.tv/video/278232</link>
-            <guid>https://www.vlive.tv/video/278232</guid>
-            <pubDate>Wed, 02 Mar 2022 12:59:55 GMT</pubDate>
-            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220302_257/1646226896165lBGC0_JPEG/upload_9030662599140755503dd7706-f34b-4d30-85ca-270df1a1af8d.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[🤔사히 DAY🤔 기다렸다잉]]></title>
             <link>https://www.vlive.tv/video/278315</link>
@@ -32,12 +24,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20220301_247/1646126761899xtK3E_JPEG/upload_62396363549454618d4daa323-a118-48b0-a742-47c91781d0f6.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[🎉HAPPY DAYEON DAY💜]]></title>
-            <link>https://www.vlive.tv/video/278134</link>
-            <guid>https://www.vlive.tv/video/278134</guid>
+            <title><![CDATA[하이👋]]></title>
+            <link>https://www.vlive.tv/video/278232</link>
+            <guid>https://www.vlive.tv/video/278232</guid>
             <pubDate>Wed, 02 Mar 2022 12:59:55 GMT</pubDate>
-            <content:encoded><![CDATA[Kep1er]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220301_159/1646107203367N7zuu_JPEG/upload_9018593925002621495ac4599-b785-4883-a5b9-64c46f0d08dc.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220302_257/1646226896165lBGC0_JPEG/upload_9030662599140755503dd7706-f34b-4d30-85ca-270df1a1af8d.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[ #리아] 랴💗]]></title>
@@ -48,20 +40,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20220303_235/1646306098028FQWPo_PNG/upload_903858296797275652e3f36d8-1368-441d-8f0d-2d8f5d84be6b.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[TEMPEST 1ST MINI ALBUM [It's ME, It's WE] SHOWCASE]]></title>
-            <link>https://www.vlive.tv/video/278067</link>
-            <guid>https://www.vlive.tv/video/278067</guid>
-            <pubDate>Wed, 02 Mar 2022 11:39:12 GMT</pubDate>
-            <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220228_60/1646014007559WSDdu_JPEG/upload_9009345346146821814f51341-a213-490f-9f52-0494c821a150.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[TEMPEST DEBUT!😉]]></title>
             <link>https://www.vlive.tv/video/278240</link>
             <guid>https://www.vlive.tv/video/278240</guid>
             <pubDate>Thu, 03 Mar 2022 11:40:22 GMT</pubDate>
             <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220302_251/1646225733597FDCEf_JPEG/c400c78e-9a27-11ec-bbd8-d4f5ef5a9532_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수빈이의 티타임]]></title>
+            <link>https://www.vlive.tv/video/278213</link>
+            <guid>https://www.vlive.tv/video/278213</guid>
+            <pubDate>Thu, 03 Mar 2022 12:59:47 GMT</pubDate>
+            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220302_15/1646217222020ToCPA_JPEG/upload_90296934640783905f8768596-a441-41ff-94f7-1ad33a5dc6e3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뒷 부럼깨기 🌕]]></title>
+            <link>https://www.vlive.tv/video/277516</link>
+            <guid>https://www.vlive.tv/video/277516</guid>
+            <pubDate>Thu, 03 Mar 2022 12:59:47 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220220_76/1645344850354ieO8q_JPEG/upload_894245813504652155b965b1b-1e73-4fbb-9180-3ddc617f4493.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
