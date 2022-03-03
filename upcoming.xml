@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 15:46:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 16:59:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -621,7 +621,7 @@
             <guid>https://www.vlive.tv/video/278364</guid>
             <pubDate>Thu, 03 Mar 2022 13:41:43 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:52]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220303_176/1646315569691UB2eW_JPEG/577cdc08-9af8-11ec-aea6-d4f5ef58ac88_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220304_284/16463259248585iKBK_JPEG/upload_9040564284767055259fa74d2-36d0-497a-b382-d7e4acd628fb.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보고싶을까]]></title>
@@ -680,14 +680,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220303_166/1646312195160XNjkS_JPEG/upload_90391886599147212b517f9ca-6c61-4577-9828-681818eac324.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우리 얘기 좀 합시다 #133]]></title>
-            <link>https://www.vlive.tv/video/278373</link>
-            <guid>https://www.vlive.tv/video/278373</guid>
-            <pubDate>Thu, 03 Mar 2022 15:45:22 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:02]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/278373/thumb?type=f228_128" length="0" type="image//live/278373/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[진석이의 별빛라디오⭐️]]></title>
             <link>https://www.vlive.tv/video/278370</link>
             <guid>https://www.vlive.tv/video/278370</guid>
@@ -704,20 +696,36 @@
             <enclosure url="https://v-phinf.pstatic.net/20220303_50/1646314474562KIpjy_JPEG/1591028685672052600f8e12bc-84bb-4189-ba08-8eb1253f2267.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[잠깐 보이스!]]></title>
-            <link>https://www.vlive.tv/video/278374</link>
-            <guid>https://www.vlive.tv/video/278374</guid>
-            <pubDate>Thu, 03 Mar 2022 15:45:22 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:29]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220304_87/1646321372654ynAST_JPEG/159109742649347743d8eff971-9206-459e-a609-470ecff65bec.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[빱❕❗️]]></title>
             <link>https://www.vlive.tv/video/278371</link>
             <guid>https://www.vlive.tv/video/278371</guid>
             <pubDate>Thu, 03 Mar 2022 14:41:17 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:35]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220304_72/1646321731478HMsOI_JPEG/01928aca-9b07-11ec-baa2-a0369ff952f4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠깐 보이스!]]></title>
+            <link>https://www.vlive.tv/video/278374</link>
+            <guid>https://www.vlive.tv/video/278374</guid>
+            <pubDate>Thu, 03 Mar 2022 15:45:22 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:56]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220304_87/1646321372654ynAST_JPEG/159109742649347743d8eff971-9206-459e-a609-470ecff65bec.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리 얘기 좀 합시다 #133]]></title>
+            <link>https://www.vlive.tv/video/278373</link>
+            <guid>https://www.vlive.tv/video/278373</guid>
+            <pubDate>Thu, 03 Mar 2022 15:45:22 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:03]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220304_157/1646323415181s80oc_JPEG/c72c4c44-9b0a-11ec-a7bf-48df37ae3dc4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🍀X11]]></title>
+            <link>https://www.vlive.tv/video/278375</link>
+            <guid>https://www.vlive.tv/video/278375</guid>
+            <pubDate>Thu, 03 Mar 2022 16:58:16 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:12]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/278375/thumb?type=f228_128" length="0" type="image//live/278375/thumb"/>
         </item>
     </channel>
 </rss>
