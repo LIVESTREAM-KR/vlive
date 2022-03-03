@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 16:59:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 17:43:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,14 +32,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220303_235/1646306098028FQWPo_PNG/upload_903858296797275652e3f36d8-1368-441d-8f0d-2d8f5d84be6b.png?type=f380_213_wp" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[하이👋]]></title>
-            <link>https://www.vlive.tv/video/278232</link>
-            <guid>https://www.vlive.tv/video/278232</guid>
-            <pubDate>Wed, 02 Mar 2022 12:59:55 GMT</pubDate>
-            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220302_257/1646226896165lBGC0_JPEG/upload_9030662599140755503dd7706-f34b-4d30-85ca-270df1a1af8d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[SKZ VLOG] 창빈 : 돼끼의 꿀로그 4]]></title>
             <link>https://www.vlive.tv/video/278343</link>
             <guid>https://www.vlive.tv/video/278343</guid>
@@ -48,12 +40,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20220303_205/1646304432829pNduu_JPEG/upload_9038352677073984814a91071-c143-452e-8cfc-ed12aebf078b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뒷 부럼깨기 🌕]]></title>
-            <link>https://www.vlive.tv/video/277516</link>
-            <guid>https://www.vlive.tv/video/277516</guid>
-            <pubDate>Thu, 03 Mar 2022 12:59:47 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220220_76/1645344850354ieO8q_JPEG/upload_894245813504652155b965b1b-1e73-4fbb-9180-3ddc617f4493.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <title><![CDATA[하이👋]]></title>
+            <link>https://www.vlive.tv/video/278232</link>
+            <guid>https://www.vlive.tv/video/278232</guid>
+            <pubDate>Wed, 02 Mar 2022 12:59:55 GMT</pubDate>
+            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220302_257/1646226896165lBGC0_JPEG/upload_9030662599140755503dd7706-f34b-4d30-85ca-270df1a1af8d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[늦었네요 흐흐]]></title>
@@ -62,6 +54,14 @@
             <pubDate>Thu, 03 Mar 2022 14:40:48 GMT</pubDate>
             <content:encoded><![CDATA[Park Bo Young]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220303_45/1646312340915zxESJ_JPEG/1591879438947050570c4fba88-0f27-48f9-9d44-417f7a87b992.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뒷 부럼깨기 🌕]]></title>
+            <link>https://www.vlive.tv/video/277516</link>
+            <guid>https://www.vlive.tv/video/277516</guid>
+            <pubDate>Thu, 03 Mar 2022 12:59:47 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220220_76/1645344850354ieO8q_JPEG/upload_894245813504652155b965b1b-1e73-4fbb-9180-3ddc617f4493.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
