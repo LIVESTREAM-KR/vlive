@@ -4,9 +4,25 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 03:02:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 03:46:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Friday!]]></title>
+            <link>https://www.vlive.tv/video/278384</link>
+            <guid>https://www.vlive.tv/video/278384</guid>
+            <pubDate>Fri, 04 Mar 2022 03:44:05 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220304_190/1646362600254vBu5S_JPEG/upload_904422741698345929bdef219-f4a6-494d-8097-404279ba6c3e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
+            <link>https://www.vlive.tv/video/277788</link>
+            <guid>https://www.vlive.tv/video/277788</guid>
+            <pubDate>Fri, 04 Mar 2022 03:44:05 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220224_251/1645678732688x0ExN_JPEG/upload_89758449869255756d6bdf23a-5aab-4d04-ba4d-0275f54c9158.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[IMERA] EP.110 노스페이스 지면 광고 촬영 비하인드]]></title>
             <link>https://www.vlive.tv/video/278366</link>
@@ -390,22 +406,6 @@
             <pubDate>Thu, 03 Mar 2022 10:45:25 GMT</pubDate>
             <content:encoded><![CDATA[시그니처(cignature)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220302_232/1646228607932qhrYM_JPEG/upload_90308325699445518a8b83669-7352-425b-b22a-58fe96ae91ec.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지은데이 삼겹살파티🍴]]></title>
-            <link>https://www.vlive.tv/video/278330</link>
-            <guid>https://www.vlive.tv/video/278330</guid>
-            <pubDate>Thu, 03 Mar 2022 09:41:31 GMT</pubDate>
-            <content:encoded><![CDATA[Bling Bling]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220303_150/1646297937602lbW2Q_JPEG/159173466538610245e5ec28b9-8e0d-4024-903b-678c3e92a8ba.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼삼하니 날이 좋구만🌸]]></title>
-            <link>https://www.vlive.tv/video/278332</link>
-            <guid>https://www.vlive.tv/video/278332</guid>
-            <pubDate>Thu, 03 Mar 2022 10:45:25 GMT</pubDate>
-            <content:encoded><![CDATA[VERIVERY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220303_253/1646300581492GCHB0_JPEG/d55f0b17-9ad5-11ec-a12c-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

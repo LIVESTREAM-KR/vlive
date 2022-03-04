@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 03:02:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 03:46:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,14 +16,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220303_205/1646304432829pNduu_JPEG/upload_9038352677073984814a91071-c143-452e-8cfc-ed12aebf078b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[늦었네요 흐흐]]></title>
-            <link>https://www.vlive.tv/video/278363</link>
-            <guid>https://www.vlive.tv/video/278363</guid>
-            <pubDate>Thu, 03 Mar 2022 14:40:37 GMT</pubDate>
-            <content:encoded><![CDATA[Park Bo Young]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220303_45/1646312340915zxESJ_JPEG/1591879438947050570c4fba88-0f27-48f9-9d44-417f7a87b992.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[ENHYPEN (엔하이픈) 'EN-O'CLOCK' EP.27]]></title>
             <link>https://www.vlive.tv/video/278215</link>
             <guid>https://www.vlive.tv/video/278215</guid>
@@ -32,12 +24,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220302_230/1646212645661mRoUd_PNG/upload_624821841548351202093b3a0-8efa-4c39-aeea-91ad39fbf64d.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[뒷 부럼깨기 🌕]]></title>
-            <link>https://www.vlive.tv/video/277516</link>
-            <guid>https://www.vlive.tv/video/277516</guid>
-            <pubDate>Thu, 03 Mar 2022 12:59:37 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220220_76/1645344850354ieO8q_JPEG/upload_894245813504652155b965b1b-1e73-4fbb-9180-3ddc617f4493.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <title><![CDATA[늦었네요 흐흐]]></title>
+            <link>https://www.vlive.tv/video/278363</link>
+            <guid>https://www.vlive.tv/video/278363</guid>
+            <pubDate>Thu, 03 Mar 2022 14:40:37 GMT</pubDate>
+            <content:encoded><![CDATA[Park Bo Young]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220303_45/1646312340915zxESJ_JPEG/1591879438947050570c4fba88-0f27-48f9-9d44-417f7a87b992.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COVER] 승관 X 영지 - Juice (원곡 : Lizzo)]]></title>
+            <link>https://www.vlive.tv/video/278238</link>
+            <guid>https://www.vlive.tv/video/278238</guid>
+            <pubDate>Fri, 04 Mar 2022 03:44:30 GMT</pubDate>
+            <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220302_283/1646224630240llXAw_JPEG/upload_903043483002344804942eb0c-90b9-4bb1-ac51-ffc3e117470d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
