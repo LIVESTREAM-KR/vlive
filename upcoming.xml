@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 13:01:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 13:43:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -600,14 +600,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220304_153/1646395642960cdAlg_JPEG/1cd5afd5-9bb3-11ec-bbd8-d4f5ef5a9532_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[먹방할깡현?💜]]></title>
-            <link>https://www.vlive.tv/video/278450</link>
-            <guid>https://www.vlive.tv/video/278450</guid>
-            <pubDate>Fri, 04 Mar 2022 13:00:20 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:09]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/278450/thumb?type=f228_128" length="0" type="image//live/278450/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[Long time no see]]></title>
             <link>https://www.vlive.tv/video/278452</link>
             <guid>https://www.vlive.tv/video/278452</guid>
@@ -638,6 +630,22 @@
             <pubDate>Fri, 04 Mar 2022 13:00:20 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220304_179/1646389882942AjDSr_JPEG/upload_90469586679583628b98bed29-45f1-445f-b22f-1f85ee5ee79a.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[먹방할깡현?💜]]></title>
+            <link>https://www.vlive.tv/video/278450</link>
+            <guid>https://www.vlive.tv/video/278450</guid>
+            <pubDate>Fri, 04 Mar 2022 13:00:20 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:35]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220304_230/1646400915358KYnj1_JPEG/9622621f-9bbe-11ec-8a3e-505dac8c381b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나랑 같이 얘기하자~🙋‍♀️]]></title>
+            <link>https://www.vlive.tv/video/278455</link>
+            <guid>https://www.vlive.tv/video/278455</guid>
+            <pubDate>Fri, 04 Mar 2022 13:41:51 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:41]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220304_292/1646401303428iq0gv_JPEG/15927683237209528921fdc51d-d2ba-413e-9be7-4de8ac5e122e.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,17 +4,9 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 13:01:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 13:43:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[승민이의 소확행 EP.24 🐶]]></title>
-            <link>https://www.vlive.tv/video/278419</link>
-            <guid>https://www.vlive.tv/video/278419</guid>
-            <pubDate>Fri, 04 Mar 2022 09:41:37 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220304_128/1646386782711950v5_JPEG/upload_9046649993092544883e49487-de4f-459c-8aba-9bc51da8cc59.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[오프라인 0일차 🐰🦊🐻🐿🐧]]></title>
             <link>https://www.vlive.tv/video/278449</link>
@@ -22,6 +14,14 @@
             <pubDate>Fri, 04 Mar 2022 12:59:52 GMT</pubDate>
             <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220304_80/1646396481921OjDKB_JPEG/upload_904761986620841707213707e-738d-4432-91a8-ede313f1d3bc.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[승민이의 소확행 EP.24 🐶]]></title>
+            <link>https://www.vlive.tv/video/278419</link>
+            <guid>https://www.vlive.tv/video/278419</guid>
+            <pubDate>Fri, 04 Mar 2022 09:41:37 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220304_128/1646386782711950v5_JPEG/upload_9046649993092544883e49487-de4f-459c-8aba-9bc51da8cc59.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[머리가 많이 길었습니다]]></title>
@@ -48,20 +48,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220304_48/1646378877612unX0o_JPEG/233eafa3-9b8c-11ec-92eb-48df379cca40_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ENHYPEN (엔하이픈) 'EN-O'CLOCK' EP.27]]></title>
-            <link>https://www.vlive.tv/video/278215</link>
-            <guid>https://www.vlive.tv/video/278215</guid>
-            <pubDate>Thu, 03 Mar 2022 21:41:07 GMT</pubDate>
-            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220302_230/1646212645661mRoUd_PNG/upload_624821841548351202093b3a0-8efa-4c39-aeea-91ad39fbf64d.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[늦었네요 흐흐]]></title>
             <link>https://www.vlive.tv/video/278363</link>
             <guid>https://www.vlive.tv/video/278363</guid>
             <pubDate>Fri, 04 Mar 2022 11:39:11 GMT</pubDate>
             <content:encoded><![CDATA[Park Bo Young]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220303_45/1646312340915zxESJ_JPEG/1591879438947050570c4fba88-0f27-48f9-9d44-417f7a87b992.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COVER] 승관 X 영지 - Juice (원곡 : Lizzo)]]></title>
+            <link>https://www.vlive.tv/video/278238</link>
+            <guid>https://www.vlive.tv/video/278238</guid>
+            <pubDate>Fri, 04 Mar 2022 13:41:27 GMT</pubDate>
+            <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220302_283/1646224630240llXAw_JPEG/upload_903043483002344804942eb0c-90b9-4bb1-ac51-ffc3e117470d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
