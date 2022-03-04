@@ -4,17 +4,9 @@
         <title>V LIVE ─ 홈 ─ CHARTS TOP3</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 07:41:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 08:46:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[🤔사히 DAY🤔 기다렸다잉]]></title>
-            <link>https://www.vlive.tv/video/278315</link>
-            <guid>https://www.vlive.tv/video/278315</guid>
-            <pubDate>Thu, 03 Mar 2022 09:41:49 GMT</pubDate>
-            <content:encoded><![CDATA[TREASURE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220303_203/164629091458558dOp_JPEG/159079304271569689f6dfd610-402d-4ae4-8529-694d9ad85b01.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[머리가 많이 길었습니다]]></title>
             <link>https://www.vlive.tv/video/278143</link>
@@ -30,6 +22,14 @@
             <pubDate>Thu, 03 Mar 2022 13:40:55 GMT</pubDate>
             <content:encoded><![CDATA[ITZY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220303_235/1646306098028FQWPo_PNG/upload_903858296797275652e3f36d8-1368-441d-8f0d-2d8f5d84be6b.png?type=f380_213_wp" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[🤔사히 DAY🤔 기다렸다잉]]></title>
+            <link>https://www.vlive.tv/video/278315</link>
+            <guid>https://www.vlive.tv/video/278315</guid>
+            <pubDate>Thu, 03 Mar 2022 09:41:49 GMT</pubDate>
+            <content:encoded><![CDATA[TREASURE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220303_203/164629091458558dOp_JPEG/159079304271569689f6dfd610-402d-4ae4-8529-694d9ad85b01.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
