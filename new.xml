@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 16:58:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 17:42:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🍀X12]]></title>
+            <link>https://www.vlive.tv/video/278470</link>
+            <guid>https://www.vlive.tv/video/278470</guid>
+            <pubDate>Fri, 04 Mar 2022 17:40:32 GMT</pubDate>
+            <content:encoded><![CDATA[DAY6]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220305_108/1646414163569a6edN_JPEG/0b665929-9bdc-11ec-bef7-505dac8c38f5_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[LIVE] WONHO]]></title>
             <link>https://www.vlive.tv/video/278473</link>
@@ -398,14 +406,6 @@
             <pubDate>Fri, 04 Mar 2022 09:41:05 GMT</pubDate>
             <content:encoded><![CDATA[Ktimes]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220304_27/1646386006379EC6en_PNG/upload_626556095159744028c951efc-32e4-4fe4-a99a-21b9bec22e83.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[선공개]'초통령' 곽윤기의 코리안 분식 사랑😘❣️ 밥버거에 국화빵까지!🍔🤞, MBC 220304 방송]]></title>
-            <link>https://www.vlive.tv/video/278431</link>
-            <guid>https://www.vlive.tv/video/278431</guid>
-            <pubDate>Fri, 04 Mar 2022 09:41:05 GMT</pubDate>
-            <content:encoded><![CDATA[MBC 예능]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220304_57/1646385688709b5YMT_JPEG/5a8c732e-9b9c-11ec-aea6-d4f5ef58ac88_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
