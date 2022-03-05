@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 23:42:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 01:54:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인기탁호 영업 중 🌮]]></title>
+            <link>https://www.vlive.tv/video/278475</link>
+            <guid>https://www.vlive.tv/video/278475</guid>
+            <pubDate>Sat, 05 Mar 2022 01:52:03 GMT</pubDate>
+            <content:encoded><![CDATA[P1Harmony]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/278475/thumb?type=f228_128" length="0" type="image//live/278475/thumb"/>
+        </item>
         <item>
             <title><![CDATA[🍀X12]]></title>
             <link>https://www.vlive.tv/video/278470</link>
@@ -48,7 +56,7 @@
             <enclosure url="https://v-phinf.pstatic.net/20220305_52/1646410666121bE04I_JPEG/upload_62680269207560427dc7a115b-c210-4303-8587-fafcf430d614.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ㅎ]]></title>
+            <title><![CDATA[Heh]]></title>
             <link>https://www.vlive.tv/video/278467</link>
             <guid>https://www.vlive.tv/video/278467</guid>
             <pubDate>Fri, 04 Mar 2022 14:38:53 GMT</pubDate>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 04 Mar 2022 14:38:53 GMT</pubDate>
             <content:encoded><![CDATA[MBC 예능]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220304_19/1646402416522tAhRS_JPEG/upload_904821426109260798184de3e-9c0b-47d7-8f9b-64e1b2b59de7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Late night]]></title>
-            <link>https://www.vlive.tv/video/278453</link>
-            <guid>https://www.vlive.tv/video/278453</guid>
-            <pubDate>Fri, 04 Mar 2022 12:59:24 GMT</pubDate>
-            <content:encoded><![CDATA[VERIVERY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220304_196/1646402195866YmIKc_JPEG/c9f1726f-9bc1-11ec-8052-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
