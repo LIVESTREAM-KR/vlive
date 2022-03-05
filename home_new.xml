@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 03:44:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 04:51:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주말이니까🥳]]></title>
+            <link>https://www.vlive.tv/video/278482</link>
+            <guid>https://www.vlive.tv/video/278482</guid>
+            <pubDate>Sat, 05 Mar 2022 04:48:56 GMT</pubDate>
+            <content:encoded><![CDATA[EVERGLOW (에버글로우)]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/278482/thumb?type=f228_128" length="0" type="image//live/278482/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[[Behind] FANCLUB ‘RUBI’ 1st KIT]]></title>
+            <link>https://www.vlive.tv/video/278451</link>
+            <guid>https://www.vlive.tv/video/278451</guid>
+            <pubDate>Sat, 05 Mar 2022 04:48:56 GMT</pubDate>
+            <content:encoded><![CDATA[KWON EUN BI]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220304_275/1646396422796k1Y98_JPEG/upload_90475599500265563dd676177-f728-46df-b46d-bdc073bfa90c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[선공개] 신흥 음원 깡패💥 가수 이무진의 첫 리얼 예능 촬영기📸! "지금 머리 감을까요 이렇게 입고?", MBC 220305 방송]]></title>
             <link>https://www.vlive.tv/video/278479</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 04 Mar 2022 14:38:53 GMT</pubDate>
             <content:encoded><![CDATA[Busters X 버스터즈]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220304_292/1646401303428iq0gv_JPEG/15927683237209528921fdc51d-d2ba-413e-9be7-4de8ac5e122e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안뇽:)]]></title>
-            <link>https://www.vlive.tv/video/278465</link>
-            <guid>https://www.vlive.tv/video/278465</guid>
-            <pubDate>Fri, 04 Mar 2022 14:38:53 GMT</pubDate>
-            <content:encoded><![CDATA[SF9]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220304_16/1646405805039Wf3aL_JPEG/dc7b745b-9bca-11ec-b145-48df379cc9e4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일단 이렇게 하자]]></title>
-            <link>https://www.vlive.tv/video/278466</link>
-            <guid>https://www.vlive.tv/video/278466</guid>
-            <pubDate>Fri, 04 Mar 2022 14:38:53 GMT</pubDate>
-            <content:encoded><![CDATA[김세정 (KIM SEJEONG)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220304_53/1646403756376ua5zh_JPEG/129715232113204717b85fb7ea-40ca-40bd-bcfd-69cfa8c71b92.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,24 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 03:44:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 04:51:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[주말이니까🥳]]></title>
+            <link>https://www.vlive.tv/video/278482</link>
+            <guid>https://www.vlive.tv/video/278482</guid>
+            <pubDate>Sat, 05 Mar 2022 04:48:47 GMT</pubDate>
+            <content:encoded><![CDATA[EVERGLOW (에버글로우)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[Behind] FANCLUB ‘RUBI’ 1st KIT]]></title>
+            <link>https://www.vlive.tv/video/278451</link>
+            <guid>https://www.vlive.tv/video/278451</guid>
+            <pubDate>Sat, 05 Mar 2022 04:48:47 GMT</pubDate>
+            <content:encoded><![CDATA[KWON EUN BI]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220304_275/1646396422796k1Y98_JPEG/upload_90475599500265563dd676177-f728-46df-b46d-bdc073bfa90c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[선공개] 신흥 음원 깡패💥 가수 이무진의 첫 리얼 예능 촬영기📸! "지금 머리 감을까요 이렇게 입고?", MBC 220305 방송]]></title>
             <link>https://www.vlive.tv/video/278479</link>
@@ -390,22 +405,6 @@
             <pubDate>Fri, 04 Mar 2022 10:42:46 GMT</pubDate>
             <content:encoded><![CDATA[INMEDIA+]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220304_200/1646376937923GBPJ4_PNG/upload_904565842034179826c93661d-563b-4500-ac3d-c77984387b64.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[비투비 (BTOB) - 비투비의 힐링 라이프 '비툽세끼' I 예고편]]></title>
-            <link>https://www.vlive.tv/video/278088</link>
-            <guid>https://www.vlive.tv/video/278088</guid>
-            <pubDate>Fri, 04 Mar 2022 10:42:46 GMT</pubDate>
-            <content:encoded><![CDATA[BTOB]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220301_60/1646061082823DRirL_JPEG/upload_6233068771230035368077402-32a8-4d3b-b764-75cf454cac92.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노래]]></title>
-            <link>https://www.vlive.tv/video/278422</link>
-            <guid>https://www.vlive.tv/video/278422</guid>
-            <pubDate>Fri, 04 Mar 2022 08:43:55 GMT</pubDate>
-            <content:encoded><![CDATA[Golden Child]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220304_137/1646387703641Rql4M_JPEG/8a1aaf69-9ba0-11ec-ab19-d4f5ef5906a4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
