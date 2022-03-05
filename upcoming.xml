@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 04:51:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 05:40:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -61,7 +61,14 @@
             <guid>https://www.vlive.tv/video/278482</guid>
             <pubDate>Sat, 05 Mar 2022 04:49:45 GMT</pubDate>
             <content:encoded><![CDATA[오전 4:39]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/278482/thumb?type=f228_128" length="0" type="image//live/278482/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[HELLOOOOOO]]></title>
+            <link>https://www.vlive.tv/video/278483</link>
+            <guid>https://www.vlive.tv/video/278483</guid>
+            <pubDate>Sat, 05 Mar 2022 05:39:30 GMT</pubDate>
+            <content:encoded><![CDATA[오전 5:21]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220305_77/1646457715151jErnr_JPEG/1593332461467576749a318f21-fc2f-4f02-8260-8367bb071090.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HEILL Fall Winter 2022/2023]]></title>
