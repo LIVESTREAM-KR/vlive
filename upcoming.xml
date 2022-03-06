@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 11:41:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 12:59:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,14 +216,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220306_21/1646564873631a5NrI_JPEG/eb7821ba-9d3c-11ec-92eb-48df379cca40_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[찬이의 "방" 🐺 Ep.147]]></title>
-            <link>https://www.vlive.tv/video/278558</link>
-            <guid>https://www.vlive.tv/video/278558</guid>
-            <pubDate>Sun, 06 Mar 2022 11:40:18 GMT</pubDate>
-            <content:encoded><![CDATA[오전 11:12]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/278558/thumb?type=f228_128" length="0" type="image//live/278558/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[오랜만]]></title>
             <link>https://www.vlive.tv/video/278552</link>
             <guid>https://www.vlive.tv/video/278552</guid>
@@ -238,6 +230,22 @@
             <pubDate>Sun, 06 Mar 2022 11:40:18 GMT</pubDate>
             <content:encoded><![CDATA[오전 11:30]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220306_77/16465662373324fBpP_JPEG/6c06b84c-9d40-11ec-8cf9-a0369ff94ec8_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[속닥속닥]]></title>
+            <link>https://www.vlive.tv/video/278559</link>
+            <guid>https://www.vlive.tv/video/278559</guid>
+            <pubDate>Sun, 06 Mar 2022 12:57:49 GMT</pubDate>
+            <content:encoded><![CDATA[오후 12:33]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220306_79/1646570006818b731j_JPEG/1594456708045133648aff486a-6568-4e95-af56-1ef59e4e6163.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찬이의 "방" 🐺 Ep.147]]></title>
+            <link>https://www.vlive.tv/video/278558</link>
+            <guid>https://www.vlive.tv/video/278558</guid>
+            <pubDate>Sun, 06 Mar 2022 11:40:18 GMT</pubDate>
+            <content:encoded><![CDATA[오후 12:50]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220306_141/16465710195939gWXc_JPEG/5190e162-9d4b-11ec-b19d-505dacfba98a_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
