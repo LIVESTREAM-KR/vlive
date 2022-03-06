@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 15:44:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 16:56:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,13 +280,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220306_190/1646575059624V8yqV_JPEG/129886535417221731cebfdab1-cc56-4ea0-a438-7d4e6c7ac91f.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[마지막 주말을 배너 영광과 함께💙]]></title>
-            <link>https://www.vlive.tv/video/278570</link>
-            <guid>https://www.vlive.tv/video/278570</guid>
-            <pubDate>Sun, 06 Mar 2022 14:39:52 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:26]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[잠깐 라이브2]]></title>
             <link>https://www.vlive.tv/video/278563</link>
             <guid>https://www.vlive.tv/video/278563</guid>
@@ -309,22 +302,6 @@
             <pubDate>Sun, 06 Mar 2022 13:40:15 GMT</pubDate>
             <content:encoded><![CDATA[오후 2:35]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220306_19/1646577340986qtEeS_JPEG/1f5515be-9d5a-11ec-8a3e-505dac8c381b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[룸메즈🐿🐸　roommate🐿🐸]]></title>
-            <link>https://www.vlive.tv/video/278571</link>
-            <guid>https://www.vlive.tv/video/278571</guid>
-            <pubDate>Sun, 06 Mar 2022 14:39:52 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:37]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220306_113/1646577478007xsVJI_JPEG/159453077993870413e3e71ce0-47a8-4acf-8a2f-bcecd2a02d2f.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[들리뉘]]></title>
-            <link>https://www.vlive.tv/video/278573</link>
-            <guid>https://www.vlive.tv/video/278573</guid>
-            <pubDate>Sun, 06 Mar 2022 15:43:46 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:48]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220306_250/16465781227715ERXq_JPEG/129889598553303015e4dc660e-2776-41a0-b78b-63f7c7e036a6.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하이라이트(HIGHLIGHT) THE 1st FULL ALBUM [DAYDREAM] COMEBACK TRAILER]]></title>
@@ -373,6 +350,30 @@
             <pubDate>Sun, 06 Mar 2022 15:43:46 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:38]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220307_238/1646581091571otBfO_JPEG/a5844e94-9d62-11ec-8cf9-a0369ff94ec8_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[들리뉘]]></title>
+            <link>https://www.vlive.tv/video/278573</link>
+            <guid>https://www.vlive.tv/video/278573</guid>
+            <pubDate>Sun, 06 Mar 2022 15:43:46 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:13]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220306_250/16465781227715ERXq_JPEG/129889598553303015e4dc660e-2776-41a0-b78b-63f7c7e036a6.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마지막 주말을 배너 영광과 함께💙]]></title>
+            <link>https://www.vlive.tv/video/278570</link>
+            <guid>https://www.vlive.tv/video/278570</guid>
+            <pubDate>Sun, 06 Mar 2022 14:39:52 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:40]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220307_23/1646584828016sMz11_JPEG/585fcb97-9d6a-11ec-aea6-d4f5ef58ac88_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[룸메즈🐿🐸　roommate🐿🐸]]></title>
+            <link>https://www.vlive.tv/video/278571</link>
+            <guid>https://www.vlive.tv/video/278571</guid>
+            <pubDate>Sun, 06 Mar 2022 14:39:52 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:54]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220306_113/1646577478007xsVJI_JPEG/159453077993870413e3e71ce0-47a8-4acf-8a2f-bcecd2a02d2f.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
