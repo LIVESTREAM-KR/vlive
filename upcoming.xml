@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 12:59:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 13:41:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -246,6 +246,30 @@
             <pubDate>Sun, 06 Mar 2022 11:40:18 GMT</pubDate>
             <content:encoded><![CDATA[오후 12:50]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220306_141/16465710195939gWXc_JPEG/5190e162-9d4b-11ec-b19d-505dacfba98a_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나가면 케고생이야 실전편 - 00.사전인터뷰]]></title>
+            <link>https://www.vlive.tv/video/278539</link>
+            <guid>https://www.vlive.tv/video/278539</guid>
+            <pubDate>Sun, 06 Mar 2022 13:40:15 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220306_131/1646544004039ciEf4_JPEG/upload_906235787626370543d80b69d-4c8f-4841-a8f0-1d15985bf2dc.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하이]]></title>
+            <link>https://www.vlive.tv/video/278560</link>
+            <guid>https://www.vlive.tv/video/278560</guid>
+            <pubDate>Sun, 06 Mar 2022 13:40:15 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:00]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/278560/thumb?type=f228_128" length="0" type="image//live/278560/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[1004😇]]></title>
+            <link>https://www.vlive.tv/video/278561</link>
+            <guid>https://www.vlive.tv/video/278561</guid>
+            <pubDate>Sun, 06 Mar 2022 13:40:15 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:04]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/278561/thumb?type=f228_128" length="0" type="image//live/278561/thumb"/>
         </item>
     </channel>
 </rss>
