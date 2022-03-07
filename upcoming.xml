@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 15:45:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 17:01:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -568,14 +568,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220308_164/1646666038706Htoty_JPEG/52213092-9e28-11ec-94f6-246e963a49a8_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[good night🌙]]></title>
-            <link>https://www.vlive.tv/video/278650</link>
-            <guid>https://www.vlive.tv/video/278650</guid>
-            <pubDate>Mon, 07 Mar 2022 15:44:37 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:14]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/278650/thumb?type=f228_128" length="0" type="image//live/278650/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[鬼滅の刃二期-1話を見る 귀칼2-1화보기]]></title>
             <link>https://www.vlive.tv/video/278644</link>
             <guid>https://www.vlive.tv/video/278644</guid>
@@ -588,8 +580,24 @@
             <link>https://www.vlive.tv/video/278652</link>
             <guid>https://www.vlive.tv/video/278652</guid>
             <pubDate>Mon, 07 Mar 2022 15:44:37 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:17]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/278652/thumb?type=f228_128" length="0" type="image//live/278652/thumb"/>
+            <content:encoded><![CDATA[오후 4:05]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220308_274/16466691094318ueyn_JPEG/23ec7353-9e30-11ec-a7bf-48df37ae3dc4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[good night🌙]]></title>
+            <link>https://www.vlive.tv/video/278650</link>
+            <guid>https://www.vlive.tv/video/278650</guid>
+            <pubDate>Mon, 07 Mar 2022 15:44:37 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:18]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220308_213/1646669907398O5TNL_JPEG/ac6b9394-9e31-11ec-a12c-505dac8c3721_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CAME BACK 🐝]]></title>
+            <link>https://www.vlive.tv/video/278654</link>
+            <guid>https://www.vlive.tv/video/278654</guid>
+            <pubDate>Mon, 07 Mar 2022 17:00:03 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:24]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/278654/thumb?type=f228_128" length="0" type="image//live/278654/thumb"/>
         </item>
     </channel>
 </rss>
