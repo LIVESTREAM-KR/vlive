@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 06:50:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 07:41:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Super K-Pop / JWiiver 제이위버)]]></title>
-            <link>https://m.vlive.tv/video/278261</link>
-            <guid>https://m.vlive.tv/video/278261</guid>
-            <pubDate>Fri, 04 Mar 2022 02:03:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220303_101/1646233774923l5XGK_JPEG/upload_62503377753116717277d4b36-57b6-4426-a867-b2dbaf0a6d49.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[블리처스 (삼)백일장📝]]></title>
             <link>https://m.vlive.tv/video/278574</link>
@@ -96,6 +86,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220303_162/1646283758408Rawur_JPEG/upload_903634783021407304824ac5c-d92b-46f0-8b3d-8ca7ec0c6158.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop] Oh My K-POP with Samuel Seo 서사무엘]]></title>
+            <link>https://m.vlive.tv/video/278300</link>
+            <guid>https://m.vlive.tv/video/278300</guid>
+            <pubDate>Mon, 07 Mar 2022 07:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220303_136/1646283876974t4Y6F_JPEG/upload_62553467850423815948a870f-3aed-410a-9327-14c81fb105a9.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

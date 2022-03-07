@@ -4,9 +4,33 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 06:50:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 07:41:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[본습실 오늘의 곡 : Feelin' Like 💙]]></title>
+            <link>https://www.vlive.tv/video/278604</link>
+            <guid>https://www.vlive.tv/video/278604</guid>
+            <pubDate>Mon, 07 Mar 2022 07:39:03 GMT</pubDate>
+            <content:encoded><![CDATA[청공소년 (Bz_Boys)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220307_97/1646638430573EG4n9_JPEG/159513947556236089edf0f095-5da4-48f9-a4fe-4ea64064b760.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Music Access / Rocket Punch 로켓펀치)]]></title>
+            <link>https://www.vlive.tv/video/278259</link>
+            <guid>https://www.vlive.tv/video/278259</guid>
+            <pubDate>Mon, 07 Mar 2022 05:38:39 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220303_117/1646233636486G9gq2_JPEG/upload_90313284860668267a8ce23df-49ad-46bb-bc23-e50dbb956062.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / JWiiver 제이위버)]]></title>
+            <link>https://www.vlive.tv/video/278261</link>
+            <guid>https://www.vlive.tv/video/278261</guid>
+            <pubDate>Mon, 07 Mar 2022 07:39:03 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220303_101/1646233774923l5XGK_JPEG/upload_62503377753116717277d4b36-57b6-4426-a867-b2dbaf0a6d49.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[생존신고]]></title>
             <link>https://www.vlive.tv/video/278603</link>
@@ -78,14 +102,6 @@
             <pubDate>Mon, 07 Mar 2022 05:38:39 GMT</pubDate>
             <content:encoded><![CDATA[P1Harmony]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220307_141/1646619899086kw0me_JPEG/upload_9069962463911488277ebe483-c15a-4e40-8737-7e694d215b96.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arirang Radio (Music Access / Rocket Punch 로켓펀치)]]></title>
-            <link>https://www.vlive.tv/video/278259</link>
-            <guid>https://www.vlive.tv/video/278259</guid>
-            <pubDate>Mon, 07 Mar 2022 05:38:39 GMT</pubDate>
-            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220303_117/1646233636486G9gq2_JPEG/upload_90313284860668267a8ce23df-49ad-46bb-bc23-e50dbb956062.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Hello🤣🤣🤣🤣]]></title>
@@ -390,22 +406,6 @@
             <pubDate>Sun, 06 Mar 2022 09:39:45 GMT</pubDate>
             <content:encoded><![CDATA[VERIVERY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220306_119/16465612402565W3ns_JPEG/1fe53d66-9d34-11ec-a295-a0369ff968b0_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생존신고]]></title>
-            <link>https://www.vlive.tv/video/278548</link>
-            <guid>https://www.vlive.tv/video/278548</guid>
-            <pubDate>Sun, 06 Mar 2022 09:39:45 GMT</pubDate>
-            <content:encoded><![CDATA[YOUNHA]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220306_227/1646559793823Paqhv_JPEG/798ced58-9d31-11ec-bcec-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[죄쫜부꿔]]></title>
-            <link>https://www.vlive.tv/video/278549</link>
-            <guid>https://www.vlive.tv/video/278549</guid>
-            <pubDate>Sun, 06 Mar 2022 09:39:45 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220306_139/1646564852469umATq_JPEG/upload_62834456868792908bd79ed91-1919-43da-a833-0d79532207fd.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
