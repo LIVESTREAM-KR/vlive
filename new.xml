@@ -4,15 +4,24 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 02:57:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 03:45:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hello🤣🤣🤣🤣]]></title>
+            <link>https://www.vlive.tv/video/278585</link>
+            <guid>https://www.vlive.tv/video/278585</guid>
+            <pubDate>Mon, 07 Mar 2022 03:43:13 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220307_86/1646622346328tFuai_JPEG/159497883305150186bb95af39-95e0-4ab4-94db-3d93755f11ca.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[🐿오웅☀️]]></title>
             <link>https://www.vlive.tv/video/278581</link>
             <guid>https://www.vlive.tv/video/278581</guid>
             <pubDate>Mon, 07 Mar 2022 02:55:13 GMT</pubDate>
             <content:encoded><![CDATA[P1Harmony]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220307_155/16466220334078mV9k_JPEG/6bf83e6d-9dc2-11ec-be77-a0369ff963bc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[《예고》신곡 'CHIQUITA'로 돌아온 로켓펀치(Rocket Punch)가 ASC를 찾아온다~!! _ 513회]]></title>
@@ -397,14 +406,6 @@
             <pubDate>Sun, 06 Mar 2022 06:46:30 GMT</pubDate>
             <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220306_75/1646542475920QHYQH_JPEG/upload_906222037808887552d2ae33a-9cf7-4c0f-8154-81d4da0eb7da.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[ONEUS DIARY] in Lawrence | 2022 ONEUS TOUR BLOOD MOON]]></title>
-            <link>https://www.vlive.tv/video/278530</link>
-            <guid>https://www.vlive.tv/video/278530</guid>
-            <pubDate>Sun, 06 Mar 2022 06:46:30 GMT</pubDate>
-            <content:encoded><![CDATA[ONEUS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220306_175/1646543406264Xyhnt_JPEG/upload_90605174620149153ad4f22ce-d8b4-4e2d-b4bd-229c205bff89.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

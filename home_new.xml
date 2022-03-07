@@ -4,16 +4,24 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 02:57:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 03:45:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hello🤣🤣🤣🤣]]></title>
+            <link>https://www.vlive.tv/video/278585</link>
+            <guid>https://www.vlive.tv/video/278585</guid>
+            <pubDate>Mon, 07 Mar 2022 03:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220307_86/1646622346328tFuai_JPEG/159497883305150186bb95af39-95e0-4ab4-94db-3d93755f11ca.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[🐿오웅☀️]]></title>
             <link>https://www.vlive.tv/video/278581</link>
             <guid>https://www.vlive.tv/video/278581</guid>
             <pubDate>Mon, 07 Mar 2022 02:55:23 GMT</pubDate>
             <content:encoded><![CDATA[P1Harmony]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/278581/thumb?type=f228_128" length="0" type="image//live/278581/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220307_155/16466220334078mV9k_JPEG/6bf83e6d-9dc2-11ec-be77-a0369ff963bc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[《예고》신곡 'CHIQUITA'로 돌아온 로켓펀치(Rocket Punch)가 ASC를 찾아온다~!! _ 513회]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 06 Mar 2022 14:39:07 GMT</pubDate>
             <content:encoded><![CDATA[예린 (YERIN)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220307_39/1646579117756T3MlX_JPEG/96353a5f-9d5e-11ec-8cf9-a0369ff94ec8_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[(여자)아이들((G)I-DLE) - 1st Full Album "I NEVER DIE" Audio Snippet]]></title>
-            <link>https://www.vlive.tv/video/278569</link>
-            <guid>https://www.vlive.tv/video/278569</guid>
-            <pubDate>Sun, 06 Mar 2022 15:43:03 GMT</pubDate>
-            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220306_21/1646576688845O3DDa_JPEG/upload_9065637889331274005f97ce6-efb4-4e7a-9cc7-aae917fd7a1f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
