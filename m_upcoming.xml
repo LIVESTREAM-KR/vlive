@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 09:43:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 10:45:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[해피지룽데이✨]]></title>
-            <link>https://m.vlive.tv/video/278615</link>
-            <guid>https://m.vlive.tv/video/278615</guid>
-            <pubDate>Mon, 07 Mar 2022 11:39:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">윤지성 (YOON JISUNG)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220307_173/1646643600013NBqnE_JPEG/upload_9072296070094234569ae9240-6548-4538-ae90-875b8949be6c.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[툔TV📺 | 만들어보재윤 #1]]></title>
-            <link>https://m.vlive.tv/video/278623</link>
-            <guid>https://m.vlive.tv/video/278623</guid>
-            <pubDate>Mon, 07 Mar 2022 11:39:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">TO1</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220307_281/1646647202899FxmA1_JPEG/upload_907263945487277848b7e3610-41f5-4677-8c41-f9c9b93f74b9.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthew]]></title>
             <link>https://m.vlive.tv/video/278303</link>
@@ -78,6 +58,16 @@
             <enclosure url="https://v-phinf.pstatic.net/20220308_233/16467300132266Tzol_JPEG/upload_90808773777761015ee941b7c-832e-412c-a172-e9a71102d0e9.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[🎉 MEGAMAX VLIVE 🎉]]></title>
+            <link>https://m.vlive.tv/video/278703</link>
+            <guid>https://m.vlive.tv/video/278703</guid>
+            <pubDate>Tue, 08 Mar 2022 10:43:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 9:00</span>
+										<span class="txt">INMEDIA+</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220308_277/1646732758744zaLlQ_JPEG/upload_90812340285192292af170e99-5b25-459d-aa03-cea8568877d4.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
             <link>https://m.vlive.tv/video/278301</link>
             <guid>https://m.vlive.tv/video/278301</guid>
@@ -106,6 +96,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220303_234/1646283830593gsgFd_JPEG/upload_903635500626399767b0d437b-6876-4575-83f8-3c3bf3ad7928.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / Hiss 히스)]]></title>
+            <link>https://m.vlive.tv/video/278579</link>
+            <guid>https://m.vlive.tv/video/278579</guid>
+            <pubDate>Tue, 08 Mar 2022 10:43:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220307_125/1646616947309trymn_JPEG/upload_90696582474543978cca1602f-d8c1-4bf2-9dd5-9afef61ccc36.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
