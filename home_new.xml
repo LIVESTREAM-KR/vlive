@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 23:42:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 01:58:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
+            <link>https://www.vlive.tv/video/278308</link>
+            <guid>https://www.vlive.tv/video/278308</guid>
+            <pubDate>Wed, 09 Mar 2022 01:56:51 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220303_93/1646284203609Iw9lo_JPEG/upload_62553788636030192a4f515f3-d25e-4570-851b-10a256ccd7fd.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안녕 지은이 왔어요💖👋]]></title>
             <link>https://www.vlive.tv/video/278722</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 08 Mar 2022 13:01:00 GMT</pubDate>
             <content:encoded><![CDATA[UP10TION]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220308_287/1646744302070eMiML_JPEG/cdc76d96-9ede-11ec-8052-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다시...]]></title>
-            <link>https://www.vlive.tv/video/278699</link>
-            <guid>https://www.vlive.tv/video/278699</guid>
-            <pubDate>Tue, 08 Mar 2022 09:41:21 GMT</pubDate>
-            <content:encoded><![CDATA[EVERGLOW (에버글로우)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220308_243/1646739465271WFr1Q_JPEG/34e1da15-9ed2-11ec-a565-48df379ccacc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

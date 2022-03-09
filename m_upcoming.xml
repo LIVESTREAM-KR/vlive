@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 23:42:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 01:58:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthew]]></title>
-            <link>https://m.vlive.tv/video/278303</link>
-            <guid>https://m.vlive.tv/video/278303</guid>
-            <pubDate>Mon, 07 Mar 2022 11:39:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220303_37/1646283998869BLc5X_JPEG/upload_9036371965810420480bb8b6d-aa16-4bf1-b06d-4d1becadf1f8.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
-            <link>https://m.vlive.tv/video/278308</link>
-            <guid>https://m.vlive.tv/video/278308</guid>
-            <pubDate>Mon, 07 Mar 2022 11:39:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 2:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220303_93/1646284203609Iw9lo_JPEG/upload_62553788636030192a4f515f3-d25e-4570-851b-10a256ccd7fd.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio/K-Poppin'] Stylist Kim Joo Won 스타일리스트 김주원]]></title>
             <link>https://m.vlive.tv/video/278682</link>
@@ -106,6 +86,26 @@
 										오전 11:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220307_125/1646616947309trymn_JPEG/upload_90696582474543978cca1602f-d8c1-4bf2-9dd5-9afef61ccc36.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
+            <link>https://m.vlive.tv/video/278302</link>
+            <guid>https://m.vlive.tv/video/278302</guid>
+            <pubDate>Wed, 09 Mar 2022 01:57:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220303_92/1646283966297zAELw_JPEG/upload_9036368171202271858d358a5-32f6-4754-b204-f0a8cfce8ca9.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
+            <link>https://m.vlive.tv/video/278309</link>
+            <guid>https://m.vlive.tv/video/278309</guid>
+            <pubDate>Wed, 09 Mar 2022 01:57:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 2:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220303_169/1646284250364sDJGV_JPEG/upload_9036396731283181159daad2e-fae2-4e3f-9372-190e21f60331.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
