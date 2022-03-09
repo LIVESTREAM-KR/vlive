@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 03:45:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 04:51:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio/K-Poppin'] Stylist Kim Joo Won 스타일리스트 김주원]]></title>
-            <link>https://m.vlive.tv/video/278682</link>
-            <guid>https://m.vlive.tv/video/278682</guid>
-            <pubDate>Tue, 08 Mar 2022 07:40:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 4:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220308_27/1646724686490nKuWW_JPEG/upload_62994270685401827cc9073a2-04e2-4fff-aa62-ae6f17547fe8.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Super K-Pop / Ninety O One 9001)]]></title>
             <link>https://m.vlive.tv/video/278347</link>
@@ -96,16 +86,6 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220303_92/1646283966297zAELw_JPEG/upload_9036368171202271858d358a5-32f6-4754-b204-f0a8cfce8ca9.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Cine Factory]]]></title>
-            <link>https://m.vlive.tv/video/278309</link>
-            <guid>https://m.vlive.tv/video/278309</guid>
-            <pubDate>Wed, 09 Mar 2022 01:57:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 2:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220303_169/1646284250364sDJGV_JPEG/upload_9036396731283181159daad2e-fae2-4e3f-9372-190e21f60331.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
