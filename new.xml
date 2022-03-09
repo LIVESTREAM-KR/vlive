@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 17:43:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 18:48:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[💙잠들기전에 잠깐👽]]></title>
+            <link>https://www.vlive.tv/video/278763</link>
+            <guid>https://www.vlive.tv/video/278763</guid>
+            <pubDate>Wed, 09 Mar 2022 18:46:27 GMT</pubDate>
+            <content:encoded><![CDATA[AB6IX]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220310_127/1646847734195DmBu2_JPEG/e12e57d1-9fcf-11ec-8a3e-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새벽]]></title>
             <link>https://www.vlive.tv/video/278764</link>
@@ -398,14 +406,6 @@
             <pubDate>Wed, 09 Mar 2022 03:42:55 GMT</pubDate>
             <content:encoded><![CDATA[위아이 (WEi)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220308_9/1646742232851fECDD_JPEG/upload_908219629139556461baef9b6-4ac8-4f25-94ff-f90677b22c87.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[체리블렛(Cherry Bullet) - 2nd Mini Album [Cherry Wish] JK Making Film]]></title>
-            <link>https://www.vlive.tv/video/278710</link>
-            <guid>https://www.vlive.tv/video/278710</guid>
-            <pubDate>Wed, 09 Mar 2022 03:42:55 GMT</pubDate>
-            <content:encoded><![CDATA[Cherry Bullet]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220308_65/164673841277644YWI_JPEG/upload_9081813189064616024686d13-41aa-46b3-84f2-56caa595d2d6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

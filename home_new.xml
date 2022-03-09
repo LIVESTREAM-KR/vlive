@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 17:43:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 18:48:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[💙잠들기전에 잠깐👽]]></title>
+            <link>https://www.vlive.tv/video/278763</link>
+            <guid>https://www.vlive.tv/video/278763</guid>
+            <pubDate>Wed, 09 Mar 2022 18:46:35 GMT</pubDate>
+            <content:encoded><![CDATA[AB6IX]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220310_127/1646847734195DmBu2_JPEG/e12e57d1-9fcf-11ec-8a3e-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새벽]]></title>
             <link>https://www.vlive.tv/video/278764</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 09 Mar 2022 12:59:49 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220309_180/1646834363182QzBmp_JPEG/upload_631039627633648299d0a4501-cb43-45e7-9cae-e329cb91c6ae.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈욱 5분]]></title>
-            <link>https://www.vlive.tv/video/278749</link>
-            <guid>https://www.vlive.tv/video/278749</guid>
-            <pubDate>Wed, 09 Mar 2022 12:59:49 GMT</pubDate>
-            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220309_19/1646827984640byf9N_JPEG/ed9bbbb0-9fa1-11ec-8cf9-a0369ff94ec8_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
