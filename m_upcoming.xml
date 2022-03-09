@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 08:46:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 09:43:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[HAPPY STEVE DAY]]></title>
-            <link>https://m.vlive.tv/video/278692</link>
-            <guid>https://m.vlive.tv/video/278692</guid>
-            <pubDate>Tue, 08 Mar 2022 09:42:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 9:00</span>
-										<span class="txt">YOUNITE</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220308_233/16467300132266Tzol_JPEG/upload_90808773777761015ee941b7c-832e-412c-a172-e9a71102d0e9.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🎉 MEGAMAX VLIVE 🎉]]></title>
-            <link>https://m.vlive.tv/video/278703</link>
-            <guid>https://m.vlive.tv/video/278703</guid>
-            <pubDate>Tue, 08 Mar 2022 10:43:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 9:00</span>
-										<span class="txt">INMEDIA+</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220308_277/1646732758744zaLlQ_JPEG/upload_90812340285192292af170e99-5b25-459d-aa03-cea8568877d4.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
             <link>https://m.vlive.tv/video/278301</link>
@@ -106,6 +86,16 @@
 										오후 12:00</span>
 										<span class="txt">MAJOR9 (메이저나인)</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220307_192/1646626351023o4erS_JPEG/upload_62895928619774579ce1dce3d-147e-4fc1-ad0b-242656313316.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[mini monster Birthdaysetting 2!!!!]]></title>
+            <link>https://m.vlive.tv/video/272157</link>
+            <guid>https://m.vlive.tv/video/272157</guid>
+            <pubDate>Wed, 09 Mar 2022 09:42:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 3:00</span>
+										<span class="txt">sema</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211218_94/1639796711375GzQ8F_JPEG/upload_83876405217509231884b5a01-39a9-4367-9b92-da56781d7305.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
