@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 17:43:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 18:48:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 10 Mar 2022 15:45:52 GMT</pubDate>
             <content:encoded><![CDATA[NMIXX]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220310_262/1646923813096q5D4a_JPEG/be95a9e4-a080-11ec-9d42-d4f5ef58ad5e_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ENHYPEN (엔하이픈) 'EN-O'CLOCK' EP.28]]></title>
+            <link>https://www.vlive.tv/video/278683</link>
+            <guid>https://www.vlive.tv/video/278683</guid>
+            <pubDate>Thu, 10 Mar 2022 17:41:36 GMT</pubDate>
+            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220308_280/16467253447144KyVk_PNG/upload_62994922631276929ac492c0d-e8ee-4a06-91d2-0d3672d9ef1e.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[오래간만 단짝즈🐰🐻]]></title>
@@ -30,14 +38,6 @@
             <pubDate>Thu, 10 Mar 2022 14:39:57 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220309_72/1646834281646FWjgF_JPEG/upload_909139938864824200cb2bb84-97a7-432a-bef2-01eb2068ef07.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ENHYPEN (엔하이픈) 'EN-O'CLOCK' EP.28]]></title>
-            <link>https://www.vlive.tv/video/278683</link>
-            <guid>https://www.vlive.tv/video/278683</guid>
-            <pubDate>Thu, 10 Mar 2022 17:41:36 GMT</pubDate>
-            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220308_280/16467253447144KyVk_PNG/upload_62994922631276929ac492c0d-e8ee-4a06-91d2-0d3672d9ef1e.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
