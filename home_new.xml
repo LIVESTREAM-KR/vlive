@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 05:40:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 06:50:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이제 뭐든 하나 차려주세요...]]></title>
+            <link>https://www.vlive.tv/video/278796</link>
+            <guid>https://www.vlive.tv/video/278796</guid>
+            <pubDate>Thu, 10 Mar 2022 06:48:24 GMT</pubDate>
+            <content:encoded><![CDATA[OMEGA X (오메가엑스)]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/278796/thumb?type=f228_128" length="0" type="image//live/278796/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[오랜만😘]]></title>
+            <link>https://www.vlive.tv/video/278789</link>
+            <guid>https://www.vlive.tv/video/278789</guid>
+            <pubDate>Thu, 10 Mar 2022 06:48:24 GMT</pubDate>
+            <content:encoded><![CDATA[DRIPPIN]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/278789/thumb?type=f228_128" length="0" type="image//live/278789/thumb"/>
+        </item>
         <item>
             <title><![CDATA[[아임라이브] 이예준 '그날에 나는 맘이 편했을까' (Lee Ye-joon - On That Day)]]></title>
             <link>https://www.vlive.tv/video/278786</link>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 10 Mar 2022 03:02:34 GMT</pubDate>
             <content:encoded><![CDATA[넷플릭스 (Netflixkr)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220310_26/1646879807739sCCQr_JPEG/upload_909595160502332556209c136-4a54-4492-9fbb-8c33c935f956.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['포켓몬빵이 뭐길래?' BTS RM(방탄소년단 RM)도 "제발 더 팔아주세요"]]></title>
-            <link>https://www.vlive.tv/video/278768</link>
-            <guid>https://www.vlive.tv/video/278768</guid>
-            <pubDate>Thu, 10 Mar 2022 02:04:20 GMT</pubDate>
-            <content:encoded><![CDATA[mydaily]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220310_220/1646877765696QMslO_JPEG/upload_909574838338887225af67af5-b44f-490c-99a0-956d7db0106f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
-            <link>https://www.vlive.tv/video/278301</link>
-            <guid>https://www.vlive.tv/video/278301</guid>
-            <pubDate>Thu, 10 Mar 2022 02:04:20 GMT</pubDate>
-            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220303_226/1646283929440NOGdT_JPEG/upload_903636323618588284cae5d4f-f247-4739-975b-bbf2f94de78c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
