@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 10:44:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 11:40:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Sound K / Hiss 히스)]]></title>
-            <link>https://m.vlive.tv/video/278579</link>
-            <guid>https://m.vlive.tv/video/278579</guid>
-            <pubDate>Tue, 08 Mar 2022 10:43:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220307_125/1646616947309trymn_JPEG/upload_90696582474543978cca1602f-d8c1-4bf2-9dd5-9afef61ccc36.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
             <link>https://m.vlive.tv/video/278302</link>
@@ -106,6 +96,16 @@
 										오전 10:00</span>
 										<span class="txt">청공소년 (Bz_Boys)</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220310_73/1646902250658gc4l0_JPEG/upload_909818928402722904ff1f642-ab5f-4732-9b84-e770d1bceae6.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🎉HAPPY HIKARU DAY💜]]></title>
+            <link>https://m.vlive.tv/video/278791</link>
+            <guid>https://m.vlive.tv/video/278791</guid>
+            <pubDate>Thu, 10 Mar 2022 11:39:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Kep1er</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220310_234/16468920018067tSnX_JPEG/upload_90970925007665951ef7680a3-d0db-48d0-ab1a-7636b86471ca.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
