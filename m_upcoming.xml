@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 03:00:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 03:44:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[good morning]]></title>
-            <link>https://m.vlive.tv/video/278870</link>
-            <guid>https://m.vlive.tv/video/278870</guid>
-            <pubDate>Fri, 11 Mar 2022 02:59:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 3:00</span>
-										<span class="txt">sema</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220311_14/1646965864586rpfjk_JPEG/upload_9104557156358910430f1a0c5-63a8-4fe9-ba35-e5fac6b7c37d.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Simply K-Pop CON-TOUR (심플리케이팝 콘투어) Ep.510]]></title>
             <link>https://m.vlive.tv/video/278795</link>
@@ -106,6 +96,16 @@
 										오전 3:00</span>
 										<span class="txt">에이스(A.C.E)</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220310_252/1646906405681evr2e_JPEG/upload_9098561494751531671a7b294-b8de-40da-babd-224d23990826.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[승민이의 음악공방 #6 🎼🧰]]></title>
+            <link>https://m.vlive.tv/video/278806</link>
+            <guid>https://m.vlive.tv/video/278806</guid>
+            <pubDate>Fri, 11 Mar 2022 03:43:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 8:00</span>
+										<span class="txt">Golden Child</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220310_69/16468992066945Cr84_JPEG/upload_90978721623849931c046523a-d35c-4c4c-8c6b-985141693161.jpeg?type=f274_154" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
