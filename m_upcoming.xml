@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 10:45:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 11:41:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[HAPPY WHITE DAY 🤍]]></title>
-            <link>https://m.vlive.tv/video/278817</link>
-            <guid>https://m.vlive.tv/video/278817</guid>
-            <pubDate>Thu, 10 Mar 2022 09:42:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">EVERMORE ENTERTAINMENT</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220310_113/1646902801319F4x1X_JPEG/upload_90977349628773802dbe7b5d0-cedc-46f7-8a72-3e9d0ef0e9ed.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[포맨] 미리 만나는 포맨(4MEN) ‘화이트데이 특집’🍭]]></title>
             <link>https://m.vlive.tv/video/278586</link>
@@ -106,6 +96,16 @@
 										오전 10:00</span>
 										<span class="txt">손호영 Son Ho Young</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220310_89/16469069819134kK8e_JPEG/upload_909866497565126357c0e5bb8-db49-4be9-9632-320c1cf82de7.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
+            <link>https://m.vlive.tv/video/278881</link>
+            <guid>https://m.vlive.tv/video/278881</guid>
+            <pubDate>Fri, 11 Mar 2022 11:39:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220311_128/1646974932250xG2ti_JPEG/upload_63244520972887632cecc6371-a011-4d78-890b-402c552b1948.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

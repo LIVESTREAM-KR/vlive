@@ -4,11 +4,11 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 10:45:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 11:41:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[It's My Birthday]]></title>
+            <title><![CDATA[생일입니다]]></title>
             <link>https://www.vlive.tv/video/278718</link>
             <guid>https://www.vlive.tv/video/278718</guid>
             <pubDate>Tue, 08 Mar 2022 14:40:19 GMT</pubDate>
@@ -16,7 +16,7 @@
             <enclosure url="https://v-phinf.pstatic.net/20220308_55/1646749008253wD6Ux_JPEG/upload_908287260736608824ccc7c69-12c4-44da-920b-c0e293359e85.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[LIVE "N" COUNTDOWN!]]></title>
+            <title><![CDATA[생방송 'N' COUNTDOWN!]]></title>
             <link>https://www.vlive.tv/video/278850</link>
             <guid>https://www.vlive.tv/video/278850</guid>
             <pubDate>Thu, 10 Mar 2022 15:46:03 GMT</pubDate>
@@ -40,14 +40,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220311_119/1646988998178iwGEE_JPEG/17351969-a10f-11ec-ab19-d4f5ef5906a4_05.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Monday Man's extra Thursday shift😹]]></title>
-            <link>https://www.vlive.tv/video/278809</link>
-            <guid>https://www.vlive.tv/video/278809</guid>
-            <pubDate>Thu, 10 Mar 2022 09:42:10 GMT</pubDate>
-            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220310_167/1646904632953BQfzq_JPEG/upload_90984362222618999498d5eda-ea84-4487-bf58-df7c69a8c2b5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[ㅎㅇㅎㅇ]]></title>
             <link>https://www.vlive.tv/video/278914</link>
             <guid>https://www.vlive.tv/video/278914</guid>
@@ -56,12 +48,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220311_63/16469878013087kNBj_JPEG/1484e957-a116-11ec-8052-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[JwiJjwanBbooKkweoh2]]></title>
+            <title><![CDATA[죄쫜뿌꿔2]]></title>
             <link>https://www.vlive.tv/video/278550</link>
             <guid>https://www.vlive.tv/video/278550</guid>
             <pubDate>Sun, 06 Mar 2022 10:42:02 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220306_294/1646565957203ziENN_JPEG/upload_90645671130984292f768c6a6-e873-42ce-a39c-5eade3aaafc8.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[월남 목요일 추가근무😹]]></title>
+            <link>https://www.vlive.tv/video/278809</link>
+            <guid>https://www.vlive.tv/video/278809</guid>
+            <pubDate>Thu, 10 Mar 2022 09:42:10 GMT</pubDate>
+            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220310_167/1646904632953BQfzq_JPEG/upload_90984362222618999498d5eda-ea84-4487-bf58-df7c69a8c2b5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
