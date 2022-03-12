@@ -4,9 +4,25 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 06:49:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 07:41:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[판다들 뭐해요?]]></title>
+            <link>https://www.vlive.tv/video/278983</link>
+            <guid>https://www.vlive.tv/video/278983</guid>
+            <pubDate>Sat, 12 Mar 2022 05:39:53 GMT</pubDate>
+            <content:encoded><![CDATA[Apink]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220312_18/1647069300142fYahd_JPEG/d3320ed6-a1d2-11ec-8ff6-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주말🐥]]></title>
+            <link>https://www.vlive.tv/video/278981</link>
+            <guid>https://www.vlive.tv/video/278981</guid>
+            <pubDate>Sat, 12 Mar 2022 07:39:03 GMT</pubDate>
+            <content:encoded><![CDATA[핑크판타지 / PINKFANTASY]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220312_287/1647061475580x5ye2_JPEG/1598500115311076703048ddc2-37ea-4719-8387-abb0f49aa5ba.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오웅✌️]]></title>
             <link>https://www.vlive.tv/video/278980</link>
@@ -14,13 +30,6 @@
             <pubDate>Sat, 12 Mar 2022 06:47:17 GMT</pubDate>
             <content:encoded><![CDATA[P1Harmony]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220312_210/1647063835504aKXuq_JPEG/c06dcaba-a1c6-11ec-8052-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[판다들 뭐해요?]]></title>
-            <link>https://www.vlive.tv/video/278983</link>
-            <guid>https://www.vlive.tv/video/278983</guid>
-            <pubDate>Sat, 12 Mar 2022 05:39:53 GMT</pubDate>
-            <content:encoded><![CDATA[Apink]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[잠깐 놀자]]></title>
@@ -397,14 +406,6 @@
             <pubDate>Fri, 11 Mar 2022 11:38:39 GMT</pubDate>
             <content:encoded><![CDATA[TREASURE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220311_200/16469741677446Bf4V_JPEG/upload_63243749913091662a7a365c9-2c0e-4c04-bb0c-9999ce86fce9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Let's GHOST9] EP 07. 과자집 만들기 🍪🏡 (Making a cookie house)]]></title>
-            <link>https://www.vlive.tv/video/278871</link>
-            <guid>https://www.vlive.tv/video/278871</guid>
-            <pubDate>Fri, 11 Mar 2022 11:38:39 GMT</pubDate>
-            <content:encoded><![CDATA[GHOST9]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220311_238/16469663024855KjjJ_JPEG/upload_910459985994587562fb9f8ca-19db-48e3-ab36-8a04e02ffe91.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
