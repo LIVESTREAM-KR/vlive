@@ -4,9 +4,17 @@
         <title>V LIVE 모바일 ─ CHARTS </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 07:41:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 08:45:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리노리방🐱꿀벌!!]]></title>
+            <link>https://m.vlive.tv/video/278989</link>
+            <guid>https://m.vlive.tv/video/278989</guid>
+            <pubDate>Sat, 12 Mar 2022 08:44:15 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220312_112/1647073775940NAAa4_JPEG/b47678fd-a1dd-11ec-a565-48df379ccacc_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[생일입니다]]></title>
             <link>https://m.vlive.tv/video/278718</link>
@@ -22,14 +30,6 @@
             <pubDate>Fri, 11 Mar 2022 10:43:36 GMT</pubDate>
             <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220311_232/1646992664921P35XI_JPEG/40c1ad06-a121-11ec-ab19-d4f5ef5906a4_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ㅎㅇ]]></title>
-            <link>https://m.vlive.tv/video/278909</link>
-            <guid>https://m.vlive.tv/video/278909</guid>
-            <pubDate>Fri, 11 Mar 2022 15:45:50 GMT</pubDate>
-            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220311_119/1646988998178iwGEE_JPEG/17351969-a10f-11ec-ab19-d4f5ef5906a4_05.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
