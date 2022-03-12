@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 15:45:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 16:57:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -173,7 +173,7 @@
             <guid>https://www.vlive.tv/video/278996</guid>
             <pubDate>Sat, 12 Mar 2022 10:42:57 GMT</pubDate>
             <content:encoded><![CDATA[오전 10:50]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220312_174/1647082220721QmojO_JPEG/8c9aad40-a1f1-11ec-ab19-d4f5ef5906a4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220313_271/1647102397083d7F8Q_JPEG/8c9aad40-a1f1-11ec-ab19-d4f5ef5906a4_08.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Behind] 은비의 'ON AIR']]></title>
@@ -328,20 +328,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20220312_17/16470949287776Onr7_JPEG/791406ba-a20e-11ec-92eb-48df379cca40_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[#OMRR 아하하하🏴‍☠️🐝]]></title>
-            <link>https://www.vlive.tv/video/279018</link>
-            <guid>https://www.vlive.tv/video/279018</guid>
-            <pubDate>Sat, 12 Mar 2022 14:40:47 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:40]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220312_186/1647096020705DIa7n_JPEG/15997153769294934384fcfd97-9a15-4f05-9262-ddd681fe7a4e.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[KIHYUN 기현 'VOYAGER' Preview]]></title>
             <link>https://www.vlive.tv/video/278982</link>
             <guid>https://www.vlive.tv/video/278982</guid>
             <pubDate>Sat, 12 Mar 2022 15:44:09 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:00]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220312_134/1647063965659Qa8HT_JPEG/upload_6333355688987884998079259-ada7-4a47-9937-e874f302a319.jpg?type=f228_128" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220313_1/1647102275346OsvCh_JPEG/upload_9118169800587489185f87e81-17f8-4709-865a-698d05fc1acf.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NU'EST The Best Album 'Needle & Bubble' Official M/V Teaser 01]]></title>
@@ -400,12 +392,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20220313_138/1647099397189wb1ew_JPEG/aea89040-a218-11ec-b145-48df379cc9e4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[🥺]]></title>
+            <link>https://www.vlive.tv/video/279020</link>
+            <guid>https://www.vlive.tv/video/279020</guid>
+            <pubDate>Sat, 12 Mar 2022 16:55:56 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:17]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/279020/thumb?type=f228_128" length="0" type="image//live/279020/thumb"/>
+        </item>
+        <item>
             <title><![CDATA[늦은 밤이에요^^]]></title>
             <link>https://www.vlive.tv/video/279019</link>
             <guid>https://www.vlive.tv/video/279019</guid>
             <pubDate>Sat, 12 Mar 2022 15:44:09 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:42]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/279019/thumb?type=f228_128" length="0" type="image//live/279019/thumb"/>
+            <content:encoded><![CDATA[오후 4:30]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220313_216/16471026371243k08n_JPEG/0ce9c4fa-a221-11ec-bcec-505dac8c35ff_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#OMRR 아하하하🏴‍☠️🐝]]></title>
+            <link>https://www.vlive.tv/video/279018</link>
+            <guid>https://www.vlive.tv/video/279018</guid>
+            <pubDate>Sat, 12 Mar 2022 14:40:47 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:34]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220312_186/1647096020705DIa7n_JPEG/15997153769294934384fcfd97-9a15-4f05-9262-ddd681fe7a4e.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
