@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 03:44:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 04:52:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잠깐 놀자]]></title>
+            <link>https://www.vlive.tv/video/278978</link>
+            <guid>https://www.vlive.tv/video/278978</guid>
+            <pubDate>Sat, 12 Mar 2022 04:50:17 GMT</pubDate>
+            <content:encoded><![CDATA[OMEGA X (오메가엑스)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220312_58/1647057557390diP13_JPEG/159933221377450326b1a77e56-46ca-428e-9748-d12a057c9f1b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[THE M] 스윗소로우, 경선 "한 걸음(One Step)" M/V]]></title>
             <link>https://www.vlive.tv/video/278976</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 11 Mar 2022 15:45:12 GMT</pubDate>
             <content:encoded><![CDATA[MAMAMOO]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220311_105/1646986673331C55bl_JPEG/upload_632562719128362572290d275-b78c-4c92-98c2-1ec7f249d1cf.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NU'EST The Best Album 'Needle & Bubble' Pre-Listening]]></title>
-            <link>https://www.vlive.tv/video/278898</link>
-            <guid>https://www.vlive.tv/video/278898</guid>
-            <pubDate>Fri, 11 Mar 2022 15:45:12 GMT</pubDate>
-            <content:encoded><![CDATA[NU'EST]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220311_56/1646979362369q5Qr2_JPEG/upload_9105901997862462113bbc5fd-7837-4ca8-bea8-8afc5e80fe25.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
