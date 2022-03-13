@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 13:42:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 14:42:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,11 +216,19 @@
             <enclosure url="https://v-phinf.pstatic.net/20220313_134/1647177521403Xn1Gj_JPEG/ab4f17c2-a2cf-11ec-a4b8-d4f5ef590144_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[설아] 자기전에 zz]]></title>
+            <link>https://www.vlive.tv/video/279053</link>
+            <guid>https://www.vlive.tv/video/279053</guid>
+            <pubDate>Sun, 13 Mar 2022 14:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:02]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/279053/thumb?type=f228_128" length="0" type="image//live/279053/thumb"/>
+        </item>
+        <item>
             <title><![CDATA[HAPPY CHAERIN DAY🎉]]></title>
             <link>https://www.vlive.tv/video/279052</link>
             <guid>https://www.vlive.tv/video/279052</guid>
             <pubDate>Sun, 13 Mar 2022 13:41:00 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:30]]></content:encoded>
+            <content:encoded><![CDATA[오후 2:06]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220313_122/16471782153538iBLu_JPEG/160053829325306091f3ea57c0-d834-40c8-8119-63f8db2a0a0c.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
