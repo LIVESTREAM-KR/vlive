@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 06:51:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 07:41:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,14 +24,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220311_190/1646998765078mLnW4_JPEG/upload_91078491074293654d1c90aa8-c349-4f62-ae13-7e7452fb2fbb.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[DOMO HBD]]></title>
-            <link>https://www.vlive.tv/video/279026</link>
-            <guid>https://www.vlive.tv/video/279026</guid>
-            <pubDate>Sun, 13 Mar 2022 06:50:03 GMT</pubDate>
-            <content:encoded><![CDATA[오전 6:02]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/279026/thumb?type=f228_128" length="0" type="image//live/279026/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[🥳DOMO HBD🥳]]></title>
             <link>https://www.vlive.tv/video/279025</link>
             <guid>https://www.vlive.tv/video/279025</guid>
@@ -46,6 +38,14 @@
             <pubDate>Sun, 13 Mar 2022 05:53:46 GMT</pubDate>
             <content:encoded><![CDATA[오전 6:06]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220313_294/1647148263307fRx9J_JPEG/159936799239028823422b5cd4-98e3-4b46-8655-ba2104525f5c.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비가 온다 흑🌧]]></title>
+            <link>https://www.vlive.tv/video/279030</link>
+            <guid>https://www.vlive.tv/video/279030</guid>
+            <pubDate>Sun, 13 Mar 2022 07:39:45 GMT</pubDate>
+            <content:encoded><![CDATA[오전 7:23]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/279030/thumb?type=f228_128" length="0" type="image//live/279030/thumb"/>
         </item>
     </channel>
 </rss>
