@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 07:41:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 08:45:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,8 +44,32 @@
             <link>https://www.vlive.tv/video/279030</link>
             <guid>https://www.vlive.tv/video/279030</guid>
             <pubDate>Sun, 13 Mar 2022 07:39:45 GMT</pubDate>
-            <content:encoded><![CDATA[오전 7:23]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/279030/thumb?type=f228_128" length="0" type="image//live/279030/thumb"/>
+            <content:encoded><![CDATA[오전 7:45]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220313_76/1647157554454aE9iS_JPEG/6bcec534-a2a1-11ec-8ff6-505dac8c385b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DOMO HBD]]></title>
+            <link>https://www.vlive.tv/video/279026</link>
+            <guid>https://www.vlive.tv/video/279026</guid>
+            <pubDate>Sun, 13 Mar 2022 08:44:08 GMT</pubDate>
+            <content:encoded><![CDATA[오전 7:46]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220313_205/1647157590521UkUf8_JPEG/50a2db54-a2a0-11ec-92eb-48df379cca40_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[❤️1/3 5주년 🏃‍♀️🏃‍♀️🏃‍♀️🏃‍♀️]]></title>
+            <link>https://www.vlive.tv/video/279032</link>
+            <guid>https://www.vlive.tv/video/279032</guid>
+            <pubDate>Sun, 13 Mar 2022 08:44:08 GMT</pubDate>
+            <content:encoded><![CDATA[오전 8:09]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/279032/thumb?type=f228_128" length="0" type="image//live/279032/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[댄스윗갓 막방🎉]]></title>
+            <link>https://www.vlive.tv/video/279033</link>
+            <guid>https://www.vlive.tv/video/279033</guid>
+            <pubDate>Sun, 13 Mar 2022 08:44:08 GMT</pubDate>
+            <content:encoded><![CDATA[오전 8:15]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/279033/thumb?type=f228_128" length="0" type="image//live/279033/thumb"/>
         </item>
     </channel>
 </rss>
