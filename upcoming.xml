@@ -4,15 +4,23 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 04:54:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 05:55:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해피배쑴데이❤️🐰]]></title>
+            <link>https://www.vlive.tv/video/279024</link>
+            <guid>https://www.vlive.tv/video/279024</guid>
+            <pubDate>Sun, 13 Mar 2022 05:53:46 GMT</pubDate>
+            <content:encoded><![CDATA[오전 5:11]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220313_294/1647148263307fRx9J_JPEG/159936799239028823422b5cd4-98e3-4b46-8655-ba2104525f5c.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[🐧]]></title>
             <link>https://www.vlive.tv/video/279022</link>
             <guid>https://www.vlive.tv/video/279022</guid>
             <pubDate>Sun, 13 Mar 2022 04:53:26 GMT</pubDate>
-            <content:encoded><![CDATA[오전 4:26]]></content:encoded>
+            <content:encoded><![CDATA[오전 5:32]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220313_158/1647145603612H5vvs_JPEG/159933997606347342fd82b91f-4dec-489e-a20f-eddb26b2ba89.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
