@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ CHARTS TOP3</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 10:44:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 11:41:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[희플리]]></title>
+            <link>https://www.vlive.tv/video/279039</link>
+            <guid>https://www.vlive.tv/video/279039</guid>
+            <pubDate>Sun, 13 Mar 2022 11:39:41 GMT</pubDate>
+            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220313_277/1647169144622Xh1Yb_JPEG/3e1ef442-a2bc-11ec-8052-505dacfbaa5c_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Stray Kids(스트레이 키즈) ＜ODDINARY＞ UNVEIL : TRACK 3 "땡"]]></title>
             <link>https://www.vlive.tv/video/279003</link>
@@ -22,14 +30,6 @@
             <pubDate>Sat, 12 Mar 2022 12:57:47 GMT</pubDate>
             <content:encoded><![CDATA[Kep1er]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220310_234/16468920018067tSnX_JPEG/upload_90970925007665951ef7680a3-d0db-48d0-ab1a-7636b86471ca.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생일입니다]]></title>
-            <link>https://www.vlive.tv/video/278718</link>
-            <guid>https://www.vlive.tv/video/278718</guid>
-            <pubDate>Sun, 13 Mar 2022 09:40:50 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220308_55/1646749008253wD6Ux_JPEG/upload_908287260736608824ccc7c69-12c4-44da-920b-c0e293359e85.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
