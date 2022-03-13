@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 21:42:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 22:42:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,6 +36,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220311_36/1646999748665A2jQw_JPEG/upload_91079415673168254268708ce-57e6-46ac-abe2-65e990697024.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / Billlie 빌리)]]></title>
+            <link>https://m.vlive.tv/video/279058</link>
+            <guid>https://m.vlive.tv/video/279058</guid>
+            <pubDate>Sun, 13 Mar 2022 22:41:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220314_111/1647210382301cjumf_JPEG/upload_91290097846102504bd1e914c-1ec1-4499-83ca-27655bcdf2ba.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[승민이의 음악공방 #6 🎼🧰]]></title>
@@ -86,16 +96,6 @@
 										오전 11:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220311_177/1647000763478dhfxe_JPEG/upload_632702939777163752c779dbd-8a0f-47a4-adf1-1ed8e46b2def.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
-            <link>https://m.vlive.tv/video/278881</link>
-            <guid>https://m.vlive.tv/video/278881</guid>
-            <pubDate>Sat, 12 Mar 2022 01:46:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220311_128/1646974932250xG2ti_JPEG/upload_63244520972887632cecc6371-a011-4d78-890b-402c552b1948.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
