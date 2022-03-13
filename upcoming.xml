@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 15:45:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 16:57:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -232,14 +232,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220313_23/1647182870206wyqnf_JPEG/15997118120108363794a6cf8b-65b7-444f-8154-2072f579f257.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[막방 기념 먹방 태환]]></title>
-            <link>https://www.vlive.tv/video/279055</link>
-            <guid>https://www.vlive.tv/video/279055</guid>
-            <pubDate>Sun, 13 Mar 2022 15:44:10 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:59]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220313_2/1647183543655TxceQ_JPEG/1599719376546467900c43303e-f649-4151-8d82-4498b79e2772.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[KIHYUN 기현 'VOYAGER' Teaser #2]]></title>
             <link>https://www.vlive.tv/video/278984</link>
             <guid>https://www.vlive.tv/video/278984</guid>
@@ -288,20 +280,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20220313_207/1647165857104TwToK_JPEG/upload_9124068346212868874a309c0-0c74-4d80-ade1-4a3175ef5d53.jpeg?type=f228_128" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[밤 산책]]></title>
-            <link>https://www.vlive.tv/video/279057</link>
-            <guid>https://www.vlive.tv/video/279057</guid>
-            <pubDate>Sun, 13 Mar 2022 15:44:10 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:00]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220314_113/1647183628489pvRnY_JPEG/159972002422259087a8cafc25-1b40-4b0b-9eed-5a7786d7297e.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[설아] 자기전에 zz]]></title>
             <link>https://www.vlive.tv/video/279053</link>
             <guid>https://www.vlive.tv/video/279053</guid>
             <pubDate>Sun, 13 Mar 2022 14:41:00 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:01]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220314_285/16471836912583gPzB_JPEG/0ca1751b-a2de-11ec-8a3e-505dac8c381b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밤 산책]]></title>
+            <link>https://www.vlive.tv/video/279057</link>
+            <guid>https://www.vlive.tv/video/279057</guid>
+            <pubDate>Sun, 13 Mar 2022 15:44:10 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:50]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220314_113/1647183628489pvRnY_JPEG/159972002422259087a8cafc25-1b40-4b0b-9eed-5a7786d7297e.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[막방 기념 먹방 태환]]></title>
+            <link>https://www.vlive.tv/video/279055</link>
+            <guid>https://www.vlive.tv/video/279055</guid>
+            <pubDate>Sun, 13 Mar 2022 15:44:10 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220313_2/1647183543655TxceQ_JPEG/1599719376546467900c43303e-f649-4151-8d82-4498b79e2772.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
