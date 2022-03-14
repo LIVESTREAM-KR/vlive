@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 05:09:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 05:54:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,15 @@
             <guid>https://www.vlive.tv/video/279088</guid>
             <pubDate>Mon, 14 Mar 2022 05:07:58 GMT</pubDate>
             <content:encoded><![CDATA[N.Flying]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/279088/thumb?type=f228_128" length="0" type="image//live/279088/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220314_26/1647236777466oVw1N_JPEG/8d0144e4-a359-11ec-92eb-48df379cca40_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 타이거 앤 버니 2 | 메인 예고편]]></title>
+            <link>https://www.vlive.tv/video/279091</link>
+            <guid>https://www.vlive.tv/video/279091</guid>
+            <pubDate>Mon, 14 Mar 2022 05:52:29 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스 (Netflixkr)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220314_99/1647235441973YJqA5_JPEG/upload_9131510749762088640d60b8b-8dfc-46eb-b603-deda8a1b7d33.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Arirang Radio (Sound K / CRAXY 크랙시)]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 14 Mar 2022 03:45:29 GMT</pubDate>
             <content:encoded><![CDATA[Weeekly(위클리)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220311_86/1646980142872IOMaI_PNG/upload_910598698586513916c4670ff-1924-4409-9478-1d5d26021451.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[예고] 화려한 공격의 진수 FC 액셔니스타와 빈틈없는 조직력 FC 탑걸의 매치! #골때리는그녀들 #ShootingStars]]></title>
-            <link>https://www.vlive.tv/video/279073</link>
-            <guid>https://www.vlive.tv/video/279073</guid>
-            <pubDate>Mon, 14 Mar 2022 02:56:57 GMT</pubDate>
-            <content:encoded><![CDATA[SBS 예능]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220314_219/1647226406518N6JcH_JPEG/upload_634959873403014690fd9dc2b-8c12-4182-9923-6dc769b34bcc.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
