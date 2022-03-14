@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 03:47:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 05:09:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Sound K / CRAXY 크랙시)]]></title>
-            <link>https://m.vlive.tv/video/278946</link>
-            <guid>https://m.vlive.tv/video/278946</guid>
-            <pubDate>Fri, 11 Mar 2022 13:00:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220311_36/1646999748665A2jQw_JPEG/upload_91079415673168254268708ce-57e6-46ac-abe2-65e990697024.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Super K-Pop / Billlie 빌리)]]></title>
             <link>https://m.vlive.tv/video/279058</link>
@@ -96,6 +86,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220311_128/1646974932250xG2ti_JPEG/upload_63244520972887632cecc6371-a011-4d78-890b-402c552b1948.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ASC Live Ep.514 (TEMPEST / 템페스트)]]></title>
+            <link>https://m.vlive.tv/video/278904</link>
+            <guid>https://m.vlive.tv/video/278904</guid>
+            <pubDate>Mon, 14 Mar 2022 05:08:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220311_100/1646982839709y0H16_PNG/upload_91062534788585698c564594c-4d44-4c5e-9739-8630a2fa19c2.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
