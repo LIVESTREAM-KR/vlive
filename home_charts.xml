@@ -4,17 +4,9 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 13:02:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 13:44:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[희플리]]></title>
-            <link>https://www.vlive.tv/video/279039</link>
-            <guid>https://www.vlive.tv/video/279039</guid>
-            <pubDate>Mon, 14 Mar 2022 11:40:06 GMT</pubDate>
-            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220313_277/1647169144622Xh1Yb_JPEG/3e1ef442-a2bc-11ec-8052-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[WAWN]]></title>
             <link>https://www.vlive.tv/video/279124</link>
@@ -22,6 +14,14 @@
             <pubDate>Mon, 14 Mar 2022 11:40:06 GMT</pubDate>
             <content:encoded><![CDATA[ITZY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220314_159/1647255275192aHa7d_JPEG/70ddb069-a384-11ec-8d48-d4f5ef58ad5e_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[희플리]]></title>
+            <link>https://www.vlive.tv/video/279039</link>
+            <guid>https://www.vlive.tv/video/279039</guid>
+            <pubDate>Mon, 14 Mar 2022 11:40:06 GMT</pubDate>
+            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220313_277/1647169144622Xh1Yb_JPEG/3e1ef442-a2bc-11ec-8052-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[생일입니다]]></title>
