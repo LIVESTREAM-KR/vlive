@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 03:45:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 04:52:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,23 @@
             <guid>https://www.vlive.tv/video/279180</guid>
             <pubDate>Tue, 15 Mar 2022 03:43:39 GMT</pubDate>
             <content:encoded><![CDATA[UP10TION]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/279180/thumb?type=f228_128" length="0" type="image//live/279180/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220315_224/16473181993651TFc0_JPEG/42d04064-a417-11ec-9d80-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ASC Live Ep.514 (TEMPEST / 템페스트)]]></title>
+            <link>https://www.vlive.tv/video/278904</link>
+            <guid>https://www.vlive.tv/video/278904</guid>
+            <pubDate>Tue, 15 Mar 2022 04:50:22 GMT</pubDate>
+            <content:encoded><![CDATA[After School Club │ 애프터스쿨클럽]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220311_100/1646982839709y0H16_PNG/upload_91062534788585698c564594c-4d44-4c5e-9739-8630a2fa19c2.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[브레이브걸스(Brave Girls) - 'Thank You' 안무영상]]></title>
+            <link>https://www.vlive.tv/video/279171</link>
+            <guid>https://www.vlive.tv/video/279171</guid>
+            <pubDate>Tue, 15 Mar 2022 04:50:22 GMT</pubDate>
+            <content:encoded><![CDATA[브레이브걸스(Brave Girls)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220315_154/1647311134498KEutg_JPEG/upload_635806958236169543ec29b88-2f3a-4af3-900e-6bf6451a841f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[생존신고2]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 14 Mar 2022 22:41:36 GMT</pubDate>
             <content:encoded><![CDATA[MBC 예능]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220314_195/1647265384104OhW4I_JPEG/upload_91345104688736473f4ed9122-3b64-472d-a38b-ea2291b1f711.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#OMRR 다시다시🐝🌽]]></title>
-            <link>https://www.vlive.tv/video/279163</link>
-            <guid>https://www.vlive.tv/video/279163</guid>
-            <pubDate>Mon, 14 Mar 2022 17:00:03 GMT</pubDate>
-            <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220315_143/1647280664839Ipzdr_JPEG/8634545d-a3bf-11ec-bc77-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#OMRR I’M BACK 💛🐝🤭]]></title>
-            <link>https://www.vlive.tv/video/279162</link>
-            <guid>https://www.vlive.tv/video/279162</guid>
-            <pubDate>Mon, 14 Mar 2022 17:00:03 GMT</pubDate>
-            <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220315_173/1647274675319VVvjy_JPEG/160063069321035355b24e40b0-391a-42eb-9257-c9085ef84a85.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

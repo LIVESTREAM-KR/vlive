@@ -4,7 +4,7 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 03:45:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 04:52:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,23 @@
             <guid>https://www.vlive.tv/video/279180</guid>
             <pubDate>Tue, 15 Mar 2022 03:43:31 GMT</pubDate>
             <content:encoded><![CDATA[UP10TION]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220315_224/16473181993651TFc0_JPEG/42d04064-a417-11ec-9d80-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ASC Live Ep.514 (TEMPEST / 템페스트)]]></title>
+            <link>https://www.vlive.tv/video/278904</link>
+            <guid>https://www.vlive.tv/video/278904</guid>
+            <pubDate>Tue, 15 Mar 2022 04:50:14 GMT</pubDate>
+            <content:encoded><![CDATA[After School Club │ 애프터스쿨클럽]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220311_100/1646982839709y0H16_PNG/upload_91062534788585698c564594c-4d44-4c5e-9739-8630a2fa19c2.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[브레이브걸스(Brave Girls) - 'Thank You' 안무영상]]></title>
+            <link>https://www.vlive.tv/video/279171</link>
+            <guid>https://www.vlive.tv/video/279171</guid>
+            <pubDate>Tue, 15 Mar 2022 04:50:14 GMT</pubDate>
+            <content:encoded><![CDATA[브레이브걸스(Brave Girls)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220315_154/1647311134498KEutg_JPEG/upload_635806958236169543ec29b88-2f3a-4af3-900e-6bf6451a841f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[생존신고2]]></title>
@@ -389,22 +406,6 @@
             <pubDate>Mon, 14 Mar 2022 11:39:42 GMT</pubDate>
             <content:encoded><![CDATA[HWANG CHI YEUL(황치열)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220314_133/1647256232590MKJKM_JPEG/390f29ce-a387-11ec-bf13-d4f5ef58ac88_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🐶 해피믕믕데이 🐕]]></title>
-            <link>https://www.vlive.tv/video/279132</link>
-            <guid>https://www.vlive.tv/video/279132</guid>
-            <pubDate>Mon, 14 Mar 2022 10:43:34 GMT</pubDate>
-            <content:encoded><![CDATA[TREASURE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220314_229/16472543912699tVLd_JPEG/160129991220372765ad45cf27-9d22-4b1d-a955-9edac06cbc85.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나 손도경, 화이트데이 라이브 한다.]]></title>
-            <link>https://www.vlive.tv/video/278829</link>
-            <guid>https://www.vlive.tv/video/278829</guid>
-            <pubDate>Mon, 14 Mar 2022 10:43:34 GMT</pubDate>
-            <content:encoded><![CDATA[손호영 Son Ho Young]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220310_89/16469069819134kK8e_JPEG/upload_909866497565126357c0e5bb8-db49-4be9-9632-320c1cf82de7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
