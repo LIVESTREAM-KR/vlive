@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 13:03:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 13:44:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -360,14 +360,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220315_257/16473425308478bVj4_JPEG/upload_914221656473193637b418409-e7c4-4629-b4fa-a7de0035f7f1.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[BAEBAE]]></title>
-            <link>https://www.vlive.tv/video/279214</link>
-            <guid>https://www.vlive.tv/video/279214</guid>
-            <pubDate>Tue, 15 Mar 2022 13:02:47 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:02]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/279214/thumb?type=f228_128" length="0" type="image//live/279214/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[유우리 가 준 파자마로 파자마 파티하기2]]></title>
             <link>https://www.vlive.tv/video/279216</link>
             <guid>https://www.vlive.tv/video/279216</guid>
@@ -408,14 +400,6 @@
             <enclosure url="https://vlive-thumb.pstatic.net/live/279220/thumb?type=f228_128" length="0" type="image//live/279220/thumb"/>
         </item>
         <item>
-            <title><![CDATA[안녕 플로]]></title>
-            <link>https://www.vlive.tv/video/279221</link>
-            <guid>https://www.vlive.tv/video/279221</guid>
-            <pubDate>Tue, 15 Mar 2022 13:02:47 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:29]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/279221/thumb?type=f228_128" length="0" type="image//live/279221/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[[CLOSE-UP CAM] KIM WOO SEOK (김우석) ‘Switch’｜COMEBACK SHOWCASE]]></title>
             <link>https://www.vlive.tv/video/279218</link>
             <guid>https://www.vlive.tv/video/279218</guid>
@@ -453,7 +437,31 @@
             <guid>https://www.vlive.tv/video/279215</guid>
             <pubDate>Tue, 15 Mar 2022 13:02:47 GMT</pubDate>
             <content:encoded><![CDATA[오후 12:59]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220315_39/1647349147892gfAgW_JPEG/ec3bdd87-a45e-11ec-9bfc-505dac8c35ff_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220315_250/1647349736676zOGjw_JPEG/upload_9142944615174425185d5d0c8-1691-4cf3-b085-932d5d0d36c9.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Radio Hama] 회복 후 첫 심야 라디오!]]></title>
+            <link>https://www.vlive.tv/video/279222</link>
+            <guid>https://www.vlive.tv/video/279222</guid>
+            <pubDate>Tue, 15 Mar 2022 13:42:53 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:03]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220315_290/1647349435831NUnL3_JPEG/1601378057703228712b987b2f-134d-4594-b878-afcd0574ec10.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[책 읽어줄래]]></title>
+            <link>https://www.vlive.tv/video/279223</link>
+            <guid>https://www.vlive.tv/video/279223</guid>
+            <pubDate>Tue, 15 Mar 2022 13:42:53 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:13]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220315_273/1647350025022PPzLG_JPEG/1601383360206531491c227af7-e43f-468d-8550-98a116026324.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BAEBAE]]></title>
+            <link>https://www.vlive.tv/video/279214</link>
+            <guid>https://www.vlive.tv/video/279214</guid>
+            <pubDate>Tue, 15 Mar 2022 13:02:47 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:13]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220315_153/16473500354598QWWr_JPEG/e256d5b6-a460-11ec-93d6-505dac8c38f5_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
