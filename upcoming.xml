@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 13:02:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 13:44:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -576,14 +576,6 @@
             <enclosure url="https://vlive-thumb.pstatic.net/live/279524/thumb?type=f228_128" length="0" type="image//live/279524/thumb"/>
         </item>
         <item>
-            <title><![CDATA[잠깐]]></title>
-            <link>https://www.vlive.tv/video/279526</link>
-            <guid>https://www.vlive.tv/video/279526</guid>
-            <pubDate>Fri, 18 Mar 2022 13:01:08 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:36]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220318_123/1647606987911v6BEf_JPEG/160482517852383310ec7ddb02-4ed4-4648-bc62-5b3d72ad53b0.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[1st Moment♡]]></title>
             <link>https://www.vlive.tv/video/279523</link>
             <guid>https://www.vlive.tv/video/279523</guid>
@@ -646,6 +638,30 @@
             <pubDate>Fri, 18 Mar 2022 13:01:08 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220318_234/1647606628515oNGq6_JPEG/upload_638762297257593071b513587-af90-43b0-a837-3dcfe737a0cc.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오랜만에 덤앤더머❤️]]></title>
+            <link>https://www.vlive.tv/video/279514</link>
+            <guid>https://www.vlive.tv/video/279514</guid>
+            <pubDate>Fri, 18 Mar 2022 13:42:50 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:03]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220318_247/1647608620764d3Kc9_JPEG/b75d1093-a6ba-11ec-8c0a-48df379ccacc_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE] 오?!]]></title>
+            <link>https://www.vlive.tv/video/279528</link>
+            <guid>https://www.vlive.tv/video/279528</guid>
+            <pubDate>Fri, 18 Mar 2022 13:42:50 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:26]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/279528/thumb?type=f228_128" length="0" type="image//live/279528/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[오랜만이에용😽]]></title>
+            <link>https://www.vlive.tv/video/279529</link>
+            <guid>https://www.vlive.tv/video/279529</guid>
+            <pubDate>Fri, 18 Mar 2022 13:42:50 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:39]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/279529/thumb?type=f228_128" length="0" type="image//live/279529/thumb"/>
         </item>
     </channel>
 </rss>
