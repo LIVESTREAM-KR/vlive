@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 20:43:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 21:42:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -798,6 +798,14 @@
             <pubDate>Fri, 18 Mar 2022 17:42:52 GMT</pubDate>
             <content:encoded><![CDATA[오후 6:28]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220319_217/1647624176964W1nMe_JPEG/160499775959389255e8f295cc-33cb-49d0-a7f6-a9a284f01462.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HELLO FROM WONDERLAND]]></title>
+            <link>https://www.vlive.tv/video/279548</link>
+            <guid>https://www.vlive.tv/video/279548</guid>
+            <pubDate>Fri, 18 Mar 2022 21:41:06 GMT</pubDate>
+            <content:encoded><![CDATA[오후 9:37]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220319_293/1647639431657Y54iq_JPEG/1604278213482564307ff0cfdf-c3e6-4882-b283-6a83f45f0988.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
