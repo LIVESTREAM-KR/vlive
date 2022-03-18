@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 09:43:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 10:45:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 18 Mar 2022 09:41:58 GMT</pubDate>
             <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220317_26/1647506944061aPQvx_JPEG/upload_91586655332588249d9729161-419f-4d2d-92ce-149904b3e6cc.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이런날엔 브이앱✌️]]></title>
+            <link>https://www.vlive.tv/video/279492</link>
+            <guid>https://www.vlive.tv/video/279492</guid>
+            <pubDate>Fri, 18 Mar 2022 10:43:42 GMT</pubDate>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220318_108/16475995114988XVyW_JPEG/c1a8c2eb-a6a5-11ec-8527-505dac8c38f5_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[생일입니다]]></title>
@@ -30,14 +38,6 @@
             <pubDate>Thu, 17 Mar 2022 15:50:48 GMT</pubDate>
             <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220317_231/1647508842067sWQAQ_PNG/upload_91588542983491703da9970b1-b78a-41d5-ab2d-1385ad2271d6.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[돌아온 댄정🕺]]></title>
-            <link>https://www.vlive.tv/video/279289</link>
-            <guid>https://www.vlive.tv/video/279289</guid>
-            <pubDate>Fri, 18 Mar 2022 03:01:25 GMT</pubDate>
-            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220316_267/16474284834536oc0B_JPEG/upload_91508210253514808fd68b4b8-8ec3-4c6a-9ba7-2f368c24f2e3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
