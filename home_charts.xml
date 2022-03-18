@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 04:52:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 05:40:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[생일입니다]]></title>
+            <link>https://www.vlive.tv/video/278718</link>
+            <guid>https://www.vlive.tv/video/278718</guid>
+            <pubDate>Fri, 18 Mar 2022 05:39:21 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220308_55/1646749008253wD6Ux_JPEG/upload_908287260736608824ccc7c69-12c4-44da-920b-c0e293359e85.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[돌아온 댄정🕺]]></title>
             <link>https://www.vlive.tv/video/279289</link>
@@ -30,14 +38,6 @@
             <pubDate>Wed, 16 Mar 2022 17:41:47 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220306_294/1646565957203ziENN_JPEG/upload_90645671130984292f768c6a6-e873-42ce-a39c-5eade3aaafc8.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🌰🌰]]></title>
-            <link>https://www.vlive.tv/video/279357</link>
-            <guid>https://www.vlive.tv/video/279357</guid>
-            <pubDate>Thu, 17 Mar 2022 21:40:17 GMT</pubDate>
-            <content:encoded><![CDATA[SF9]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220317_143/1647499346107Xvdbd_JPEG/ba69996b-a5bc-11ec-963f-505dacfba98a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
