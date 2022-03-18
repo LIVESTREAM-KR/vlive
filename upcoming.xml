@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 03:03:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 03:46:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="https://v-phinf.pstatic.net/20220318_91/16475695597979Avap_JPEG/upload_91649256405949928f2e8dd93-fc86-4a0e-bddd-d054ad62f73b.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[REPLAY] 육개장을 먹을게요]]></title>
+            <link>https://www.vlive.tv/video/279228</link>
+            <guid>https://www.vlive.tv/video/279228</guid>
+            <pubDate>Fri, 18 Mar 2022 03:45:25 GMT</pubDate>
+            <content:encoded><![CDATA[오전 3:31]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220316_258/1647382492967wbWvU_JPEG/upload_6365210003844383625a05057-99f3-44f8-89bf-23f0e5b45d56.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Simply K-Pop CON-TOUR (심플리케이팝 콘투어) Ep.511]]></title>
             <link>https://www.vlive.tv/video/279269</link>
             <guid>https://www.vlive.tv/video/279269</guid>
@@ -134,6 +142,14 @@
             <pubDate>Fri, 18 Mar 2022 02:06:43 GMT</pubDate>
             <content:encoded><![CDATA[오전 7:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220311_41/1646975444297DFqBT_JPEG/upload_91055136765463556cfcd89f4-4ca7-470b-ab11-f5b12f50c4b5.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[COVER] 케이시(Kassy)가 불러주는 플레이리스트(Playlist)｜신청곡 메들리(Medly)]]></title>
+            <link>https://www.vlive.tv/video/279456</link>
+            <guid>https://www.vlive.tv/video/279456</guid>
+            <pubDate>Fri, 18 Mar 2022 03:45:25 GMT</pubDate>
+            <content:encoded><![CDATA[오전 9:30]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220318_159/1647572457040ngaH0_JPEG/upload_9165217541974817143a45bd1-6b93-44e2-88c9-e980ddda51b7.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
