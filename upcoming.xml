@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 17:44:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 18:48:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,14 +688,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220319_106/1647617435564yYqqo_JPEG/cbfd29df-a6cf-11ec-9e39-505dac8c385b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[#OMRR CHEER UP🙌🏻💛🐝]]></title>
-            <link>https://www.vlive.tv/video/279534</link>
-            <guid>https://www.vlive.tv/video/279534</guid>
-            <pubDate>Fri, 18 Mar 2022 15:45:31 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:43]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220319_226/164761821353263EKe_JPEG/160493816521138080e6d13295-b125-4b1b-ab5d-ecc7a79e4024.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[선공개] 완벽 코어 창원과 프로 땅굴러 일용의 땅굴파기 🤩 "땅굴... 뚫고 말겠어", MBC 220321 방송]]></title>
             <link>https://www.vlive.tv/video/279535</link>
             <guid>https://www.vlive.tv/video/279535</guid>
@@ -792,11 +784,19 @@
             <enclosure url="https://v-phinf.pstatic.net/20220319_125/1647623038101cicNa_JPEG/54a5d4e7-a6dd-11ec-bc38-505dac8c37f3_08.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[#OMRR CHEER UP🙌🏻💛🐝]]></title>
+            <link>https://www.vlive.tv/video/279534</link>
+            <guid>https://www.vlive.tv/video/279534</guid>
+            <pubDate>Fri, 18 Mar 2022 15:45:31 GMT</pubDate>
+            <content:encoded><![CDATA[오후 6:03]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220319_226/164761821353263EKe_JPEG/160493816521138080e6d13295-b125-4b1b-ab5d-ecc7a79e4024.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[잠 못드는 밤에]]></title>
             <link>https://www.vlive.tv/video/279547</link>
             <guid>https://www.vlive.tv/video/279547</guid>
             <pubDate>Fri, 18 Mar 2022 17:42:52 GMT</pubDate>
-            <content:encoded><![CDATA[오후 5:22]]></content:encoded>
+            <content:encoded><![CDATA[오후 6:28]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220319_217/1647624176964W1nMe_JPEG/160499775959389255e8f295cc-33cb-49d0-a7f6-a9a284f01462.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
