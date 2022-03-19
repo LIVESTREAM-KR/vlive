@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 14:43:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 15:45:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220318_133/1647595304346sUOYj_JPEG/upload_916750027201611894893643a-3648-427b-9b9c-b32496b0488c.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / Pink fantasy 핑크판타지)]]></title>
+            <link>https://m.vlive.tv/video/279488</link>
+            <guid>https://m.vlive.tv/video/279488</guid>
+            <pubDate>Sat, 19 Mar 2022 15:44:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220318_17/1647595052052rw6iH_JPEG/upload_91674748528789165160ed18e-2d6c-4ea9-b803-6527084ec7ba.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
