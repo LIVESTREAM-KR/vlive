@@ -4,9 +4,17 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 09:42:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 10:44:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[짜잔! BTS!!]]></title>
+            <link>https://www.vlive.tv/video/279567</link>
+            <guid>https://www.vlive.tv/video/279567</guid>
+            <pubDate>Sat, 19 Mar 2022 10:42:46 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220319_208/1647686421028B9Kdp_JPEG/50e16ff3-a770-11ec-9c28-d4f5ef58ac88_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[8TIME🐸🎱]]></title>
             <link>https://www.vlive.tv/video/279557</link>
@@ -14,14 +22,6 @@
             <pubDate>Sat, 19 Mar 2022 06:47:34 GMT</pubDate>
             <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220319_71/1647668368430iDD6a_JPEG/160543905419793547a9313332-20ef-49aa-a246-554fe4d32366.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이런날엔 브이앱✌️]]></title>
-            <link>https://www.vlive.tv/video/279492</link>
-            <guid>https://www.vlive.tv/video/279492</guid>
-            <pubDate>Fri, 18 Mar 2022 10:43:53 GMT</pubDate>
-            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220318_108/16475995114988XVyW_JPEG/c1a8c2eb-a6a5-11ec-8527-505dac8c38f5_01.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[생일입니다]]></title>
@@ -48,20 +48,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220318_199/1647538005727rqey0_JPEG/upload_6380759399627890161f65809-d973-4bd0-96df-a6908e5280c6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[나랑 춤추장!!]]></title>
-            <link>https://www.vlive.tv/video/279493</link>
-            <guid>https://www.vlive.tv/video/279493</guid>
-            <pubDate>Fri, 18 Mar 2022 16:58:12 GMT</pubDate>
-            <content:encoded><![CDATA[2PM]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220318_223/1647598684530GAMlz_JPEG/12844bfc-a6a4-11ec-89d7-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[죄쫜뿌꿔2]]></title>
             <link>https://www.vlive.tv/video/278550</link>
             <guid>https://www.vlive.tv/video/278550</guid>
             <pubDate>Fri, 18 Mar 2022 13:42:16 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220306_294/1646565957203ziENN_JPEG/upload_90645671130984292f768c6a6-e873-42ce-a39c-5eade3aaafc8.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LP듣장🎶 Ep.19]]></title>
+            <link>https://www.vlive.tv/video/279519</link>
+            <guid>https://www.vlive.tv/video/279519</guid>
+            <pubDate>Sat, 19 Mar 2022 10:42:47 GMT</pubDate>
+            <content:encoded><![CDATA[2PM]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220318_238/16476071961949DBJC_JPEG/943bdd7b-a6b7-11ec-8527-505dac8c38f5_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
