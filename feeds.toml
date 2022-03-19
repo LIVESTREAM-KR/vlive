@@ -118,36 +118,6 @@ contentSelector = "em.icon_fanship"
 imageSelector = "div.thumb_area img"
 waitUntil = "networkidle"
 
-[vstore_video]
-title = "V LIVE ─ STORE ─ V LIVE+"
-url = "https://www.vlive.tv/vstore/video?lang=ko"
-entrySelector = "ul.best_package_list li"
-titleSelector = "strong.info_tit"
-linkSelector = "a.store_package_card"
-contentSelector = "div.info_date span.date"
-imageSelector = "div.thumb_area img"
-waitUntil = "networkidle"
-
-[vstore_lightstick]
-title = "V LIVE ─ 스토어 ─ LIGHTSTICK"
-url = "https://www.vlive.tv/vstore/lightStick"
-entrySelector = "ul.store_lightstick_list li"
-titleSelector = "div.text_area strong.title"
-linkSelector = "a.lightstick_link"
-contentSelector = "div.text_area div.text"
-imageSelector = "div.img_area img"
-waitUntil = "networkidle"
-
-[vstore_sticker]
-title = "V LIVE ─ 스토어 ─ STICKER"
-url = "https://www.vlive.tv/vstore/sticker"
-entrySelector = "ul.store_sticker_list li"
-titleSelector = "div.tit_area p.tit"
-linkSelector = "a.sticker_link"
-contentSelector = "a.info_channel"
-imageSelector = "div.thumb_area img"
-waitUntil = "networkidle"
-
 [spotbox]
 title = "V LIVE ─ STORE ─ SPOT BOX"
 url = "https://www.vlive.tv/vstore"
@@ -156,34 +126,4 @@ titleSelector = "span.tit_area strong.tit"
 linkSelector = "a"
 contentSelector = "div.thumb_txt span[class^='icon'] span.blind"
 imageSelector = "div.thumb"
-waitUntil = "networkidle"
-
-[vliveplus]
-title = "V LIVE ─ 스토어 ─ V LIVE+"
-url = "https://www.vlive.tv/vstore/video/more?pageNo=1&pageSize=50&viewType=recent&lang=ko"
-entrySelector = "ul.best_package_list li"
-titleSelector = "strong.info_tit"
-linkSelector = "a.store_package_card"
-contentSelector = "div.info_area"
-imageSelector = "div.thumb_area img"
-waitUntil = "networkidle"
-
-[lightstick]
-title = "V LIVE ─ 스토어 ─ LIGHTSTICK"
-url = "https://www.vlive.tv/vstore/lightStick/more?pageNo=1&pageSize=50&viewType=recent&lang=ko"
-entrySelector = "ul.store_lightstick_list li"
-titleSelector = "div.text_area strong.title"
-linkSelector = "a.lightstick_link"
-contentSelector = "div.text"
-imageSelector = "div.img_area img"
-waitUntil = "networkidle"
-
-[sticker]
-title = "V LIVE ─ 스토어 ─ STICKER"
-url = "https://www.vlive.tv/vstore/sticker/more?pageNo=1&pageSize=50&viewType=recent&lang=ko"
-entrySelector = "ul.store_sticker_list li"
-titleSelector = "div.tit_area p.tit"
-linkSelector = "a.sticker_link"
-contentSelector = "a.info_channel"
-imageSelector = "div.thumb_area img"
 waitUntil = "networkidle"
