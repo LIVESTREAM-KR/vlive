@@ -4,22 +4,32 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 13:42:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 14:43:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[여보세요~]]></title>
-            <link>https://www.vlive.tv/video/279587</link>
-            <guid>https://www.vlive.tv/video/279587</guid>
-            <pubDate>Sat, 19 Mar 2022 13:40:26 GMT</pubDate>
-            <content:encoded><![CDATA[PURPLE KISS]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[리방]]></title>
             <link>https://www.vlive.tv/video/279586</link>
             <guid>https://www.vlive.tv/video/279586</guid>
             <pubDate>Sat, 19 Mar 2022 13:40:26 GMT</pubDate>
             <content:encoded><![CDATA[블리처스(BLITZERS)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220319_54/1647700718201Jrere_JPEG/d5d539b8-a791-11ec-b9b3-d4f5ef58ad5e_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ㅎㅎ]]></title>
+            <link>https://www.vlive.tv/video/279588</link>
+            <guid>https://www.vlive.tv/video/279588</guid>
+            <pubDate>Sat, 19 Mar 2022 14:41:12 GMT</pubDate>
+            <content:encoded><![CDATA[PURPLE KISS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220319_1/1647700553135amMO3_JPEG/b1b0e7e3-a791-11ec-aa4b-d4f5ef5906a4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여보세요~]]></title>
+            <link>https://www.vlive.tv/video/279587</link>
+            <guid>https://www.vlive.tv/video/279587</guid>
+            <pubDate>Sat, 19 Mar 2022 13:40:26 GMT</pubDate>
+            <content:encoded><![CDATA[PURPLE KISS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220319_56/1647699241911s2667_JPEG/7a26f2a6-a78e-11ec-9cd3-505dac8c3607_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방가]]></title>
@@ -396,14 +406,6 @@
             <pubDate>Fri, 18 Mar 2022 16:57:33 GMT</pubDate>
             <content:encoded><![CDATA[T1419]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220319_110/1647622559432dWWje_JPEG/f49a3ca0-a6db-11ec-bc9a-505dac8c381b_08.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[선공개] 창원, 일용을 위한 납도 웰컴 푸드 준비! 🥰 "와... 이건 진짜 맛있네요" 프로파일러가 인정한 맛, MBC 220321 방송]]></title>
-            <link>https://www.vlive.tv/video/279536</link>
-            <guid>https://www.vlive.tv/video/279536</guid>
-            <pubDate>Fri, 18 Mar 2022 16:57:33 GMT</pubDate>
-            <content:encoded><![CDATA[MBC 예능]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220319_295/1647621200244sDKHd_JPEG/upload_638907253330253760d4089fc-f12d-4de7-8ee2-3195f3e9c407.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

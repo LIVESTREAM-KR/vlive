@@ -4,24 +4,32 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 13:42:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 14:43:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[여보세요~]]></title>
-            <link>https://www.vlive.tv/video/279587</link>
-            <guid>https://www.vlive.tv/video/279587</guid>
-            <pubDate>Sat, 19 Mar 2022 13:40:35 GMT</pubDate>
-            <content:encoded><![CDATA[PURPLE KISS]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/279587/thumb?type=f228_128" length="0" type="image//live/279587/thumb"/>
-        </item>
         <item>
             <title><![CDATA[리방]]></title>
             <link>https://www.vlive.tv/video/279586</link>
             <guid>https://www.vlive.tv/video/279586</guid>
             <pubDate>Sat, 19 Mar 2022 13:40:35 GMT</pubDate>
             <content:encoded><![CDATA[블리처스(BLITZERS)]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/279586/thumb?type=f228_128" length="0" type="image//live/279586/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220319_54/1647700718201Jrere_JPEG/d5d539b8-a791-11ec-b9b3-d4f5ef58ad5e_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ㅎㅎ]]></title>
+            <link>https://www.vlive.tv/video/279588</link>
+            <guid>https://www.vlive.tv/video/279588</guid>
+            <pubDate>Sat, 19 Mar 2022 14:41:20 GMT</pubDate>
+            <content:encoded><![CDATA[PURPLE KISS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220319_1/1647700553135amMO3_JPEG/b1b0e7e3-a791-11ec-aa4b-d4f5ef5906a4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여보세요~]]></title>
+            <link>https://www.vlive.tv/video/279587</link>
+            <guid>https://www.vlive.tv/video/279587</guid>
+            <pubDate>Sat, 19 Mar 2022 13:40:35 GMT</pubDate>
+            <content:encoded><![CDATA[PURPLE KISS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220319_56/1647699241911s2667_JPEG/7a26f2a6-a78e-11ec-9cd3-505dac8c3607_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방가]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 19 Mar 2022 10:42:20 GMT</pubDate>
             <content:encoded><![CDATA[DREAMCATCHER]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220319_49/1647688319565IneYc_JPEG/c6bea3ef-a774-11ec-9cd3-505dac8c3607_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stray Kids(스트레이 키즈) "MANIAC" M/V Reaction]]></title>
-            <link>https://www.vlive.tv/video/279574</link>
-            <guid>https://www.vlive.tv/video/279574</guid>
-            <pubDate>Sat, 19 Mar 2022 11:38:52 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220319_240/16476870331359hJeF_PNG/upload_63956157305152914936ee857-5966-41cb-b319-b21d949e8c0c.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
