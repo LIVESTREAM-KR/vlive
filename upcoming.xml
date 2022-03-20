@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Mar 2022 13:41:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 14:40:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -200,14 +200,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220320_277/1647778963050fUeNH_JPEG/upload_91858677559310611705d4f02-8e7d-46c4-ba86-fc0f594719e2.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[왔엄?]]></title>
-            <link>https://www.vlive.tv/video/279616</link>
-            <guid>https://www.vlive.tv/video/279616</guid>
-            <pubDate>Sun, 20 Mar 2022 13:41:17 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:00]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220320_24/1647781218600z0JmP_JPEG/160569619171983717f7915704-6f59-4c60-8bd8-218544f08469.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[치키타 개인소장 했어???]]></title>
             <link>https://www.vlive.tv/video/279614</link>
             <guid>https://www.vlive.tv/video/279614</guid>
@@ -224,12 +216,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20220320_114/1647777492753UedLS_JPEG/1606530927489259922f9f97d7-d77c-49c2-9942-9a66cac11cc2.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[나 으나 피자머겅🍕]]></title>
-            <link>https://www.vlive.tv/video/279618</link>
-            <guid>https://www.vlive.tv/video/279618</guid>
+            <title><![CDATA[하이룽]]></title>
+            <link>https://www.vlive.tv/video/279621</link>
+            <guid>https://www.vlive.tv/video/279621</guid>
+            <pubDate>Sun, 20 Mar 2022 14:40:27 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:00]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/279621/thumb?type=f228_128" length="0" type="image//live/279621/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[왔엄?]]></title>
+            <link>https://www.vlive.tv/video/279616</link>
+            <guid>https://www.vlive.tv/video/279616</guid>
             <pubDate>Sun, 20 Mar 2022 13:41:17 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:40]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220320_265/1647783654937D3FrP_JPEG/160659184931590989daba41b9-2dfa-4623-8aff-ae58b31cb243.jpg?type=f228_128" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[오후 2:14]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220320_24/1647781218600z0JmP_JPEG/160569619171983717f7915704-6f59-4c60-8bd8-218544f08469.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[RADIO] 자기전 귀대귀대 #94]]></title>
+            <link>https://www.vlive.tv/video/279619</link>
+            <guid>https://www.vlive.tv/video/279619</guid>
+            <pubDate>Sun, 20 Mar 2022 14:40:27 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:27]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220320_100/1647786463246q4kS9_JPEG/9a4b6276-a859-11ec-a0dc-d4f5ef5a9532_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
