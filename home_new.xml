@@ -4,17 +4,9 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Mar 2022 06:48:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 07:40:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[잠시]]></title>
-            <link>https://www.vlive.tv/video/279597</link>
-            <guid>https://www.vlive.tv/video/279597</guid>
-            <pubDate>Sun, 20 Mar 2022 06:47:16 GMT</pubDate>
-            <content:encoded><![CDATA[멋진녀석들 (GreatGuys)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220320_164/1647757693141NoaIL_JPEG/160633296138239152e7950f7e-c7c5-48fb-8296-1bc4317c6ab9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[앗]]></title>
             <link>https://www.vlive.tv/video/279598</link>
@@ -24,12 +16,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20220320_247/1647758558469AytIh_JPEG/41376334754694158a8e58041-6cc2-4104-9b15-e36285796aa3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[메메데 메리메건데이🎂]]></title>
-            <link>https://www.vlive.tv/video/279596</link>
-            <guid>https://www.vlive.tv/video/279596</guid>
+            <title><![CDATA[잠시]]></title>
+            <link>https://www.vlive.tv/video/279597</link>
+            <guid>https://www.vlive.tv/video/279597</guid>
             <pubDate>Sun, 20 Mar 2022 06:47:16 GMT</pubDate>
-            <content:encoded><![CDATA[fromis_9]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220320_194/1647757339228UdEAF_JPEG/4673270584819927196f28d95-9d0d-4fc6-9578-0a60753bea98.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[멋진녀석들 (GreatGuys)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220320_164/1647757693141NoaIL_JPEG/160633296138239152e7950f7e-c7c5-48fb-8296-1bc4317c6ab9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[MONTHLY SANDEUL] #4 COVER│산들 - 나의 사춘기에게 (볼빨간사춘기)]]></title>
@@ -126,6 +118,14 @@
             <pubDate>Sat, 19 Mar 2022 12:58:31 GMT</pubDate>
             <content:encoded><![CDATA[Rocket Punch]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220319_116/1647695101131RG6yt_JPEG/6d3f9e0c-a784-11ec-a7e2-48df379cca40_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🌸문학의 밤]]></title>
+            <link>https://www.vlive.tv/video/279578</link>
+            <guid>https://www.vlive.tv/video/279578</guid>
+            <pubDate>Sun, 20 Mar 2022 07:39:06 GMT</pubDate>
+            <content:encoded><![CDATA[AB6IX]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220319_17/1647695050877PPPWX_JPEG/4f6d2565-a783-11ec-ad5e-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
