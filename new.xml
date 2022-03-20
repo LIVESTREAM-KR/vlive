@@ -4,17 +4,9 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 23:42:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 01:59:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[자기 전 10분만]]></title>
-            <link>https://www.vlive.tv/video/279592</link>
-            <guid>https://www.vlive.tv/video/279592</guid>
-            <pubDate>Sat, 19 Mar 2022 17:40:03 GMT</pubDate>
-            <content:encoded><![CDATA[LAM(영화처럼)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220320_172/1647710340437jQ7zp_JPEG/774f4253-a7a8-11ec-bc38-505dac8c37f3_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[T1419(티일사일구) - '에델바이스(EDELWEISS)' M/V Teaser (Long ver.)]]></title>
             <link>https://www.vlive.tv/video/279583</link>
@@ -406,6 +398,14 @@
             <pubDate>Fri, 18 Mar 2022 17:41:56 GMT</pubDate>
             <content:encoded><![CDATA[T1419]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220319_277/1647622735548vBlEt_JPEG/9cc27bb9-a6dc-11ec-931f-505dac8c3721_08.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[T1419(티일사일구) - '에델바이스(EDELWEISS)' Lyric Video LEO]]></title>
+            <link>https://www.vlive.tv/video/279539</link>
+            <guid>https://www.vlive.tv/video/279539</guid>
+            <pubDate>Sun, 20 Mar 2022 01:57:37 GMT</pubDate>
+            <content:encoded><![CDATA[T1419]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220319_274/1647622682157ifRio_JPEG/7df3d3f0-a6dc-11ec-8527-505dac8c38f5_08.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
