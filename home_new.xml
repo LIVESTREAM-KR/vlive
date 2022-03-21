@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 03:49:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 04:51:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그동안 잘 놀고있어요^^]]></title>
+            <link>https://www.vlive.tv/video/279639</link>
+            <guid>https://www.vlive.tv/video/279639</guid>
+            <pubDate>Mon, 21 Mar 2022 04:50:11 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220321_23/1647836757122OxBw0_JPEG/aaffc244-a8ce-11ec-9c28-d4f5ef58ac88_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[VERIVERY - 'O' Official M/V Teaser]]></title>
             <link>https://www.vlive.tv/video/279632</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 20 Mar 2022 15:44:00 GMT</pubDate>
             <content:encoded><![CDATA[SF9]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220320_240/1647784216652ipj1G_JPEG/upload_640538161925993177f4a6153-1b8d-44a2-99fa-62f7011602b4.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Special] ONEUS(원어스) '눈부시게 빛이 나던 그 날 (I.P.U)' Self MV]]></title>
-            <link>https://www.vlive.tv/video/279594</link>
-            <guid>https://www.vlive.tv/video/279594</guid>
-            <pubDate>Sun, 20 Mar 2022 15:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONEUS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220320_219/1647743799015gWkMC_JPEG/upload_9182349745975448709b7a5f3-29a2-48a1-bd91-1a1de00ce199.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

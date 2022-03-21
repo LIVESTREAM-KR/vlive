@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 03:49:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 04:51:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그동안 잘 놀고있어요^^]]></title>
+            <link>https://www.vlive.tv/video/279639</link>
+            <guid>https://www.vlive.tv/video/279639</guid>
+            <pubDate>Mon, 21 Mar 2022 04:50:02 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220321_23/1647836757122OxBw0_JPEG/aaffc244-a8ce-11ec-9c28-d4f5ef58ac88_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[VERIVERY - 'O' Official M/V Teaser]]></title>
             <link>https://www.vlive.tv/video/279632</link>
@@ -398,14 +406,6 @@
             <pubDate>Sat, 19 Mar 2022 15:43:19 GMT</pubDate>
             <content:encoded><![CDATA[OH MY GIRL]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220318_13/1647593743118pplRw_JPEG/upload_916734456069767509d06d624-eaf1-4b7b-8d8f-f436e6f85d03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리방]]></title>
-            <link>https://www.vlive.tv/video/279586</link>
-            <guid>https://www.vlive.tv/video/279586</guid>
-            <pubDate>Sat, 19 Mar 2022 13:40:26 GMT</pubDate>
-            <content:encoded><![CDATA[블리처스(BLITZERS)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220319_54/1647700718201Jrere_JPEG/d5d539b8-a791-11ec-b9b3-d4f5ef58ad5e_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
