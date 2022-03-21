@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Mar 2022 23:41:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 02:13:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,6 +36,16 @@
 										오전 9:00</span>
 										<span class="txt">INMEDIA+</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220319_46/16476743308970qLAp_PNG/upload_91753823224870280b860105e-65a1-49c1-8ca8-0b34c465165f.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[EVERGLOW 3rd ANNIVERSARY💞]]></title>
+            <link>https://m.vlive.tv/video/279630</link>
+            <guid>https://m.vlive.tv/video/279630</guid>
+            <pubDate>Mon, 21 Mar 2022 02:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 9:00</span>
+										<span class="txt">EVERGLOW (에버글로우)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220321_180/1647825010930Vv4JT_JPEG/upload_919045224746770657cb44270-7388-428c-998d-41f2664d34d4.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[LIVE] SIMPLY K-POP CON-TOUR (📍Italy)]]></title>
@@ -86,16 +96,6 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220318_133/1647595304346sUOYj_JPEG/upload_916750027201611894893643a-3648-427b-9b9c-b32496b0488c.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🐿💙]]></title>
-            <link>https://m.vlive.tv/video/279604</link>
-            <guid>https://m.vlive.tv/video/279604</guid>
-            <pubDate>Sun, 20 Mar 2022 10:42:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 12:00</span>
-										<span class="txt">KINGDOM</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220320_242/1647769065616W4LSl_JPEG/upload_6403858848684716979bee687-9ccb-4a8b-982b-526545de88b3.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
