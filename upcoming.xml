@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 13:03:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 13:43:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -408,14 +408,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220321_184/1647847714778co47V_JPEG/upload_91927396338038182adf8192a-ce03-4542-8469-ea4e798d10dd.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[봄맞이 V LIVE!]]></title>
-            <link>https://www.vlive.tv/video/279695</link>
-            <guid>https://www.vlive.tv/video/279695</guid>
-            <pubDate>Mon, 21 Mar 2022 13:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:00]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220321_23/1647864004208EdhBP_JPEG/160739604143266744a126e436-94a7-40b2-bb07-1142759fd62c.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[그레이스 고마워요 걱정해줘서 :)]]></title>
             <link>https://www.vlive.tv/video/279692</link>
             <guid>https://www.vlive.tv/video/279692</guid>
@@ -494,6 +486,30 @@
             <pubDate>Mon, 21 Mar 2022 13:02:49 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220321_175/1647837115871q2mt7_JPEG/upload_91916789334099872b1ec36f3-f5f4-4d2d-8cda-1e27ae886404.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Radio'n Us / ADORA 아도라)]]></title>
+            <link>https://www.vlive.tv/video/279489</link>
+            <guid>https://www.vlive.tv/video/279489</guid>
+            <pubDate>Mon, 21 Mar 2022 13:43:06 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:04]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220318_287/1647595320336QnRGR_JPEG/upload_63864668107870837c4fb6dec-1dd1-47a9-821d-f2bcc0fe8c21.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여기는 어디~게~😜✈️🚪]]></title>
+            <link>https://www.vlive.tv/video/279699</link>
+            <guid>https://www.vlive.tv/video/279699</guid>
+            <pubDate>Mon, 21 Mar 2022 13:43:06 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:06]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/279699/thumb?type=f228_128" length="0" type="image//live/279699/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[봄맞이 V LIVE!]]></title>
+            <link>https://www.vlive.tv/video/279695</link>
+            <guid>https://www.vlive.tv/video/279695</guid>
+            <pubDate>Mon, 21 Mar 2022 13:02:49 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:12]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220321_23/1647864004208EdhBP_JPEG/160739604143266744a126e436-94a7-40b2-bb07-1142759fd62c.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
