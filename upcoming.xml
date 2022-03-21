@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 06:50:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 07:40:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220321_23/1647836757122OxBw0_JPEG/aaffc244-a8ce-11ec-9c28-d4f5ef58ac88_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Arirang Radio (Sound K / WEi 위아이)]]></title>
-            <link>https://www.vlive.tv/video/279487</link>
-            <guid>https://www.vlive.tv/video/279487</guid>
-            <pubDate>Mon, 21 Mar 2022 02:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[오전 4:52]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220318_149/1647594985340KjD2U_JPEG/upload_91674668898330945b3a8f72b-8f88-4272-939b-25b6eb0bba3c.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[오프닝 타이틀] '특별한 저승사자'들이 온다, MBC 금토드라마 '내일' 오프닝 타이틀 공개!, MBC 220401 방송]]></title>
             <link>https://www.vlive.tv/video/279642</link>
             <guid>https://www.vlive.tv/video/279642</guid>
@@ -124,8 +116,16 @@
             <link>https://www.vlive.tv/video/279490</link>
             <guid>https://www.vlive.tv/video/279490</guid>
             <pubDate>Mon, 21 Mar 2022 02:12:59 GMT</pubDate>
-            <content:encoded><![CDATA[오전 7:00]]></content:encoded>
+            <content:encoded><![CDATA[오전 6:56]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220318_255/1647595211882Hvkdp_JPEG/upload_6386479536623460353356e93-cb7a-4e97-8e3b-b4ccec7a13a5.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / WEi 위아이)]]></title>
+            <link>https://www.vlive.tv/video/279487</link>
+            <guid>https://www.vlive.tv/video/279487</guid>
+            <pubDate>Mon, 21 Mar 2022 02:12:59 GMT</pubDate>
+            <content:encoded><![CDATA[오전 7:06]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220318_149/1647594985340KjD2U_JPEG/upload_91674668898330945b3a8f72b-8f88-4272-939b-25b6eb0bba3c.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MEGAMAX VLIVE 메가맥스가 와따 ❗❕]]></title>
