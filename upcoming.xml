@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 13:05:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 13:44:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -456,22 +456,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220322_7/1647950918619KWUT7_JPEG/6098f657-a9d8-11ec-9e39-505dac8c385b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[vav]stvan 화요일 🔥]]></title>
-            <link>https://www.vlive.tv/video/279772</link>
-            <guid>https://www.vlive.tv/video/279772</guid>
-            <pubDate>Tue, 22 Mar 2022 13:04:36 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:24]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/279772/thumb?type=f228_128" length="0" type="image//live/279772/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[무서워서 방바꿈...]]></title>
-            <link>https://www.vlive.tv/video/279773</link>
-            <guid>https://www.vlive.tv/video/279773</guid>
-            <pubDate>Tue, 22 Mar 2022 13:04:36 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:30]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/279773/thumb?type=f228_128" length="0" type="image//live/279773/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[주팡욱]]></title>
             <link>https://www.vlive.tv/video/279770</link>
             <guid>https://www.vlive.tv/video/279770</guid>
@@ -493,7 +477,7 @@
             <guid>https://www.vlive.tv/video/279771</guid>
             <pubDate>Tue, 22 Mar 2022 13:04:36 GMT</pubDate>
             <content:encoded><![CDATA[오후 12:54]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220322_150/1647953689902JcvV9_JPEG/ccff4d1c-a9de-11ec-b9b3-d4f5ef58ad5e_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220322_298/1647955154578pSUWE_JPEG/ccff4d1c-a9de-11ec-b9b3-d4f5ef58ad5e_04.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[드럼 베이스 두둥탁🎸🥁]]></title>
@@ -502,6 +486,30 @@
             <pubDate>Tue, 22 Mar 2022 13:04:36 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:03]]></content:encoded>
             <enclosure url="https://vlive-thumb.pstatic.net/live/279776/thumb?type=f228_128" length="0" type="image//live/279776/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[무서워서 방바꿈...]]></title>
+            <link>https://www.vlive.tv/video/279773</link>
+            <guid>https://www.vlive.tv/video/279773</guid>
+            <pubDate>Tue, 22 Mar 2022 13:04:36 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:30]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220322_247/1647955844163eV0YP_JPEG/f81a8364-a9e3-11ec-b1ad-d4f5ef590144_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[vav]stvan 화요일 🔥]]></title>
+            <link>https://www.vlive.tv/video/279772</link>
+            <guid>https://www.vlive.tv/video/279772</guid>
+            <pubDate>Tue, 22 Mar 2022 13:04:36 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:31]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220322_249/1647955873487FeExs_JPEG/d648faaa-a9e3-11ec-9c28-d4f5ef58ac88_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년 3월 22일]]></title>
+            <link>https://www.vlive.tv/video/279779</link>
+            <guid>https://www.vlive.tv/video/279779</guid>
+            <pubDate>Tue, 22 Mar 2022 13:43:42 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:41]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/279779/thumb?type=f228_128" length="0" type="image//live/279779/thumb"/>
         </item>
     </channel>
 </rss>
