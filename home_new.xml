@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 03:49:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 04:50:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ASC Live Ep.515 (BYEONGKWAN / 김병관)]]></title>
+            <link>https://www.vlive.tv/video/279470</link>
+            <guid>https://www.vlive.tv/video/279470</guid>
+            <pubDate>Tue, 22 Mar 2022 04:49:46 GMT</pubDate>
+            <content:encoded><![CDATA[After School Club │ 애프터스쿨클럽]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220318_83/1647587355721FJ7yv_PNG/upload_91667074446934238b7b1ff97-c73e-486c-9d72-2da0e1f88760.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[12시]]></title>
             <link>https://www.vlive.tv/video/279723</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 21 Mar 2022 13:42:16 GMT</pubDate>
             <content:encoded><![CDATA[Busters X 버스터즈]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220322_55/16478754384176seon_JPEG/f15d6127-a927-11ec-be97-505dac8c3639_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퍼플키스(PURPLE KISS) 'memeM' Clip Teaser 유키(Yuki)]]></title>
-            <link>https://www.vlive.tv/video/279648</link>
-            <guid>https://www.vlive.tv/video/279648</guid>
-            <pubDate>Mon, 21 Mar 2022 15:45:28 GMT</pubDate>
-            <content:encoded><![CDATA[PURPLE KISS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220321_75/16478413704793z18X_JPEG/upload_919211008270526933c3dbc78-312f-402c-bb1f-867e95948b44.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
