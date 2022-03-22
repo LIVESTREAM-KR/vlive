@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 13:44:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 14:40:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -424,14 +424,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220322_278/1647947634996uzqX1_JPEG/upload_92027363401538861b134620c-b86e-4eb1-abf9-69b969f18c3c.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[크래비티 컴백! "Adrenaline" 스페셜라이브]]></title>
-            <link>https://www.vlive.tv/video/279757</link>
-            <guid>https://www.vlive.tv/video/279757</guid>
-            <pubDate>Tue, 22 Mar 2022 09:43:28 GMT</pubDate>
-            <content:encoded><![CDATA[오전 11:57]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220322_126/16479417275114DskR_JPEG/upload_642109325345132483ba561d1-a57a-4db6-8aa7-fa33f843c0d4.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[드리밍의 바쁜 하루]]></title>
             <link>https://www.vlive.tv/video/279766</link>
             <guid>https://www.vlive.tv/video/279766</guid>
@@ -480,14 +472,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220322_298/1647955154578pSUWE_JPEG/ccff4d1c-a9de-11ec-b9b3-d4f5ef58ad5e_04.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[드럼 베이스 두둥탁🎸🥁]]></title>
-            <link>https://www.vlive.tv/video/279776</link>
-            <guid>https://www.vlive.tv/video/279776</guid>
-            <pubDate>Tue, 22 Mar 2022 13:04:36 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:03]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/279776/thumb?type=f228_128" length="0" type="image//live/279776/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[무서워서 방바꿈...]]></title>
             <link>https://www.vlive.tv/video/279773</link>
             <guid>https://www.vlive.tv/video/279773</guid>
@@ -510,6 +494,30 @@
             <pubDate>Tue, 22 Mar 2022 13:43:42 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:41]]></content:encoded>
             <enclosure url="https://vlive-thumb.pstatic.net/live/279779/thumb?type=f228_128" length="0" type="image//live/279779/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[크래비티 컴백! "Adrenaline" 스페셜라이브]]></title>
+            <link>https://www.vlive.tv/video/279757</link>
+            <guid>https://www.vlive.tv/video/279757</guid>
+            <pubDate>Tue, 22 Mar 2022 09:43:28 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:59]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220322_126/16479417275114DskR_JPEG/upload_642109325345132483ba561d1-a57a-4db6-8aa7-fa33f843c0d4.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[드럼 베이스 두둥탁🎸🥁]]></title>
+            <link>https://www.vlive.tv/video/279776</link>
+            <guid>https://www.vlive.tv/video/279776</guid>
+            <pubDate>Tue, 22 Mar 2022 13:04:36 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:14]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220322_144/1647958466471QS7Tk_JPEG/6d06aa53-a9e9-11ec-931f-505dac8c3721_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE] 이름부터 완벽하다 함원진]]></title>
+            <link>https://www.vlive.tv/video/279780</link>
+            <guid>https://www.vlive.tv/video/279780</guid>
+            <pubDate>Tue, 22 Mar 2022 14:40:06 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:33]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/279780/thumb?type=f228_128" length="0" type="image//live/279780/thumb"/>
         </item>
     </channel>
 </rss>
