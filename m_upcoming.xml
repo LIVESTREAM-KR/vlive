@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 11:45:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 13:05:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[크래비티 컴백! "Adrenaline" 스페셜라이브]]></title>
-            <link>https://m.vlive.tv/video/279757</link>
-            <guid>https://m.vlive.tv/video/279757</guid>
-            <pubDate>Tue, 22 Mar 2022 09:43:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 12:00</span>
-										<span class="txt">CRAVITY</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220322_126/16479417275114DskR_JPEG/upload_642109325345132483ba561d1-a57a-4db6-8aa7-fa33f843c0d4.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthew]]></title>
             <link>https://m.vlive.tv/video/279712</link>
@@ -106,6 +96,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220318_17/1647595052052rw6iH_JPEG/upload_91674748528789165160ed18e-2d6c-4ea9-b803-6527084ec7ba.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop] Stray Quiz]]></title>
+            <link>https://m.vlive.tv/video/279719</link>
+            <guid>https://m.vlive.tv/video/279719</guid>
+            <pubDate>Tue, 22 Mar 2022 13:04:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220322_11/1647914704027CDiOp_JPEG/upload_91994386246665947f891b7b3-f422-4a1e-bde2-6b1d808025a2.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
