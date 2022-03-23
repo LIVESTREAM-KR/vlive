@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 18:49:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 19:40:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잠 못드는 밤에 (급하게 물어볼게 있어요ㅠ늦은 시간 죄송해요)]]></title>
+            <link>https://www.vlive.tv/video/279877</link>
+            <guid>https://www.vlive.tv/video/279877</guid>
+            <pubDate>Wed, 23 Mar 2022 19:39:24 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220324_1/1648061775957WCFPx_JPEG/70114214480035340694fe214-76f0-4665-a064-6c5832f7f098.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#OMRR 쏴리질러! 💛🙌🏻🐝]]></title>
             <link>https://www.vlive.tv/video/279875</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 23 Mar 2022 15:45:07 GMT</pubDate>
             <content:encoded><![CDATA[PURPLE KISS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220322_84/1647941930150747b1_JPEG/upload_920216392664971786917d5ef-b024-4e8f-906a-64e8a920a79b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안농]]></title>
-            <link>https://www.vlive.tv/video/279860</link>
-            <guid>https://www.vlive.tv/video/279860</guid>
-            <pubDate>Wed, 23 Mar 2022 13:43:42 GMT</pubDate>
-            <content:encoded><![CDATA[KINGDOM]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220323_26/1648047590752DV3Ut_JPEG/04445009-aab9-11ec-b9b3-d4f5ef58ad5e_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
