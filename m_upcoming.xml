@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 03:52:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 04:50:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio/K-Poppin'] Anonbooks CEO Seo Hyo-in 안온북스 대표 서효인]]></title>
-            <link>https://m.vlive.tv/video/279741</link>
-            <guid>https://m.vlive.tv/video/279741</guid>
-            <pubDate>Tue, 22 Mar 2022 07:40:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 4:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220322_35/1647933671010kQEVj_JPEG/upload_64203253276713053d6dca598-0774-4be4-8fe5-07f72c376906.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Sound K] Song Express ver.3 with Iris 아이리스]]></title>
             <link>https://m.vlive.tv/video/279716</link>
@@ -106,6 +96,16 @@
 										오전 10:00</span>
 										<span class="txt">KINGDOM</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220321_101/1647840366681Ovnvb_PNG/upload_91920048420610417bb561d5a-d5ac-4b53-a446-52d4dbd3f107.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
+            <link>https://m.vlive.tv/video/279714</link>
+            <guid>https://m.vlive.tv/video/279714</guid>
+            <pubDate>Wed, 23 Mar 2022 04:50:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220322_1/1647914498934xQpPQ_JPEG/upload_64184091228776333354340eb-c0ef-49a8-8f13-3bab15e07534.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
