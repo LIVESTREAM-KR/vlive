@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 02:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 03:13:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220322_11/1647914704027CDiOp_JPEG/upload_91994386246665947f891b7b3-f422-4a1e-bde2-6b1d808025a2.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[킹덤 데뷔 400일🎉❤]]></title>
+            <link>https://m.vlive.tv/video/279645</link>
+            <guid>https://m.vlive.tv/video/279645</guid>
+            <pubDate>Wed, 23 Mar 2022 03:12:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">KINGDOM</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220321_101/1647840366681Ovnvb_PNG/upload_91920048420610417bb561d5a-d5ac-4b53-a446-52d4dbd3f107.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
