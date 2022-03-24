@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 17:50:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 18:48:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -660,8 +660,16 @@
             <link>https://www.vlive.tv/video/279963</link>
             <guid>https://www.vlive.tv/video/279963</guid>
             <pubDate>Thu, 24 Mar 2022 17:50:23 GMT</pubDate>
-            <content:encoded><![CDATA[오후 5:34]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/279963/thumb?type=f228_128" length="0" type="image//live/279963/thumb"/>
+            <content:encoded><![CDATA[오후 6:05]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220325_183/1648145134740DfCCd_JPEG/b7f6df80-ab9c-11ec-9b7b-505dac8c35ff_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠 못드는 밤에(왠지 울적한 날)]]></title>
+            <link>https://www.vlive.tv/video/279964</link>
+            <guid>https://www.vlive.tv/video/279964</guid>
+            <pubDate>Thu, 24 Mar 2022 18:48:24 GMT</pubDate>
+            <content:encoded><![CDATA[오후 6:25]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220325_156/1648146311607dsmxY_JPEG/1609346907700206642e9dd1e2-67ea-44c8-bde0-40ff3f2986ed.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
