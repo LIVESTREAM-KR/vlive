@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 05:40:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 06:50:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220323_246/1648012636678AxpNl_JPEG/upload_6428216298508072230a085bd-4de6-4761-809a-e1a3b27bdb79.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오마이걸 [Real Love] 컴백 쇼케이스]]></title>
+            <link>https://m.vlive.tv/video/279392</link>
+            <guid>https://m.vlive.tv/video/279392</guid>
+            <pubDate>Thu, 24 Mar 2022 06:49:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">OH MY GIRL</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220317_223/1647508599868T80AI_JPEG/upload_63778206929063557da88a0cc-3451-4a1e-aa2e-94ba8a15b869.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
