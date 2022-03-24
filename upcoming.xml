@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 17:00:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 17:50:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -640,20 +640,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20220325_74/1648134285782WHAOo_JPEG/6f033829-ab83-11ec-bc9a-505dac8c381b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[#OMRR 앙🤗💛]]></title>
-            <link>https://www.vlive.tv/video/279960</link>
-            <guid>https://www.vlive.tv/video/279960</guid>
-            <pubDate>Thu, 24 Mar 2022 15:46:18 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:19]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220325_61/1648135189950OuRHu_JPEG/160923725926984152533a36cb-d08e-4976-8eaf-3df22b289757.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[또 12시]]></title>
             <link>https://www.vlive.tv/video/279959</link>
             <guid>https://www.vlive.tv/video/279959</guid>
             <pubDate>Thu, 24 Mar 2022 15:46:18 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:24]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220325_267/1648135498493ad6jD_JPEG/5dc96646-ab86-11ec-8527-505dac8c38f5_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#OMRR 앙🤗💛]]></title>
+            <link>https://www.vlive.tv/video/279960</link>
+            <guid>https://www.vlive.tv/video/279960</guid>
+            <pubDate>Thu, 24 Mar 2022 15:46:18 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:33]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220325_61/1648135189950OuRHu_JPEG/160923725926984152533a36cb-d08e-4976-8eaf-3df22b289757.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[😴😴😴😴😴]]></title>
+            <link>https://www.vlive.tv/video/279963</link>
+            <guid>https://www.vlive.tv/video/279963</guid>
+            <pubDate>Thu, 24 Mar 2022 17:50:23 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:34]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/279963/thumb?type=f228_128" length="0" type="image//live/279963/thumb"/>
         </item>
     </channel>
 </rss>
