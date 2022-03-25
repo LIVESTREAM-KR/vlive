@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 03:04:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 03:47:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[20220324 혜소통통💛]]></title>
+            <link>https://www.vlive.tv/video/279974</link>
+            <guid>https://www.vlive.tv/video/279974</guid>
+            <pubDate>Fri, 25 Mar 2022 03:45:43 GMT</pubDate>
+            <content:encoded><![CDATA[VANNER (배너)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220325_259/1648173574522ejOog_JPEG/1610491565113602715efecf80-c7eb-43c3-b07c-353e444181a6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[VERIVERY - 'O' Performance Video]]></title>
             <link>https://www.vlive.tv/video/279976</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 24 Mar 2022 15:45:25 GMT</pubDate>
             <content:encoded><![CDATA[PURPLE KISS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220325_48/1648134690604K8JBY_JPEG/upload_92214408353255179b48ee6f3-65ba-48d3-af64-df7f1ed8f801.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[DKZ] 'CHASE EPISODE 2. MAUM' TEASER SCHEDULE]]></title>
-            <link>https://www.vlive.tv/video/279946</link>
-            <guid>https://www.vlive.tv/video/279946</guid>
-            <pubDate>Thu, 24 Mar 2022 15:45:25 GMT</pubDate>
-            <content:encoded><![CDATA[DKZ]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220324_56/1648122419357bL83c_JPEG/upload_922021074538619664f2eacd3-b086-4eee-80fc-e321fd6a63ad.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
