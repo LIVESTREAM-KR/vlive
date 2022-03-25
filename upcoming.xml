@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 18:49:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 19:40:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -720,14 +720,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220326_36/1648227023057KOYeN_JPEG/upload_9230458555725828735f859ac-083d-43e8-b813-59eb7a41c47e.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[웅]]></title>
-            <link>https://www.vlive.tv/video/280059</link>
-            <guid>https://www.vlive.tv/video/280059</guid>
-            <pubDate>Fri, 25 Mar 2022 16:59:40 GMT</pubDate>
-            <content:encoded><![CDATA[오후 4:19]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/280059/thumb?type=f228_128" length="0" type="image//live/280059/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[[Radio Hama] 심야 레디오]]></title>
             <link>https://www.vlive.tv/video/280057</link>
             <guid>https://www.vlive.tv/video/280057</guid>
@@ -742,6 +734,14 @@
             <pubDate>Fri, 25 Mar 2022 16:59:40 GMT</pubDate>
             <content:encoded><![CDATA[오후 6:19]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220326_251/1648225833014Nrc9X_JPEG/1610142336408711193ab3cde7-2ba9-4dd7-97c4-3bb823c91a3a.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[웅]]></title>
+            <link>https://www.vlive.tv/video/280059</link>
+            <guid>https://www.vlive.tv/video/280059</guid>
+            <pubDate>Fri, 25 Mar 2022 16:59:40 GMT</pubDate>
+            <content:encoded><![CDATA[오후 7:30]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220326_99/1648236612308ULA5h_JPEG/f87cd2e6-ac6f-11ec-bc38-505dac8c37f3_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
