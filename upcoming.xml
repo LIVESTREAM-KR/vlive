@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 17:42:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 18:47:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,20 +392,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220328_282/1648395996918a8PaT_JPEG/8ce6141a-ade4-11ec-931f-505dac8c3721_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[자기 전에 잠깐 💤]]></title>
-            <link>https://www.vlive.tv/video/280146</link>
-            <guid>https://www.vlive.tv/video/280146</guid>
-            <pubDate>Sun, 27 Mar 2022 16:56:19 GMT</pubDate>
-            <content:encoded><![CDATA[오후 4:54]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/280146/thumb?type=f228_128" length="0" type="image//live/280146/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[무지니와 함께하는 24시간 브이앱✌️]]></title>
             <link>https://www.vlive.tv/video/280139</link>
             <guid>https://www.vlive.tv/video/280139</guid>
             <pubDate>Sun, 27 Mar 2022 14:40:04 GMT</pubDate>
             <content:encoded><![CDATA[오후 5:21]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220328_264/1648401691232GP6Hk_JPEG/fe18f47b-adef-11ec-9b7b-505dac8c35ff_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자기 전에 잠깐 💤]]></title>
+            <link>https://www.vlive.tv/video/280146</link>
+            <guid>https://www.vlive.tv/video/280146</guid>
+            <pubDate>Sun, 27 Mar 2022 16:56:19 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:56]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220328_138/1648403812979ilPDj_JPEG/f54d0c2a-adf6-11ec-8c89-505dacfba98a_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
