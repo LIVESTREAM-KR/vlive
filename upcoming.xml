@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 08:45:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 09:42:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,28 +136,44 @@
             <enclosure url="https://v-phinf.pstatic.net/20220327_262/1648365681088rcfDy_JPEG/1612413450742838729fa38773-ad7d-46d2-b673-92c72d692c59.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[라이어 막방 기념 먹방]]></title>
-            <link>https://www.vlive.tv/video/280120</link>
-            <guid>https://www.vlive.tv/video/280120</guid>
-            <pubDate>Sun, 27 Mar 2022 08:44:31 GMT</pubDate>
-            <content:encoded><![CDATA[오전 8:10]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/280120/thumb?type=f228_128" length="0" type="image//live/280120/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[220327 IVE YUJIN 지니가요 퇴근길 🐶]]></title>
-            <link>https://www.vlive.tv/video/280122</link>
-            <guid>https://www.vlive.tv/video/280122</guid>
-            <pubDate>Sun, 27 Mar 2022 08:44:31 GMT</pubDate>
-            <content:encoded><![CDATA[오전 8:35]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/280122/thumb?type=f228_128" length="0" type="image//live/280122/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[Yuna🦋]]></title>
             <link>https://www.vlive.tv/video/280121</link>
             <guid>https://www.vlive.tv/video/280121</guid>
             <pubDate>Sun, 27 Mar 2022 08:44:31 GMT</pubDate>
             <content:encoded><![CDATA[오전 8:35]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220327_129/1648370136690YrAlX_JPEG/96a37be2-ada8-11ec-aa4b-d4f5ef5906a4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[휘부작휘부작 - EP.14 휘뚜루마뚜루 제주 당일치기]]></title>
+            <link>https://www.vlive.tv/video/280115</link>
+            <guid>https://www.vlive.tv/video/280115</guid>
+            <pubDate>Sun, 27 Mar 2022 09:41:51 GMT</pubDate>
+            <content:encoded><![CDATA[오전 9:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220327_36/1648361622342UBItu_JPEG/upload_646312142774795511c4d46b8-044f-4973-938d-221d19a13a65.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전지적 쿤시점🐨 Ep.09]]></title>
+            <link>https://www.vlive.tv/video/280123</link>
+            <guid>https://www.vlive.tv/video/280123</guid>
+            <pubDate>Sun, 27 Mar 2022 09:41:51 GMT</pubDate>
+            <content:encoded><![CDATA[오전 9:08]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/280123/thumb?type=f228_128" length="0" type="image//live/280123/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[220327 IVE YUJIN 지니가요 퇴근길 🐶]]></title>
+            <link>https://www.vlive.tv/video/280122</link>
+            <guid>https://www.vlive.tv/video/280122</guid>
+            <pubDate>Sun, 27 Mar 2022 08:44:31 GMT</pubDate>
+            <content:encoded><![CDATA[오전 9:09]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220327_277/1648372170711sDOGX_JPEG/118b93c7-adad-11ec-9b7b-505dac8c35ff_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라이어 막방 기념 먹방]]></title>
+            <link>https://www.vlive.tv/video/280120</link>
+            <guid>https://www.vlive.tv/video/280120</guid>
+            <pubDate>Sun, 27 Mar 2022 08:44:31 GMT</pubDate>
+            <content:encoded><![CDATA[오전 9:31]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220327_22/1648373507030Mi6kX_JPEG/94115b02-adaf-11ec-8527-505dac8c38f5_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
