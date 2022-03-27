@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 04:51:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 05:40:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,15 @@
             <guid>https://www.vlive.tv/video/280112</guid>
             <pubDate>Sun, 27 Mar 2022 04:49:49 GMT</pubDate>
             <content:encoded><![CDATA[AB6IX]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/280112/thumb?type=f228_128" length="0" type="image//live/280112/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220327_12/1648359363223qxljr_JPEG/70e27333-ad8f-11ec-931f-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무진이 24시간 브이앱✌]]></title>
+            <link>https://www.vlive.tv/video/280114</link>
+            <guid>https://www.vlive.tv/video/280114</guid>
+            <pubDate>Sun, 27 Mar 2022 05:38:58 GMT</pubDate>
+            <content:encoded><![CDATA[KINGDOM]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/280114/thumb?type=f228_128" length="0" type="image//live/280114/thumb"/>
         </item>
         <item>
             <title><![CDATA[세상이 되어줘서 고마워]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 26 Mar 2022 16:54:54 GMT</pubDate>
             <content:encoded><![CDATA[SF9]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220327_70/1648312044202rEh10_JPEG/7efdc8fb-ad21-11ec-8c0a-48df379ccacc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[심야동한이]]></title>
-            <link>https://www.vlive.tv/video/280104</link>
-            <guid>https://www.vlive.tv/video/280104</guid>
-            <pubDate>Sat, 26 Mar 2022 15:44:09 GMT</pubDate>
-            <content:encoded><![CDATA[위아이 (WEi)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220327_221/1648309816667t3rLY_JPEG/ea3dbed7-ad1b-11ec-b9b3-d4f5ef58ad5e_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

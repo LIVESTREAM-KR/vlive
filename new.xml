@@ -4,7 +4,7 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 04:51:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 05:40:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,14 @@
             <guid>https://www.vlive.tv/video/280112</guid>
             <pubDate>Sun, 27 Mar 2022 04:49:41 GMT</pubDate>
             <content:encoded><![CDATA[AB6IX]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220327_12/1648359363223qxljr_JPEG/70e27333-ad8f-11ec-931f-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무진이 24시간 브이앱✌]]></title>
+            <link>https://www.vlive.tv/video/280114</link>
+            <guid>https://www.vlive.tv/video/280114</guid>
+            <pubDate>Sun, 27 Mar 2022 05:38:49 GMT</pubDate>
+            <content:encoded><![CDATA[KINGDOM]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[세상이 되어줘서 고마워]]></title>
@@ -397,14 +405,6 @@
             <pubDate>Sat, 26 Mar 2022 08:43:50 GMT</pubDate>
             <content:encoded><![CDATA[JUST B (저스트비)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220326_253/1648286013732Xkcdv_JPEG/0b001b50-ace4-11ec-9b7b-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[은서] 오늘의 이야기 EP.45]]></title>
-            <link>https://www.vlive.tv/video/280079</link>
-            <guid>https://www.vlive.tv/video/280079</guid>
-            <pubDate>Sat, 26 Mar 2022 08:43:50 GMT</pubDate>
-            <content:encoded><![CDATA[우주소녀(WJSN)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220326_2/1648285709419xH67X_JPEG/08b715ac-ace4-11ec-9b7b-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
