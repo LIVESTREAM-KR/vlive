@@ -4,9 +4,16 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 05:40:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 06:49:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[3월27일 일요일 오후 3시 27분 ㅅㅎㄱㅅ]]></title>
+            <link>https://www.vlive.tv/video/280116</link>
+            <guid>https://www.vlive.tv/video/280116</guid>
+            <pubDate>Sun, 27 Mar 2022 06:47:58 GMT</pubDate>
+            <content:encoded><![CDATA[ONEUS]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Sunday Morning☀️]]></title>
             <link>https://www.vlive.tv/video/280112</link>
@@ -397,14 +404,6 @@
             <pubDate>Sat, 26 Mar 2022 09:40:40 GMT</pubDate>
             <content:encoded><![CDATA[MBC 예능]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220326_133/1648287291020EOxjg_JPEG/upload_923670091333026705c3b845d-719c-473f-bc99-a59ff275dfe5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JUST B환상의 짝꿍 #임지민🐯 #도염🐱]]></title>
-            <link>https://www.vlive.tv/video/280077</link>
-            <guid>https://www.vlive.tv/video/280077</guid>
-            <pubDate>Sat, 26 Mar 2022 08:43:50 GMT</pubDate>
-            <content:encoded><![CDATA[JUST B (저스트비)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220326_253/1648286013732Xkcdv_JPEG/0b001b50-ace4-11ec-9b7b-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
