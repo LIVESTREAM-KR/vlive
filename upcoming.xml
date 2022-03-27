@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 16:56:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 17:42:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -264,14 +264,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220327_24/1648387878607QHHey_JPEG/efbbdfc0-add1-11ec-8527-505dac8c38f5_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[무지니와 함께하는 24시간 브이앱✌️]]></title>
-            <link>https://www.vlive.tv/video/280139</link>
-            <guid>https://www.vlive.tv/video/280139</guid>
-            <pubDate>Sun, 27 Mar 2022 14:40:04 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:44]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/280139/thumb?type=f228_128" length="0" type="image//live/280139/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[무지니와 24시간 브이앱✌(2)]]></title>
             <link>https://www.vlive.tv/video/280128</link>
             <guid>https://www.vlive.tv/video/280128</guid>
@@ -381,7 +373,7 @@
             <guid>https://www.vlive.tv/video/280145</guid>
             <pubDate>Sun, 27 Mar 2022 14:40:04 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:36]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220328_139/1648395413107Y1Ssz_JPEG/b57e2500-ade2-11ec-bc38-505dac8c37f3_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220328_242/1648401907514gkTRz_JPEG/b57e2500-ade2-11ec-bc38-505dac8c37f3_08.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[🐑왔어요]]></title>
@@ -406,6 +398,14 @@
             <pubDate>Sun, 27 Mar 2022 16:56:19 GMT</pubDate>
             <content:encoded><![CDATA[오후 4:54]]></content:encoded>
             <enclosure url="https://vlive-thumb.pstatic.net/live/280146/thumb?type=f228_128" length="0" type="image//live/280146/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[무지니와 함께하는 24시간 브이앱✌️]]></title>
+            <link>https://www.vlive.tv/video/280139</link>
+            <guid>https://www.vlive.tv/video/280139</guid>
+            <pubDate>Sun, 27 Mar 2022 14:40:04 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:21]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220328_264/1648401691232GP6Hk_JPEG/fe18f47b-adef-11ec-9b7b-505dac8c35ff_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
