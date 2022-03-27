@@ -4,9 +4,16 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 03:46:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 04:51:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sunday Morning☀️]]></title>
+            <link>https://www.vlive.tv/video/280112</link>
+            <guid>https://www.vlive.tv/video/280112</guid>
+            <pubDate>Sun, 27 Mar 2022 04:49:41 GMT</pubDate>
+            <content:encoded><![CDATA[AB6IX]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[세상이 되어줘서 고마워]]></title>
             <link>https://www.vlive.tv/video/280110</link>
@@ -14,6 +21,14 @@
             <pubDate>Sun, 27 Mar 2022 03:44:51 GMT</pubDate>
             <content:encoded><![CDATA[김세정 (KIM SEJEONG)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220327_152/1648350479741BKfBi_JPEG/7040291826967470704027ffa-920a-40e4-9e85-3592ebc60d70.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자.다시!!]]></title>
+            <link>https://www.vlive.tv/video/280111</link>
+            <guid>https://www.vlive.tv/video/280111</guid>
+            <pubDate>Sun, 27 Mar 2022 04:49:41 GMT</pubDate>
+            <content:encoded><![CDATA[김세정 (KIM SEJEONG)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220327_85/1648354209803gMK7c_JPEG/1612298237913688972bb15fc0-6e7c-4661-9a38-c12d98d0259c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[직캠] 브레이브걸스(Brave Girls) 유나(YUNA) - Thank You @ [THANK YOU] SHOWCASE]]></title>
@@ -390,22 +405,6 @@
             <pubDate>Sat, 26 Mar 2022 08:43:50 GMT</pubDate>
             <content:encoded><![CDATA[우주소녀(WJSN)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220326_2/1648285709419xH67X_JPEG/08b715ac-ace4-11ec-9b7b-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이석훈(LEESEOKHOON) - Behind the Album "Customary Place" Part 1]]></title>
-            <link>https://www.vlive.tv/video/280068</link>
-            <guid>https://www.vlive.tv/video/280068</guid>
-            <pubDate>Sat, 26 Mar 2022 09:40:40 GMT</pubDate>
-            <content:encoded><![CDATA[C9 Entertainment]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220326_24/16482774201298na4n_JPEG/upload_6454702197399201312677ea9-affb-48de-9220-5068bfdae805.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비투비 (BTOB) - 비트콤 151화 (비투비 '노래 (The Song)' 녹음하던 날)]]></title>
-            <link>https://www.vlive.tv/video/279989</link>
-            <guid>https://www.vlive.tv/video/279989</guid>
-            <pubDate>Sat, 26 Mar 2022 09:40:40 GMT</pubDate>
-            <content:encoded><![CDATA[BTOB]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220325_61/1648187066836zp2o4_JPEG/upload_644565454022845218b80d34a-c357-4ca6-bb3d-aa6102140def.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
