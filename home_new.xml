@@ -4,9 +4,33 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 02:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 03:20:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[hi]]></title>
+            <link>https://www.vlive.tv/video/280155</link>
+            <guid>https://www.vlive.tv/video/280155</guid>
+            <pubDate>Mon, 28 Mar 2022 03:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220328_115/1648436393643H1Aof_JPEG/upload_64705979377526827cf0a4837-8147-4e88-bff7-d5e100f8f6e9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임상현 | 오늘의 커피 - Mild]]></title>
+            <link>https://www.vlive.tv/video/279867</link>
+            <guid>https://www.vlive.tv/video/279867</guid>
+            <pubDate>Mon, 28 Mar 2022 03:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[MNH ENT.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220323_72/1648044881414BPQAg_JPEG/09283396-aab3-11ec-b3bf-48df379cc9e4_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FNC] DB손해보험과 함께하는 '2021 FNC 픽업 스테이지 : 유스' 공채 오디션 메이킹 영상]]></title>
+            <link>https://www.vlive.tv/video/279825</link>
+            <guid>https://www.vlive.tv/video/279825</guid>
+            <pubDate>Mon, 28 Mar 2022 03:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[FNC]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220323_279/1648024235408HO3Yx_JPEG/upload_9210393542229135523deedb0-c06f-4a00-b8b5-5dc282a2516b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
             <link>https://www.vlive.tv/video/279799</link>
@@ -102,30 +126,6 @@
             <pubDate>Sun, 27 Mar 2022 15:43:58 GMT</pubDate>
             <content:encoded><![CDATA[PURPLE KISS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220327_34/1648386646555iha2D_JPEG/upload_924663530459143274f3a4cfc-9825-4f89-b1ca-0f79304ea17b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stray Kids(스트레이 키즈) "땡" Video]]></title>
-            <link>https://www.vlive.tv/video/280127</link>
-            <guid>https://www.vlive.tv/video/280127</guid>
-            <pubDate>Sun, 27 Mar 2022 15:43:58 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220327_97/1648376802340UEmP8_JPEG/upload_92455259597836358031f4c04-0dad-4de9-b16a-9b65b3828884.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SEVENTEEN (세븐틴) OFFICIAL LOGO MOTION]]></title>
-            <link>https://www.vlive.tv/video/280119</link>
-            <guid>https://www.vlive.tv/video/280119</guid>
-            <pubDate>Sun, 27 Mar 2022 15:43:58 GMT</pubDate>
-            <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220327_87/1648366462104e0qHW_JPEG/upload_92446190322684766bb5fcf2c-580c-4ca7-95d2-c97dc39293f9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임상현 LIM SANG HYUN - '달콤하게, 따뜻하게, 부드럽게 (HoneyMilkTea)' Live Clip Teaser]]></title>
-            <link>https://www.vlive.tv/video/280010</link>
-            <guid>https://www.vlive.tv/video/280010</guid>
-            <pubDate>Sun, 27 Mar 2022 15:43:58 GMT</pubDate>
-            <content:encoded><![CDATA[MNH ENT.]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220328_190/1648394121483D1RY2_JPEG/upload_924738522369902670b27fa34-6f7a-4528-a9ed-3015f841a1bb.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

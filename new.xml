@@ -4,9 +4,33 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 02:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 03:20:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[hi]]></title>
+            <link>https://www.vlive.tv/video/280155</link>
+            <guid>https://www.vlive.tv/video/280155</guid>
+            <pubDate>Mon, 28 Mar 2022 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220328_115/1648436393643H1Aof_JPEG/upload_64705979377526827cf0a4837-8147-4e88-bff7-d5e100f8f6e9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임상현 | 오늘의 커피 - Mild]]></title>
+            <link>https://www.vlive.tv/video/279867</link>
+            <guid>https://www.vlive.tv/video/279867</guid>
+            <pubDate>Mon, 28 Mar 2022 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[MNH ENT.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220323_72/1648044881414BPQAg_JPEG/09283396-aab3-11ec-b3bf-48df379cc9e4_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FNC] DB손해보험과 함께하는 '2021 FNC 픽업 스테이지 : 유스' 공채 오디션 메이킹 영상]]></title>
+            <link>https://www.vlive.tv/video/279825</link>
+            <guid>https://www.vlive.tv/video/279825</guid>
+            <pubDate>Mon, 28 Mar 2022 03:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[FNC]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220323_279/1648024235408HO3Yx_JPEG/upload_9210393542229135523deedb0-c06f-4a00-b8b5-5dc282a2516b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
             <link>https://www.vlive.tv/video/279799</link>
@@ -382,30 +406,6 @@
             <pubDate>Sun, 27 Mar 2022 03:03:20 GMT</pubDate>
             <content:encoded><![CDATA[브레이브걸스(Brave Girls)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220326_94/1648296785759EgTTj_JPEG/upload_6456638775703265798e1bd48-c913-491f-ac7a-14fa170fb743.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[직캠] 브레이브걸스(Brave Girls) 은지(EUNJI) - Thank You @ [THANK YOU] SHOWCASE]]></title>
-            <link>https://www.vlive.tv/video/280099</link>
-            <guid>https://www.vlive.tv/video/280099</guid>
-            <pubDate>Sun, 27 Mar 2022 03:03:20 GMT</pubDate>
-            <content:encoded><![CDATA[브레이브걸스(Brave Girls)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220326_155/1648296511705BBP2Q_JPEG/upload_92376151287062906cfb0cbfc-eb68-49d4-b6df-adf1f7795695.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[직캠] 브레이브걸스(Brave Girls) 유정(YUJEONG) - Thank You @ [THANK YOU] SHOWCASE]]></title>
-            <link>https://www.vlive.tv/video/280098</link>
-            <guid>https://www.vlive.tv/video/280098</guid>
-            <pubDate>Sun, 27 Mar 2022 03:03:20 GMT</pubDate>
-            <content:encoded><![CDATA[브레이브걸스(Brave Girls)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220326_237/1648296068211WBCAJ_JPEG/upload_64565665406524517fabe2336-4f6d-4291-a69c-cade5aea14bf.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[직캠] 브레이브걸스(Brave Girls) 민영(MINYOUNG) - Thank You @ [THANK YOU] SHOWCASE]]></title>
-            <link>https://www.vlive.tv/video/280096</link>
-            <guid>https://www.vlive.tv/video/280096</guid>
-            <pubDate>Sun, 27 Mar 2022 03:03:20 GMT</pubDate>
-            <content:encoded><![CDATA[브레이브걸스(Brave Girls)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220326_185/1648295861846Dc3ED_JPEG/upload_92375563028414955369f0329-476e-49b7-a739-cc045c20fa49.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
