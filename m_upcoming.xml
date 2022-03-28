@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 10:45:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 11:41:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[오마이걸 [Real Love] 컴백 쇼케이스]]></title>
-            <link>https://m.vlive.tv/video/279392</link>
-            <guid>https://m.vlive.tv/video/279392</guid>
-            <pubDate>Thu, 24 Mar 2022 06:49:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">OH MY GIRL</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220317_223/1647508599868T80AI_JPEG/upload_63778206929063557da88a0cc-3451-4a1e-aa2e-94ba8a15b869.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arirang Radio (Radio'n Us / DAVII 다비)]]></title>
-            <link>https://m.vlive.tv/video/279957</link>
-            <guid>https://m.vlive.tv/video/279957</guid>
-            <pubDate>Fri, 25 Mar 2022 09:43:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220324_238/1648133080543Plr6L_JPEG/upload_92212760519248068492139d2-ae28-42f9-a1f8-553470a60ba7.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
             <link>https://m.vlive.tv/video/279800</link>
@@ -96,6 +76,26 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220323_247/1648013287654APD3o_JPEG/upload_920929760616303712fdf2077-9773-44dd-9595-00a1c0dc0508.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / APOKI 아뽀키)]]></title>
+            <link>https://m.vlive.tv/video/279958</link>
+            <guid>https://m.vlive.tv/video/279958</guid>
+            <pubDate>Mon, 28 Mar 2022 11:40:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220324_20/1648133199593dPWmd_JPEG/upload_92212879041082385430c9519-949f-4b77-a50b-83248805f6b4.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
+            <link>https://m.vlive.tv/video/279802</link>
+            <guid>https://m.vlive.tv/video/279802</guid>
+            <pubDate>Mon, 28 Mar 2022 11:40:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220323_96/16480128117563krH7_JPEG/upload_642823816753699353ebae164-f8cd-47f1-bd90-97a40f75f9fe.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
