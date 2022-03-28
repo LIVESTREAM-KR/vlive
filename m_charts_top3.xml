@@ -4,9 +4,17 @@
         <title>V LIVE 모바일 ─ CHARTS </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 08:49:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 09:43:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[찬이의 “방” 🐺 Ep. 149]]></title>
+            <link>https://m.vlive.tv/video/280175</link>
+            <guid>https://m.vlive.tv/video/280175</guid>
+            <pubDate>Mon, 28 Mar 2022 09:43:11 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220328_133/1648459054214seP26_JPEG/3a8ff693-ae76-11ec-8c89-505dacfba98a_02.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[럿디🐁]]></title>
             <link>https://m.vlive.tv/video/280125</link>
@@ -22,14 +30,6 @@
             <pubDate>Sun, 27 Mar 2022 13:41:33 GMT</pubDate>
             <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220327_169/1648387799318fA2El_PNG/upload_924675287900600165d61eb52-653e-4eac-863a-312b33531a6c.png?type=f640_360_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Stray Kids(스트레이 키즈) "땡" Video]]></title>
-            <link>https://m.vlive.tv/video/280127</link>
-            <guid>https://m.vlive.tv/video/280127</guid>
-            <pubDate>Sun, 27 Mar 2022 16:56:04 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220327_97/1648376802340UEmP8_JPEG/upload_92455259597836358031f4c04-0dad-4de9-b16a-9b65b3828884.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
