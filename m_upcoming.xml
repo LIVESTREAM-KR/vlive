@@ -4,26 +4,16 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 03:54:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 04:51:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[ASC Live Ep.516 (WEi / 위아이)]]></title>
-            <link>https://m.vlive.tv/video/280005</link>
-            <guid>https://m.vlive.tv/video/280005</guid>
-            <pubDate>Sat, 26 Mar 2022 10:43:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 4:00</span>
-										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220325_138/1648195240635kfXlr_PNG/upload_922749315551769590771ccc5-24fe-4a88-b559-dd5dd679f547.png?type=f274_154" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Sound K] Mystery Mix with BOiTELLO 보이텔로]]></title>
             <link>https://m.vlive.tv/video/279807</link>
             <guid>https://m.vlive.tv/video/279807</guid>
             <pubDate>Sat, 26 Mar 2022 10:43:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
+										오전 4:51</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220323_141/1648013246092gp56Y_JPEG/upload_92092918763072755eed13d8e-0b5b-4589-a4db-08f46c504462.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
@@ -96,6 +86,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220323_149/1648013106032Xpg3R_JPEG/upload_92092784100135035a76ac4e1-8865-4207-aa3e-ae3c804f2fea.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / OMEGA X 오메가엑스)]]></title>
+            <link>https://m.vlive.tv/video/279838</link>
+            <guid>https://m.vlive.tv/video/279838</guid>
+            <pubDate>Tue, 29 Mar 2022 04:51:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220323_95/16480312652840stUY_JPEG/upload_921109327184015606b79a290-2158-4176-a491-cf52fc386f3b.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 03:54:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 04:51:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Dallas 태환]]></title>
+            <link>https://www.vlive.tv/video/280233</link>
+            <guid>https://www.vlive.tv/video/280233</guid>
+            <pubDate>Tue, 29 Mar 2022 04:50:24 GMT</pubDate>
+            <content:encoded><![CDATA[VANNER (배너)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220329_47/1648528579311SErEB_JPEG/7acfe20e-af19-11ec-a0dc-d4f5ef5a9532_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ASC Live Ep.516 (WEi / 위아이)]]></title>
+            <link>https://www.vlive.tv/video/280005</link>
+            <guid>https://www.vlive.tv/video/280005</guid>
+            <pubDate>Tue, 29 Mar 2022 04:50:24 GMT</pubDate>
+            <content:encoded><![CDATA[After School Club │ 애프터스쿨클럽]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220325_138/1648195240635kfXlr_PNG/upload_922749315551769590771ccc5-24fe-4a88-b559-dd5dd679f547.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[다녀올게요🍀]]></title>
             <link>https://www.vlive.tv/video/280230</link>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 28 Mar 2022 22:42:22 GMT</pubDate>
             <content:encoded><![CDATA[MBC 예능]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220329_75/1648480608105eabna_JPEG/upload_647502039652433351337cbb2-8ad6-4c37-986d-59754a36dba9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠 못드는 밤에 ( 무엇이든 물어보세요!)]]></title>
-            <link>https://www.vlive.tv/video/280220</link>
-            <guid>https://www.vlive.tv/video/280220</guid>
-            <pubDate>Mon, 28 Mar 2022 18:47:37 GMT</pubDate>
-            <content:encoded><![CDATA[허영생]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220329_102/1648489084028hdSsY_JPEG/161277463202202336d32ef3cd-014e-4230-a8b7-f3267405a82d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이대로 퇴근하기 아까운 비주얼]]></title>
-            <link>https://www.vlive.tv/video/280217</link>
-            <guid>https://www.vlive.tv/video/280217</guid>
-            <pubDate>Mon, 28 Mar 2022 15:45:17 GMT</pubDate>
-            <content:encoded><![CDATA[ONEUS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220329_229/1648484613986ERFFM_JPEG/b62432e9-aeb2-11ec-88d2-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
