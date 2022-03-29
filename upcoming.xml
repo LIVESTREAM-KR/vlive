@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 15:47:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 16:59:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -600,20 +600,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20220330_264/16485664679190kVBw_JPEG/aeb49cf3-af71-11ec-8c89-505dacfba98a_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[저 왔어요💗💟]]></title>
-            <link>https://www.vlive.tv/video/280296</link>
-            <guid>https://www.vlive.tv/video/280296</guid>
-            <pubDate>Tue, 29 Mar 2022 15:46:57 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:19]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/280296/thumb?type=f228_128" length="0" type="image//live/280296/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[김동한의 보이스온리 안녕하세요? 김동한입니다.]]></title>
             <link>https://www.vlive.tv/video/280295</link>
             <guid>https://www.vlive.tv/video/280295</guid>
             <pubDate>Tue, 29 Mar 2022 15:46:57 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:37]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220330_233/1648568271165yrTzp_JPEG/e0128fd4-af75-11ec-8c89-505dacfba98a_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잭슨 (Jackson Wang) -  "Blow" 3/31  (TEASER1)]]></title>
+            <link>https://www.vlive.tv/video/280257</link>
+            <guid>https://www.vlive.tv/video/280257</guid>
+            <pubDate>Tue, 29 Mar 2022 16:58:33 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220329_144/164854292524563vUc_PNG/upload_9262235297400215753fe0a75-ecb4-4c35-8454-d45718547afd.png?type=f228_128" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[저 왔어요💗💟]]></title>
+            <link>https://www.vlive.tv/video/280296</link>
+            <guid>https://www.vlive.tv/video/280296</guid>
+            <pubDate>Tue, 29 Mar 2022 15:46:57 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:17]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220330_291/1648570642665PubTC_JPEG/2e97054d-af7b-11ec-88d2-505dacfbaa5c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
