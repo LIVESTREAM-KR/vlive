@@ -4,25 +4,9 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 11:49:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 13:06:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[ㅎㅇ]]></title>
-            <link>https://www.vlive.tv/video/280276</link>
-            <guid>https://www.vlive.tv/video/280276</guid>
-            <pubDate>Tue, 29 Mar 2022 11:48:18 GMT</pubDate>
-            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220329_34/1648551800524kqMcg_JPEG/514c61ed-af4f-11ec-9e39-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오마이걸 [Real Love] 컴백 쇼케이스]]></title>
-            <link>https://www.vlive.tv/video/279392</link>
-            <guid>https://www.vlive.tv/video/279392</guid>
-            <pubDate>Tue, 29 Mar 2022 06:49:43 GMT</pubDate>
-            <content:encoded><![CDATA[OH MY GIRL]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220317_223/1647508599868T80AI_JPEG/upload_63778206929063557da88a0cc-3451-4a1e-aa2e-94ba8a15b869.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[TO DO X TOMORROW X TOGETHER - EP.77]]></title>
             <link>https://www.vlive.tv/video/279687</link>
@@ -38,6 +22,22 @@
             <pubDate>Sun, 27 Mar 2022 13:41:17 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220319_7/1647687448499jDeVv_JPEG/upload_63957049777730443609b6f25-0dea-4faa-a630-1304765785a9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stray Kids(스트레이 키즈) “MANIAC" M/V MAKING FILM]]></title>
+            <link>https://www.vlive.tv/video/280279</link>
+            <guid>https://www.vlive.tv/video/280279</guid>
+            <pubDate>Tue, 29 Mar 2022 13:05:13 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220329_168/1648550783153m995K_PNG/upload_92629713289781817351a2939-aa8f-4557-a4ed-76a57aad5b90.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[오마이걸 [Real Love] 컴백 쇼케이스]]></title>
+            <link>https://www.vlive.tv/video/279392</link>
+            <guid>https://www.vlive.tv/video/279392</guid>
+            <pubDate>Tue, 29 Mar 2022 06:49:43 GMT</pubDate>
+            <content:encoded><![CDATA[OH MY GIRL]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220317_223/1647508599868T80AI_JPEG/upload_63778206929063557da88a0cc-3451-4a1e-aa2e-94ba8a15b869.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
