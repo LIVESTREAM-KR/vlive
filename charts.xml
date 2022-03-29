@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 13:46:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 14:42:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,14 +32,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220328_133/1648459054214seP26_JPEG/3a8ff693-ae76-11ec-8c89-505dacfba98a_02.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[짜잔! BTS!!]]></title>
-            <link>https://www.vlive.tv/video/279567</link>
-            <guid>https://www.vlive.tv/video/279567</guid>
-            <pubDate>Sat, 19 Mar 2022 10:42:46 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220319_7/1647687448499jDeVv_JPEG/upload_63957049777730443609b6f25-0dea-4faa-a630-1304765785a9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Stray Kids(스트레이 키즈) “MANIAC" M/V MAKING FILM]]></title>
             <link>https://www.vlive.tv/video/280279</link>
             <guid>https://www.vlive.tv/video/280279</guid>
@@ -48,12 +40,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20220329_168/1648550783153m995K_PNG/upload_92629713289781817351a2939-aa8f-4557-a4ed-76a57aad5b90.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[TO DO X TOMORROW X TOGETHER - EP.77]]></title>
-            <link>https://www.vlive.tv/video/279687</link>
-            <guid>https://www.vlive.tv/video/279687</guid>
-            <pubDate>Mon, 28 Mar 2022 18:47:58 GMT</pubDate>
-            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220321_41/1647860848657q8wG6_JPEG/upload_91940533779560580f86542c8-481c-4163-a2b5-746fc3932547.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <title><![CDATA[짜잔! BTS!!]]></title>
+            <link>https://www.vlive.tv/video/279567</link>
+            <guid>https://www.vlive.tv/video/279567</guid>
+            <pubDate>Sat, 19 Mar 2022 10:42:46 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220319_7/1647687448499jDeVv_JPEG/upload_63957049777730443609b6f25-0dea-4faa-a630-1304765785a9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다녀올게요🍀]]></title>
@@ -62,6 +54,14 @@
             <pubDate>Tue, 29 Mar 2022 13:45:54 GMT</pubDate>
             <content:encoded><![CDATA[SF9]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220329_36/1648525085470PtfY9_JPEG/4b86c1bf-af11-11ec-8c89-505dacfba98a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TO DO X TOMORROW X TOGETHER - EP.77]]></title>
+            <link>https://www.vlive.tv/video/279687</link>
+            <guid>https://www.vlive.tv/video/279687</guid>
+            <pubDate>Mon, 28 Mar 2022 18:47:58 GMT</pubDate>
+            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220321_41/1647860848657q8wG6_JPEG/upload_91940533779560580f86542c8-481c-4163-a2b5-746fc3932547.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
