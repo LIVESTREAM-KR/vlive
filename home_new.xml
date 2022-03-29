@@ -4,9 +4,33 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 13:06:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 13:46:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한겸 라면]]></title>
+            <link>https://www.vlive.tv/video/280291</link>
+            <guid>https://www.vlive.tv/video/280291</guid>
+            <pubDate>Tue, 29 Mar 2022 13:45:26 GMT</pubDate>
+            <content:encoded><![CDATA[OMEGA X (오메가엑스)]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/280291/thumb?type=f228_128" length="0" type="image//live/280291/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[안농]]></title>
+            <link>https://www.vlive.tv/video/280290</link>
+            <guid>https://www.vlive.tv/video/280290</guid>
+            <pubDate>Tue, 29 Mar 2022 13:45:26 GMT</pubDate>
+            <content:encoded><![CDATA[LOUDI (로우디)]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/280290/thumb?type=f228_128" length="0" type="image//live/280290/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[나랑 놀사람❤️]]></title>
+            <link>https://www.vlive.tv/video/280284</link>
+            <guid>https://www.vlive.tv/video/280284</guid>
+            <pubDate>Tue, 29 Mar 2022 13:45:26 GMT</pubDate>
+            <content:encoded><![CDATA[KINGDOM]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220329_233/1648559184622RilFD_JPEG/7f5cc4ba-af60-11ec-bc38-505dac8c37f3_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[EPEX 3rd EP Album Prelude of Anxiety Chapter 1. ‘21st Century Boys’ Visual Teaser : YEWANG]]></title>
             <link>https://www.vlive.tv/video/280236</link>
@@ -102,30 +126,6 @@
             <pubDate>Tue, 29 Mar 2022 11:48:02 GMT</pubDate>
             <content:encoded><![CDATA[AB6IX]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220329_295/1648553191753ggVmz_JPEG/6588b64d-af52-11ec-aa4b-d4f5ef5906a4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ㅎㅇ]]></title>
-            <link>https://www.vlive.tv/video/280276</link>
-            <guid>https://www.vlive.tv/video/280276</guid>
-            <pubDate>Tue, 29 Mar 2022 11:48:02 GMT</pubDate>
-            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220329_34/1648551800524kqMcg_JPEG/514c61ed-af4f-11ec-9e39-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TPST UNOFF #7]]></title>
-            <link>https://www.vlive.tv/video/280226</link>
-            <guid>https://www.vlive.tv/video/280226</guid>
-            <pubDate>Tue, 29 Mar 2022 11:48:02 GMT</pubDate>
-            <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220329_63/1648518902670edVcn_JPEG/upload_925985874753875859971d4b8-32cc-4a2d-989b-8c535910f593.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stray Kids(스트레이 키즈) “MANIAC" M/V MAKING FILM]]></title>
-            <link>https://www.vlive.tv/video/280279</link>
-            <guid>https://www.vlive.tv/video/280279</guid>
-            <pubDate>Tue, 29 Mar 2022 11:48:02 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220329_168/1648550783153m995K_PNG/upload_92629713289781817351a2939-aa8f-4557-a4ed-76a57aad5b90.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

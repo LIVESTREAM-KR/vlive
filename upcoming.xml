@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 13:06:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 13:46:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -520,14 +520,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220329_264/1648551775113t0xyk_JPEG/161340154284232007156fedec-6882-461e-b63d-858cad9062a5.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[🙃🙃]]></title>
-            <link>https://www.vlive.tv/video/280288</link>
-            <guid>https://www.vlive.tv/video/280288</guid>
-            <pubDate>Tue, 29 Mar 2022 13:05:51 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:21]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/280288/thumb?type=f228_128" length="0" type="image//live/280288/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[권정열 고영배의 십란한밤을 가장한 요리조리 (게스트 미노이🎀) #237]]></title>
             <link>https://www.vlive.tv/video/280289</link>
             <guid>https://www.vlive.tv/video/280289</guid>
@@ -542,6 +534,30 @@
             <pubDate>Tue, 29 Mar 2022 13:05:51 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220329_16/1648528603308bLBDN_JPEG/upload_926083114652528069a2df174-d542-480b-b60d-0aec1d213656.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나랑 놀사람❤️]]></title>
+            <link>https://www.vlive.tv/video/280284</link>
+            <guid>https://www.vlive.tv/video/280284</guid>
+            <pubDate>Tue, 29 Mar 2022 13:46:21 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:06]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220329_233/1648559184622RilFD_JPEG/7f5cc4ba-af60-11ec-bc38-505dac8c37f3_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안농]]></title>
+            <link>https://www.vlive.tv/video/280290</link>
+            <guid>https://www.vlive.tv/video/280290</guid>
+            <pubDate>Tue, 29 Mar 2022 13:46:21 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:11]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/280290/thumb?type=f228_128" length="0" type="image//live/280290/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[한겸 라면]]></title>
+            <link>https://www.vlive.tv/video/280291</link>
+            <guid>https://www.vlive.tv/video/280291</guid>
+            <pubDate>Tue, 29 Mar 2022 13:46:21 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:17]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/280291/thumb?type=f228_128" length="0" type="image//live/280291/thumb"/>
         </item>
     </channel>
 </rss>
