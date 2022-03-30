@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 11:40:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 13:06:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[GEM들 웃기려고 하는 V LIVE]]></title>
-            <link>https://m.vlive.tv/video/280292</link>
-            <guid>https://m.vlive.tv/video/280292</guid>
-            <pubDate>Tue, 29 Mar 2022 13:46:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 12:00</span>
-										<span class="txt">MCND</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220329_115/1648559854875ohErA_JPEG/upload_64829386828748989d29d242a-faa9-4728-b5b3-94dad88ab1b7.jpeg?type=f274_154" length="0" type="image/jpeg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
             <link>https://m.vlive.tv/video/279802</link>
@@ -96,6 +86,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220323_101/16480131584916rqWY_JPEG/upload_920928429840796334c066aea-330b-4bfa-b7cb-5c1a575db0cb.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🌸 봄이 찾아왔어요🌸]]></title>
+            <link>https://m.vlive.tv/video/280343</link>
+            <guid>https://m.vlive.tv/video/280343</guid>
+            <pubDate>Wed, 30 Mar 2022 13:06:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">INMEDIA+</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220330_244/1648626634624xEGAH_JPEG/upload_92705471958596592eb627e35-146d-410e-97f2-c4bb965b0ee3.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
