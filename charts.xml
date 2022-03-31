@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 18:49:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 19:40:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,20 +48,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220330_270/1648635093357ji4Mw_JPEG/5a3ea492-b011-11ec-88d2-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[#밝게빛날_은우의_26번째_봄]]></title>
-            <link>https://www.vlive.tv/video/280381</link>
-            <guid>https://www.vlive.tv/video/280381</guid>
-            <pubDate>Wed, 30 Mar 2022 13:05:58 GMT</pubDate>
-            <content:encoded><![CDATA[ASTRO]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220330_212/1648641168846iYGea_JPEG/52fa6973-b01f-11ec-bc38-505dac8c37f3_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[ENHYPEN (엔하이픈) 'EN-O'CLOCK' EP.31]]></title>
             <link>https://www.vlive.tv/video/280422</link>
             <guid>https://www.vlive.tv/video/280422</guid>
             <pubDate>Thu, 31 Mar 2022 15:46:27 GMT</pubDate>
             <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220331_43/1648709114350VSEgC_PNG/upload_64978705193690229972c0734-b7ec-4a48-8b0f-044fb800beb0.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[#밝게빛날_은우의_26번째_봄]]></title>
+            <link>https://www.vlive.tv/video/280381</link>
+            <guid>https://www.vlive.tv/video/280381</guid>
+            <pubDate>Wed, 30 Mar 2022 13:05:58 GMT</pubDate>
+            <content:encoded><![CDATA[ASTRO]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220330_212/1648641168846iYGea_JPEG/52fa6973-b01f-11ec-bc38-505dac8c37f3_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
