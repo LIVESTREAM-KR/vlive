@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 23:43:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 02:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
+            <link>https://www.vlive.tv/video/279802</link>
+            <guid>https://www.vlive.tv/video/279802</guid>
+            <pubDate>Thu, 31 Mar 2022 02:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220323_96/16480128117563krH7_JPEG/upload_642823816753699353ebae164-f8cd-47f1-bd90-97a40f75f9fe.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[HWAN TV Season3] 28. 일거수일투족 VANNER의 삶에 끼어들고 싶은 HWAN PD]]></title>
             <link>https://www.vlive.tv/video/280219</link>
@@ -398,14 +406,6 @@
             <pubDate>Wed, 30 Mar 2022 10:44:09 GMT</pubDate>
             <content:encoded><![CDATA[FNC]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220330_46/16486314332389kqOo_JPEG/upload_92711143384324212e6fa15e3-2bd7-4d01-afa4-f6b62be52a77.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[W-TALK] GUESS WHO’S BACK? HOONY!]]></title>
-            <link>https://www.vlive.tv/video/280232</link>
-            <guid>https://www.vlive.tv/video/280232</guid>
-            <pubDate>Wed, 30 Mar 2022 10:44:09 GMT</pubDate>
-            <content:encoded><![CDATA[WINNER]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220329_77/1648526038693Aa5x0_JPEG/upload_647956238668997390f5936b8-1a24-47d9-97e2-ba9fa42abd68.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
