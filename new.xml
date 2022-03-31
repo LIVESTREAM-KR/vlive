@@ -4,7 +4,7 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 17:00:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 17:45:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,13 +14,6 @@
             <pubDate>Thu, 31 Mar 2022 16:58:40 GMT</pubDate>
             <content:encoded><![CDATA[Apink]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220401_61/1648745843340SCepc_JPEG/3cad0699-b113-11ec-bc38-505dac8c37f3_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[면💕]]></title>
-            <link>https://www.vlive.tv/video/280466</link>
-            <guid>https://www.vlive.tv/video/280466</guid>
-            <pubDate>Thu, 31 Mar 2022 16:58:40 GMT</pubDate>
-            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[보고싶었어! DID YOU MISS ME? 💛🐝]]></title>
@@ -405,6 +398,14 @@
             <pubDate>Thu, 31 Mar 2022 08:42:34 GMT</pubDate>
             <content:encoded><![CDATA[ARIRANG K Pop │ 아리랑케이팝]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220331_252/1648712711292z8xKj_PNG/upload_927924443798742635274bde1-9266-4420-a278-77fbd43bb869.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / OMEGA X 오메가엑스)]]></title>
+            <link>https://www.vlive.tv/video/279838</link>
+            <guid>https://www.vlive.tv/video/279838</guid>
+            <pubDate>Thu, 31 Mar 2022 17:43:16 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220323_95/16480312652840stUY_JPEG/upload_921109327184015606b79a290-2158-4176-a491-cf52fc386f3b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
