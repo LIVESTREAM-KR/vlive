@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 13:07:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 13:47:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,14 +392,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220331_106/16487304715846kD1z_JPEG/c83f28c8-b0ee-11ec-9e39-505dac8c385b_05.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[켓치❣]]></title>
-            <link>https://www.vlive.tv/video/280451</link>
-            <guid>https://www.vlive.tv/video/280451</guid>
-            <pubDate>Thu, 31 Mar 2022 13:07:03 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:52]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/280451/thumb?type=f228_128" length="0" type="image//live/280451/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤... #3 📻FM 12.10📻]]></title>
             <link>https://www.vlive.tv/video/280452</link>
             <guid>https://www.vlive.tv/video/280452</guid>
@@ -416,11 +408,19 @@
             <enclosure url="https://v-phinf.pstatic.net/20220331_142/1648731906580NPBFx_JPEG/d490b49a-b0f2-11ec-9e39-505dac8c385b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[포맨] 미리 만나는 만우절 특집 (Voice Only)😜]]></title>
+            <link>https://www.vlive.tv/video/280447</link>
+            <guid>https://www.vlive.tv/video/280447</guid>
+            <pubDate>Thu, 31 Mar 2022 13:47:14 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:08]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220331_216/1648728008735mBvVf_JPEG/16160362473137597953f84536-bb2c-4833-9175-d53b2b8f219b.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[스케줄 중 잠깐만 할게요😁💛]]></title>
             <link>https://www.vlive.tv/video/280453</link>
             <guid>https://www.vlive.tv/video/280453</guid>
             <pubDate>Thu, 31 Mar 2022 13:07:03 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:06]]></content:encoded>
+            <content:encoded><![CDATA[오후 1:14]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220331_295/1648731977944RXsGg_JPEG/161520367577317869e9eedf58-c5a5-446d-a400-804c24dffabc.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
