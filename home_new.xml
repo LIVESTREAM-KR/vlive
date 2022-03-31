@@ -4,9 +4,33 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 15:47:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 17:00:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4001일 4월1일]]></title>
+            <link>https://www.vlive.tv/video/280465</link>
+            <guid>https://www.vlive.tv/video/280465</guid>
+            <pubDate>Thu, 31 Mar 2022 16:58:48 GMT</pubDate>
+            <content:encoded><![CDATA[Apink]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220401_61/1648745843340SCepc_JPEG/3cad0699-b113-11ec-bc38-505dac8c37f3_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[면💕]]></title>
+            <link>https://www.vlive.tv/video/280466</link>
+            <guid>https://www.vlive.tv/video/280466</guid>
+            <pubDate>Thu, 31 Mar 2022 16:58:48 GMT</pubDate>
+            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/280466/thumb?type=f228_128" length="0" type="image//live/280466/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[보고싶었어! DID YOU MISS ME? 💛🐝]]></title>
+            <link>https://www.vlive.tv/video/280464</link>
+            <guid>https://www.vlive.tv/video/280464</guid>
+            <pubDate>Thu, 31 Mar 2022 15:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220331_5/16487385030770nKKs_JPEG/878949859088638197bad1c1e-6fc9-4210-a7ae-7ee7d5537878.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소통]]></title>
             <link>https://www.vlive.tv/video/280463</link>
@@ -72,14 +96,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220331_95/16487312360847MPn4_JPEG/161519610073402446c3296b6a-90b9-4e2a-8793-29b2dca72c78.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[보고싶었어! DID YOU MISS ME? 💛🐝]]></title>
-            <link>https://www.vlive.tv/video/280464</link>
-            <guid>https://www.vlive.tv/video/280464</guid>
-            <pubDate>Thu, 31 Mar 2022 15:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220331_5/16487385030770nKKs_JPEG/878949859088638197bad1c1e-6fc9-4210-a7ae-7ee7d5537878.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[소통타임]]></title>
             <link>https://www.vlive.tv/video/280462</link>
             <guid>https://www.vlive.tv/video/280462</guid>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 31 Mar 2022 13:46:23 GMT</pubDate>
             <content:encoded><![CDATA[윤서빈 (Yoon Seobin)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220331_295/1648731977944RXsGg_JPEG/161520367577317869e9eedf58-c5a5-446d-a400-804c24dffabc.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포맨] 미리 만나는 만우절 특집 (Voice Only)😜]]></title>
-            <link>https://www.vlive.tv/video/280447</link>
-            <guid>https://www.vlive.tv/video/280447</guid>
-            <pubDate>Thu, 31 Mar 2022 13:46:23 GMT</pubDate>
-            <content:encoded><![CDATA[MAJOR9 (메이저나인)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220331_216/1648728008735mBvVf_JPEG/16160362473137597953f84536-bb2c-4833-9175-d53b2b8f219b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뮤지컬 클림트 연습 후 🙃]]></title>
-            <link>https://www.vlive.tv/video/280450</link>
-            <guid>https://www.vlive.tv/video/280450</guid>
-            <pubDate>Thu, 31 Mar 2022 13:06:19 GMT</pubDate>
-            <content:encoded><![CDATA[BDC]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220331_142/1648731906580NPBFx_JPEG/d490b49a-b0f2-11ec-9e39-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
