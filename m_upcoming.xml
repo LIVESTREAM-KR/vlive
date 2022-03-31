@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 07:41:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 08:44:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[동동게임센터 OPEN❗ 동동이와 함께 달려볼 준비 됐나요🏃 | 동동게임센터]]></title>
-            <link>https://m.vlive.tv/video/280353</link>
-            <guid>https://m.vlive.tv/video/280353</guid>
-            <pubDate>Wed, 30 Mar 2022 09:43:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 8:00</span>
-										<span class="txt">Golden Child</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220330_296/1648630806790OwUXv_JPEG/upload_9271026553715464152af499f-8847-42f8-9434-928eed09c41d.jpeg?type=f274_154" length="0" type="image/jpeg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
             <link>https://m.vlive.tv/video/279803</link>
@@ -86,6 +76,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220329_96/1648554690320bmFaO_JPEG/upload_92634392434725477ebf7e4b2-ac42-4fe3-ba00-ddf6334341c7.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
+            <link>https://m.vlive.tv/video/280304</link>
+            <guid>https://m.vlive.tv/video/280304</guid>
+            <pubDate>Thu, 31 Mar 2022 08:43:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220330_112/1648604528455Uodzj_JPEG/upload_9268421027899937882e631bd-e7f8-4f1a-9f60-d69dc8e8a1b2.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
