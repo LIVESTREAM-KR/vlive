@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 10:45:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 11:43:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,16 @@
 										오전 4:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220330_152/1648615236366Y4BAW_JPEG/upload_64884778280133857e3c94fe5-89fb-4953-afd2-4907259590b5.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ASC Live Ep.517 (CRAVITY / 크래비티)]]></title>
+            <link>https://m.vlive.tv/video/280502</link>
+            <guid>https://m.vlive.tv/video/280502</guid>
+            <pubDate>Fri, 01 Apr 2022 11:42:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220401_88/1648794350024fRPf9_PNG/upload_92874059339142916dfd6b9cf-b4d5-402d-948d-83e11490485a.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
