@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 15:45:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 16:56:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -384,14 +384,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220402_166/16489093713577L524_JPEG/a4d6f105-b28f-11ec-b1ad-d4f5ef590144_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[Radio Hama] 심야라디오던가..?]]></title>
-            <link>https://www.vlive.tv/video/280623</link>
-            <guid>https://www.vlive.tv/video/280623</guid>
-            <pubDate>Sat, 02 Apr 2022 14:40:54 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:32]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220402_153/1648909963486cbiBn_JPEG/161698333474628974ed55c271-8e38-460d-a436-1069af55c09e.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[DKZ] 'CHASE EPISODE 2. MAUM' CONCEPT FILM - GISEOK]]></title>
             <link>https://www.vlive.tv/video/280555</link>
             <guid>https://www.vlive.tv/video/280555</guid>
@@ -440,20 +432,44 @@
             <enclosure url="https://v-phinf.pstatic.net/20220402_113/16489038768167uQN7_JPEG/1616922707880672523c958f75-124c-4197-94b9-202daf49d14e.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[I'm angang]]></title>
-            <link>https://www.vlive.tv/video/280625</link>
-            <guid>https://www.vlive.tv/video/280625</guid>
-            <pubDate>Sat, 02 Apr 2022 15:44:45 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:19]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/280625/thumb?type=f228_128" length="0" type="image//live/280625/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[잠깐 라이브!!]]></title>
             <link>https://www.vlive.tv/video/280622</link>
             <guid>https://www.vlive.tv/video/280622</guid>
             <pubDate>Sat, 02 Apr 2022 14:40:54 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:26]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220403_274/1648913194801FbFPk_JPEG/07396df0-b298-11ec-bc9a-505dac8c381b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Radio Hama] 심야라디오던가..?]]></title>
+            <link>https://www.vlive.tv/video/280623</link>
+            <guid>https://www.vlive.tv/video/280623</guid>
+            <pubDate>Sat, 02 Apr 2022 14:40:54 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:30]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220402_153/1648909963486cbiBn_JPEG/161698333474628974ed55c271-8e38-460d-a436-1069af55c09e.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I'm angang]]></title>
+            <link>https://www.vlive.tv/video/280625</link>
+            <guid>https://www.vlive.tv/video/280625</guid>
+            <pubDate>Sat, 02 Apr 2022 15:44:45 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:33]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220403_107/1648917238592I4NDe_JPEG/ce3f347f-b2a1-11ec-ad5e-48df37ae3fca_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[선공개] 노가 부러졌다?! "어떻게 해!" 💥 키조개를 잡기 위한 명수 X 조나단 X 럭키 X 폴서울의 작은 여정!, MBC 220404 방송]]></title>
+            <link>https://www.vlive.tv/video/280627</link>
+            <guid>https://www.vlive.tv/video/280627</guid>
+            <pubDate>Sat, 02 Apr 2022 16:56:26 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:51]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220403_7/1648918270396ggiMQ_JPEG/upload_929979877049956148a8e86de-be74-4848-af45-a3ac36ca33be.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[허니의 조금 늦은 심야라디오💜🤍]]></title>
+            <link>https://www.vlive.tv/video/280628</link>
+            <guid>https://www.vlive.tv/video/280628</guid>
+            <pubDate>Sat, 02 Apr 2022 16:56:26 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:53]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/280628/thumb?type=f228_128" length="0" type="image//live/280628/thumb"/>
         </item>
     </channel>
 </rss>
