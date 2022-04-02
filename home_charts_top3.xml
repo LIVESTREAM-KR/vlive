@@ -4,16 +4,24 @@
         <title>V LIVE ─ 홈 ─ CHARTS TOP3</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 11:40:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 13:00:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[❓]]></title>
-            <link>https://www.vlive.tv/video/280533</link>
-            <guid>https://www.vlive.tv/video/280533</guid>
-            <pubDate>Fri, 01 Apr 2022 10:44:27 GMT</pubDate>
-            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220401_283/1648811154702c0yTW_JPEG/upload_928908679041761189f5f8725-7b9f-46cb-b616-8a4798f82eed.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+            <title><![CDATA[수빈 페인팅🎨]]></title>
+            <link>https://www.vlive.tv/video/280611</link>
+            <guid>https://www.vlive.tv/video/280611</guid>
+            <pubDate>Sat, 02 Apr 2022 12:59:17 GMT</pubDate>
+            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/280611/thumb?type=f640_362" length="0" type="image//live/280611/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[스트릿 WO.O 파이터]]></title>
+            <link>https://www.vlive.tv/video/280608</link>
+            <guid>https://www.vlive.tv/video/280608</guid>
+            <pubDate>Sat, 02 Apr 2022 12:59:17 GMT</pubDate>
+            <content:encoded><![CDATA[NMIXX]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220402_21/1648902881264D2ya1_JPEG/23a38609-b280-11ec-9b7b-505dac8c35ff_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기타와 경윤🎸]]></title>
@@ -22,14 +30,6 @@
             <pubDate>Sat, 02 Apr 2022 03:11:32 GMT</pubDate>
             <content:encoded><![CDATA[DKZ]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220402_141/1648828661233uRdjQ_JPEG/7e260be0-b1cc-11ec-b1ad-d4f5ef590144_05.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[짜잔! BTS!!]]></title>
-            <link>https://www.vlive.tv/video/279567</link>
-            <guid>https://www.vlive.tv/video/279567</guid>
-            <pubDate>Sat, 02 Apr 2022 10:43:05 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220319_7/1647687448499jDeVv_JPEG/upload_63957049777730443609b6f25-0dea-4faa-a630-1304765785a9.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
