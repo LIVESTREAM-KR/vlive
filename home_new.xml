@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 07:40:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 08:46:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[살 짝 쿵!  등장!!]]></title>
+            <link>https://www.vlive.tv/video/280597</link>
+            <guid>https://www.vlive.tv/video/280597</guid>
+            <pubDate>Sat, 02 Apr 2022 08:44:50 GMT</pubDate>
+            <content:encoded><![CDATA[UP10TION]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/280597/thumb?type=f228_128" length="0" type="image//live/280597/thumb"/>
+        </item>
         <item>
             <title><![CDATA[[너목보9/10회 선공개] '이것이 립싱크다!' 무대를 뒤집어 놓은 청순몽환 립싱크 장인 등장?!🤭💗 | 오늘 밤 11시]]></title>
             <link>https://www.vlive.tv/video/280594</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 02 Apr 2022 03:11:26 GMT</pubDate>
             <content:encoded><![CDATA[W24]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220402_191/1648833024228HEcK5_JPEG/682df0eb-b1de-11ec-9b7b-505dac8c35ff_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[선공개] 손연재의 리듬체조 촬영 현장!🎀 "진짜 영화 같다..."🎞️🙊 , MBC 220402 방송]]></title>
-            <link>https://www.vlive.tv/video/280589</link>
-            <guid>https://www.vlive.tv/video/280589</guid>
-            <pubDate>Sat, 02 Apr 2022 02:13:50 GMT</pubDate>
-            <content:encoded><![CDATA[MBC 예능]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220402_223/1648863100115Kej5u_JPEG/upload_6513258672822988199392dcb-0305-445f-841b-8b1e3234bcdf.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
