@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 14:40:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 15:45:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,28 +24,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20220403_194/1648984858022OiwVq_JPEG/f0516452-b33f-11ec-931f-505dac8c3721_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[수빈 페인팅🎨]]></title>
-            <link>https://www.vlive.tv/video/280611</link>
-            <guid>https://www.vlive.tv/video/280611</guid>
-            <pubDate>Sat, 02 Apr 2022 12:59:34 GMT</pubDate>
-            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220402_206/1648907081978OdvyO_PNG/upload_65176685497873725bcd255bf-4aca-4b7c-b26b-fae99925dee7.png?type=f380_213_wp" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[짜잔! BTS!!]]></title>
             <link>https://www.vlive.tv/video/279567</link>
             <guid>https://www.vlive.tv/video/279567</guid>
             <pubDate>Sat, 19 Mar 2022 10:42:46 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220319_7/1647687448499jDeVv_JPEG/upload_63957049777730443609b6f25-0dea-4faa-a630-1304765785a9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스트릿 WO.O 파이터]]></title>
-            <link>https://www.vlive.tv/video/280608</link>
-            <guid>https://www.vlive.tv/video/280608</guid>
-            <pubDate>Sat, 02 Apr 2022 12:59:34 GMT</pubDate>
-            <content:encoded><![CDATA[NMIXX]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220402_21/1648902881264D2ya1_JPEG/23a38609-b280-11ec-9b7b-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220319_7/1647687448499jDeVv_JPEG/upload_63957049777730443609b6f25-0dea-4faa-a630-1304765785a9.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Stray Kids(스트레이 키즈) "Lonely St." Video MAKING FILM]]></title>
@@ -56,12 +40,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20220403_34/1648982871745hd54T_PNG/upload_930611711179780101dc6d156-cee0-4e16-8c7c-0096a6fd8cc3.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[수빈 페인팅🎨]]></title>
+            <link>https://www.vlive.tv/video/280611</link>
+            <guid>https://www.vlive.tv/video/280611</guid>
+            <pubDate>Sat, 02 Apr 2022 12:59:34 GMT</pubDate>
+            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220402_206/1648907081978OdvyO_PNG/upload_65176685497873725bcd255bf-4aca-4b7c-b26b-fae99925dee7.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[최윤진이 쏘아올린 작은 공]]></title>
             <link>https://www.vlive.tv/video/280658</link>
             <guid>https://www.vlive.tv/video/280658</guid>
             <pubDate>Sun, 03 Apr 2022 14:39:57 GMT</pubDate>
             <content:encoded><![CDATA[NMIXX]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220403_217/1648991291673sLbnf_JPEG/e3161920-b34e-11ec-88d2-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스트릿 WO.O 파이터]]></title>
+            <link>https://www.vlive.tv/video/280608</link>
+            <guid>https://www.vlive.tv/video/280608</guid>
+            <pubDate>Sat, 02 Apr 2022 12:59:34 GMT</pubDate>
+            <content:encoded><![CDATA[NMIXX]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220402_21/1648902881264D2ya1_JPEG/23a38609-b280-11ec-9b7b-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
