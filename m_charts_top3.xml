@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ CHARTS </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 13:01:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 13:42:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220403_147/1648969331000sopNr_JPEG/upload_93049060386133728e751e983-587e-4b1c-b2f0-6142d28518ed.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[수빈 페인팅🎨]]></title>
-            <link>https://m.vlive.tv/video/280611</link>
-            <guid>https://m.vlive.tv/video/280611</guid>
-            <pubDate>Sat, 02 Apr 2022 12:59:41 GMT</pubDate>
-            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220402_206/1648907081978OdvyO_PNG/upload_65176685497873725bcd255bf-4aca-4b7c-b26b-fae99925dee7.png?type=f640_360_wp" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[❤더비 사랑해❤]]></title>
             <link>https://m.vlive.tv/video/280650</link>
             <guid>https://m.vlive.tv/video/280650</guid>
             <pubDate>Sun, 03 Apr 2022 13:00:19 GMT</pubDate>
             <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220403_194/1648984858022OiwVq_JPEG/f0516452-b33f-11ec-931f-505dac8c3721_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수빈 페인팅🎨]]></title>
+            <link>https://m.vlive.tv/video/280611</link>
+            <guid>https://m.vlive.tv/video/280611</guid>
+            <pubDate>Sat, 02 Apr 2022 12:59:41 GMT</pubDate>
+            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220402_206/1648907081978OdvyO_PNG/upload_65176685497873725bcd255bf-4aca-4b7c-b26b-fae99925dee7.png?type=f640_360_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

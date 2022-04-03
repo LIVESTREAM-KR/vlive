@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 13:01:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 13:42:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,14 +192,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220403_273/1648986948639EoHeI_JPEG/d2be7d87-b344-11ec-bc38-505dac8c37f3_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[손톱 달 밤🌙]]></title>
-            <link>https://www.vlive.tv/video/280654</link>
-            <guid>https://www.vlive.tv/video/280654</guid>
-            <pubDate>Sun, 03 Apr 2022 13:00:32 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:17]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220403_141/16489882250425wxqt_JPEG/161863743032114586e41657a9-3f01-458f-8c9d-e6c5de949f13.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[인기가요 끝나고~]]></title>
             <link>https://www.vlive.tv/video/280651</link>
             <guid>https://www.vlive.tv/video/280651</guid>
@@ -213,14 +205,7 @@
             <guid>https://www.vlive.tv/video/280655</guid>
             <pubDate>Sun, 03 Apr 2022 13:00:32 GMT</pubDate>
             <content:encoded><![CDATA[오후 12:36]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[🍙🍣🍤🍧🍫🍲🥧🍪🥜🍎🍓🫐🥥🍈🥐🥞🍖🍗🍟]]></title>
-            <link>https://www.vlive.tv/video/280656</link>
-            <guid>https://www.vlive.tv/video/280656</guid>
-            <pubDate>Sun, 03 Apr 2022 13:00:32 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:40]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220403_258/1648989608280VaUNe_JPEG/71042046764430585d4209cb2-2664-4e83-814f-b711fd8f6596.jpg?type=f228_128" length="0" type="image/jpg"/>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/280655/thumb?type=f228_128" length="0" type="image//live/280655/thumb"/>
         </item>
         <item>
             <title><![CDATA[[Ü.나.시] 4월입니다🌸]]></title>
@@ -229,14 +214,6 @@
             <pubDate>Sun, 03 Apr 2022 13:00:32 GMT</pubDate>
             <content:encoded><![CDATA[오후 12:44]]></content:encoded>
             <enclosure url="https://vlive-thumb.pstatic.net/live/280657/thumb?type=f228_128" length="0" type="image//live/280657/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[최윤진이 쏘아올린 작은 공]]></title>
-            <link>https://www.vlive.tv/video/280658</link>
-            <guid>https://www.vlive.tv/video/280658</guid>
-            <pubDate>Sun, 03 Apr 2022 13:00:32 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:53]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/280658/thumb?type=f228_128" length="0" type="image//live/280658/thumb"/>
         </item>
         <item>
             <title><![CDATA[안농]]></title>
@@ -261,6 +238,22 @@
             <pubDate>Sun, 03 Apr 2022 13:00:32 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220401_26/1648809650448iz0fA_JPEG/upload_9288934590237396599c43d24-5269-49cd-a5a8-aa49f07b953a.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최윤진이 쏘아올린 작은 공]]></title>
+            <link>https://www.vlive.tv/video/280658</link>
+            <guid>https://www.vlive.tv/video/280658</guid>
+            <pubDate>Sun, 03 Apr 2022 13:00:32 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:08]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220403_217/1648991291673sLbnf_JPEG/e3161920-b34e-11ec-88d2-505dacfbaa5c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[손톱 달 밤🌙]]></title>
+            <link>https://www.vlive.tv/video/280654</link>
+            <guid>https://www.vlive.tv/video/280654</guid>
+            <pubDate>Sun, 03 Apr 2022 13:00:32 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:29]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220403_141/16489882250425wxqt_JPEG/161863743032114586e41657a9-3f01-458f-8c9d-e6c5de949f13.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
