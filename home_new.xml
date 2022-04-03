@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 04:51:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 05:40:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일요일]]></title>
+            <link>https://www.vlive.tv/video/280632</link>
+            <guid>https://www.vlive.tv/video/280632</guid>
+            <pubDate>Sun, 03 Apr 2022 04:50:07 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220403_297/1648962993987H1uTo_JPEG/cdc56d87-b30c-11ec-b9b3-d4f5ef58ad5e_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[내 목소리가 엘링 보고싶다구 해요❤]]></title>
             <link>https://www.vlive.tv/video/280630</link>
@@ -14,14 +22,6 @@
             <pubDate>Sun, 03 Apr 2022 03:10:07 GMT</pubDate>
             <content:encoded><![CDATA[E'LAST]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220403_9/1648953727187Gz6Xp_JPEG/161829327168715462805db1dc-9fa5-4064-9c2c-018e8e5eb053.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일요일]]></title>
-            <link>https://www.vlive.tv/video/280632</link>
-            <guid>https://www.vlive.tv/video/280632</guid>
-            <pubDate>Sun, 03 Apr 2022 04:50:07 GMT</pubDate>
-            <content:encoded><![CDATA[SF9]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/280632/thumb?type=f228_128" length="0" type="image//live/280632/thumb"/>
         </item>
         <item>
             <title><![CDATA[인기가요 가는 길]]></title>
