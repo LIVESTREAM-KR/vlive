@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 15:45:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 16:56:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -296,20 +296,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20220401_37/1648806321450bfHaw_JPEG/upload_92886038052063229c7189d3f-db9a-47d0-9849-b3c5058adce3.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[찬이의 "방" 🐺 Ep. 150]]></title>
-            <link>https://www.vlive.tv/video/280663</link>
-            <guid>https://www.vlive.tv/video/280663</guid>
-            <pubDate>Sun, 03 Apr 2022 15:45:18 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:16]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/280663/thumb?type=f228_128" length="0" type="image//live/280663/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[지미니와따]]></title>
             <link>https://www.vlive.tv/video/280661</link>
             <guid>https://www.vlive.tv/video/280661</guid>
             <pubDate>Sun, 03 Apr 2022 14:40:18 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:23]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220404_65/1648999418204LI2u5_JPEG/9d17e0c3-b361-11ec-8c89-505dacfba98a_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[냥냥💛]]></title>
+            <link>https://www.vlive.tv/video/280665</link>
+            <guid>https://www.vlive.tv/video/280665</guid>
+            <pubDate>Sun, 03 Apr 2022 16:56:17 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:35]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220404_253/1649003733556QmBNu_JPEG/161879251539790166288b3eb9-ecfe-4a9f-8f5a-641954545c25.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찬이의 "방" 🐺 Ep. 150]]></title>
+            <link>https://www.vlive.tv/video/280663</link>
+            <guid>https://www.vlive.tv/video/280663</guid>
+            <pubDate>Sun, 03 Apr 2022 15:45:18 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:49]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220404_233/1649004554916niGLY_JPEG/57027a4b-b36d-11ec-be97-505dac8c3639_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
