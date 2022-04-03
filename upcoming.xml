@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 03:50:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 04:51:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Sun, 03 Apr 2022 02:15:45 GMT</pubDate>
             <content:encoded><![CDATA[오전 1:49]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220330_194/1648618683919bH8wu_JPEG/836dcfbd-afeb-11ec-9b7b-505dac8c35ff_03.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 목소리가 엘링 보고싶다구 해요❤]]></title>
-            <link>https://www.vlive.tv/video/280630</link>
-            <guid>https://www.vlive.tv/video/280630</guid>
-            <pubDate>Sun, 03 Apr 2022 03:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[오전 2:42]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220403_9/1648953727187Gz6Xp_JPEG/161829327168715462805db1dc-9fa5-4064-9c2c-018e8e5eb053.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[W24] 꾸준히 J♡B=LOVE MV Teaser]]></title>
@@ -54,6 +46,22 @@
             <pubDate>Sun, 03 Apr 2022 03:10:51 GMT</pubDate>
             <content:encoded><![CDATA[오전 3:08]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220403_213/1648954294901qnJRE_JPEG/161829893853482784d9b7bba4-8005-4b66-9089-ba3b4cdf885b.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일요일]]></title>
+            <link>https://www.vlive.tv/video/280632</link>
+            <guid>https://www.vlive.tv/video/280632</guid>
+            <pubDate>Sun, 03 Apr 2022 04:50:50 GMT</pubDate>
+            <content:encoded><![CDATA[오전 4:24]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/280632/thumb?type=f228_128" length="0" type="image//live/280632/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[내 목소리가 엘링 보고싶다구 해요❤]]></title>
+            <link>https://www.vlive.tv/video/280630</link>
+            <guid>https://www.vlive.tv/video/280630</guid>
+            <pubDate>Sun, 03 Apr 2022 03:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[오전 4:35]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220403_9/1648953727187Gz6Xp_JPEG/161829327168715462805db1dc-9fa5-4064-9c2c-018e8e5eb053.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

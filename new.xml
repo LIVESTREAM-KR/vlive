@@ -4,9 +4,24 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 03:50:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 04:51:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[내 목소리가 엘링 보고싶다구 해요❤]]></title>
+            <link>https://www.vlive.tv/video/280630</link>
+            <guid>https://www.vlive.tv/video/280630</guid>
+            <pubDate>Sun, 03 Apr 2022 03:09:59 GMT</pubDate>
+            <content:encoded><![CDATA[E'LAST]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220403_9/1648953727187Gz6Xp_JPEG/161829327168715462805db1dc-9fa5-4064-9c2c-018e8e5eb053.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일요일]]></title>
+            <link>https://www.vlive.tv/video/280632</link>
+            <guid>https://www.vlive.tv/video/280632</guid>
+            <pubDate>Sun, 03 Apr 2022 04:49:59 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[인기가요 가는 길]]></title>
             <link>https://www.vlive.tv/video/280631</link>
@@ -38,14 +53,6 @@
             <pubDate>Sun, 03 Apr 2022 03:09:59 GMT</pubDate>
             <content:encoded><![CDATA[W24]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220402_27/16488908638370ijae_JPEG/3340d36d-b265-11ec-8c89-505dacfba98a_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내 목소리가 엘링 보고싶다구 해요❤]]></title>
-            <link>https://www.vlive.tv/video/280630</link>
-            <guid>https://www.vlive.tv/video/280630</guid>
-            <pubDate>Sun, 03 Apr 2022 03:09:59 GMT</pubDate>
-            <content:encoded><![CDATA[E'LAST]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220403_9/1648953727187Gz6Xp_JPEG/161829327168715462805db1dc-9fa5-4064-9c2c-018e8e5eb053.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[허니의 조금 늦은 심야라디오💜🤍]]></title>
@@ -398,14 +405,6 @@
             <pubDate>Sat, 02 Apr 2022 07:39:04 GMT</pubDate>
             <content:encoded><![CDATA[OH MY GIRL]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220402_72/1648826322444DY7bg_JPEG/upload_6509552982936912186b56684-7e2d-48d2-a99b-b9941b0bb31c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오마이걸(OH MY GIRL) ‘Drip' 승희(SEUNGHEE) ver.]]></title>
-            <link>https://www.vlive.tv/video/280564</link>
-            <guid>https://www.vlive.tv/video/280564</guid>
-            <pubDate>Sat, 02 Apr 2022 07:39:04 GMT</pubDate>
-            <content:encoded><![CDATA[OH MY GIRL]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220401_290/1648816346924p3ebw_JPEG/upload_650859435052150339bab7bcc-e809-476f-9b1c-795c692e30c7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
