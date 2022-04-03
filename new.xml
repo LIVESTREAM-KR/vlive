@@ -4,15 +4,23 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 06:49:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 07:40:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일랙시~🥰]]></title>
+            <link>https://www.vlive.tv/video/280637</link>
+            <guid>https://www.vlive.tv/video/280637</guid>
+            <pubDate>Sun, 03 Apr 2022 07:38:54 GMT</pubDate>
+            <content:encoded><![CDATA[CRAXY]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[제이크와 함께하는 티타임🤗]]></title>
             <link>https://www.vlive.tv/video/280636</link>
             <guid>https://www.vlive.tv/video/280636</guid>
             <pubDate>Sun, 03 Apr 2022 06:48:22 GMT</pubDate>
             <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220403_147/1648969331000sopNr_JPEG/upload_93049060386133728e751e983-587e-4b1c-b2f0-6142d28518ed.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일요일]]></title>
@@ -397,14 +405,6 @@
             <pubDate>Sat, 02 Apr 2022 07:39:04 GMT</pubDate>
             <content:encoded><![CDATA[OH MY GIRL]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220402_155/1648827214663Kn6Ji_JPEG/upload_929069337063334265120a6d8-0f1d-45d5-8e06-75fc84f5b553.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오마이걸(OH MY GIRL) ‘Drip' 유빈(YUBIN) ver.]]></title>
-            <link>https://www.vlive.tv/video/280579</link>
-            <guid>https://www.vlive.tv/video/280579</guid>
-            <pubDate>Sat, 02 Apr 2022 07:39:04 GMT</pubDate>
-            <content:encoded><![CDATA[OH MY GIRL]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220402_58/1648826820266C1rEg_JPEG/upload_929065233196398304637609e-4a3d-4426-8b03-472f6dc4d27e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
