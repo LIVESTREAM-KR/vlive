@@ -4,9 +4,16 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 05:40:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 06:49:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제이크와 함께하는 티타임🤗]]></title>
+            <link>https://www.vlive.tv/video/280636</link>
+            <guid>https://www.vlive.tv/video/280636</guid>
+            <pubDate>Sun, 03 Apr 2022 06:48:22 GMT</pubDate>
+            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[일요일]]></title>
             <link>https://www.vlive.tv/video/280632</link>
@@ -398,14 +405,6 @@
             <pubDate>Sat, 02 Apr 2022 07:39:04 GMT</pubDate>
             <content:encoded><![CDATA[OH MY GIRL]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220402_58/1648826820266C1rEg_JPEG/upload_929065233196398304637609e-4a3d-4426-8b03-472f6dc4d27e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오마이걸(OH MY GIRL) ‘Drip' 유아(YOOA) ver.]]></title>
-            <link>https://www.vlive.tv/video/280578</link>
-            <guid>https://www.vlive.tv/video/280578</guid>
-            <pubDate>Sat, 02 Apr 2022 07:39:04 GMT</pubDate>
-            <content:encoded><![CDATA[OH MY GIRL]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220402_72/1648826322444DY7bg_JPEG/upload_6509552982936912186b56684-7e2d-48d2-a99b-b9941b0bb31c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 05:40:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 06:49:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,19 +56,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220403_9/1648953727187Gz6Xp_JPEG/161829327168715462805db1dc-9fa5-4064-9c2c-018e8e5eb053.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[🌻😋]]></title>
-            <link>https://www.vlive.tv/video/280634</link>
-            <guid>https://www.vlive.tv/video/280634</guid>
-            <pubDate>Sun, 03 Apr 2022 05:40:17 GMT</pubDate>
-            <content:encoded><![CDATA[오전 5:01]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[일요일]]></title>
             <link>https://www.vlive.tv/video/280632</link>
             <guid>https://www.vlive.tv/video/280632</guid>
             <pubDate>Sun, 03 Apr 2022 04:50:50 GMT</pubDate>
             <content:encoded><![CDATA[오전 5:16]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220403_297/1648962993987H1uTo_JPEG/cdc56d87-b30c-11ec-b9b3-d4f5ef58ad5e_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제이크와 함께하는 티타임🤗]]></title>
+            <link>https://www.vlive.tv/video/280636</link>
+            <guid>https://www.vlive.tv/video/280636</guid>
+            <pubDate>Sun, 03 Apr 2022 06:49:21 GMT</pubDate>
+            <content:encoded><![CDATA[오전 6:09]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/280636/thumb?type=f228_128" length="0" type="image//live/280636/thumb"/>
         </item>
     </channel>
 </rss>
