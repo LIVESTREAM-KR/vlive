@@ -4,16 +4,32 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 07:40:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 08:45:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이번 주를 돌아보며..⭐️]]></title>
+            <link>https://www.vlive.tv/video/280640</link>
+            <guid>https://www.vlive.tv/video/280640</guid>
+            <pubDate>Sun, 03 Apr 2022 08:44:13 GMT</pubDate>
+            <content:encoded><![CDATA[VERIVERY]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/280640/thumb?type=f228_128" length="0" type="image//live/280640/thumb"/>
+        </item>
         <item>
             <title><![CDATA[일랙시~🥰]]></title>
             <link>https://www.vlive.tv/video/280637</link>
             <guid>https://www.vlive.tv/video/280637</guid>
             <pubDate>Sun, 03 Apr 2022 07:39:01 GMT</pubDate>
             <content:encoded><![CDATA[CRAXY]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/280637/thumb?type=f228_128" length="0" type="image//live/280637/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220403_225/16489741280590eHXc_JPEG/838ae60d-b326-11ec-a7e2-48df379cca40_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[포켓몽깎웅]]></title>
+            <link>https://www.vlive.tv/video/280639</link>
+            <guid>https://www.vlive.tv/video/280639</guid>
+            <pubDate>Sun, 03 Apr 2022 08:44:13 GMT</pubDate>
+            <content:encoded><![CDATA[Apink]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/280639/thumb?type=f228_128" length="0" type="image//live/280639/thumb"/>
         </item>
         <item>
             <title><![CDATA[제이크와 함께하는 티타임🤗]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Sat, 02 Apr 2022 14:40:02 GMT</pubDate>
             <content:encoded><![CDATA[디크런치 (D_CRUNCH)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220403_274/1648913194801FbFPk_JPEG/07396df0-b298-11ec-bc9a-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모여랏💙💜🐱]]></title>
-            <link>https://www.vlive.tv/video/280617</link>
-            <guid>https://www.vlive.tv/video/280617</guid>
-            <pubDate>Sat, 02 Apr 2022 12:59:10 GMT</pubDate>
-            <content:encoded><![CDATA[LIZ ENT]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220402_113/16489038768167uQN7_JPEG/1616922707880672523c958f75-124c-4197-94b9-202daf49d14e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안농]]></title>
-            <link>https://www.vlive.tv/video/280621</link>
-            <guid>https://www.vlive.tv/video/280621</guid>
-            <pubDate>Sat, 02 Apr 2022 14:40:02 GMT</pubDate>
-            <content:encoded><![CDATA[KINGDOM]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220403_109/16489122064107jgrX_JPEG/11f09247-b296-11ec-b1ad-d4f5ef590144_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

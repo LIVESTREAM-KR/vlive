@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 07:40:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 08:45:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,11 +72,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20220403_147/1648969331000sopNr_JPEG/upload_93049060386133728e751e983-587e-4b1c-b2f0-6142d28518ed.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[포켓몽깎웅]]></title>
+            <link>https://www.vlive.tv/video/280639</link>
+            <guid>https://www.vlive.tv/video/280639</guid>
+            <pubDate>Sun, 03 Apr 2022 08:45:05 GMT</pubDate>
+            <content:encoded><![CDATA[오전 8:20]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/280639/thumb?type=f228_128" length="0" type="image//live/280639/thumb"/>
+        </item>
+        <item>
             <title><![CDATA[일랙시~🥰]]></title>
             <link>https://www.vlive.tv/video/280637</link>
             <guid>https://www.vlive.tv/video/280637</guid>
             <pubDate>Sun, 03 Apr 2022 07:39:45 GMT</pubDate>
-            <content:encoded><![CDATA[오전 7:30]]></content:encoded>
+            <content:encoded><![CDATA[오전 8:22]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220403_225/16489741280590eHXc_JPEG/838ae60d-b326-11ec-a7e2-48df379cca40_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이번 주를 돌아보며..⭐️]]></title>
+            <link>https://www.vlive.tv/video/280640</link>
+            <guid>https://www.vlive.tv/video/280640</guid>
+            <pubDate>Sun, 03 Apr 2022 08:45:05 GMT</pubDate>
+            <content:encoded><![CDATA[오전 8:33]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/280640/thumb?type=f228_128" length="0" type="image//live/280640/thumb"/>
         </item>
     </channel>
 </rss>
