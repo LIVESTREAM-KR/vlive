@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 10:45:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 11:41:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[범규의 라디오]]></title>
+            <link>https://www.vlive.tv/video/280712</link>
+            <guid>https://www.vlive.tv/video/280712</guid>
+            <pubDate>Mon, 04 Apr 2022 11:40:11 GMT</pubDate>
+            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220404_13/16490714065934b9zo_JPEG/upload_93151131091691551e476b8da-dfe6-4de7-8052-46c682f62eab.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[❤더비 사랑해❤]]></title>
             <link>https://www.vlive.tv/video/280650</link>
@@ -30,14 +38,6 @@
             <pubDate>Sun, 03 Apr 2022 13:00:01 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220403_34/1648982871745hd54T_PNG/upload_930611711179780101dc6d156-cee0-4e16-8c7c-0096a6fd8cc3.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[최윤진이 쏘아올린 작은 공]]></title>
-            <link>https://www.vlive.tv/video/280658</link>
-            <guid>https://www.vlive.tv/video/280658</guid>
-            <pubDate>Mon, 04 Apr 2022 09:43:34 GMT</pubDate>
-            <content:encoded><![CDATA[NMIXX]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220403_217/1648991291673sLbnf_JPEG/e3161920-b34e-11ec-88d2-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
