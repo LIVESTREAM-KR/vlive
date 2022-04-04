@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 14:40:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 15:47:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -68,6 +68,16 @@
             <enclosure url="https://v-phinf.pstatic.net/20220404_123/1649066716664W07JW_JPEG/upload_65336173583700536a54a877f-a5a5-4365-ace1-4a48313c94a3.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[HAPPY LEW DAY🎉]]></title>
+            <link>https://m.vlive.tv/video/280742</link>
+            <guid>https://m.vlive.tv/video/280742</guid>
+            <pubDate>Mon, 04 Apr 2022 15:47:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 9:00</span>
+										<span class="txt">TEMPEST (템페스트)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220405_290/1649085127988r39L3_JPEG/upload_931648377133869998499106c-d395-4239-855e-6946da51ea5e.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthew]]></title>
             <link>https://m.vlive.tv/video/280306</link>
             <guid>https://m.vlive.tv/video/280306</guid>
@@ -96,16 +106,6 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220330_93/1648604898008kHB2F_JPEG/upload_92684578566578376e8b17037-fdee-4628-b6ff-b1bcaed42bb4.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arirang Radio (Super K-Pop / E Z Hyoung 이지형)]]></title>
-            <link>https://m.vlive.tv/video/280664</link>
-            <guid>https://m.vlive.tv/video/280664</guid>
-            <pubDate>Mon, 04 Apr 2022 13:04:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220404_208/1649000918036TR57u_JPEG/upload_93080578967595096c1235025-6051-49fb-b0ad-ffc912438dd8.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
