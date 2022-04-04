@@ -4,9 +4,17 @@
         <title>V LIVE 모바일 ─ CHARTS </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 04:51:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 05:41:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보라해💜]]></title>
+            <link>https://m.vlive.tv/video/280676</link>
+            <guid>https://m.vlive.tv/video/280676</guid>
+            <pubDate>Mon, 04 Apr 2022 05:40:34 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220404_211/1649045822814bN1gg_JPEG/bf480b8a-b3cd-11ec-8c89-505dacfba98a_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[찬이의 "방" 🐺 Ep. 150]]></title>
             <link>https://m.vlive.tv/video/280663</link>
@@ -22,14 +30,6 @@
             <pubDate>Sun, 03 Apr 2022 07:39:33 GMT</pubDate>
             <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220403_147/1648969331000sopNr_JPEG/upload_93049060386133728e751e983-587e-4b1c-b2f0-6142d28518ed.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[❤더비 사랑해❤]]></title>
-            <link>https://m.vlive.tv/video/280650</link>
-            <guid>https://m.vlive.tv/video/280650</guid>
-            <pubDate>Sun, 03 Apr 2022 13:00:19 GMT</pubDate>
-            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220404_153/16490445442654nodW_JPEG/f0516452-b33f-11ec-931f-505dac8c3721_08.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
