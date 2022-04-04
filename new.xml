@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 17:45:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 18:49:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[살짝]]></title>
+            <link>https://www.vlive.tv/video/280745</link>
+            <guid>https://www.vlive.tv/video/280745</guid>
+            <pubDate>Mon, 04 Apr 2022 18:48:18 GMT</pubDate>
+            <content:encoded><![CDATA[VICTON]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220405_269/1649097650743AHa9Q_JPEG/upload_93177368309102995570947ab-eda7-49d3-953a-c5533e507d24.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[왔어용 OH MY RIME RADIO 📻💛]]></title>
             <link>https://www.vlive.tv/video/280741</link>
@@ -398,14 +406,6 @@
             <pubDate>Mon, 04 Apr 2022 08:55:53 GMT</pubDate>
             <content:encoded><![CDATA[EVERGLOW (에버글로우)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220404_229/1649060194451EmG88_JPEG/1618485644344138018699eb8e-1cea-4ba5-9f49-1b89c260453f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오랜만에 이유랑 놀 사람😆]]></title>
-            <link>https://www.vlive.tv/video/280691</link>
-            <guid>https://www.vlive.tv/video/280691</guid>
-            <pubDate>Mon, 04 Apr 2022 07:40:13 GMT</pubDate>
-            <content:encoded><![CDATA[EVERGLOW (에버글로우)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220404_299/1649056402252MGRJu_JPEG/16184477223789042405b8ad74-0d9a-432c-96b2-60861e5a6cf1.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
