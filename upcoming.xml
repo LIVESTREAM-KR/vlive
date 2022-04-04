@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 13:47:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 14:40:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -424,14 +424,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220404_96/1649069223993AkjBv_JPEG/8822570684418920898496f27-f9ef-40ba-9d9e-aa36cbc6f340.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[🦌]]></title>
-            <link>https://www.vlive.tv/video/280734</link>
-            <guid>https://www.vlive.tv/video/280734</guid>
-            <pubDate>Mon, 04 Apr 2022 13:04:32 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:29]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/280734/thumb?type=f228_128" length="0" type="image//live/280734/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[잠깐 라이브!!]]></title>
             <link>https://www.vlive.tv/video/280730</link>
             <guid>https://www.vlive.tv/video/280730</guid>
@@ -502,6 +494,14 @@
             <pubDate>Mon, 04 Apr 2022 13:47:18 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:47]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220404_253/1649080029412xL1xo_JPEG/5bc98fb2-b41d-11ec-b9b3-d4f5ef58ad5e_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🦌]]></title>
+            <link>https://www.vlive.tv/video/280734</link>
+            <guid>https://www.vlive.tv/video/280734</guid>
+            <pubDate>Mon, 04 Apr 2022 13:04:32 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:20]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220404_191/1649082028099E3oKd_JPEG/d3bd46f5-b421-11ec-9c28-d4f5ef58ac88_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
