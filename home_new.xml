@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 15:47:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 17:02:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새벽보이스]]></title>
+            <link>https://www.vlive.tv/video/280744</link>
+            <guid>https://www.vlive.tv/video/280744</guid>
+            <pubDate>Mon, 04 Apr 2022 17:01:01 GMT</pubDate>
+            <content:encoded><![CDATA[LAM(영화처럼)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220405_221/164909046639207oU8_JPEG/aae651f2-b435-11ec-aa4b-d4f5ef5906a4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새벽보이스]]></title>
+            <link>https://www.vlive.tv/video/280743</link>
+            <guid>https://www.vlive.tv/video/280743</guid>
+            <pubDate>Mon, 04 Apr 2022 17:01:01 GMT</pubDate>
+            <content:encoded><![CDATA[LAM(영화처럼)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220405_227/1649088682199XxXLN_JPEG/c2181d25-b431-11ec-bc38-505dac8c37f3_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[왔어용 OH MY RIME RADIO 📻💛]]></title>
             <link>https://www.vlive.tv/video/280741</link>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 04 Apr 2022 13:46:28 GMT</pubDate>
             <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220331_203/1648734775737GSRF3_JPEG/upload_9281446892989841829920b6b-2304-4fb3-b753-86f19aaa6f5d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리누 X 초연 '꽃' COVER (Original Sung by 박봄 & 김민석 of 멜로망스)]]></title>
-            <link>https://www.vlive.tv/video/280735</link>
-            <guid>https://www.vlive.tv/video/280735</guid>
-            <pubDate>Mon, 04 Apr 2022 13:03:48 GMT</pubDate>
-            <content:encoded><![CDATA[bugAboo]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220404_215/1649075886355JaiNe_JPEG/f7902538-b413-11ec-9c28-d4f5ef58ac88_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[#PLOG] 220328 INTAK | P1Harmony (피원하모니)]]></title>
-            <link>https://www.vlive.tv/video/280669</link>
-            <guid>https://www.vlive.tv/video/280669</guid>
-            <pubDate>Mon, 04 Apr 2022 13:03:48 GMT</pubDate>
-            <content:encoded><![CDATA[P1Harmony]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220404_120/16490376264977r6Iy_JPEG/upload_93117339066135729719251e0-38fa-4984-9ee4-89e6a89e1707.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

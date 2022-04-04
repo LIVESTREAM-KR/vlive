@@ -4,9 +4,25 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 15:47:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 17:02:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새벽보이스]]></title>
+            <link>https://www.vlive.tv/video/280744</link>
+            <guid>https://www.vlive.tv/video/280744</guid>
+            <pubDate>Mon, 04 Apr 2022 17:00:53 GMT</pubDate>
+            <content:encoded><![CDATA[LAM(영화처럼)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220405_221/164909046639207oU8_JPEG/aae651f2-b435-11ec-aa4b-d4f5ef5906a4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새벽보이스]]></title>
+            <link>https://www.vlive.tv/video/280743</link>
+            <guid>https://www.vlive.tv/video/280743</guid>
+            <pubDate>Mon, 04 Apr 2022 17:00:53 GMT</pubDate>
+            <content:encoded><![CDATA[LAM(영화처럼)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220405_227/1649088682199XxXLN_JPEG/c2181d25-b431-11ec-bc38-505dac8c37f3_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[왔어용 OH MY RIME RADIO 📻💛]]></title>
             <link>https://www.vlive.tv/video/280741</link>
@@ -390,22 +406,6 @@
             <pubDate>Mon, 04 Apr 2022 07:40:13 GMT</pubDate>
             <content:encoded><![CDATA[EVERGLOW (에버글로우)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220404_299/1649056402252MGRJu_JPEG/16184477223789042405b8ad74-0d9a-432c-96b2-60861e5a6cf1.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🎉HAPPY JIHO DAY🎉 죠랑이 왔지호🐯]]></title>
-            <link>https://www.vlive.tv/video/280690</link>
-            <guid>https://www.vlive.tv/video/280690</guid>
-            <pubDate>Mon, 04 Apr 2022 07:40:13 GMT</pubDate>
-            <content:encoded><![CDATA[OH MY GIRL]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220404_225/1649060545989nT45S_JPEG/8b9228c6-b3ef-11ec-ad5e-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WE&WHOO😉]]></title>
-            <link>https://www.vlive.tv/video/280693</link>
-            <guid>https://www.vlive.tv/video/280693</guid>
-            <pubDate>Mon, 04 Apr 2022 07:40:13 GMT</pubDate>
-            <content:encoded><![CDATA[미래소년 (MIRAE)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220404_199/1649059451182BF2Iy_JPEG/4f1c7a7e-b3ed-11ec-89d7-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
