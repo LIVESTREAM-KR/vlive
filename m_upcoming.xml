@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 11:42:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 13:04:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[권정열 고영배의 십란한 밤 #238]]></title>
-            <link>https://m.vlive.tv/video/280793</link>
-            <guid>https://m.vlive.tv/video/280793</guid>
-            <pubDate>Tue, 05 Apr 2022 11:41:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 12:00</span>
-										<span class="txt">권정열 고영배의 십란한 밤</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220405_179/1649158796003gYkcq_PNG/upload_932384718052612076626a799-61a8-4e91-9683-ff1a94afcb71.png?type=f274_154" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthew]]></title>
             <link>https://m.vlive.tv/video/280306</link>
@@ -106,6 +96,16 @@
 										오전 10:00</span>
 										<span class="txt">INMEDIA+</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220405_99/1649147189730Q1lin_JPEG/upload_93224000310862020416940b7-69cf-40b6-8bb2-5ddabc61bbe8.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[❤HAPPY LOUIS DAY❤]]></title>
+            <link>https://m.vlive.tv/video/280739</link>
+            <guid>https://m.vlive.tv/video/280739</guid>
+            <pubDate>Tue, 05 Apr 2022 13:04:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 2:30</span>
+										<span class="txt">KINGDOM</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220404_31/1649080924620mQLR7_PNG/upload_9316052286443482163acf2e7-e522-48b8-87c6-c053a813d7d5.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
