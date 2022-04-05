@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 23:44:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 02:14:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
-            <link>https://m.vlive.tv/video/280304</link>
-            <guid>https://m.vlive.tv/video/280304</guid>
-            <pubDate>Fri, 01 Apr 2022 09:43:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220330_112/1648604528455Uodzj_JPEG/upload_9268421027899937882e631bd-e7f8-4f1a-9f60-d69dc8e8a1b2.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio/K-Poppin'] Singlish with DKB]]></title>
             <link>https://m.vlive.tv/video/280319</link>
@@ -106,6 +96,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220330_93/1648604898008kHB2F_JPEG/upload_92684578566578376e8b17037-fdee-4628-b6ff-b1bcaed42bb4.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / E Z Hyoung 이지형)]]></title>
+            <link>https://m.vlive.tv/video/280664</link>
+            <guid>https://m.vlive.tv/video/280664</guid>
+            <pubDate>Tue, 05 Apr 2022 02:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220404_208/1649000918036TR57u_JPEG/upload_93080578967595096c1235025-6051-49fb-b0ad-ffc912438dd8.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
