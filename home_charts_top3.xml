@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ CHARTS TOP3</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 07:41:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 08:47:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[졸려요🐰🐰🐰]]></title>
+            <link>https://www.vlive.tv/video/280765</link>
+            <guid>https://www.vlive.tv/video/280765</guid>
+            <pubDate>Tue, 05 Apr 2022 08:46:02 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220405_121/1649147831237oSVYK_JPEG/upload_93227560168883388f244c786-ebb6-4d18-8d96-14f7c302a82e.jpeg?type=f380_213_wp" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[보라해💜💜]]></title>
             <link>https://www.vlive.tv/video/280684</link>
@@ -22,14 +30,6 @@
             <pubDate>Mon, 04 Apr 2022 05:40:05 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220404_211/1649045822814bN1gg_JPEG/bf480b8a-b3cd-11ec-8c89-505dacfba98a_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[범규의 라디오]]></title>
-            <link>https://www.vlive.tv/video/280712</link>
-            <guid>https://www.vlive.tv/video/280712</guid>
-            <pubDate>Mon, 04 Apr 2022 17:44:10 GMT</pubDate>
-            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220404_13/16490714065934b9zo_JPEG/upload_93151131091691551e476b8da-dfe6-4de7-8052-46c682f62eab.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
