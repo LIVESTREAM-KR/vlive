@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 09:43:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 10:43:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -73,9 +73,19 @@
             <guid>https://m.vlive.tv/video/280455</guid>
             <pubDate>Tue, 05 Apr 2022 05:40:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
+										방송취소</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220331_139/16487346680159s1Rn_JPEG/upload_9281434428443433923db8071-93d5-4e94-9bf2-1951952036ed.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / snzae 선재)]]></title>
+            <link>https://m.vlive.tv/video/280787</link>
+            <guid>https://m.vlive.tv/video/280787</guid>
+            <pubDate>Tue, 05 Apr 2022 10:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220405_287/164915376467436A9I_JPEG/upload_65423319090536642278ae10c-8e52-4ce4-b811-1bb83ad1c5b3.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio / Super K-Pop] Stray Quiz]]></title>
@@ -96,16 +106,6 @@
 										오전 10:00</span>
 										<span class="txt">INMEDIA+</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220405_99/1649147189730Q1lin_JPEG/upload_93224000310862020416940b7-69cf-40b6-8bb2-5ddabc61bbe8.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[❤HAPPY LOUIS DAY❤]]></title>
-            <link>https://m.vlive.tv/video/280739</link>
-            <guid>https://m.vlive.tv/video/280739</guid>
-            <pubDate>Tue, 05 Apr 2022 09:43:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 2:30</span>
-										<span class="txt">KINGDOM</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220404_31/1649080924620mQLR7_PNG/upload_9316052286443482163acf2e7-e522-48b8-87c6-c053a813d7d5.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
