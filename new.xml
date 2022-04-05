@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 19:41:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 20:43:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[pillow talk]]></title>
+            <link>https://www.vlive.tv/video/280814</link>
+            <guid>https://www.vlive.tv/video/280814</guid>
+            <pubDate>Tue, 05 Apr 2022 20:42:33 GMT</pubDate>
+            <content:encoded><![CDATA[WiHi]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220406_245/16491898810192lbIE_JPEG/1619782601818591663aa40420-23ad-48c4-b8e1-859177d6304a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BLOSSOM💛📻]]></title>
             <link>https://www.vlive.tv/video/280813</link>
@@ -398,14 +406,6 @@
             <pubDate>Tue, 05 Apr 2022 08:45:45 GMT</pubDate>
             <content:encoded><![CDATA[WINNER]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220328_107/1648435874552ulNz7_JPEG/upload_925155959261504278539283c-8a2e-45c7-a83d-1d730c20f511.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[졸려요🐰🐰🐰]]></title>
-            <link>https://www.vlive.tv/video/280765</link>
-            <guid>https://www.vlive.tv/video/280765</guid>
-            <pubDate>Tue, 05 Apr 2022 07:39:54 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220405_121/1649147831237oSVYK_JPEG/upload_93227560168883388f244c786-ebb6-4d18-8d96-14f7c302a82e.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

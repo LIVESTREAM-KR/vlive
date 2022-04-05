@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 19:41:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 20:43:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[pillow talk]]></title>
+            <link>https://www.vlive.tv/video/280814</link>
+            <guid>https://www.vlive.tv/video/280814</guid>
+            <pubDate>Tue, 05 Apr 2022 20:42:40 GMT</pubDate>
+            <content:encoded><![CDATA[WiHi]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220406_245/16491898810192lbIE_JPEG/1619782601818591663aa40420-23ad-48c4-b8e1-859177d6304a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BLOSSOM💛📻]]></title>
             <link>https://www.vlive.tv/video/280813</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 05 Apr 2022 13:44:54 GMT</pubDate>
             <content:encoded><![CDATA[iKON]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220405_57/1649164035510imSKI_JPEG/16195242691386527170ced9f7-cad2-46d4-ab49-79ee11fb31e2.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠깐만 !]]></title>
-            <link>https://www.vlive.tv/video/280802</link>
-            <guid>https://www.vlive.tv/video/280802</guid>
-            <pubDate>Tue, 05 Apr 2022 13:44:54 GMT</pubDate>
-            <content:encoded><![CDATA[AWEEK]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220405_129/1649165693032vjjey_JPEG/93d86bad-b4e4-11ec-931f-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
