@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 13:07:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 13:48:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -432,22 +432,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220406_170/16492500708721NvOu_JPEG/437d2ceb-b5a9-11ec-aa4b-d4f5ef5906a4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오홍홍 항항 하이룽]]></title>
-            <link>https://www.vlive.tv/video/280873</link>
-            <guid>https://www.vlive.tv/video/280873</guid>
-            <pubDate>Wed, 06 Apr 2022 13:06:44 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:03]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220406_154/16492501796631dAst_JPEG/1620385506219509972cbbb441-7d1f-4c8f-b148-930077d92881.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[달이 차오른다 가자 🌕]]></title>
-            <link>https://www.vlive.tv/video/280875</link>
-            <guid>https://www.vlive.tv/video/280875</guid>
-            <pubDate>Wed, 06 Apr 2022 13:06:44 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:04]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/280875/thumb?type=f228_128" length="0" type="image//live/280875/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[은조의 조은밤🌝🎧#55]]></title>
             <link>https://www.vlive.tv/video/280874</link>
             <guid>https://www.vlive.tv/video/280874</guid>
@@ -462,6 +446,38 @@
             <pubDate>Wed, 06 Apr 2022 13:06:44 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:05]]></content:encoded>
             <enclosure url="https://vlive-thumb.pstatic.net/live/280876/thumb?type=f228_128" length="0" type="image//live/280876/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[진짜 오랜만이다 그치?ㅎ]]></title>
+            <link>https://www.vlive.tv/video/280877</link>
+            <guid>https://www.vlive.tv/video/280877</guid>
+            <pubDate>Wed, 06 Apr 2022 13:48:16 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:18]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/280877/thumb?type=f228_128" length="0" type="image//live/280877/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[나랑 놀자🤪]]></title>
+            <link>https://www.vlive.tv/video/280878</link>
+            <guid>https://www.vlive.tv/video/280878</guid>
+            <pubDate>Wed, 06 Apr 2022 13:48:16 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:20]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/280878/thumb?type=f228_128" length="0" type="image//live/280878/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[오홍홍 항항 하이룽]]></title>
+            <link>https://www.vlive.tv/video/280873</link>
+            <guid>https://www.vlive.tv/video/280873</guid>
+            <pubDate>Wed, 06 Apr 2022 13:06:44 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:38]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220406_154/16492501796631dAst_JPEG/1620385506219509972cbbb441-7d1f-4c8f-b148-930077d92881.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[달이 차오른다 가자 🌕]]></title>
+            <link>https://www.vlive.tv/video/280875</link>
+            <guid>https://www.vlive.tv/video/280875</guid>
+            <pubDate>Wed, 06 Apr 2022 13:06:44 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:45]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220406_124/1649252735281HBABg_JPEG/69ebadac-b5af-11ec-b3bf-48df379cc9e4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
