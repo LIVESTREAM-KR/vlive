@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 02:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 03:14:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,16 @@
 										오전 9:00</span>
 										<span class="txt">KINGDOM</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220405_68/1649167201483A7gFi_JPEG/upload_932467461678695330adb5249-527c-44ad-a2df-751ceb096504.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🎂HAPPY KEN DAY #쟌이생일엔뭐먹어]]></title>
+            <link>https://m.vlive.tv/video/280826</link>
+            <guid>https://m.vlive.tv/video/280826</guid>
+            <pubDate>Wed, 06 Apr 2022 03:13:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 9:00</span>
+										<span class="txt">VIXX</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220406_22/1649214013517nEc2p_JPEG/upload_93293383555643962d5fd95ad-2f64-4d92-899f-2f06336da651.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
@@ -96,16 +106,6 @@
 										오전 10:00</span>
 										<span class="txt">INMEDIA+</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220405_99/1649147189730Q1lin_JPEG/upload_93224000310862020416940b7-69cf-40b6-8bb2-5ddabc61bbe8.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[❤HAPPY LOUIS DAY❤]]></title>
-            <link>https://m.vlive.tv/video/280739</link>
-            <guid>https://m.vlive.tv/video/280739</guid>
-            <pubDate>Wed, 06 Apr 2022 02:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 2:30</span>
-										<span class="txt">KINGDOM</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220404_31/1649080924620mQLR7_PNG/upload_9316052286443482163acf2e7-e522-48b8-87c6-c053a813d7d5.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
