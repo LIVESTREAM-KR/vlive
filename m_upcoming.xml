@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 06:50:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 07:41:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Super K-Pop / E Z Hyoung 이지형)]]></title>
-            <link>https://m.vlive.tv/video/280664</link>
-            <guid>https://m.vlive.tv/video/280664</guid>
-            <pubDate>Tue, 05 Apr 2022 02:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220404_208/1649000918036TR57u_JPEG/upload_93080578967595096c1235025-6051-49fb-b0ad-ffc912438dd8.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[유노 선물💙]]></title>
             <link>https://m.vlive.tv/video/280809</link>
@@ -106,6 +96,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220330_138/1648604692510R5Wni_JPEG/upload_92684372188746675b44b071c-2eb9-43bd-90c8-4aa8839aaf56.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Simply K-Pop CON-TOUR (심플리케이팝 콘투어) Ep.514]]></title>
+            <link>https://m.vlive.tv/video/280843</link>
+            <guid>https://m.vlive.tv/video/280843</guid>
+            <pubDate>Wed, 06 Apr 2022 07:40:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220406_235/16492300124793VPvh_PNG/upload_654995888188797671868526e-af12-4bda-be98-5f033abd26e2.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
