@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 23:44:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 02:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthew]]></title>
-            <link>https://m.vlive.tv/video/280306</link>
-            <guid>https://m.vlive.tv/video/280306</guid>
-            <pubDate>Mon, 04 Apr 2022 10:45:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220330_109/16486045814852Wchc_JPEG/upload_92684263894718139cc2a9700-bfb5-420d-b922-6965d0f91f39.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio/K-Poppin'] Character Designer Kwon Jeong Yun 캐릭터 디자이너 권정윤]]></title>
             <link>https://m.vlive.tv/video/280473</link>
@@ -106,6 +96,16 @@
 										오전 10:00</span>
 										<span class="txt">INMEDIA+</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220405_99/1649147189730Q1lin_JPEG/upload_93224000310862020416940b7-69cf-40b6-8bb2-5ddabc61bbe8.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[❤HAPPY LOUIS DAY❤]]></title>
+            <link>https://m.vlive.tv/video/280739</link>
+            <guid>https://m.vlive.tv/video/280739</guid>
+            <pubDate>Wed, 06 Apr 2022 02:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 2:30</span>
+										<span class="txt">KINGDOM</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220404_31/1649080924620mQLR7_PNG/upload_9316052286443482163acf2e7-e522-48b8-87c6-c053a813d7d5.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
