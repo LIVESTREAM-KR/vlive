@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 13:47:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 14:43:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[❤HAPPY LOUIS DAY❤]]></title>
-            <link>https://m.vlive.tv/video/280739</link>
-            <guid>https://m.vlive.tv/video/280739</guid>
-            <pubDate>Wed, 06 Apr 2022 04:51:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 2:30</span>
-										<span class="txt">KINGDOM</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220404_31/1649080924620mQLR7_PNG/upload_9316052286443482163acf2e7-e522-48b8-87c6-c053a813d7d5.png?type=f274_154" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
             <link>https://m.vlive.tv/video/280308</link>
@@ -96,6 +86,16 @@
 										오전 4:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220407_292/1649291862297yjyor_JPEG/upload_65561406972292784931a4aac-f9a9-43f2-9075-055e97e4d380.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
+            <link>https://m.vlive.tv/video/280887</link>
+            <guid>https://m.vlive.tv/video/280887</guid>
+            <pubDate>Thu, 07 Apr 2022 14:43:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220407_277/16492916506769CrMz_JPEG/upload_6556120788356298316887a2e-78f1-4113-af1f-ebe89a26f1a5.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
