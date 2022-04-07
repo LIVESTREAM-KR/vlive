@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 11:40:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 13:10:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Thu, 07 Apr 2022 09:43:09 GMT</pubDate>
             <content:encoded><![CDATA[TWICE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220407_239/1649321276284lBBxK_JPEG/178beb35-b64f-11ec-b3bf-48df379cc9e4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stray Kids(스트레이 키즈) "MANIAC" Dance Practice Video (Zombie ver.)]]></title>
-            <link>https://www.vlive.tv/video/280859</link>
-            <guid>https://www.vlive.tv/video/280859</guid>
-            <pubDate>Wed, 06 Apr 2022 13:47:40 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220406_38/1649240212821HAmmC_JPEG/upload_65509813025138089b2fa1078-69fb-40e3-801e-483c6212cc3e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[🆕]]></title>
@@ -38,6 +30,14 @@
             <pubDate>Thu, 07 Apr 2022 10:44:53 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220406_263/1649236659048d6G1V_JPEG/8d9260ca-b589-11ec-9b7b-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stray Kids(스트레이 키즈) "MANIAC" Dance Practice Video (Zombie ver.)]]></title>
+            <link>https://www.vlive.tv/video/280859</link>
+            <guid>https://www.vlive.tv/video/280859</guid>
+            <pubDate>Wed, 06 Apr 2022 13:47:40 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220406_38/1649240212821HAmmC_JPEG/upload_65509813025138089b2fa1078-69fb-40e3-801e-483c6212cc3e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
