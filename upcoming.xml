@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 04:51:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 05:41:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -109,14 +109,39 @@
             <guid>https://www.vlive.tv/video/280909</guid>
             <pubDate>Thu, 07 Apr 2022 04:51:27 GMT</pubDate>
             <content:encoded><![CDATA[오전 4:32]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/280909/thumb?type=f228_128" length="0" type="image//live/280909/thumb"/>
         </item>
         <item>
             <title><![CDATA[Arirang Radio (Sound K / snzae 선재)]]></title>
             <link>https://www.vlive.tv/video/280787</link>
             <guid>https://www.vlive.tv/video/280787</guid>
             <pubDate>Thu, 07 Apr 2022 03:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[오전 5:00]]></content:encoded>
+            <content:encoded><![CDATA[오전 4:51]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220405_287/164915376467436A9I_JPEG/upload_65423319090536642278ae10c-8e52-4ce4-b811-1bb83ad1c5b3.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[I'm LIVE] Lacuna (라쿠나) & Happy Puppy (우리집 강아지 HAPPY)]]></title>
+            <link>https://www.vlive.tv/video/280914</link>
+            <guid>https://www.vlive.tv/video/280914</guid>
+            <pubDate>Thu, 07 Apr 2022 05:40:57 GMT</pubDate>
+            <content:encoded><![CDATA[오전 5:23]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220407_203/1649309026502c5hlT_PNG/upload_65578626420909074a338b809-495a-44b3-8381-b6b36c5ba8aa.png?type=f228_128" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[I'm LIVE] Lacuna (라쿠나) & YOU (유)]]></title>
+            <link>https://www.vlive.tv/video/280915</link>
+            <guid>https://www.vlive.tv/video/280915</guid>
+            <pubDate>Thu, 07 Apr 2022 05:40:57 GMT</pubDate>
+            <content:encoded><![CDATA[오전 5:27]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220407_151/164930922561039J1F_PNG/upload_93388940501553419880ddd56-b40f-49c0-a65a-229967c92e06.png?type=f228_128" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[Golf]대망의 마지막 회!!- 프로 골퍼들의 예능 촬영 BEHIND!!]]></title>
+            <link>https://www.vlive.tv/video/280916</link>
+            <guid>https://www.vlive.tv/video/280916</guid>
+            <pubDate>Thu, 07 Apr 2022 05:40:57 GMT</pubDate>
+            <content:encoded><![CDATA[오전 5:36]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220407_288/16493097553492CIO1_PNG/upload_933894226607877673da0eb86-e4b8-4e25-b227-5b65ae077590.png?type=f228_128" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio / Super K-Pop] Stray Quiz]]></title>

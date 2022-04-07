@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 04:51:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 05:41:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Sound K / snzae 선재)]]></title>
-            <link>https://m.vlive.tv/video/280787</link>
-            <guid>https://m.vlive.tv/video/280787</guid>
-            <pubDate>Tue, 05 Apr 2022 10:43:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220405_287/164915376467436A9I_JPEG/upload_65423319090536642278ae10c-8e52-4ce4-b811-1bb83ad1c5b3.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Super K-Pop] Stray Quiz]]></title>
             <link>https://m.vlive.tv/video/280313</link>
@@ -96,6 +86,16 @@
 										오전 11:00</span>
 										<span class="txt">C-JeS</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220406_2/1649207872659AD4ge_JPEG/upload_93287380652856421e843abbb-3c2f-4c81-905f-5e40a3c2b8d7.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[병관이 하고 싶은 거 다 해]]></title>
+            <link>https://m.vlive.tv/video/280857</link>
+            <guid>https://m.vlive.tv/video/280857</guid>
+            <pubDate>Thu, 07 Apr 2022 05:41:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 9:00</span>
+										<span class="txt">에이스(A.C.E)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220406_230/16492392060337gWHo_JPEG/upload_93318650205547410a1db8b2c-acf4-4663-b230-4f384d0d4407.jpeg?type=f274_154" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
