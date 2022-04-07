@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 03:52:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 04:51:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[날씨 참 좋드라..😀]]></title>
+            <link>https://www.vlive.tv/video/280909</link>
+            <guid>https://www.vlive.tv/video/280909</guid>
+            <pubDate>Thu, 07 Apr 2022 04:50:43 GMT</pubDate>
+            <content:encoded><![CDATA[DRIPPIN]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/280909/thumb?type=f228_128" length="0" type="image//live/280909/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[[HOTCLIP]크래비티의 칠판꾸미기]]></title>
+            <link>https://www.vlive.tv/video/280907</link>
+            <guid>https://www.vlive.tv/video/280907</guid>
+            <pubDate>Thu, 07 Apr 2022 04:50:43 GMT</pubDate>
+            <content:encoded><![CDATA[After School Club │ 애프터스쿨클럽]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220407_47/16492984588728IWfI_PNG/upload_65568046664573806b663e10a-3b10-4adf-918d-f56078fbeb96.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[(여자)아이들((G)I-DLE) - '말리지 마' LIVE CLIP]]></title>
             <link>https://www.vlive.tv/video/280901</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 06 Apr 2022 14:40:48 GMT</pubDate>
             <content:encoded><![CDATA[Park Bo Young]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220406_28/1649255105097D5MV1_JPEG/1620434990520420604a17932c-e320-4138-9899-82b94f40427d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LE SSERAFIM "KIM CHAEWON"]]></title>
-            <link>https://www.vlive.tv/video/280823</link>
-            <guid>https://www.vlive.tv/video/280823</guid>
-            <pubDate>Wed, 06 Apr 2022 15:46:04 GMT</pubDate>
-            <content:encoded><![CDATA[LE SSERAFIM]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220406_266/1649212628092P4fvo_JPEG/upload_9329231503723250243ce9a2a-03d5-45d8-aa6d-0724283f66de.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[DKZ] 'CHASE EPISODE 2. MAUM' CONCEPT FILM - JAECHAN]]></title>
-            <link>https://www.vlive.tv/video/280718</link>
-            <guid>https://www.vlive.tv/video/280718</guid>
-            <pubDate>Wed, 06 Apr 2022 15:46:04 GMT</pubDate>
-            <content:encoded><![CDATA[DKZ]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220404_143/1649070026372L4K0P_JPEG/upload_653395767168190235c29d08f-8858-4c49-81cd-649909d8be86.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
