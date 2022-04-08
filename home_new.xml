@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 02:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 03:24:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안녕~]]></title>
+            <link>https://www.vlive.tv/video/280983</link>
+            <guid>https://www.vlive.tv/video/280983</guid>
+            <pubDate>Fri, 08 Apr 2022 03:23:10 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220408_30/16493873362408K9ri_JPEG/upload_93467041545611854220e9aee-b4dc-45ae-b82e-444348a35c30.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[제31회 서울가요대상 SMA 리액션캠] 엔하이픈(ENHYPEN), 더보이즈(THE BOYZ) 'MAVERICK' 무대 reaction]]></title>
             <link>https://www.vlive.tv/video/280979</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 07 Apr 2022 14:42:05 GMT</pubDate>
             <content:encoded><![CDATA[Weki Meki]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220408_13/1649343982915nceji_JPEG/a2b47846-b683-11ec-b3bf-48df379cc9e4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[_(≥∇≤)ノミ☆]]></title>
-            <link>https://www.vlive.tv/video/280955</link>
-            <guid>https://www.vlive.tv/video/280955</guid>
-            <pubDate>Thu, 07 Apr 2022 13:46:05 GMT</pubDate>
-            <content:encoded><![CDATA[N.Flying]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220408_145/16493439333123IHz0_JPEG/79ce31fd-b683-11ec-b9b3-d4f5ef58ad5e_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
