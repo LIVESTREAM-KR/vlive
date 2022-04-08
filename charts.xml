@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 09:43:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 10:46:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 07 Apr 2022 15:53:10 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220408_51/1649345656004VlQxQ_JPEG/f04693d5-b687-11ec-b3bf-48df379cc9e4_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제이의 상담소💚]]></title>
+            <link>https://www.vlive.tv/video/281020</link>
+            <guid>https://www.vlive.tv/video/281020</guid>
+            <pubDate>Fri, 08 Apr 2022 10:45:04 GMT</pubDate>
+            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220408_42/16494141668337ECff_JPEG/ef05af0a-b726-11ec-b5d5-d4f5ef590144_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[졸려요🐰🐰🐰]]></title>
@@ -29,15 +37,7 @@
             <guid>https://www.vlive.tv/video/280684</guid>
             <pubDate>Mon, 04 Apr 2022 06:50:10 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220404_162/16490512229316Gnur_JPEG/upload_931308840772431337eabaef7-182c-4137-884b-d277034e4b9f.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🥳]]></title>
-            <link>https://www.vlive.tv/video/280930</link>
-            <guid>https://www.vlive.tv/video/280930</guid>
-            <pubDate>Thu, 07 Apr 2022 09:43:20 GMT</pubDate>
-            <content:encoded><![CDATA[TWICE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220407_239/1649321276284lBBxK_JPEG/178beb35-b64f-11ec-b3bf-48df379cc9e4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220404_162/16490512229316Gnur_JPEG/upload_931308840772431337eabaef7-182c-4137-884b-d277034e4b9f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ENHYPEN (엔하이픈) 'EN-O'CLOCK' EP.32]]></title>
@@ -56,12 +56,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20220408_55/1649409731538oEsbI_JPEG/961a8381-b71c-11ec-b52c-505dac8c37f3_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[보라해💜]]></title>
-            <link>https://www.vlive.tv/video/280676</link>
-            <guid>https://www.vlive.tv/video/280676</guid>
-            <pubDate>Thu, 07 Apr 2022 13:46:32 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220404_211/1649045822814bN1gg_JPEG/bf480b8a-b3cd-11ec-8c89-505dacfba98a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <title><![CDATA[🥳]]></title>
+            <link>https://www.vlive.tv/video/280930</link>
+            <guid>https://www.vlive.tv/video/280930</guid>
+            <pubDate>Thu, 07 Apr 2022 09:43:20 GMT</pubDate>
+            <content:encoded><![CDATA[TWICE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220407_239/1649321276284lBBxK_JPEG/178beb35-b64f-11ec-b3bf-48df379cc9e4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
