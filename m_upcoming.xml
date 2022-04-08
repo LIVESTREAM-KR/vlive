@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 03:55:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 04:51:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Simply K-Pop CON-TOUR (심플리케이팝 콘투어) Ep.514]]></title>
-            <link>https://m.vlive.tv/video/280843</link>
-            <guid>https://m.vlive.tv/video/280843</guid>
-            <pubDate>Wed, 06 Apr 2022 09:43:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 4:00</span>
-										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220406_235/16492300124793VPvh_PNG/upload_654995888188797671868526e-af12-4bda-be98-5f033abd26e2.png?type=f274_154" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Sound K] Edu-K-tion with Hiss 히스]]></title>
             <link>https://m.vlive.tv/video/280311</link>
@@ -58,6 +48,16 @@
             <enclosure url="https://v-phinf.pstatic.net/20220406_230/16492392060337gWHo_JPEG/upload_93318650205547410a1db8b2c-acf4-4663-b230-4f384d0d4407.jpeg?type=f274_154" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[TRENDZ FIRST VLIVE [쨔잔! 트렌드지 등장😎]]]></title>
+            <link>https://m.vlive.tv/video/280905</link>
+            <guid>https://m.vlive.tv/video/280905</guid>
+            <pubDate>Fri, 08 Apr 2022 04:51:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">TRENDZ (트렌드지)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220407_280/16492989330733D034_JPEG/upload_655685359004705535635ad6d-b480-496a-b4bb-db43b7344a94.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
             <link>https://m.vlive.tv/video/280886</link>
             <guid>https://m.vlive.tv/video/280886</guid>
@@ -76,16 +76,6 @@
 										오전 4:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220407_292/1649291862297yjyor_JPEG/upload_65561406972292784931a4aac-f9a9-43f2-9075-055e97e4d380.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
-            <link>https://m.vlive.tv/video/280887</link>
-            <guid>https://m.vlive.tv/video/280887</guid>
-            <pubDate>Thu, 07 Apr 2022 14:43:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220407_277/16492916506769CrMz_JPEG/upload_6556120788356298316887a2e-78f1-4113-af1f-ebe89a26f1a5.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
