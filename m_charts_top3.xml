@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ CHARTS </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 14:42:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 15:47:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220408_294/16494155139432UQKU_JPEG/upload_9349524140387367039c68e43-9ec5-4afd-bb3b-8a3f85e1701f.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[럿디🐁#2]]></title>
-            <link>https://m.vlive.tv/video/280967</link>
-            <guid>https://m.vlive.tv/video/280967</guid>
-            <pubDate>Thu, 07 Apr 2022 15:53:20 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220408_51/1649345656004VlQxQ_JPEG/f04693d5-b687-11ec-b3bf-48df379cc9e4_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[졸려요🐰🐰🐰]]></title>
             <link>https://m.vlive.tv/video/280765</link>
             <guid>https://m.vlive.tv/video/280765</guid>
             <pubDate>Tue, 05 Apr 2022 08:46:31 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220406_269/16492171529905hlmf_JPEG/upload_6548674702626968227b83bae-d663-4971-92a2-9fa9bb75b7c8.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[럿디🐁#2]]></title>
+            <link>https://m.vlive.tv/video/280967</link>
+            <guid>https://m.vlive.tv/video/280967</guid>
+            <pubDate>Thu, 07 Apr 2022 15:53:20 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220408_51/1649345656004VlQxQ_JPEG/f04693d5-b687-11ec-b3bf-48df379cc9e4_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
