@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 08:46:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 09:42:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[병관이 하고 싶은 거 다 해]]></title>
-            <link>https://m.vlive.tv/video/280857</link>
-            <guid>https://m.vlive.tv/video/280857</guid>
-            <pubDate>Thu, 07 Apr 2022 05:41:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 9:00</span>
-										<span class="txt">에이스(A.C.E)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220406_230/16492392060337gWHo_JPEG/upload_93318650205547410a1db8b2c-acf4-4663-b230-4f384d0d4407.jpeg?type=f274_154" length="0" type="image/jpeg"/>
-        </item>
         <item>
             <title><![CDATA[TRENDZ FIRST VLIVE [쨔잔! 트렌드지 등장😎]]]></title>
             <link>https://m.vlive.tv/video/280905</link>
@@ -96,6 +86,16 @@
 										오전 4:00</span>
 										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220408_98/16494004919446GRG7_PNG/upload_934801845742367068fc3b624-fa42-48e8-b0b7-ad1e2647e815.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Sound K] Mystery Mix with BOiTELLO 보이텔로]]></title>
+            <link>https://m.vlive.tv/video/280892</link>
+            <guid>https://m.vlive.tv/video/280892</guid>
+            <pubDate>Sat, 09 Apr 2022 09:42:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220407_32/1649291980739e01lo_JPEG/upload_93371675047251685cf766e0f-aa2b-4201-9bb6-6b3c45f37cab.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
