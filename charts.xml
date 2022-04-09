@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 16:57:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 17:42:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,20 +48,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220409_260/1649487408304eKGlV_JPEG/c4310f1e-b7d1-11ec-91f7-d4f5ef58ad5e_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[제이의 상담소💚]]></title>
-            <link>https://www.vlive.tv/video/281020</link>
-            <guid>https://www.vlive.tv/video/281020</guid>
-            <pubDate>Fri, 08 Apr 2022 10:45:04 GMT</pubDate>
-            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220408_294/16494155139432UQKU_JPEG/upload_9349524140387367039c68e43-9ec5-4afd-bb3b-8a3f85e1701f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[오늘 카페 알바도 알찼다 ☺️]]></title>
             <link>https://www.vlive.tv/video/281088</link>
             <guid>https://www.vlive.tv/video/281088</guid>
             <pubDate>Sat, 09 Apr 2022 16:56:10 GMT</pubDate>
             <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220409_231/1649513325784zHnXp_JPEG/212a0ebc-b80e-11ec-a2ba-48df379cc9e4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제이의 상담소💚]]></title>
+            <link>https://www.vlive.tv/video/281020</link>
+            <guid>https://www.vlive.tv/video/281020</guid>
+            <pubDate>Fri, 08 Apr 2022 10:45:04 GMT</pubDate>
+            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220408_294/16494155139432UQKU_JPEG/upload_9349524140387367039c68e43-9ec5-4afd-bb3b-8a3f85e1701f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 16:57:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 17:42:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쑝]]></title>
+            <link>https://www.vlive.tv/video/281101</link>
+            <guid>https://www.vlive.tv/video/281101</guid>
+            <pubDate>Sat, 09 Apr 2022 17:41:20 GMT</pubDate>
+            <content:encoded><![CDATA[SUNMI]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220410_55/1649519278172SUuxm_JPEG/16239486016571843656fba914-39fc-48e3-a454-78a9e6aca42a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄과 디디가 왔어요🌸]]></title>
             <link>https://www.vlive.tv/video/281097</link>
@@ -398,14 +406,6 @@
             <pubDate>Sat, 09 Apr 2022 06:48:18 GMT</pubDate>
             <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220409_260/1649487408304eKGlV_JPEG/c4310f1e-b7d1-11ec-91f7-d4f5ef58ad5e_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쪼랑 밥먹자🐯🥄]]></title>
-            <link>https://www.vlive.tv/video/281055</link>
-            <guid>https://www.vlive.tv/video/281055</guid>
-            <pubDate>Sat, 09 Apr 2022 06:48:18 GMT</pubDate>
-            <content:encoded><![CDATA[드림노트 (DreamNote)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220409_105/1649483060477pNDqr_JPEG/288d0cd2-b7c7-11ec-9021-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

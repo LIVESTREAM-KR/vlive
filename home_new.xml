@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 16:57:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 17:42:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쑝]]></title>
+            <link>https://www.vlive.tv/video/281101</link>
+            <guid>https://www.vlive.tv/video/281101</guid>
+            <pubDate>Sat, 09 Apr 2022 17:41:30 GMT</pubDate>
+            <content:encoded><![CDATA[SUNMI]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220410_55/1649519278172SUuxm_JPEG/16239486016571843656fba914-39fc-48e3-a454-78a9e6aca42a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[봄과 디디가 왔어요🌸]]></title>
             <link>https://www.vlive.tv/video/281097</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 09 Apr 2022 11:38:44 GMT</pubDate>
             <content:encoded><![CDATA[TRENDZ (트렌드지)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220407_280/16492989330733D034_JPEG/upload_655685359004705535635ad6d-b480-496a-b4bb-db43b7344a94.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오랜만이에요 팬포스🎀]]></title>
-            <link>https://www.vlive.tv/video/281074</link>
-            <guid>https://www.vlive.tv/video/281074</guid>
-            <pubDate>Sat, 09 Apr 2022 10:43:11 GMT</pubDate>
-            <content:encoded><![CDATA[걸카인드(GIRLKIND)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220409_200/1649498815002sEErv_JPEG/1623744179827219251f9b9cdf-0f57-4815-9ad4-ac9f944031aa.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

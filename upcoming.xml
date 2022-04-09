@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 16:57:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 17:42:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -446,6 +446,22 @@
             <pubDate>Sat, 09 Apr 2022 14:41:00 GMT</pubDate>
             <content:encoded><![CDATA[오후 4:39]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220409_280/1649514913839CE7Li_JPEG/162303287816489862f7534c1c-020b-4b0c-9597-d523bf6be6f1.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쑝]]></title>
+            <link>https://www.vlive.tv/video/281101</link>
+            <guid>https://www.vlive.tv/video/281101</guid>
+            <pubDate>Sat, 09 Apr 2022 17:42:22 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:58]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220410_55/1649519278172SUuxm_JPEG/16239486016571843656fba914-39fc-48e3-a454-78a9e6aca42a.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빌라vs토트넘]]></title>
+            <link>https://www.vlive.tv/video/281103</link>
+            <guid>https://www.vlive.tv/video/281103</guid>
+            <pubDate>Sat, 09 Apr 2022 17:42:22 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:30]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220410_269/1649525424307lNdqB_JPEG/162400955288412782963aa639-0fe0-4b92-b636-c50f95e144df.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
