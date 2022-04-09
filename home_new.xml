@@ -4,17 +4,9 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 04:51:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 05:40:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[쪼랑 밥먹자🐯🥄]]></title>
-            <link>https://www.vlive.tv/video/281055</link>
-            <guid>https://www.vlive.tv/video/281055</guid>
-            <pubDate>Sat, 09 Apr 2022 04:50:22 GMT</pubDate>
-            <content:encoded><![CDATA[드림노트 (DreamNote)]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/281055/thumb?type=f228_128" length="0" type="image//live/281055/thumb"/>
-        </item>
         <item>
             <title><![CDATA[(여자)아이들((G)I-DLE) - I-TALK #95: 'TOMBOY' 둘째 주 비하인드]]></title>
             <link>https://www.vlive.tv/video/281008</link>
@@ -126,6 +118,14 @@
             <pubDate>Fri, 08 Apr 2022 13:06:30 GMT</pubDate>
             <content:encoded><![CDATA[Busters X 버스터즈]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220408_114/1649422406019R2mDd_JPEG/1622979880048135750ffdc453-d44f-441d-8701-383177da9b1e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나른나른 룸메즈와 함께 하는 퇴근 브이라이브~!]]></title>
+            <link>https://www.vlive.tv/video/281045</link>
+            <guid>https://www.vlive.tv/video/281045</guid>
+            <pubDate>Sat, 09 Apr 2022 05:39:27 GMT</pubDate>
+            <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220408_283/1649426430779QjFmK_JPEG/d7de13f3-b743-11ec-a0e5-505dac8c3607_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

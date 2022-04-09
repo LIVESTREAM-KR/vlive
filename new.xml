@@ -4,16 +4,9 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 04:51:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 05:40:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[쪼랑 밥먹자🐯🥄]]></title>
-            <link>https://www.vlive.tv/video/281055</link>
-            <guid>https://www.vlive.tv/video/281055</guid>
-            <pubDate>Sat, 09 Apr 2022 04:50:15 GMT</pubDate>
-            <content:encoded><![CDATA[드림노트 (DreamNote)]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[(여자)아이들((G)I-DLE) - I-TALK #95: 'TOMBOY' 둘째 주 비하인드]]></title>
             <link>https://www.vlive.tv/video/281008</link>
@@ -405,6 +398,14 @@
             <pubDate>Fri, 08 Apr 2022 09:42:27 GMT</pubDate>
             <content:encoded><![CDATA[MBC 예능]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220408_284/1649408686311yjC26_JPEG/upload_6567803407904462989fcd155-5dc9-4eab-830c-3a7dae26f308.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[STAYC(스테이씨) [YOUNG-LUV.COM] Live Medley]]></title>
+            <link>https://www.vlive.tv/video/281012</link>
+            <guid>https://www.vlive.tv/video/281012</guid>
+            <pubDate>Sat, 09 Apr 2022 05:39:19 GMT</pubDate>
+            <content:encoded><![CDATA[STAYC]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220408_127/1649407761421wcjyp_JPEG/upload_65677346248381988a64e7c90-336a-407b-8ea4-ba16aff10ecd.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
