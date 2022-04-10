@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 15:46:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 16:57:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,14 +192,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220410_104/1649587133417fwcyz_JPEG/1623755230408273754265031f-9397-4e92-aa35-44e2c1fdf4f2.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[❤️]]></title>
-            <link>https://www.vlive.tv/video/281126</link>
-            <guid>https://www.vlive.tv/video/281126</guid>
-            <pubDate>Sun, 10 Apr 2022 14:41:25 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:17]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/281126/thumb?type=f228_128" length="0" type="image//live/281126/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[10:31]]></title>
             <link>https://www.vlive.tv/video/281123</link>
             <guid>https://www.vlive.tv/video/281123</guid>
@@ -238,6 +230,22 @@
             <pubDate>Sun, 10 Apr 2022 14:41:25 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:27]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220411_281/1649604447453pk0ny_JPEG/e9d9301a-b8e1-11ec-912c-48df379cca40_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[칠링 일요일💛🐝]]></title>
+            <link>https://www.vlive.tv/video/281128</link>
+            <guid>https://www.vlive.tv/video/281128</guid>
+            <pubDate>Sun, 10 Apr 2022 16:56:40 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:48]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220411_49/16496056805333tvYC_JPEG/162394074537164182b4b8a63c-88a6-42c2-a5b3-03d569ee2ce3.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[❤️]]></title>
+            <link>https://www.vlive.tv/video/281126</link>
+            <guid>https://www.vlive.tv/video/281126</guid>
+            <pubDate>Sun, 10 Apr 2022 14:41:25 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:05]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220411_298/1649606723893ClJiv_JPEG/f2609f97-b8e6-11ec-912c-48df379cca40_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
