@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 05:41:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 06:49:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,6 +29,23 @@
             <guid>https://www.vlive.tv/video/281106</guid>
             <pubDate>Sun, 10 Apr 2022 05:40:45 GMT</pubDate>
             <content:encoded><![CDATA[오전 5:33]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/281106/thumb?type=f228_128" length="0" type="image//live/281106/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[폭풍고 3-2]]></title>
+            <link>https://www.vlive.tv/video/281107</link>
+            <guid>https://www.vlive.tv/video/281107</guid>
+            <pubDate>Sun, 10 Apr 2022 06:49:25 GMT</pubDate>
+            <content:encoded><![CDATA[오전 6:37]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220410_282/1649572656303IcEvD_JPEG/6dce29db-b898-11ec-91f7-d4f5ef58ad5e_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[날씨🌞]]></title>
+            <link>https://www.vlive.tv/video/281108</link>
+            <guid>https://www.vlive.tv/video/281108</guid>
+            <pubDate>Sun, 10 Apr 2022 06:49:25 GMT</pubDate>
+            <content:encoded><![CDATA[오전 6:45]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220410_287/1649573138727Ie0cc_JPEG/ad9df522-b899-11ec-b8ef-d4f5ef5906a4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HAPPY BVNDIT DAY❤]]></title>

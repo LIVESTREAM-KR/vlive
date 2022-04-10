@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 05:41:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 06:49:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[날씨🌞]]></title>
+            <link>https://www.vlive.tv/video/281108</link>
+            <guid>https://www.vlive.tv/video/281108</guid>
+            <pubDate>Sun, 10 Apr 2022 06:48:34 GMT</pubDate>
+            <content:encoded><![CDATA[B1A4]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220410_287/1649573138727Ie0cc_JPEG/ad9df522-b899-11ec-b8ef-d4f5ef5906a4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[폭풍고 3-2]]></title>
+            <link>https://www.vlive.tv/video/281107</link>
+            <guid>https://www.vlive.tv/video/281107</guid>
+            <pubDate>Sun, 10 Apr 2022 06:48:34 GMT</pubDate>
+            <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220410_282/1649572656303IcEvD_JPEG/6dce29db-b898-11ec-91f7-d4f5ef58ad5e_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[🌹🔥 👀👀]]></title>
             <link>https://www.vlive.tv/video/281106</link>
@@ -110,22 +126,6 @@
             <pubDate>Sat, 09 Apr 2022 15:44:29 GMT</pubDate>
             <content:encoded><![CDATA[MisoJeong]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220409_186/1649505754258qF7dN_PNG/upload_93585355802927794ca5f5c32-3413-45d1-ab45-a49087697031.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[LE SSERAFIM “CASTING CALL”]]></title>
-            <link>https://www.vlive.tv/video/281082</link>
-            <guid>https://www.vlive.tv/video/281082</guid>
-            <pubDate>Sat, 09 Apr 2022 15:44:29 GMT</pubDate>
-            <content:encoded><![CDATA[LE SSERAFIM]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220409_289/1649505096709C3NFa_JPEG/upload_93584806118800844912eb381-3e0a-4c61-85ec-2dc1042befe6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[DKZ] '사랑도둑 (Cupid)' 1st Teaser]]></title>
-            <link>https://www.vlive.tv/video/281010</link>
-            <guid>https://www.vlive.tv/video/281010</guid>
-            <pubDate>Sat, 09 Apr 2022 15:44:29 GMT</pubDate>
-            <content:encoded><![CDATA[DKZ]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220408_61/1649407169327dTe7f_JPEG/upload_65676756119380972274c1585-3a0f-4251-b320-a610a80430a9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
