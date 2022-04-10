@@ -4,9 +4,25 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 13:01:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 13:43:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[10:31]]></title>
+            <link>https://www.vlive.tv/video/281123</link>
+            <guid>https://www.vlive.tv/video/281123</guid>
+            <pubDate>Sun, 10 Apr 2022 13:41:59 GMT</pubDate>
+            <content:encoded><![CDATA[Weki Meki]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220410_58/1649597872241UbISd_JPEG/385242801587190ddf1346a-9e93-45ea-aec9-593765d00fbc.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안녕하세요 민쉬학생입니다🤗]]></title>
+            <link>https://www.vlive.tv/video/281121</link>
+            <guid>https://www.vlive.tv/video/281121</guid>
+            <pubDate>Sun, 10 Apr 2022 13:41:59 GMT</pubDate>
+            <content:encoded><![CDATA[DRIPPIN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220410_157/1649595716763I8YoN_JPEG/ee0d53d3-b8cd-11ec-b086-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[데이브레이크(daybreak) X LUCY MV Behind Part.2 'Oh-eh']]></title>
             <link>https://www.vlive.tv/video/281122</link>
@@ -390,22 +406,6 @@
             <pubDate>Sat, 09 Apr 2022 12:59:56 GMT</pubDate>
             <content:encoded><![CDATA[N.Flying]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220409_87/1649505309653YsRqA_JPEG/adcf225a-b7fb-11ec-9021-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[곱창먹어야지 ㅎㅎ]]></title>
-            <link>https://www.vlive.tv/video/281076</link>
-            <guid>https://www.vlive.tv/video/281076</guid>
-            <pubDate>Sat, 09 Apr 2022 10:43:02 GMT</pubDate>
-            <content:encoded><![CDATA[DRIPPIN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220409_145/1649504249411gW9cO_JPEG/e343b3d7-b7f8-11ec-bdfe-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠깐 나 좀 봐]]></title>
-            <link>https://www.vlive.tv/video/281078</link>
-            <guid>https://www.vlive.tv/video/281078</guid>
-            <pubDate>Sat, 09 Apr 2022 11:38:35 GMT</pubDate>
-            <content:encoded><![CDATA[VIVIZ (비비지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220409_76/1649501539186cdgBi_JPEG/16237706918033161169025b9a-f371-432a-9a43-a3c033d8113a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
