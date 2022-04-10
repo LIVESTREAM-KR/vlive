@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 04:51:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 05:41:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🌹🔥 👀👀]]></title>
+            <link>https://www.vlive.tv/video/281106</link>
+            <guid>https://www.vlive.tv/video/281106</guid>
+            <pubDate>Sun, 10 Apr 2022 05:40:01 GMT</pubDate>
+            <content:encoded><![CDATA[ONEUS]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/281106/thumb?type=f228_128" length="0" type="image//live/281106/thumb"/>
+        </item>
         <item>
             <title><![CDATA[알아 두면 쓸모있는 크랙실버 잡학사전📚 EP.01 #빈센트]]></title>
             <link>https://www.vlive.tv/video/281095</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 09 Apr 2022 15:44:29 GMT</pubDate>
             <content:encoded><![CDATA[DKZ]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220408_61/1649407169327dTe7f_JPEG/upload_65676756119380972274c1585-3a0f-4251-b320-a610a80430a9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘 카페 알바도 알찼다 ☺️]]></title>
-            <link>https://www.vlive.tv/video/281088</link>
-            <guid>https://www.vlive.tv/video/281088</guid>
-            <pubDate>Sat, 09 Apr 2022 13:41:50 GMT</pubDate>
-            <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220409_231/1649513325784zHnXp_JPEG/212a0ebc-b80e-11ec-a2ba-48df379cc9e4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
