@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 11:40:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 13:01:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,14 +128,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220410_215/16495812802669OYvd_JPEG/162369659423267315540c78d7-40e7-40b2-91b3-d1fd923ce7bf.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우린 왜 안맞을까..?]]></title>
-            <link>https://www.vlive.tv/video/281116</link>
-            <guid>https://www.vlive.tv/video/281116</guid>
-            <pubDate>Sun, 10 Apr 2022 10:44:05 GMT</pubDate>
-            <content:encoded><![CDATA[오전 10:29]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/281116/thumb?type=f228_128" length="0" type="image//live/281116/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[같이 석식 먹으러 갈래?🍚]]></title>
             <link>https://www.vlive.tv/video/281115</link>
             <guid>https://www.vlive.tv/video/281115</guid>
@@ -152,14 +144,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220410_104/1649587133417fwcyz_JPEG/1623755230408273754265031f-9397-4e92-aa35-44e2c1fdf4f2.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[Ü.나.시] 내가 왔다!!]]></title>
-            <link>https://www.vlive.tv/video/281119</link>
-            <guid>https://www.vlive.tv/video/281119</guid>
-            <pubDate>Sun, 10 Apr 2022 11:39:42 GMT</pubDate>
-            <content:encoded><![CDATA[오전 10:57]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/281119/thumb?type=f228_128" length="0" type="image//live/281119/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[ITZY(있지) #Twenty Dance Practice (4K)]]></title>
             <link>https://www.vlive.tv/video/280910</link>
             <guid>https://www.vlive.tv/video/280910</guid>
@@ -174,6 +158,30 @@
             <pubDate>Sun, 10 Apr 2022 11:39:42 GMT</pubDate>
             <content:encoded><![CDATA[오전 11:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220410_79/1649588703534yODp0_PNG/upload_6585654841168630362d2841f-7cbf-431e-bcb2-d6fc38194b94.png?type=f228_128" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[우린 왜 안맞을까..?]]></title>
+            <link>https://www.vlive.tv/video/281116</link>
+            <guid>https://www.vlive.tv/video/281116</guid>
+            <pubDate>Sun, 10 Apr 2022 10:44:05 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:54]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220410_76/1649591647772QxEQs_JPEG/029f2ea6-b8c4-11ec-a12d-505dac8c381b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Ü.나.시] 내가 왔다!!]]></title>
+            <link>https://www.vlive.tv/video/281119</link>
+            <guid>https://www.vlive.tv/video/281119</guid>
+            <pubDate>Sun, 10 Apr 2022 11:39:42 GMT</pubDate>
+            <content:encoded><![CDATA[오후 12:14]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220410_172/16495928941397phyv_JPEG/5b8f675b-b8c7-11ec-a9d0-505dacfba98a_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이브레이크(daybreak) X LUCY MV Behind Part.2 'Oh-eh']]></title>
+            <link>https://www.vlive.tv/video/281122</link>
+            <guid>https://www.vlive.tv/video/281122</guid>
+            <pubDate>Sun, 10 Apr 2022 13:01:02 GMT</pubDate>
+            <content:encoded><![CDATA[오후 12:30]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220410_62/1649593218351Kzxqk_JPEG/upload_93672891587314513cc0632c7-3930-488c-a032-0757da3c386e.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
