@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 03:32:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 03:59:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Arirang Radio/K-Poppin'] Singlish with DKB]]></title>
+            <link>https://www.vlive.tv/video/280891</link>
+            <guid>https://www.vlive.tv/video/280891</guid>
+            <pubDate>Mon, 11 Apr 2022 03:58:23 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220407_292/1649291862297yjyor_JPEG/upload_65561406972292784931a4aac-f9a9-43f2-9075-055e97e4d380.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[monday]]></title>
             <link>https://www.vlive.tv/video/281137</link>
@@ -398,14 +406,6 @@
             <pubDate>Sat, 09 Apr 2022 15:44:20 GMT</pubDate>
             <content:encoded><![CDATA[LE SSERAFIM]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220411_33/1649645872803r5DyN_JPEG/upload_659154750558136013ee4214a-9be6-45f4-ac8e-b791e2a8764a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[DKZ] '사랑도둑 (Cupid)' 1st Teaser]]></title>
-            <link>https://www.vlive.tv/video/281010</link>
-            <guid>https://www.vlive.tv/video/281010</guid>
-            <pubDate>Sat, 09 Apr 2022 15:44:20 GMT</pubDate>
-            <content:encoded><![CDATA[DKZ]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220408_61/1649407169327dTe7f_JPEG/upload_65676756119380972274c1585-3a0f-4251-b320-a610a80430a9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
