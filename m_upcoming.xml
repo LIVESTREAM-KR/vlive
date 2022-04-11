@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 10:46:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 11:40:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Radio'n Us / THAMA 따마)]]></title>
-            <link>https://m.vlive.tv/video/281029</link>
-            <guid>https://m.vlive.tv/video/281029</guid>
-            <pubDate>Fri, 08 Apr 2022 10:45:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220408_265/1649412992994yKXqm_JPEG/upload_934926817780485635ffe3948-a340-4e7c-8a3c-ebdac7b8398f.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
             <link>https://m.vlive.tv/video/280887</link>
@@ -96,6 +86,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220408_103/1649412864875ialN9_JPEG/upload_93492560886223140646c54dd-bc82-44e5-9f86-351eb4d073e1.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[I'm LIVE:🔴공연 생중계]🎤딕펑스 | 위수 | 라드 뮤지엄]]></title>
+            <link>https://m.vlive.tv/video/281156</link>
+            <guid>https://m.vlive.tv/video/281156</guid>
+            <pubDate>Mon, 11 Apr 2022 11:40:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 9:00</span>
+										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220411_192/1649663542574l3Hno_PNG/upload_93743201752768849e9d0fa3d-b41f-4cdb-852d-3f84d44155fc.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
