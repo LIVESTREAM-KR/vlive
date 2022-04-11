@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 14:42:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 15:47:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,23 @@
             <guid>https://www.vlive.tv/video/281183</guid>
             <pubDate>Mon, 11 Apr 2022 14:41:02 GMT</pubDate>
             <content:encoded><![CDATA[Busters X 버스터즈]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/281183/thumb?type=f228_128" length="0" type="image//live/281183/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220412_59/1649689717315qO28R_JPEG/e14eba97-b9a8-11ec-b52c-505dac8c37f3_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[문별] 2nd Single Album [C.I.T.T (Cheese in the Trap)] Schedule Teaser]]></title>
+            <link>https://www.vlive.tv/video/281176</link>
+            <guid>https://www.vlive.tv/video/281176</guid>
+            <pubDate>Mon, 11 Apr 2022 15:46:25 GMT</pubDate>
+            <content:encoded><![CDATA[MAMAMOO]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220411_176/1649684493771xJj1m_JPEG/upload_93764206188741864eb22b929-ceb2-410d-855b-9c8a2d438ee3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LE SSERAFIM The Rough cut : Debut Collection]]></title>
+            <link>https://www.vlive.tv/video/281172</link>
+            <guid>https://www.vlive.tv/video/281172</guid>
+            <pubDate>Mon, 11 Apr 2022 15:46:25 GMT</pubDate>
+            <content:encoded><![CDATA[LE SSERAFIM]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220411_127/16496783990404bgze_JPEG/upload_93758094880567060744e2364-d292-4414-b1b4-769e9737c7d1.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[😉⭐️👊🏻]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 11 Apr 2022 11:39:25 GMT</pubDate>
             <content:encoded><![CDATA[우주소녀(WJSN)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220407_50/1649322136071mCSNQ_JPEG/upload_655917324226492111f8af021-9e69-4628-b049-e6cd856a4d41.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[𝘄𝗶𝘁𝗵𝘂𝘀] 준엽이의 놀이터]]></title>
-            <link>https://www.vlive.tv/video/281167</link>
-            <guid>https://www.vlive.tv/video/281167</guid>
-            <pubDate>Mon, 11 Apr 2022 10:45:24 GMT</pubDate>
-            <content:encoded><![CDATA[위드에이치씨 (withHC)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220411_78/1649671181700tPoyn_JPEG/1625467846955820673b269e18-9ce1-4198-a41b-61fe1afb0c59.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[온유(SHINee ONEW) "3년 4개월만에 솔로 컴백, 성숙하고 색다른 모습 보여드릴 것" (DICE)]]></title>
-            <link>https://www.vlive.tv/video/281169</link>
-            <guid>https://www.vlive.tv/video/281169</guid>
-            <pubDate>Mon, 11 Apr 2022 11:39:25 GMT</pubDate>
-            <content:encoded><![CDATA[mydaily]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220411_252/1649674494785MELCw_JPEG/upload_937542114446373196384cda0-38b9-4afe-a65d-4290aac294eb.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
