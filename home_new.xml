@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 17:45:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 18:51:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="https://v-phinf.pstatic.net/20220411_142/1649660957390MbkWH_JPEG/upload_93740648343137828dc8bce04-77cd-414f-815d-a9ace041e516.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[LIVE] 월요일]]></title>
+            <link>https://www.vlive.tv/video/281168</link>
+            <guid>https://www.vlive.tv/video/281168</guid>
+            <pubDate>Mon, 11 Apr 2022 18:50:31 GMT</pubDate>
+            <content:encoded><![CDATA[CRAVITY]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220412_209/1649699247259Pa73X_JPEG/3a79a1ae-b9bd-11ec-8726-d4f5ef58ac88_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[TO DO X TOMORROW X TOGETHER - EP.79]]></title>
             <link>https://www.vlive.tv/video/280756</link>
             <guid>https://www.vlive.tv/video/280756</guid>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 11 Apr 2022 11:39:25 GMT</pubDate>
             <content:encoded><![CDATA[ONEWE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220411_88/1649670037942LmLM2_JPEG/upload_93749731299094045e2cf719f-7518-4d9c-9705-4131b7c874c3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[UZZU TAPE] EP.169 레고와 함께한 보나의 ELLE 4월호!]]></title>
-            <link>https://www.vlive.tv/video/280935</link>
-            <guid>https://www.vlive.tv/video/280935</guid>
-            <pubDate>Mon, 11 Apr 2022 11:39:25 GMT</pubDate>
-            <content:encoded><![CDATA[우주소녀(WJSN)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220407_50/1649322136071mCSNQ_JPEG/upload_655917324226492111f8af021-9e69-4628-b049-e6cd856a4d41.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 17:45:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 18:51:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,6 +102,14 @@
             <pubDate>Mon, 11 Apr 2022 13:05:17 GMT</pubDate>
             <content:encoded><![CDATA[bugAboo]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220411_142/1649660957390MbkWH_JPEG/upload_93740648343137828dc8bce04-77cd-414f-815d-a9ace041e516.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE] 월요일]]></title>
+            <link>https://www.vlive.tv/video/281168</link>
+            <guid>https://www.vlive.tv/video/281168</guid>
+            <pubDate>Mon, 11 Apr 2022 18:50:21 GMT</pubDate>
+            <content:encoded><![CDATA[CRAVITY]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220412_209/1649699247259Pa73X_JPEG/3a79a1ae-b9bd-11ec-8726-d4f5ef58ac88_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TO DO X TOMORROW X TOGETHER - EP.79]]></title>
@@ -398,14 +406,6 @@
             <pubDate>Mon, 11 Apr 2022 02:26:45 GMT</pubDate>
             <content:encoded><![CDATA[Ktimes]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220411_189/16496407635384rWIa_PNG/upload_93720448062372113f086f7e2-b7df-4fce-bca4-4db7bdb27755.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 안나라수마나라 | 티저 예고편]]></title>
-            <link>https://www.vlive.tv/video/280957</link>
-            <guid>https://www.vlive.tv/video/280957</guid>
-            <pubDate>Mon, 11 Apr 2022 02:26:45 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 (Netflixkr)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220407_228/1649339595319aPVCw_JPEG/upload_934193256059666173c01beb5-98d6-437b-9286-583212deab70.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
