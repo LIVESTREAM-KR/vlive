@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 08:47:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 09:44:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,16 @@
 										오전 4:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220407_121/1649306711138dTwo8_JPEG/upload_93386325707420341309b5d29-3685-4877-ba0a-64ddda6023dc.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Sound K] Song Express ver.3 with Iris 아이리스]]></title>
+            <link>https://m.vlive.tv/video/280893</link>
+            <guid>https://m.vlive.tv/video/280893</guid>
+            <pubDate>Mon, 11 Apr 2022 09:44:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220407_259/1649292021364i2yvA_JPEG/upload_933717235707191336ebefaeb-37a7-4745-83e2-7032c610eafc.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
