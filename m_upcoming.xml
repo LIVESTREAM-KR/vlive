@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 04:52:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 05:41:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Sound K / D-CRUNCH 디크런치)]]></title>
-            <link>https://m.vlive.tv/video/281030</link>
-            <guid>https://m.vlive.tv/video/281030</guid>
-            <pubDate>Fri, 08 Apr 2022 10:45:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220408_136/16494130727328AEnj_JPEG/upload_65682620247889228403eac1b-ffd6-46fd-845a-2003a9d2d99f.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Super K-Pop / ILY:1 아일리원)]]></title>
             <link>https://m.vlive.tv/video/281027</link>
@@ -86,6 +76,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220407_206/16492916896651SHHn_JPEG/upload_9337139376024436482e949a3-a467-474f-85e9-2546e922d8e2.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio/K-Poppin'] VOCESORI Choi Han Yi, Oh Yoon Seok 보체소리 최한이, 오윤석]]></title>
+            <link>https://m.vlive.tv/video/280912</link>
+            <guid>https://m.vlive.tv/video/280912</guid>
+            <pubDate>Mon, 11 Apr 2022 05:41:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220407_121/1649306711138dTwo8_JPEG/upload_93386325707420341309b5d29-3685-4877-ba0a-64ddda6023dc.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
