@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 09:44:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 10:46:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,6 +32,14 @@
             <enclosure url="https://v-phinf.pstatic.net/20220410_79/1649588703534yODp0_PNG/upload_6585654841168630362d2841f-7cbf-431e-bcb2-d6fc38194b94.png?type=f380_213_wp" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[큐뉴빵]]></title>
+            <link>https://www.vlive.tv/video/281165</link>
+            <guid>https://www.vlive.tv/video/281165</guid>
+            <pubDate>Mon, 11 Apr 2022 10:45:51 GMT</pubDate>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220411_7/1649672769318DQJIz_JPEG/7116eb95-b981-11ec-a0e5-505dac8c3607_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[보라해💜💜]]></title>
             <link>https://www.vlive.tv/video/280684</link>
             <guid>https://www.vlive.tv/video/280684</guid>
@@ -54,14 +62,6 @@
             <pubDate>Sun, 10 Apr 2022 17:42:14 GMT</pubDate>
             <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220410_9/16495869980032lUNv_JPEG/ab87160b-b8b9-11ec-b8ef-d4f5ef5906a4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[10분만?]]></title>
-            <link>https://www.vlive.tv/video/281145</link>
-            <guid>https://www.vlive.tv/video/281145</guid>
-            <pubDate>Mon, 11 Apr 2022 07:42:01 GMT</pubDate>
-            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220411_216/1649658100296ecNK1_JPEG/36c8bea8-b95f-11ec-91f7-d4f5ef58ad5e_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
