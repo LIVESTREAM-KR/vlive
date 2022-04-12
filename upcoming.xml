@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 15:48:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 16:59:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -456,14 +456,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220412_246/1649774721217e5iOw_JPEG/f5e8aa66-ba6d-11ec-a12d-505dac8c381b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[4.13]]></title>
-            <link>https://www.vlive.tv/video/281247</link>
-            <guid>https://www.vlive.tv/video/281247</guid>
-            <pubDate>Tue, 12 Apr 2022 15:47:39 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:55]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/281247/thumb?type=f228_128" length="0" type="image//live/281247/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[JUST B (저스트비) 'RE=LOAD' MV Teaser]]></title>
             <link>https://www.vlive.tv/video/281208</link>
             <guid>https://www.vlive.tv/video/281208</guid>
@@ -494,6 +486,14 @@
             <pubDate>Tue, 12 Apr 2022 14:41:50 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:34]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220412_280/1649774183322IYdBV_JPEG/1626497973097797834dd55a8d-8e9e-4fc9-aacf-38bf3a37bbb4.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[4.13]]></title>
+            <link>https://www.vlive.tv/video/281247</link>
+            <guid>https://www.vlive.tv/video/281247</guid>
+            <pubDate>Tue, 12 Apr 2022 15:47:39 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:08]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220413_152/1649779680379EGbRD_JPEG/3f728918-ba7a-11ec-b8ef-d4f5ef5906a4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
