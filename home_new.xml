@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 03:23:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 03:55:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나랑 놀자~]]></title>
+            <link>https://www.vlive.tv/video/281189</link>
+            <guid>https://www.vlive.tv/video/281189</guid>
+            <pubDate>Tue, 12 Apr 2022 03:53:55 GMT</pubDate>
+            <content:encoded><![CDATA[DRIPPIN]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/281189/thumb?type=f228_128" length="0" type="image//live/281189/thumb"/>
+        </item>
         <item>
             <title><![CDATA[엑소 수호(EXO SUHO), 새 앨범 홍보에 진심인 리더 '새로운 앨범 나왔어요']]></title>
             <link>https://www.vlive.tv/video/281188</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 11 Apr 2022 13:05:25 GMT</pubDate>
             <content:encoded><![CDATA[AleXa]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220411_161/16496797218344Xtoz_JPEG/162468095805059366f0f9bf8b-b76f-4d38-8f08-d46eeb53cc05.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arirang Radio (Radio'n Us / THAMA 따마)]]></title>
-            <link>https://www.vlive.tv/video/281029</link>
-            <guid>https://www.vlive.tv/video/281029</guid>
-            <pubDate>Mon, 11 Apr 2022 11:39:25 GMT</pubDate>
-            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220408_265/1649412992994yKXqm_JPEG/upload_934926817780485635ffe3948-a340-4e7c-8a3c-ebdac7b8398f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
