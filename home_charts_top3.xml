@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ CHARTS TOP3</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 08:47:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 09:44:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빵꿀즈 🍞🐷]]></title>
+            <link>https://www.vlive.tv/video/281214</link>
+            <guid>https://www.vlive.tv/video/281214</guid>
+            <pubDate>Tue, 12 Apr 2022 09:43:03 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220412_233/1649753139479mN9vL_JPEG/5ab4e05e-ba3c-11ec-bdfe-48df37ae3dc4_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[남준씨..]]></title>
             <link>https://www.vlive.tv/video/281058</link>
@@ -22,14 +30,6 @@
             <pubDate>Mon, 11 Apr 2022 11:39:31 GMT</pubDate>
             <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220411_7/1649672769318DQJIz_JPEG/7116eb95-b981-11ec-a0e5-505dac8c3607_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[졸려요🐰🐰🐰]]></title>
-            <link>https://www.vlive.tv/video/280765</link>
-            <guid>https://www.vlive.tv/video/280765</guid>
-            <pubDate>Sun, 10 Apr 2022 10:43:20 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220406_269/16492171529905hlmf_JPEG/upload_6548674702626968227b83bae-d663-4971-92a2-9fa9bb75b7c8.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
