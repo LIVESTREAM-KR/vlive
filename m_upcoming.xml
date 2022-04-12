@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 07:42:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 08:47:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -68,6 +68,16 @@
             <enclosure url="https://v-phinf.pstatic.net/20220411_192/1649663542574l3Hno_PNG/upload_93743201752768849e9d0fa3d-b41f-4cdb-852d-3f84d44155fc.png?type=f274_154" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Arirang Radio (Radio'n Us / JEONTAEWON 전태원)]]></title>
+            <link>https://m.vlive.tv/video/281204</link>
+            <guid>https://m.vlive.tv/video/281204</guid>
+            <pubDate>Tue, 12 Apr 2022 08:47:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220412_280/1649749257838t96x9_JPEG/upload_9382889805226552868f5f646-65c3-49a0-b05b-24f85f8364c2.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
             <link>https://m.vlive.tv/video/280889</link>
             <guid>https://m.vlive.tv/video/280889</guid>
@@ -76,36 +86,6 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220407_105/1649291730564xqoX2_JPEG/upload_93371421799446824fc321e74-87c9-4d97-a910-059002221b53.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Super K-Pop] Stray Quiz]]></title>
-            <link>https://m.vlive.tv/video/280896</link>
-            <guid>https://m.vlive.tv/video/280896</guid>
-            <pubDate>Tue, 12 Apr 2022 02:21:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220407_270/1649292172854jYUvx_JPEG/upload_93371859329560304d0e4383f-e0f2-48cb-bb9b-234bb479a10b.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MIYA's KEYWORD PLAYLIST 🌼✨]]></title>
-            <link>https://m.vlive.tv/video/281005</link>
-            <guid>https://m.vlive.tv/video/281005</guid>
-            <pubDate>Tue, 12 Apr 2022 04:51:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">SUNMI</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220408_45/1649404921579BYRBG_JPEG/upload_93484026285708823286c768f-83e1-4cc7-b00f-c13bfa08740e.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
-            <link>https://m.vlive.tv/video/280890</link>
-            <guid>https://m.vlive.tv/video/280890</guid>
-            <pubDate>Tue, 12 Apr 2022 04:51:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220407_36/16492917662193QlCl_JPEG/upload_65561350554790910af935a87-173a-4085-81c6-086f6b9eb8c6.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
