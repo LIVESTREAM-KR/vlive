@@ -4,9 +4,19 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 10:46:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 11:40:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[권정열 고영배의 십란한밤 #239]]></title>
+            <link>https://m.vlive.tv/video/281229</link>
+            <guid>https://m.vlive.tv/video/281229</guid>
+            <pubDate>Tue, 12 Apr 2022 11:40:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 12:00</span>
+										<span class="txt">권정열 고영배의 십란한 밤</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220412_61/1649763287042uQu8A_PNG/upload_93842946741973947aba67e99-a48e-42ab-928a-f3158fb23860.png?type=f274_154" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthew]]></title>
             <link>https://m.vlive.tv/video/280888</link>
@@ -96,16 +106,6 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220412_284/1649749304800co9dD_JPEG/upload_9382899924066340820a266ad-8900-495e-bf5b-a7d408dc2350.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Super K-Pop] Stray Quiz]]></title>
-            <link>https://m.vlive.tv/video/280896</link>
-            <guid>https://m.vlive.tv/video/280896</guid>
-            <pubDate>Tue, 12 Apr 2022 09:43:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220407_270/1649292172854jYUvx_JPEG/upload_93371859329560304d0e4383f-e0f2-48cb-bb9b-234bb479a10b.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
