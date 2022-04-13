@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 03:26:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 03:55:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio/K-Poppin'] VOCESORI Choi Han Yi, Oh Yoon Seok 보체소리 최한이, 오윤석]]></title>
-            <link>https://m.vlive.tv/video/280912</link>
-            <guid>https://m.vlive.tv/video/280912</guid>
-            <pubDate>Mon, 11 Apr 2022 05:41:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 4:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220407_121/1649306711138dTwo8_JPEG/upload_93386325707420341309b5d29-3685-4877-ba0a-64ddda6023dc.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Sound K] Song Express ver.3 with Iris 아이리스]]></title>
             <link>https://m.vlive.tv/video/280893</link>
@@ -106,6 +96,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220407_270/1649292172854jYUvx_JPEG/upload_93371859329560304d0e4383f-e0f2-48cb-bb9b-234bb479a10b.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MIYA's KEYWORD PLAYLIST 🌼✨]]></title>
+            <link>https://m.vlive.tv/video/281005</link>
+            <guid>https://m.vlive.tv/video/281005</guid>
+            <pubDate>Wed, 13 Apr 2022 03:55:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">SUNMI</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220408_45/1649404921579BYRBG_JPEG/upload_93484026285708823286c768f-83e1-4cc7-b00f-c13bfa08740e.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
