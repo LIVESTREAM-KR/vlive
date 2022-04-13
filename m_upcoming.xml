@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 06:50:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 07:42:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Super K-Pop / Swan 수안)]]></title>
-            <link>https://m.vlive.tv/video/281026</link>
-            <guid>https://m.vlive.tv/video/281026</guid>
-            <pubDate>Mon, 11 Apr 2022 10:46:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220408_103/1649412864875ialN9_JPEG/upload_93492560886223140646c54dd-bc82-44e5-9f86-351eb4d073e1.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HAPPY YURIM DAY 🎂🎉]]></title>
-            <link>https://m.vlive.tv/video/281202</link>
-            <guid>https://m.vlive.tv/video/281202</guid>
-            <pubDate>Tue, 12 Apr 2022 07:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">3YE (써드아이)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220412_251/1649748783902ac9ld_JPEG/upload_938278997350674600d2b3413-d414-4cd2-9f39-f3b12e96129d.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[I'm LIVE:🔴공연 생중계]🎤딕펑스 | 위수 | 라드 뮤지엄]]></title>
             <link>https://m.vlive.tv/video/281156</link>
@@ -106,6 +86,26 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220407_36/16492917662193QlCl_JPEG/upload_65561350554790910af935a87-173a-4085-81c6-086f6b9eb8c6.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Sound K] Edu-K-tion with Hiss 히스]]></title>
+            <link>https://m.vlive.tv/video/280894</link>
+            <guid>https://m.vlive.tv/video/280894</guid>
+            <pubDate>Wed, 13 Apr 2022 07:41:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220407_167/1649292070050d1gUv_JPEG/upload_9337176242560451426bbc960-34b5-4683-ab3c-da40f59c8a60.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop] Topic Song with BÉBE YANA , Jogon of 9001]]></title>
+            <link>https://m.vlive.tv/video/280897</link>
+            <guid>https://m.vlive.tv/video/280897</guid>
+            <pubDate>Wed, 13 Apr 2022 07:41:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220407_136/1649292221361Q2jgf_JPEG/upload_93371927194204033f31053ee-3883-4b52-be76-6b94645e488b.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
