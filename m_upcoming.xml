@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 05:41:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 06:51:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220407_136/1649292221361Q2jgf_JPEG/upload_93371927194204033f31053ee-3883-4b52-be76-6b94645e488b.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[교생쌤과 사랑하게 될 줄 알았어💜 (Special guest?🤔)]]></title>
+            <link>https://m.vlive.tv/video/281366</link>
+            <guid>https://m.vlive.tv/video/281366</guid>
+            <pubDate>Thu, 14 Apr 2022 06:51:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">HONG EUI JIN (홍의진)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220414_156/16499157042200gJxG_JPEG/upload_661849839989788744bc66ab0-24f0-4999-b53f-d7c2126fb17d.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
