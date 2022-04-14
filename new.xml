@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 17:03:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 17:46:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[홍홍홍~]]></title>
+            <link>https://www.vlive.tv/video/281425</link>
+            <guid>https://www.vlive.tv/video/281425</guid>
+            <pubDate>Thu, 14 Apr 2022 17:44:50 GMT</pubDate>
+            <content:encoded><![CDATA[PENTAGON]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220415_215/1649952265529pKSGA_JPEG/1628278795111550226f005060-9058-4624-ab4f-f6f8f1e4c04c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[HELLO MELBOURNE🇦🇺🙌🏻💛🐝]]></title>
             <link>https://www.vlive.tv/video/281418</link>
@@ -398,14 +406,6 @@
             <pubDate>Thu, 14 Apr 2022 09:43:01 GMT</pubDate>
             <content:encoded><![CDATA[ARIRANG K Pop │ 아리랑케이팝]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220414_271/164992690836439zvB_PNG/upload_9400662747425683622ce2236-98d9-4bcc-9d6d-36c39187a14c.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[미국에서 BTS보고 다들 놀라는 이유 ㄷㄷ: | 우빈의 현장취재]]></title>
-            <link>https://www.vlive.tv/video/281377</link>
-            <guid>https://www.vlive.tv/video/281377</guid>
-            <pubDate>Thu, 14 Apr 2022 09:43:01 GMT</pubDate>
-            <content:encoded><![CDATA[TEN Asia (텐아시아)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220414_284/16499268972125YCRx_JPEG/upload_94006477491600448a9807e7a-afc7-4d28-9cdf-9be848629ca8.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
