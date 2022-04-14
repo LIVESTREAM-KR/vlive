@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 11:43:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 13:10:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[hello~_~]]></title>
-            <link>https://m.vlive.tv/video/281403</link>
-            <guid>https://m.vlive.tv/video/281403</guid>
-            <pubDate>Thu, 14 Apr 2022 11:42:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:50</span>
-										<span class="txt">sema</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220414_296/1649936538752B1o5I_JPEG/upload_66206119056282763d8b12f9d-9065-4800-ab2a-8f535f2497fe.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포맨] 포맨(4MEN) 4기의 첫!번째 생일파티 🎂]]></title>
-            <link>https://m.vlive.tv/video/281259</link>
-            <guid>https://m.vlive.tv/video/281259</guid>
-            <pubDate>Wed, 13 Apr 2022 05:41:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 12:00</span>
-										<span class="txt">MAJOR9 (메이저나인)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220413_136/16498188286952HUMW_JPEG/upload_938985029044827352c6b56f5-e8fb-4f2e-a7ee-d8c9d36d6605.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
             <link>https://m.vlive.tv/video/280890</link>
@@ -96,6 +76,26 @@
 										오후 2:00</span>
 										<span class="txt">KINGDOM</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220412_225/16497628383383pdr6_PNG/upload_66032367452990030c4eeb725-b87f-4ecd-bc95-b73504a1339a.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
+            <link>https://m.vlive.tv/video/281334</link>
+            <guid>https://m.vlive.tv/video/281334</guid>
+            <pubDate>Thu, 14 Apr 2022 13:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220414_167/1649900821258vFJgg_JPEG/upload_93980502452456832cfbd748a-ca3d-416c-b0e5-351753c7c74c.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio/K-Poppin'] Singlish with DKB]]></title>
+            <link>https://m.vlive.tv/video/281339</link>
+            <guid>https://m.vlive.tv/video/281339</guid>
+            <pubDate>Thu, 14 Apr 2022 13:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220414_281/1649901004802I2bhR_JPEG/upload_939806995008502171febcb7d-ede2-424f-9bef-aab8aecbbc97.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
