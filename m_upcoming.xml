@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 09:44:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 10:46:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[MIYA's KEYWORD PLAYLIST 🌼✨]]></title>
-            <link>https://m.vlive.tv/video/281005</link>
-            <guid>https://m.vlive.tv/video/281005</guid>
-            <pubDate>Wed, 13 Apr 2022 03:55:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">SUNMI</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220408_45/1649404921579BYRBG_JPEG/upload_93484026285708823286c768f-83e1-4cc7-b00f-c13bfa08740e.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[TRENDZ HAPPY 100 DAYS🎉]]></title>
             <link>https://m.vlive.tv/video/281347</link>
@@ -96,6 +86,16 @@
 										오전 11:00</span>
 										<span class="txt">HONG EUI JIN (홍의진)</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220414_156/16499157042200gJxG_JPEG/upload_661849839989788744bc66ab0-24f0-4999-b53f-d7c2126fb17d.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HBD 아서🐿💙]]></title>
+            <link>https://m.vlive.tv/video/281228</link>
+            <guid>https://m.vlive.tv/video/281228</guid>
+            <pubDate>Thu, 14 Apr 2022 10:46:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 2:00</span>
+										<span class="txt">KINGDOM</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220412_225/16497628383383pdr6_PNG/upload_66032367452990030c4eeb725-b87f-4ecd-bc95-b73504a1339a.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
