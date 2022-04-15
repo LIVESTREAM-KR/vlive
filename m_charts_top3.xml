@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ CHARTS </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 18:49:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 19:41:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220415_25/1650019046293UTx7e_JPEG/upload_662886481212767632fc6bdba-8863-4a62-8b86-212835b235fc.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[TXT(투모로우바이투게더) minisode 2: Friday's Child]]></title>
-            <link>https://m.vlive.tv/video/281475</link>
-            <guid>https://m.vlive.tv/video/281475</guid>
-            <pubDate>Fri, 15 Apr 2022 09:43:46 GMT</pubDate>
-            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220415_179/1650016593720ITR37_JPEG/upload_662861397939114355bb06485-c4b8-478e-9217-b4bd759e31e1.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[럿디🐁#3]]></title>
             <link>https://m.vlive.tv/video/281523</link>
             <guid>https://m.vlive.tv/video/281523</guid>
             <pubDate>Fri, 15 Apr 2022 17:45:07 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220416_16/16500411600032wHoo_JPEG/31c55bb7-bcdb-11ec-98b3-48df379ccacc_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TXT(투모로우바이투게더) minisode 2: Friday's Child]]></title>
+            <link>https://m.vlive.tv/video/281475</link>
+            <guid>https://m.vlive.tv/video/281475</guid>
+            <pubDate>Fri, 15 Apr 2022 09:43:46 GMT</pubDate>
+            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220415_179/1650016593720ITR37_JPEG/upload_662861397939114355bb06485-c4b8-478e-9217-b4bd759e31e1.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
