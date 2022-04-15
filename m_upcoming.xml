@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 10:45:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 11:40:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[교생쌤과 사랑하게 될 줄 알았어💜 (Special guest?🤔)]]></title>
-            <link>https://m.vlive.tv/video/281366</link>
-            <guid>https://m.vlive.tv/video/281366</guid>
-            <pubDate>Thu, 14 Apr 2022 06:51:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">HONG EUI JIN (홍의진)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220414_156/16499157042200gJxG_JPEG/upload_661849839989788744bc66ab0-24f0-4999-b53f-d7c2126fb17d.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[HBD 아서🐿💙]]></title>
             <link>https://m.vlive.tv/video/281228</link>
@@ -86,6 +76,26 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220414_126/1649900860767uDOu0_JPEG/upload_93980572827335654130fd931-5822-422e-8ca3-718a58d38f8d.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ASC Live Ep.519 (DKZ / 디케이지)]]></title>
+            <link>https://m.vlive.tv/video/281450</link>
+            <guid>https://m.vlive.tv/video/281450</guid>
+            <pubDate>Fri, 15 Apr 2022 11:40:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220415_236/165000077744134Ldf_PNG/upload_940804738872582785ed7dd29-fdd7-42d2-8654-4d3db86a8329.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Sound K] Mystery Mix with BOiTELLO 보이텔로]]></title>
+            <link>https://m.vlive.tv/video/281340</link>
+            <guid>https://m.vlive.tv/video/281340</guid>
+            <pubDate>Fri, 15 Apr 2022 11:40:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220414_94/16499010568041ALXo_JPEG/upload_939807595008019173b64d7bf-6982-4ae8-8eb8-6043776338ae.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
