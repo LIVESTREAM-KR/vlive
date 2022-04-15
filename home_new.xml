@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 05:04:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 05:44:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[너무 오랜만이죠]]></title>
+            <link>https://www.vlive.tv/video/281449</link>
+            <guid>https://www.vlive.tv/video/281449</guid>
+            <pubDate>Fri, 15 Apr 2022 05:42:59 GMT</pubDate>
+            <content:encoded><![CDATA[N.O.M]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220415_137/1650000275621c2Wue_JPEG/162788665309952517ec3179a0-5f4a-4e4a-80e3-62d83a51cb73.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[TMI SHOW/9회 예고] "OOO 깔까~?♨" 까면 깔수록 더 궁금한 제시&한해의 마라맛 TMI는? | 매주 수요일 저녁 8시 본방송]]></title>
             <link>https://www.vlive.tv/video/281445</link>
@@ -21,7 +29,7 @@
             <guid>https://www.vlive.tv/video/281329</guid>
             <pubDate>Fri, 15 Apr 2022 04:20:12 GMT</pubDate>
             <content:encoded><![CDATA[ARIRANG K Pop │ 아리랑케이팝]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220414_264/16498985106761a4fJ_PNG/upload_661680993565246821647c58f-03d4-4247-89ff-386b599877b9.png?type=f228_128_wp" length="0" type="image/png"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220415_117/1649999588614XLwIF_PNG/upload_66269192729496937393bebf1-21e3-44d5-9228-2f0b663aa6fb.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[입덕 유발하는 🎀청량🎀 매력 DKZ (디케이지)의 ‘사랑도둑’ _ Ep.515]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 15 Apr 2022 04:20:12 GMT</pubDate>
             <content:encoded><![CDATA[sema]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220415_297/1649991220995qC6qR_JPEG/upload_662608028278536410dedf6c9-9d56-4633-a8db-887bfeaf8211.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HOTCLIP] ASC 1초 송퀴즈 with 빌리]]></title>
-            <link>https://www.vlive.tv/video/281429</link>
-            <guid>https://www.vlive.tv/video/281429</guid>
-            <pubDate>Fri, 15 Apr 2022 04:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[After School Club │ 애프터스쿨클럽]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220415_191/1649984927433EtIdo_PNG/upload_66254530213165909497d0768-07e5-433b-8e0d-4abb0046c0e1.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
