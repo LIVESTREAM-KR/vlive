@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 05:44:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 06:51:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[조한국이 왔습니다🤔]]></title>
-            <link>https://m.vlive.tv/video/281452</link>
-            <guid>https://m.vlive.tv/video/281452</guid>
-            <pubDate>Fri, 15 Apr 2022 05:43:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:50</span>
-										<span class="txt">TRENDZ (트렌드지)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220415_50/1650001250376eWCvK_JPEG/upload_662707552221093839ece58af-caec-47c2-9686-08b618a1b5cb.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Super K-Pop] Topic Song with BÉBE YANA , Jogon of 9001]]></title>
             <link>https://m.vlive.tv/video/280897</link>
@@ -76,6 +66,26 @@
 										오전 4:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220414_281/1649901004802I2bhR_JPEG/upload_939806995008502171febcb7d-ede2-424f-9bef-aab8aecbbc97.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / EPEX 이펙스)]]></title>
+            <link>https://m.vlive.tv/video/281210</link>
+            <guid>https://m.vlive.tv/video/281210</guid>
+            <pubDate>Fri, 15 Apr 2022 06:50:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220412_137/16497498003487QoQB_JPEG/upload_938295023118813098e836d7b-71a4-4432-bc33-173868847de9.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
+            <link>https://m.vlive.tv/video/281335</link>
+            <guid>https://m.vlive.tv/video/281335</guid>
+            <pubDate>Fri, 15 Apr 2022 06:50:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220414_126/1649900860767uDOu0_JPEG/upload_93980572827335654130fd931-5822-422e-8ca3-718a58d38f8d.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
