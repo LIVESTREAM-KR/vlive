@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Apr 2022 11:40:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 13:02:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,16 @@
             <enclosure url="https://v-phinf.pstatic.net/20220414_281/1649901004802I2bhR_JPEG/upload_939806995008502171febcb7d-ede2-424f-9bef-aab8aecbbc97.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Arirang Radio (Sound K / JUST B 저스트비)]]></title>
+            <link>https://m.vlive.tv/video/281563</link>
+            <guid>https://m.vlive.tv/video/281563</guid>
+            <pubDate>Sat, 16 Apr 2022 13:02:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220416_28/1650112432354qkqkO_JPEG/upload_66382002218161180c0cb5d68-dce2-4e3c-9c73-898b86545682.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Arirang Radio (Super K-Pop / EPEX 이펙스)]]></title>
             <link>https://m.vlive.tv/video/281210</link>
             <guid>https://m.vlive.tv/video/281210</guid>
@@ -58,6 +68,16 @@
             <enclosure url="https://v-phinf.pstatic.net/20220415_49/1650008365218BavCV_PNG/upload_66277896115585959eac8fa66-50df-4cef-8ea0-df6c1e1cbc4a.png?type=f274_154" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Arirang Radio (Radio'n Us / Kim Mijeong 김미정)]]></title>
+            <link>https://m.vlive.tv/video/281561</link>
+            <guid>https://m.vlive.tv/video/281561</guid>
+            <pubDate>Sat, 16 Apr 2022 13:02:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220416_157/16501123065922hSzY_JPEG/upload_663818581056305005cbfa67c-862a-4160-b3c8-4e0156d1afbc.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
             <link>https://m.vlive.tv/video/281335</link>
             <guid>https://m.vlive.tv/video/281335</guid>
@@ -76,26 +96,6 @@
 										오전 4:00</span>
 										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220415_236/165000077744134Ldf_PNG/upload_940804738872582785ed7dd29-fdd7-42d2-8654-4d3db86a8329.png?type=f274_154" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Sound K] Mystery Mix with BOiTELLO 보이텔로]]></title>
-            <link>https://m.vlive.tv/video/281340</link>
-            <guid>https://m.vlive.tv/video/281340</guid>
-            <pubDate>Fri, 15 Apr 2022 11:40:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220414_94/16499010568041ALXo_JPEG/upload_939807595008019173b64d7bf-6982-4ae8-8eb8-6043776338ae.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Super K-Pop]Oh My K-Pop with NIve]]></title>
-            <link>https://m.vlive.tv/video/281343</link>
-            <guid>https://m.vlive.tv/video/281343</guid>
-            <pubDate>Fri, 15 Apr 2022 13:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220414_300/1649901198288NnGlr_JPEG/upload_939808809695038436ae6b565-f7f7-4087-8a5a-0db280778a7e.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
