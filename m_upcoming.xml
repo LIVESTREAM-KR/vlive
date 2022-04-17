@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 10:44:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 11:44:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[HAPPY HYUK DAY🎉]]></title>
-            <link>https://m.vlive.tv/video/281488</link>
-            <guid>https://m.vlive.tv/video/281488</guid>
-            <pubDate>Fri, 15 Apr 2022 09:44:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">TEMPEST (템페스트)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220415_209/1650014784769tRkCh_JPEG/upload_6628408836072755506b8e631-3204-43ca-8fc9-0376534075ec.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
             <link>https://m.vlive.tv/video/281334</link>
@@ -106,6 +96,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220414_94/16499010568041ALXo_JPEG/upload_939807595008019173b64d7bf-6982-4ae8-8eb8-6043776338ae.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop]Oh My K-Pop with NIve]]></title>
+            <link>https://m.vlive.tv/video/281343</link>
+            <guid>https://m.vlive.tv/video/281343</guid>
+            <pubDate>Sun, 17 Apr 2022 11:43:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220414_300/1649901198288NnGlr_JPEG/upload_939808809695038436ae6b565-f7f7-4087-8a5a-0db280778a7e.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
