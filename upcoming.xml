@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 13:02:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 13:44:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,20 +88,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220417_225/1650184241406Je5gk_JPEG/upload_66453794796558534ee7c67c0-0ea0-4023-9467-3a26a611e2af.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[P1ece와 하루 마무리🎀]]></title>
-            <link>https://www.vlive.tv/video/281588</link>
-            <guid>https://www.vlive.tv/video/281588</guid>
-            <pubDate>Sun, 17 Apr 2022 09:42:57 GMT</pubDate>
-            <content:encoded><![CDATA[오전 9:31]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220417_71/1650187884283hJHpp_JPEG/e2a6e9cc-be30-11ec-b52c-505dac8c37f3_03.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[예찬이와 라엘이의 심리 안정 클래스😎]]></title>
             <link>https://www.vlive.tv/video/281584</link>
             <guid>https://www.vlive.tv/video/281584</guid>
             <pubDate>Sun, 17 Apr 2022 08:46:32 GMT</pubDate>
             <content:encoded><![CDATA[오전 9:31]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220417_99/16501821211086vBUf_JPEG/upload_94261539433968026b106f81d-edb6-474b-822a-885eedc54807.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[P1ece와 하루 마무리🎀]]></title>
+            <link>https://www.vlive.tv/video/281588</link>
+            <guid>https://www.vlive.tv/video/281588</guid>
+            <pubDate>Sun, 17 Apr 2022 09:42:57 GMT</pubDate>
+            <content:encoded><![CDATA[오전 9:31]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220417_71/1650187884283hJHpp_JPEG/e2a6e9cc-be30-11ec-b52c-505dac8c37f3_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[🌸산뜻한 일요일✌️🎵]]></title>
@@ -176,12 +176,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20220414_232/1649927961230HenAQ_JPEG/upload_9400761667951451863e15fab-c114-436f-9d10-a2c8984bb92f.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[안농]]></title>
+            <link>https://www.vlive.tv/video/281594</link>
+            <guid>https://www.vlive.tv/video/281594</guid>
+            <pubDate>Sun, 17 Apr 2022 13:43:34 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:10]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/281594/thumb?type=f228_128" length="0" type="image//live/281594/thumb"/>
+        </item>
+        <item>
             <title><![CDATA[다음 이 시간에💙💜]]></title>
             <link>https://www.vlive.tv/video/281592</link>
             <guid>https://www.vlive.tv/video/281592</guid>
             <pubDate>Sun, 17 Apr 2022 13:01:58 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:00]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/281592/thumb?type=f228_128" length="0" type="image//live/281592/thumb"/>
+            <content:encoded><![CDATA[오후 1:15]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220417_91/1650201307240HxgBE_JPEG/2e4249ad-be50-11ec-91f7-d4f5ef58ad5e_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찬이의 "방" 🐺 Ep. 153]]></title>
+            <link>https://www.vlive.tv/video/281595</link>
+            <guid>https://www.vlive.tv/video/281595</guid>
+            <pubDate>Sun, 17 Apr 2022 13:43:34 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:29]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/281595/thumb?type=f228_128" length="0" type="image//live/281595/thumb"/>
         </item>
     </channel>
 </rss>
