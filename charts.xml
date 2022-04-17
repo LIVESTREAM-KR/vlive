@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 06:50:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 07:41:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,20 +48,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220404_162/16490512229316Gnur_JPEG/upload_931308840772431337eabaef7-182c-4137-884b-d277034e4b9f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[BIGBANG - ‘봄여름가을겨울 (Still Life)’ M/V REACTION]]></title>
-            <link>https://www.vlive.tv/video/281501</link>
-            <guid>https://www.vlive.tv/video/281501</guid>
-            <pubDate>Sat, 16 Apr 2022 22:42:32 GMT</pubDate>
-            <content:encoded><![CDATA[BIGBANG]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220416_36/1650114115412Iytw8_JPEG/upload_662921432919618596c8c97e3-32c1-4f8d-b862-57943cdfdf8d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[LIVE]]]></title>
             <link>https://www.vlive.tv/video/281577</link>
             <guid>https://www.vlive.tv/video/281577</guid>
             <pubDate>Sun, 17 Apr 2022 06:49:21 GMT</pubDate>
             <content:encoded><![CDATA[원호 (WONHO)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220417_294/1650174963447M263e_JPEG/b71a1002-be12-11ec-8a91-505dac8c38f5_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BIGBANG - ‘봄여름가을겨울 (Still Life)’ M/V REACTION]]></title>
+            <link>https://www.vlive.tv/video/281501</link>
+            <guid>https://www.vlive.tv/video/281501</guid>
+            <pubDate>Sat, 16 Apr 2022 22:42:32 GMT</pubDate>
+            <content:encoded><![CDATA[BIGBANG]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220416_36/1650114115412Iytw8_JPEG/upload_662921432919618596c8c97e3-32c1-4f8d-b862-57943cdfdf8d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
