@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 15:46:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 16:57:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,22 +192,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220417_224/1650199957651fmajw_PNG/1629883316364132454551ae87-9856-4eb3-b012-2cc66d4c4e37.png?type=f228_128" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[간만에 굿나잇 fm]]></title>
-            <link>https://www.vlive.tv/video/281597</link>
-            <guid>https://www.vlive.tv/video/281597</guid>
-            <pubDate>Sun, 17 Apr 2022 14:41:21 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:30]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220417_281/1650205841789Gy9M7_JPEG/1630814407834129635bd4ffe0-4c4d-4d61-8164-25fec8daba9d.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해피일요일💕💕💕]]></title>
-            <link>https://www.vlive.tv/video/281598</link>
-            <guid>https://www.vlive.tv/video/281598</guid>
-            <pubDate>Sun, 17 Apr 2022 14:41:21 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:33]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220417_184/16502059878395NCAi_JPEG/8936247068334230283a955cd-a2aa-4031-a186-d191b3d71628.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[안농]]></title>
             <link>https://www.vlive.tv/video/281596</link>
             <guid>https://www.vlive.tv/video/281596</guid>
@@ -248,20 +232,36 @@
             <enclosure url="https://v-phinf.pstatic.net/20220418_190/16502076093603QGLz_JPEG/upload_942872237545959239d485088-866d-4bd5-9570-5d7aa4dd78f4.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[새벽 라이브🌙]]></title>
-            <link>https://www.vlive.tv/video/281601</link>
-            <guid>https://www.vlive.tv/video/281601</guid>
-            <pubDate>Sun, 17 Apr 2022 15:45:45 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:24]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/281601/thumb?type=f228_128" length="0" type="image//live/281601/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[진밤라]]></title>
             <link>https://www.vlive.tv/video/281599</link>
             <guid>https://www.vlive.tv/video/281599</guid>
             <pubDate>Sun, 17 Apr 2022 14:41:21 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:36]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220418_90/1650209780448J9fO4_JPEG/bcf6e765-be63-11ec-861a-505dac8c385b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[간만에 굿나잇 fm]]></title>
+            <link>https://www.vlive.tv/video/281597</link>
+            <guid>https://www.vlive.tv/video/281597</guid>
+            <pubDate>Sun, 17 Apr 2022 14:41:21 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:03]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220417_281/1650205841789Gy9M7_JPEG/1630814407834129635bd4ffe0-4c4d-4d61-8164-25fec8daba9d.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[해피일요일💕💕💕]]></title>
+            <link>https://www.vlive.tv/video/281598</link>
+            <guid>https://www.vlive.tv/video/281598</guid>
+            <pubDate>Sun, 17 Apr 2022 14:41:21 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:05]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220417_184/16502059878395NCAi_JPEG/8936247068334230283a955cd-a2aa-4031-a186-d191b3d71628.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새벽 라이브🌙]]></title>
+            <link>https://www.vlive.tv/video/281601</link>
+            <guid>https://www.vlive.tv/video/281601</guid>
+            <pubDate>Sun, 17 Apr 2022 15:45:45 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:12]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220418_112/1650211927008qsTCI_JPEG/e97cd083-be68-11ec-8a91-505dac8c38f5_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
