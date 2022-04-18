@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 06:52:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 07:42:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Super K-Pop / EPEX 이펙스)]]></title>
-            <link>https://m.vlive.tv/video/281210</link>
-            <guid>https://m.vlive.tv/video/281210</guid>
-            <pubDate>Fri, 15 Apr 2022 06:50:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220412_137/16497498003487QoQB_JPEG/upload_938295023118813098e836d7b-71a4-4432-bc33-173868847de9.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[LIVE] SIMPLY K-POP CON-TOUR (📍Chile)]]></title>
             <link>https://m.vlive.tv/video/281469</link>
@@ -106,6 +96,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220414_260/1649901098154C3aWC_JPEG/upload_66170672860239453270f1737-9a9f-4228-a963-1a32e3bf40f4.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / BUMKEY 범키)]]></title>
+            <link>https://m.vlive.tv/video/281564</link>
+            <guid>https://m.vlive.tv/video/281564</guid>
+            <pubDate>Mon, 18 Apr 2022 07:42:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220416_222/1650112509374yWYA0_JPEG/upload_663821092022766029d8e3bf6-dd15-4be5-b6b8-7cd69656a211.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

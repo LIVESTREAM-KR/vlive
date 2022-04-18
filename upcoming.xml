@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 06:52:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 07:42:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220418_176/1650250564220hXfJV_JPEG/upload_94330271514370536c6946bbf-41e3-4f4c-a8cd-e93405794a6d.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Arirang Radio (Sound K / JUST B 저스트비)]]></title>
-            <link>https://www.vlive.tv/video/281563</link>
-            <guid>https://www.vlive.tv/video/281563</guid>
-            <pubDate>Mon, 18 Apr 2022 02:36:04 GMT</pubDate>
-            <content:encoded><![CDATA[오전 4:55]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220416_28/1650112432354qkqkO_JPEG/upload_66382002218161180c0cb5d68-dce2-4e3c-9c73-898b86545682.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[으라차차 내 인생 6회 예고 (KBS20220418방송)]]></title>
             <link>https://www.vlive.tv/video/281615</link>
             <guid>https://www.vlive.tv/video/281615</guid>
@@ -128,14 +120,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220418_259/1650260523046OeG0v_JPEG/a54d7482-bed9-11ec-9021-48df37ae3fca_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[주찬이의 노래방]]></title>
-            <link>https://www.vlive.tv/video/281618</link>
-            <guid>https://www.vlive.tv/video/281618</guid>
-            <pubDate>Mon, 18 Apr 2022 06:52:24 GMT</pubDate>
-            <content:encoded><![CDATA[오전 5:56]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/281618/thumb?type=f228_128" length="0" type="image//live/281618/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[[LIVE] 월요일 화이팅]]></title>
             <link>https://www.vlive.tv/video/281617</link>
             <guid>https://www.vlive.tv/video/281617</guid>
@@ -144,20 +128,36 @@
             <enclosure url="https://v-phinf.pstatic.net/20220418_165/1650263422474k0t3B_JPEG/7e2505bb-bee0-11ec-861a-505dac8c385b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[OPERA HOUSE 🇦🇺]]></title>
-            <link>https://www.vlive.tv/video/281619</link>
-            <guid>https://www.vlive.tv/video/281619</guid>
-            <pubDate>Mon, 18 Apr 2022 06:52:24 GMT</pubDate>
-            <content:encoded><![CDATA[오전 6:37]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/281619/thumb?type=f228_128" length="0" type="image//live/281619/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[Arirang Radio (Super K-Pop / EPEX 이펙스)]]></title>
             <link>https://www.vlive.tv/video/281210</link>
             <guid>https://www.vlive.tv/video/281210</guid>
             <pubDate>Mon, 18 Apr 2022 02:36:04 GMT</pubDate>
-            <content:encoded><![CDATA[오전 7:00]]></content:encoded>
+            <content:encoded><![CDATA[오전 6:57]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220412_137/16497498003487QoQB_JPEG/upload_938295023118813098e836d7b-71a4-4432-bc33-173868847de9.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / JUST B 저스트비)]]></title>
+            <link>https://www.vlive.tv/video/281563</link>
+            <guid>https://www.vlive.tv/video/281563</guid>
+            <pubDate>Mon, 18 Apr 2022 02:36:04 GMT</pubDate>
+            <content:encoded><![CDATA[오전 7:05]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220416_28/1650112432354qkqkO_JPEG/upload_66382002218161180c0cb5d68-dce2-4e3c-9c73-898b86545682.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OPERA HOUSE 🇦🇺]]></title>
+            <link>https://www.vlive.tv/video/281619</link>
+            <guid>https://www.vlive.tv/video/281619</guid>
+            <pubDate>Mon, 18 Apr 2022 06:52:24 GMT</pubDate>
+            <content:encoded><![CDATA[오전 7:11]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220418_233/1650265873307BBMkn_JPEG/20b8a58c-bee6-11ec-b086-505dac8c3721_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주찬이의 노래방]]></title>
+            <link>https://www.vlive.tv/video/281618</link>
+            <guid>https://www.vlive.tv/video/281618</guid>
+            <pubDate>Mon, 18 Apr 2022 06:52:24 GMT</pubDate>
+            <content:encoded><![CDATA[오전 7:12]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220418_178/165026594094319rwe_JPEG/3d93bb70-bee6-11ec-a0e5-505dac8c3607_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[LIVE] SIMPLY K-POP CON-TOUR (📍Chile)]]></title>
