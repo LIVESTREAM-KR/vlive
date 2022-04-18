@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 17:02:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 17:45:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잠 못드는 밤에 (멍...)]]></title>
+            <link>https://www.vlive.tv/video/281659</link>
+            <guid>https://www.vlive.tv/video/281659</guid>
+            <pubDate>Mon, 18 Apr 2022 17:44:31 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220419_111/1650302492200NKAYK_JPEG/1336139680060456650d804000-b4d8-4bd1-b9ba-9e55a0294662.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대원 생일👏💕]]></title>
             <link>https://www.vlive.tv/video/281657</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 18 Apr 2022 13:47:37 GMT</pubDate>
             <content:encoded><![CDATA[걸카인드(GIRLKIND)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220418_100/1650283681045uOupN_JPEG/163072072481152427da569634-b283-45ef-83f7-13a0ef99d3a0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arirang Radio (Radio'n Us / Kim Mijeong 김미정)]]></title>
-            <link>https://www.vlive.tv/video/281561</link>
-            <guid>https://www.vlive.tv/video/281561</guid>
-            <pubDate>Mon, 18 Apr 2022 11:40:32 GMT</pubDate>
-            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220416_157/16501123065922hSzY_JPEG/upload_663818581056305005cbfa67c-862a-4160-b3c8-4e0156d1afbc.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
