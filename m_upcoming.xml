@@ -4,9 +4,19 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 10:45:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 11:41:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[권정열 고영배의 십란한 밤 #240]]></title>
+            <link>https://m.vlive.tv/video/281712</link>
+            <guid>https://m.vlive.tv/video/281712</guid>
+            <pubDate>Tue, 19 Apr 2022 11:41:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 12:00</span>
+										<span class="txt">권정열 고영배의 십란한 밤</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220419_239/1650367739718k226r_PNG/upload_66637306412303686f77544e0-df52-4423-a02a-e5f974b1347b.png?type=f274_154" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthew]]></title>
             <link>https://m.vlive.tv/video/281336</link>
@@ -96,16 +106,6 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220414_164/1649901139047gki19_JPEG/upload_93980849830996403132d01eb-e2f4-4e26-9fca-56580a198e05.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Super K-Pop] Topic Song with BÉBE YANA , Jogon of 9001]]></title>
-            <link>https://m.vlive.tv/video/281345</link>
-            <guid>https://m.vlive.tv/video/281345</guid>
-            <pubDate>Tue, 19 Apr 2022 10:44:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220414_67/1649901281022cyYPy_JPEG/upload_939809891894074171c4d7475-69fc-4ea4-bf85-cba3084671a9.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

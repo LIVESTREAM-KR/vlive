@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 10:45:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 11:41:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,6 +40,14 @@
             <enclosure url="https://v-phinf.pstatic.net/20220418_85/1650287522372Yu4eO_JPEG/98db6d17-bf18-11ec-a2ba-48df379cc9e4_08.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[완전체]]></title>
+            <link>https://www.vlive.tv/video/281706</link>
+            <guid>https://www.vlive.tv/video/281706</guid>
+            <pubDate>Tue, 19 Apr 2022 11:40:48 GMT</pubDate>
+            <content:encoded><![CDATA[DKZ]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220419_243/1650364783319FtkJb_JPEG/db38a9a4-bfcc-11ec-b52c-505dac8c37f3_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[2 Kids Room(투키즈룸)] Ep.13 현진 X 승민]]></title>
             <link>https://www.vlive.tv/video/281634</link>
             <guid>https://www.vlive.tv/video/281634</guid>
@@ -54,14 +62,6 @@
             <pubDate>Mon, 18 Apr 2022 23:39:30 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220409_171/1649491918943gdKoQ_JPEG/upload_93571633065899919ee084693-16ae-4bdb-99cc-b0e7013e3a42.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나왔다]]></title>
-            <link>https://www.vlive.tv/video/281643</link>
-            <guid>https://www.vlive.tv/video/281643</guid>
-            <pubDate>Tue, 19 Apr 2022 09:44:19 GMT</pubDate>
-            <content:encoded><![CDATA[fromis_9]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220418_293/1650287806741zHc0o_PNG/upload_66557409072839338b879083d-c060-4382-8108-0a527e941875.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
