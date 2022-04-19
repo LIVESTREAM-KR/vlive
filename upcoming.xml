@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 13:55:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 14:45:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -384,14 +384,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220419_218/1650373478732qrot5_JPEG/24ecc956-bfe0-11ec-91f7-d4f5ef58ad5e_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[안녕~💛]]></title>
-            <link>https://www.vlive.tv/video/281719</link>
-            <guid>https://www.vlive.tv/video/281719</guid>
-            <pubDate>Tue, 19 Apr 2022 13:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:08]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/281719/thumb?type=f228_128" length="0" type="image//live/281719/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[💙김동동동동동동]]></title>
             <link>https://www.vlive.tv/video/281718</link>
             <guid>https://www.vlive.tv/video/281718</guid>
@@ -430,6 +422,30 @@
             <pubDate>Tue, 19 Apr 2022 13:54:55 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:48]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220419_10/1650374497765ARNie_JPEG/163162876880146005dc6c9509-e756-4442-bd8d-e582fadb30ca.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[권토깽 왔어욤🐰]]></title>
+            <link>https://www.vlive.tv/video/281723</link>
+            <guid>https://www.vlive.tv/video/281723</guid>
+            <pubDate>Tue, 19 Apr 2022 14:44:18 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:16]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220419_55/1650377798384kTGlv_JPEG/163166168367622971deb9a2ee-4887-44d7-89b4-894430eb2b79.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안녕~💛]]></title>
+            <link>https://www.vlive.tv/video/281719</link>
+            <guid>https://www.vlive.tv/video/281719</guid>
+            <pubDate>Tue, 19 Apr 2022 13:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:19]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220419_161/1650377966134BzYGb_JPEG/7cd6b178-bfea-11ec-912c-48df379cca40_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[달밤의 어쿠스틱🌙❤️ #10]]></title>
+            <link>https://www.vlive.tv/video/281724</link>
+            <guid>https://www.vlive.tv/video/281724</guid>
+            <pubDate>Tue, 19 Apr 2022 14:44:18 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:31]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/281724/thumb?type=f228_128" length="0" type="image//live/281724/thumb"/>
         </item>
     </channel>
 </rss>
