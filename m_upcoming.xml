@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 23:40:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 02:38:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
-            <link>https://m.vlive.tv/video/281335</link>
-            <guid>https://m.vlive.tv/video/281335</guid>
-            <pubDate>Fri, 15 Apr 2022 10:44:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220414_126/1649900860767uDOu0_JPEG/upload_93980572827335654130fd931-5822-422e-8ca3-718a58d38f8d.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[ASC Live Ep.519 (DKZ / 디케이지)]]></title>
             <link>https://m.vlive.tv/video/281450</link>
@@ -106,6 +96,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220414_216/1649900930448kaxmj_JPEG/upload_66170517797949530dbaadd53-c81d-475a-85aa-5914a8d5c548.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop] Stray Quiz]]></title>
+            <link>https://m.vlive.tv/video/281344</link>
+            <guid>https://m.vlive.tv/video/281344</guid>
+            <pubDate>Tue, 19 Apr 2022 02:38:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220414_208/1649901239096vH5Mb_JPEG/upload_93980929724622572e257801e-d7bd-4db8-b27b-4d8c1cf7bfb5.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
