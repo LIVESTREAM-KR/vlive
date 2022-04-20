@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 13:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 13:54:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -488,14 +488,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220420_219/1650459239523zMquk_JPEG/99f14f94-c0a8-11ec-b5d5-d4f5ef590144_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[은조의 조은밤🌝🎧#57]]></title>
-            <link>https://www.vlive.tv/video/281798</link>
-            <guid>https://www.vlive.tv/video/281798</guid>
-            <pubDate>Wed, 20 Apr 2022 13:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:00]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/281798/thumb?type=f228_128" length="0" type="image//live/281798/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[수련]]></title>
             <link>https://www.vlive.tv/video/281793</link>
             <guid>https://www.vlive.tv/video/281793</guid>
@@ -504,12 +496,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20220420_217/1650459645336lNwnj_JPEG/2c00f94c-c0a9-11ec-9b1f-505dacfbaa5c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[헉스 여러분 들어와바바여]]></title>
-            <link>https://www.vlive.tv/video/281799</link>
-            <guid>https://www.vlive.tv/video/281799</guid>
+            <title><![CDATA[은조의 조은밤🌝🎧#57]]></title>
+            <link>https://www.vlive.tv/video/281798</link>
+            <guid>https://www.vlive.tv/video/281798</guid>
             <pubDate>Wed, 20 Apr 2022 13:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:01]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220420_16/1650459671681HGTcY_JPEG/896161544971381459670f5a0-e621-4c5e-aade-db8dfc529c74.jpg?type=f228_128" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[오후 1:00]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/281798/thumb?type=f228_128" length="0" type="image//live/281798/thumb"/>
         </item>
         <item>
             <title><![CDATA[Arirang Radio (Radio'n Us / JiHwan 지환)]]></title>
@@ -526,6 +518,22 @@
             <pubDate>Wed, 20 Apr 2022 13:16:24 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:13]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220420_80/1650460406354RoxcM_JPEG/89261e33-c0ab-11ec-861a-505dac8c385b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헉스 여러분 들어와바바여]]></title>
+            <link>https://www.vlive.tv/video/281799</link>
+            <guid>https://www.vlive.tv/video/281799</guid>
+            <pubDate>Wed, 20 Apr 2022 13:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:34]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220420_16/1650459671681HGTcY_JPEG/896161544971381459670f5a0-e621-4c5e-aade-db8dfc529c74.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쫑탄일]]></title>
+            <link>https://www.vlive.tv/video/281800</link>
+            <guid>https://www.vlive.tv/video/281800</guid>
+            <pubDate>Wed, 20 Apr 2022 13:53:51 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:49]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/281800/thumb?type=f228_128" length="0" type="image//live/281800/thumb"/>
         </item>
     </channel>
 </rss>

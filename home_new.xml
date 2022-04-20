@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 13:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 13:54:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쫑탄일]]></title>
+            <link>https://www.vlive.tv/video/281800</link>
+            <guid>https://www.vlive.tv/video/281800</guid>
+            <pubDate>Wed, 20 Apr 2022 13:53:06 GMT</pubDate>
+            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/281800/thumb?type=f228_128" length="0" type="image//live/281800/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[헉스 여러분 들어와바바여]]></title>
+            <link>https://www.vlive.tv/video/281799</link>
+            <guid>https://www.vlive.tv/video/281799</guid>
+            <pubDate>Wed, 20 Apr 2022 13:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[신현희  SEEN HYUN HEE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220420_16/1650459671681HGTcY_JPEG/896161544971381459670f5a0-e621-4c5e-aade-db8dfc529c74.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[?]]></title>
             <link>https://www.vlive.tv/video/281797</link>
@@ -24,12 +40,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20220416_96/1650112362043p5yGb_JPEG/upload_663819310875849676718ec82-8c10-4949-a002-b4f96d0ab087.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[헉스 여러분 들어와바바여]]></title>
-            <link>https://www.vlive.tv/video/281799</link>
-            <guid>https://www.vlive.tv/video/281799</guid>
+            <title><![CDATA[은조의 조은밤🌝🎧#57]]></title>
+            <link>https://www.vlive.tv/video/281798</link>
+            <guid>https://www.vlive.tv/video/281798</guid>
             <pubDate>Wed, 20 Apr 2022 13:15:29 GMT</pubDate>
-            <content:encoded><![CDATA[신현희  SEEN HYUN HEE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220420_16/1650459671681HGTcY_JPEG/896161544971381459670f5a0-e621-4c5e-aade-db8dfc529c74.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[드림노트 (DreamNote)]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/281798/thumb?type=f228_128" length="0" type="image//live/281798/thumb"/>
         </item>
         <item>
             <title><![CDATA[수련]]></title>
@@ -38,14 +54,6 @@
             <pubDate>Wed, 20 Apr 2022 11:39:57 GMT</pubDate>
             <content:encoded><![CDATA[HA HYUN SANG]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220420_217/1650459645336lNwnj_JPEG/2c00f94c-c0a9-11ec-9b1f-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[은조의 조은밤🌝🎧#57]]></title>
-            <link>https://www.vlive.tv/video/281798</link>
-            <guid>https://www.vlive.tv/video/281798</guid>
-            <pubDate>Wed, 20 Apr 2022 13:15:29 GMT</pubDate>
-            <content:encoded><![CDATA[드림노트 (DreamNote)]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/281798/thumb?type=f228_128" length="0" type="image//live/281798/thumb"/>
         </item>
         <item>
             <title><![CDATA[수다 떨 사람 💛]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 20 Apr 2022 10:44:49 GMT</pubDate>
             <content:encoded><![CDATA[LIZ ENT]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220420_30/1650453634613O8q7S_JPEG/0fbc8698-c09b-11ec-b5d5-d4f5ef590144_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[굿이브닝👋🏻😵🇦🇺]]></title>
-            <link>https://www.vlive.tv/video/281787</link>
-            <guid>https://www.vlive.tv/video/281787</guid>
-            <pubDate>Wed, 20 Apr 2022 10:44:49 GMT</pubDate>
-            <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220420_273/1650453240827baKUw_JPEG/9060763d-c09a-11ec-8726-d4f5ef58ac88_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

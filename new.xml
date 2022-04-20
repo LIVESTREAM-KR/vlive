@@ -4,9 +4,24 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 13:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 13:54:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쫑탄일]]></title>
+            <link>https://www.vlive.tv/video/281800</link>
+            <guid>https://www.vlive.tv/video/281800</guid>
+            <pubDate>Wed, 20 Apr 2022 13:52:57 GMT</pubDate>
+            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[헉스 여러분 들어와바바여]]></title>
+            <link>https://www.vlive.tv/video/281799</link>
+            <guid>https://www.vlive.tv/video/281799</guid>
+            <pubDate>Wed, 20 Apr 2022 13:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[신현희  SEEN HYUN HEE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220420_16/1650459671681HGTcY_JPEG/896161544971381459670f5a0-e621-4c5e-aade-db8dfc529c74.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[?]]></title>
             <link>https://www.vlive.tv/video/281797</link>
@@ -24,12 +39,11 @@
             <enclosure url="https://v-phinf.pstatic.net/20220416_96/1650112362043p5yGb_JPEG/upload_663819310875849676718ec82-8c10-4949-a002-b4f96d0ab087.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[헉스 여러분 들어와바바여]]></title>
-            <link>https://www.vlive.tv/video/281799</link>
-            <guid>https://www.vlive.tv/video/281799</guid>
+            <title><![CDATA[은조의 조은밤🌝🎧#57]]></title>
+            <link>https://www.vlive.tv/video/281798</link>
+            <guid>https://www.vlive.tv/video/281798</guid>
             <pubDate>Wed, 20 Apr 2022 13:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[신현희  SEEN HYUN HEE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220420_16/1650459671681HGTcY_JPEG/896161544971381459670f5a0-e621-4c5e-aade-db8dfc529c74.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[드림노트 (DreamNote)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[수련]]></title>
@@ -38,13 +52,6 @@
             <pubDate>Wed, 20 Apr 2022 11:39:49 GMT</pubDate>
             <content:encoded><![CDATA[HA HYUN SANG]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220420_217/1650459645336lNwnj_JPEG/2c00f94c-c0a9-11ec-9b1f-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[은조의 조은밤🌝🎧#57]]></title>
-            <link>https://www.vlive.tv/video/281798</link>
-            <guid>https://www.vlive.tv/video/281798</guid>
-            <pubDate>Wed, 20 Apr 2022 13:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[드림노트 (DreamNote)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[수다 떨 사람 💛]]></title>
@@ -396,14 +403,6 @@
             <pubDate>Wed, 20 Apr 2022 05:54:55 GMT</pubDate>
             <content:encoded><![CDATA[MBC 예능]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220420_161/1650432643084FJzzJ_JPEG/upload_945123602136634487f0089f6-ca29-4230-9064-e0f6cd412719.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해피 말랑즈 데이 ❤️]]></title>
-            <link>https://www.vlive.tv/video/281746</link>
-            <guid>https://www.vlive.tv/video/281746</guid>
-            <pubDate>Wed, 20 Apr 2022 04:28:57 GMT</pubDate>
-            <content:encoded><![CDATA[LIGHTSUM]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220420_121/1650427589092Qbp5Q_JPEG/16330310608629427449fc064f-dc2c-43a3-bae2-d170b6e19ae7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
