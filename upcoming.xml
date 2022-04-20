@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 15:50:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 17:06:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -488,14 +488,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220420_217/1650459645336lNwnj_JPEG/2c00f94c-c0a9-11ec-9b1f-505dacfbaa5c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[은조의 조은밤🌝🎧#57]]></title>
-            <link>https://www.vlive.tv/video/281798</link>
-            <guid>https://www.vlive.tv/video/281798</guid>
-            <pubDate>Wed, 20 Apr 2022 13:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:00]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/281798/thumb?type=f228_128" length="0" type="image//live/281798/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[Arirang Radio (Radio'n Us / JiHwan 지환)]]></title>
             <link>https://www.vlive.tv/video/281562</link>
             <guid>https://www.vlive.tv/video/281562</guid>
@@ -534,14 +526,6 @@
             <pubDate>Wed, 20 Apr 2022 13:16:24 GMT</pubDate>
             <content:encoded><![CDATA[오후 2:14]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220420_212/1650464048922N7soc_JPEG/39cc93ea-c0b3-11ec-b5d5-d4f5ef590144_03.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Radio Hama] 잠 안오는 사람 오세요~]]></title>
-            <link>https://www.vlive.tv/video/281807</link>
-            <guid>https://www.vlive.tv/video/281807</guid>
-            <pubDate>Wed, 20 Apr 2022 14:41:28 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:23]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220420_273/1650464588731owPr8_JPEG/16334020271146011663867343-9ea7-4e27-8616-8b74b38b36fd.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쫑탄일]]></title>
@@ -598,6 +582,30 @@
             <pubDate>Wed, 20 Apr 2022 14:41:28 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:30]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220420_199/1650464057246GyKDI_JPEG/163252593232887472285a2ee4-bf2a-4d6a-8cb1-1042aff31fee.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[은조의 조은밤🌝🎧#57]]></title>
+            <link>https://www.vlive.tv/video/281798</link>
+            <guid>https://www.vlive.tv/video/281798</guid>
+            <pubDate>Wed, 20 Apr 2022 13:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:09]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220421_282/1650470993519QnTpx_JPEG/0d0655d3-c0c2-11ec-861a-505dac8c385b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Radio Hama] 잠 안오는 사람 오세요~]]></title>
+            <link>https://www.vlive.tv/video/281807</link>
+            <guid>https://www.vlive.tv/video/281807</guid>
+            <pubDate>Wed, 20 Apr 2022 14:41:28 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:10]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220420_273/1650464588731owPr8_JPEG/16334020271146011663867343-9ea7-4e27-8616-8b74b38b36fd.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#95 Dino!]]></title>
+            <link>https://www.vlive.tv/video/281809</link>
+            <guid>https://www.vlive.tv/video/281809</guid>
+            <pubDate>Wed, 20 Apr 2022 17:06:05 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:24]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220421_249/1650471876698vyH5A_JPEG/382837dd-c0c6-11ec-9b1f-505dacfbaa5c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
