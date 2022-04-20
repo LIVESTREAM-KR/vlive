@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 06:53:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 07:43:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Super K-Pop / BUMKEY 범키)]]></title>
-            <link>https://m.vlive.tv/video/281564</link>
-            <guid>https://m.vlive.tv/video/281564</guid>
-            <pubDate>Mon, 18 Apr 2022 07:42:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220416_222/1650112509374yWYA0_JPEG/upload_663821092022766029d8e3bf6-dd15-4be5-b6b8-7cd69656a211.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Radio'n Us / JiHwan 지환)]]></title>
             <link>https://m.vlive.tv/video/281562</link>
@@ -86,16 +76,6 @@
 										오전 10:00</span>
 										<span class="txt">VVLIVE</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220418_138/1650236387346YxQ7h_PNG/upload_66505850814109405051709ce-ff56-4e72-b8fc-b470ff942c18.png?type=f274_154" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[mini monster Birthdaysetting 2!!!!]]></title>
-            <link>https://m.vlive.tv/video/272157</link>
-            <guid>https://m.vlive.tv/video/272157</guid>
-            <pubDate>Wed, 20 Apr 2022 04:29:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 3:00</span>
-										<span class="txt">sema</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211218_94/1639796711375GzQ8F_JPEG/upload_83876405217509231884b5a01-39a9-4367-9b92-da56781d7305.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
