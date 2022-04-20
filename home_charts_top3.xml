@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ CHARTS TOP3</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 14:41:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 15:50:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쫑탄일]]></title>
+            <link>https://www.vlive.tv/video/281800</link>
+            <guid>https://www.vlive.tv/video/281800</guid>
+            <pubDate>Wed, 20 Apr 2022 15:49:30 GMT</pubDate>
+            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220420_5/1650465746286YDtxu_JPEG/8d334ba4-c0b7-11ec-98b3-48df379ccacc_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[DJ휴🐧]]></title>
             <link>https://www.vlive.tv/video/281785</link>
@@ -22,14 +30,6 @@
             <pubDate>Sat, 16 Apr 2022 06:48:47 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220416_48/1650094251506OOemk_JPEG/upload_94173980074495450a535b1ae-1b2a-4258-ade1-6816b2a33277.jpeg?type=f380_213_wp" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[뿌스테라🤗 (미안해요 오류가 갑자기ㅜ)]]></title>
-            <link>https://www.vlive.tv/video/281730</link>
-            <guid>https://www.vlive.tv/video/281730</guid>
-            <pubDate>Tue, 19 Apr 2022 17:47:01 GMT</pubDate>
-            <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220420_98/16503874054425mnfN_JPEG/62621d0a-c001-11ec-9b1f-505dacfbaa5c_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
