@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 05:56:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 06:53:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기습브이앱]]></title>
+            <link>https://www.vlive.tv/video/281759</link>
+            <guid>https://www.vlive.tv/video/281759</guid>
+            <pubDate>Wed, 20 Apr 2022 06:52:05 GMT</pubDate>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220420_90/1650434989459OOiPq_JPEG/4e8df941-c070-11ec-a87a-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[으라차차 내 인생 8회 예고 (KBS20220420방송)]]></title>
             <link>https://www.vlive.tv/video/281755</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 20 Apr 2022 02:51:03 GMT</pubDate>
             <content:encoded><![CDATA[mydaily]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220420_27/16504196347078dfEN_JPEG/upload_944993421138233430b45f50c-81c0-44a3-8865-4687a7f69aee.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[선공개] "엘리자베스 여왕은 가짜입니다" 바꿔치기 된 엘리자베스 1세가 남자?! , MBC 220420 방송]]></title>
-            <link>https://www.vlive.tv/video/281739</link>
-            <guid>https://www.vlive.tv/video/281739</guid>
-            <pubDate>Wed, 20 Apr 2022 02:51:03 GMT</pubDate>
-            <content:encoded><![CDATA[MBC 예능]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220420_185/1650419333522p3sID_JPEG/upload_9449905203368706616884228-deb8-4b15-a298-1053e104b5f5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

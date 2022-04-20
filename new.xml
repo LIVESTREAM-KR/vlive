@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 05:56:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 06:53:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기습브이앱]]></title>
+            <link>https://www.vlive.tv/video/281759</link>
+            <guid>https://www.vlive.tv/video/281759</guid>
+            <pubDate>Wed, 20 Apr 2022 06:51:57 GMT</pubDate>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220420_90/1650434989459OOiPq_JPEG/4e8df941-c070-11ec-a87a-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[으라차차 내 인생 8회 예고 (KBS20220420방송)]]></title>
             <link>https://www.vlive.tv/video/281755</link>
@@ -398,14 +406,6 @@
             <pubDate>Tue, 19 Apr 2022 11:40:17 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220419_72/1650346320537HAbSA_JPEG/upload_94425869808479740b39c53d5-aecb-4be6-a8ec-cdace76f67f5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cover by EPEX 아민 l Lauv - I Like Me Better]]></title>
-            <link>https://www.vlive.tv/video/281674</link>
-            <guid>https://www.vlive.tv/video/281674</guid>
-            <pubDate>Tue, 19 Apr 2022 11:40:17 GMT</pubDate>
-            <content:encoded><![CDATA[EPEX]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220419_4/16503437569020OVJn_JPEG/upload_666133520730178420520c209-16ef-4fc5-92d7-a576716660b7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
