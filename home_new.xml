@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 17:06:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 17:50:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🎙🤍]]></title>
+            <link>https://www.vlive.tv/video/281810</link>
+            <guid>https://www.vlive.tv/video/281810</guid>
+            <pubDate>Wed, 20 Apr 2022 17:48:34 GMT</pubDate>
+            <content:encoded><![CDATA[VIVIZ (비비지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220421_88/1650474422853jH4AY_JPEG/1632627938409859841829580c-4a8f-447e-a2f4-2a004cb826b7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#95 Dino!]]></title>
             <link>https://www.vlive.tv/video/281809</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 20 Apr 2022 13:15:29 GMT</pubDate>
             <content:encoded><![CDATA[HA HYUN SANG]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220420_80/1650460406354RoxcM_JPEG/89261e33-c0ab-11ec-861a-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arirang Radio (Radio'n Us / JiHwan 지환)]]></title>
-            <link>https://www.vlive.tv/video/281562</link>
-            <guid>https://www.vlive.tv/video/281562</guid>
-            <pubDate>Wed, 20 Apr 2022 11:39:57 GMT</pubDate>
-            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220416_96/1650112362043p5yGb_JPEG/upload_663819310875849676718ec82-8c10-4949-a002-b4f96d0ab087.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
