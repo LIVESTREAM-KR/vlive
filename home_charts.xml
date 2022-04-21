@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 13:09:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 13:49:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Wed, 20 Apr 2022 17:48:50 GMT</pubDate>
             <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220421_249/1650471876698vyH5A_JPEG/382837dd-c0c6-11ec-9b1f-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DJ휴🐧]]></title>
-            <link>https://www.vlive.tv/video/281785</link>
-            <guid>https://www.vlive.tv/video/281785</guid>
-            <pubDate>Thu, 21 Apr 2022 11:40:20 GMT</pubDate>
-            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220420_50/1650453338885CewjG_JPEG/upload_945330698982910246d6f937b-a7a8-468a-b3dd-7f02a81ab960.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[졸려요🐰🐰🐰]]></title>
@@ -38,6 +30,14 @@
             <pubDate>Thu, 21 Apr 2022 13:08:20 GMT</pubDate>
             <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220420_280/1650462926637K28Tj_JPEG/163338456570682112fd795fe9-4b2b-4409-a8ea-5510a68d344e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DJ휴🐧]]></title>
+            <link>https://www.vlive.tv/video/281785</link>
+            <guid>https://www.vlive.tv/video/281785</guid>
+            <pubDate>Thu, 21 Apr 2022 11:40:20 GMT</pubDate>
+            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220420_50/1650453338885CewjG_JPEG/upload_945330698982910246d6f937b-a7a8-468a-b3dd-7f02a81ab960.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
