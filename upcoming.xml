@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 13:49:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 14:43:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -416,14 +416,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220421_282/16505454208640zhI6_JPEG/12f1e345-c171-11ec-a9d0-505dacfba98a_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[모두모두 모여라! 빨리 들어오세용!~]]></title>
-            <link>https://www.vlive.tv/video/281892</link>
-            <guid>https://www.vlive.tv/video/281892</guid>
-            <pubDate>Thu, 21 Apr 2022 13:08:58 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:02]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/281892/thumb?type=f228_128" length="0" type="image//live/281892/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[두 살 때 집구조가 기억나는 아이돌이 있다?]]></title>
             <link>https://www.vlive.tv/video/281886</link>
             <guid>https://www.vlive.tv/video/281886</guid>
@@ -468,8 +460,32 @@
             <link>https://www.vlive.tv/video/281894</link>
             <guid>https://www.vlive.tv/video/281894</guid>
             <pubDate>Thu, 21 Apr 2022 13:48:43 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:45]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/281894/thumb?type=f228_128" length="0" type="image//live/281894/thumb"/>
+            <content:encoded><![CDATA[오후 2:04]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220421_255/1650549892885O4EHt_JPEG/d49a8ff0-c17b-11ec-98b3-48df379ccacc_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모두모두 모여라! 빨리 들어오세용!~]]></title>
+            <link>https://www.vlive.tv/video/281892</link>
+            <guid>https://www.vlive.tv/video/281892</guid>
+            <pubDate>Thu, 21 Apr 2022 13:08:58 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:05]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220421_82/1650549912328XD1JN_JPEG/b08ad78f-c17b-11ec-b765-d4f5ef5a9532_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[진석이의 별빛라디오⭐️]]></title>
+            <link>https://www.vlive.tv/video/281897</link>
+            <guid>https://www.vlive.tv/video/281897</guid>
+            <pubDate>Thu, 21 Apr 2022 14:43:04 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:15]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/281897/thumb?type=f228_128" length="0" type="image//live/281897/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[20220421 조금 늦은 혜소통통💛]]></title>
+            <link>https://www.vlive.tv/video/281898</link>
+            <guid>https://www.vlive.tv/video/281898</guid>
+            <pubDate>Thu, 21 Apr 2022 14:43:04 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:33]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220421_171/1650551613268eXGpW_JPEG/16342727721975955816633c40-f4bb-4d48-8dde-875eab860772.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
