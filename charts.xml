@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 21:42:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 22:44:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,20 +48,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220421_190/1650476968160BVb75_JPEG/upload_94556683144295703764c8151-dd85-4482-877f-e261733b2207.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Xdinary Heroes Awakening]]></title>
-            <link>https://www.vlive.tv/video/281872</link>
-            <guid>https://www.vlive.tv/video/281872</guid>
-            <pubDate>Thu, 21 Apr 2022 18:51:25 GMT</pubDate>
-            <content:encoded><![CDATA[Xdinary Heroes]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220421_120/1650533080340bozCk_PNG/upload_66802617204513317a8f8662b-e5c4-4eb7-a0b1-819d5333808d.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[ENHYPEN (엔하이픈) 'EN-O'CLOCK' EP.34]]></title>
             <link>https://www.vlive.tv/video/281858</link>
             <guid>https://www.vlive.tv/video/281858</guid>
             <pubDate>Thu, 21 Apr 2022 17:50:25 GMT</pubDate>
             <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220421_127/1650526298985B5bHz_PNG/upload_66795817586214919c4127206-15b3-479e-a6a7-fe749131f539.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Xdinary Heroes Awakening]]></title>
+            <link>https://www.vlive.tv/video/281872</link>
+            <guid>https://www.vlive.tv/video/281872</guid>
+            <pubDate>Thu, 21 Apr 2022 18:51:25 GMT</pubDate>
+            <content:encoded><![CDATA[Xdinary Heroes]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220421_120/1650533080340bozCk_PNG/upload_66802617204513317a8f8662b-e5c4-4eb7-a0b1-819d5333808d.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
