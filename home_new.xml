@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 05:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 05:57:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안녕♡]]></title>
+            <link>https://www.vlive.tv/video/281932</link>
+            <guid>https://www.vlive.tv/video/281932</guid>
+            <pubDate>Fri, 22 Apr 2022 05:55:52 GMT</pubDate>
+            <content:encoded><![CDATA[ONEUS]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/281932/thumb?type=f228_128" length="0" type="image//live/281932/thumb"/>
+        </item>
         <item>
             <title><![CDATA[🔮몽환🔮적인 색깔 그대로 담아낸 드림캐쳐의 ‘MAISON (메종)’ _ Ep.516]]></title>
             <link>https://www.vlive.tv/video/281914</link>
@@ -21,7 +29,7 @@
             <guid>https://www.vlive.tv/video/281824</guid>
             <pubDate>Fri, 22 Apr 2022 04:29:45 GMT</pubDate>
             <content:encoded><![CDATA[ARIRANG K Pop │ 아리랑케이팝]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220421_286/1650516039830HKQYq_PNG/upload_94595732721503328803e338b-36db-4ff5-8c5b-c9aa0a349cd8.png?type=f228_128_wp" length="0" type="image/png"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220422_227/1650605834140DOY22_PNG/upload_94685553093644381bcd1cccd-4fd9-4aff-a3bd-c7a0744faec7.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[🎀동화 속 주인공 그 자체 권은비의 ‘Glitch (글리치)’ _ Ep.516]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 22 Apr 2022 02:55:20 GMT</pubDate>
             <content:encoded><![CDATA[넷플릭스 (Netflixkr)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220421_257/16505198024763eqzA_JPEG/upload_66789338380956674f1d8727c-efea-4945-907d-ef2c288ba5d9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[저슷터 리틀.......]]></title>
-            <link>https://www.vlive.tv/video/281902</link>
-            <guid>https://www.vlive.tv/video/281902</guid>
-            <pubDate>Thu, 21 Apr 2022 17:04:48 GMT</pubDate>
-            <content:encoded><![CDATA[SF9]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220422_205/1650562088475FjttQ_JPEG/7f626518-c197-11ec-b765-d4f5ef5a9532_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
