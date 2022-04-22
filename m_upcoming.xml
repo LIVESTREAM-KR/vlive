@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 08:48:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 09:45:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,26 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220421_95/16505213435746vPk0_JPEG/upload_946010295080528190ae4b4fd-cc8f-464b-9a01-a400b74b824b.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio/K-Poppin'] Singlish with DKB]]></title>
+            <link>https://m.vlive.tv/video/281844</link>
+            <guid>https://m.vlive.tv/video/281844</guid>
+            <pubDate>Fri, 22 Apr 2022 09:45:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220421_17/1650521570063HqWlW_JPEG/upload_946012733003277034ce6d716-07bc-4f46-bc5f-89f6722c7d40.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / DKZ)]]></title>
+            <link>https://m.vlive.tv/video/281833</link>
+            <guid>https://m.vlive.tv/video/281833</guid>
+            <pubDate>Fri, 22 Apr 2022 09:45:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220421_153/1650518130184E0GjU_JPEG/upload_94597842231680666fdd39105-901e-44ca-9f61-6cf0d4982100.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
