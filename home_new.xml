@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 05:57:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 06:52:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,23 @@
             <guid>https://www.vlive.tv/video/281932</guid>
             <pubDate>Fri, 22 Apr 2022 05:55:52 GMT</pubDate>
             <content:encoded><![CDATA[ONEUS]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/281932/thumb?type=f228_128" length="0" type="image//live/281932/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220422_176/1650609275312m9njf_JPEG/d9407d70-c205-11ec-a3bf-505dac8c3639_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Apink Mini Diary - 판다 종합비타민💊 믕지의 ‘홀리데이즈’ 촬영 비하인드]]></title>
+            <link>https://www.vlive.tv/video/281896</link>
+            <guid>https://www.vlive.tv/video/281896</guid>
+            <pubDate>Fri, 22 Apr 2022 06:51:08 GMT</pubDate>
+            <content:encoded><![CDATA[Apink]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220421_120/1650550234543TorbH_JPEG/upload_946298779827340306ce2b710-eade-47e2-91cb-dd73fcf2b698.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[으라차차 내 인생 10회 예고 (KBS20220422방송)]]></title>
+            <link>https://www.vlive.tv/video/281935</link>
+            <guid>https://www.vlive.tv/video/281935</guid>
+            <pubDate>Fri, 22 Apr 2022 06:51:08 GMT</pubDate>
+            <content:encoded><![CDATA[KBS드라마]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220422_20/1650607052367aukNg_JPEG/upload_9468673883752316690cd54bc-bf5a-4c57-a361-0da6b3906b2a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[🔮몽환🔮적인 색깔 그대로 담아낸 드림캐쳐의 ‘MAISON (메종)’ _ Ep.516]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 22 Apr 2022 02:55:20 GMT</pubDate>
             <content:encoded><![CDATA[TEN Asia (텐아시아)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220422_13/1650588215375r5C1L_JPEG/upload_66857818541467023fc4fe904-a4bb-4965-b889-c9050b3205dc.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[갓세븐 뱀뱀(BamBam), 태국 팬미팅 마치고 입국 | 공항패션]]></title>
-            <link>https://www.vlive.tv/video/281904</link>
-            <guid>https://www.vlive.tv/video/281904</guid>
-            <pubDate>Fri, 22 Apr 2022 02:55:20 GMT</pubDate>
-            <content:encoded><![CDATA[TEN Asia (텐아시아)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220422_117/1650587790787sDRQw_PNG/upload_66857393450502795a07cc3a2-4a1c-4378-9da9-439dbc7d9ce0.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 안나라수마나라 | 공식 메인 예고편]]></title>
-            <link>https://www.vlive.tv/video/281836</link>
-            <guid>https://www.vlive.tv/video/281836</guid>
-            <pubDate>Fri, 22 Apr 2022 02:55:20 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 (Netflixkr)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220421_257/16505198024763eqzA_JPEG/upload_66789338380956674f1d8727c-efea-4945-907d-ef2c288ba5d9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
