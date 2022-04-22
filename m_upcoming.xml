@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 11:41:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 13:13:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[한빈]  한빈이의 ‘백투더퓨처’ – 다시 과거로 3화📻]]></title>
-            <link>https://m.vlive.tv/video/281820</link>
-            <guid>https://m.vlive.tv/video/281820</guid>
-            <pubDate>Thu, 21 Apr 2022 04:25:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 12:00</span>
-										<span class="txt">MAJOR9 (메이저나인)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220421_46/16505090138269T1IP_JPEG/upload_66778549187496899b56d7de2-76a1-43f0-90a9-74721d83424f.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[🍒 SUMIT 1기 MEMBERSHIP KIT UNBOXING LIVE 🎂]]></title>
             <link>https://m.vlive.tv/video/281943</link>
@@ -76,6 +66,26 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220421_153/1650518130184E0GjU_JPEG/upload_94597842231680666fdd39105-901e-44ca-9f61-6cf0d4982100.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / JUST B 저스트비)]]></title>
+            <link>https://m.vlive.tv/video/281998</link>
+            <guid>https://m.vlive.tv/video/281998</guid>
+            <pubDate>Fri, 22 Apr 2022 13:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220422_9/1650627837174cTtqe_JPEG/upload_947075200546007933d58c463-e2f0-4a36-a7b0-d4aacebdd7c1.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Radio'n Us / AVOKID 에이보키드)]]></title>
+            <link>https://m.vlive.tv/video/281831</link>
+            <guid>https://m.vlive.tv/video/281831</guid>
+            <pubDate>Fri, 22 Apr 2022 13:13:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220421_262/1650518048356DMvQe_JPEG/upload_9459774548707093479e50722-8989-4524-9081-f4c150c3f701.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
