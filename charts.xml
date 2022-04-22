@@ -4,9 +4,17 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 13:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 13:56:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[meow🐱]]></title>
+            <link>https://www.vlive.tv/video/282004</link>
+            <guid>https://www.vlive.tv/video/282004</guid>
+            <pubDate>Fri, 22 Apr 2022 13:55:38 GMT</pubDate>
+            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220422_200/1650633077748vmGWf_JPEG/upload_94712798549304419ac76cee1-c935-4a6b-904e-e5c06c5b9c75.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뿅😊]]></title>
             <link>https://www.vlive.tv/video/281536</link>
@@ -22,22 +30,6 @@
             <pubDate>Thu, 21 Apr 2022 15:48:13 GMT</pubDate>
             <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220421_238/1650547130405q5AEB_JPEG/1634226473363242708d430a6f-a4d9-40c4-8cc7-d5adef8c950e.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🦔 샤라웃석슴도치생파 🦔]]></title>
-            <link>https://www.vlive.tv/video/281879</link>
-            <guid>https://www.vlive.tv/video/281879</guid>
-            <pubDate>Thu, 21 Apr 2022 11:40:30 GMT</pubDate>
-            <content:encoded><![CDATA[TREASURE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220421_52/1650535465295Ge8MH_JPEG/16332377629028129798ca7b42-a619-495f-9c3f-9b5824d6fbc8.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ENHYPEN (엔하이픈) 'EN-O'CLOCK' EP.34]]></title>
-            <link>https://www.vlive.tv/video/281858</link>
-            <guid>https://www.vlive.tv/video/281858</guid>
-            <pubDate>Thu, 21 Apr 2022 17:50:25 GMT</pubDate>
-            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220421_127/1650526298985B5bHz_PNG/upload_66795817586214919c4127206-15b3-479e-a6a7-fe749131f539.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[졸려요🐰🐰🐰]]></title>
@@ -56,12 +48,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220421_120/1650533080340bozCk_PNG/upload_66802617204513317a8f8662b-e5c4-4eb7-a0b1-819d5333808d.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[남준씨..]]></title>
-            <link>https://www.vlive.tv/video/281058</link>
-            <guid>https://www.vlive.tv/video/281058</guid>
-            <pubDate>Fri, 22 Apr 2022 07:41:45 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220409_171/1649491918943gdKoQ_JPEG/upload_93571633065899919ee084693-16ae-4bdb-99cc-b0e7013e3a42.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <title><![CDATA[🦔 샤라웃석슴도치생파 🦔]]></title>
+            <link>https://www.vlive.tv/video/281879</link>
+            <guid>https://www.vlive.tv/video/281879</guid>
+            <pubDate>Thu, 21 Apr 2022 11:40:30 GMT</pubDate>
+            <content:encoded><![CDATA[TREASURE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220421_52/1650535465295Ge8MH_JPEG/16332377629028129798ca7b42-a619-495f-9c3f-9b5824d6fbc8.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022.04.22 1VE ! LOVE DIVE 🏆🏆🏆🏆🏆💕]]></title>
+            <link>https://www.vlive.tv/video/281968</link>
+            <guid>https://www.vlive.tv/video/281968</guid>
+            <pubDate>Fri, 22 Apr 2022 13:55:39 GMT</pubDate>
+            <content:encoded><![CDATA[IVE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220422_26/16506200509014tYpk_JPEG/2290eb5b-c21f-11ec-a0e5-505dac8c3607_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
