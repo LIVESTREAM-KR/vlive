@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 15:46:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 16:58:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,23 @@
             <guid>https://www.vlive.tv/video/282062</guid>
             <pubDate>Sat, 23 Apr 2022 15:45:20 GMT</pubDate>
             <content:encoded><![CDATA[AB6IX]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/282062/thumb?type=f228_128" length="0" type="image//live/282062/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220424_299/1650732225338gt3C8_JPEG/cf3e6fe4-c323-11ec-8a91-505dac8c38f5_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🐣]]></title>
+            <link>https://www.vlive.tv/video/282061</link>
+            <guid>https://www.vlive.tv/video/282061</guid>
+            <pubDate>Sat, 23 Apr 2022 15:45:20 GMT</pubDate>
+            <content:encoded><![CDATA[예린 (YERIN)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220424_248/1650729439775zB8L8_JPEG/cfbcfd9f-c31d-11ec-a12d-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🐱💙💜]]></title>
+            <link>https://www.vlive.tv/video/282054</link>
+            <guid>https://www.vlive.tv/video/282054</guid>
+            <pubDate>Sat, 23 Apr 2022 16:57:05 GMT</pubDate>
+            <content:encoded><![CDATA[LIZ ENT]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220423_35/1650720901810c7YPP_JPEG/16350927277163842102f8e254-c2d7-4749-a40c-654ac40b4cb5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안농]]></title>
@@ -30,14 +46,6 @@
             <pubDate>Sat, 23 Apr 2022 14:41:04 GMT</pubDate>
             <content:encoded><![CDATA[INMEDIA+]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220424_44/1650726353835aEnh5_JPEG/fd0f2366-c315-11ec-b8ef-d4f5ef5906a4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🐣]]></title>
-            <link>https://www.vlive.tv/video/282061</link>
-            <guid>https://www.vlive.tv/video/282061</guid>
-            <pubDate>Sat, 23 Apr 2022 15:45:20 GMT</pubDate>
-            <content:encoded><![CDATA[예린 (YERIN)]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/282061/thumb?type=f228_128" length="0" type="image//live/282061/thumb"/>
         </item>
         <item>
             <title><![CDATA[TXT (투모로우바이투게더) minisode 2: Thursday's Child Concept Clip 'MESS' - 휴닝카이 (HUENINGKAI)]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 23 Apr 2022 14:41:04 GMT</pubDate>
             <content:encoded><![CDATA[TWICE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220423_169/1650723643878VnL5p_JPEG/658bdb32-c310-11ec-91f7-d4f5ef58ad5e_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[토요일 밤에~🕺]]></title>
-            <link>https://www.vlive.tv/video/282053</link>
-            <guid>https://www.vlive.tv/video/282053</guid>
-            <pubDate>Sat, 23 Apr 2022 13:44:01 GMT</pubDate>
-            <content:encoded><![CDATA[24K]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220423_121/1650721205395ig1D4_JPEG/aa60e9e8-c30a-11ec-b52c-505dac8c37f3_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
