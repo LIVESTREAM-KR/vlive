@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 03:55:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 04:52:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[민민즈가 네모로더 꾸며볼게🐯🐰]]></title>
+            <link>https://www.vlive.tv/video/282032</link>
+            <guid>https://www.vlive.tv/video/282032</guid>
+            <pubDate>Sat, 23 Apr 2022 04:50:54 GMT</pubDate>
+            <content:encoded><![CDATA[JUST B (저스트비)]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/282032/thumb?type=f228_128" length="0" type="image//live/282032/thumb"/>
+        </item>
         <item>
             <title><![CDATA[[IMERA] EP.121 유니버스 화보 촬영 비하인드 #2]]></title>
             <link>https://www.vlive.tv/video/281994</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 22 Apr 2022 15:46:26 GMT</pubDate>
             <content:encoded><![CDATA[MisoJeong]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220422_44/165056232883871Osb_PNG/upload_66831931900104659d0a13431-9891-49d4-b683-c0df8dc6aadd.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[잠깐 들렀당👋🏻]]></title>
-            <link>https://www.vlive.tv/video/282021</link>
-            <guid>https://www.vlive.tv/video/282021</guid>
-            <pubDate>Fri, 22 Apr 2022 13:55:10 GMT</pubDate>
-            <content:encoded><![CDATA[PURPLE KISS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220422_36/1650637102600r0MYT_JPEG/ad052f4f-c246-11ec-a87a-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
