@@ -4,9 +4,24 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 13:45:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 14:42:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[❤️‍🔥🍓]]></title>
+            <link>https://www.vlive.tv/video/282057</link>
+            <guid>https://www.vlive.tv/video/282057</guid>
+            <pubDate>Sat, 23 Apr 2022 14:40:56 GMT</pubDate>
+            <content:encoded><![CDATA[TWICE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220423_169/1650723643878VnL5p_JPEG/658bdb32-c310-11ec-91f7-d4f5ef58ad5e_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[맥시멈 모여라]]></title>
+            <link>https://www.vlive.tv/video/282055</link>
+            <guid>https://www.vlive.tv/video/282055</guid>
+            <pubDate>Sat, 23 Apr 2022 14:40:56 GMT</pubDate>
+            <content:encoded><![CDATA[INMEDIA+]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[토요일 밤에~🕺]]></title>
             <link>https://www.vlive.tv/video/282053</link>
@@ -22,13 +37,6 @@
             <pubDate>Sat, 23 Apr 2022 13:43:51 GMT</pubDate>
             <content:encoded><![CDATA[LIZ ENT]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220423_35/1650720901810c7YPP_JPEG/16350927277163842102f8e254-c2d7-4749-a40c-654ac40b4cb5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안농]]></title>
-            <link>https://www.vlive.tv/video/282052</link>
-            <guid>https://www.vlive.tv/video/282052</guid>
-            <pubDate>Sat, 23 Apr 2022 13:01:36 GMT</pubDate>
-            <content:encoded><![CDATA[KINGDOM]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[얘기할깡현~🙆‍♂️]]></title>
@@ -397,14 +405,6 @@
             <pubDate>Fri, 22 Apr 2022 13:55:00 GMT</pubDate>
             <content:encoded><![CDATA[Billlie 빌리]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220422_259/1650632191417Uax50_JPEG/upload_94709165985122492df0cd011-a95a-41c3-84de-de914e98efd0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금요일 밤 라디오 10.13hz]]></title>
-            <link>https://www.vlive.tv/video/282000</link>
-            <guid>https://www.vlive.tv/video/282000</guid>
-            <pubDate>Fri, 22 Apr 2022 13:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[BDC]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220422_7/1650633636261wr9Jm_JPEG/6ddec712-c23e-11ec-b52c-505dac8c37f3_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
