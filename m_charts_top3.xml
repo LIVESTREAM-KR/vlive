@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ CHARTS </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 08:46:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 09:45:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220422_200/1650633077748vmGWf_JPEG/upload_94712798549304419ac76cee1-c935-4a6b-904e-e5c06c5b9c75.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뿅😊]]></title>
-            <link>https://m.vlive.tv/video/281536</link>
-            <guid>https://m.vlive.tv/video/281536</guid>
-            <pubDate>Sat, 16 Apr 2022 06:49:10 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220416_48/1650094251506OOemk_JPEG/upload_94173980074495450a535b1ae-1b2a-4258-ade1-6816b2a33277.jpeg?type=f640_360_wp" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[리노리방😸🐰]]></title>
             <link>https://m.vlive.tv/video/282037</link>
             <guid>https://m.vlive.tv/video/282037</guid>
             <pubDate>Sat, 23 Apr 2022 08:46:06 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220423_75/1650702137668MFY5l_JPEG/40130848-c2de-11ec-8a91-505dac8c38f5_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뿅😊]]></title>
+            <link>https://m.vlive.tv/video/281536</link>
+            <guid>https://m.vlive.tv/video/281536</guid>
+            <pubDate>Sat, 16 Apr 2022 06:49:10 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220416_48/1650094251506OOemk_JPEG/upload_94173980074495450a535b1ae-1b2a-4258-ade1-6816b2a33277.jpeg?type=f640_360_wp" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
