@@ -4,9 +4,32 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 11:41:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 13:02:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안농 (V LIVE ─ NEW)]]></title>
+            <link>https://www.vlive.tv/video/282052</link>
+            <guid>https://www.vlive.tv/video/282052</guid>
+            <pubDate>Sat, 23 Apr 2022 13:01:36 GMT</pubDate>
+            <content:encoded><![CDATA[KINGDOM]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[얘기할깡현~🙆‍♂️ (V LIVE ─ NEW)]]></title>
+            <link>https://www.vlive.tv/video/282051</link>
+            <guid>https://www.vlive.tv/video/282051</guid>
+            <pubDate>Sat, 23 Apr 2022 13:01:36 GMT</pubDate>
+            <content:encoded><![CDATA[ONEWE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220423_175/1650718580849OAI6P_JPEG/1bc3444c-c304-11ec-b8ef-d4f5ef5906a4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[B1A4♥BANA 우리들의 열한 번째 기념일 데이트 (V LIVE ─ NEW)]]></title>
+            <link>https://www.vlive.tv/video/282046</link>
+            <guid>https://www.vlive.tv/video/282046</guid>
+            <pubDate>Sat, 23 Apr 2022 10:44:56 GMT</pubDate>
+            <content:encoded><![CDATA[B1A4]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220423_62/1650709703521JrFjK_JPEG/upload_94789234304289552774f2c45-157d-4d7b-93e7-0311169c5031.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[HAPPY HWARANG DAY🎉 (V LIVE ─ NEW)]]></title>
             <link>https://www.vlive.tv/video/281926</link>
@@ -14,6 +37,22 @@
             <pubDate>Sat, 23 Apr 2022 02:18:29 GMT</pubDate>
             <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220422_110/1650601610693pHsUD_JPEG/upload_94680944528526882592abe88-4e31-4a0f-8cdd-7fd3ab06584a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[탐클우주] EP5. 우주학개론 (ENG/JPN/ESP/IDN) (V LIVE ─ NEW)]]></title>
+            <link>https://www.vlive.tv/video/282050</link>
+            <guid>https://www.vlive.tv/video/282050</guid>
+            <pubDate>Sat, 23 Apr 2022 13:01:36 GMT</pubDate>
+            <content:encoded><![CDATA[블리처스(BLITZERS)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220423_273/1650715465617zlwiX_JPEG/upload_94792340163674866dfcdadfc-1ff4-4ae0-a270-85905e0a30b0.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[집에 잘 가자🏠 (V LIVE ─ NEW)]]></title>
+            <link>https://www.vlive.tv/video/282049</link>
+            <guid>https://www.vlive.tv/video/282049</guid>
+            <pubDate>Sat, 23 Apr 2022 13:01:36 GMT</pubDate>
+            <content:encoded><![CDATA[김세정 (KIM SEJEONG)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220423_227/16507151931508iv9F_JPEG/b2564c97-c2fc-11ec-b5d5-d4f5ef590144_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[블랙핑크 제니(BLACKPINK JENNIE) '트레이닝 차림도 가릴 수 없는 예쁨' (V LIVE ─ NEW)]]></title>
@@ -30,14 +69,6 @@
             <pubDate>Sat, 23 Apr 2022 11:39:43 GMT</pubDate>
             <content:encoded><![CDATA[EPEX]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220423_105/16506976330178Xnmh_JPEG/ae7fe302-c2d2-11ec-a87a-505dac8c35ff_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[B1A4♥BANA 우리들의 열한 번째 기념일 데이트 (V LIVE ─ NEW)]]></title>
-            <link>https://www.vlive.tv/video/282046</link>
-            <guid>https://www.vlive.tv/video/282046</guid>
-            <pubDate>Sat, 23 Apr 2022 10:44:56 GMT</pubDate>
-            <content:encoded><![CDATA[B1A4]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220423_62/1650709703521JrFjK_JPEG/upload_94789234304289552774f2c45-157d-4d7b-93e7-0311169c5031.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다시다시! (V LIVE ─ NEW)]]></title>
@@ -376,36 +407,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20220422_169/1650632715823o0NmI_JPEG/c93e3965-c23b-11ec-b765-d4f5ef5a9532_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[한빈]  한빈이의 ‘백투더퓨처’ – 다시 과거로 3화📻 (V LIVE ─ NEW)]]></title>
-            <link>https://www.vlive.tv/video/281820</link>
-            <guid>https://www.vlive.tv/video/281820</guid>
-            <pubDate>Fri, 22 Apr 2022 02:56:04 GMT</pubDate>
-            <content:encoded><![CDATA[MAJOR9 (메이저나인)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220421_46/16505090138269T1IP_JPEG/upload_66778549187496899b56d7de2-76a1-43f0-90a9-74721d83424f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나우주목🚨소리질러🔊🔊🔊 (V LIVE ─ NEW)]]></title>
-            <link>https://www.vlive.tv/video/282012</link>
-            <guid>https://www.vlive.tv/video/282012</guid>
-            <pubDate>Fri, 22 Apr 2022 13:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[미래소년 (MIRAE)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220422_88/16506325864586AkNR_JPEG/329e637b-c23c-11ec-91f7-d4f5ef58ad5e_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[meow🐱 (V LIVE ─ NEW)]]></title>
-            <link>https://www.vlive.tv/video/282004</link>
-            <guid>https://www.vlive.tv/video/282004</guid>
-            <pubDate>Fri, 22 Apr 2022 13:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220422_200/1650633077748vmGWf_JPEG/upload_94712798549304419ac76cee1-c935-4a6b-904e-e5c06c5b9c75.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[놀아죠 .. 🐿 (V LIVE ─ NEW)]]></title>
-            <link>https://www.vlive.tv/video/282003</link>
-            <guid>https://www.vlive.tv/video/282003</guid>
-            <pubDate>Fri, 22 Apr 2022 13:11:54 GMT</pubDate>
+            <title><![CDATA[안농 (V LIVE ─ 홈 ─ NEW)]]></title>
+            <link>https://www.vlive.tv/video/282052</link>
+            <guid>https://www.vlive.tv/video/282052</guid>
+            <pubDate>Sat, 23 Apr 2022 13:01:45 GMT</pubDate>
             <content:encoded><![CDATA[KINGDOM]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220422_31/16506312764444QX7q_JPEG/fb920292-c238-11ec-a2ba-48df379cc9e4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/282052/thumb?type=f228_128" length="0" type="image//live/282052/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[얘기할깡현~🙆‍♂️ (V LIVE ─ 홈 ─ NEW)]]></title>
+            <link>https://www.vlive.tv/video/282051</link>
+            <guid>https://www.vlive.tv/video/282051</guid>
+            <pubDate>Sat, 23 Apr 2022 13:01:45 GMT</pubDate>
+            <content:encoded><![CDATA[ONEWE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220423_175/1650718580849OAI6P_JPEG/1bc3444c-c304-11ec-b8ef-d4f5ef5906a4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[B1A4♥BANA 우리들의 열한 번째 기념일 데이트 (V LIVE ─ 홈 ─ NEW)]]></title>
+            <link>https://www.vlive.tv/video/282046</link>
+            <guid>https://www.vlive.tv/video/282046</guid>
+            <pubDate>Sat, 23 Apr 2022 10:44:56 GMT</pubDate>
+            <content:encoded><![CDATA[B1A4]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220423_62/1650709703521JrFjK_JPEG/upload_94789234304289552774f2c45-157d-4d7b-93e7-0311169c5031.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HAPPY HWARANG DAY🎉 (V LIVE ─ 홈 ─ NEW)]]></title>
@@ -416,10 +439,26 @@
             <enclosure url="https://v-phinf.pstatic.net/20220422_110/1650601610693pHsUD_JPEG/upload_94680944528526882592abe88-4e31-4a0f-8cdd-7fd3ab06584a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[탐클우주] EP5. 우주학개론 (ENG/JPN/ESP/IDN) (V LIVE ─ 홈 ─ NEW)]]></title>
+            <link>https://www.vlive.tv/video/282050</link>
+            <guid>https://www.vlive.tv/video/282050</guid>
+            <pubDate>Sat, 23 Apr 2022 13:01:45 GMT</pubDate>
+            <content:encoded><![CDATA[블리처스(BLITZERS)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220423_273/1650715465617zlwiX_JPEG/upload_94792340163674866dfcdadfc-1ff4-4ae0-a270-85905e0a30b0.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[집에 잘 가자🏠 (V LIVE ─ 홈 ─ NEW)]]></title>
+            <link>https://www.vlive.tv/video/282049</link>
+            <guid>https://www.vlive.tv/video/282049</guid>
+            <pubDate>Sat, 23 Apr 2022 13:01:45 GMT</pubDate>
+            <content:encoded><![CDATA[김세정 (KIM SEJEONG)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220423_227/16507151931508iv9F_JPEG/b2564c97-c2fc-11ec-b5d5-d4f5ef590144_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[블랙핑크 제니(BLACKPINK JENNIE) '트레이닝 차림도 가릴 수 없는 예쁨' (V LIVE ─ 홈 ─ NEW)]]></title>
             <link>https://www.vlive.tv/video/282048</link>
             <guid>https://www.vlive.tv/video/282048</guid>
-            <pubDate>Sat, 23 Apr 2022 11:39:54 GMT</pubDate>
+            <pubDate>Sat, 23 Apr 2022 11:39:43 GMT</pubDate>
             <content:encoded><![CDATA[mydaily]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220423_39/1650711617499NCxr1_JPEG/upload_94791325461918430597f7854-9d2c-4c20-bf9c-cc13e731e1b5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
@@ -427,17 +466,9 @@
             <title><![CDATA[AYDEN VLOG in Daejeon (feat. 가족, 휴가, 민증 만들기) (V LIVE ─ 홈 ─ NEW)]]></title>
             <link>https://www.vlive.tv/video/282035</link>
             <guid>https://www.vlive.tv/video/282035</guid>
-            <pubDate>Sat, 23 Apr 2022 11:39:54 GMT</pubDate>
+            <pubDate>Sat, 23 Apr 2022 11:39:43 GMT</pubDate>
             <content:encoded><![CDATA[EPEX]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220423_105/16506976330178Xnmh_JPEG/ae7fe302-c2d2-11ec-a87a-505dac8c35ff_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[B1A4♥BANA 우리들의 열한 번째 기념일 데이트 (V LIVE ─ 홈 ─ NEW)]]></title>
-            <link>https://www.vlive.tv/video/282046</link>
-            <guid>https://www.vlive.tv/video/282046</guid>
-            <pubDate>Sat, 23 Apr 2022 10:44:56 GMT</pubDate>
-            <content:encoded><![CDATA[B1A4]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220423_62/1650709703521JrFjK_JPEG/upload_94789234304289552774f2c45-157d-4d7b-93e7-0311169c5031.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다시다시! (V LIVE ─ 홈 ─ NEW)]]></title>
@@ -496,38 +527,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220423_140/1650701908567kSOED_JPEG/1635775244881046572f973eac-65fb-449d-8d8c-16b4f1c57dbb.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[하소하🖤 (V LIVE ─ 홈 ─ NEW)]]></title>
-            <link>https://www.vlive.tv/video/282042</link>
-            <guid>https://www.vlive.tv/video/282042</guid>
-            <pubDate>Sat, 23 Apr 2022 09:43:16 GMT</pubDate>
-            <content:encoded><![CDATA[ONEWE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220423_166/1650704797079bjt27_JPEG/6342fffa-c2e4-11ec-a87a-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프리티지(PRITTI-G) 'Let Me Out' M/V Making Film (V LIVE ─ 홈 ─ NEW)]]></title>
-            <link>https://www.vlive.tv/video/281763</link>
-            <guid>https://www.vlive.tv/video/281763</guid>
-            <pubDate>Sat, 23 Apr 2022 02:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[PRITTI-G (프리티지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220420_221/1650437500587OY1ei_JPEG/upload_66707100948190019f85ff04b-18d3-4470-8de8-e05b535076b4.JPG?type=f228_128_wp" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[[선공개] 박해진의 잇츠 쇼타임❗ 제주 바다의 푸르름이 가득한 집🏝️ 바다 SHOW ! 끝은 없는 거야~! , MBC 220424 방송 (V LIVE ─ 홈 ─ NEW)]]></title>
-            <link>https://www.vlive.tv/video/282041</link>
-            <guid>https://www.vlive.tv/video/282041</guid>
-            <pubDate>Sat, 23 Apr 2022 08:45:19 GMT</pubDate>
-            <content:encoded><![CDATA[MBC 예능]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220423_201/1650702287756h0qi8_JPEG/upload_94781918759800474417e1fd3-778a-43dc-90eb-b3e268310705.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리노리방😺🐰다시왔다 (V LIVE ─ 홈 ─ NEW)]]></title>
-            <link>https://www.vlive.tv/video/282040</link>
-            <guid>https://www.vlive.tv/video/282040</guid>
-            <pubDate>Sat, 23 Apr 2022 08:45:19 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220423_9/1650702175810MykCp_JPEG/8597d106-c2de-11ec-a87a-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[meow🐱 (V LIVE ─ 홈 ─ CHARTS TOP3)]]></title>
             <link>https://www.vlive.tv/video/282004</link>
             <guid>https://www.vlive.tv/video/282004</guid>
@@ -576,12 +575,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20220406_269/16492171529905hlmf_JPEG/upload_6548674702626968227b83bae-d663-4971-92a2-9fa9bb75b7c8.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[면💕 (V LIVE ─ 홈 ─ CHARTS)]]></title>
-            <link>https://www.vlive.tv/video/282025</link>
-            <guid>https://www.vlive.tv/video/282025</guid>
-            <pubDate>Fri, 22 Apr 2022 15:46:17 GMT</pubDate>
-            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220423_168/1650643431604ugPht_JPEG/9d6c93ff-c255-11ec-a12d-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <title><![CDATA[HAPPY HWARANG DAY🎉 (V LIVE ─ 홈 ─ CHARTS)]]></title>
+            <link>https://www.vlive.tv/video/281926</link>
+            <guid>https://www.vlive.tv/video/281926</guid>
+            <pubDate>Sat, 23 Apr 2022 02:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220422_110/1650601610693pHsUD_JPEG/upload_94680944528526882592abe88-4e31-4a0f-8cdd-7fd3ab06584a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[meow🐱 (V LIVE ─ CHARTS)]]></title>
@@ -632,12 +631,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20220406_269/16492171529905hlmf_JPEG/upload_6548674702626968227b83bae-d663-4971-92a2-9fa9bb75b7c8.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[면💕 (V LIVE ─ CHARTS)]]></title>
-            <link>https://www.vlive.tv/video/282025</link>
-            <guid>https://www.vlive.tv/video/282025</guid>
-            <pubDate>Fri, 22 Apr 2022 15:46:17 GMT</pubDate>
-            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220423_168/1650643431604ugPht_JPEG/9d6c93ff-c255-11ec-a12d-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <title><![CDATA[HAPPY HWARANG DAY🎉 (V LIVE ─ CHARTS)]]></title>
+            <link>https://www.vlive.tv/video/281926</link>
+            <guid>https://www.vlive.tv/video/281926</guid>
+            <pubDate>Sat, 23 Apr 2022 02:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220422_110/1650601610693pHsUD_JPEG/upload_94680944528526882592abe88-4e31-4a0f-8cdd-7fd3ab06584a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[meow🐱 (V LIVE 모바일 ─ CHARTS )]]></title>
@@ -667,7 +666,7 @@
             <title><![CDATA[Charting4 Happy CHAEYOUNG day! CHAEYOUNG’s Birthday Cake (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Sat, 23 Apr 2022 11:40:43 GMT</pubDate>
+            <pubDate>Sat, 23 Apr 2022 13:02:23 GMT</pubDate>
             <content:encoded><![CDATA[TWICE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220422_272/1650621359230lwd0u_PNG/upload_94701075766156089d40c82cf-382a-4691-85d2-a741a10cab12.png?type=f256_144_wp" length="0" type="image/png"/>
         </item>
@@ -675,7 +674,7 @@
             <title><![CDATA[Charting5 리노리방😺🐰다시왔다 (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Sat, 23 Apr 2022 11:40:43 GMT</pubDate>
+            <pubDate>Sat, 23 Apr 2022 13:02:23 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220423_9/1650702175810MykCp_JPEG/8597d106-c2de-11ec-a87a-505dac8c35ff_03.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
@@ -683,121 +682,121 @@
             <title><![CDATA[Charting6 졸려요🐰🐰🐰 (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Sat, 23 Apr 2022 11:40:43 GMT</pubDate>
+            <pubDate>Sat, 23 Apr 2022 13:02:23 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220406_269/16492171529905hlmf_JPEG/upload_6548674702626968227b83bae-d663-4971-92a2-9fa9bb75b7c8.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Charting7 면💕 (V LIVE 모바일 ─ CHARTS)]]></title>
+            <title><![CDATA[Charting7 HAPPY HWARANG DAY🎉 (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Sat, 23 Apr 2022 11:40:43 GMT</pubDate>
+            <pubDate>Sat, 23 Apr 2022 13:02:23 GMT</pubDate>
+            <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220422_110/1650601610693pHsUD_JPEG/upload_94680944528526882592abe88-4e31-4a0f-8cdd-7fd3ab06584a.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Charting8 면💕 (V LIVE 모바일 ─ CHARTS)]]></title>
+            <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
+            <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
+            <pubDate>Sat, 23 Apr 2022 13:02:23 GMT</pubDate>
             <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220423_168/1650643431604ugPht_JPEG/9d6c93ff-c255-11ec-a12d-505dac8c381b_03.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Charting8 남준씨.. (V LIVE 모바일 ─ CHARTS)]]></title>
+            <title><![CDATA[Charting9 남준씨.. (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Sat, 23 Apr 2022 11:40:43 GMT</pubDate>
+            <pubDate>Sat, 23 Apr 2022 13:02:23 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220409_171/1649491918943gdKoQ_JPEG/upload_93571633065899919ee084693-16ae-4bdb-99cc-b0e7013e3a42.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Charting9 헤엫이 (V LIVE 모바일 ─ CHARTS)]]></title>
+            <title><![CDATA[Charting10 B1A4♥BANA 우리들의 열한 번째 기념일 데이트 (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Sat, 23 Apr 2022 11:40:43 GMT</pubDate>
-            <content:encoded><![CDATA[OH MY GIRL]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220422_62/1650625176042lxK8P_JPEG/16350079203693071896739123-0ba3-4f26-b488-701320ec8155.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
+            <pubDate>Sat, 23 Apr 2022 13:02:23 GMT</pubDate>
+            <content:encoded><![CDATA[B1A4]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220423_62/1650709703521JrFjK_JPEG/upload_94789234304289552774f2c45-157d-4d7b-93e7-0311169c5031.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Charting10 지민씨 등장 (V LIVE 모바일 ─ CHARTS)]]></title>
+            <title><![CDATA[Charting11 집에 잘 가자🏠 (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Sat, 23 Apr 2022 11:40:43 GMT</pubDate>
+            <pubDate>Sat, 23 Apr 2022 13:02:23 GMT</pubDate>
+            <content:encoded><![CDATA[김세정 (KIM SEJEONG)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220423_227/16507151931508iv9F_JPEG/b2564c97-c2fc-11ec-b5d5-d4f5ef590144_03.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Charting12 지민씨 등장 (V LIVE 모바일 ─ CHARTS)]]></title>
+            <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
+            <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
+            <pubDate>Sat, 23 Apr 2022 13:02:23 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211013_144/1634122553955eHKox_JPEG/upload_78202275760730696931ec09d-bfa2-4361-8b27-5b66010714b3.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Charting11 갑자기 분위기 브이앱 레쭈고😏😏 (V LIVE 모바일 ─ CHARTS)]]></title>
+            <title><![CDATA[Charting13 갑자기 분위기 브이앱 레쭈고😏😏 (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Sat, 23 Apr 2022 11:40:43 GMT</pubDate>
+            <pubDate>Sat, 23 Apr 2022 13:02:23 GMT</pubDate>
             <content:encoded><![CDATA[EPEX]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220422_148/1650636743422ak0VT_JPEG/8efab696-c245-11ec-91f7-d4f5ef58ad5e_03.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Charting12 동하니 브이라이브 볼 루아이~ (V LIVE 모바일 ─ CHARTS)]]></title>
+            <title><![CDATA[Charting14 동하니 브이라이브 볼 루아이~ (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Sat, 23 Apr 2022 11:40:43 GMT</pubDate>
+            <pubDate>Sat, 23 Apr 2022 13:02:23 GMT</pubDate>
             <content:encoded><![CDATA[위아이 (WEi)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220423_271/1650641859921SHkj6_JPEG/91bc9f02-c251-11ec-b52c-505dac8c37f3_03.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Charting13 Stray Kids(스트레이 키즈) "MANIAC" Performance | MTV Fresh Out (V LIVE 모바일 ─ CHARTS)]]></title>
+            <title><![CDATA[Charting15 Stray Kids(스트레이 키즈) "MANIAC" Performance | MTV Fresh Out (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Sat, 23 Apr 2022 11:40:43 GMT</pubDate>
+            <pubDate>Sat, 23 Apr 2022 13:02:23 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220419_72/1650346320537HAbSA_JPEG/upload_94425869808479740b39c53d5-aecb-4be6-a8ec-cdace76f67f5.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Charting14 ENHYPEN (엔하이픈) 'EN-O'CLOCK' EP.34 (V LIVE 모바일 ─ CHARTS)]]></title>
+            <title><![CDATA[Charting16 보라해💜💜 (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Sat, 23 Apr 2022 11:40:43 GMT</pubDate>
-            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220421_127/1650526298985B5bHz_PNG/upload_66795817586214919c4127206-15b3-479e-a6a7-fe749131f539.png?type=f256_144_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Charting15 보라해💜💜 (V LIVE 모바일 ─ CHARTS)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Sat, 23 Apr 2022 11:40:43 GMT</pubDate>
+            <pubDate>Sat, 23 Apr 2022 13:02:23 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220404_162/16490512229316Gnur_JPEG/upload_931308840772431337eabaef7-182c-4137-884b-d277034e4b9f.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Charting16 찬이의 "방" 🐺 Ep. 153 (V LIVE 모바일 ─ CHARTS)]]></title>
+            <title><![CDATA[Charting17 ENHYPEN (엔하이픈) 'EN-O'CLOCK' EP.34 (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Sat, 23 Apr 2022 11:40:43 GMT</pubDate>
+            <pubDate>Sat, 23 Apr 2022 13:02:23 GMT</pubDate>
+            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220421_127/1650526298985B5bHz_PNG/upload_66795817586214919c4127206-15b3-479e-a6a7-fe749131f539.png?type=f256_144_wp" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Charting18 찬이의 "방" 🐺 Ep. 153 (V LIVE 모바일 ─ CHARTS)]]></title>
+            <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
+            <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
+            <pubDate>Sat, 23 Apr 2022 13:02:23 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220417_26/1650206524058rRaJL_JPEG/eaf504e3-be5b-11ec-a87a-505dac8c35ff_03.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Charting17 쫑탄일 (V LIVE 모바일 ─ CHARTS)]]></title>
+            <title><![CDATA[Charting19 쫑탄일 (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Sat, 23 Apr 2022 11:40:43 GMT</pubDate>
+            <pubDate>Sat, 23 Apr 2022 13:02:23 GMT</pubDate>
             <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220421_190/1650476968160BVb75_JPEG/upload_94556683144295703764c8151-dd85-4482-877f-e261733b2207.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Charting18 🦔 샤라웃석슴도치생파 🦔 (V LIVE 모바일 ─ CHARTS)]]></title>
+            <title><![CDATA[Charting20 🦔 샤라웃석슴도치생파 🦔 (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Sat, 23 Apr 2022 11:40:43 GMT</pubDate>
+            <pubDate>Sat, 23 Apr 2022 13:02:23 GMT</pubDate>
             <content:encoded><![CDATA[TREASURE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220421_52/1650535465295Ge8MH_JPEG/16332377629028129798ca7b42-a619-495f-9c3f-9b5824d6fbc8.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Charting19 춤바람 난 메랩즈🦊🐯 (V LIVE 모바일 ─ CHARTS)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Sat, 23 Apr 2022 11:40:43 GMT</pubDate>
-            <content:encoded><![CDATA[Billlie 빌리]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220422_70/1650623454208jDp9M_JPEG/726758927213616799626f55e-4c3e-422f-8320-24fe38b42cab.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Charting20 미연 (MIYEON) - 1st Mini Album "MY" Audio Snippet (V LIVE 모바일 ─ CHARTS)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Sat, 23 Apr 2022 11:40:43 GMT</pubDate>
-            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220422_139/1650637556880aBmJt_JPEG/upload_669071552104550924e90e608-4721-467b-9e50-25e576ff74ff.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[선공개] WSG 워너비를 향해 이어지는 블라인드 오디션🔥 송혜교의 <기억을 걷는 시간>♪ "와...음색 기가 막힌다💕", MBC 220423 방송 (V LIVE ─ 일정표)]]></title>
@@ -992,18 +991,10 @@
             <enclosure url="https://v-phinf.pstatic.net/20220423_249/1650707352408VbobW_JPEG/16358288339986660986cd989e-72c5-4e1c-bece-da6dce4731f5.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[B1A4♥BANA 우리들의 열한 번째 기념일 데이트 (V LIVE ─ 일정표)]]></title>
-            <link>https://www.vlive.tv/video/282046</link>
-            <guid>https://www.vlive.tv/video/282046</guid>
-            <pubDate>Sat, 23 Apr 2022 10:44:56 GMT</pubDate>
-            <content:encoded><![CDATA[오전 10:56]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220423_62/1650709703521JrFjK_JPEG/upload_94789234304289552774f2c45-157d-4d7b-93e7-0311169c5031.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[AYDEN VLOG in Daejeon (feat. 가족, 휴가, 민증 만들기) (V LIVE ─ 일정표)]]></title>
             <link>https://www.vlive.tv/video/282035</link>
             <guid>https://www.vlive.tv/video/282035</guid>
-            <pubDate>Sat, 23 Apr 2022 11:40:51 GMT</pubDate>
+            <pubDate>Sat, 23 Apr 2022 11:39:43 GMT</pubDate>
             <content:encoded><![CDATA[오전 11:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220423_105/16506976330178Xnmh_JPEG/ae7fe302-c2d2-11ec-a87a-505dac8c35ff_01.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
@@ -1011,17 +1002,57 @@
             <title><![CDATA[블랙핑크 제니(BLACKPINK JENNIE) '트레이닝 차림도 가릴 수 없는 예쁨' (V LIVE ─ 일정표)]]></title>
             <link>https://www.vlive.tv/video/282048</link>
             <guid>https://www.vlive.tv/video/282048</guid>
-            <pubDate>Sat, 23 Apr 2022 11:40:51 GMT</pubDate>
+            <pubDate>Sat, 23 Apr 2022 11:39:43 GMT</pubDate>
             <content:encoded><![CDATA[오전 11:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220423_39/1650711617499NCxr1_JPEG/upload_94791325461918430597f7854-9d2c-4c20-bf9c-cc13e731e1b5.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[집에 잘 가자🏠 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/282049</link>
+            <guid>https://www.vlive.tv/video/282049</guid>
+            <pubDate>Sat, 23 Apr 2022 13:02:29 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:59]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220423_227/16507151931508iv9F_JPEG/b2564c97-c2fc-11ec-b5d5-d4f5ef590144_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[탐클우주] EP5. 우주학개론 (ENG/JPN/ESP/IDN) (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/282050</link>
+            <guid>https://www.vlive.tv/video/282050</guid>
+            <pubDate>Sat, 23 Apr 2022 13:02:29 GMT</pubDate>
+            <content:encoded><![CDATA[오후 12:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220423_273/1650715465617zlwiX_JPEG/upload_94792340163674866dfcdadfc-1ff4-4ae0-a270-85905e0a30b0.jpeg?type=f228_128" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[HAPPY HWARANG DAY🎉 (V LIVE ─ 일정표)]]></title>
             <link>https://www.vlive.tv/video/281926</link>
             <guid>https://www.vlive.tv/video/281926</guid>
             <pubDate>Sat, 23 Apr 2022 02:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[오전 11:01]]></content:encoded>
+            <content:encoded><![CDATA[오후 12:22]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220422_110/1650601610693pHsUD_JPEG/upload_94680944528526882592abe88-4e31-4a0f-8cdd-7fd3ab06584a.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[B1A4♥BANA 우리들의 열한 번째 기념일 데이트 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/282046</link>
+            <guid>https://www.vlive.tv/video/282046</guid>
+            <pubDate>Sat, 23 Apr 2022 10:44:56 GMT</pubDate>
+            <content:encoded><![CDATA[오후 12:47]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220423_62/1650709703521JrFjK_JPEG/upload_94789234304289552774f2c45-157d-4d7b-93e7-0311169c5031.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[얘기할깡현~🙆‍♂️ (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/282051</link>
+            <guid>https://www.vlive.tv/video/282051</guid>
+            <pubDate>Sat, 23 Apr 2022 13:02:29 GMT</pubDate>
+            <content:encoded><![CDATA[오후 12:56]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220423_175/1650718580849OAI6P_JPEG/1bc3444c-c304-11ec-b8ef-d4f5ef5906a4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안농 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/282052</link>
+            <guid>https://www.vlive.tv/video/282052</guid>
+            <pubDate>Sat, 23 Apr 2022 13:02:29 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:00]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/282052/thumb?type=f228_128" length="0" type="image//live/282052/thumb"/>
         </item>
         <item>
             <title><![CDATA[모든 여드름, 등드름 없애는 홈케어 제품 추천 / 피부 좋아지는법❤️(좁쌀여드름 / 모공 / 블랙헤드 / 등 여드름 / 가드름) (V LIVE ─ 일정표)]]></title>
@@ -1029,7 +1060,7 @@
             <guid>https://www.vlive.tv/video/281933</guid>
             <pubDate>Sat, 23 Apr 2022 11:40:51 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:00]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220423_87/1650713785148mdElw_PNG/upload_94793503144416295da40c1d1-3cae-4362-aeb2-815d270941a1.png?type=f228_128" length="0" type="image/png"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220423_28/1650714441323v35XK_PNG/upload_9479417525263705263c8feb0-cfa6-4861-98fa-1571a44b865e.png?type=f228_128" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard (V LIVE 모바일 ─ 일정표)]]></title>
