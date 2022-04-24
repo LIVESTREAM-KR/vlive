@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 05:41:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 06:50:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,13 @@
             <pubDate>Sun, 24 Apr 2022 03:11:58 GMT</pubDate>
             <content:encoded><![CDATA[오전 3:10]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220424_259/1650769817639OLrdh_JPEG/upload_670393850781422861b857743-d40a-431f-89a7-d6c1f3b96f4f.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[롬라니가 생일이라니🦌🎂]]></title>
+            <link>https://www.vlive.tv/video/282067</link>
+            <guid>https://www.vlive.tv/video/282067</guid>
+            <pubDate>Sun, 24 Apr 2022 06:50:21 GMT</pubDate>
+            <content:encoded><![CDATA[오전 6:50]]></content:encoded>
         </item>
     </channel>
 </rss>
