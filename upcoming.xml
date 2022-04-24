@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 07:41:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 08:47:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -28,7 +28,31 @@
             <link>https://www.vlive.tv/video/282067</link>
             <guid>https://www.vlive.tv/video/282067</guid>
             <pubDate>Sun, 24 Apr 2022 06:50:21 GMT</pubDate>
-            <content:encoded><![CDATA[오전 6:50]]></content:encoded>
+            <content:encoded><![CDATA[오전 7:59]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220424_62/1650787152980XFTAR_JPEG/c76abf89-c3a3-11ec-a3bf-505dac8c3639_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🎉D-DAY🎉 3rd ANNIVERSARY🎂]]></title>
+            <link>https://www.vlive.tv/video/282070</link>
+            <guid>https://www.vlive.tv/video/282070</guid>
+            <pubDate>Sun, 24 Apr 2022 08:46:33 GMT</pubDate>
+            <content:encoded><![CDATA[오전 8:09]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220424_86/1650787747455btt10_JPEG/1636633464384690440670f9a7-0fcb-449c-9c14-b9b6d9934e15.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[꼼냥즈가 네모로더 꾸며볼게🐻‍❄️🐱]]></title>
+            <link>https://www.vlive.tv/video/282071</link>
+            <guid>https://www.vlive.tv/video/282071</guid>
+            <pubDate>Sun, 24 Apr 2022 08:46:33 GMT</pubDate>
+            <content:encoded><![CDATA[오전 8:11]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🌸전웅의 아점을 맞혀 보십시오.]]></title>
+            <link>https://www.vlive.tv/video/282072</link>
+            <guid>https://www.vlive.tv/video/282072</guid>
+            <pubDate>Sun, 24 Apr 2022 08:46:33 GMT</pubDate>
+            <content:encoded><![CDATA[오전 8:12]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/282072/thumb?type=f228_128" length="0" type="image//live/282072/thumb"/>
         </item>
     </channel>
 </rss>
