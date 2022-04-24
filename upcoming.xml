@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 15:46:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 16:58:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -232,14 +232,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220424_202/1650811062976U66NB_JPEG/cd1fa570-c3db-11ec-b5d5-d4f5ef590144_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[찬이의 "방" 🐺 Ep. 154]]></title>
-            <link>https://www.vlive.tv/video/282096</link>
-            <guid>https://www.vlive.tv/video/282096</guid>
-            <pubDate>Sun, 24 Apr 2022 15:46:10 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:52]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/282096/thumb?type=f228_128" length="0" type="image//live/282096/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[윤지성(Yoon Jisung) - 'BLOOM' MV TEASER]]></title>
             <link>https://www.vlive.tv/video/281927</link>
             <guid>https://www.vlive.tv/video/281927</guid>
@@ -288,20 +280,36 @@
             <enclosure url="https://v-phinf.pstatic.net/20220425_262/1650812901227xm5Ws_JPEG/93513a98-c3df-11ec-8a91-505dac8c38f5_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[연스으으으읍🔥]]></title>
-            <link>https://www.vlive.tv/video/282097</link>
-            <guid>https://www.vlive.tv/video/282097</guid>
-            <pubDate>Sun, 24 Apr 2022 15:46:10 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:24]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220425_3/1650813886764vy2hk_JPEG/163689404761375688f6a62ab1-4d62-47a5-af81-33e58e103158.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[클났네]]></title>
             <link>https://www.vlive.tv/video/282094</link>
             <guid>https://www.vlive.tv/video/282094</guid>
             <pubDate>Sun, 24 Apr 2022 14:41:35 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:35]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220424_171/1650810058920lpC08_JPEG/16359843806484592386a95deb-658e-46b3-9800-3b234dd59438.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[연스으으으읍🔥]]></title>
+            <link>https://www.vlive.tv/video/282097</link>
+            <guid>https://www.vlive.tv/video/282097</guid>
+            <pubDate>Sun, 24 Apr 2022 15:46:10 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:02]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220425_3/1650813886764vy2hk_JPEG/163689404761375688f6a62ab1-4d62-47a5-af81-33e58e103158.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찬이의 "방" 🐺 Ep. 154]]></title>
+            <link>https://www.vlive.tv/video/282096</link>
+            <guid>https://www.vlive.tv/video/282096</guid>
+            <pubDate>Sun, 24 Apr 2022 15:46:10 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:07]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220425_187/1650816434689WgA8l_JPEG/1738f40b-c3e8-11ec-8a91-505dac8c38f5_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[힝,, 끊어져써ㅜㅠ,,,]]></title>
+            <link>https://www.vlive.tv/video/282098</link>
+            <guid>https://www.vlive.tv/video/282098</guid>
+            <pubDate>Sun, 24 Apr 2022 16:57:50 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:46]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220425_180/1650815910057YMWnN_JPEG/1636042892329228560bba78e7-8dfb-4644-9742-6233b56d347f.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
