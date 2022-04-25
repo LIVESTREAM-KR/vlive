@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 04:02:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 04:56:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[monday]]></title>
+            <link>https://www.vlive.tv/video/282105</link>
+            <guid>https://www.vlive.tv/video/282105</guid>
+            <pubDate>Mon, 25 Apr 2022 04:54:26 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220425_218/16508556414017YKYU_JPEG/upload_949353378599141677f70d012-19fb-48bd-a159-48b9aa6efa0e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio/K-Poppin'] Singlish with DKB]]></title>
             <link>https://www.vlive.tv/video/281844</link>
@@ -398,14 +406,6 @@
             <pubDate>Sun, 24 Apr 2022 03:11:01 GMT</pubDate>
             <content:encoded><![CDATA[OUI ENTERTAINMENT]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220423_102/1650723023716hG4Fe_JPEG/upload_66992626597273705d125c70a-95f0-4700-812a-7999bde84ad7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하잇]]></title>
-            <link>https://www.vlive.tv/video/282065</link>
-            <guid>https://www.vlive.tv/video/282065</guid>
-            <pubDate>Sat, 23 Apr 2022 17:42:39 GMT</pubDate>
-            <content:encoded><![CDATA[위아이 (WEi)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220424_103/1650736695371Bg3RF_JPEG/b583fae6-c32e-11ec-b086-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
