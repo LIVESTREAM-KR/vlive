@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 07:43:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 08:49:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[🥳 HAPPY BON DAY 🥳]]></title>
-            <link>https://m.vlive.tv/video/282109</link>
-            <guid>https://m.vlive.tv/video/282109</guid>
-            <pubDate>Mon, 25 Apr 2022 04:55:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 8:00</span>
-										<span class="txt">청공소년 (Bz_Boys)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220425_283/1650859610417PSzdn_JPEG/upload_949392251016826841fd55a80-de45-4295-9ed9-a687f7b07197.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Radio'n Us / AVOKID 에이보키드)]]></title>
             <link>https://m.vlive.tv/video/281831</link>
@@ -106,6 +96,16 @@
 										오전 4:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220421_239/165052253562913vJA_JPEG/upload_66792020540486291aa9537f2-c01f-427a-bd4f-c8bfb4d2a5bc.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Sound K] Song Express ver.3 with Iris 아이리스]]></title>
+            <link>https://m.vlive.tv/video/281846</link>
+            <guid>https://m.vlive.tv/video/281846</guid>
+            <pubDate>Mon, 25 Apr 2022 08:49:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220421_4/1650521678562jM8v6_JPEG/upload_667912536414626856ad97d8f-0d0e-433b-91ca-c08f145551a7.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
