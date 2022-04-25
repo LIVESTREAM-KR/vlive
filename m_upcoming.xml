@@ -4,39 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 10:47:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 11:41:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Radio'n Us / AVOKID 에이보키드)]]></title>
-            <link>https://m.vlive.tv/video/281831</link>
-            <guid>https://m.vlive.tv/video/281831</guid>
-            <pubDate>Sat, 23 Apr 2022 11:40:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220421_262/1650518048356DMvQe_JPEG/upload_9459774548707093479e50722-8989-4524-9081-f4c150c3f701.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VERIVERY 1ST FULL ALBUM SERIES ‘O’ [ROUND 3 : WHOLE] SHOWCASE]]></title>
-            <link>https://m.vlive.tv/video/281934</link>
-            <guid>https://m.vlive.tv/video/281934</guid>
-            <pubDate>Sat, 23 Apr 2022 11:40:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">VERIVERY</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220422_236/1650606359985NRs6m_JPEG/upload_94686047907753496b1c6fb24-3e22-4ec5-a17c-d30577d8dc94.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[zㅔ대로 준비한 빅 생일파티 🎉]]></title>
-            <link>https://m.vlive.tv/video/282120</link>
-            <guid>https://m.vlive.tv/video/282120</guid>
-            <pubDate>Mon, 25 Apr 2022 07:42:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">MCND</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220425_170/165087031169125LAL_JPEG/upload_94949776929020982c5541182-f42b-49ce-95f4-540a23341f7b.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
             <link>https://m.vlive.tv/video/281840</link>
@@ -106,6 +76,36 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220421_4/1650521678562jM8v6_JPEG/upload_667912536414626856ad97d8f-0d0e-433b-91ca-c08f145551a7.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / Kyung jehwan 경제환)]]></title>
+            <link>https://m.vlive.tv/video/281999</link>
+            <guid>https://m.vlive.tv/video/281999</guid>
+            <pubDate>Mon, 25 Apr 2022 11:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220422_56/1650628013230dulBF_JPEG/upload_94707697822021444b23474f8-2e38-4961-a68f-2e3fcb4423ab.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[E'LAST 3RD MINI ALBUM 'ROAR' COMEBACK V LIVE]]></title>
+            <link>https://m.vlive.tv/video/281966</link>
+            <guid>https://m.vlive.tv/video/281966</guid>
+            <pubDate>Mon, 25 Apr 2022 11:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">E'LAST</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220422_162/1650618560218frDy4_JPEG/upload_946978303545825683e169046-895f-441e-8bda-7922eab87a77.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Radio'n Us / homezone 홈존)]]></title>
+            <link>https://m.vlive.tv/video/281830</link>
+            <guid>https://m.vlive.tv/video/281830</guid>
+            <pubDate>Mon, 25 Apr 2022 11:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220421_150/1650517995268QvP19_JPEG/upload_667875530770975219a32e29b-0417-4921-9cfa-b2b4866e4274.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
