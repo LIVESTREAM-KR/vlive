@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 17:48:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 18:54:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잠못드는 밤에 (비방용)]]></title>
+            <link>https://www.vlive.tv/video/282176</link>
+            <guid>https://www.vlive.tv/video/282176</guid>
+            <pubDate>Mon, 25 Apr 2022 18:52:59 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220426_65/1650910704396KHsSi_JPEG/90067187249368596719ddd31-780f-4fee-a5ff-0e799ca49fef.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤지성(Yoon Jisung) 3rd Mini Album'미로(薇路)' HIGHLIGHT MEDLEY]]></title>
             <link>https://www.vlive.tv/video/282174</link>
@@ -398,14 +406,6 @@
             <pubDate>Mon, 25 Apr 2022 07:41:28 GMT</pubDate>
             <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220422_9/1650627837174cTtqe_JPEG/upload_947075200546007933d58c463-e2f0-4a36-a7b0-d4aacebdd7c1.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VERIVERY - 'Undercover' Official M/V (Original ver.)]]></title>
-            <link>https://www.vlive.tv/video/281976</link>
-            <guid>https://www.vlive.tv/video/281976</guid>
-            <pubDate>Mon, 25 Apr 2022 10:45:33 GMT</pubDate>
-            <content:encoded><![CDATA[VERIVERY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220422_232/1650621250565IAQyx_JPEG/upload_947009663527243260462ee71-ff6c-4ef7-a725-c977ddb143da.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
