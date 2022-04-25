@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 04:56:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 05:42:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Sound K / DKZ)]]></title>
-            <link>https://m.vlive.tv/video/281833</link>
-            <guid>https://m.vlive.tv/video/281833</guid>
-            <pubDate>Sat, 23 Apr 2022 11:40:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220421_153/1650518130184E0GjU_JPEG/upload_94597842231680666fdd39105-901e-44ca-9f61-6cf0d4982100.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Super K-Pop / JUST B 저스트비)]]></title>
             <link>https://m.vlive.tv/video/281998</link>
@@ -106,6 +96,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220421_217/165052143763125CpV_JPEG/upload_94601170405456093be8beb9f-953f-47fe-a81a-4e4a73dda188.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio/K-Poppin'] Writer Yoon Hye Eun 작가 윤혜은]]></title>
+            <link>https://m.vlive.tv/video/281853</link>
+            <guid>https://m.vlive.tv/video/281853</guid>
+            <pubDate>Mon, 25 Apr 2022 05:42:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220421_239/165052253562913vJA_JPEG/upload_66792020540486291aa9537f2-c01f-427a-bd4f-c8bfb4d2a5bc.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

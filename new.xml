@@ -4,17 +4,9 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 04:56:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 05:42:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[monday]]></title>
-            <link>https://www.vlive.tv/video/282105</link>
-            <guid>https://www.vlive.tv/video/282105</guid>
-            <pubDate>Mon, 25 Apr 2022 04:54:26 GMT</pubDate>
-            <content:encoded><![CDATA[sema]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220425_218/16508556414017YKYU_JPEG/upload_949353378599141677f70d012-19fb-48bd-a159-48b9aa6efa0e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio/K-Poppin'] Singlish with DKB]]></title>
             <link>https://www.vlive.tv/video/281844</link>
@@ -22,6 +14,22 @@
             <pubDate>Mon, 25 Apr 2022 04:00:58 GMT</pubDate>
             <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220421_17/1650521570063HqWlW_JPEG/upload_946012733003277034ce6d716-07bc-4f46-bc5f-89f6722c7d40.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / DKZ)]]></title>
+            <link>https://www.vlive.tv/video/281833</link>
+            <guid>https://www.vlive.tv/video/281833</guid>
+            <pubDate>Mon, 25 Apr 2022 05:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220421_153/1650518130184E0GjU_JPEG/upload_94597842231680666fdd39105-901e-44ca-9f61-6cf0d4982100.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[monday]]></title>
+            <link>https://www.vlive.tv/video/282105</link>
+            <guid>https://www.vlive.tv/video/282105</guid>
+            <pubDate>Mon, 25 Apr 2022 04:54:26 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220425_218/16508556414017YKYU_JPEG/upload_949353378599141677f70d012-19fb-48bd-a159-48b9aa6efa0e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영탁(YOUNG TAK) '불쑥이들~ 불후의 명곡 본방사수!']]></title>
@@ -398,14 +406,6 @@
             <pubDate>Sun, 24 Apr 2022 03:11:01 GMT</pubDate>
             <content:encoded><![CDATA[HEYGIRLS (헤이걸스)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220424_259/1650769817639OLrdh_JPEG/upload_670393850781422861b857743-d40a-431f-89a7-d6c1f3b96f4f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[알아 두면 쓸모있는 크랙실버 잡학사전📚 EP.03 #대니리]]></title>
-            <link>https://www.vlive.tv/video/282056</link>
-            <guid>https://www.vlive.tv/video/282056</guid>
-            <pubDate>Sun, 24 Apr 2022 03:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[OUI ENTERTAINMENT]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220423_102/1650723023716hG4Fe_JPEG/upload_66992626597273705d125c70a-95f0-4700-812a-7999bde84ad7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
