@@ -4,9 +4,16 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 05:42:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 06:53:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🐣]]></title>
+            <link>https://www.vlive.tv/video/282118</link>
+            <guid>https://www.vlive.tv/video/282118</guid>
+            <pubDate>Mon, 25 Apr 2022 06:52:05 GMT</pubDate>
+            <content:encoded><![CDATA[예린 (YERIN)]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio/K-Poppin'] Singlish with DKB]]></title>
             <link>https://www.vlive.tv/video/281844</link>
@@ -398,14 +405,6 @@
             <pubDate>Sun, 24 Apr 2022 07:40:10 GMT</pubDate>
             <content:encoded><![CDATA[E'LAST]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220424_62/1650787152980XFTAR_JPEG/c76abf89-c3a3-11ec-a3bf-505dac8c3639_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NO EXCUSES Cover by. HEYGIRLS CHAERIN]]></title>
-            <link>https://www.vlive.tv/video/282066</link>
-            <guid>https://www.vlive.tv/video/282066</guid>
-            <pubDate>Sun, 24 Apr 2022 03:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[HEYGIRLS (헤이걸스)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220424_259/1650769817639OLrdh_JPEG/upload_670393850781422861b857743-d40a-431f-89a7-d6c1f3b96f4f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
