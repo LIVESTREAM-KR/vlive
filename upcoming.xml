@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 13:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 13:57:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -376,14 +376,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220426_53/1650975632339ccREw_JPEG/b66d2fcf-c55a-11ec-9021-48df37ae3fca_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[🆕]]></title>
-            <link>https://www.vlive.tv/video/282232</link>
-            <guid>https://www.vlive.tv/video/282232</guid>
-            <pubDate>Tue, 26 Apr 2022 13:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:27]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/282232/thumb?type=f228_128" length="0" type="image//live/282232/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[우우즈도 네모로더 꾸며볼게🦭🐺]]></title>
             <link>https://www.vlive.tv/video/282219</link>
             <guid>https://www.vlive.tv/video/282219</guid>
@@ -452,8 +444,16 @@
             <link>https://www.vlive.tv/video/282238</link>
             <guid>https://www.vlive.tv/video/282238</guid>
             <pubDate>Tue, 26 Apr 2022 13:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:15]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/282238/thumb?type=f228_128" length="0" type="image//live/282238/thumb"/>
+            <content:encoded><![CDATA[오후 1:45]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220426_103/1650980708524OFkGk_JPEG/b9ae0c55-c566-11ec-912c-48df379cca40_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🆕]]></title>
+            <link>https://www.vlive.tv/video/282232</link>
+            <guid>https://www.vlive.tv/video/282232</guid>
+            <pubDate>Tue, 26 Apr 2022 13:21:10 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:51]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220426_299/1650981099352spdam_JPEG/49cb828c-c567-11ec-a3bf-505dac8c3639_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
