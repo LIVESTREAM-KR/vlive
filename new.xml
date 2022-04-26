@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 02:41:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 04:06:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ASC Live Ep.520 (EPEX / 이펙스)]]></title>
+            <link>https://www.vlive.tv/video/281941</link>
+            <guid>https://www.vlive.tv/video/281941</guid>
+            <pubDate>Tue, 26 Apr 2022 04:05:25 GMT</pubDate>
+            <content:encoded><![CDATA[After School Club │ 애프터스쿨클럽]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220422_200/1650609911102TeIOE_PNG/upload_94689601812065366381c70b2-c700-4516-a810-67a0f9157e2e.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
             <link>https://www.vlive.tv/video/281840</link>
@@ -398,14 +406,6 @@
             <pubDate>Mon, 25 Apr 2022 10:45:33 GMT</pubDate>
             <content:encoded><![CDATA[Woollim Ent]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220425_156/1650877180048ETULv_JPEG/upload_9494332586032194999531404-6f04-4288-a1a4-88771f10e408.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['컴백' 베리베리 동헌(VERIVERY Dongheon) "목표? 음악방송 1위! 팀 더 알리고 싶다"]]></title>
-            <link>https://www.vlive.tv/video/282145</link>
-            <guid>https://www.vlive.tv/video/282145</guid>
-            <pubDate>Mon, 25 Apr 2022 10:45:33 GMT</pubDate>
-            <content:encoded><![CDATA[mydaily]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220425_266/1650880711450xUXOz_JPEG/upload_94960428596248527905f9962-d214-4c86-a2cc-204f9f553f26.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
