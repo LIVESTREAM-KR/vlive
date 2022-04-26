@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 15:48:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 17:03:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘도 밤 산책🌙😅]]></title>
+            <link>https://www.vlive.tv/video/282242</link>
+            <guid>https://www.vlive.tv/video/282242</guid>
+            <pubDate>Tue, 26 Apr 2022 17:02:05 GMT</pubDate>
+            <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220427_49/1650988306995DgND9_JPEG/30716d46-c578-11ec-b8ef-d4f5ef5906a4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[😝]]></title>
             <link>https://www.vlive.tv/video/282239</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 26 Apr 2022 13:20:10 GMT</pubDate>
             <content:encoded><![CDATA[VERIVERY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220426_79/1650978373958hrj0U_JPEG/505fd55b-c561-11ec-a87a-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베리베리 첫 정규앨범을 같이 알아보자!]]></title>
-            <link>https://www.vlive.tv/video/282235</link>
-            <guid>https://www.vlive.tv/video/282235</guid>
-            <pubDate>Tue, 26 Apr 2022 13:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[VERIVERY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220426_268/1650977201999bMHvi_JPEG/c44b756a-c55e-11ec-a87a-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
