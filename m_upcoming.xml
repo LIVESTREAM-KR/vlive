@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 09:45:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 10:46:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[E'LAST 3RD MINI ALBUM 'ROAR' COMEBACK V LIVE]]></title>
-            <link>https://m.vlive.tv/video/281966</link>
-            <guid>https://m.vlive.tv/video/281966</guid>
-            <pubDate>Mon, 25 Apr 2022 11:41:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">E'LAST</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220422_162/1650618560218frDy4_JPEG/upload_946978303545825683e169046-895f-441e-8bda-7922eab87a77.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🎉YUJU SOLO DEBUT 100 DAYS🎉]]></title>
-            <link>https://m.vlive.tv/video/282210</link>
-            <guid>https://m.vlive.tv/video/282210</guid>
-            <pubDate>Tue, 26 Apr 2022 10:47:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">유주 (YUJU)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220426_61/16509672156685Q9fy_JPEG/upload_950448094631840015d0c32ee-4a73-41ad-bc04-421eff319b2c.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Radio'n Us / homezone 홈존)]]></title>
             <link>https://m.vlive.tv/video/281830</link>
@@ -96,6 +76,26 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220421_236/1650521973042AbPOw_JPEG/upload_667915281479243189ccdae42-80a5-4c14-b329-29957e874a14.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[💚🖤Happy birthday to BAMBAM🖤💚]]></title>
+            <link>https://m.vlive.tv/video/282286</link>
+            <guid>https://m.vlive.tv/video/282286</guid>
+            <pubDate>Wed, 27 Apr 2022 10:46:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">BamBam</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220427_23/1651049765132QC4T7_JPEG/upload_95127205482871194d8862924-3dcf-461d-92ca-f4c9cd82ef45.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제44회 원광대학교 패션디자인산업학과 졸업작품 패션쇼]]></title>
+            <link>https://m.vlive.tv/video/281602</link>
+            <guid>https://m.vlive.tv/video/281602</guid>
+            <pubDate>Wed, 27 Apr 2022 10:46:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">VVLIVE</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220418_138/1650236387346YxQ7h_PNG/upload_66505850814109405051709ce-ff56-4e72-b8fc-b470ff942c18.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
