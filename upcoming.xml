@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 15:50:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 17:06:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -600,14 +600,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220427_39/1651068227459B8LeX_JPEG/da8d67d2-c631-11ec-a2ba-48df379cc9e4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김.보.라 <김재현의 보이는 라디오> 영화 '아이스에이지' 볼 때는 역시 뉴에이지 특집!]]></title>
-            <link>https://www.vlive.tv/video/282326</link>
-            <guid>https://www.vlive.tv/video/282326</guid>
-            <pubDate>Wed, 27 Apr 2022 15:49:57 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:50]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/282326/thumb?type=f228_128" length="0" type="image//live/282326/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[[아이씨유(ICU)] 아비니💛]]></title>
             <link>https://www.vlive.tv/video/282321</link>
             <guid>https://www.vlive.tv/video/282321</guid>
@@ -688,20 +680,36 @@
             <enclosure url="https://v-phinf.pstatic.net/20220427_149/1651070764607YqF4g_JPEG/163859075602411033fcc221ee-c069-4132-9e4e-3b7b3556b2f7.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[빵하-]]></title>
-            <link>https://www.vlive.tv/video/282330</link>
-            <guid>https://www.vlive.tv/video/282330</guid>
-            <pubDate>Wed, 27 Apr 2022 15:49:57 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:42]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220428_297/1651074146318aPfpg_JPEG/163949760308887703bca9ce5a-d9c3-4a4e-8b7d-b455ba96a6e8.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[다시왔어용!!ㅠㅠ]]></title>
             <link>https://www.vlive.tv/video/282331</link>
             <guid>https://www.vlive.tv/video/282331</guid>
             <pubDate>Wed, 27 Apr 2022 15:49:57 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:46]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220428_191/16510743837458SyeF_JPEG/13e3742c-c641-11ec-9b1f-505dacfbaa5c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뽀룸 뽀라이브 🐰💕]]></title>
+            <link>https://www.vlive.tv/video/282327</link>
+            <guid>https://www.vlive.tv/video/282327</guid>
+            <pubDate>Wed, 27 Apr 2022 17:05:34 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:52]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220428_55/1651072442577Xly1D_JPEG/163948056564281272491fc1c8-5074-49cb-8895-b914336fd245.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빵하-]]></title>
+            <link>https://www.vlive.tv/video/282330</link>
+            <guid>https://www.vlive.tv/video/282330</guid>
+            <pubDate>Wed, 27 Apr 2022 15:49:57 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220428_297/1651074146318aPfpg_JPEG/163949760308887703bca9ce5a-d9c3-4a4e-8b7d-b455ba96a6e8.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김.보.라 <김재현의 보이는 라디오> 영화 '아이스에이지' 볼 때는 역시 뉴에이지 특집!]]></title>
+            <link>https://www.vlive.tv/video/282326</link>
+            <guid>https://www.vlive.tv/video/282326</guid>
+            <pubDate>Wed, 27 Apr 2022 15:49:57 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:09]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220428_191/16510757648268FQWz_JPEG/741fc3c4-c643-11ec-861a-505dac8c385b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
