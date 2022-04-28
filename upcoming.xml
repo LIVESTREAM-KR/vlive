@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 13:21:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 13:55:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -528,22 +528,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220428_204/1651148812246JRxXd_JPEG/upload_9522854447631874598992d1e-c644-412a-ab90-f5f9917b846d.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[헬로~빨리 들어오슈!]]></title>
-            <link>https://www.vlive.tv/video/282415</link>
-            <guid>https://www.vlive.tv/video/282415</guid>
-            <pubDate>Thu, 28 Apr 2022 13:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:30]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/282415/thumb?type=f228_128" length="0" type="image//live/282415/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[대굴 대굴 굴러서 일본까지2👀]]></title>
-            <link>https://www.vlive.tv/video/282418</link>
-            <guid>https://www.vlive.tv/video/282418</guid>
-            <pubDate>Thu, 28 Apr 2022 13:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:42]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/282418/thumb?type=f228_128" length="0" type="image//live/282418/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[대굴 대굴 굴러서 일본까지 😉]]></title>
             <link>https://www.vlive.tv/video/282417</link>
             <guid>https://www.vlive.tv/video/282417</guid>
@@ -582,6 +566,22 @@
             <pubDate>Thu, 28 Apr 2022 13:20:54 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:16]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220428_205/1651151794837j3zjS_JPEG/4dd02847-c6f4-11ec-b765-d4f5ef5a9532_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대굴 대굴 굴러서 일본까지2👀]]></title>
+            <link>https://www.vlive.tv/video/282418</link>
+            <guid>https://www.vlive.tv/video/282418</guid>
+            <pubDate>Thu, 28 Apr 2022 13:20:54 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:32]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220428_8/1651152767749wAXJg_JPEG/f72cb787-c6f6-11ec-8a91-505dac8c38f5_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헬로~빨리 들어오슈!]]></title>
+            <link>https://www.vlive.tv/video/282415</link>
+            <guid>https://www.vlive.tv/video/282415</guid>
+            <pubDate>Thu, 28 Apr 2022 13:20:54 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:44]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220428_244/1651153485262IDBEg_JPEG/ea648cf4-c6f8-11ec-a2ba-48df379cc9e4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
