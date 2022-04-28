@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 04:52:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 05:58:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA['iKON 2022 CONCERT' SPOT VIDEO]]></title>
+            <link>https://www.vlive.tv/video/282340</link>
+            <guid>https://www.vlive.tv/video/282340</guid>
+            <pubDate>Thu, 28 Apr 2022 05:56:45 GMT</pubDate>
+            <content:encoded><![CDATA[iKON]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220428_71/16511174800676d3t8_JPEG/upload_67385802066139849da7456da-3a1a-4e37-8a55-f757636a152c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / HA:TFELT 핫펠트)]]></title>
+            <link>https://www.vlive.tv/video/281832</link>
+            <guid>https://www.vlive.tv/video/281832</guid>
+            <pubDate>Thu, 28 Apr 2022 05:56:45 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220421_185/1650518089343lPMhq_JPEG/upload_66787665004070797ab95e94e-35df-4cc9-8c52-46789586d7a5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[아임라이브] 딕펑스 '미모사' (DICKPUNKS - Sensitive Flower)]]></title>
             <link>https://www.vlive.tv/video/282343</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 27 Apr 2022 15:49:04 GMT</pubDate>
             <content:encoded><![CDATA[Busters X 버스터즈]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220427_149/1651070764607YqF4g_JPEG/163859075602411033fcc221ee-c069-4132-9e4e-3b7b3556b2f7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TXT (투모로우바이투게더) minisode 2: Thursday's Child Concept Clip 'HATE' - 휴닝카이 (HUENINGKAI)]]></title>
-            <link>https://www.vlive.tv/video/282276</link>
-            <guid>https://www.vlive.tv/video/282276</guid>
-            <pubDate>Wed, 27 Apr 2022 15:49:04 GMT</pubDate>
-            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220427_51/165104514213114S2b_JPEG/upload_673147370974132356d32523e-aec6-48fb-b836-f26c34d0fac6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TXT (투모로우바이투게더) minisode 2: Thursday's Child Concept Clip 'HATE' - 태현 (TAEHYUN)]]></title>
-            <link>https://www.vlive.tv/video/282275</link>
-            <guid>https://www.vlive.tv/video/282275</guid>
-            <pubDate>Wed, 27 Apr 2022 15:49:04 GMT</pubDate>
-            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220427_60/1651045092044zqQt4_JPEG/upload_95124801868076269e340a481-8756-4e00-a804-7a3486a0790c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
