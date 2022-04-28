@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 15:49:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 17:02:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -584,14 +584,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220428_61/1651156460582tRsBV_JPEG/344d6449-c6ff-11ec-9021-48df37ae3fca_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[전최관람가능🐣🐱]]></title>
-            <link>https://www.vlive.tv/video/282422</link>
-            <guid>https://www.vlive.tv/video/282422</guid>
-            <pubDate>Thu, 28 Apr 2022 14:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:35]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/282422/thumb?type=f228_128" length="0" type="image//live/282422/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[SEVENTEEN (세븐틴) 'Face the Sun' Trailer : 13 Inner Shadows - THE 8]]></title>
             <link>https://www.vlive.tv/video/282351</link>
             <guid>https://www.vlive.tv/video/282351</guid>
@@ -614,14 +606,6 @@
             <pubDate>Thu, 28 Apr 2022 15:48:41 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:02]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220428_179/1651137990926H7ndr_JPEG/upload_95217607528240252d7b8a061-18ea-462d-8768-cfadb3c4fb95.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ㅁㅣㅇ]]></title>
-            <link>https://www.vlive.tv/video/282425</link>
-            <guid>https://www.vlive.tv/video/282425</guid>
-            <pubDate>Thu, 28 Apr 2022 15:48:41 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:07]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/282425/thumb?type=f228_128" length="0" type="image//live/282425/thumb"/>
         </item>
         <item>
             <title><![CDATA[진석이의 별빛라디오⭐️]]></title>
@@ -654,6 +638,22 @@
             <pubDate>Thu, 28 Apr 2022 15:48:41 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:46]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220429_30/1651160760583ceoJi_JPEG/d18cc786-c709-11ec-8a91-505dac8c38f5_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ㅁㅣㅇ]]></title>
+            <link>https://www.vlive.tv/video/282425</link>
+            <guid>https://www.vlive.tv/video/282425</guid>
+            <pubDate>Thu, 28 Apr 2022 15:48:41 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:58]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220429_216/1651161495936lgaGx_JPEG/a381e79e-c70b-11ec-b086-505dac8c3721_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전최관람가능🐣🐱]]></title>
+            <link>https://www.vlive.tv/video/282422</link>
+            <guid>https://www.vlive.tv/video/282422</guid>
+            <pubDate>Thu, 28 Apr 2022 14:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:09]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220429_282/1651162196060bpL6m_JPEG/7aeba0f5-c70c-11ec-8a91-505dac8c38f5_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
