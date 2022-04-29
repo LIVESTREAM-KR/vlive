@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 17:46:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 18:52:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인사😽]]></title>
+            <link>https://www.vlive.tv/video/282524</link>
+            <guid>https://www.vlive.tv/video/282524</guid>
+            <pubDate>Fri, 29 Apr 2022 17:00:30 GMT</pubDate>
+            <content:encoded><![CDATA[VIVIZ (비비지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220430_290/1651250949914vzNs8_JPEG/1640393290159996900b5f9101-fb2e-4b11-9d5a-7ef671c430c1.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자기전에 잠깐🌠]]></title>
             <link>https://www.vlive.tv/video/282522</link>
@@ -24,14 +32,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220430_300/1651252207742GieLl_JPEG/4df4d1ce-c7de-11ec-8a91-505dac8c38f5_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인사😽]]></title>
-            <link>https://www.vlive.tv/video/282524</link>
-            <guid>https://www.vlive.tv/video/282524</guid>
-            <pubDate>Fri, 29 Apr 2022 17:00:30 GMT</pubDate>
-            <content:encoded><![CDATA[VIVIZ (비비지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220430_290/1651250949914vzNs8_JPEG/1640393290159996900b5f9101-fb2e-4b11-9d5a-7ef671c430c1.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[☕️]]></title>
             <link>https://www.vlive.tv/video/282518</link>
             <guid>https://www.vlive.tv/video/282518</guid>
@@ -46,14 +46,6 @@
             <pubDate>Fri, 29 Apr 2022 14:41:33 GMT</pubDate>
             <content:encoded><![CDATA[P1Harmony]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220430_230/1651247986416E8e3g_JPEG/aa2cf5bf-c7d4-11ec-a9d0-505dacfba98a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[#OMRR 다시 컴백🌙]]></title>
-            <link>https://www.vlive.tv/video/282523</link>
-            <guid>https://www.vlive.tv/video/282523</guid>
-            <pubDate>Fri, 29 Apr 2022 17:00:30 GMT</pubDate>
-            <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220430_65/1651247789636BBiGI_JPEG/16412339260185953526db7d01-5765-4a62-98f9-62d7b00708ca.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[금요일!💛🐝]]></title>
@@ -406,6 +398,14 @@
             <pubDate>Fri, 29 Apr 2022 09:44:28 GMT</pubDate>
             <content:encoded><![CDATA[BRANDNEW MUSIC]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220422_37/1650615247985jcALU_JPEG/upload_668848459425952417430c0cb-9dd2-40e6-9ca0-63efbcdda9cb.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이석훈(LEESEOKHOON) - GQ GOLF 4월호 비하인드]]></title>
+            <link>https://www.vlive.tv/video/281461</link>
+            <guid>https://www.vlive.tv/video/281461</guid>
+            <pubDate>Fri, 29 Apr 2022 18:50:38 GMT</pubDate>
+            <content:encoded><![CDATA[C9 Entertainment]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220415_18/1650005546747Gk5tz_JPEG/upload_940852547128925131ede2402-bfeb-4d51-9f55-f6a606b9ed70.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

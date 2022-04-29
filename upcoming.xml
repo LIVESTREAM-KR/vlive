@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 17:46:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 18:52:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -592,14 +592,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220430_122/16512466361884d3IP_JPEG/b9cc7848-c7d1-11ec-a12d-505dac8c381b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[#OMRR 다시 컴백🌙]]></title>
-            <link>https://www.vlive.tv/video/282523</link>
-            <guid>https://www.vlive.tv/video/282523</guid>
-            <pubDate>Fri, 29 Apr 2022 17:01:34 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:56]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220430_65/1651247789636BBiGI_JPEG/16412339260185953526db7d01-5765-4a62-98f9-62d7b00708ca.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[기호의 기호 🪐]]></title>
             <link>https://www.vlive.tv/video/282517</link>
             <guid>https://www.vlive.tv/video/282517</guid>
@@ -616,14 +608,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220429_10/1651244197798qvHJo_JPEG/1641198007500317121be9d485-0df9-4453-a57e-09627548bcaf.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인사😽]]></title>
-            <link>https://www.vlive.tv/video/282524</link>
-            <guid>https://www.vlive.tv/video/282524</guid>
-            <pubDate>Fri, 29 Apr 2022 17:01:34 GMT</pubDate>
-            <content:encoded><![CDATA[오후 4:49]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220430_290/1651250949914vzNs8_JPEG/1640393290159996900b5f9101-fb2e-4b11-9d5a-7ef671c430c1.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[애젼해 할 말 있어요🐰🦊]]></title>
             <link>https://www.vlive.tv/video/282520</link>
             <guid>https://www.vlive.tv/video/282520</guid>
@@ -638,6 +622,14 @@
             <pubDate>Fri, 29 Apr 2022 17:01:34 GMT</pubDate>
             <content:encoded><![CDATA[오후 5:15]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220430_170/1651252526176E1D4h_JPEG/fef0bdff-c7de-11ec-a12d-505dac8c381b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인사😽]]></title>
+            <link>https://www.vlive.tv/video/282524</link>
+            <guid>https://www.vlive.tv/video/282524</guid>
+            <pubDate>Fri, 29 Apr 2022 17:01:34 GMT</pubDate>
+            <content:encoded><![CDATA[오후 6:09]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220430_290/1651250949914vzNs8_JPEG/1640393290159996900b5f9101-fb2e-4b11-9d5a-7ef671c430c1.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
