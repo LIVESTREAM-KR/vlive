@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 04:09:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 05:00:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Sema's B-Day]]></title>
-            <link>https://m.vlive.tv/video/282447</link>
-            <guid>https://m.vlive.tv/video/282447</guid>
-            <pubDate>Fri, 29 Apr 2022 04:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 4:30</span>
-										<span class="txt">sema</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220429_281/1651204917348QgXbh_JPEG/upload_6747449377563090742d55b33-c295-4fcd-ada3-775f68d25a7d.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Sound K] Edu-K-tion with Hiss 히스]]></title>
-            <link>https://m.vlive.tv/video/281847</link>
-            <guid>https://m.vlive.tv/video/281847</guid>
-            <pubDate>Wed, 27 Apr 2022 09:45:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220421_165/16505217230603oOPs_JPEG/upload_946014218023231226c8134a9-d3cd-4c5d-b4d5-6262a43275cb.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Super K-Pop] Topic Song with BÉBE YANA , Jogon of 9001]]></title>
             <link>https://m.vlive.tv/video/281850</link>
@@ -86,6 +66,26 @@
 										오전 10:00</span>
 										<span class="txt">BamBam</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220427_23/1651049765132QC4T7_JPEG/upload_95127205482871194d8862924-3dcf-461d-92ca-f4c9cd82ef45.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Radio'n Us / Lee Su Jeong 이수정)]]></title>
+            <link>https://m.vlive.tv/video/282306</link>
+            <guid>https://m.vlive.tv/video/282306</guid>
+            <pubDate>Fri, 29 Apr 2022 05:00:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220427_233/1651058175898rVtzg_JPEG/upload_95137822595552665c2676ad4-62e0-41e7-9de6-9d980000abc9.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Happy ERIN Day' LIVE 🎂]]></title>
+            <link>https://m.vlive.tv/video/282388</link>
+            <guid>https://m.vlive.tv/video/282388</guid>
+            <pubDate>Fri, 29 Apr 2022 05:00:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 2:00</span>
+										<span class="txt">SKYLE</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220428_227/1651137130417f8WU4_JPEG/upload_95214359407481706922c1e18-61e1-46a9-926f-7284077b78ce.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
