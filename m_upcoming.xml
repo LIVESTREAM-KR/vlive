@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 11:43:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 13:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[유노랑 놀자♥]]></title>
-            <link>https://m.vlive.tv/video/282371</link>
-            <guid>https://m.vlive.tv/video/282371</guid>
-            <pubDate>Thu, 28 Apr 2022 08:49:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 12:00</span>
-										<span class="txt">KINGDOM</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220428_81/1651131974310CxWCL_JPEG/upload_9521143118677303000354e00-eb2e-4a02-af3e-08fe10b9fa2c.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
             <link>https://m.vlive.tv/video/282377</link>
@@ -76,6 +66,26 @@
 										오전 11:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220427_233/1651058175898rVtzg_JPEG/upload_95137822595552665c2676ad4-62e0-41e7-9de6-9d980000abc9.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Happy ERIN Day' LIVE 🎂]]></title>
+            <link>https://m.vlive.tv/video/282388</link>
+            <guid>https://m.vlive.tv/video/282388</guid>
+            <pubDate>Fri, 29 Apr 2022 13:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 2:00</span>
+										<span class="txt">SKYLE</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220428_227/1651137130417f8WU4_JPEG/upload_95214359407481706922c1e18-61e1-46a9-926f-7284077b78ce.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
+            <link>https://m.vlive.tv/video/282378</link>
+            <guid>https://m.vlive.tv/video/282378</guid>
+            <pubDate>Fri, 29 Apr 2022 13:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220428_1/1651134483565syGyM_JPEG/upload_67404040847136269834c40b9-ff53-48a9-b518-c61ed7535df9.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
