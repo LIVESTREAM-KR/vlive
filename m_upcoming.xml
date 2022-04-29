@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 14:42:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 15:48:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,16 @@
 										오후 2:00</span>
 										<span class="txt">SKYLE</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220428_227/1651137130417f8WU4_JPEG/upload_95214359407481706922c1e18-61e1-46a9-926f-7284077b78ce.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
+            <link>https://m.vlive.tv/video/282378</link>
+            <guid>https://m.vlive.tv/video/282378</guid>
+            <pubDate>Fri, 29 Apr 2022 15:48:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220428_1/1651134483565syGyM_JPEG/upload_67404040847136269834c40b9-ff53-48a9-b518-c61ed7535df9.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
