@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 06:51:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 07:41:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -142,6 +142,22 @@
             <pubDate>Sat, 30 Apr 2022 06:50:48 GMT</pubDate>
             <content:encoded><![CDATA[오전 6:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220428_164/1651123468854mOmgD_PNG/upload_67392783254492129383b5f6d-aa1d-4ca0-bf69-da729de34931.png?type=f228_128" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[🧸]]></title>
+            <link>https://www.vlive.tv/video/282537</link>
+            <guid>https://www.vlive.tv/video/282537</guid>
+            <pubDate>Sat, 30 Apr 2022 07:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[오전 7:29]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/282537/thumb?type=f228_128" length="0" type="image//live/282537/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[Happy Ireh's Day 🎂 | 이레네 공방 | 플로리 체험, 탑꾸]]></title>
+            <link>https://www.vlive.tv/video/282467</link>
+            <guid>https://www.vlive.tv/video/282467</guid>
+            <pubDate>Sat, 30 Apr 2022 07:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[오전 7:30]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220430_165/1651291899156LXOWw_JPEG/upload_67486662900138030ede39f78-ca30-47be-978d-91a3a6165917.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
