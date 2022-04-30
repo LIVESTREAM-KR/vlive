@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 04:01:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 04:54:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[병곤이랑🔥]]></title>
+            <link>https://www.vlive.tv/video/282532</link>
+            <guid>https://www.vlive.tv/video/282532</guid>
+            <pubDate>Sat, 30 Apr 2022 04:53:25 GMT</pubDate>
+            <content:encoded><![CDATA[CIX]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/282532/thumb?type=f228_128" length="0" type="image//live/282532/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[하빛이의 찹쌀떡 이야기🐰]]></title>
+            <link>https://www.vlive.tv/video/282531</link>
+            <guid>https://www.vlive.tv/video/282531</guid>
+            <pubDate>Sat, 30 Apr 2022 04:53:25 GMT</pubDate>
+            <content:encoded><![CDATA[TRENDZ (트렌드지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220430_195/1651288577976JCncF_JPEG/upload_9536805274487348142d47a73-a576-4317-b7d4-cf46faca4962.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[DKB(다크비) - Rollercoaster (왜 만나) (SHOWCASE ver.)]]></title>
             <link>https://www.vlive.tv/video/282514</link>
@@ -110,22 +126,6 @@
             <pubDate>Sat, 30 Apr 2022 02:36:55 GMT</pubDate>
             <content:encoded><![CDATA[MBC 예능]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220430_199/1651278072873T014d_JPEG/upload_9535779937782135381c5e512-f4dc-4262-b004-efafdf9bfc8a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인사😽]]></title>
-            <link>https://www.vlive.tv/video/282524</link>
-            <guid>https://www.vlive.tv/video/282524</guid>
-            <pubDate>Fri, 29 Apr 2022 17:00:40 GMT</pubDate>
-            <content:encoded><![CDATA[VIVIZ (비비지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220430_290/1651250949914vzNs8_JPEG/1640393290159996900b5f9101-fb2e-4b11-9d5a-7ef671c430c1.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자기전에 잠깐🌠]]></title>
-            <link>https://www.vlive.tv/video/282522</link>
-            <guid>https://www.vlive.tv/video/282522</guid>
-            <pubDate>Fri, 29 Apr 2022 17:00:40 GMT</pubDate>
-            <content:encoded><![CDATA[DIA]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220430_170/1651252526176E1D4h_JPEG/fef0bdff-c7de-11ec-a12d-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 04:01:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 04:54:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,6 +110,22 @@
             <pubDate>Sat, 30 Apr 2022 04:00:51 GMT</pubDate>
             <content:encoded><![CDATA[오전 3:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220429_212/1651240685919GsY5g_PNG/upload_67509276526599426f5f548ce-4bf7-483a-a87c-51f095ebbbf1.png?type=f228_128" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[하빛이의 찹쌀떡 이야기🐰]]></title>
+            <link>https://www.vlive.tv/video/282531</link>
+            <guid>https://www.vlive.tv/video/282531</guid>
+            <pubDate>Sat, 30 Apr 2022 04:54:11 GMT</pubDate>
+            <content:encoded><![CDATA[오전 4:01]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220430_195/1651288577976JCncF_JPEG/upload_9536805274487348142d47a73-a576-4317-b7d4-cf46faca4962.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[병곤이랑🔥]]></title>
+            <link>https://www.vlive.tv/video/282532</link>
+            <guid>https://www.vlive.tv/video/282532</guid>
+            <pubDate>Sat, 30 Apr 2022 04:54:11 GMT</pubDate>
+            <content:encoded><![CDATA[오전 4:19]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/282532/thumb?type=f228_128" length="0" type="image//live/282532/thumb"/>
         </item>
     </channel>
 </rss>
