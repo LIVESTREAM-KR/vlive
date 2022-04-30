@@ -4,9 +4,19 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 09:44:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 10:45:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소연이의 미리 생일파티🎂]]></title>
+            <link>https://m.vlive.tv/video/282550</link>
+            <guid>https://m.vlive.tv/video/282550</guid>
+            <pubDate>Sat, 30 Apr 2022 10:45:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">LABOUM</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220430_279/1651314416983299CR_PNG/upload_67583961508736872a3716cd4-83ab-4d3a-bb84-dec7b198fe04.png?type=f274_154" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
             <link>https://m.vlive.tv/video/282377</link>
@@ -96,16 +106,6 @@
 										오전 4:00</span>
 										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220429_168/1651208578271Lx5mJ_PNG/upload_9527652449817604253e50907-26f0-4367-a1ea-95622dbc5948.png?type=f274_154" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Sound K] Mystery Mix with BOiTELLO 보이텔로]]></title>
-            <link>https://m.vlive.tv/video/282383</link>
-            <guid>https://m.vlive.tv/video/282383</guid>
-            <pubDate>Sat, 30 Apr 2022 02:37:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220428_173/1651134697947dupGw_JPEG/upload_67404271535762647732fbcd1-fc42-4fdc-ac33-14afcaf9ba19.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
