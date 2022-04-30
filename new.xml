@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 16:58:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 17:44:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🌸]]></title>
+            <link>https://www.vlive.tv/video/282574</link>
+            <guid>https://www.vlive.tv/video/282574</guid>
+            <pubDate>Sat, 30 Apr 2022 17:42:47 GMT</pubDate>
+            <content:encoded><![CDATA[KWON EUN BI]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220501_83/1651339819908wbq3o_JPEG/188c18fc-c8ab-11ec-8a91-505dac8c38f5_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[🥹]]></title>
             <link>https://www.vlive.tv/video/282573</link>
@@ -398,14 +406,6 @@
             <pubDate>Sat, 30 Apr 2022 03:59:45 GMT</pubDate>
             <content:encoded><![CDATA[다크비(DKB)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220429_212/1651240685919GsY5g_PNG/upload_67509276526599426f5f548ce-4bf7-483a-a87c-51f095ebbbf1.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[DKB(다크비) - Bestie (SHOWCASE ver.)]]></title>
-            <link>https://www.vlive.tv/video/282511</link>
-            <guid>https://www.vlive.tv/video/282511</guid>
-            <pubDate>Sat, 30 Apr 2022 03:59:45 GMT</pubDate>
-            <content:encoded><![CDATA[다크비(DKB)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220429_20/1651239341932h7GIJ_PNG/upload_9531904825917262462822d66-7530-4901-8421-b93b102b36af.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
