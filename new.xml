@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 15:46:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 16:58:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🥹]]></title>
+            <link>https://www.vlive.tv/video/282573</link>
+            <guid>https://www.vlive.tv/video/282573</guid>
+            <pubDate>Sat, 30 Apr 2022 16:56:52 GMT</pubDate>
+            <content:encoded><![CDATA[KWON EUN BI]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220501_28/1651337342092feRD9_JPEG/3a62df75-c8a5-11ec-8726-d4f5ef58ac88_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해피 이레 데이💜]]></title>
             <link>https://www.vlive.tv/video/282571</link>
@@ -398,14 +406,6 @@
             <pubDate>Sat, 30 Apr 2022 03:59:45 GMT</pubDate>
             <content:encoded><![CDATA[다크비(DKB)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220429_20/1651239341932h7GIJ_PNG/upload_9531904825917262462822d66-7530-4901-8421-b93b102b36af.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[DKB(다크비) - Sober (안취해) (SHOWCASE ver.)]]></title>
-            <link>https://www.vlive.tv/video/282508</link>
-            <guid>https://www.vlive.tv/video/282508</guid>
-            <pubDate>Sat, 30 Apr 2022 03:59:45 GMT</pubDate>
-            <content:encoded><![CDATA[다크비(DKB)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220429_87/1651237992756c1RYr_PNG/upload_95317670448216313c3752ecb-b778-4c74-ae87-dbcc2ac03c0e.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
