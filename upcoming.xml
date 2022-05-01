@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 17:45:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 18:49:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -376,14 +376,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220502_210/1651421661357M7xho_JPEG/upload_95501387299545149ab640ebf-c93f-48cf-b049-a97e5361e394.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[#OMRR 칠링칠링 썬데이💛🐝]]></title>
-            <link>https://www.vlive.tv/video/282623</link>
-            <guid>https://www.vlive.tv/video/282623</guid>
-            <pubDate>Sun, 01 May 2022 16:58:57 GMT</pubDate>
-            <content:encoded><![CDATA[오후 4:15]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220502_79/16514217506733Ra0I_JPEG/164210144678711606254a0f5e-36d0-4a73-9a79-09e20fa9c278.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[잘자요~🖤]]></title>
             <link>https://www.vlive.tv/video/282624</link>
             <guid>https://www.vlive.tv/video/282624</guid>
@@ -398,6 +390,14 @@
             <pubDate>Sun, 01 May 2022 17:44:38 GMT</pubDate>
             <content:encoded><![CDATA[오후 5:03]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220502_254/1651424599321RoRVD_JPEG/ef1d9979-c96f-11ec-8726-d4f5ef58ac88_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#OMRR 칠링칠링 썬데이💛🐝]]></title>
+            <link>https://www.vlive.tv/video/282623</link>
+            <guid>https://www.vlive.tv/video/282623</guid>
+            <pubDate>Sun, 01 May 2022 16:58:57 GMT</pubDate>
+            <content:encoded><![CDATA[오후 6:10]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220502_79/16514217506733Ra0I_JPEG/164210144678711606254a0f5e-36d0-4a73-9a79-09e20fa9c278.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
