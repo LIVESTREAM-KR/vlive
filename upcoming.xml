@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 09:45:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 10:46:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,14 +104,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220501_87/1651395432791B43Nc_JPEG/767fbe83-c92c-11ec-a0e5-505dac8c3607_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[B1A4 신우 라이브]]></title>
-            <link>https://www.vlive.tv/video/282593</link>
-            <guid>https://www.vlive.tv/video/282593</guid>
-            <pubDate>Sun, 01 May 2022 09:44:35 GMT</pubDate>
-            <content:encoded><![CDATA[오전 8:57]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/282593/thumb?type=f228_128" length="0" type="image//live/282593/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[동동(蝀)하다 - EP.16 동동이랑 드라이브 다녀올래현?]]></title>
             <link>https://www.vlive.tv/video/282484</link>
             <guid>https://www.vlive.tv/video/282484</guid>
@@ -158,6 +150,30 @@
             <pubDate>Sun, 01 May 2022 08:46:56 GMT</pubDate>
             <content:encoded><![CDATA[오전 9:39]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220501_282/1651397941322TshpD_JPEG/c3afede2-c931-11ec-a0e5-505dac8c3607_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GO! 신원 #09 : V-LOG (프리랜서 브이로그│ 카페 / 잔업 / 기타 연습 /  셀프 주유 / 한강 소풍 / 취미 /  양모 펠트 / 오리배 / 먹방 / 피자)]]></title>
+            <link>https://www.vlive.tv/video/282290</link>
+            <guid>https://www.vlive.tv/video/282290</guid>
+            <pubDate>Sun, 01 May 2022 10:45:41 GMT</pubDate>
+            <content:encoded><![CDATA[오전 10:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220429_28/1651244277153sfisF_JPEG/upload_9513014183915131348c6b558-314e-4a9b-b073-81a964553092.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안녕하세요! 탑쏴리입니다😎]]></title>
+            <link>https://www.vlive.tv/video/282596</link>
+            <guid>https://www.vlive.tv/video/282596</guid>
+            <pubDate>Sun, 01 May 2022 10:45:41 GMT</pubDate>
+            <content:encoded><![CDATA[오전 10:25]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220501_171/1651400758808IEQDE_JPEG/e395f5a6-c938-11ec-b5d5-d4f5ef590144_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안녕하세요 탑쏴리입니다😎]]></title>
+            <link>https://www.vlive.tv/video/282597</link>
+            <guid>https://www.vlive.tv/video/282597</guid>
+            <pubDate>Sun, 01 May 2022 10:45:41 GMT</pubDate>
+            <content:encoded><![CDATA[오전 10:28]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/282597/thumb?type=f228_128" length="0" type="image//live/282597/thumb"/>
         </item>
     </channel>
 </rss>
