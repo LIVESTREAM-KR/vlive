@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 04:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 05:04:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[와플 먹을거야ㅎㅎ🦊]]></title>
+            <link>https://www.vlive.tv/video/282578</link>
+            <guid>https://www.vlive.tv/video/282578</guid>
+            <pubDate>Sun, 01 May 2022 05:03:12 GMT</pubDate>
+            <content:encoded><![CDATA[DRIPPIN]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/282578/thumb?type=f228_128" length="0" type="image//live/282578/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[해남주 또왔다]]></title>
+            <link>https://www.vlive.tv/video/282577</link>
+            <guid>https://www.vlive.tv/video/282577</guid>
+            <pubDate>Sun, 01 May 2022 05:03:12 GMT</pubDate>
+            <content:encoded><![CDATA[Apink]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220501_257/1651380418432LSgbR_JPEG/89e61b4a-c909-11ec-b8ef-d4f5ef5906a4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[알아 두면 쓸모있는 크랙실버 잡학사전📚 EP.04 #오은철]]></title>
             <link>https://www.vlive.tv/video/282558</link>
@@ -110,22 +126,6 @@
             <pubDate>Sat, 30 Apr 2022 13:02:39 GMT</pubDate>
             <content:encoded><![CDATA[LIZ ENT]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220430_42/1651323035480cdodY_JPEG/164198635446811112dc55099f-e068-4745-a1c9-dee122882297.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🐧]]></title>
-            <link>https://www.vlive.tv/video/282561</link>
-            <guid>https://www.vlive.tv/video/282561</guid>
-            <pubDate>Sat, 30 Apr 2022 13:02:39 GMT</pubDate>
-            <content:encoded><![CDATA[E'LAST]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220430_22/16513222828984TrwS_JPEG/733747214147618129bb78b58-34bf-43ab-987b-66b20f4a0ff9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세흔 live 🌰]]></title>
-            <link>https://www.vlive.tv/video/282562</link>
-            <guid>https://www.vlive.tv/video/282562</guid>
-            <pubDate>Sat, 30 Apr 2022 13:02:39 GMT</pubDate>
-            <content:encoded><![CDATA[걸카인드(GIRLKIND)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220430_243/1651322326555zmbMg_JPEG/1641107205392700507c3d961f-a7a9-4862-98a3-f86521f182a5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

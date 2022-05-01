@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 04:21:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 05:04:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Sun, 01 May 2022 03:00:57 GMT</pubDate>
             <content:encoded><![CDATA[오전 3:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220430_86/1651320771833Y32HN_JPEG/upload_95400485573395672002ffece-c127-4a67-8196-e9affbd08c81.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[해남주 또왔다]]></title>
+            <link>https://www.vlive.tv/video/282577</link>
+            <guid>https://www.vlive.tv/video/282577</guid>
+            <pubDate>Sun, 01 May 2022 05:03:56 GMT</pubDate>
+            <content:encoded><![CDATA[오전 4:46]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220501_257/1651380418432LSgbR_JPEG/89e61b4a-c909-11ec-b8ef-d4f5ef5906a4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[와플 먹을거야ㅎㅎ🦊]]></title>
+            <link>https://www.vlive.tv/video/282578</link>
+            <guid>https://www.vlive.tv/video/282578</guid>
+            <pubDate>Sun, 01 May 2022 05:03:56 GMT</pubDate>
+            <content:encoded><![CDATA[오전 4:50]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/282578/thumb?type=f228_128" length="0" type="image//live/282578/thumb"/>
         </item>
     </channel>
 </rss>
