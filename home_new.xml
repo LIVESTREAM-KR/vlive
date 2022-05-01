@@ -4,9 +4,33 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 05:04:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 05:45:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안녕]]></title>
+            <link>https://www.vlive.tv/video/282583</link>
+            <guid>https://www.vlive.tv/video/282583</guid>
+            <pubDate>Sun, 01 May 2022 05:44:20 GMT</pubDate>
+            <content:encoded><![CDATA[Golden Child]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/282583/thumb?type=f228_128" length="0" type="image//live/282583/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[샌프란시스코에서><]]></title>
+            <link>https://www.vlive.tv/video/282581</link>
+            <guid>https://www.vlive.tv/video/282581</guid>
+            <pubDate>Sun, 01 May 2022 05:44:20 GMT</pubDate>
+            <content:encoded><![CDATA[CIX]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/282581/thumb?type=f228_128" length="0" type="image//live/282581/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[크리 모여라📢 미미 생일 파티로! 🎂🎊🎁]]></title>
+            <link>https://www.vlive.tv/video/282580</link>
+            <guid>https://www.vlive.tv/video/282580</guid>
+            <pubDate>Sun, 01 May 2022 05:44:20 GMT</pubDate>
+            <content:encoded><![CDATA[OH MY GIRL]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/282580/thumb?type=f228_128" length="0" type="image//live/282580/thumb"/>
+        </item>
         <item>
             <title><![CDATA[와플 먹을거야ㅎㅎ🦊]]></title>
             <link>https://www.vlive.tv/video/282578</link>
@@ -102,30 +126,6 @@
             <pubDate>Sat, 30 Apr 2022 15:45:24 GMT</pubDate>
             <content:encoded><![CDATA[KINGDOM]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220501_83/1651332479496xM0Hv_JPEG/8081a3fe-c893-11ec-a87a-505dac8c35ff_06.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Ciipher] 토밤😝]]></title>
-            <link>https://www.vlive.tv/video/282568</link>
-            <guid>https://www.vlive.tv/video/282568</guid>
-            <pubDate>Sat, 30 Apr 2022 13:02:39 GMT</pubDate>
-            <content:encoded><![CDATA[싸이퍼(Ciipher)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220430_36/1651327653542e4pYk_JPEG/c5733ba8-c88d-11ec-9021-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진호 - MAGAZINE HO #44 'Good-Bye Days / Yui']]></title>
-            <link>https://www.vlive.tv/video/282570</link>
-            <guid>https://www.vlive.tv/video/282570</guid>
-            <pubDate>Sat, 30 Apr 2022 14:41:16 GMT</pubDate>
-            <content:encoded><![CDATA[PENTAGON]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220430_28/1651327264480ACJAu_JPEG/upload_954069958361609408371dd37-ee80-4880-adf6-0c0a9a225086.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DU🐱🐰]]></title>
-            <link>https://www.vlive.tv/video/282566</link>
-            <guid>https://www.vlive.tv/video/282566</guid>
-            <pubDate>Sat, 30 Apr 2022 13:02:39 GMT</pubDate>
-            <content:encoded><![CDATA[LIZ ENT]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220430_42/1651323035480cdodY_JPEG/164198635446811112dc55099f-e068-4745-a1c9-dee122882297.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

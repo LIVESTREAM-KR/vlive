@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 05:04:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 05:45:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,30 @@
             <pubDate>Sun, 01 May 2022 05:03:56 GMT</pubDate>
             <content:encoded><![CDATA[오전 4:50]]></content:encoded>
             <enclosure url="https://vlive-thumb.pstatic.net/live/282578/thumb?type=f228_128" length="0" type="image//live/282578/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[크리 모여라📢 미미 생일 파티로! 🎂🎊🎁]]></title>
+            <link>https://www.vlive.tv/video/282580</link>
+            <guid>https://www.vlive.tv/video/282580</guid>
+            <pubDate>Sun, 01 May 2022 05:45:21 GMT</pubDate>
+            <content:encoded><![CDATA[오전 5:15]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/282580/thumb?type=f228_128" length="0" type="image//live/282580/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[샌프란시스코에서><]]></title>
+            <link>https://www.vlive.tv/video/282581</link>
+            <guid>https://www.vlive.tv/video/282581</guid>
+            <pubDate>Sun, 01 May 2022 05:45:21 GMT</pubDate>
+            <content:encoded><![CDATA[오전 5:15]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/282581/thumb?type=f228_128" length="0" type="image//live/282581/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[안녕]]></title>
+            <link>https://www.vlive.tv/video/282583</link>
+            <guid>https://www.vlive.tv/video/282583</guid>
+            <pubDate>Sun, 01 May 2022 05:45:21 GMT</pubDate>
+            <content:encoded><![CDATA[오전 5:31]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/282583/thumb?type=f228_128" length="0" type="image//live/282583/thumb"/>
         </item>
     </channel>
 </rss>
