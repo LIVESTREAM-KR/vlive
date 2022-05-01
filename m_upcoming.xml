@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 11:40:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 13:05:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -58,6 +58,16 @@
             <enclosure url="https://v-phinf.pstatic.net/20220429_200/16512139848730sg3L_JPEG/upload_95293670953203780c466bc9f-ae18-473b-81bb-ab5bb1c0d428.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[로켓펀치 1000일 됐어요🚀❤]]></title>
+            <link>https://m.vlive.tv/video/282606</link>
+            <guid>https://m.vlive.tv/video/282606</guid>
+            <pubDate>Sun, 01 May 2022 13:04:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">Rocket Punch</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220501_185/1651406414171HV6oa_JPEG/upload_954842393506309646dab7907-69f5-4cb8-afc8-948067b14830.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Arirang Radio (Radio'n Us / Lee Su Jeong 이수정)]]></title>
             <link>https://m.vlive.tv/video/282306</link>
             <guid>https://m.vlive.tv/video/282306</guid>
@@ -96,16 +106,6 @@
 										오전 4:00</span>
 										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220429_168/1651208578271Lx5mJ_PNG/upload_9527652449817604253e50907-26f0-4367-a1ea-95622dbc5948.png?type=f274_154" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Sound K] Mystery Mix with BOiTELLO 보이텔로]]></title>
-            <link>https://m.vlive.tv/video/282383</link>
-            <guid>https://m.vlive.tv/video/282383</guid>
-            <pubDate>Sat, 30 Apr 2022 15:46:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220428_173/1651134697947dupGw_JPEG/upload_67404271535762647732fbcd1-fc42-4fdc-ac33-14afcaf9ba19.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
