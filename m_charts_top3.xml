@@ -4,9 +4,17 @@
         <title>V LIVE 모바일 ─ CHARTS </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 10:46:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 11:40:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안녕하세요! 탑쏴리입니다😎]]></title>
+            <link>https://m.vlive.tv/video/282597</link>
+            <guid>https://m.vlive.tv/video/282597</guid>
+            <pubDate>Sun, 01 May 2022 11:40:02 GMT</pubDate>
+            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220501_98/1651404109915qI4ny_JPEG/upload_95483838094592920bb291928-1063-47bf-850d-ded5179254fb.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뿅😊]]></title>
             <link>https://m.vlive.tv/video/281536</link>
@@ -22,14 +30,6 @@
             <pubDate>Sat, 30 Apr 2022 15:46:05 GMT</pubDate>
             <content:encoded><![CDATA[MONSTA X]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220430_263/1651321703414oFb6j_JPEG/a2be9284-c880-11ec-a0e5-505dac8c3607_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이돌 필수 덕목 제 3조 4장 강의(이어폰 필수)]]></title>
-            <link>https://m.vlive.tv/video/282544</link>
-            <guid>https://m.vlive.tv/video/282544</guid>
-            <pubDate>Sat, 30 Apr 2022 14:41:46 GMT</pubDate>
-            <content:encoded><![CDATA[NMIXX]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220430_122/1651314209390GRRXE_JPEG/9def352d-c86e-11ec-8726-d4f5ef58ac88_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
