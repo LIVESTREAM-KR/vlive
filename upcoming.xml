@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 06:51:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 07:41:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,26 +32,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20220501_249/1651384795225dEVov_JPEG/50c40dda-c913-11ec-a9d0-505dacfba98a_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[🎡Welcome to ITZY LAND🎠]]></title>
-            <link>https://www.vlive.tv/video/282584</link>
-            <guid>https://www.vlive.tv/video/282584</guid>
-            <pubDate>Sun, 01 May 2022 06:50:59 GMT</pubDate>
-            <content:encoded><![CDATA[오전 6:00]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[샌프란시스코에서><]]></title>
             <link>https://www.vlive.tv/video/282581</link>
             <guid>https://www.vlive.tv/video/282581</guid>
             <pubDate>Sun, 01 May 2022 05:45:21 GMT</pubDate>
             <content:encoded><![CDATA[오전 6:23]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220501_152/1651386222274gLU5A_JPEG/c41078ac-c916-11ec-b765-d4f5ef5a9532_03.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠깐 만나요 🤭🌊👨‍✈️🧜‍♂️]]></title>
-            <link>https://www.vlive.tv/video/282585</link>
-            <guid>https://www.vlive.tv/video/282585</guid>
-            <pubDate>Sun, 01 May 2022 06:50:59 GMT</pubDate>
-            <content:encoded><![CDATA[오전 6:25]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[크리 모여라📢 미미 생일 파티로! 🎂🎊🎁]]></title>
@@ -62,19 +48,36 @@
             <enclosure url="https://v-phinf.pstatic.net/20220501_226/1651386767649gPYke_JPEG/ca981d26-c917-11ec-a3bf-505dac8c3639_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이렇게 좋은 날은 P1ece랑💕]]></title>
-            <link>https://www.vlive.tv/video/282586</link>
-            <guid>https://www.vlive.tv/video/282586</guid>
-            <pubDate>Sun, 01 May 2022 06:50:59 GMT</pubDate>
-            <content:encoded><![CDATA[오전 6:43]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[안녕]]></title>
             <link>https://www.vlive.tv/video/282583</link>
             <guid>https://www.vlive.tv/video/282583</guid>
             <pubDate>Sun, 01 May 2022 05:45:21 GMT</pubDate>
             <content:encoded><![CDATA[오전 6:46]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220501_141/16513876099472zwAc_JPEG/049f3d2c-c91a-11ec-b086-505dac8c3721_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠깐 만나요 🤭🌊👨‍✈️🧜‍♂️]]></title>
+            <link>https://www.vlive.tv/video/282585</link>
+            <guid>https://www.vlive.tv/video/282585</guid>
+            <pubDate>Sun, 01 May 2022 06:50:59 GMT</pubDate>
+            <content:encoded><![CDATA[오전 7:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220501_251/165138845839537pEM_JPEG/1c74658d-c91c-11ec-a2ba-48df379cc9e4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이렇게 좋은 날은 P1ece랑💕]]></title>
+            <link>https://www.vlive.tv/video/282586</link>
+            <guid>https://www.vlive.tv/video/282586</guid>
+            <pubDate>Sun, 01 May 2022 06:50:59 GMT</pubDate>
+            <content:encoded><![CDATA[오전 7:09]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220501_5/1651388946295zfjVB_JPEG/3b445099-c91d-11ec-b086-505dac8c3721_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE] 십분만]]></title>
+            <link>https://www.vlive.tv/video/282588</link>
+            <guid>https://www.vlive.tv/video/282588</guid>
+            <pubDate>Sun, 01 May 2022 07:41:25 GMT</pubDate>
+            <content:encoded><![CDATA[오전 7:40]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/282588/thumb?type=f228_128" length="0" type="image//live/282588/thumb"/>
         </item>
     </channel>
 </rss>
