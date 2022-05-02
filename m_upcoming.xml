@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 10:48:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 11:42:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Radio'n Us / Lee Su Jeong 이수정)]]></title>
-            <link>https://m.vlive.tv/video/282306</link>
-            <guid>https://m.vlive.tv/video/282306</guid>
-            <pubDate>Fri, 29 Apr 2022 05:00:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220427_233/1651058175898rVtzg_JPEG/upload_95137822595552665c2676ad4-62e0-41e7-9de6-9d980000abc9.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서빈이와 함께 Beautiful Day 💛]]></title>
-            <link>https://m.vlive.tv/video/282639</link>
-            <guid>https://m.vlive.tv/video/282639</guid>
-            <pubDate>Mon, 02 May 2022 05:50:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">윤서빈 (Yoon Seobin)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220502_2/1651470187588fzC24_JPEG/upload_9554959007727167173dd47bc-0315-413f-99d1-1edf2d88acf1.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[COLORFUL TRAUMA] ALBUM SPOILER LIVE]]></title>
             <link>https://m.vlive.tv/video/282666</link>
@@ -106,6 +86,26 @@
 										오전 4:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220429_67/1651193070406G9JoM_JPEG/upload_67462633460670937c651cb6d-687e-4d44-b76a-d7819a7f59a5.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Sound K] Song Express ver.3 with Iris 아이리스]]></title>
+            <link>https://m.vlive.tv/video/282384</link>
+            <guid>https://m.vlive.tv/video/282384</guid>
+            <pubDate>Mon, 02 May 2022 11:41:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220428_285/1651134753754ynJI8_JPEG/upload_952144341107821006f1c86b9-c627-4b60-9b74-9106a52e918a.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / Motte 모트)]]></title>
+            <link>https://m.vlive.tv/video/282303</link>
+            <guid>https://m.vlive.tv/video/282303</guid>
+            <pubDate>Mon, 02 May 2022 11:41:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220427_47/1651057965541WRfgO_JPEG/upload_673274507100420322abd39bc-ac83-4bfa-832c-7800a0a73575.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
