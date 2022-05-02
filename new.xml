@@ -4,17 +4,9 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 04:36:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 05:51:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[monday!]]></title>
-            <link>https://www.vlive.tv/video/282632</link>
-            <guid>https://www.vlive.tv/video/282632</guid>
-            <pubDate>Mon, 02 May 2022 04:34:52 GMT</pubDate>
-            <content:encoded><![CDATA[sema]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220502_192/1651461347459rOMyb_JPEG/upload_67730933407849619eb11c3bb-eca7-401c-87b5-1ae93cbf82e2.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio/K-Poppin'] Singlish with DKB]]></title>
             <link>https://www.vlive.tv/video/282428</link>
@@ -22,6 +14,22 @@
             <pubDate>Mon, 02 May 2022 04:34:52 GMT</pubDate>
             <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220429_195/1651192357404ohMAH_JPEG/upload_67461863813774916f7912ed5-5d56-415d-a295-f84597271828.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / HONG EUI JIN 홍의진)]]></title>
+            <link>https://www.vlive.tv/video/282627</link>
+            <guid>https://www.vlive.tv/video/282627</guid>
+            <pubDate>Mon, 02 May 2022 05:49:39 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220502_166/1651450804556YkRCX_JPEG/upload_95530499824071599d9f2c99f-0dc4-4ebb-a9a9-a3f50860035f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[monday!]]></title>
+            <link>https://www.vlive.tv/video/282632</link>
+            <guid>https://www.vlive.tv/video/282632</guid>
+            <pubDate>Mon, 02 May 2022 04:34:52 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220502_192/1651461347459rOMyb_JPEG/upload_67730933407849619eb11c3bb-eca7-401c-87b5-1ae93cbf82e2.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[채정안(Chae Jung Ahn), 유튜브 수익금 전액 기부 '미모만큼 아름다운 마음씨']]></title>
@@ -398,14 +406,6 @@
             <pubDate>Sun, 01 May 2022 08:46:04 GMT</pubDate>
             <content:encoded><![CDATA[원호 (WONHO)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220501_223/1651391941648xIMFu_JPEG/5b341bbe-c924-11ec-b765-d4f5ef5a9532_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웰컴 투 템쟈니아~♥]]></title>
-            <link>https://www.vlive.tv/video/282589</link>
-            <guid>https://www.vlive.tv/video/282589</guid>
-            <pubDate>Sun, 01 May 2022 08:46:04 GMT</pubDate>
-            <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220501_290/1651391809507Oqoio_JPEG/143dc21f-c924-11ec-912c-48df379cca40_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
