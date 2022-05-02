@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 07:42:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 08:51:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🎈Hi]]></title>
+            <link>https://www.vlive.tv/video/282646</link>
+            <guid>https://www.vlive.tv/video/282646</guid>
+            <pubDate>Mon, 02 May 2022 07:41:42 GMT</pubDate>
+            <content:encoded><![CDATA[핑크판타지 / PINKFANTASY]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220502_295/1651475001291vJPC8_JPEG/90631484144922189c22a1fdb-6839-4bb6-9c19-6380c1aeffc0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE] 좋은 날씨]]></title>
+            <link>https://www.vlive.tv/video/282649</link>
+            <guid>https://www.vlive.tv/video/282649</guid>
+            <pubDate>Mon, 02 May 2022 08:49:27 GMT</pubDate>
+            <content:encoded><![CDATA[CRAVITY]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/282649/thumb?type=f228_128" length="0" type="image//live/282649/thumb"/>
+        </item>
         <item>
             <title><![CDATA[아주 잠깐 ☝️]]></title>
             <link>https://www.vlive.tv/video/282645</link>
@@ -22,14 +38,6 @@
             <pubDate>Mon, 02 May 2022 05:49:47 GMT</pubDate>
             <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220502_166/1651450804556YkRCX_JPEG/upload_95530499824071599d9f2c99f-0dc4-4ebb-a9a9-a3f50860035f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🎈Hi]]></title>
-            <link>https://www.vlive.tv/video/282646</link>
-            <guid>https://www.vlive.tv/video/282646</guid>
-            <pubDate>Mon, 02 May 2022 07:41:42 GMT</pubDate>
-            <content:encoded><![CDATA[핑크판타지 / PINKFANTASY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220502_295/1651475001291vJPC8_JPEG/90631484144922189c22a1fdb-6839-4bb6-9c19-6380c1aeffc0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Arirang Radio (Super K-Pop / YOUNITE 유나이트)]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 02 May 2022 03:04:33 GMT</pubDate>
             <content:encoded><![CDATA[After School Club │ 애프터스쿨클럽]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220502_229/16514562194414dPT2_PNG/upload_67725824225106613f2b04c95-e9a6-45c7-acf9-e086e551c4b3.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[세븐틴(Seventeen) 인천공항 출국 현장 | ICN Airport Departure]]></title>
-            <link>https://www.vlive.tv/video/282630</link>
-            <guid>https://www.vlive.tv/video/282630</guid>
-            <pubDate>Mon, 02 May 2022 03:04:33 GMT</pubDate>
-            <content:encoded><![CDATA[TEN Asia (텐아시아)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220502_36/16514553494812IyGI_JPEG/upload_67724926532691606ef515796-12eb-42de-a897-3bd89238ea8d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
