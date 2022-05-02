@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 03:05:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 04:36:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio/K-Poppin'] Singlish with DKB]]></title>
-            <link>https://m.vlive.tv/video/282428</link>
-            <guid>https://m.vlive.tv/video/282428</guid>
-            <pubDate>Fri, 29 Apr 2022 02:41:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 4:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220429_195/1651192357404ohMAH_JPEG/upload_67461863813774916f7912ed5-5d56-415d-a295-f84597271828.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Sound K / HONG EUI JIN 홍의진)]]></title>
             <link>https://m.vlive.tv/video/282627</link>
@@ -106,6 +96,16 @@
 										오전 4:00</span>
 										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220429_168/1651208578271Lx5mJ_PNG/upload_9527652449817604253e50907-26f0-4367-a1ea-95622dbc5948.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Sound K] Mystery Mix with BOiTELLO 보이텔로]]></title>
+            <link>https://m.vlive.tv/video/282383</link>
+            <guid>https://m.vlive.tv/video/282383</guid>
+            <pubDate>Mon, 02 May 2022 04:36:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220428_173/1651134697947dupGw_JPEG/upload_67404271535762647732fbcd1-fc42-4fdc-ac33-14afcaf9ba19.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
