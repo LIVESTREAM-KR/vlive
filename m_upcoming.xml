@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 06:52:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 07:42:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Super K-Pop / YOUNITE 유나이트)]]></title>
-            <link>https://m.vlive.tv/video/282304</link>
-            <guid>https://m.vlive.tv/video/282304</guid>
-            <pubDate>Thu, 28 Apr 2022 09:46:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220427_273/1651058045586ld0Gw_JPEG/upload_673275788020663328843ba1b-2dcf-4868-a34c-c40b8d11274d.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[💚🖤Happy birthday to BAMBAM🖤💚]]></title>
             <link>https://m.vlive.tv/video/282286</link>
@@ -106,6 +96,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220428_173/1651134697947dupGw_JPEG/upload_67404271535762647732fbcd1-fc42-4fdc-ac33-14afcaf9ba19.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop]Oh My K-Pop with NIve]]></title>
+            <link>https://m.vlive.tv/video/282385</link>
+            <guid>https://m.vlive.tv/video/282385</guid>
+            <pubDate>Mon, 02 May 2022 07:42:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220428_103/1651134809262BAm91_JPEG/upload_95214505929180050c2655e41-a3d3-4903-bdc1-15fba7fe0531.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
