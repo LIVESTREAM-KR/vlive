@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 11:42:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 13:20:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[COLORFUL TRAUMA] ALBUM SPOILER LIVE]]></title>
-            <link>https://m.vlive.tv/video/282666</link>
-            <guid>https://m.vlive.tv/video/282666</guid>
-            <pubDate>Mon, 02 May 2022 10:47:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 12:00</span>
-										<span class="txt">WOODZ (조승연)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220502_148/1651486064892M35jI_JPEG/upload_955617999050912374b81e273-85ce-48c5-b007-49d1c7ab699a.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA['Happy ERIN Day' LIVE 🎂]]></title>
             <link>https://m.vlive.tv/video/282388</link>
@@ -106,6 +96,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220427_47/1651057965541WRfgO_JPEG/upload_673274507100420322abd39bc-ac83-4bfa-832c-7800a0a73575.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[I'm LIVE:🔴공연 생중계]🎤이바다 (LEEBADA) | 솔루션스 (The Solutions) | 선우정아 (Sunwoojunga)]]></title>
+            <link>https://m.vlive.tv/video/282662</link>
+            <guid>https://m.vlive.tv/video/282662</guid>
+            <pubDate>Mon, 02 May 2022 13:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 9:00</span>
+										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220502_201/1651483706719TdBBi_PNG/upload_95563401442592915328f29a4-458c-4643-a25e-9dccb6ef1f1e.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
