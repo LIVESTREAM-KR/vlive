@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 17:51:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 18:51:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -453,7 +453,7 @@
             <guid>https://www.vlive.tv/video/282756</guid>
             <pubDate>Tue, 03 May 2022 15:48:24 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:45]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220504_263/1651592717452bl1kR_JPEG/3b6e263e-caf7-11ec-a87a-505dac8c35ff_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220504_235/16516036662027yQRQ_JPEG/upload_95683380952611502fe2652fd-cb77-407e-a54f-980b4189e064.jpeg?type=f228_128" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[화질 낮춰서 다시 고]]></title>
@@ -472,12 +472,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20220504_232/1651595703454Fn2Lq_JPEG/upload_95675417055601398f4461d32-0580-43a0-9d13-912e88cfb7ae.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[조용한밤 🌙]]></title>
+            <link>https://www.vlive.tv/video/282761</link>
+            <guid>https://www.vlive.tv/video/282761</guid>
+            <pubDate>Tue, 03 May 2022 18:50:41 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:54]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220504_264/16516004646360QG7M_JPEG/3f61a204-cb09-11ec-bdfe-48df37ae3dc4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[short one]]></title>
             <link>https://www.vlive.tv/video/282762</link>
             <guid>https://www.vlive.tv/video/282762</guid>
             <pubDate>Tue, 03 May 2022 17:50:50 GMT</pubDate>
-            <content:encoded><![CDATA[오후 5:08]]></content:encoded>
+            <content:encoded><![CDATA[오후 6:06]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220504_29/16515976635064rzPT_JPEG/upload_6786724393062789334536753-defe-4f7e-9a1b-26999c867ccd.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠 못드는 밤에(요즘따라 더 못 자는데...) ※알콜섭취 조금함]]></title>
+            <link>https://www.vlive.tv/video/282764</link>
+            <guid>https://www.vlive.tv/video/282764</guid>
+            <pubDate>Tue, 03 May 2022 18:50:41 GMT</pubDate>
+            <content:encoded><![CDATA[오후 6:45]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220504_75/16516035052138xMAc_JPEG/164479022196346574184a559b-8999-45e4-9db8-6a711e21dab1.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
