@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 18:51:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 19:41:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -456,14 +456,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220504_235/16516036662027yQRQ_JPEG/upload_95683380952611502fe2652fd-cb77-407e-a54f-980b4189e064.jpeg?type=f228_128" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[화질 낮춰서 다시 고]]></title>
-            <link>https://www.vlive.tv/video/282760</link>
-            <guid>https://www.vlive.tv/video/282760</guid>
-            <pubDate>Tue, 03 May 2022 17:07:03 GMT</pubDate>
-            <content:encoded><![CDATA[오후 4:10]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/282760/thumb?type=f228_128" length="0" type="image//live/282760/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[격리? 브이라이브 가능이라 오히려 좋아]]></title>
             <link>https://www.vlive.tv/video/282759</link>
             <guid>https://www.vlive.tv/video/282759</guid>
@@ -488,12 +480,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220504_29/16515976635064rzPT_JPEG/upload_6786724393062789334536753-defe-4f7e-9a1b-26999c867ccd.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[잠 못드는 밤에(요즘따라 더 못 자는데...) ※알콜섭취 조금함]]></title>
-            <link>https://www.vlive.tv/video/282764</link>
-            <guid>https://www.vlive.tv/video/282764</guid>
-            <pubDate>Tue, 03 May 2022 18:50:41 GMT</pubDate>
-            <content:encoded><![CDATA[오후 6:45]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220504_75/16516035052138xMAc_JPEG/164479022196346574184a559b-8999-45e4-9db8-6a711e21dab1.jpg?type=f228_128" length="0" type="image/jpg"/>
+            <title><![CDATA[도시락 기강잡어]]></title>
+            <link>https://www.vlive.tv/video/282765</link>
+            <guid>https://www.vlive.tv/video/282765</guid>
+            <pubDate>Tue, 03 May 2022 19:41:14 GMT</pubDate>
+            <content:encoded><![CDATA[오후 6:55]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/282765/thumb?type=f228_128" length="0" type="image//live/282765/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[화질 낮춰서 다시 고]]></title>
+            <link>https://www.vlive.tv/video/282760</link>
+            <guid>https://www.vlive.tv/video/282760</guid>
+            <pubDate>Tue, 03 May 2022 17:07:03 GMT</pubDate>
+            <content:encoded><![CDATA[오후 7:03]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220504_29/1651604566755HWE2N_JPEG/upload_956842988376269062811800f-9a82-47fb-aebe-7ce17c5dc9ff.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
