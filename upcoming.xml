@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 15:48:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 17:07:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -448,20 +448,36 @@
             <enclosure url="https://v-phinf.pstatic.net/20220503_211/1651584368067Q2IDO_JPEG/16445989800729139406f6e881-ed93-43fb-bea7-93fa627242a9.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[격리? 브이라이브 가능이라 오히려 좋아]]></title>
-            <link>https://www.vlive.tv/video/282759</link>
-            <guid>https://www.vlive.tv/video/282759</guid>
-            <pubDate>Tue, 03 May 2022 15:48:24 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:38]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/282759/thumb?type=f228_128" length="0" type="image//live/282759/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[Happy SeJun Day🍓📸🎞]]></title>
             <link>https://www.vlive.tv/video/282756</link>
             <guid>https://www.vlive.tv/video/282756</guid>
             <pubDate>Tue, 03 May 2022 15:48:24 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:45]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220504_263/1651592717452bl1kR_JPEG/3b6e263e-caf7-11ec-a87a-505dac8c35ff_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[화질 낮춰서 다시 고]]></title>
+            <link>https://www.vlive.tv/video/282760</link>
+            <guid>https://www.vlive.tv/video/282760</guid>
+            <pubDate>Tue, 03 May 2022 17:07:03 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:10]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/282760/thumb?type=f228_128" length="0" type="image//live/282760/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[격리? 브이라이브 가능이라 오히려 좋아]]></title>
+            <link>https://www.vlive.tv/video/282759</link>
+            <guid>https://www.vlive.tv/video/282759</guid>
+            <pubDate>Tue, 03 May 2022 15:48:24 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:13]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220504_232/1651595703454Fn2Lq_JPEG/upload_95675417055601398f4461d32-0580-43a0-9d13-912e88cfb7ae.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조용한밤 🌙]]></title>
+            <link>https://www.vlive.tv/video/282761</link>
+            <guid>https://www.vlive.tv/video/282761</guid>
+            <pubDate>Tue, 03 May 2022 17:07:03 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:24]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/282761/thumb?type=f228_128" length="0" type="image//live/282761/thumb"/>
         </item>
     </channel>
 </rss>
