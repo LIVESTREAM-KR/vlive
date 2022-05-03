@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 20:45:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 21:45:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -480,14 +480,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220504_29/16515976635064rzPT_JPEG/upload_6786724393062789334536753-defe-4f7e-9a1b-26999c867ccd.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[도시락 기강잡어]]></title>
-            <link>https://www.vlive.tv/video/282765</link>
-            <guid>https://www.vlive.tv/video/282765</guid>
-            <pubDate>Tue, 03 May 2022 19:41:14 GMT</pubDate>
-            <content:encoded><![CDATA[오후 6:55]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/282765/thumb?type=f228_128" length="0" type="image//live/282765/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[화질 낮춰서 다시 고]]></title>
             <link>https://www.vlive.tv/video/282760</link>
             <guid>https://www.vlive.tv/video/282760</guid>
@@ -502,6 +494,14 @@
             <pubDate>Tue, 03 May 2022 20:44:50 GMT</pubDate>
             <content:encoded><![CDATA[오후 7:41]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220504_75/16516035052138xMAc_JPEG/164479022196346574184a559b-8999-45e4-9db8-6a711e21dab1.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도시락 기강잡어]]></title>
+            <link>https://www.vlive.tv/video/282765</link>
+            <guid>https://www.vlive.tv/video/282765</guid>
+            <pubDate>Tue, 03 May 2022 19:41:14 GMT</pubDate>
+            <content:encoded><![CDATA[오후 9:38]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220504_213/1651613851794NAND3_JPEG/upload_9569358317319116552736be3-8721-4224-ac0a-fe8aecec4e15.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
