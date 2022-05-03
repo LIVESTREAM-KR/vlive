@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 05:44:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 06:52:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방구석 멧갈라]]></title>
+            <link>https://www.vlive.tv/video/282715</link>
+            <guid>https://www.vlive.tv/video/282715</guid>
+            <pubDate>Tue, 03 May 2022 06:51:18 GMT</pubDate>
+            <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220503_150/1651555913238nlwPI_JPEG/134867389034521496d4faaee6-f891-46f2-bbf8-8df83c2d67b9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[DINO]]></title>
             <link>https://www.vlive.tv/video/282699</link>
@@ -30,14 +38,6 @@
             <pubDate>Mon, 02 May 2022 14:42:58 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220502_163/16514859838532BlAj_JPEG/upload_6775277712907213088fb9a07-c449-4ab5-9abe-30069fc1d9f1.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[COLORFUL TRAUMA] ALBUM SPOILER LIVE]]></title>
-            <link>https://www.vlive.tv/video/282666</link>
-            <guid>https://www.vlive.tv/video/282666</guid>
-            <pubDate>Mon, 02 May 2022 23:44:31 GMT</pubDate>
-            <content:encoded><![CDATA[WOODZ (조승연)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220502_148/1651486064892M35jI_JPEG/upload_955617999050912374b81e273-85ce-48c5-b007-49d1c7ab699a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
