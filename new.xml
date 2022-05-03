@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 19:41:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 20:45:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잠 못드는 밤에(요즘따라 더 못 자는데...) ※알콜섭취 조금함]]></title>
+            <link>https://www.vlive.tv/video/282764</link>
+            <guid>https://www.vlive.tv/video/282764</guid>
+            <pubDate>Tue, 03 May 2022 20:43:44 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220504_75/16516035052138xMAc_JPEG/164479022196346574184a559b-8999-45e4-9db8-6a711e21dab1.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[화질 낮춰서 다시 고]]></title>
             <link>https://www.vlive.tv/video/282760</link>
@@ -397,14 +405,6 @@
             <pubDate>Tue, 03 May 2022 05:43:05 GMT</pubDate>
             <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220503_42/1651584687296naoYK_JPEG/134867389034521496d4faaee6-f891-46f2-bbf8-8df83c2d67b9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Sound K] Mystery Mix with BOiTELLO 보이텔로]]></title>
-            <link>https://www.vlive.tv/video/282383</link>
-            <guid>https://www.vlive.tv/video/282383</guid>
-            <pubDate>Tue, 03 May 2022 04:59:54 GMT</pubDate>
-            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220428_173/1651134697947dupGw_JPEG/upload_67404271535762647732fbcd1-fc42-4fdc-ac33-14afcaf9ba19.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
