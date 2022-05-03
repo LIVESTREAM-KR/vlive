@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 02:42:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 04:10:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[123123]]></title>
-            <link>https://m.vlive.tv/video/282704</link>
-            <guid>https://m.vlive.tv/video/282704</guid>
-            <pubDate>Tue, 03 May 2022 02:42:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 3:21</span>
-										<span class="txt">Naver V</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220503_1/1651544578577I9dgy_JPEG/image.JPEG?type=f274_154" length="0" type="image/JPEG"/>
-        </item>
-        <item>
-            <title><![CDATA[ASC Live Ep.521 (YOUNITE / 유나이트)]]></title>
-            <link>https://m.vlive.tv/video/282454</link>
-            <guid>https://m.vlive.tv/video/282454</guid>
-            <pubDate>Sat, 30 Apr 2022 02:37:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 4:00</span>
-										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220429_168/1651208578271Lx5mJ_PNG/upload_9527652449817604253e50907-26f0-4367-a1ea-95622dbc5948.png?type=f274_154" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Sound K] Mystery Mix with BOiTELLO 보이텔로]]></title>
             <link>https://m.vlive.tv/video/282383</link>
@@ -106,6 +86,26 @@
 										오전 11:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220427_166/1651058093306E41ue_JPEG/upload_951377745872796523d956c16-1f83-446b-978e-eb6cd3533d16.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LE SSERAFIM SHOW BACKSTAGE (DEBUT LIVE)]]></title>
+            <link>https://m.vlive.tv/video/282374</link>
+            <guid>https://m.vlive.tv/video/282374</guid>
+            <pubDate>Tue, 03 May 2022 04:09:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">LE SSERAFIM</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220428_223/1651133174356JiBtI_JPEG/upload_95212088988510727284e93c4-d643-496e-b93f-18b107da11db.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[댄스 브이앱💙]]></title>
+            <link>https://m.vlive.tv/video/282554</link>
+            <guid>https://m.vlive.tv/video/282554</guid>
+            <pubDate>Tue, 03 May 2022 04:09:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 1:00</span>
+										<span class="txt">KINGDOM</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220430_254/1651316922822TNoDE_JPEG/upload_953965846532116622f835c0b-3ae5-4251-953f-4a03175fcdaa.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
