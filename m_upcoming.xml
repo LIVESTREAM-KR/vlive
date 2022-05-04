@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 02:40:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 04:08:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio/K-Poppin']NOA Children’s Choir]]></title>
-            <link>https://m.vlive.tv/video/282429</link>
-            <guid>https://m.vlive.tv/video/282429</guid>
-            <pubDate>Mon, 02 May 2022 10:47:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 4:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220429_67/1651193070406G9JoM_JPEG/upload_67462633460670937c651cb6d-687e-4d44-b76a-d7819a7f59a5.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Sound K] Song Express ver.3 with Iris 아이리스]]></title>
             <link>https://m.vlive.tv/video/282384</link>
@@ -86,6 +76,26 @@
 										오후 1:00</span>
 										<span class="txt">KINGDOM</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220430_254/1651316922822TNoDE_JPEG/upload_953965846532116622f835c0b-3ae5-4251-953f-4a03175fcdaa.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
+            <link>https://m.vlive.tv/video/282381</link>
+            <guid>https://m.vlive.tv/video/282381</guid>
+            <pubDate>Wed, 04 May 2022 04:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										방송취소</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220428_156/1651134593966YbY0w_JPEG/upload_952142697024345662fd9f262-cfa6-406f-b671-7a4c26182323.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop] Stray Quiz]]></title>
+            <link>https://m.vlive.tv/video/282386</link>
+            <guid>https://m.vlive.tv/video/282386</guid>
+            <pubDate>Wed, 04 May 2022 04:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										방송취소</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220428_165/1651134868360B02Cr_JPEG/upload_95214554394514397bdbab80b-1046-4280-90b6-05142070bc43.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
