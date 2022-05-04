@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 19:40:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 20:44:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[💙]]></title>
+            <link>https://www.vlive.tv/video/282852</link>
+            <guid>https://www.vlive.tv/video/282852</guid>
+            <pubDate>Wed, 04 May 2022 20:43:03 GMT</pubDate>
+            <content:encoded><![CDATA[AleXa]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220505_243/16516964833358AzB0_JPEG/1644848543230625138c0bf4d6-5aea-4597-9e4e-783ce3148e20.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#OMRR ZOOM IN 📹]]></title>
             <link>https://www.vlive.tv/video/282848</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 04 May 2022 13:56:08 GMT</pubDate>
             <content:encoded><![CDATA[KINGDOM]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220430_254/1651316922822TNoDE_JPEG/upload_953965846532116622f835c0b-3ae5-4251-953f-4a03175fcdaa.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다들 뭐해?🤔]]></title>
-            <link>https://www.vlive.tv/video/282832</link>
-            <guid>https://www.vlive.tv/video/282832</guid>
-            <pubDate>Wed, 04 May 2022 13:56:08 GMT</pubDate>
-            <content:encoded><![CDATA[P1Harmony]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220504_42/1651673396784uk5pI_JPEG/upload_9575312887776225425e98fae-5f5f-4d13-a57d-341a099cc823.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
