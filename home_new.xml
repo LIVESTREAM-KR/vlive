@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 05:44:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 06:53:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TVicton (병찬이의 갓벽했던 데이즈드 화보 비하인드)]]></title>
+            <link>https://www.vlive.tv/video/282707</link>
+            <guid>https://www.vlive.tv/video/282707</guid>
+            <pubDate>Wed, 04 May 2022 06:52:05 GMT</pubDate>
+            <content:encoded><![CDATA[VICTON]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220503_258/1651554857194JsV9y_JPEG/upload_9563458094456532074af0a3d-69a3-43cf-a254-4143be75463b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[🐯]]></title>
             <link>https://www.vlive.tv/video/282781</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 04 May 2022 02:39:13 GMT</pubDate>
             <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220428_96/16511345401521XDxD_JPEG/upload_674041075046759939b2c15a8-6325-44cd-b071-7bce663734af.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['인간샤넬' 지드래곤(G-DRAGON),  머리부터 발끝까지 ㄷㄷ | GD ICN Airport Departure]]></title>
-            <link>https://www.vlive.tv/video/282766</link>
-            <guid>https://www.vlive.tv/video/282766</guid>
-            <pubDate>Wed, 04 May 2022 02:39:13 GMT</pubDate>
-            <content:encoded><![CDATA[TEN Asia (텐아시아)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220504_274/1651625598117NMTCD_JPEG/upload_9570529085079819925b8d516-3d87-4e81-a7fa-7b4866dc8872.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
