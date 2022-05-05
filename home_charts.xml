@@ -4,17 +4,9 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 11:41:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 13:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[도겸이의 심야책빵🍞]]></title>
-            <link>https://www.vlive.tv/video/282840</link>
-            <guid>https://www.vlive.tv/video/282840</guid>
-            <pubDate>Thu, 05 May 2022 10:46:17 GMT</pubDate>
-            <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220504_299/1651669500884NSA3M_JPEG/134980976642473426d57c0861-9507-4fe5-9494-4cfc63337c2c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[8 tea time 🫖🍵]]></title>
             <link>https://www.vlive.tv/video/282858</link>
@@ -32,12 +24,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220505_104/1651676447666fMVpA_JPEG/upload_95756181272513299aed032f1-5766-497a-ba73-53031ab08f65.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[LE SSERAFIM SHOW BACKSTAGE (DEBUT LIVE)]]></title>
-            <link>https://www.vlive.tv/video/282374</link>
-            <guid>https://www.vlive.tv/video/282374</guid>
-            <pubDate>Wed, 04 May 2022 21:43:12 GMT</pubDate>
-            <content:encoded><![CDATA[LE SSERAFIM]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220505_48/1651722043787ULRJa_JPEG/upload_67991647015693618f2f610a2-6807-46f8-98ef-530447706ec9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <title><![CDATA[DINO 2]]></title>
+            <link>https://www.vlive.tv/video/282893</link>
+            <guid>https://www.vlive.tv/video/282893</guid>
+            <pubDate>Thu, 05 May 2022 13:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/282893/thumb?type=f228_128" length="0" type="image//live/282893/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[어린이]]></title>
+            <link>https://www.vlive.tv/video/282875</link>
+            <guid>https://www.vlive.tv/video/282875</guid>
+            <pubDate>Thu, 05 May 2022 13:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220505_261/1651748485055oft2s_JPEG/56518697-cc61-11ec-a12d-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
