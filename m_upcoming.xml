@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 14:42:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 15:47:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,16 @@
 										오전 11:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220505_244/1651750660556q6ywg_JPEG/upload_95830349761823716cfee73e3-1382-4b24-a8f5-14b15d45fe5a.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제44회 원광대학교 패션디자인산업학과 졸업작품 패션쇼]]></title>
+            <link>https://m.vlive.tv/video/281602</link>
+            <guid>https://m.vlive.tv/video/281602</guid>
+            <pubDate>Thu, 05 May 2022 15:47:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">VVLIVE</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220418_138/1650236387346YxQ7h_PNG/upload_66505850814109405051709ce-ff56-4e72-b8fc-b470ff942c18.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
