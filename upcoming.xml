@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 03:48:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 05:04:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,14 +37,31 @@
             <guid>https://www.vlive.tv/video/282855</guid>
             <pubDate>Thu, 05 May 2022 03:47:44 GMT</pubDate>
             <content:encoded><![CDATA[오전 3:34]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/282855/thumb?type=f228_128" length="0" type="image//live/282855/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[[HOTCLIP] 유나이트의 칠판꾸미기]]></title>
+            <link>https://www.vlive.tv/video/282853</link>
+            <guid>https://www.vlive.tv/video/282853</guid>
+            <pubDate>Thu, 05 May 2022 05:03:37 GMT</pubDate>
+            <content:encoded><![CDATA[오전 4:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220505_133/16517172159389QKxj_JPEG/acb4c751-cc19-11ec-861a-505dac8c385b_01.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[🌻템페스트 유치원🌸]]></title>
             <link>https://www.vlive.tv/video/282850</link>
             <guid>https://www.vlive.tv/video/282850</guid>
             <pubDate>Thu, 05 May 2022 02:27:01 GMT</pubDate>
-            <content:encoded><![CDATA[오전 4:00]]></content:encoded>
+            <content:encoded><![CDATA[오전 4:09]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220505_101/1651681575522TFWwW_JPEG/upload_95761063170157759c2a8b835-d7c8-447b-b1ef-02946e006d81.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[5월은 어린이날 빌리&빌리브세상🐥🎈]]></title>
+            <link>https://www.vlive.tv/video/282849</link>
+            <guid>https://www.vlive.tv/video/282849</guid>
+            <pubDate>Thu, 05 May 2022 05:03:37 GMT</pubDate>
+            <content:encoded><![CDATA[오전 8:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220505_248/16516799135834srzU_JPEG/upload_95759211435026640380cb650-9164-4e09-8381-fb7c0baec217.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[찬이와 떠나는 (K-잼민) 추억여행]]></title>
