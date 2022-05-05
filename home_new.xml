@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 06:53:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 07:43:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어린이날😛]]></title>
+            <link>https://www.vlive.tv/video/282864</link>
+            <guid>https://www.vlive.tv/video/282864</guid>
+            <pubDate>Thu, 05 May 2022 07:41:55 GMT</pubDate>
+            <content:encoded><![CDATA[핑크판타지 / PINKFANTASY]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220505_208/1651734600614FtUDi_JPEG/164610129609500095e1e96d89-f39c-45f6-a503-290058c789c5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[아임라이브] 라드뮤지엄 '한량' (Rad Museum - Hanryang)]]></title>
             <link>https://www.vlive.tv/video/282861</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 04 May 2022 13:56:08 GMT</pubDate>
             <content:encoded><![CDATA[KINGDOM]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220505_139/1651680034387KQ1IX_JPEG/f359d4f5-cbc1-11ec-a87a-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대원 소통 라디오🧸]]></title>
-            <link>https://www.vlive.tv/video/282843</link>
-            <guid>https://www.vlive.tv/video/282843</guid>
-            <pubDate>Wed, 04 May 2022 17:06:18 GMT</pubDate>
-            <content:encoded><![CDATA[NOIR]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220504_251/1651673915967KutfA_JPEG/164549446965760815102f52e0-5983-4df5-81cc-21105a57cdf6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
