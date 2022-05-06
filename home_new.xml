@@ -4,17 +4,9 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 17:04:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 17:48:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Ciipher] 심야 마파즈🌙]]></title>
-            <link>https://www.vlive.tv/video/282998</link>
-            <guid>https://www.vlive.tv/video/282998</guid>
-            <pubDate>Fri, 06 May 2022 17:03:20 GMT</pubDate>
-            <content:encoded><![CDATA[싸이퍼(Ciipher)]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/282998/thumb?type=f228_128" length="0" type="image//live/282998/thumb"/>
-        </item>
         <item>
             <title><![CDATA[[Ciipher] 심야 마파즈🌙]]></title>
             <link>https://www.vlive.tv/video/282997</link>
@@ -126,6 +118,14 @@
             <pubDate>Fri, 06 May 2022 13:51:48 GMT</pubDate>
             <content:encoded><![CDATA[PURPLE KISS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220506_241/1651844820875N9thi_JPEG/45462597157053469dcc7252d-ee21-4574-9e36-1772631fe9d6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다시다시]]></title>
+            <link>https://www.vlive.tv/video/282989</link>
+            <guid>https://www.vlive.tv/video/282989</guid>
+            <pubDate>Fri, 06 May 2022 17:46:52 GMT</pubDate>
+            <content:encoded><![CDATA[F.able (페이블)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220506_168/16518466368324BRWC_JPEG/16463500682397920137e7f2cd-9e51-475d-b140-4367d10eafda.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

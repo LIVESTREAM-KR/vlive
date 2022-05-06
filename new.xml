@@ -4,16 +4,9 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 17:04:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 17:48:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Ciipher] 심야 마파즈🌙]]></title>
-            <link>https://www.vlive.tv/video/282998</link>
-            <guid>https://www.vlive.tv/video/282998</guid>
-            <pubDate>Fri, 06 May 2022 17:03:12 GMT</pubDate>
-            <content:encoded><![CDATA[싸이퍼(Ciipher)]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[[Ciipher] 심야 마파즈🌙]]></title>
             <link>https://www.vlive.tv/video/282997</link>
@@ -405,6 +398,14 @@
             <pubDate>Fri, 06 May 2022 09:44:32 GMT</pubDate>
             <content:encoded><![CDATA[싸이퍼(Ciipher)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220506_179/1651815966924m3eIF_JPEG/upload_6808556891089680889fdf4a6-f62e-49c5-8253-b06da1184eb7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤하(YOUNHA) - Twitter Mention Party🎉]]></title>
+            <link>https://www.vlive.tv/video/282935</link>
+            <guid>https://www.vlive.tv/video/282935</guid>
+            <pubDate>Fri, 06 May 2022 17:46:43 GMT</pubDate>
+            <content:encoded><![CDATA[YOUNHA]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220506_95/1651816312006Ltnfj_JPEG/upload_95891384777039611cb4391af-33a5-4da0-8cfe-2b369041eac6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
