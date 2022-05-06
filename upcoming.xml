@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 17:48:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 18:51:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -520,14 +520,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220506_137/1651843867805pFMIL_JPEG/1646323237702618618cdf16c2-f379-43ca-a344-9330ed616b4d.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[엘링이랑 한 약속 지키키🤙🏻💗]]></title>
-            <link>https://www.vlive.tv/video/282993</link>
-            <guid>https://www.vlive.tv/video/282993</guid>
-            <pubDate>Fri, 06 May 2022 15:48:33 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:59]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220506_226/1651849142590tTV30_JPEG/16463753658287720055b491b0-fed9-4d30-8f4d-e06286745be1.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[SEVENTEEN (세븐틴) 'Face the Sun' Trailer : 13 Inner Shadows - VERNON]]></title>
             <link>https://www.vlive.tv/video/282982</link>
             <guid>https://www.vlive.tv/video/282982</guid>
@@ -622,6 +614,14 @@
             <pubDate>Fri, 06 May 2022 17:04:05 GMT</pubDate>
             <content:encoded><![CDATA[오후 5:47]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220507_185/16518592566244h4qv_JPEG/c67b535e-cd63-11ec-a2ba-48df379cc9e4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엘링이랑 한 약속 지키키🤙🏻💗]]></title>
+            <link>https://www.vlive.tv/video/282993</link>
+            <guid>https://www.vlive.tv/video/282993</guid>
+            <pubDate>Fri, 06 May 2022 15:48:33 GMT</pubDate>
+            <content:encoded><![CDATA[오후 6:24]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220506_226/1651849142590tTV30_JPEG/16463753658287720055b491b0-fed9-4d30-8f4d-e06286745be1.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
