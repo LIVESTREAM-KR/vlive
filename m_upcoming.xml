@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 03:57:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 04:53:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Simply K-Pop CON-TOUR (심플리케이팝 콘투어) Ep.518]]></title>
-            <link>https://m.vlive.tv/video/282837</link>
-            <guid>https://m.vlive.tv/video/282837</guid>
-            <pubDate>Wed, 04 May 2022 13:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 4:00</span>
-										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220504_195/1651669201494Hy5vJ_PNG/upload_9574889495522164083611fae-206e-42a1-a66e-36746583091e.png?type=f274_154" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Sound K] Edu-K-tion with Hiss 히스]]></title>
-            <link>https://m.vlive.tv/video/282913</link>
-            <guid>https://m.vlive.tv/video/282913</guid>
-            <pubDate>Fri, 06 May 2022 02:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220506_9/1651796296310B5WYF_JPEG/upload_95875995799900903fa7bc1b4-5260-4a39-9e60-2ffbf18f6f59.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Super K-Pop] Topic Song with BÉBE YANA , Jogon of 9001]]></title>
             <link>https://m.vlive.tv/video/282387</link>
@@ -96,6 +76,26 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220505_197/1651750549649FeJbi_JPEG/upload_9583022707326858198139d0b-f356-4128-bde6-d7070ac41a82.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Radio'n Us / 남동현 BOYHOOD)]]></title>
+            <link>https://m.vlive.tv/video/282886</link>
+            <guid>https://m.vlive.tv/video/282886</guid>
+            <pubDate>Fri, 06 May 2022 04:53:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220505_204/1651750610580ldNLO_JPEG/upload_6802016470010987655bd4033-23db-4ca0-89ac-1d807b4a443b.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
+            <link>https://m.vlive.tv/video/282915</link>
+            <guid>https://m.vlive.tv/video/282915</guid>
+            <pubDate>Fri, 06 May 2022 04:53:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220506_144/16517964397894XV4R_JPEG/upload_68066017475048415a1e1f1f3-357b-4135-935c-332d1de79efb.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
