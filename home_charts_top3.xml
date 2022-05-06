@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ CHARTS TOP3</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 14:44:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 15:49:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[찬이의 "방" 🐺 Ep. 156]]></title>
+            <link>https://www.vlive.tv/video/282988</link>
+            <guid>https://www.vlive.tv/video/282988</guid>
+            <pubDate>Fri, 06 May 2022 15:47:45 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/282988/thumb?type=f640_362" length="0" type="image//live/282988/thumb"/>
+        </item>
         <item>
             <title><![CDATA[댓댓]]></title>
             <link>https://www.vlive.tv/video/282830</link>
@@ -22,14 +30,6 @@
             <pubDate>Fri, 06 May 2022 11:40:35 GMT</pubDate>
             <content:encoded><![CDATA[TWICE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220506_42/1651833569107pMm8W_JPEG/1646221051020208205c343990-b657-4df7-b76b-1f410264f0fe.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SKZ VLOG] 리노 : LEE KNOW LOG 7]]></title>
-            <link>https://www.vlive.tv/video/282971</link>
-            <guid>https://www.vlive.tv/video/282971</guid>
-            <pubDate>Fri, 06 May 2022 14:43:06 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220506_136/1651834024410Ph1rf_JPEG/upload_959130281503017659f23181f-e59e-4eec-b7ca-48bdb1e23f75.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
