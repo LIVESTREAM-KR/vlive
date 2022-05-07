@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 06:51:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 07:41:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,6 +102,22 @@
             <pubDate>Sat, 07 May 2022 06:50:57 GMT</pubDate>
             <content:encoded><![CDATA[오전 6:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220506_22/1651822660089Ln8S8_JPEG/upload_95902377861675221f88ae6bd-1522-4cd3-828c-b04cff8af696.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[날씨 좋다아 🌈]]></title>
+            <link>https://www.vlive.tv/video/283010</link>
+            <guid>https://www.vlive.tv/video/283010</guid>
+            <pubDate>Sat, 07 May 2022 07:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[오전 7:21]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220507_54/1651908117893iEqHt_JPEG/16469648887212536513f6b385-1fce-4fde-98f6-2a44bd431d1b.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다들 주말인데 뭐해요?🤔]]></title>
+            <link>https://www.vlive.tv/video/283011</link>
+            <guid>https://www.vlive.tv/video/283011</guid>
+            <pubDate>Sat, 07 May 2022 07:41:15 GMT</pubDate>
+            <content:encoded><![CDATA[오전 7:37]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220507_283/1651909055484uwdE9_JPEG/164784592430714525484f55ba-a528-4dbc-ba32-0492c92df070.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
