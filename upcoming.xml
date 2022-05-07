@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 17:44:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 18:49:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,14 +328,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220508_120/1651936192040dpOgL_JPEG/upload_6820579417869110963d61e3f-4b03-4ae8-88d3-3d4119a1a45d.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[혁모저모 #5 (혁이의 k-pop 노래방🎤)]]></title>
-            <link>https://www.vlive.tv/video/283043</link>
-            <guid>https://www.vlive.tv/video/283043</guid>
-            <pubDate>Sat, 07 May 2022 15:46:48 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:37]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220508_230/1651937848952WSqxa_JPEG/164813379950790731ffdebe88-f8c0-40f7-8a82-e7c132650c4a.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[달님 보고 싶어서💙]]></title>
             <link>https://www.vlive.tv/video/283038</link>
             <guid>https://www.vlive.tv/video/283038</guid>
@@ -366,6 +358,22 @@
             <pubDate>Sat, 07 May 2022 17:43:58 GMT</pubDate>
             <content:encoded><![CDATA[오후 5:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220508_76/16519383994218JHzR_JPEG/164726789114423203b59a722d-3d8d-4802-a069-caebf70c70d1.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[혁모저모 #5 (혁이의 k-pop 노래방🎤)]]></title>
+            <link>https://www.vlive.tv/video/283043</link>
+            <guid>https://www.vlive.tv/video/283043</guid>
+            <pubDate>Sat, 07 May 2022 15:46:48 GMT</pubDate>
+            <content:encoded><![CDATA[오후 6:17]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220508_230/1651937848952WSqxa_JPEG/164813379950790731ffdebe88-f8c0-40f7-8a82-e7c132650c4a.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[축구보자]]></title>
+            <link>https://www.vlive.tv/video/283046</link>
+            <guid>https://www.vlive.tv/video/283046</guid>
+            <pubDate>Sat, 07 May 2022 18:48:46 GMT</pubDate>
+            <content:encoded><![CDATA[오후 6:41]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/283046/thumb?type=f228_128" length="0" type="image//live/283046/thumb"/>
         </item>
     </channel>
 </rss>
