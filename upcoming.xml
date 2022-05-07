@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 16:58:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 17:44:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,22 @@
             <pubDate>Sat, 07 May 2022 15:46:48 GMT</pubDate>
             <content:encoded><![CDATA[오후 4:24]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220507_277/1651934580947QLS3m_JPEG/164810180914679178aaaced97-b836-4568-96de-3a9286604772.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[히힣]]></title>
+            <link>https://www.vlive.tv/video/283045</link>
+            <guid>https://www.vlive.tv/video/283045</guid>
+            <pubDate>Sat, 07 May 2022 17:43:58 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:59]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220508_124/1651942798700QWOCS_JPEG/caa2aacf-ce26-11ec-b765-d4f5ef5a9532_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안녕하세요 그레이스😇]]></title>
+            <link>https://www.vlive.tv/video/283044</link>
+            <guid>https://www.vlive.tv/video/283044</guid>
+            <pubDate>Sat, 07 May 2022 17:43:58 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220508_76/16519383994218JHzR_JPEG/164726789114423203b59a722d-3d8d-4802-a069-caebf70c70d1.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
