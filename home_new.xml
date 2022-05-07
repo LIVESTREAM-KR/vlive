@@ -4,17 +4,9 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 19:42:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 20:45:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[축구보자]]></title>
-            <link>https://www.vlive.tv/video/283046</link>
-            <guid>https://www.vlive.tv/video/283046</guid>
-            <pubDate>Sat, 07 May 2022 18:47:54 GMT</pubDate>
-            <content:encoded><![CDATA[Golden Child]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/283046/thumb?type=f228_128" length="0" type="image//live/283046/thumb"/>
-        </item>
         <item>
             <title><![CDATA[혁모저모 #5 (혁이의 k-pop 노래방🎤)]]></title>
             <link>https://www.vlive.tv/video/283043</link>
@@ -126,6 +118,14 @@
             <pubDate>Sat, 07 May 2022 13:04:01 GMT</pubDate>
             <content:encoded><![CDATA[MONSTA X]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220505_211/1651757132771KuGOU_JPEG/upload_9583684231413460051c53a27-7b40-4ef4-816e-1d8aff813a88.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🐿🐶🐰]]></title>
+            <link>https://www.vlive.tv/video/283026</link>
+            <guid>https://www.vlive.tv/video/283026</guid>
+            <pubDate>Sat, 07 May 2022 20:43:36 GMT</pubDate>
+            <content:encoded><![CDATA[KINGDOM]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220507_194/1651928187179iKmIs_JPEG/bb179088-ce03-11ec-a12d-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
