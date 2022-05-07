@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 03:56:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 04:52:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,23 @@
             <guid>https://www.vlive.tv/video/283004</guid>
             <pubDate>Sat, 07 May 2022 03:23:06 GMT</pubDate>
             <content:encoded><![CDATA[P1Harmony]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/283004/thumb?type=f228_128" length="0" type="image//live/283004/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220507_73/1651898402724dJ6Qh_JPEG/2f2341b4-cdbf-11ec-a0e5-505dac8c3607_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오래만에 잠깐만 ~]]></title>
+            <link>https://www.vlive.tv/video/283006</link>
+            <guid>https://www.vlive.tv/video/283006</guid>
+            <pubDate>Sat, 07 May 2022 04:51:22 GMT</pubDate>
+            <content:encoded><![CDATA[LOUDI (로우디)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220507_54/1651898174193GjLsF_JPEG/fe6ae034-cdbe-11ec-9b1f-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오래만에 잠깐만!]]></title>
+            <link>https://www.vlive.tv/video/283005</link>
+            <guid>https://www.vlive.tv/video/283005</guid>
+            <pubDate>Sat, 07 May 2022 04:51:22 GMT</pubDate>
+            <content:encoded><![CDATA[LOUDI (로우디)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220507_298/16518960373322O6GX_JPEG/3eb8282f-cdba-11ec-a9d0-505dacfba98a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[T1419(티일사일구) - 'Run up (Korean Ver.)' Visual Film]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 06 May 2022 14:42:58 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220507_235/1651852347117DOOJV_JPEG/upload_95932064578936850f80613f4-2acb-4665-89f8-d5b47f59b0b6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 시영이 생일 축하해💙]]></title>
-            <link>https://www.vlive.tv/video/282994</link>
-            <guid>https://www.vlive.tv/video/282994</guid>
-            <pubDate>Fri, 06 May 2022 17:03:20 GMT</pubDate>
-            <content:encoded><![CDATA[미래소년 (MIRAE)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220507_242/16518522132100YecM_JPEG/b4fe7fe8-cd53-11ec-8a91-505dac8c38f5_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제발 나한테 그러지 말아줘😥]]></title>
-            <link>https://www.vlive.tv/video/282992</link>
-            <guid>https://www.vlive.tv/video/282992</guid>
-            <pubDate>Fri, 06 May 2022 14:42:58 GMT</pubDate>
-            <content:encoded><![CDATA[F.able (페이블)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220506_131/16518478987341S7pX_JPEG/164723562684757015572b1b1d-b02c-47e6-bbf2-1e0f391bb104.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

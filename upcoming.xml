@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 03:56:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 04:52:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,12 +72,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20220507_229/1651892536309S2bGX_JPEG/upload_9597226975171817326b4200b-96ce-4b0c-9860-1bfec1dbed1a.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[오래만에 잠깐만!]]></title>
+            <link>https://www.vlive.tv/video/283005</link>
+            <guid>https://www.vlive.tv/video/283005</guid>
+            <pubDate>Sat, 07 May 2022 04:52:05 GMT</pubDate>
+            <content:encoded><![CDATA[오전 4:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220507_298/16518960373322O6GX_JPEG/3eb8282f-cdba-11ec-a9d0-505dacfba98a_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오래만에 잠깐만 ~]]></title>
+            <link>https://www.vlive.tv/video/283006</link>
+            <guid>https://www.vlive.tv/video/283006</guid>
+            <pubDate>Sat, 07 May 2022 04:52:05 GMT</pubDate>
+            <content:encoded><![CDATA[오전 4:36]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220507_54/1651898174193GjLsF_JPEG/fe6ae034-cdbe-11ec-9b1f-505dacfbaa5c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오웅 미국에 등장👊]]></title>
             <link>https://www.vlive.tv/video/283004</link>
             <guid>https://www.vlive.tv/video/283004</guid>
             <pubDate>Sat, 07 May 2022 03:24:04 GMT</pubDate>
-            <content:encoded><![CDATA[오전 3:10]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/283004/thumb?type=f228_128" length="0" type="image//live/283004/thumb"/>
+            <content:encoded><![CDATA[오전 4:40]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220507_73/1651898402724dJ6Qh_JPEG/2f2341b4-cdbf-11ec-a0e5-505dac8c3607_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
