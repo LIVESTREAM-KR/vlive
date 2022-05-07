@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 20:45:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 21:43:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[축구보자]]></title>
+            <link>https://www.vlive.tv/video/283046</link>
+            <guid>https://www.vlive.tv/video/283046</guid>
+            <pubDate>Sat, 07 May 2022 21:41:49 GMT</pubDate>
+            <content:encoded><![CDATA[Golden Child]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220508_237/1651956299768Cm0gF_JPEG/f22ddd60-ce45-11ec-9b1f-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[혁모저모 #5 (혁이의 k-pop 노래방🎤)]]></title>
             <link>https://www.vlive.tv/video/283043</link>
@@ -398,14 +406,6 @@
             <pubDate>Fri, 06 May 2022 17:03:12 GMT</pubDate>
             <content:encoded><![CDATA[미래소년 (MIRAE)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220507_242/16518522132100YecM_JPEG/b4fe7fe8-cd53-11ec-8a91-505dac8c38f5_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제발 나한테 그러지 말아줘😥]]></title>
-            <link>https://www.vlive.tv/video/282992</link>
-            <guid>https://www.vlive.tv/video/282992</guid>
-            <pubDate>Sat, 07 May 2022 20:43:25 GMT</pubDate>
-            <content:encoded><![CDATA[F.able (페이블)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220506_131/16518478987341S7pX_JPEG/164723562684757015572b1b1d-b02c-47e6-bbf2-1e0f391bb104.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

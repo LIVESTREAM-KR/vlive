@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 20:45:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 21:43:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -366,6 +366,14 @@
             <pubDate>Sat, 07 May 2022 15:46:48 GMT</pubDate>
             <content:encoded><![CDATA[오후 6:17]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220508_230/1651937848952WSqxa_JPEG/164813379950790731ffdebe88-f8c0-40f7-8a82-e7c132650c4a.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[축구보자]]></title>
+            <link>https://www.vlive.tv/video/283046</link>
+            <guid>https://www.vlive.tv/video/283046</guid>
+            <pubDate>Sat, 07 May 2022 21:42:42 GMT</pubDate>
+            <content:encoded><![CDATA[오후 8:45]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220508_237/1651956299768Cm0gF_JPEG/f22ddd60-ce45-11ec-9b1f-505dacfbaa5c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
