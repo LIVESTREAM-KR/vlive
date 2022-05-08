@@ -4,9 +4,24 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 07:42:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 08:47:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서호 갬성!!]]></title>
+            <link>https://www.vlive.tv/video/283060</link>
+            <guid>https://www.vlive.tv/video/283060</guid>
+            <pubDate>Sun, 08 May 2022 08:46:09 GMT</pubDate>
+            <content:encoded><![CDATA[ONEUS]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[쪼랑 디저트 먹자🧁🐯]]></title>
+            <link>https://www.vlive.tv/video/283054</link>
+            <guid>https://www.vlive.tv/video/283054</guid>
+            <pubDate>Sun, 08 May 2022 08:46:09 GMT</pubDate>
+            <content:encoded><![CDATA[드림노트 (DreamNote)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220508_102/1651996357508XfInb_JPEG/34d33990-cea0-11ec-a9d0-505dacfba98a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[뭐해🍀?]]></title>
             <link>https://www.vlive.tv/video/283056</link>
@@ -390,22 +405,6 @@
             <pubDate>Sat, 07 May 2022 03:22:56 GMT</pubDate>
             <content:encoded><![CDATA[T1419]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220507_229/1651892536309S2bGX_JPEG/upload_9597226975171817326b4200b-96ce-4b0c-9860-1bfec1dbed1a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SPECTRUM project] 예림 - 빙글빙글 (prod.햄블루) Lyric Video]]></title>
-            <link>https://www.vlive.tv/video/282787</link>
-            <guid>https://www.vlive.tv/video/282787</guid>
-            <pubDate>Sat, 07 May 2022 03:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[위드에이치씨 (withHC)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220504_57/1651645658985cTiEQ_JPEG/upload_95725375870830551c2f46d6b-48af-474a-ab32-8809fc3ee4c8.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[볼사TV] ep.17 'Seoul' MV 비하인드]]></title>
-            <link>https://www.vlive.tv/video/283003</link>
-            <guid>https://www.vlive.tv/video/283003</guid>
-            <pubDate>Sun, 08 May 2022 07:40:45 GMT</pubDate>
-            <content:encoded><![CDATA[쇼파르엔터테인먼트]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220507_116/1651886940718FWmNB_JPEG/upload_9596662943942470169fcd1f9-0886-40f7-9d36-e12398f51c4e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
