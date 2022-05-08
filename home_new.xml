@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 04:54:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 05:42:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뭐해🍀?]]></title>
+            <link>https://www.vlive.tv/video/283056</link>
+            <guid>https://www.vlive.tv/video/283056</guid>
+            <pubDate>Sun, 08 May 2022 05:41:24 GMT</pubDate>
+            <content:encoded><![CDATA[Bling Bling]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/283056/thumb?type=f228_128" length="0" type="image//live/283056/thumb"/>
+        </item>
         <item>
             <title><![CDATA[승엽데이 & 어버이날🎂]]></title>
             <link>https://www.vlive.tv/video/283052</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 07 May 2022 17:43:15 GMT</pubDate>
             <content:encoded><![CDATA[KINGDOM]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220508_124/1651942798700QWOCS_JPEG/caa2aacf-ce26-11ec-b765-d4f5ef5a9532_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신디의 늦은 라이브💜💙🐱]]></title>
-            <link>https://www.vlive.tv/video/283039</link>
-            <guid>https://www.vlive.tv/video/283039</guid>
-            <pubDate>Sat, 07 May 2022 15:45:54 GMT</pubDate>
-            <content:encoded><![CDATA[LIZ ENT]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220507_277/1651934580947QLS3m_JPEG/164810180914679178aaaced97-b836-4568-96de-3a9286604772.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
