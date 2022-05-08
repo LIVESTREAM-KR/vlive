@@ -4,17 +4,9 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 09:45:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 10:46:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[리노리방🐱아기리노]]></title>
-            <link>https://www.vlive.tv/video/283014</link>
-            <guid>https://www.vlive.tv/video/283014</guid>
-            <pubDate>Sun, 08 May 2022 09:44:08 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220507_30/1651911605704PhzQM_JPEG/488014f5-cdde-11ec-b765-d4f5ef5a9532_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[TXT (투모로우바이투게더) 'Good Boy Gone Bad' Official Teaser]]></title>
             <link>https://www.vlive.tv/video/283024</link>
@@ -24,20 +16,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20220507_38/1651919667391cBlCa_JPEG/upload_6818926910453710368960a24-d8f0-4232-9d89-efa8840c693d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[리노리방🐱아기리노]]></title>
+            <link>https://www.vlive.tv/video/283014</link>
+            <guid>https://www.vlive.tv/video/283014</guid>
+            <pubDate>Sun, 08 May 2022 09:44:08 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220507_30/1651911605704PhzQM_JPEG/488014f5-cdde-11ec-b765-d4f5ef5a9532_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리 첫 주 끝났주😎]]></title>
+            <link>https://www.vlive.tv/video/283061</link>
+            <guid>https://www.vlive.tv/video/283061</guid>
+            <pubDate>Sun, 08 May 2022 10:44:51 GMT</pubDate>
+            <content:encoded><![CDATA[LE SSERAFIM]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220508_279/1652002408817uduB6_JPEG/upload_96082123715377810ccb8d91c-0779-4e4e-986e-90e71e3ca2fc.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[뿅😊]]></title>
             <link>https://www.vlive.tv/video/281536</link>
             <guid>https://www.vlive.tv/video/281536</guid>
             <pubDate>Fri, 06 May 2022 13:52:02 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220416_48/1650094251506OOemk_JPEG/upload_94173980074495450a535b1ae-1b2a-4258-ade1-6816b2a33277.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[찬이의 "방" 🐺 Ep. 156]]></title>
-            <link>https://www.vlive.tv/video/282988</link>
-            <guid>https://www.vlive.tv/video/282988</guid>
-            <pubDate>Sat, 07 May 2022 16:57:45 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220507_235/1651852347117DOOJV_JPEG/upload_95932064578936850f80613f4-2acb-4665-89f8-d5b47f59b0b6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

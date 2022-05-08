@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 09:45:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 10:46:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -101,6 +101,7 @@
             <guid>https://www.vlive.tv/video/283060</guid>
             <pubDate>Sun, 08 May 2022 08:47:09 GMT</pubDate>
             <content:encoded><![CDATA[오전 8:07]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/283060/thumb?type=f228_128" length="0" type="image//live/283060/thumb"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 안나라수마나라 | 마술을 믿지 않는 최성은과 신비한 마술사 지창욱]]></title>
@@ -119,20 +120,36 @@
             <enclosure url="https://v-phinf.pstatic.net/20220508_263/1651993567403B7LVw_JPEG/upload_960116021247614238745183b-4a19-4168-a632-fda3ebcc00de.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[안녕~~🦊]]></title>
-            <link>https://www.vlive.tv/video/283062</link>
-            <guid>https://www.vlive.tv/video/283062</guid>
-            <pubDate>Sun, 08 May 2022 09:44:44 GMT</pubDate>
-            <content:encoded><![CDATA[오전 9:08]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/283062/thumb?type=f228_128" length="0" type="image//live/283062/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[우리 첫 주 끝났주😎]]></title>
             <link>https://www.vlive.tv/video/283061</link>
             <guid>https://www.vlive.tv/video/283061</guid>
             <pubDate>Sun, 08 May 2022 09:44:44 GMT</pubDate>
             <content:encoded><![CDATA[오전 9:21]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220508_279/1652002408817uduB6_JPEG/upload_96082123715377810ccb8d91c-0779-4e4e-986e-90e71e3ca2fc.jpeg?type=f228_128" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[정세운(JEONG SEWOON) 'Roller Coaster' Teaser]]></title>
+            <link>https://www.vlive.tv/video/282783</link>
+            <guid>https://www.vlive.tv/video/282783</guid>
+            <pubDate>Sun, 08 May 2022 10:45:27 GMT</pubDate>
+            <content:encoded><![CDATA[오전 10:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220504_192/1651659429093etA8F_JPEG/upload_95739161922687699d9cb3760-668d-421b-a3e9-fa4fee966062.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[문별] ‘C.I.T.T (Cheese in the Trap)’ Choreography Making Film]]></title>
+            <link>https://www.vlive.tv/video/283058</link>
+            <guid>https://www.vlive.tv/video/283058</guid>
+            <pubDate>Sun, 08 May 2022 10:45:27 GMT</pubDate>
+            <content:encoded><![CDATA[오전 10:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220508_175/1651993279942A8qpy_JPEG/upload_6826222430973834873b8099e-ce59-414d-919b-1995c2752487.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2022BLITIVAL] 블리처스 첫돌 기념 성장동영상🎥 (ENG/JPN/ESP/IDN)]]></title>
+            <link>https://www.vlive.tv/video/283064</link>
+            <guid>https://www.vlive.tv/video/283064</guid>
+            <pubDate>Sun, 08 May 2022 10:45:27 GMT</pubDate>
+            <content:encoded><![CDATA[오전 10:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220508_167/1652004153704PPjIM_JPEG/upload_960797139333365846d0fb4fb-9bce-41df-a4cd-471ed91b7a31.jpeg?type=f228_128" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
