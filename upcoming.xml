@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 10:46:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 11:40:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,14 +96,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220508_102/1651996357508XfInb_JPEG/34d33990-cea0-11ec-a9d0-505dacfba98a_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서호 갬성!!]]></title>
-            <link>https://www.vlive.tv/video/283060</link>
-            <guid>https://www.vlive.tv/video/283060</guid>
-            <pubDate>Sun, 08 May 2022 08:47:09 GMT</pubDate>
-            <content:encoded><![CDATA[오전 8:07]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/283060/thumb?type=f228_128" length="0" type="image//live/283060/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[[넷플릭스] 안나라수마나라 | 마술을 믿지 않는 최성은과 신비한 마술사 지창욱]]></title>
             <link>https://www.vlive.tv/video/282799</link>
             <guid>https://www.vlive.tv/video/282799</guid>
@@ -150,6 +142,38 @@
             <pubDate>Sun, 08 May 2022 10:45:27 GMT</pubDate>
             <content:encoded><![CDATA[오전 10:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220508_167/1652004153704PPjIM_JPEG/upload_960797139333365846d0fb4fb-9bce-41df-a4cd-471ed91b7a31.jpeg?type=f228_128" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[VE:HIND] 베리베리 'Undercover' M/V 촬영 비하인드]]></title>
+            <link>https://www.vlive.tv/video/283009</link>
+            <guid>https://www.vlive.tv/video/283009</guid>
+            <pubDate>Sun, 08 May 2022 11:40:25 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:01]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220507_117/1651903150357oENVD_JPEG/upload_68172732878458668bdee7bf1-2d7c-4b7c-aa5e-0d74b60e0777.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서호 갬성!!]]></title>
+            <link>https://www.vlive.tv/video/283060</link>
+            <guid>https://www.vlive.tv/video/283060</guid>
+            <pubDate>Sun, 08 May 2022 08:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:12]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220508_54/1652008325719zCLqD_JPEG/5bb2b867-cebe-11ec-98b3-48df379ccacc_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[C.I.T.T 막방 파티🥳]]></title>
+            <link>https://www.vlive.tv/video/283066</link>
+            <guid>https://www.vlive.tv/video/283066</guid>
+            <pubDate>Sun, 08 May 2022 11:40:25 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:14]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220508_65/1652008460196kl1ne_JPEG/164796834193559540ffbdb2b0-6d1f-42e6-a0d9-1a9a03aa00f6.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비오는 어버이날]]></title>
+            <link>https://www.vlive.tv/video/283067</link>
+            <guid>https://www.vlive.tv/video/283067</guid>
+            <pubDate>Sun, 08 May 2022 11:40:25 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:39]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/283067/thumb?type=f228_128" length="0" type="image//live/283067/thumb"/>
         </item>
     </channel>
 </rss>
