@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 17:45:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 18:50:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[123]]></title>
+            <link>https://www.vlive.tv/video/283082</link>
+            <guid>https://www.vlive.tv/video/283082</guid>
+            <pubDate>Sun, 08 May 2022 18:49:00 GMT</pubDate>
+            <content:encoded><![CDATA[WINNER]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220509_243/16520357285928Blxp_JPEG/164824102541005490719e1ce4-d993-43b0-aa69-e76887dad1d5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#OMRR 스마일 BE POSTIVE 💛🐝]]></title>
             <link>https://www.vlive.tv/video/283081</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 08 May 2022 13:04:05 GMT</pubDate>
             <content:encoded><![CDATA[KINGDOM]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220508_228/16520153494866YF8u_JPEG/aed3c999-cecf-11ec-a9d0-505dacfba98a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[C.I.T.T 막방 파티🥳]]></title>
-            <link>https://www.vlive.tv/video/283066</link>
-            <guid>https://www.vlive.tv/video/283066</guid>
-            <pubDate>Sun, 08 May 2022 13:45:10 GMT</pubDate>
-            <content:encoded><![CDATA[MAMAMOO]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220508_65/1652008460196kl1ne_JPEG/164796834193559540ffbdb2b0-6d1f-42e6-a0d9-1a9a03aa00f6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
