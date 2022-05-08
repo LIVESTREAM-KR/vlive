@@ -4,7 +4,7 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 May 2022 06:51:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2022 07:42:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,7 @@
             <guid>https://www.vlive.tv/video/283056</guid>
             <pubDate>Sun, 08 May 2022 05:41:15 GMT</pubDate>
             <content:encoded><![CDATA[Bling Bling]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220508_296/1651993916821avIqi_JPEG/fb55ffb2-ce9c-11ec-a0e5-505dac8c3607_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[승엽데이 & 어버이날🎂]]></title>
@@ -37,13 +38,6 @@
             <pubDate>Sun, 08 May 2022 03:58:48 GMT</pubDate>
             <content:encoded><![CDATA[P1Harmony]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220508_289/1651983346836BY9yP_JPEG/f879cf33-ce84-11ec-a2ba-48df379cc9e4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쪼랑 디저트 먹자🧁🐯]]></title>
-            <link>https://www.vlive.tv/video/283054</link>
-            <guid>https://www.vlive.tv/video/283054</guid>
-            <pubDate>Sun, 08 May 2022 04:52:49 GMT</pubDate>
-            <content:encoded><![CDATA[드림노트 (DreamNote)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[故 강수연 빈소(Kang Soo-Yeon), 너무 갑작스런 이별 '큰 별이 지다']]></title>
@@ -404,6 +398,14 @@
             <pubDate>Sat, 07 May 2022 03:22:56 GMT</pubDate>
             <content:encoded><![CDATA[위드에이치씨 (withHC)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220504_57/1651645658985cTiEQ_JPEG/upload_95725375870830551c2f46d6b-48af-474a-ab32-8809fc3ee4c8.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[볼사TV] ep.17 'Seoul' MV 비하인드]]></title>
+            <link>https://www.vlive.tv/video/283003</link>
+            <guid>https://www.vlive.tv/video/283003</guid>
+            <pubDate>Sun, 08 May 2022 07:40:45 GMT</pubDate>
+            <content:encoded><![CDATA[쇼파르엔터테인먼트]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220507_116/1651886940718FWmNB_JPEG/upload_9596662943942470169fcd1f9-0886-40f7-9d36-e12398f51c4e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
