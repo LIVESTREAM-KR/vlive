@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 06:53:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 07:43:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Super K-Pop / DKZ)]]></title>
-            <link>https://m.vlive.tv/video/282885</link>
-            <guid>https://m.vlive.tv/video/282885</guid>
-            <pubDate>Thu, 05 May 2022 11:41:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220505_197/1651750549649FeJbi_JPEG/upload_9583022707326858198139d0b-f356-4128-bde6-d7070ac41a82.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[HAPPY TAERAE DAY🎉]]></title>
             <link>https://m.vlive.tv/video/283088</link>
@@ -106,6 +96,16 @@
 										오전 4:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220506_190/1651796747540ytYSG_JPEG/upload_95876450528594403a073e611-2892-4363-9e91-c8e617897811.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Sound K] Song Express ver.3 with Denise 데니스]]></title>
+            <link>https://m.vlive.tv/video/282922</link>
+            <guid>https://m.vlive.tv/video/282922</guid>
+            <pubDate>Mon, 09 May 2022 07:43:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220509_211/1652082010147KPcVA_JPEG/upload_68066435206651747a78db261-1881-4035-8bb0-f530307469a4.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
