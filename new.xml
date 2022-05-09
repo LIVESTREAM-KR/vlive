@@ -4,9 +4,16 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 13:58:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 14:43:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[👋안녕~]]></title>
+            <link>https://www.vlive.tv/video/283138</link>
+            <guid>https://www.vlive.tv/video/283138</guid>
+            <pubDate>Mon, 09 May 2022 14:42:24 GMT</pubDate>
+            <content:encoded><![CDATA[멋진녀석들 (GreatGuys)]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[안녕하세요 유정등장]]></title>
             <link>https://www.vlive.tv/video/283135</link>
@@ -398,14 +405,6 @@
             <pubDate>Sun, 08 May 2022 14:41:47 GMT</pubDate>
             <content:encoded><![CDATA[잔나비 JANNABI]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220508_116/1652018335691QKxEj_JPEG/16480672963822441891446569-a40f-4d05-9db5-400856a9e235.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안녕!!]]></title>
-            <link>https://www.vlive.tv/video/283073</link>
-            <guid>https://www.vlive.tv/video/283073</guid>
-            <pubDate>Sun, 08 May 2022 13:45:02 GMT</pubDate>
-            <content:encoded><![CDATA[TO1]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220509_89/1652022866815pEBKf_JPEG/ba83d27e-cee0-11ec-b086-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

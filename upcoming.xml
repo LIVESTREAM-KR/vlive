@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 13:58:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 14:43:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,14 +328,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220509_138/1652099357973Cdk3e_JPEG/164887758550932814dd6fc976-9b08-466f-977f-2ed65f52f712.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[들어왕~~]]></title>
-            <link>https://www.vlive.tv/video/283134</link>
-            <guid>https://www.vlive.tv/video/283134</guid>
-            <pubDate>Mon, 09 May 2022 13:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:02]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220509_11/1652101370533DgU3G_JPEG/135412846335501681e25a11a7-f68d-40d7-b17c-34b69b7770ee.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뭐지]]></title>
             <link>https://www.vlive.tv/video/283133</link>
             <guid>https://www.vlive.tv/video/283133</guid>
@@ -382,6 +374,14 @@
             <pubDate>Mon, 09 May 2022 13:57:38 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:54]]></content:encoded>
             <enclosure url="https://vlive-thumb.pstatic.net/live/283136/thumb?type=f228_128" length="0" type="image//live/283136/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[👋안녕~]]></title>
+            <link>https://www.vlive.tv/video/283138</link>
+            <guid>https://www.vlive.tv/video/283138</guid>
+            <pubDate>Mon, 09 May 2022 14:43:26 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:41]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/283138/thumb?type=f228_128" length="0" type="image//live/283138/thumb"/>
         </item>
     </channel>
 </rss>
