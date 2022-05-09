@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 15:49:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 17:06:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[감질맛나서 안되겠군]]></title>
+            <link>https://www.vlive.tv/video/283141</link>
+            <guid>https://www.vlive.tv/video/283141</guid>
+            <pubDate>Mon, 09 May 2022 15:48:22 GMT</pubDate>
+            <content:encoded><![CDATA[Weki Meki]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220510_224/1652109837716xj2dt_JPEG/16498535568752945851406278-0b9f-4729-94c0-e9dc552703e0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[삐삐들~]]></title>
             <link>https://www.vlive.tv/video/283142</link>
@@ -14,6 +22,14 @@
             <pubDate>Mon, 09 May 2022 15:48:22 GMT</pubDate>
             <content:encoded><![CDATA[VANNER (배너)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220510_106/1652110277515JmBLT_JPEG/1648986485030663106cea5bcd-1793-4df2-a2e2-13e060021c86.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 산책 좀 하는 듯 🛼]]></title>
+            <link>https://www.vlive.tv/video/283143</link>
+            <guid>https://www.vlive.tv/video/283143</guid>
+            <pubDate>Mon, 09 May 2022 17:04:48 GMT</pubDate>
+            <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/283143/thumb?type=f228_128" length="0" type="image//live/283143/thumb"/>
         </item>
         <item>
             <title><![CDATA[👋]]></title>
@@ -30,14 +46,6 @@
             <pubDate>Mon, 09 May 2022 15:48:22 GMT</pubDate>
             <content:encoded><![CDATA[KIM SO JEONG (김소정)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220510_230/1652109882482Qcwc5_JPEG/d92fac53-cfab-11ec-a2ba-48df379cc9e4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[감질맛나서 안되겠군]]></title>
-            <link>https://www.vlive.tv/video/283141</link>
-            <guid>https://www.vlive.tv/video/283141</guid>
-            <pubDate>Mon, 09 May 2022 15:48:22 GMT</pubDate>
-            <content:encoded><![CDATA[Weki Meki]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220510_224/1652109837716xj2dt_JPEG/16498535568752945851406278-0b9f-4729-94c0-e9dc552703e0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안녕하세요 유정등장]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 09 May 2022 13:12:40 GMT</pubDate>
             <content:encoded><![CDATA[INMEDIA+]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220509_285/16521012909994z30S_JPEG/2dc30735-cf97-11ec-b52c-505dac8c37f3_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DKB(다크비) - the 4th Mini Album [REBEL] Jacket Making Film]]></title>
-            <link>https://www.vlive.tv/video/283125</link>
-            <guid>https://www.vlive.tv/video/283125</guid>
-            <pubDate>Mon, 09 May 2022 13:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[다크비(DKB)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220509_82/1652098117255w5I4u_JPEG/upload_961778138777261337296b0e9-e461-4cf6-8583-14a451249e53.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

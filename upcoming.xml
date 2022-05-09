@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 15:49:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 17:06:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,14 +392,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220509_200/1652103619095rlqNU_JPEG/16497914808716614676d99752-3233-4dfc-9715-896bc4fc3290.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[감질맛나서 안되겠군]]></title>
-            <link>https://www.vlive.tv/video/283141</link>
-            <guid>https://www.vlive.tv/video/283141</guid>
-            <pubDate>Mon, 09 May 2022 15:49:15 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:23]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220510_224/1652109837716xj2dt_JPEG/16498535568752945851406278-0b9f-4729-94c0-e9dc552703e0.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[드루와방]]></title>
             <link>https://www.vlive.tv/video/283139</link>
             <guid>https://www.vlive.tv/video/283139</guid>
@@ -416,12 +408,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20220510_159/1652110013436OB68i_JPEG/2dddfc80-cfac-11ec-912c-48df379cca40_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[요즘 산책 좀 하는 듯 🛼]]></title>
+            <link>https://www.vlive.tv/video/283143</link>
+            <guid>https://www.vlive.tv/video/283143</guid>
+            <pubDate>Mon, 09 May 2022 17:05:40 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:53]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/283143/thumb?type=f228_128" length="0" type="image//live/283143/thumb"/>
+        </item>
+        <item>
             <title><![CDATA[삐삐들~]]></title>
             <link>https://www.vlive.tv/video/283142</link>
             <guid>https://www.vlive.tv/video/283142</guid>
             <pubDate>Mon, 09 May 2022 15:49:15 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:31]]></content:encoded>
+            <content:encoded><![CDATA[오후 4:01]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220510_106/1652110277515JmBLT_JPEG/1648986485030663106cea5bcd-1793-4df2-a2e2-13e060021c86.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[감질맛나서 안되겠군]]></title>
+            <link>https://www.vlive.tv/video/283141</link>
+            <guid>https://www.vlive.tv/video/283141</guid>
+            <pubDate>Mon, 09 May 2022 15:49:15 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:15]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220510_224/1652109837716xj2dt_JPEG/16498535568752945851406278-0b9f-4729-94c0-e9dc552703e0.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
