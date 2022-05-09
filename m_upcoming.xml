@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 04:08:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 05:01:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Sound K / E'LAST 엘라스트)]]></title>
-            <link>https://m.vlive.tv/video/282888</link>
-            <guid>https://m.vlive.tv/video/282888</guid>
-            <pubDate>Thu, 05 May 2022 11:41:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220505_51/1651750787610WV7Jh_JPEG/upload_95830476796644899c04febde-b13f-4f13-98d5-1bf4a3c522b0.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Super K-Pop / DKZ)]]></title>
             <link>https://m.vlive.tv/video/282885</link>
@@ -106,6 +96,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220506_42/1651796482058Kcptl_JPEG/upload_68066055051683494899681db-2c4f-4ebf-96ea-f890346080a3.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio/K-Poppin'] Drummer and Musical Star Choi Shin Kwon 드러머&뮤지컬 배우 최신권]]></title>
+            <link>https://m.vlive.tv/video/282920</link>
+            <guid>https://m.vlive.tv/video/282920</guid>
+            <pubDate>Mon, 09 May 2022 05:00:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220506_190/1651796747540ytYSG_JPEG/upload_95876450528594403a073e611-2892-4363-9e91-c8e617897811.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
