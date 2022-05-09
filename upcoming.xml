@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 18:51:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 19:41:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -430,6 +430,14 @@
             <pubDate>Mon, 09 May 2022 17:05:40 GMT</pubDate>
             <content:encoded><![CDATA[오후 5:48]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220510_166/1652118522534n3Sca_JPEG/23d69087-cfbf-11ec-8a91-505dac8c38f5_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Short one]]></title>
+            <link>https://www.vlive.tv/video/283145</link>
+            <guid>https://www.vlive.tv/video/283145</guid>
+            <pubDate>Mon, 09 May 2022 19:41:03 GMT</pubDate>
+            <content:encoded><![CDATA[오후 7:32]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220510_241/16521238720427AMSP_JPEG/91280354812045357886a0ea9-8b9b-4e88-8e7d-09a2072e3476.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

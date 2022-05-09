@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 18:51:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 19:41:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Short one]]></title>
+            <link>https://www.vlive.tv/video/283145</link>
+            <guid>https://www.vlive.tv/video/283145</guid>
+            <pubDate>Mon, 09 May 2022 19:40:19 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220510_241/16521238720427AMSP_JPEG/91280354812045357886a0ea9-8b9b-4e88-8e7d-09a2072e3476.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 산책 좀 하는 듯 🛼]]></title>
             <link>https://www.vlive.tv/video/283143</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 09 May 2022 13:12:40 GMT</pubDate>
             <content:encoded><![CDATA[멋진녀석들 (GreatGuys)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220509_138/1652099357973Cdk3e_JPEG/164887758550932814dd6fc976-9b08-466f-977f-2ed65f52f712.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[석기시대]]></title>
-            <link>https://www.vlive.tv/video/283124</link>
-            <guid>https://www.vlive.tv/video/283124</guid>
-            <pubDate>Mon, 09 May 2022 13:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[INMEDIA+]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220509_285/16521012909994z30S_JPEG/2dc30735-cf97-11ec-b52c-505dac8c37f3_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

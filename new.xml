@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 18:51:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 19:41:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Short one]]></title>
+            <link>https://www.vlive.tv/video/283145</link>
+            <guid>https://www.vlive.tv/video/283145</guid>
+            <pubDate>Mon, 09 May 2022 19:40:11 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220510_241/16521238720427AMSP_JPEG/91280354812045357886a0ea9-8b9b-4e88-8e7d-09a2072e3476.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[요즘 산책 좀 하는 듯 🛼]]></title>
             <link>https://www.vlive.tv/video/283143</link>
@@ -398,14 +406,6 @@
             <pubDate>Mon, 09 May 2022 02:37:08 GMT</pubDate>
             <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220506_133/1651796380157L4A86_JPEG/upload_95876065904467602b67b1b8a-a617-42a4-960b-a9867f48e199.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[《예고》데뷔 3년 만에 첫 번째 정규 앨범을 발매한 베리베리(VERIVERY)가 ASC를 찾아온다! _ 522회]]></title>
-            <link>https://www.vlive.tv/video/283084</link>
-            <guid>https://www.vlive.tv/video/283084</guid>
-            <pubDate>Mon, 09 May 2022 02:37:08 GMT</pubDate>
-            <content:encoded><![CDATA[After School Club │ 애프터스쿨클럽]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220509_74/1652060240398Xc0lY_PNG/upload_96139922912593266448ca10e-e99e-4bf6-b67a-9a225bd307b0.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
