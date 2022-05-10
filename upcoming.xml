@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 17:08:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 17:50:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -582,6 +582,14 @@
             <pubDate>Tue, 10 May 2022 17:08:08 GMT</pubDate>
             <content:encoded><![CDATA[오후 4:03]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220511_21/1652198245495cLSQL_JPEG/164986616455701996d9393b2e-a215-40aa-bd4a-3288019bbec2.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밤산책 NIGHT WALKING 🐝]]></title>
+            <link>https://www.vlive.tv/video/283220</link>
+            <guid>https://www.vlive.tv/video/283220</guid>
+            <pubDate>Tue, 10 May 2022 17:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:13]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220511_228/1652202828779KNpQF_JPEG/d2cf0ba9-d083-11ec-a12d-505dac8c381b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
