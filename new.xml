@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 03:08:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 03:52:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[숙소 도착!]]></title>
+            <link>https://www.vlive.tv/video/283151</link>
+            <guid>https://www.vlive.tv/video/283151</guid>
+            <pubDate>Tue, 10 May 2022 03:50:59 GMT</pubDate>
+            <content:encoded><![CDATA[멋진녀석들 (GreatGuys)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220510_204/16521539748285PHXA_JPEG/1649424307882821308c8ce3da-c97b-4671-b772-d185e6c2cc9a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이유(IU), '배우 이지은으로 칸 다녀올게요' ('브로커' 포토타임)]]></title>
             <link>https://www.vlive.tv/video/283149</link>
@@ -398,14 +406,6 @@
             <pubDate>Mon, 09 May 2022 05:43:26 GMT</pubDate>
             <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220506_62/1651796674767yKsco_JPEG/upload_95876369494620116ec45ac48-59f7-41d6-b512-b35018e9a74a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허각(Huh Gak), 오랜만에 찾은 불후의 명곡 '출근길 포토타임 어색해요']]></title>
-            <link>https://www.vlive.tv/video/283094</link>
-            <guid>https://www.vlive.tv/video/283094</guid>
-            <pubDate>Mon, 09 May 2022 04:59:51 GMT</pubDate>
-            <content:encoded><![CDATA[mydaily]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220509_123/1652069887227oRfGN_JPEG/upload_96149566636424177b4fc1286-7cd5-4774-8928-aeac3b2ef05c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
