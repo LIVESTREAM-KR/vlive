@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 07:43:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 08:51:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뭐해 포애기]]></title>
+            <link>https://www.vlive.tv/video/283262</link>
+            <guid>https://www.vlive.tv/video/283262</guid>
+            <pubDate>Wed, 11 May 2022 08:50:06 GMT</pubDate>
+            <content:encoded><![CDATA[OMEGA X (오메가엑스)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220511_215/1652255797683cRMik_JPEG/391937dc-d0fd-11ec-a3bf-505dac8c3639_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다시..]]></title>
+            <link>https://www.vlive.tv/video/283261</link>
+            <guid>https://www.vlive.tv/video/283261</guid>
+            <pubDate>Wed, 11 May 2022 08:50:06 GMT</pubDate>
+            <content:encoded><![CDATA[EVERGLOW (에버글로우)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220511_74/1652255407956sefSt_JPEG/a74da75a-d0fd-11ec-b765-d4f5ef5a9532_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Sound K] Song Express ver.3 with Denise 데니스]]></title>
             <link>https://www.vlive.tv/video/282922</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 11 May 2022 04:10:00 GMT</pubDate>
             <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220511_246/16522341026118dr1o_JPEG/upload_96313819130787696fef907a7-59ba-420b-ac70-02089e37ce5a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[햅삐지녕데이💖]]></title>
-            <link>https://www.vlive.tv/video/283241</link>
-            <guid>https://www.vlive.tv/video/283241</guid>
-            <pubDate>Wed, 11 May 2022 04:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[CIX]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220511_222/1652240995336zKqVD_JPEG/5fca5cb1-d0dd-11ec-861a-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[IMERA] EP.124 콘서트 비하인드 (포스터,VCR 촬영) #1]]></title>
-            <link>https://www.vlive.tv/video/283179</link>
-            <guid>https://www.vlive.tv/video/283179</guid>
-            <pubDate>Wed, 11 May 2022 04:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[위아이 (WEi)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220510_159/1652171545750yNR9j_JPEG/upload_9625093225046895123822b09-6a05-4791-ba54-5f777d727b7f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 07:43:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 08:51:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뭐해 포애기]]></title>
+            <link>https://www.vlive.tv/video/283262</link>
+            <guid>https://www.vlive.tv/video/283262</guid>
+            <pubDate>Wed, 11 May 2022 08:49:57 GMT</pubDate>
+            <content:encoded><![CDATA[OMEGA X (오메가엑스)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220511_215/1652255797683cRMik_JPEG/391937dc-d0fd-11ec-a3bf-505dac8c3639_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다시..]]></title>
+            <link>https://www.vlive.tv/video/283261</link>
+            <guid>https://www.vlive.tv/video/283261</guid>
+            <pubDate>Wed, 11 May 2022 08:49:57 GMT</pubDate>
+            <content:encoded><![CDATA[EVERGLOW (에버글로우)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220511_74/1652255407956sefSt_JPEG/a74da75a-d0fd-11ec-b765-d4f5ef5a9532_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Sound K] Song Express ver.3 with Denise 데니스]]></title>
             <link>https://www.vlive.tv/video/282922</link>
@@ -390,22 +406,6 @@
             <pubDate>Tue, 10 May 2022 11:41:09 GMT</pubDate>
             <content:encoded><![CDATA[EPEX]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220510_173/1652184752533HJRie_JPEG/80698b47-d059-11ec-a9d0-505dacfba98a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['미라클 인터내셔널’ 7주년 창립 기념일 by. 마케팅팀 오마이걸 VCR Behind the Scene]]></title>
-            <link>https://www.vlive.tv/video/283202</link>
-            <guid>https://www.vlive.tv/video/283202</guid>
-            <pubDate>Tue, 10 May 2022 13:29:05 GMT</pubDate>
-            <content:encoded><![CDATA[OH MY GIRL]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220510_173/16521813119249RNhJ_JPEG/upload_962610141363077187a6d2fab-88bf-4e0b-89e4-ec2ad13cf8d8.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[생방송] #속_보입니다 #2]]></title>
-            <link>https://www.vlive.tv/video/283200</link>
-            <guid>https://www.vlive.tv/video/283200</guid>
-            <pubDate>Tue, 10 May 2022 11:41:09 GMT</pubDate>
-            <content:encoded><![CDATA[JUST B (저스트비)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220510_58/16521840577674kE2s_JPEG/1b448edc-d058-11ec-a3bf-505dac8c3639_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
