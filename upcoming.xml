@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 17:52:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 18:51:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -600,14 +600,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220512_166/1652286032290hgFyd_JPEG/b8e35ec9-d145-11ec-9021-48df37ae3fca_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[#OMRR 수요일밤🪸]]></title>
-            <link>https://www.vlive.tv/video/283302</link>
-            <guid>https://www.vlive.tv/video/283302</guid>
-            <pubDate>Wed, 11 May 2022 17:08:08 GMT</pubDate>
-            <content:encoded><![CDATA[오후 4:31]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220512_164/1652286699694DuSkI_JPEG/74339138230267822de8c35c5-0a03-4979-830b-360ed864c2ef.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[끊겨버렸다😭😭]]></title>
             <link>https://www.vlive.tv/video/283301</link>
             <guid>https://www.vlive.tv/video/283301</guid>
@@ -620,8 +612,16 @@
             <link>https://www.vlive.tv/video/283303</link>
             <guid>https://www.vlive.tv/video/283303</guid>
             <pubDate>Wed, 11 May 2022 17:52:11 GMT</pubDate>
-            <content:encoded><![CDATA[오후 5:17]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/283303/thumb?type=f228_128" length="0" type="image//live/283303/thumb"/>
+            <content:encoded><![CDATA[오후 6:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220512_52/16522920424870R52H_JPEG/d58ed0ad-d153-11ec-a3bf-505dac8c3639_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#OMRR 수요일밤🪸]]></title>
+            <link>https://www.vlive.tv/video/283302</link>
+            <guid>https://www.vlive.tv/video/283302</guid>
+            <pubDate>Wed, 11 May 2022 17:08:08 GMT</pubDate>
+            <content:encoded><![CDATA[오후 6:14]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220512_164/1652286699694DuSkI_JPEG/74339138230267822de8c35c5-0a03-4979-830b-360ed864c2ef.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
