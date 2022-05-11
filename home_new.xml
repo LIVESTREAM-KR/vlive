@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 17:08:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 17:52:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DINO😴 귀대귀대#96]]></title>
+            <link>https://www.vlive.tv/video/283303</link>
+            <guid>https://www.vlive.tv/video/283303</guid>
+            <pubDate>Wed, 11 May 2022 17:51:16 GMT</pubDate>
+            <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/283303/thumb?type=f228_128" length="0" type="image//live/283303/thumb"/>
+        </item>
         <item>
             <title><![CDATA[끊겨버렸다😭😭]]></title>
             <link>https://www.vlive.tv/video/283301</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 11 May 2022 15:48:22 GMT</pubDate>
             <content:encoded><![CDATA[AB6IX]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220511_84/1652249916822x4DiO_JPEG/upload_6851948448011166925b7cd29-f0ac-4ebe-aa01-1c9df73d9311.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[an녕]]></title>
-            <link>https://www.vlive.tv/video/283285</link>
-            <guid>https://www.vlive.tv/video/283285</guid>
-            <pubDate>Wed, 11 May 2022 13:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[E'LAST]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220511_296/1652280886436qxKrD_JPEG/2876d489-d139-11ec-b765-d4f5ef5a9532_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
