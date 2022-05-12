@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 05:49:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 06:55:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / Super K-Pop] Stray Quiz]]></title>
-            <link>https://m.vlive.tv/video/282925</link>
-            <guid>https://m.vlive.tv/video/282925</guid>
-            <pubDate>Tue, 10 May 2022 04:53:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220506_132/16517970802132AKxj_JPEG/upload_95876780102652104e3d45abf-89cc-4cd2-9289-d09b23521432.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[✨블리처스 돌잔치✨]]></title>
             <link>https://m.vlive.tv/video/283016</link>
@@ -66,6 +56,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220509_61/1652081982545U8CH9_JPEG/upload_9587659231804756823f96079-6670-4197-bf83-0901b13da051.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🐰05즈의 잘보이는 라디오📻🦜 EP.12 5월은 ♡가정의 달♡]]></title>
+            <link>https://m.vlive.tv/video/283160</link>
+            <guid>https://m.vlive.tv/video/283160</guid>
+            <pubDate>Thu, 12 May 2022 06:55:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:30</span>
+										<span class="txt">TRI.BE</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220510_9/165216077651679kcH_JPEG/upload_6843029560556161715330a69-ee28-448b-a92c-06e59241f96e.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
