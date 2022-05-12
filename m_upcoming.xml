@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 11:42:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 13:25:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[저희가 이렇게 오게 될 줄 몰랐는데...]]></title>
-            <link>https://m.vlive.tv/video/283367</link>
-            <guid>https://m.vlive.tv/video/283367</guid>
-            <pubDate>Thu, 12 May 2022 11:42:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:50</span>
-										<span class="txt">TRENDZ (트렌드지)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220512_126/1652355562783ADmP6_JPEG/upload_96435267219997262a0890e80-9af3-4cc6-a6ae-3d950dff8225.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[💜아기 천사👼 유쿠 생일🎂💜]]></title>
-            <link>https://m.vlive.tv/video/283270</link>
-            <guid>https://m.vlive.tv/video/283270</guid>
-            <pubDate>Wed, 11 May 2022 15:49:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 12:00</span>
-										<span class="txt">다크비(DKB)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220511_133/1652260901555daVSc_JPEG/upload_963402720118443451d45dd23-5023-439f-b9ba-ca2779745238.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
             <link>https://m.vlive.tv/video/282918</link>
@@ -76,6 +56,16 @@
 										오후 12:00</span>
 										<span class="txt">KINGDOM</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220509_1/1652082239449rv2Cy_JPEG/upload_96161906159855749c7dd0275-241f-4844-a333-3ff5004b48e2.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MONSTA X 7th Anniversary]]></title>
+            <link>https://m.vlive.tv/video/283355</link>
+            <guid>https://m.vlive.tv/video/283355</guid>
+            <pubDate>Thu, 12 May 2022 13:24:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 2:00</span>
+										<span class="txt">MONSTA X</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220512_264/16523460036746CmXU_JPEG/upload_96425568826626590b52a1e33-4b81-4fb4-80fa-7fc77b651852.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
