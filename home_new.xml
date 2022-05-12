@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 04:02:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 05:03:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / Kimmiso 김미소)]]></title>
+            <link>https://www.vlive.tv/video/283263</link>
+            <guid>https://www.vlive.tv/video/283263</guid>
+            <pubDate>Thu, 12 May 2022 05:02:28 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220512_42/1652330556724kppxp_JPEG/upload_68600159549278269fbbab71e-0dc1-4a01-9977-e47e3431519d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SEVENTEEN (세븐틴) 4th Album 'Face the Sun' Jacket Behind The Scenes ep.2 Shadow]]></title>
             <link>https://www.vlive.tv/video/283287</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 11 May 2022 15:48:22 GMT</pubDate>
             <content:encoded><![CDATA[LIZ ENT]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220512_72/1652282872534rSOGL_JPEG/165158475505912332d28bd984-2703-4247-af23-99873841b9d0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공방 드루와드루와🐯🐶]]></title>
-            <link>https://www.vlive.tv/video/283300</link>
-            <guid>https://www.vlive.tv/video/283300</guid>
-            <pubDate>Wed, 11 May 2022 17:07:13 GMT</pubDate>
-            <content:encoded><![CDATA[ONEUS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220512_234/1652284855088y18gP_JPEG/7e204242-d143-11ec-b8ef-d4f5ef5906a4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
