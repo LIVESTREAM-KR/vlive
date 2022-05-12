@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 08:50:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 09:46:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -66,6 +66,16 @@
 										오전 10:30</span>
 										<span class="txt">TRI.BE</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220510_9/165216077651679kcH_JPEG/upload_6843029560556161715330a69-ee28-448b-a92c-06e59241f96e.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무디 보고싶은 밤]]></title>
+            <link>https://m.vlive.tv/video/283106</link>
+            <guid>https://m.vlive.tv/video/283106</guid>
+            <pubDate>Thu, 12 May 2022 09:46:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 12:00</span>
+										<span class="txt">KINGDOM</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220509_1/1652082239449rv2Cy_JPEG/upload_96161906159855749c7dd0275-241f-4844-a333-3ff5004b48e2.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
