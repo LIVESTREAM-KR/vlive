@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 May 2022 16:03:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2022 16:59:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[굿이브닝🌻]]></title>
+            <link>https://www.vlive.tv/video/284051</link>
+            <guid>https://www.vlive.tv/video/284051</guid>
+            <pubDate>Sun, 22 May 2022 16:58:21 GMT</pubDate>
+            <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220523_223/1653235533211PpsDs_JPEG/2c77c6f7-d9e8-11ec-832c-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TXT (투모로우바이투게더) 'Opening Sequence' Dance Practice]]></title>
             <link>https://www.vlive.tv/video/283984</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 22 May 2022 16:01:39 GMT</pubDate>
             <content:encoded><![CDATA[EPEX]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220522_116/165322080398869lFV_JPEG/4008174599966024da90cc02-6751-4fcc-9c06-f875272dd310.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘 무슨 날이게?🐯]]></title>
-            <link>https://www.vlive.tv/video/284040</link>
-            <guid>https://www.vlive.tv/video/284040</guid>
-            <pubDate>Sun, 22 May 2022 16:01:39 GMT</pubDate>
-            <content:encoded><![CDATA[JUST B (저스트비)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220522_200/1653220040273f3b0F_JPEG/db9e5751-d9c3-11ec-9fc6-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
