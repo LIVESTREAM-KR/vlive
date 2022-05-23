@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 May 2022 06:57:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2022 07:45:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / Sycho 조순영)]]></title>
+            <link>https://www.vlive.tv/video/284020</link>
+            <guid>https://www.vlive.tv/video/284020</guid>
+            <pubDate>Mon, 23 May 2022 07:44:06 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220521_106/1653142776399hXOaR_JPEG/upload_972224517620637661fdf6d6a-bae9-4251-8ff1-d339e6e596cc.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Arirang Radio (Super K-Pop / ALICE 앨리스)]]></title>
             <link>https://www.vlive.tv/video/284022</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 22 May 2022 16:01:39 GMT</pubDate>
             <content:encoded><![CDATA[DoubleH TNE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220523_137/16532316081618X2PQ_JPEG/upload_9731119355071098813ccbc19-0180-4f9d-b58d-11293a66b7e3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BVNDIT(밴디트) - "VENOM" Music Video Teaser 1]]></title>
-            <link>https://www.vlive.tv/video/284050</link>
-            <guid>https://www.vlive.tv/video/284050</guid>
-            <pubDate>Sun, 22 May 2022 16:01:39 GMT</pubDate>
-            <content:encoded><![CDATA[BVNDIT(밴디트)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220522_34/16532292989164O2ho_JPEG/upload_97309026027399471e8a34c64-a718-4560-ae3d-02ab33496cea.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
