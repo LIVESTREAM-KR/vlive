@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 May 2022 04:10:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2022 05:04:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Sound K / Sycho 조순영)]]></title>
-            <link>https://m.vlive.tv/video/284020</link>
-            <guid>https://m.vlive.tv/video/284020</guid>
-            <pubDate>Sun, 22 May 2022 16:02:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220521_106/1653142776399hXOaR_JPEG/upload_972224517620637661fdf6d6a-bae9-4251-8ff1-d339e6e596cc.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Super K-Pop / ALICE 앨리스)]]></title>
             <link>https://m.vlive.tv/video/284022</link>
@@ -38,14 +28,14 @@
             <enclosure url="https://v-phinf.pstatic.net/20220520_104/1653043845823QIFYu_JPEG/upload_9712149423090535547a793ba-e381-477b-b44d-761e35fdb84c.jpeg?type=f274_154" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Arirang Radio (Radio'n Us / Ku Wonchan 구원찬)]]></title>
+            <title><![CDATA[Arirang Radio (Radio'n Us / Ku OneChan 구원찬)]]></title>
             <link>https://m.vlive.tv/video/283798</link>
             <guid>https://m.vlive.tv/video/283798</guid>
             <pubDate>Sun, 22 May 2022 16:02:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="time">
 										오전 11:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220519_285/1652946301514L71DI_JPEG/upload_970259764073865895b136b7b-0ebc-4157-abf8-f050ad46d627.jpg?type=f274_154" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220523_48/1653281200196VxUXi_JPEG/upload_973608802146763328cfab2c8-08e4-40b0-9da3-2217ecec1ad9.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[❤언제부터가 스포였을까요?😜❤]]></title>
@@ -86,6 +76,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220520_169/165300882951436hIB_JPEG/upload_9708852123929515957fcec68-5ae1-4714-8bf9-12b5e184e18a.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop]Oh My K-Pop with NIve]]></title>
+            <link>https://m.vlive.tv/video/283866</link>
+            <guid>https://m.vlive.tv/video/283866</guid>
+            <pubDate>Mon, 23 May 2022 05:03:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220520_284/16530089530062NiCO_JPEG/upload_9708865934731604216d0cb12-d937-4ef8-8b65-e4682417a96d.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
