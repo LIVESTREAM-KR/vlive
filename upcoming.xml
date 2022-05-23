@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 May 2022 17:01:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2022 17:46:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -440,14 +440,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220524_271/1653321425649vHxTm_JPEG/166197028584912048619bb229-576c-4b64-8377-981da60fba46.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[당근라이브❤️]]></title>
-            <link>https://www.vlive.tv/video/284123</link>
-            <guid>https://www.vlive.tv/video/284123</guid>
-            <pubDate>Mon, 23 May 2022 17:01:16 GMT</pubDate>
-            <content:encoded><![CDATA[오후 4:00]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/284123/thumb?type=f228_128" length="0" type="image//live/284123/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[🐿산책]]></title>
             <link>https://www.vlive.tv/video/284121</link>
             <guid>https://www.vlive.tv/video/284121</guid>
@@ -460,8 +452,16 @@
             <link>https://www.vlive.tv/video/284125</link>
             <guid>https://www.vlive.tv/video/284125</guid>
             <pubDate>Mon, 23 May 2022 17:01:16 GMT</pubDate>
-            <content:encoded><![CDATA[오후 4:56]]></content:encoded>
+            <content:encoded><![CDATA[오후 5:07]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220524_289/1653325005744naKAL_JPEG/13663648153856989916a4f610-dec2-43cf-a62e-8c516306de09.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[당근라이브❤️]]></title>
+            <link>https://www.vlive.tv/video/284123</link>
+            <guid>https://www.vlive.tv/video/284123</guid>
+            <pubDate>Mon, 23 May 2022 17:01:16 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:21]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220524_83/1653326469404bIiLK_JPEG/3abffc4b-dabc-11ec-946a-d4f5ef58ac88_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
