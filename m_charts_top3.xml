@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ CHARTS </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 May 2022 11:42:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2022 13:19:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220522_14/1653229229513sNKVA_JPEG/81268afd-d9d9-11ec-b400-48df379ccacc_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[가벼운 소통]]></title>
-            <link>https://m.vlive.tv/video/284039</link>
-            <guid>https://m.vlive.tv/video/284039</guid>
-            <pubDate>Sun, 22 May 2022 16:02:14 GMT</pubDate>
-            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220522_132/1653214727576egj02_JPEG/upload_69484324548127041beb84aa5-3fd8-4743-91dc-d46b14c0e3e8.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[TXT (투모로우바이투게더) 'Opening Sequence' Dance Practice]]></title>
             <link>https://m.vlive.tv/video/283984</link>
             <guid>https://m.vlive.tv/video/283984</guid>
             <pubDate>Mon, 23 May 2022 09:47:01 GMT</pubDate>
             <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220522_95/1653229698675Qp3At_JPEG/upload_97187574587763267156af652-a569-4bb9-af3b-d2f3ecb8843c.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가벼운 소통]]></title>
+            <link>https://m.vlive.tv/video/284039</link>
+            <guid>https://m.vlive.tv/video/284039</guid>
+            <pubDate>Sun, 22 May 2022 16:02:14 GMT</pubDate>
+            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220522_132/1653214727576egj02_JPEG/upload_69484324548127041beb84aa5-3fd8-4743-91dc-d46b14c0e3e8.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
