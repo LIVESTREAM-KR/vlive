@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 08:51:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 09:47:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,6 +76,26 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220520_286/1653008455663t8RRT_JPEG/upload_6927804220168752614da3795-51ff-448d-a4d8-31656532ddd9.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / Naachal 나찰)]]></title>
+            <link>https://m.vlive.tv/video/284021</link>
+            <guid>https://m.vlive.tv/video/284021</guid>
+            <pubDate>Tue, 24 May 2022 09:46:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220521_278/1653142847448WlBFj_JPEG/upload_6941241266407859281ab72d9-9d4b-4503-a9c8-52ba3ed93df5.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop] Stray Quiz]]></title>
+            <link>https://m.vlive.tv/video/283867</link>
+            <guid>https://m.vlive.tv/video/283867</guid>
+            <pubDate>Tue, 24 May 2022 09:46:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220520_4/1653009258073GgKFH_JPEG/upload_970889540516763589fe0ed5d-11b0-495c-a50d-6ce61c1f5446.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
