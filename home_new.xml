@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 17:49:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 18:52:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[허영생의 잠못드는밤에 (하...)]]></title>
+            <link>https://www.vlive.tv/video/284202</link>
+            <guid>https://www.vlive.tv/video/284202</guid>
+            <pubDate>Tue, 24 May 2022 18:51:34 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220525_176/1653415014726FsFwb_JPEG/166203385704180817ccbb043b-6040-498d-bed3-bb06529d8baf.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#NEWBEE 🐝]]></title>
             <link>https://www.vlive.tv/video/284200</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 24 May 2022 10:46:08 GMT</pubDate>
             <content:encoded><![CDATA[TRI.BE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220524_128/1653388222461DXvhj_JPEG/16626383844860058273b396c2-e4e2-481f-87dc-f4f38363507d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[즐거운 화요일!! 🔥🔥🔥]]></title>
-            <link>https://www.vlive.tv/video/284176</link>
-            <guid>https://www.vlive.tv/video/284176</guid>
-            <pubDate>Tue, 24 May 2022 10:46:08 GMT</pubDate>
-            <content:encoded><![CDATA[DRIPPIN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220524_90/1653394098597wVpIF_JPEG/ac457cfa-db59-11ec-928a-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

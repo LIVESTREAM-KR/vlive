@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 17:49:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 18:52:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[허영생의 잠못드는밤에 (하...)]]></title>
+            <link>https://www.vlive.tv/video/284202</link>
+            <guid>https://www.vlive.tv/video/284202</guid>
+            <pubDate>Tue, 24 May 2022 18:51:25 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220525_176/1653415014726FsFwb_JPEG/166203385704180817ccbb043b-6040-498d-bed3-bb06529d8baf.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#NEWBEE 🐝]]></title>
             <link>https://www.vlive.tv/video/284200</link>
@@ -398,14 +406,6 @@
             <pubDate>Tue, 24 May 2022 09:45:52 GMT</pubDate>
             <content:encoded><![CDATA[Weeekly(위클리)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220523_214/1653296252104weIky_JPEG/upload_9737591445667275750bb2303-824d-429b-9c36-8642af7d52ef.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Live Clip] 케이시(Kassy)_'점점 지쳐가 (HATE YOU)']]></title>
-            <link>https://www.vlive.tv/video/284072</link>
-            <guid>https://www.vlive.tv/video/284072</guid>
-            <pubDate>Tue, 24 May 2022 09:45:52 GMT</pubDate>
-            <content:encoded><![CDATA[케이시(Kassy)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220523_195/1653283002802IpEwT_JPEG/upload_6955260406338426164b2b985-08ef-4c9d-bffc-6926626917d0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
