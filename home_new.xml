@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 15:49:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 17:03:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#NEWBEE 🐝]]></title>
+            <link>https://www.vlive.tv/video/284200</link>
+            <guid>https://www.vlive.tv/video/284200</guid>
+            <pubDate>Tue, 24 May 2022 17:02:37 GMT</pubDate>
+            <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220525_117/1653408251812yeV9S_JPEG/1661966457637471199af924ea-f47c-491c-a18b-5a1158cac5ce.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SEVENTEEN (세븐틴) 'HOT' Official Teaser 2]]></title>
             <link>https://www.vlive.tv/video/284179</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 24 May 2022 10:46:08 GMT</pubDate>
             <content:encoded><![CDATA[DRIPPIN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220524_90/1653394098597wVpIF_JPEG/ac457cfa-db59-11ec-928a-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[은기록 l 殷基錄] 대기실에서 은기는...?]]></title>
-            <link>https://www.vlive.tv/video/284186</link>
-            <guid>https://www.vlive.tv/video/284186</guid>
-            <pubDate>Tue, 24 May 2022 13:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[HONG EUNKI]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220524_207/1653392260980oLHeo_JPEG/upload_696617445711722424ff8748f-ec09-489f-b2e5-d2d3c4f9f1c6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
