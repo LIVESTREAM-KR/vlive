@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 13:23:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 13:59:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[T1419의 특별한 숙소 대공개? 한밤의 메타버스 소통 Live]]></title>
-            <link>https://m.vlive.tv/video/284194</link>
-            <guid>https://m.vlive.tv/video/284194</guid>
-            <pubDate>Tue, 24 May 2022 13:22:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 1:30</span>
-										<span class="txt">T1419</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220524_106/1653396667752hB32l_JPEG/upload_97476338995722061bda8d37e-17b2-40f7-a329-b74cd7728e6b.jpeg?type=f274_154" length="0" type="image/jpeg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthew]]></title>
             <link>https://m.vlive.tv/video/283857</link>
@@ -96,6 +86,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220521_278/1653142847448WlBFj_JPEG/upload_6941241266407859281ab72d9-9d4b-4503-a9c8-52ba3ed93df5.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop] Stray Quiz]]></title>
+            <link>https://m.vlive.tv/video/283867</link>
+            <guid>https://m.vlive.tv/video/283867</guid>
+            <pubDate>Tue, 24 May 2022 13:59:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220520_4/1653009258073GgKFH_JPEG/upload_970889540516763589fe0ed5d-11b0-495c-a50d-6ce61c1f5446.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
