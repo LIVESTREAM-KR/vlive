@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 10:47:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 11:42:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Tue, 24 May 2022 07:43:19 GMT</pubDate>
             <content:encoded><![CDATA[Kep1er]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220524_213/1653372166987jmMGE_JPEG/16616070292701574965f9be3c-33b1-4b29-991f-ee921369dc3f.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이스 5주년 추카추카 초이스랑 5래5래]]></title>
-            <link>https://www.vlive.tv/video/283940</link>
-            <guid>https://www.vlive.tv/video/283940</guid>
-            <pubDate>Mon, 23 May 2022 17:00:51 GMT</pubDate>
-            <content:encoded><![CDATA[에이스(A.C.E)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220520_104/1653043845823QIFYu_JPEG/upload_9712149423090535547a793ba-e381-477b-b44d-761e35fdb84c.jpeg?type=f380_213_wp" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[2 Kids Room(투키즈룸)] Ep.18 리노 X 승민]]></title>
@@ -37,7 +29,15 @@
             <guid>https://www.vlive.tv/video/284107</guid>
             <pubDate>Mon, 23 May 2022 13:18:20 GMT</pubDate>
             <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220523_93/1653303681767IriiP_JPEG/924601646110879211eff933a-49f8-4e47-9cf7-c07d192a94b5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220523_93/1653303681767IriiP_JPEG/924601646110879211eff933a-49f8-4e47-9cf7-c07d192a94b5.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에이스 5주년 추카추카 초이스랑 5래5래]]></title>
+            <link>https://www.vlive.tv/video/283940</link>
+            <guid>https://www.vlive.tv/video/283940</guid>
+            <pubDate>Mon, 23 May 2022 17:00:51 GMT</pubDate>
+            <content:encoded><![CDATA[에이스(A.C.E)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220520_104/1653043845823QIFYu_JPEG/upload_9712149423090535547a793ba-e381-477b-b44d-761e35fdb84c.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[TO DO X TOMORROW X TOGETHER] Teaser]]></title>
@@ -48,20 +48,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220519_44/1652953839143kKkVX_JPEG/upload_69223374032058588a9efe22b-711c-4615-a4f2-39dfc94159a4.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[로하 ㅠㅠ 우리 상받았다~]]></title>
+            <link>https://www.vlive.tv/video/284177</link>
+            <guid>https://www.vlive.tv/video/284177</guid>
+            <pubDate>Tue, 24 May 2022 11:41:16 GMT</pubDate>
+            <content:encoded><![CDATA[ASTRO]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220524_165/1653390818272uVpTs_JPEG/44bf6dc9-db52-11ec-946a-d4f5ef58ac88_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[댓댓]]></title>
             <link>https://www.vlive.tv/video/282830</link>
             <guid>https://www.vlive.tv/video/282830</guid>
             <pubDate>Wed, 04 May 2022 13:21:04 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220504_293/1651667355325JCbnt_JPEG/upload_95747056434642569834b29f0-b742-4fb0-90ab-d9d02e72d2bd.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찬이의 "방" 🐺 Ep. 158]]></title>
-            <link>https://www.vlive.tv/video/284047</link>
-            <guid>https://www.vlive.tv/video/284047</guid>
-            <pubDate>Sun, 22 May 2022 16:02:05 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220522_14/1653229229513sNKVA_JPEG/81268afd-d9d9-11ec-b400-48df379ccacc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
