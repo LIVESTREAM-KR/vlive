@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ CHARTS TOP3</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 19:41:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 20:46:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220526_23/16535464855345JxNi_JPEG/7a1e215d-dcbc-11ec-bb12-d4f5ef5a9532_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[댓댓]]></title>
-            <link>https://www.vlive.tv/video/282830</link>
-            <guid>https://www.vlive.tv/video/282830</guid>
-            <pubDate>Thu, 26 May 2022 15:49:32 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220504_293/1651667355325JCbnt_JPEG/upload_95747056434642569834b29f0-b742-4fb0-90ab-d9d02e72d2bd.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[LP듣장🎶 Ep.22]]></title>
             <link>https://www.vlive.tv/video/284345</link>
             <guid>https://www.vlive.tv/video/284345</guid>
             <pubDate>Thu, 26 May 2022 17:47:42 GMT</pubDate>
             <content:encoded><![CDATA[2PM]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220526_300/16535703023209BmvR_JPEG/47d64186-dcf3-11ec-aef4-48df37ae3fca_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[댓댓]]></title>
+            <link>https://www.vlive.tv/video/282830</link>
+            <guid>https://www.vlive.tv/video/282830</guid>
+            <pubDate>Thu, 26 May 2022 15:49:32 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220504_293/1651667355325JCbnt_JPEG/upload_95747056434642569834b29f0-b742-4fb0-90ab-d9d02e72d2bd.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
