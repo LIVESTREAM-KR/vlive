@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 17:04:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 17:49:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -408,14 +408,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220526_38/1653569113236FXCoe_JPEG/96d7169b-dcf1-11ec-8863-48df379cc9e4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[밥묵장]]></title>
-            <link>https://www.vlive.tv/video/284351</link>
-            <guid>https://www.vlive.tv/video/284351</guid>
-            <pubDate>Thu, 26 May 2022 13:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:48]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220526_232/1653568295122O3Jio_JPEG/471860714034358034a0400b4-ea06-45aa-b2c0-a6733e7590c8.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[CW❤️ DAY]]></title>
             <link>https://www.vlive.tv/video/284346</link>
             <guid>https://www.vlive.tv/video/284346</guid>
@@ -504,14 +496,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220527_293/1653578507165V5VtX_JPEG/f8315ea3-dd06-11ec-928a-48df37ae3dc4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[컨셉포토 본 얼른 와우들 들어와😝]]></title>
-            <link>https://www.vlive.tv/video/284361</link>
-            <guid>https://www.vlive.tv/video/284361</guid>
-            <pubDate>Thu, 26 May 2022 15:50:15 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:31]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/284361/thumb?type=f228_128" length="0" type="image//live/284361/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[영국 꼬마 신사]]></title>
             <link>https://www.vlive.tv/video/284365</link>
             <guid>https://www.vlive.tv/video/284365</guid>
@@ -542,6 +526,14 @@
             <pubDate>Thu, 26 May 2022 15:50:15 GMT</pubDate>
             <content:encoded><![CDATA[오후 5:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220527_264/1653579256316Rit4A_JPEG/166454786262476168715bcde8-7863-4af2-b6b7-e3d833846bf1.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[컨셉포토 본 얼른 와우들 들어와😝]]></title>
+            <link>https://www.vlive.tv/video/284361</link>
+            <guid>https://www.vlive.tv/video/284361</guid>
+            <pubDate>Thu, 26 May 2022 15:50:15 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:18]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220527_288/1653585511723E7woB_JPEG/2b3e4427-dd17-11ec-bb44-48df379ccacc_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
