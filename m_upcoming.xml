@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 08:51:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 09:47:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[동현이와 숨 막히는 게임! 여기 여기 모여라🎮 | 동동게임센터]]></title>
-            <link>https://m.vlive.tv/video/284251</link>
-            <guid>https://m.vlive.tv/video/284251</guid>
-            <pubDate>Wed, 25 May 2022 10:47:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 9:00</span>
-										<span class="txt">Golden Child</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220525_252/1653472802341746ev_JPEG/upload_69736560572038759799ae2f8-7939-4c73-9b4d-c56bb0477689.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[홍차 200일 기념 신나는 댄스파티 💃🏻]]></title>
             <link>https://m.vlive.tv/video/284102</link>
@@ -76,6 +66,16 @@
 										오전 8:31</span>
 										<span class="txt">MCND</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220525_19/1653458947954Hm4If_JPEG/upload_97538625350602819953b1024-bfe2-4da5-979e-3b8945260d70.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[째니 생파 같이 할 윈드 모여라~🎉]]></title>
+            <link>https://m.vlive.tv/video/284238</link>
+            <guid>https://m.vlive.tv/video/284238</guid>
+            <pubDate>Thu, 26 May 2022 09:47:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">KIM JAEHWAN(김재환)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220525_195/1653469206784NYXk6_JPEG/upload_975485959363286908b8ed878-bd88-4107-b69a-7aa4ed74ee7f.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
