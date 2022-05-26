@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 13:14:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 13:55:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,14 +368,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220526_134/16535528402272lYPI_JPEG/upload_9763255693070859256f971ce-974b-4cd7-8831-d83196b08447.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[니가 알아서 해🙄]]></title>
-            <link>https://www.vlive.tv/video/284348</link>
-            <guid>https://www.vlive.tv/video/284348</guid>
-            <pubDate>Thu, 26 May 2022 13:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:05]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/284348/thumb?type=f228_128" length="0" type="image//live/284348/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[홍차 200일 기념 신나는 댄스파티 💃🏻]]></title>
             <link>https://www.vlive.tv/video/284102</link>
             <guid>https://www.vlive.tv/video/284102</guid>
@@ -398,14 +390,6 @@
             <pubDate>Thu, 26 May 2022 02:44:03 GMT</pubDate>
             <content:encoded><![CDATA[오후 12:29]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220526_193/1653530749217ygTe5_JPEG/upload_976099154089370806c2cba12-5677-4bb5-a38e-41f6543ecf4f.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잔나비 한양대학교 축제 뿌셔뿌셔뿌셔]]></title>
-            <link>https://www.vlive.tv/video/284349</link>
-            <guid>https://www.vlive.tv/video/284349</guid>
-            <pubDate>Thu, 26 May 2022 13:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:29]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220526_247/1653568159767p2FpW_JPEG/16644376275031989384429891-7c35-48d9-8417-576ccbd64d80.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[갱이랑 놀자💕]]></title>
@@ -462,6 +446,38 @@
             <pubDate>Thu, 26 May 2022 11:42:10 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:05]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220526_300/16535703023209BmvR_JPEG/47d64186-dcf3-11ec-aef4-48df37ae3fca_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[민트 빨리와!🥰]]></title>
+            <link>https://www.vlive.tv/video/284350</link>
+            <guid>https://www.vlive.tv/video/284350</guid>
+            <pubDate>Thu, 26 May 2022 13:55:19 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:17]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220526_6/16535710430812dfur_JPEG/a4c93235-dcf5-11ec-9d93-d4f5ef590144_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[떡볶이 먹자~! 🍴]]></title>
+            <link>https://www.vlive.tv/video/284356</link>
+            <guid>https://www.vlive.tv/video/284356</guid>
+            <pubDate>Thu, 26 May 2022 13:55:19 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:25]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/284356/thumb?type=f228_128" length="0" type="image//live/284356/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[잔나비 한양대학교 축제 뿌셔뿌셔뿌셔]]></title>
+            <link>https://www.vlive.tv/video/284349</link>
+            <guid>https://www.vlive.tv/video/284349</guid>
+            <pubDate>Thu, 26 May 2022 13:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:40]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220526_247/1653568159767p2FpW_JPEG/16644376275031989384429891-7c35-48d9-8417-576ccbd64d80.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[니가 알아서 해🙄]]></title>
+            <link>https://www.vlive.tv/video/284348</link>
+            <guid>https://www.vlive.tv/video/284348</guid>
+            <pubDate>Thu, 26 May 2022 13:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:49]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220526_59/1653566311021pxD8O_JPEG/upload_698358824920407197fc9d028-e5a2-4dc3-bf23-35641d10e5c4.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
