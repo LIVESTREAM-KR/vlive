@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 15:50:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 17:04:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -424,14 +424,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220526_159/1653565587695tOXan_JPEG/166353981691815194f8ceb9a3-5ce6-4ae7-a7fd-0ee88efc3387.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[밥묵자]]></title>
-            <link>https://www.vlive.tv/video/284354</link>
-            <guid>https://www.vlive.tv/video/284354</guid>
-            <pubDate>Thu, 26 May 2022 13:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:02]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220526_43/1653570143168Ex2Bj_JPEG/166358599156871969b58a7972-9b9c-4a95-8fa8-709b6d3da676.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[LP듣장🎶 Ep.22]]></title>
             <link>https://www.vlive.tv/video/284345</link>
             <guid>https://www.vlive.tv/video/284345</guid>
@@ -488,14 +480,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220526_210/1653575407289fjo8D_JPEG/d7d7d49c-dcff-11ec-aef4-48df37ae3fca_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[야밤의 토크토크🌙]]></title>
-            <link>https://www.vlive.tv/video/284359</link>
-            <guid>https://www.vlive.tv/video/284359</guid>
-            <pubDate>Thu, 26 May 2022 15:50:15 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:58]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220526_269/1653577084661Q0ora_JPEG/166365458653874105b3ff0a03-074d-42fc-97f0-9efc52d0d090.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[UNLOCK] 엘라스트 잠금해제 EP.50 'ROAR' 자켓 촬영 비하인드]]></title>
             <link>https://www.vlive.tv/video/283645</link>
             <guid>https://www.vlive.tv/video/283645</guid>
@@ -528,11 +512,35 @@
             <enclosure url="https://vlive-thumb.pstatic.net/live/284361/thumb?type=f228_128" length="0" type="image//live/284361/thumb"/>
         </item>
         <item>
+            <title><![CDATA[영국 꼬마 신사]]></title>
+            <link>https://www.vlive.tv/video/284365</link>
+            <guid>https://www.vlive.tv/video/284365</guid>
+            <pubDate>Thu, 26 May 2022 17:03:34 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:20]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220527_34/1653582010185sBKG0_JPEG/a08c265c-dd0f-11ec-b77c-48df379cca40_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밥묵자]]></title>
+            <link>https://www.vlive.tv/video/284354</link>
+            <guid>https://www.vlive.tv/video/284354</guid>
+            <pubDate>Thu, 26 May 2022 13:13:58 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:52]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220526_43/1653570143168Ex2Bj_JPEG/166358599156871969b58a7972-9b9c-4a95-8fa8-709b6d3da676.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[야밤의 토크토크🌙]]></title>
+            <link>https://www.vlive.tv/video/284359</link>
+            <guid>https://www.vlive.tv/video/284359</guid>
+            <pubDate>Thu, 26 May 2022 15:50:15 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220526_269/1653577084661Q0ora_JPEG/166365458653874105b3ff0a03-074d-42fc-97f0-9efc52d0d090.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[20220527 혜소통통😢늦어서 미안해유🔥]]></title>
             <link>https://www.vlive.tv/video/284362</link>
             <guid>https://www.vlive.tv/video/284362</guid>
             <pubDate>Thu, 26 May 2022 15:50:15 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:34]]></content:encoded>
+            <content:encoded><![CDATA[오후 5:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220527_264/1653579256316Rit4A_JPEG/166454786262476168715bcde8-7863-4af2-b6b7-e3d833846bf1.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
