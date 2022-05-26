@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 10:47:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 11:42:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[🦊HAPPY HYUNBIN DAY🦊]]></title>
-            <link>https://m.vlive.tv/video/284290</link>
-            <guid>https://m.vlive.tv/video/284290</guid>
-            <pubDate>Thu, 26 May 2022 02:44:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">TRI.BE</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220526_193/1653530749217ygTe5_JPEG/upload_976099154089370806c2cba12-5677-4bb5-a38e-41f6543ecf4f.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Simply K-Pop CON-TOUR (심플리케이팝 콘투어) Ep.521]]></title>
             <link>https://m.vlive.tv/video/284304</link>
@@ -86,6 +76,16 @@
 										오전 4:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220526_209/1653548583262w03ri_JPEG/upload_69818167094126280195a6c30-5ba9-482e-9c71-cafcac66257f.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / BLANK2Y 블랭키)]]></title>
+            <link>https://m.vlive.tv/video/284326</link>
+            <guid>https://m.vlive.tv/video/284326</guid>
+            <pubDate>Thu, 26 May 2022 11:42:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220526_231/1653552558568p2TP2_JPEG/upload_9763224987539733689dbe73d-5a65-4131-88c8-4e2161cd16d2.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
