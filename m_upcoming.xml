@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 05:46:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 06:54:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,16 @@
             <enclosure url="https://v-phinf.pstatic.net/20220526_193/1653530749217ygTe5_JPEG/upload_976099154089370806c2cba12-5677-4bb5-a38e-41f6543ecf4f.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Simply K-Pop CON-TOUR (심플리케이팝 콘투어) Ep.521]]></title>
+            <link>https://m.vlive.tv/video/284304</link>
+            <guid>https://m.vlive.tv/video/284304</guid>
+            <pubDate>Thu, 26 May 2022 06:53:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220526_103/1653544593955inrh7_PNG/upload_97624282304110408452de77e-949a-4384-974b-72aa9d99494c.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[Arirang Radio / Sound K] Edu-K-tion with HolyBang 홀리뱅]]></title>
             <link>https://m.vlive.tv/video/283865</link>
             <guid>https://m.vlive.tv/video/283865</guid>
@@ -66,16 +76,6 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220520_256/1653009299258ASc53_JPEG/upload_970889972901766712116b0c9-206b-49b9-9cb1-bee84e26fc61.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캐슬제이 생일파티는 역시 불금 5시 31분에 🔥]]></title>
-            <link>https://m.vlive.tv/video/284227</link>
-            <guid>https://m.vlive.tv/video/284227</guid>
-            <pubDate>Thu, 26 May 2022 05:01:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 8:31</span>
-										<span class="txt">MCND</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220525_19/1653458947954Hm4If_JPEG/upload_97538625350602819953b1024-bfe2-4da5-979e-3b8945260d70.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
