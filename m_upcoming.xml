@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 09:47:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 10:48:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[째니 생파 같이 할 윈드 모여라~🎉]]></title>
-            <link>https://m.vlive.tv/video/284238</link>
-            <guid>https://m.vlive.tv/video/284238</guid>
-            <pubDate>Thu, 26 May 2022 09:47:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">KIM JAEHWAN(김재환)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220525_195/1653469206784NYXk6_JPEG/upload_975485959363286908b8ed878-bd88-4107-b69a-7aa4ed74ee7f.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
             <link>https://m.vlive.tv/video/284311</link>
@@ -86,6 +76,26 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220526_60/16535487489436CopE_JPEG/upload_97628449482549724ebce389f-97a2-454d-b3ac-4a830ed16117.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop]Oh My K-Pop with NIve]]></title>
+            <link>https://m.vlive.tv/video/284319</link>
+            <guid>https://m.vlive.tv/video/284319</guid>
+            <pubDate>Fri, 27 May 2022 10:47:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220526_244/1653548975046HHVVj_JPEG/upload_69818559495528417c5163118-cb1a-4adc-989a-d5a3cee1f06d.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[호이의 (호락호락하지 않은) 김밥 만들기]]></title>
+            <link>https://m.vlive.tv/video/283822</link>
+            <guid>https://m.vlive.tv/video/283822</guid>
+            <pubDate>Fri, 27 May 2022 10:47:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 9:30</span>
+										<span class="txt">손호영 Son Ho Young</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220519_98/1652954443291l1B6Q_JPEG/upload_9703402269972083186a7f642-577e-4e9f-bad2-918a465fb81f.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
