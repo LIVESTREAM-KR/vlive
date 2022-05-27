@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ CHARTS </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 05:46:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 06:54:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,15 +13,7 @@
             <guid>https://m.vlive.tv/video/284380</guid>
             <pubDate>Fri, 27 May 2022 05:02:27 GMT</pubDate>
             <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/284380/thumb?type=f640_362" length="0" type="image//live/284380/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[😻HAPPY KYUJIN DAY🏰]]></title>
-            <link>https://m.vlive.tv/video/284302</link>
-            <guid>https://m.vlive.tv/video/284302</guid>
-            <pubDate>Thu, 26 May 2022 07:43:24 GMT</pubDate>
-            <content:encoded><![CDATA[NMIXX]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220526_23/16535464855345JxNi_JPEG/7a1e215d-dcbc-11ec-bb12-d4f5ef5a9532_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220527_269/1653631270585Us4Jh_JPEG/64f32a85-dd81-11ec-bb44-48df379ccacc_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LP듣장🎶 Ep.22]]></title>
@@ -30,6 +22,14 @@
             <pubDate>Thu, 26 May 2022 17:48:10 GMT</pubDate>
             <content:encoded><![CDATA[2PM]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220526_300/16535703023209BmvR_JPEG/47d64186-dcf3-11ec-aef4-48df37ae3fca_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[댓댓]]></title>
+            <link>https://m.vlive.tv/video/282830</link>
+            <guid>https://m.vlive.tv/video/282830</guid>
+            <pubDate>Fri, 27 May 2022 06:53:41 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220504_293/1651667355325JCbnt_JPEG/upload_95747056434642569834b29f0-b742-4fb0-90ab-d9d02e72d2bd.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
