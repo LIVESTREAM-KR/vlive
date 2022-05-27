@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 04:10:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 05:03:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[댓댓]]></title>
+            <link>https://www.vlive.tv/video/282830</link>
+            <guid>https://www.vlive.tv/video/282830</guid>
+            <pubDate>Fri, 27 May 2022 05:02:10 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220504_293/1651667355325JCbnt_JPEG/upload_95747056434642569834b29f0-b742-4fb0-90ab-d9d02e72d2bd.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ENHYPEN (엔하이픈) 'EN-O'CLOCK' EP.39]]></title>
             <link>https://www.vlive.tv/video/284249</link>
@@ -14,14 +22,6 @@
             <pubDate>Thu, 26 May 2022 17:02:58 GMT</pubDate>
             <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220525_73/1653472781708JiBwA_PNG/upload_97552432843144980325faad4-eefa-4dc0-b279-2ebc9cd1ab38.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[뿅😊]]></title>
-            <link>https://www.vlive.tv/video/281536</link>
-            <guid>https://www.vlive.tv/video/281536</guid>
-            <pubDate>Tue, 24 May 2022 13:22:00 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220416_48/1650094251506OOemk_JPEG/upload_94173980074495450a535b1ae-1b2a-4258-ade1-6816b2a33277.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[나가지 마세요 다시 들어오세요 아직 안끝났다 진규파티]]></title>
@@ -32,12 +32,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20220526_296/1653546826485qVVFy_JPEG/a5c4a478-dcbd-11ec-9fa8-505dacfba98a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2WICE의 데이2 (2WICE’s DATE) ep.정다 (JEONGDA)]]></title>
-            <link>https://www.vlive.tv/video/284246</link>
-            <guid>https://www.vlive.tv/video/284246</guid>
-            <pubDate>Thu, 26 May 2022 23:43:20 GMT</pubDate>
-            <content:encoded><![CDATA[TWICE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220525_87/1653470914472e94hU_PNG/upload_97550641740315790765bc2b9-fc8b-463d-8f6c-17e2f515d35a.png?type=f228_128_wp" length="0" type="image/png"/>
+            <title><![CDATA[뿅😊]]></title>
+            <link>https://www.vlive.tv/video/281536</link>
+            <guid>https://www.vlive.tv/video/281536</guid>
+            <pubDate>Tue, 24 May 2022 13:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220416_48/1650094251506OOemk_JPEG/upload_94173980074495450a535b1ae-1b2a-4258-ade1-6816b2a33277.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

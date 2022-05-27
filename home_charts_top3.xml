@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ CHARTS TOP3</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 04:10:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 05:03:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ㅋ]]></title>
+            <link>https://www.vlive.tv/video/284380</link>
+            <guid>https://www.vlive.tv/video/284380</guid>
+            <pubDate>Fri, 27 May 2022 05:02:04 GMT</pubDate>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/284380/thumb?type=f640_362" length="0" type="image//live/284380/thumb"/>
+        </item>
         <item>
             <title><![CDATA[😻HAPPY KYUJIN DAY🏰]]></title>
             <link>https://www.vlive.tv/video/284302</link>
@@ -22,14 +30,6 @@
             <pubDate>Thu, 26 May 2022 17:47:42 GMT</pubDate>
             <content:encoded><![CDATA[2PM]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220526_300/16535703023209BmvR_JPEG/47d64186-dcf3-11ec-aef4-48df37ae3fca_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[댓댓]]></title>
-            <link>https://www.vlive.tv/video/282830</link>
-            <guid>https://www.vlive.tv/video/282830</guid>
-            <pubDate>Thu, 26 May 2022 15:49:32 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220504_293/1651667355325JCbnt_JPEG/upload_95747056434642569834b29f0-b742-4fb0-90ab-d9d02e72d2bd.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
