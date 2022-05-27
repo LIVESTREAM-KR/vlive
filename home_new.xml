@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 17:50:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 18:52:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파리에 살고 싶다🤓2]]></title>
+            <link>https://www.vlive.tv/video/284454</link>
+            <guid>https://www.vlive.tv/video/284454</guid>
+            <pubDate>Fri, 27 May 2022 18:51:34 GMT</pubDate>
+            <content:encoded><![CDATA[블리처스(BLITZERS)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220528_129/1653676982940nsO4S_JPEG/913f7cd1-ddec-11ec-ba01-505dac8c3607_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우연밤☁️🍭]]></title>
             <link>https://www.vlive.tv/video/284452</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 27 May 2022 13:20:08 GMT</pubDate>
             <content:encoded><![CDATA[MONSTA X]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220527_222/1653631561457mB4iR_JPEG/upload_69901165560749320cbf36a7c-5dfe-4f9a-a5a5-f33c1819896f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[FM5.12 S2 <잠 못 드는 밤>]]></title>
-            <link>https://www.vlive.tv/video/284430</link>
-            <guid>https://www.vlive.tv/video/284430</guid>
-            <pubDate>Fri, 27 May 2022 13:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[블리처스(BLITZERS)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220527_77/1653655359877oWAvH_JPEG/33dbefb0-ddba-11ec-aef4-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
