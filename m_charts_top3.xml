@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ CHARTS </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 10:48:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 11:43:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220527_269/1653631270585Us4Jh_JPEG/64f32a85-dd81-11ec-bb44-48df379ccacc_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[🖤#49]]></title>
+            <link>https://m.vlive.tv/video/284423</link>
+            <guid>https://m.vlive.tv/video/284423</guid>
+            <pubDate>Fri, 27 May 2022 11:42:32 GMT</pubDate>
+            <content:encoded><![CDATA[ITZY]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/284423/thumb?type=f640_362" length="0" type="image//live/284423/thumb"/>
+        </item>
+        <item>
             <title><![CDATA[LP듣장🎶 Ep.22]]></title>
             <link>https://m.vlive.tv/video/284345</link>
             <guid>https://m.vlive.tv/video/284345</guid>
             <pubDate>Thu, 26 May 2022 17:48:10 GMT</pubDate>
             <content:encoded><![CDATA[2PM]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220526_300/16535703023209BmvR_JPEG/47d64186-dcf3-11ec-aef4-48df37ae3fca_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[댓댓]]></title>
-            <link>https://m.vlive.tv/video/282830</link>
-            <guid>https://m.vlive.tv/video/282830</guid>
-            <pubDate>Fri, 27 May 2022 06:53:41 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220504_293/1651667355325JCbnt_JPEG/upload_95747056434642569834b29f0-b742-4fb0-90ab-d9d02e72d2bd.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
