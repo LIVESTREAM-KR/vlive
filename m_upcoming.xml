@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 07:53:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 08:50:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[캐슬제이 생일파티는 역시 불금 5시 31분에 🔥]]></title>
-            <link>https://m.vlive.tv/video/284227</link>
-            <guid>https://m.vlive.tv/video/284227</guid>
-            <pubDate>Thu, 26 May 2022 07:43:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 8:31</span>
-										<span class="txt">MCND</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220525_19/1653458947954Hm4If_JPEG/upload_97538625350602819953b1024-bfe2-4da5-979e-3b8945260d70.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[째니 생파 같이 할 윈드 모여라~🎉]]></title>
             <link>https://m.vlive.tv/video/284238</link>
@@ -76,6 +66,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220526_216/1653548361706PrI5F_JPEG/upload_976280562729494266d60dcad-ae98-4731-b51b-843821051f67.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ASC Live Ep.525 (ONEUS / 원어스)]]></title>
+            <link>https://m.vlive.tv/video/284383</link>
+            <guid>https://m.vlive.tv/video/284383</guid>
+            <pubDate>Fri, 27 May 2022 08:50:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220527_285/1653630697703Sday8_PNG/upload_9771040687457594553b7e2cc-8cba-46a4-a18d-73bd9bdc178d.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
