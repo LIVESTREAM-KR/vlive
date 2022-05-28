@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 May 2022 05:43:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 06:52:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HI HY IN LA]]></title>
+            <link>https://www.vlive.tv/video/284458</link>
+            <guid>https://www.vlive.tv/video/284458</guid>
+            <pubDate>Sat, 28 May 2022 06:51:30 GMT</pubDate>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220528_155/1653719514027BsJ2E_JPEG/d0f1742e-de4f-11ec-b44a-d4f5ef58ad5e_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HI HY IN LA]]></title>
+            <link>https://www.vlive.tv/video/284459</link>
+            <guid>https://www.vlive.tv/video/284459</guid>
+            <pubDate>Sat, 28 May 2022 06:51:30 GMT</pubDate>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/284459/thumb?type=f228_128" length="0" type="image//live/284459/thumb"/>
+        </item>
         <item>
             <title><![CDATA[[하이라이트] 폭풍 같은 드라마의 시작, MBC 220603 방송]]></title>
             <link>https://www.vlive.tv/video/284395</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 27 May 2022 14:42:58 GMT</pubDate>
             <content:encoded><![CDATA[MBC 예능]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220527_168/1653660109091N0R0d_JPEG/upload_977398375623251743f17cfe6-9543-4e44-96da-736464e5efba.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VICTON 빅톤 'Stupid O'clock' MV PROLOGUE TEASER]]></title>
-            <link>https://www.vlive.tv/video/284394</link>
-            <guid>https://www.vlive.tv/video/284394</guid>
-            <pubDate>Fri, 27 May 2022 14:42:58 GMT</pubDate>
-            <content:encoded><![CDATA[VICTON]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220527_43/1653659170668luat6_JPEG/upload_97718988357360583fb62c5ec-f74e-4a25-9cdf-511e5903596d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[허니의 심야라디오💜🤍👊]]></title>
-            <link>https://www.vlive.tv/video/284438</link>
-            <guid>https://www.vlive.tv/video/284438</guid>
-            <pubDate>Fri, 27 May 2022 13:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[VERIVERY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220527_44/16536586347947Qb0c_JPEG/77bdda07-ddc1-11ec-8863-48df379cc9e4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
