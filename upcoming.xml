@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 May 2022 06:52:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 07:43:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -49,14 +49,6 @@
         </item>
         <item>
             <title><![CDATA[HI HY IN LA]]></title>
-            <link>https://www.vlive.tv/video/284459</link>
-            <guid>https://www.vlive.tv/video/284459</guid>
-            <pubDate>Sat, 28 May 2022 06:52:13 GMT</pubDate>
-            <content:encoded><![CDATA[오전 6:31]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/284459/thumb?type=f228_128" length="0" type="image//live/284459/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[HI HY IN LA]]></title>
             <link>https://www.vlive.tv/video/284458</link>
             <guid>https://www.vlive.tv/video/284458</guid>
             <pubDate>Sat, 28 May 2022 06:52:13 GMT</pubDate>
@@ -65,11 +57,35 @@
         </item>
         <item>
             <title><![CDATA[모자를 쓸까요 말까요🤪]]></title>
+            <link>https://www.vlive.tv/video/284461</link>
+            <guid>https://www.vlive.tv/video/284461</guid>
+            <pubDate>Sat, 28 May 2022 07:42:32 GMT</pubDate>
+            <content:encoded><![CDATA[오전 6:53]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220528_243/16537208143332AUT1_JPEG/1665091853223291098b8f3d85-583d-4fd3-ac03-da1b7c9e2cda.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모자를 쓸까요 말까요🤪]]></title>
             <link>https://www.vlive.tv/video/284460</link>
             <guid>https://www.vlive.tv/video/284460</guid>
             <pubDate>Sat, 28 May 2022 06:52:13 GMT</pubDate>
-            <content:encoded><![CDATA[오전 6:52]]></content:encoded>
+            <content:encoded><![CDATA[오전 6:53]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220528_210/1653720727532GmloI_JPEG/166596264519238744555e3c0c-10c9-4950-99af-7ddd62d46a7a.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HI HY IN LA]]></title>
+            <link>https://www.vlive.tv/video/284459</link>
+            <guid>https://www.vlive.tv/video/284459</guid>
+            <pubDate>Sat, 28 May 2022 06:52:13 GMT</pubDate>
+            <content:encoded><![CDATA[오전 7:22]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220528_236/16537225197084wDez_JPEG/7663d3bc-de56-11ec-90b2-505dac8c37f3_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[REPLAY] 히히💗😛]]></title>
+            <link>https://www.vlive.tv/video/284331</link>
+            <guid>https://www.vlive.tv/video/284331</guid>
+            <pubDate>Sat, 28 May 2022 07:42:32 GMT</pubDate>
+            <content:encoded><![CDATA[오전 7:27]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220526_112/1653561855639ge23O_JPEG/b7ce0543-dce0-11ec-bb12-d4f5ef5a9532_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
