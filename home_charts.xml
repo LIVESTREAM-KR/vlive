@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 May 2022 08:50:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 09:45:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HI HY IN LA]]></title>
+            <link>https://www.vlive.tv/video/284459</link>
+            <guid>https://www.vlive.tv/video/284459</guid>
+            <pubDate>Sat, 28 May 2022 09:44:26 GMT</pubDate>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220528_236/16537225197084wDez_JPEG/7663d3bc-de56-11ec-90b2-505dac8c37f3_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[댓댓]]></title>
             <link>https://www.vlive.tv/video/282830</link>
@@ -30,14 +38,6 @@
             <pubDate>Fri, 27 May 2022 13:20:26 GMT</pubDate>
             <content:encoded><![CDATA[KIM JAEHWAN(김재환)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220525_195/1653469206784NYXk6_JPEG/upload_975485959363286908b8ed878-bd88-4107-b69a-7aa4ed74ee7f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TWICE REALITY "TIME TO TWICE" Spring Picnic EP.03]]></title>
-            <link>https://www.vlive.tv/video/284375</link>
-            <guid>https://www.vlive.tv/video/284375</guid>
-            <pubDate>Sat, 28 May 2022 08:49:30 GMT</pubDate>
-            <content:encoded><![CDATA[TWICE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220527_151/1653616864038BeENj_PNG/upload_698864613373780591471c524-3c85-4653-a00a-f7e64670d52e.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
