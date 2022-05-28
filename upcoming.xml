@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 May 2022 02:24:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 03:33:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sat, 28 May 2022 02:24:07 GMT</pubDate>
             <content:encoded><![CDATA[오전 1:19]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220528_108/16537007560883rupG_JPEG/upload_69970348807849145bcf4d0d4-849d-41b4-ae37-2670bc511d78.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Dance Practice] 강다니엘(KANGDANIEL) - Upside Down]]></title>
+            <link>https://www.vlive.tv/video/284393</link>
+            <guid>https://www.vlive.tv/video/284393</guid>
+            <pubDate>Sat, 28 May 2022 03:32:46 GMT</pubDate>
+            <content:encoded><![CDATA[오전 3:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220527_280/16536392312748kmB6_JPEG/upload_977185765677187199c725bf6-a896-4eaf-a11e-32b7eceaec1c.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

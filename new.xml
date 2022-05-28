@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 May 2022 02:24:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 03:33:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Dance Practice] 강다니엘(KANGDANIEL) - Upside Down]]></title>
+            <link>https://www.vlive.tv/video/284393</link>
+            <guid>https://www.vlive.tv/video/284393</guid>
+            <pubDate>Sat, 28 May 2022 03:31:50 GMT</pubDate>
+            <content:encoded><![CDATA[강다니엘 (KANGDANIEL)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220527_280/16536392312748kmB6_JPEG/upload_977185765677187199c725bf6-a896-4eaf-a11e-32b7eceaec1c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[선공개] 보컬 맛집 할미봉! 할미의 마음으로 차린 귀 호강 한 상🙊 "와...너무 좋다💗", MBC 220528 방송]]></title>
             <link>https://www.vlive.tv/video/284457</link>
@@ -398,14 +406,6 @@
             <pubDate>Fri, 27 May 2022 08:49:00 GMT</pubDate>
             <content:encoded><![CDATA[MBC 예능]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220527_20/1653640948460nqjYu_JPEG/upload_97720662209694379b4b4bcd6-c866-446d-b30e-8611125d4f72.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[으라차차 내 인생 32회 예고 (KBS20220527방송)]]></title>
-            <link>https://www.vlive.tv/video/284398</link>
-            <guid>https://www.vlive.tv/video/284398</guid>
-            <pubDate>Fri, 27 May 2022 08:49:00 GMT</pubDate>
-            <content:encoded><![CDATA[KBS드라마]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220527_185/1653640261874zePcr_JPEG/upload_977199923448742630730a42f-0725-4096-a1cd-f460965a85c8.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
