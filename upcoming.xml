@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 May 2022 04:54:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2022 05:43:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Sat, 28 May 2022 03:32:46 GMT</pubDate>
             <content:encoded><![CDATA[오전 3:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220527_280/16536392312748kmB6_JPEG/upload_977185765677187199c725bf6-a896-4eaf-a11e-32b7eceaec1c.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[하이라이트] 폭풍 같은 드라마의 시작, MBC 220603 방송]]></title>
+            <link>https://www.vlive.tv/video/284395</link>
+            <guid>https://www.vlive.tv/video/284395</guid>
+            <pubDate>Sat, 28 May 2022 05:43:22 GMT</pubDate>
+            <content:encoded><![CDATA[오전 5:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220527_39/1653639722598Qo4MS_PNG/upload_6990932545956073353c09ee2-52d1-4a4b-b3aa-e0c2a7c65216.png?type=f228_128" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
