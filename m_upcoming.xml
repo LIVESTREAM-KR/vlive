@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 05:45:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 06:54:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -28,6 +28,16 @@
             <enclosure url="https://v-phinf.pstatic.net/20220526_209/1653548583262w03ri_JPEG/upload_69818167094126280195a6c30-5ba9-482e-9c71-cafcac66257f.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Arirang Radio (Sound K / T1419)]]></title>
+            <link>https://m.vlive.tv/video/284503</link>
+            <guid>https://m.vlive.tv/video/284503</guid>
+            <pubDate>Sun, 29 May 2022 06:53:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220529_41/1653803667271tos2k_JPEG/upload_978833611178148012ea64800-d8d4-4744-83d2-8f7f325979de.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Arirang Radio (Super K-Pop / BLANK2Y 블랭키)]]></title>
             <link>https://m.vlive.tv/video/284326</link>
             <guid>https://m.vlive.tv/video/284326</guid>
@@ -46,6 +56,16 @@
 										오전 10:00</span>
 										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220527_38/1653630762261HuDaU_PNG/upload_97710442231576771bdc51fc3-f2d1-4676-87a5-f0631b6c433d.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Radio'n Us / DEMIAN 데미안)]]></title>
+            <link>https://m.vlive.tv/video/284504</link>
+            <guid>https://m.vlive.tv/video/284504</guid>
+            <pubDate>Sun, 29 May 2022 06:53:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220529_115/16538037149071zTVX_JPEG/upload_97883414101449484c4566824-6fe7-487e-81ec-61de38514c89.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
@@ -76,26 +96,6 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220526_60/16535487489436CopE_JPEG/upload_97628449482549724ebce389f-97a2-454d-b3ac-4a830ed16117.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Super K-Pop]Oh My K-Pop with NIve]]></title>
-            <link>https://m.vlive.tv/video/284319</link>
-            <guid>https://m.vlive.tv/video/284319</guid>
-            <pubDate>Fri, 27 May 2022 10:47:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220526_244/1653548975046HHVVj_JPEG/upload_69818559495528417c5163118-cb1a-4adc-989a-d5a3cee1f06d.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[호이의 (호락호락하지 않은) 김밥 만들기]]></title>
-            <link>https://m.vlive.tv/video/283822</link>
-            <guid>https://m.vlive.tv/video/283822</guid>
-            <pubDate>Fri, 27 May 2022 10:47:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 9:30</span>
-										<span class="txt">손호영 Son Ho Young</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220519_98/1652954443291l1B6Q_JPEG/upload_9703402269972083186a7f642-577e-4e9f-bad2-918a465fb81f.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

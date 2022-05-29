@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 05:45:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 06:54:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,13 @@
             <pubDate>Sun, 29 May 2022 05:44:46 GMT</pubDate>
             <content:encoded><![CDATA[오전 5:41]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220529_158/1653802926818tXNjJ_PNG/upload_70072490145166464089656ba-8575-4a2e-b594-64a9427752ef.png?type=f228_128" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[드림캐쳐] 심심해애]]></title>
+            <link>https://www.vlive.tv/video/284506</link>
+            <guid>https://www.vlive.tv/video/284506</guid>
+            <pubDate>Sun, 29 May 2022 06:53:30 GMT</pubDate>
+            <content:encoded><![CDATA[오전 6:23]]></content:encoded>
         </item>
     </channel>
 </rss>

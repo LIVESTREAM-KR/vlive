@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 05:45:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 06:54:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[드림캐쳐] 심심해애]]></title>
+            <link>https://www.vlive.tv/video/284506</link>
+            <guid>https://www.vlive.tv/video/284506</guid>
+            <pubDate>Sun, 29 May 2022 06:52:37 GMT</pubDate>
+            <content:encoded><![CDATA[DREAMCATCHER]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/284506/thumb?type=f228_128" length="0" type="image//live/284506/thumb"/>
+        </item>
         <item>
             <title><![CDATA[심플리 비하인드: 대휘로그 in 독일]]></title>
             <link>https://www.vlive.tv/video/284502</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 28 May 2022 13:46:52 GMT</pubDate>
             <content:encoded><![CDATA[ONEUS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220528_158/16537465477491AvQY_JPEG/66d378eb-de8e-11ec-ba01-505dac8c3607_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그레이스 안녕💓💓]]></title>
-            <link>https://www.vlive.tv/video/284481</link>
-            <guid>https://www.vlive.tv/video/284481</guid>
-            <pubDate>Sat, 28 May 2022 13:04:59 GMT</pubDate>
-            <content:encoded><![CDATA[멋진녀석들 (GreatGuys)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220528_40/165374063385052OPv_JPEG/1665291697945189537e9deb5e-7b49-49ad-9115-ff7eca0bac55.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
