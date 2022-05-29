@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 06:54:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 07:43:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,15 @@
             <guid>https://www.vlive.tv/video/284506</guid>
             <pubDate>Sun, 29 May 2022 06:52:37 GMT</pubDate>
             <content:encoded><![CDATA[DREAMCATCHER]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/284506/thumb?type=f228_128" length="0" type="image//live/284506/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220529_199/16538088571204Kxrz_JPEG/68163a42-df1f-11ec-946a-d4f5ef58ac88_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE] ㅠ]]></title>
+            <link>https://www.vlive.tv/video/284507</link>
+            <guid>https://www.vlive.tv/video/284507</guid>
+            <pubDate>Sun, 29 May 2022 07:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[CRAVITY]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/284507/thumb?type=f228_128" length="0" type="image//live/284507/thumb"/>
         </item>
         <item>
             <title><![CDATA[심플리 비하인드: 대휘로그 in 독일]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 28 May 2022 13:04:59 GMT</pubDate>
             <content:encoded><![CDATA[드림노트 (DreamNote)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220528_242/1653746580846OS7XH_JPEG/fdc73a76-de8d-11ec-8e34-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🌹🔥 🐈‍⬛🦄🐉]]></title>
-            <link>https://www.vlive.tv/video/284487</link>
-            <guid>https://www.vlive.tv/video/284487</guid>
-            <pubDate>Sat, 28 May 2022 13:46:52 GMT</pubDate>
-            <content:encoded><![CDATA[ONEUS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220528_158/16537465477491AvQY_JPEG/66d378eb-de8e-11ec-ba01-505dac8c3607_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

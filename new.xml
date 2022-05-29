@@ -4,7 +4,7 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 06:54:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 07:43:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,14 @@
             <guid>https://www.vlive.tv/video/284506</guid>
             <pubDate>Sun, 29 May 2022 06:52:28 GMT</pubDate>
             <content:encoded><![CDATA[DREAMCATCHER]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220529_199/16538088571204Kxrz_JPEG/68163a42-df1f-11ec-946a-d4f5ef58ac88_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE] ㅠ]]></title>
+            <link>https://www.vlive.tv/video/284507</link>
+            <guid>https://www.vlive.tv/video/284507</guid>
+            <pubDate>Sun, 29 May 2022 07:41:23 GMT</pubDate>
+            <content:encoded><![CDATA[CRAVITY]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[심플리 비하인드: 대휘로그 in 독일]]></title>
@@ -397,14 +405,6 @@
             <pubDate>Fri, 27 May 2022 13:19:58 GMT</pubDate>
             <content:encoded><![CDATA[F.able (페이블)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220527_33/1653654681884oxEqB_JPEG/928111647237334554ea897b4-4623-46c3-9f6b-d82fdbaf0667.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[RE: MEMBER | KARD]]></title>
-            <link>https://www.vlive.tv/video/284442</link>
-            <guid>https://www.vlive.tv/video/284442</guid>
-            <pubDate>Fri, 27 May 2022 15:48:22 GMT</pubDate>
-            <content:encoded><![CDATA[KARD]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220527_5/1653658765855HgBX1_JPEG/upload_97738460782571245a3024866-7e74-45c4-a8d2-69a3c23e9228.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
