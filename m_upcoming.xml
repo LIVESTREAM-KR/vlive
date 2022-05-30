@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 11:43:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 13:25:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220526_155/1653548854825oDp0Y_JPEG/upload_976284961388409469c4e48bb-a57d-42c6-aef5-7bc847630cca.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / Jinminho 진민호)]]></title>
+            <link>https://m.vlive.tv/video/284327</link>
+            <guid>https://m.vlive.tv/video/284327</guid>
+            <pubDate>Mon, 30 May 2022 13:24:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220526_132/1653552678992txgA8_JPEG/upload_97632362284022644f81cdc8d-a135-4bcf-a482-fea85f5df2bc.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
