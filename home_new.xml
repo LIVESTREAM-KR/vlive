@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 05:03:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 05:46:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[REPLAY] 토요만담]]></title>
+            <link>https://www.vlive.tv/video/284004</link>
+            <guid>https://www.vlive.tv/video/284004</guid>
+            <pubDate>Tue, 31 May 2022 05:45:19 GMT</pubDate>
+            <content:encoded><![CDATA[WINNER]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220523_84/1653259020363ftrDH_JPEG/32cb2c57-da1f-11ec-9a66-48df37ae3fca_10.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ASC Live Ep.525 (ONEUS / 원어스)]]></title>
             <link>https://www.vlive.tv/video/284383</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 30 May 2022 15:51:25 GMT</pubDate>
             <content:encoded><![CDATA[Woollim Ent]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220530_221/16539091367865WlIp_JPEG/upload_97988851647576729759a80c6-bfa4-4c0d-a3d2-55cfec7626cf.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Villain : ZERO] CONCEPT FILM #김민서 #KIMMINSEO｜DRIPPIN(드리핀)]]></title>
-            <link>https://www.vlive.tv/video/284595</link>
-            <guid>https://www.vlive.tv/video/284595</guid>
-            <pubDate>Mon, 30 May 2022 15:51:25 GMT</pubDate>
-            <content:encoded><![CDATA[Woollim Ent]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220530_186/1653909063826dRjcw_JPEG/upload_97988772970049079464496f8-f36b-4b24-a82e-9eba7b342a10.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
