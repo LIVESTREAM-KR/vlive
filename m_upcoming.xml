@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 06:54:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 07:44:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / Super K-Pop]Oh My K-Pop with NIve]]></title>
-            <link>https://m.vlive.tv/video/284319</link>
-            <guid>https://m.vlive.tv/video/284319</guid>
-            <pubDate>Mon, 30 May 2022 02:53:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220526_244/1653548975046HHVVj_JPEG/upload_69818559495528417c5163118-cb1a-4adc-989a-d5a3cee1f06d.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[호이의 (호락호락하지 않은) 김밥 만들기]]></title>
             <link>https://m.vlive.tv/video/283822</link>
@@ -96,6 +86,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220526_13/1653548481341zA1yP_JPEG/upload_9762815243951462387927333-4dd5-4647-bcdc-c1f4ef359831.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / Kassy 케이시)]]></title>
+            <link>https://m.vlive.tv/video/284557</link>
+            <guid>https://m.vlive.tv/video/284557</guid>
+            <pubDate>Tue, 31 May 2022 07:43:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220530_121/165388741012808Dmr_JPEG/upload_9796710441736075117d03067-9463-4a98-962b-7e46f2896e39.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
