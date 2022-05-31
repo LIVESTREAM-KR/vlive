@@ -4,9 +4,19 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 10:49:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 11:42:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[여러분의 이름을 공개합니다💙]]></title>
+            <link>https://m.vlive.tv/video/284691</link>
+            <guid>https://m.vlive.tv/video/284691</guid>
+            <pubDate>Tue, 31 May 2022 11:42:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:40</span>
+										<span class="txt">TRENDZ (트렌드지)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220531_166/165399588405516LPF_JPEG/upload_98075512627018784be2789d6-e6d9-4bbf-9ee9-a858d8f207a3.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SEWOON_ing]]></title>
             <link>https://m.vlive.tv/video/284573</link>
@@ -96,16 +106,6 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220526_131/1653549029458yWY0z_JPEG/upload_97628728200323057a0b32ede-9ff7-4020-bb62-1a4d99075ba6.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Joe]]></title>
-            <link>https://m.vlive.tv/video/284315</link>
-            <guid>https://m.vlive.tv/video/284315</guid>
-            <pubDate>Tue, 31 May 2022 10:48:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220526_157/1653548517822T7Cqk_JPEG/upload_976282238813457997ffe0542-e24a-4395-a613-ca5886574930.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
