@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 13:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 13:59:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -672,28 +672,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20220530_123/1653899462271Dk4Dp_JPEG/upload_9797884070349155915b4fd29-5416-47dd-9481-e56be124b98e.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오랜만에 보이스🔊]]></title>
-            <link>https://www.vlive.tv/video/284708</link>
-            <guid>https://www.vlive.tv/video/284708</guid>
-            <pubDate>Tue, 31 May 2022 13:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:00]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/284708/thumb?type=f228_128" length="0" type="image//live/284708/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[MOONLIGHT]]></title>
             <link>https://www.vlive.tv/video/284709</link>
             <guid>https://www.vlive.tv/video/284709</guid>
             <pubDate>Tue, 31 May 2022 13:21:54 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:01]]></content:encoded>
             <enclosure url="https://vlive-thumb.pstatic.net/live/284709/thumb?type=f228_128" length="0" type="image//live/284709/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[본빈 왔어요~ 🫶]]></title>
-            <link>https://www.vlive.tv/video/284710</link>
-            <guid>https://www.vlive.tv/video/284710</guid>
-            <pubDate>Tue, 31 May 2022 13:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:13]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220531_259/1654002749770YItHk_JPEG/166791150353483910c2766666-3b1d-4d4a-b94d-234ada88618a.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[본빈 왔어요~ 🫶]]></title>
@@ -718,6 +702,30 @@
             <pubDate>Tue, 31 May 2022 13:21:54 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:17]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220531_276/1654003074645CWEgz_JPEG/c1e32710-e0e3-11ec-ba01-505dac8c3607_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오랜만에]]></title>
+            <link>https://www.vlive.tv/video/284713</link>
+            <guid>https://www.vlive.tv/video/284713</guid>
+            <pubDate>Tue, 31 May 2022 13:59:27 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:27]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/284713/thumb?type=f228_128" length="0" type="image//live/284713/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[잠깐!🐰]]></title>
+            <link>https://www.vlive.tv/video/284714</link>
+            <guid>https://www.vlive.tv/video/284714</guid>
+            <pubDate>Tue, 31 May 2022 13:59:27 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:35]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/284714/thumb?type=f228_128" length="0" type="image//live/284714/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[오랜만에 보이스🔊]]></title>
+            <link>https://www.vlive.tv/video/284708</link>
+            <guid>https://www.vlive.tv/video/284708</guid>
+            <pubDate>Tue, 31 May 2022 13:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:38]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220531_36/1654004299445lOGgg_JPEG/1f55cfc2-e0e6-11ec-ba01-505dac8c3607_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
