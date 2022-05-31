@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 02:40:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 04:10:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ASC Live Ep.525 (ONEUS / 원어스)]]></title>
+            <link>https://www.vlive.tv/video/284383</link>
+            <guid>https://www.vlive.tv/video/284383</guid>
+            <pubDate>Tue, 31 May 2022 04:08:26 GMT</pubDate>
+            <content:encoded><![CDATA[After School Club │ 애프터스쿨클럽]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220527_285/1653630697703Sday8_PNG/upload_9771040687457594553b7e2cc-8cba-46a4-a18d-73bd9bdc178d.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
             <link>https://www.vlive.tv/video/284312</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 30 May 2022 15:51:25 GMT</pubDate>
             <content:encoded><![CDATA[HIGHLIGHT]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220530_151/1653907789618wuch5_JPEG/upload_9798751323906335322082e0b-6bdc-486d-bba1-b3cd45386842.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SECRET NUMBER "둠치타 (DOOMCHITA)" M/V Teaser (SOODAM ver.)]]></title>
-            <link>https://www.vlive.tv/video/284406</link>
-            <guid>https://www.vlive.tv/video/284406</guid>
-            <pubDate>Mon, 30 May 2022 15:51:25 GMT</pubDate>
-            <content:encoded><![CDATA[SECRET NUMBER]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220527_286/1653641773018iW8kO_JPEG/upload_699113646610294050e09a181-6d50-43e8-9f64-22dd54401b1e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 02:40:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 04:10:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ASC Live Ep.525 (ONEUS / 원어스)]]></title>
+            <link>https://www.vlive.tv/video/284383</link>
+            <guid>https://www.vlive.tv/video/284383</guid>
+            <pubDate>Tue, 31 May 2022 04:08:16 GMT</pubDate>
+            <content:encoded><![CDATA[After School Club │ 애프터스쿨클럽]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220527_285/1653630697703Sday8_PNG/upload_9771040687457594553b7e2cc-8cba-46a4-a18d-73bd9bdc178d.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
             <link>https://www.vlive.tv/video/284312</link>
@@ -398,14 +406,6 @@
             <pubDate>Mon, 30 May 2022 10:46:40 GMT</pubDate>
             <content:encoded><![CDATA[mydaily]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220530_78/1653904098002PUqLa_JPEG/upload_97983808927215236a0bcf2f3-933c-4f4d-9be3-0c072e65136d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 세븐틴 버논이 리뷰하는 <기묘한 이야기> 시즌 4 | N리뷰]]></title>
-            <link>https://www.vlive.tv/video/284572</link>
-            <guid>https://www.vlive.tv/video/284572</guid>
-            <pubDate>Mon, 30 May 2022 09:46:30 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 (Netflixkr)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220530_25/1653897555893t6BOS_JPEG/upload_70166211654938493df19bb30-bda5-4081-bf70-5150993dc278.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
