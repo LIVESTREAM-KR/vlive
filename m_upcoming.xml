@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 08:53:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 09:47:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[호이의 (호락호락하지 않은) 김밥 만들기]]></title>
-            <link>https://m.vlive.tv/video/283822</link>
-            <guid>https://m.vlive.tv/video/283822</guid>
-            <pubDate>Mon, 30 May 2022 04:21:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 9:30</span>
-										<span class="txt">손호영 Son Ho Young</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220519_98/1652954443291l1B6Q_JPEG/upload_9703402269972083186a7f642-577e-4e9f-bad2-918a465fb81f.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[HAPPY JINYOUNG DAY🐿 🎂]]></title>
             <link>https://m.vlive.tv/video/284228</link>
@@ -96,6 +86,26 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220526_13/1653548481341zA1yP_JPEG/upload_9762815243951462387927333-4dd5-4647-bcdc-c1f4ef359831.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / Kassy 케이시)]]></title>
+            <link>https://m.vlive.tv/video/284557</link>
+            <guid>https://m.vlive.tv/video/284557</guid>
+            <pubDate>Tue, 31 May 2022 09:46:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220530_121/165388741012808Dmr_JPEG/upload_9796710441736075117d03067-9463-4a98-962b-7e46f2896e39.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop] Stray Quiz]]></title>
+            <link>https://m.vlive.tv/video/284320</link>
+            <guid>https://m.vlive.tv/video/284320</guid>
+            <pubDate>Tue, 31 May 2022 09:46:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220526_131/1653549029458yWY0z_JPEG/upload_97628728200323057a0b32ede-9ff7-4020-bb62-1a4d99075ba6.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
