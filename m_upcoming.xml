@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 09:47:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 10:49:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[HAPPY JINYOUNG DAY🐿 🎂]]></title>
-            <link>https://m.vlive.tv/video/284228</link>
-            <guid>https://m.vlive.tv/video/284228</guid>
-            <pubDate>Mon, 30 May 2022 05:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">디원스 (D1CE)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220525_2/1653459289637mmJAx_JPEG/upload_97538894157320403a309e563-b3ac-4d5f-afa8-656088df6040.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[SEWOON_ing]]></title>
             <link>https://m.vlive.tv/video/284573</link>
@@ -106,6 +96,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220526_131/1653549029458yWY0z_JPEG/upload_97628728200323057a0b32ede-9ff7-4020-bb62-1a4d99075ba6.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Joe]]></title>
+            <link>https://m.vlive.tv/video/284315</link>
+            <guid>https://m.vlive.tv/video/284315</guid>
+            <pubDate>Tue, 31 May 2022 10:48:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220526_157/1653548517822T7Cqk_JPEG/upload_976282238813457997ffe0542-e24a-4395-a613-ca5886574930.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
