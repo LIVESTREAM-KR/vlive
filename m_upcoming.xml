@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 07:44:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 08:53:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -43,9 +43,19 @@
             <guid>https://m.vlive.tv/video/284313</guid>
             <pubDate>Mon, 30 May 2022 10:47:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
+										방송취소</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220526_86/1653548422770C9BLV_JPEG/upload_69817976614778239d22f301e-af34-47a5-8b66-23158d3fb387.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio/K-Poppin'] Popera Group Pasta 팝페라 그룹 파스타]]></title>
+            <link>https://m.vlive.tv/video/284657</link>
+            <guid>https://m.vlive.tv/video/284657</guid>
+            <pubDate>Tue, 31 May 2022 08:52:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220531_85/1653984671047uW4vd_JPEG/upload_98064354808744838053ae566-a911-4a1e-bedb-45286f68d21e.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio / Sound K] Song Express ver.3 with Denise 데니스]]></title>
@@ -86,16 +96,6 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220526_13/1653548481341zA1yP_JPEG/upload_9762815243951462387927333-4dd5-4647-bcdc-c1f4ef359831.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arirang Radio (Sound K / Kassy 케이시)]]></title>
-            <link>https://m.vlive.tv/video/284557</link>
-            <guid>https://m.vlive.tv/video/284557</guid>
-            <pubDate>Tue, 31 May 2022 07:43:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220530_121/165388741012808Dmr_JPEG/upload_9796710441736075117d03067-9463-4a98-962b-7e46f2896e39.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
