@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 09:51:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 10:51:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[죄송합니다 유니즈]]></title>
-            <link>https://m.vlive.tv/video/284734</link>
-            <guid>https://m.vlive.tv/video/284734</guid>
-            <pubDate>Wed, 01 Jun 2022 06:58:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">YOUNITE</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220601_233/1654065148604jt88X_JPEG/upload_70334619791833928eb4491b8-639d-41aa-b7e2-2a44978b0073.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Radio'n Us / JOHA 조하)]]></title>
             <link>https://m.vlive.tv/video/284505</link>
@@ -96,6 +86,16 @@
 										오후 1:00</span>
 										<span class="txt">KINGDOM</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220518_18/1652869543859f8QDc_JPEG/upload_9694916672924200845af9192-9437-4eb3-ac5e-2080c6ff5c2a.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[143회 아트엠콘서트, 바이올리니스트 백주영]]></title>
+            <link>https://m.vlive.tv/video/284128</link>
+            <guid>https://m.vlive.tv/video/284128</guid>
+            <pubDate>Wed, 01 Jun 2022 10:51:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:20</span>
+										<span class="txt">ARTMCONCERT</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220524_120/1653351798383POQ9E_JPEG/upload_6962140114263013452350961-e0b1-4dd3-9452-8772210e4129.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
