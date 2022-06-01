@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 06:02:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 06:58:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,9 +13,19 @@
             <guid>https://m.vlive.tv/video/284327</guid>
             <pubDate>Mon, 30 May 2022 13:24:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
+										오전 6:56</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220526_132/1653552678992txgA8_JPEG/upload_97632362284022644f81cdc8d-a135-4bcf-a482-fea85f5df2bc.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[죄송합니다 유니즈]]></title>
+            <link>https://m.vlive.tv/video/284734</link>
+            <guid>https://m.vlive.tv/video/284734</guid>
+            <pubDate>Wed, 01 Jun 2022 06:58:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">YOUNITE</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220601_233/1654065148604jt88X_JPEG/upload_70334619791833928eb4491b8-639d-41aa-b7e2-2a44978b0073.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Arirang Radio (Radio'n Us / JOHA 조하)]]></title>
@@ -86,16 +96,6 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220526_282/1653549074057EYa8C_JPEG/upload_69818650529277915f1d390be-67c2-454d-adc0-7bca3ac4b060.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[짱다람쥐 댄스 브이앱🕺🐿💙]]></title>
-            <link>https://m.vlive.tv/video/283749</link>
-            <guid>https://m.vlive.tv/video/283749</guid>
-            <pubDate>Wed, 01 Jun 2022 04:56:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 1:00</span>
-										<span class="txt">KINGDOM</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220518_18/1652869543859f8QDc_JPEG/upload_9694916672924200845af9192-9437-4eb3-ac5e-2080c6ff5c2a.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
