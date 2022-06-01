@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 23:48:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 03:07:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthew]]></title>
-            <link>https://m.vlive.tv/video/284313</link>
-            <guid>https://m.vlive.tv/video/284313</guid>
-            <pubDate>Mon, 30 May 2022 10:47:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										방송취소</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220526_86/1653548422770C9BLV_JPEG/upload_69817976614778239d22f301e-af34-47a5-8b66-23158d3fb387.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio/K-Poppin'] Popera Group Pasta 팝페라 그룹 파스타]]></title>
             <link>https://m.vlive.tv/video/284657</link>
@@ -106,6 +96,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220526_167/1653550413112rbUly_JPEG/upload_9763006745399527876f71b48-9391-4855-91f7-97fe777a678d.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop] Topic Song with BÉBE YANA , Jogon of 9001]]></title>
+            <link>https://m.vlive.tv/video/284321</link>
+            <guid>https://m.vlive.tv/video/284321</guid>
+            <pubDate>Wed, 01 Jun 2022 03:07:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220526_282/1653549074057EYa8C_JPEG/upload_69818650529277915f1d390be-67c2-454d-adc0-7bca3ac4b060.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
