@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 03:07:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 04:56:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[얘기할깡현~?🥹]]></title>
+            <link>https://www.vlive.tv/video/284730</link>
+            <guid>https://www.vlive.tv/video/284730</guid>
+            <pubDate>Wed, 01 Jun 2022 04:55:30 GMT</pubDate>
+            <content:encoded><![CDATA[ONEWE]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/284730/thumb?type=f228_128" length="0" type="image//live/284730/thumb"/>
+        </item>
         <item>
             <title><![CDATA[[TMI NEWS SHOW/15회 선공개] "말도 안되는 얘기들 하고 있다^^♨" 애인이 술에 취했을 때 애인 친구랑 술을 마신다 VS 안 마신다 (정답은?!)]]></title>
             <link>https://www.vlive.tv/video/284727</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 31 May 2022 13:58:42 GMT</pubDate>
             <content:encoded><![CDATA[KIM SO JEONG (김소정)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220531_281/1654007207365g5YHS_JPEG/8c6426c8-e0ec-11ec-8055-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[moonlight!!]]></title>
-            <link>https://www.vlive.tv/video/284715</link>
-            <guid>https://www.vlive.tv/video/284715</guid>
-            <pubDate>Tue, 31 May 2022 14:43:37 GMT</pubDate>
-            <content:encoded><![CDATA[M.O.N.T (몬트)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220531_38/1654006736239G9z25_JPEG/454bece4-e0ec-11ec-b77c-48df379cca40_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

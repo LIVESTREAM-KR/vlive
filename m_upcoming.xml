@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 03:07:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 04:56:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio/K-Poppin'] Popera Group Pasta 팝페라 그룹 파스타]]></title>
-            <link>https://m.vlive.tv/video/284657</link>
-            <guid>https://m.vlive.tv/video/284657</guid>
-            <pubDate>Tue, 31 May 2022 08:52:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 4:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220531_85/1653984671047uW4vd_JPEG/upload_98064354808744838053ae566-a911-4a1e-bedb-45286f68d21e.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Sound K] Song Express ver.3 with Denise 데니스]]></title>
-            <link>https://m.vlive.tv/video/284318</link>
-            <guid>https://m.vlive.tv/video/284318</guid>
-            <pubDate>Mon, 30 May 2022 11:42:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220526_155/1653548854825oDp0Y_JPEG/upload_976284961388409469c4e48bb-a57d-42c6-aef5-7bc847630cca.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Super K-Pop / Jinminho 진민호)]]></title>
             <link>https://m.vlive.tv/video/284327</link>
@@ -106,6 +86,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220526_282/1653549074057EYa8C_JPEG/upload_69818650529277915f1d390be-67c2-454d-adc0-7bca3ac4b060.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[짱다람쥐 댄스 브이앱🕺🐿💙]]></title>
+            <link>https://m.vlive.tv/video/283749</link>
+            <guid>https://m.vlive.tv/video/283749</guid>
+            <pubDate>Wed, 01 Jun 2022 04:56:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 1:00</span>
+										<span class="txt">KINGDOM</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220518_18/1652869543859f8QDc_JPEG/upload_9694916672924200845af9192-9437-4eb3-ac5e-2080c6ff5c2a.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
