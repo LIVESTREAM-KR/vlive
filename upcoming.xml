@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 14:07:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 14:50:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,14 +288,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220601_44/16540881813739kcy9_JPEG/76532b02-e1a8-11ec-9d93-d4f5ef590144_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[은조의 조은밤🌝🎧#63]]></title>
-            <link>https://www.vlive.tv/video/284753</link>
-            <guid>https://www.vlive.tv/video/284753</guid>
-            <pubDate>Wed, 01 Jun 2022 13:29:56 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:00]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220601_58/1654088441998ydcaV_JPEG/1373999178002774018024cfc2-5172-48a0-a9f5-181630a36e11.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[김.라 <김재현의 라디오]]></title>
             <link>https://www.vlive.tv/video/284754</link>
             <guid>https://www.vlive.tv/video/284754</guid>
@@ -312,20 +304,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20220529_153/165380375940063H8a_JPEG/upload_97883458461365869b20a1605-1e0a-4735-a4e7-7c5d0d19193f.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[안녕안녕:)]]></title>
-            <link>https://www.vlive.tv/video/284755</link>
-            <guid>https://www.vlive.tv/video/284755</guid>
-            <pubDate>Wed, 01 Jun 2022 14:07:05 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:54]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220601_103/1654091648217Kugtj_JPEG/166967179170990093c2a943b7-4523-44c9-b0f3-47c4067c7fe1.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[Ü.나.시] 퓨즈~!!!!!]]></title>
             <link>https://www.vlive.tv/video/284752</link>
             <guid>https://www.vlive.tv/video/284752</guid>
             <pubDate>Wed, 01 Jun 2022 13:29:56 GMT</pubDate>
             <content:encoded><![CDATA[오후 2:04]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220601_286/1654086629802W74S4_JPEG/137398105593692977b312e337-d6e6-402e-9656-d5007f0c1dba.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[은조의 조은밤🌝🎧#63]]></title>
+            <link>https://www.vlive.tv/video/284753</link>
+            <guid>https://www.vlive.tv/video/284753</guid>
+            <pubDate>Wed, 01 Jun 2022 13:29:56 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:24]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220601_58/1654088441998ydcaV_JPEG/1373999178002774018024cfc2-5172-48a0-a9f5-181630a36e11.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안녕안녕:)]]></title>
+            <link>https://www.vlive.tv/video/284755</link>
+            <guid>https://www.vlive.tv/video/284755</guid>
+            <pubDate>Wed, 01 Jun 2022 14:07:05 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:43]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220601_103/1654091648217Kugtj_JPEG/166967179170990093c2a943b7-4523-44c9-b0f3-47c4067c7fe1.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
