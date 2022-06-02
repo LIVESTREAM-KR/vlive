@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 05:18:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 05:53:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다시]]></title>
+            <link>https://www.vlive.tv/video/284777</link>
+            <guid>https://www.vlive.tv/video/284777</guid>
+            <pubDate>Thu, 02 Jun 2022 05:52:22 GMT</pubDate>
+            <content:encoded><![CDATA[MONSTA X]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220602_38/1654147786522CNrMx_JPEG/6b4874d7-e234-11ec-89b9-d4f5ef5906a4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[99즈랑 놀자!😝 2]]></title>
             <link>https://www.vlive.tv/video/284735</link>
@@ -24,20 +32,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20220602_123/1654141354702pBPRS_JPEG/eb96d2ab-e225-11ec-ba01-505dac8c3607_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[말..돼?😳]]></title>
-            <link>https://www.vlive.tv/video/284744</link>
-            <guid>https://www.vlive.tv/video/284744</guid>
-            <pubDate>Wed, 01 Jun 2022 13:29:23 GMT</pubDate>
-            <content:encoded><![CDATA[LE SSERAFIM]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220601_296/16540814903226emix_JPEG/upload_70351088144791152e34bb277-398d-4c00-a7ff-09aa2c57dbc9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나꼬데이 🍮]]></title>
-            <link>https://www.vlive.tv/video/284749</link>
-            <guid>https://www.vlive.tv/video/284749</guid>
-            <pubDate>Wed, 01 Jun 2022 14:49:01 GMT</pubDate>
-            <content:encoded><![CDATA[fromis_9]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220601_103/1654089873003V6z4W_JPEG/upload_70359463321801562fd791e60-a289-40ce-8d11-35a7de27757f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <title><![CDATA[🥐🆕]]></title>
+            <link>https://www.vlive.tv/video/284781</link>
+            <guid>https://www.vlive.tv/video/284781</guid>
+            <pubDate>Thu, 02 Jun 2022 05:52:22 GMT</pubDate>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/284781/thumb?type=f228_128" length="0" type="image//live/284781/thumb"/>
         </item>
     </channel>
 </rss>
