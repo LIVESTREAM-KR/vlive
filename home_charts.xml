@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 14:47:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 15:50:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🤡]]></title>
+            <link>https://www.vlive.tv/video/284848</link>
+            <guid>https://www.vlive.tv/video/284848</guid>
+            <pubDate>Thu, 02 Jun 2022 15:49:50 GMT</pubDate>
+            <content:encoded><![CDATA[TWICE]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/284848/thumb?type=f228_128" length="0" type="image//live/284848/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[chicago love❤️❤️❤️]]></title>
+            <link>https://www.vlive.tv/video/284773</link>
+            <guid>https://www.vlive.tv/video/284773</guid>
+            <pubDate>Thu, 02 Jun 2022 15:49:50 GMT</pubDate>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220602_123/1654141354702pBPRS_JPEG/eb96d2ab-e225-11ec-ba01-505dac8c3607_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한밤의 놀이공원 #1｜[SKZ CODE(스키즈 코드)] Ep.16]]></title>
             <link>https://www.vlive.tv/video/284748</link>
@@ -22,22 +38,6 @@
             <pubDate>Thu, 02 Jun 2022 13:27:09 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220504_293/1651667355325JCbnt_JPEG/upload_95747056434642569834b29f0-b742-4fb0-90ab-d9d02e72d2bd.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ENHYPEN (엔하이픈) 'EN-O'CLOCK' EP.40]]></title>
-            <link>https://www.vlive.tv/video/284824</link>
-            <guid>https://www.vlive.tv/video/284824</guid>
-            <pubDate>Thu, 02 Jun 2022 14:46:32 GMT</pubDate>
-            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220602_41/1654162279829T4y96_PNG/upload_98241974750824821d74ce164-d61c-4d82-9b3c-8e41f653c340.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[나 보고 싶은 사람만 들어와]]></title>
-            <link>https://www.vlive.tv/video/284776</link>
-            <guid>https://www.vlive.tv/video/284776</guid>
-            <pubDate>Thu, 02 Jun 2022 13:27:09 GMT</pubDate>
-            <content:encoded><![CDATA[MONSTA X]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220602_35/1654143730484V6YDe_JPEG/7ca91779-e22b-11ec-aef4-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
