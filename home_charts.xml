@@ -4,16 +4,24 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 05:53:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 06:55:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[다시]]></title>
-            <link>https://www.vlive.tv/video/284777</link>
-            <guid>https://www.vlive.tv/video/284777</guid>
+            <title><![CDATA[한밤의 놀이공원 #1｜[SKZ CODE(스키즈 코드)] Ep.16]]></title>
+            <link>https://www.vlive.tv/video/284748</link>
+            <guid>https://www.vlive.tv/video/284748</guid>
+            <pubDate>Thu, 02 Jun 2022 06:54:59 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220601_104/1654080459368gn5Ui_PNG/upload_98157235081524278ab2780b8-c409-47ae-b34c-80ba2ce4a0fd.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[🥐🆕]]></title>
+            <link>https://www.vlive.tv/video/284781</link>
+            <guid>https://www.vlive.tv/video/284781</guid>
             <pubDate>Thu, 02 Jun 2022 05:52:22 GMT</pubDate>
-            <content:encoded><![CDATA[MONSTA X]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220602_38/1654147786522CNrMx_JPEG/6b4874d7-e234-11ec-89b9-d4f5ef5906a4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220602_4/1654149940698042T7_JPEG/f7dc2b5b-e238-11ec-9d93-d4f5ef590144_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[99즈랑 놀자!😝 2]]></title>
@@ -30,14 +38,6 @@
             <pubDate>Thu, 02 Jun 2022 05:17:43 GMT</pubDate>
             <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220602_123/1654141354702pBPRS_JPEG/eb96d2ab-e225-11ec-ba01-505dac8c3607_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🥐🆕]]></title>
-            <link>https://www.vlive.tv/video/284781</link>
-            <guid>https://www.vlive.tv/video/284781</guid>
-            <pubDate>Thu, 02 Jun 2022 05:52:22 GMT</pubDate>
-            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/284781/thumb?type=f228_128" length="0" type="image//live/284781/thumb"/>
         </item>
     </channel>
 </rss>
