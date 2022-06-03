@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 06:49:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 07:41:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / Super K-Pop] Topic Song with BÉBE YANA , Jogon of 9001]]></title>
-            <link>https://m.vlive.tv/video/284321</link>
-            <guid>https://m.vlive.tv/video/284321</guid>
-            <pubDate>Wed, 01 Jun 2022 03:07:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220526_282/1653549074057EYa8C_JPEG/upload_69818650529277915f1d390be-67c2-454d-adc0-7bca3ac4b060.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[짱다람쥐 댄스 브이앱🕺🐿💙]]></title>
             <link>https://m.vlive.tv/video/283749</link>
@@ -96,6 +86,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220602_270/1654156043368W8Wds_JPEG/upload_98235738909999385c5aa3282-cf15-408a-bed8-0d02a7e3ac5f.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio/K-Poppin'] 'Stayfolio' CEO Lee Sang Muk 스테이 폴리오 대표 이상묵]]></title>
+            <link>https://m.vlive.tv/video/284806</link>
+            <guid>https://m.vlive.tv/video/284806</guid>
+            <pubDate>Fri, 03 Jun 2022 07:40:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220602_242/1654156402661JTFhM_JPEG/upload_98236109265023093b258932e-7691-4b32-81f6-36b2f08bf9c0.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
