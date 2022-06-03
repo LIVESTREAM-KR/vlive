@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 23:42:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 02:30:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Joe]]></title>
-            <link>https://m.vlive.tv/video/284315</link>
-            <guid>https://m.vlive.tv/video/284315</guid>
-            <pubDate>Tue, 31 May 2022 13:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220526_157/1653548517822T7Cqk_JPEG/upload_976282238813457997ffe0542-e24a-4395-a613-ca5886574930.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Simply K-Pop CON-TOUR (심플리케이팝 콘투어) Ep.522]]></title>
             <link>https://m.vlive.tv/video/284793</link>
@@ -96,6 +86,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220602_27/16541564485280RKb6_JPEG/upload_98236158869795702410c498f-9f2f-4fb4-93ce-4424989078cd.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio / Super K-Pop]Oh My K-Pop with NIve]]></title>
+            <link>https://m.vlive.tv/video/284810</link>
+            <guid>https://m.vlive.tv/video/284810</guid>
+            <pubDate>Fri, 03 Jun 2022 02:29:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220602_228/1654156595183ddOS8_JPEG/upload_982362937360433486417f371-7e74-41fe-a67a-21b3edf9d51f.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
