@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 04:49:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 05:40:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Sat, 04 Jun 2022 04:48:35 GMT</pubDate>
             <content:encoded><![CDATA[오전 4:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220603_164/1654255286979aNQex_JPEG/upload_983350018377099645f10e1e3-ec68-4a7f-a901-f0b75b92a4af.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HAPPY FUSE DAY💕🎁]]></title>
+            <link>https://www.vlive.tv/video/284966</link>
+            <guid>https://www.vlive.tv/video/284966</guid>
+            <pubDate>Sat, 04 Jun 2022 05:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[오전 5:01]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/284966/thumb?type=f228_128" length="0" type="image//live/284966/thumb"/>
         </item>
     </channel>
 </rss>
