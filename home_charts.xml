@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 07:40:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 08:45:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[A-T-L]]></title>
+            <link>https://www.vlive.tv/video/284963</link>
+            <guid>https://www.vlive.tv/video/284963</guid>
+            <pubDate>Sat, 04 Jun 2022 08:44:30 GMT</pubDate>
+            <content:encoded><![CDATA[MONSTA X]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220604_262/1654311988540QrCob_JPEG/040af2b4-e3b3-11ec-8055-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[.]]></title>
             <link>https://www.vlive.tv/video/284964</link>
@@ -30,14 +38,6 @@
             <pubDate>Fri, 03 Jun 2022 15:46:00 GMT</pubDate>
             <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220603_132/1654251481818mfeOc_JPEG/aefc0624-e325-11ec-81b1-505dac8c3639_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🥒앱 리턴즈]]></title>
-            <link>https://www.vlive.tv/video/284955</link>
-            <guid>https://www.vlive.tv/video/284955</guid>
-            <pubDate>Sat, 04 Jun 2022 07:39:07 GMT</pubDate>
-            <content:encoded><![CDATA[BTOB]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220604_88/1654277776700Bxigj_JPEG/4a1acb4c-e363-11ec-9d93-d4f5ef590144_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

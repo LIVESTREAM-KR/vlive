@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 07:40:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 08:45:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220604_9/1654322587616FYwy7_JPEG/81829e7e-e3cb-11ec-8e34-505dac8c3721_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[LIVE IN SEATTLE 💛🇺🇸🐝]]></title>
-            <link>https://www.vlive.tv/video/284969</link>
-            <guid>https://www.vlive.tv/video/284969</guid>
-            <pubDate>Sat, 04 Jun 2022 07:39:37 GMT</pubDate>
-            <content:encoded><![CDATA[오전 7:15]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/284969/thumb?type=f228_128" length="0" type="image//live/284969/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[즐토불이 !]]></title>
             <link>https://www.vlive.tv/video/284968</link>
             <guid>https://www.vlive.tv/video/284968</guid>
@@ -102,6 +94,30 @@
             <pubDate>Sat, 04 Jun 2022 07:39:37 GMT</pubDate>
             <content:encoded><![CDATA[오전 7:39]]></content:encoded>
             <enclosure url="https://vlive-thumb.pstatic.net/live/284970/thumb?type=f228_128" length="0" type="image//live/284970/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[Is it a feminine cleanser or a body wash?]]></title>
+            <link>https://www.vlive.tv/video/284973</link>
+            <guid>https://www.vlive.tv/video/284973</guid>
+            <pubDate>Sat, 04 Jun 2022 08:44:59 GMT</pubDate>
+            <content:encoded><![CDATA[오전 8:07]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220604_113/1654330056235pwGOQ_PNG/upload_98409771485716129d597a852-730e-4563-9fff-0f435d53bb10.png?type=f228_128" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[리노리방🐱 스하~]]></title>
+            <link>https://www.vlive.tv/video/284971</link>
+            <guid>https://www.vlive.tv/video/284971</guid>
+            <pubDate>Sat, 04 Jun 2022 08:44:59 GMT</pubDate>
+            <content:encoded><![CDATA[오전 8:28]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220604_101/16543313078418SMsK_JPEG/7b1c5894-e3df-11ec-ba01-505dac8c3607_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LIVE IN SEATTLE 💛🇺🇸🐝]]></title>
+            <link>https://www.vlive.tv/video/284969</link>
+            <guid>https://www.vlive.tv/video/284969</guid>
+            <pubDate>Sat, 04 Jun 2022 07:39:37 GMT</pubDate>
+            <content:encoded><![CDATA[오전 8:40]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220604_95/16543320381617wlg7_JPEG/8282324e-e3e1-11ec-81b1-505dac8c3639_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
