@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 06:47:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 07:40:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[즐토불이 !]]></title>
+            <link>https://www.vlive.tv/video/284968</link>
+            <guid>https://www.vlive.tv/video/284968</guid>
+            <pubDate>Sat, 04 Jun 2022 07:38:53 GMT</pubDate>
+            <content:encoded><![CDATA[Golden Child]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220604_228/1654328052023RGWxS_JPEG/398967a6-e3d8-11ec-b77c-48df379cca40_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LIVE IN SEATTLE 💛🇺🇸🐝]]></title>
+            <link>https://www.vlive.tv/video/284969</link>
+            <guid>https://www.vlive.tv/video/284969</guid>
+            <pubDate>Sat, 04 Jun 2022 07:38:53 GMT</pubDate>
+            <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/284969/thumb?type=f228_128" length="0" type="image//live/284969/thumb"/>
+        </item>
         <item>
             <title><![CDATA[HAPPY FUSE DAY💕🎁]]></title>
             <link>https://www.vlive.tv/video/284966</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 03 Jun 2022 16:58:47 GMT</pubDate>
             <content:encoded><![CDATA[ONEUS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220604_102/1654271182905xFyn0_JPEG/ec21041a-e353-11ec-9fa8-505dacfba98a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🥒앱]]></title>
-            <link>https://www.vlive.tv/video/284952</link>
-            <guid>https://www.vlive.tv/video/284952</guid>
-            <pubDate>Fri, 03 Jun 2022 15:45:10 GMT</pubDate>
-            <content:encoded><![CDATA[BTOB]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220604_192/16542708066081KNl7_JPEG/3880d28d-e353-11ec-b44a-d4f5ef58ad5e_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해피 옝데이🎂🎉]]></title>
-            <link>https://www.vlive.tv/video/284943</link>
-            <guid>https://www.vlive.tv/video/284943</guid>
-            <pubDate>Fri, 03 Jun 2022 14:39:58 GMT</pubDate>
-            <content:encoded><![CDATA[정예인 (YEIN)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220603_61/1654266652175QLsNG_JPEG/1671421691687819291b7d2d87-3142-4cf5-8688-bba65fa2af6d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
