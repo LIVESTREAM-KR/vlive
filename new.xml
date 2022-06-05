@@ -4,7 +4,7 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jun 2022 18:47:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 19:40:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,23 @@
             <guid>https://www.vlive.tv/video/285047</guid>
             <pubDate>Sun, 05 Jun 2022 18:45:32 GMT</pubDate>
             <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220606_37/1654456140282tQvni_JPEG/c23d3837-e502-11ec-946a-d4f5ef58ac88_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하이루]]></title>
+            <link>https://www.vlive.tv/video/285043</link>
+            <guid>https://www.vlive.tv/video/285043</guid>
+            <pubDate>Sun, 05 Jun 2022 19:39:04 GMT</pubDate>
+            <content:encoded><![CDATA[PURPLE KISS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220606_146/1654443798459xz94N_JPEG/1672321898016040875199627e-3ed5-4de1-9ba3-ac4f6c0e0cbc.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠못드는밤에(잠안오면 여기오면 잠깨요!!)]]></title>
+            <link>https://www.vlive.tv/video/285048</link>
+            <guid>https://www.vlive.tv/video/285048</guid>
+            <pubDate>Sun, 05 Jun 2022 19:39:04 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220606_75/1654455332752DIKDD_JPEG/4807310902769711815cdda66-a1d5-443c-afb0-f817f0fcadac.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다시 왔다!!! 💙✨💙]]></title>
@@ -389,22 +406,6 @@
             <pubDate>Sat, 04 Jun 2022 16:52:33 GMT</pubDate>
             <content:encoded><![CDATA[LAM(영화처럼)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220605_189/1654362095734Djqek_JPEG/b42a6f26-e427-11ec-b6ab-505dac8c38f5_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인사만… 하고…..]]></title>
-            <link>https://www.vlive.tv/video/285004</link>
-            <guid>https://www.vlive.tv/video/285004</guid>
-            <pubDate>Sat, 04 Jun 2022 16:52:33 GMT</pubDate>
-            <content:encoded><![CDATA[PURPLE KISS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220605_258/1654360308832jXRcY_JPEG/16714867982652235125febc5b-1d60-4339-9ab4-aec05d5a92bc.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이레 재등장]]></title>
-            <link>https://www.vlive.tv/video/285000</link>
-            <guid>https://www.vlive.tv/video/285000</guid>
-            <pubDate>Sat, 04 Jun 2022 15:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[PURPLE KISS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220605_40/16543561087386VzQW_JPEG/167231690706043858ab694b80-60f4-43c9-a23f-4bb9d321c21a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
