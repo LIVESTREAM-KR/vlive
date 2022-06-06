@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 13:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 13:57:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -232,20 +232,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220606_150/16545015139247GqDW_JPEG/upload_70771034522722323077e3d54-f4c9-4db6-963b-fc846890b1ff.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[안녕 오랜만이야]]></title>
-            <link>https://www.vlive.tv/video/285080</link>
-            <guid>https://www.vlive.tv/video/285080</guid>
-            <pubDate>Mon, 06 Jun 2022 11:40:00 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:03]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220606_56/1654516982032C5uVB_JPEG/98e7458f-e58f-11ec-8e34-505dac8c3721_03.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[쮸뀨설🐶🐱🐰]]></title>
             <link>https://www.vlive.tv/video/285079</link>
             <guid>https://www.vlive.tv/video/285079</guid>
             <pubDate>Mon, 06 Jun 2022 10:47:09 GMT</pubDate>
             <content:encoded><![CDATA[오후 12:03]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220606_184/1654517000812z3hDP_JPEG/6f9f5606-e58f-11ec-a120-505dacfbaa5c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안녕 오랜만이야]]></title>
+            <link>https://www.vlive.tv/video/285080</link>
+            <guid>https://www.vlive.tv/video/285080</guid>
+            <pubDate>Mon, 06 Jun 2022 11:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[오후 12:03]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220606_56/1654516982032C5uVB_JPEG/98e7458f-e58f-11ec-8e34-505dac8c3721_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하이룽]]></title>
@@ -286,6 +286,14 @@
             <pubDate>Mon, 06 Jun 2022 02:36:48 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:05]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220602_175/1654155890717YkGKW_JPEG/upload_98235574967478261c04a10a9-1d9c-459e-ac07-32b4a29f3069.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나 혼자 자전거 탔다😎]]></title>
+            <link>https://www.vlive.tv/video/285088</link>
+            <guid>https://www.vlive.tv/video/285088</guid>
+            <pubDate>Mon, 06 Jun 2022 13:57:10 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:43]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220606_6/1654523001806JWHfw_JPEG/167311375760241094aba18ae9-2dd0-43f2-9e4d-793d0496517e.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
