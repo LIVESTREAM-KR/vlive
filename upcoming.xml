@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 21:42:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 22:43:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -358,6 +358,14 @@
             <pubDate>Mon, 06 Jun 2022 15:46:33 GMT</pubDate>
             <content:encoded><![CDATA[오후 4:03]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220607_155/1654529073936egCmz_JPEG/1674045919062813906f346bd2-03f6-444c-a9cb-7d32bd4c13ae.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 지금 우리 학교는 | 시즌2 제작 확정]]></title>
+            <link>https://www.vlive.tv/video/284927</link>
+            <guid>https://www.vlive.tv/video/284927</guid>
+            <pubDate>Mon, 06 Jun 2022 22:43:23 GMT</pubDate>
+            <content:encoded><![CDATA[오후 10:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220603_40/1654256156786sLW0w_JPEG/4294715d-e331-11ec-89b9-d4f5ef5906a4_01.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
