@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 13:57:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 14:41:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,22 @@
             <pubDate>Mon, 06 Jun 2022 13:57:10 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:43]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220606_6/1654523001806JWHfw_JPEG/167311375760241094aba18ae9-2dd0-43f2-9e4d-793d0496517e.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보러 옴👀]]></title>
+            <link>https://www.vlive.tv/video/285087</link>
+            <guid>https://www.vlive.tv/video/285087</guid>
+            <pubDate>Mon, 06 Jun 2022 14:40:40 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:57]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220606_225/1654523874160PaxYw_JPEG/78f84fc6-e5a0-11ec-bb12-d4f5ef5a9532_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VICTON 빅톤 'Stupid O'clock' Performance Video]]></title>
+            <link>https://www.vlive.tv/video/285086</link>
+            <guid>https://www.vlive.tv/video/285086</guid>
+            <pubDate>Mon, 06 Jun 2022 14:40:40 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220606_100/1654517383596OqpNM_PNG/upload_70786720945042934184fbcea-7319-488e-9d56-395a283bcc88.png?type=f228_128" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

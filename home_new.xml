@@ -4,16 +4,16 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 13:57:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 14:41:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[나 혼자 자전거 탔다😎]]></title>
-            <link>https://www.vlive.tv/video/285088</link>
-            <guid>https://www.vlive.tv/video/285088</guid>
-            <pubDate>Mon, 06 Jun 2022 13:56:19 GMT</pubDate>
-            <content:encoded><![CDATA[Weki Meki]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220606_6/1654523001806JWHfw_JPEG/167311375760241094aba18ae9-2dd0-43f2-9e4d-793d0496517e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <title><![CDATA[VICTON 빅톤 'Stupid O'clock' Performance Video]]></title>
+            <link>https://www.vlive.tv/video/285086</link>
+            <guid>https://www.vlive.tv/video/285086</guid>
+            <pubDate>Mon, 06 Jun 2022 14:39:57 GMT</pubDate>
+            <content:encoded><![CDATA[VICTON]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220606_100/1654517383596OqpNM_PNG/upload_70786720945042934184fbcea-7319-488e-9d56-395a283bcc88.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[보러 옴👀]]></title>
@@ -21,7 +21,15 @@
             <guid>https://www.vlive.tv/video/285087</guid>
             <pubDate>Mon, 06 Jun 2022 13:56:19 GMT</pubDate>
             <content:encoded><![CDATA[VIVIZ (비비지)]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/285087/thumb?type=f228_128" length="0" type="image//live/285087/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220606_225/1654523874160PaxYw_JPEG/78f84fc6-e5a0-11ec-bb12-d4f5ef5a9532_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나 혼자 자전거 탔다😎]]></title>
+            <link>https://www.vlive.tv/video/285088</link>
+            <guid>https://www.vlive.tv/video/285088</guid>
+            <pubDate>Mon, 06 Jun 2022 13:56:19 GMT</pubDate>
+            <content:encoded><![CDATA[Weki Meki]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220606_6/1654523001806JWHfw_JPEG/167311375760241094aba18ae9-2dd0-43f2-9e4d-793d0496517e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Arirang Radio (Radio'n Us / Lokid 로키드)]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 06 Jun 2022 11:39:13 GMT</pubDate>
             <content:encoded><![CDATA[LIGHTSUM]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220606_150/1654445498666WgCgE_JPEG/upload_98525147124156622581a602f-0bc0-4cab-a2ee-4749a21c8de4.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[🎬] 김재환 (KIM JAE HWAN) -  달팽이(Snail)_Live Clip (가로 ver.)]]></title>
-            <link>https://www.vlive.tv/video/284937</link>
-            <guid>https://www.vlive.tv/video/284937</guid>
-            <pubDate>Mon, 06 Jun 2022 11:39:13 GMT</pubDate>
-            <content:encoded><![CDATA[KIM JAEHWAN(김재환)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220604_264/1654269689145V8DFN_JPEG/5da93e87-e33f-11ec-bb12-d4f5ef5a9532_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
