@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 10:47:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 11:40:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Radio'n Us / Lokid 로키드)]]></title>
-            <link>https://m.vlive.tv/video/284799</link>
-            <guid>https://m.vlive.tv/video/284799</guid>
-            <pubDate>Thu, 02 Jun 2022 07:46:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220602_175/1654155890717YkGKW_JPEG/upload_98235574967478261c04a10a9-1d9c-459e-ac07-32b4a29f3069.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
             <link>https://m.vlive.tv/video/284801</link>
@@ -96,6 +86,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220602_171/16541560508746hYxT_JPEG/upload_982357341745356474a46639a-a906-4000-961e-80086eff4172.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Radio'n Us / YoonSukHun 윤석훈)]]></title>
+            <link>https://m.vlive.tv/video/285075</link>
+            <guid>https://m.vlive.tv/video/285075</guid>
+            <pubDate>Mon, 06 Jun 2022 11:40:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220606_232/1654509749133mLTRb_JPEG/upload_98589431416330113e363e415-d724-4ec8-adbc-3ce5c81be3d0.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
