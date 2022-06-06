@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 14:41:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 15:47:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220602_228/1654156595183ddOS8_JPEG/upload_982362937360433486417f371-7e74-41fe-a67a-21b3edf9d51f.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[💛FTISLAND 15th Anniversary💛]]></title>
+            <link>https://m.vlive.tv/video/285090</link>
+            <guid>https://m.vlive.tv/video/285090</guid>
+            <pubDate>Mon, 06 Jun 2022 15:46:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">FTISLAND</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220607_116/16545282046478V6LK_JPEG/upload_9860759487857593820ba25b3-17dd-4867-89c2-658c1ea55c89.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthew]]></title>
@@ -96,16 +106,6 @@
 										오전 11:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220606_232/1654509749133mLTRb_JPEG/upload_98589431416330113e363e415-d724-4ec8-adbc-3ce5c81be3d0.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
-            <link>https://m.vlive.tv/video/284804</link>
-            <guid>https://m.vlive.tv/video/284804</guid>
-            <pubDate>Mon, 06 Jun 2022 13:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220602_157/165415608821955DUS_JPEG/upload_98235791010640106be8ea019-d60a-4a6f-a6c7-2d5fd70da9ec.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
