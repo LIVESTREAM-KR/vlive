@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 09:44:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 10:45:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[💛FTISLAND 15th Anniversary💛]]></title>
-            <link>https://m.vlive.tv/video/285090</link>
-            <guid>https://m.vlive.tv/video/285090</guid>
-            <pubDate>Mon, 06 Jun 2022 15:46:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">FTISLAND</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220607_116/16545282046478V6LK_JPEG/upload_9860759487857593820ba25b3-17dd-4867-89c2-658c1ea55c89.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청하랑 별하랑이랑 5번째 ~ing💚💙💜]]></title>
-            <link>https://m.vlive.tv/video/285137</link>
-            <guid>https://m.vlive.tv/video/285137</guid>
-            <pubDate>Tue, 07 Jun 2022 09:43:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">CHUNG HA</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220607_143/1654594601789DkvaN_JPEG/upload_986741089740927611723b9cc-9fe6-4181-906b-f9e2070b8c9e.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthew]]></title>
             <link>https://m.vlive.tv/video/284802</link>
@@ -106,6 +86,26 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220606_90/1654509523939WR1Bi_JPEG/upload_707790635017406208ec784f2-59c9-4aa9-92e0-801bbf25b82e.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop] Stray Quiz]]></title>
+            <link>https://m.vlive.tv/video/284811</link>
+            <guid>https://m.vlive.tv/video/284811</guid>
+            <pubDate>Tue, 07 Jun 2022 10:44:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220602_266/1654156636950QSmDv_JPEG/upload_704262223117979549f1f1abe-518f-48a9-abc8-fc7936c06b1b.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
+            <link>https://m.vlive.tv/video/284805</link>
+            <guid>https://m.vlive.tv/video/284805</guid>
+            <pubDate>Tue, 07 Jun 2022 10:44:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220603_255/1654220623100NwGk4_JPEG/upload_70425712949694210f1b1f79c-6629-4550-8edb-45e08497dbbe.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
