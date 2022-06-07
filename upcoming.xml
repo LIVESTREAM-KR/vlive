@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 15:48:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 17:01:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -360,14 +360,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220607_116/16545282046478V6LK_JPEG/upload_9860759487857593820ba25b3-17dd-4867-89c2-658c1ea55c89.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[청하랑 별하랑 5주년❤️]]></title>
-            <link>https://www.vlive.tv/video/285144</link>
-            <guid>https://www.vlive.tv/video/285144</guid>
-            <pubDate>Tue, 07 Jun 2022 10:44:48 GMT</pubDate>
-            <content:encoded><![CDATA[오전 11:19]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220607_277/1654596636804wqUQQ_JPEG/16738500779014908204d5f9f1-f3fb-4bd0-9546-d5af7b497f4e.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[이런 브이앱은 처음이지 ?]]></title>
             <link>https://www.vlive.tv/video/285154</link>
             <guid>https://www.vlive.tv/video/285154</guid>
@@ -544,20 +536,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220607_236/1654611688840am3zI_JPEG/167487287830070918bce69255-d8eb-44bd-9d6c-0a1333ec26ef.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[마라탕 왔다]]></title>
-            <link>https://www.vlive.tv/video/285173</link>
-            <guid>https://www.vlive.tv/video/285173</guid>
-            <pubDate>Tue, 07 Jun 2022 15:47:26 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:12]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/285173/thumb?type=f228_128" length="0" type="image//live/285173/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[가보자구]]></title>
             <link>https://www.vlive.tv/video/285171</link>
             <guid>https://www.vlive.tv/video/285171</guid>
             <pubDate>Tue, 07 Jun 2022 14:47:20 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:23]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220608_260/1654615417853lgVsX_JPEG/f60b402d-e674-11ec-bb12-d4f5ef5a9532_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마라탕 왔다]]></title>
+            <link>https://www.vlive.tv/video/285173</link>
+            <guid>https://www.vlive.tv/video/285173</guid>
+            <pubDate>Tue, 07 Jun 2022 15:47:26 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:26]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220608_243/1654620722533rk1Ox_JPEG/upload_9870034798182383984a98c32-dbea-4559-ab3c-1d569d8af8a5.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
