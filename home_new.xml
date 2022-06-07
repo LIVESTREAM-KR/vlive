@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 17:01:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 17:47:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[으앙]]></title>
+            <link>https://www.vlive.tv/video/285174</link>
+            <guid>https://www.vlive.tv/video/285174</guid>
+            <pubDate>Tue, 07 Jun 2022 17:45:44 GMT</pubDate>
+            <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220608_296/1654623180711CKiRU_JPEG/1674987966693446363d05ae8c-292b-4224-b833-0fe5ec53b323.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마라탕 왔다]]></title>
             <link>https://www.vlive.tv/video/285173</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 07 Jun 2022 13:15:43 GMT</pubDate>
             <content:encoded><![CDATA[LIGHTSUM]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220607_288/1654582256358A9Y5O_JPEG/upload_70851844228784828fae965ee-7b6e-4428-94df-c8b9febe9d82.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소세와쏘요 19일 쇼케이스 오세요오!]]></title>
-            <link>https://www.vlive.tv/video/285142</link>
-            <guid>https://www.vlive.tv/video/285142</guid>
-            <pubDate>Tue, 07 Jun 2022 13:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[LIZ ENT]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220607_235/1654606755034QIGAG_JPEG/51434f66-e65f-11ec-81b1-505dac8c3639_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
