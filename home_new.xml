@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 02:32:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 03:42:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[FTISLAND DEBUT 15TH ANNIVERSARY MESSAGE]]></title>
+            <link>https://www.vlive.tv/video/284774</link>
+            <guid>https://www.vlive.tv/video/284774</guid>
+            <pubDate>Tue, 07 Jun 2022 03:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[FTISLAND]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220602_51/1654141017250GgsKv_JPEG/upload_98220747271981183ba3d613c-dec3-4d83-9f6b-a6ca3b6f0d8c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Before the concert]]></title>
+            <link>https://www.vlive.tv/video/285096</link>
+            <guid>https://www.vlive.tv/video/285096</guid>
+            <pubDate>Tue, 07 Jun 2022 03:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[ARTMCONCERT]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220607_188/1654562576283yGz3Y_PNG/upload_986417887023383567e6b7521-1142-4554-b5a8-58df64c1622d.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[REPLAY]돌아온후니]]></title>
             <link>https://www.vlive.tv/video/284226</link>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 06 Jun 2022 15:45:41 GMT</pubDate>
             <content:encoded><![CDATA[HIGHLIGHT]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220606_259/16545268691895cS03_JPEG/upload_9860659624021291959ec5004-2613-443d-9822-65170e3c2cc9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VICTON 빅톤 'Stupid O'clock' Performance Video]]></title>
-            <link>https://www.vlive.tv/video/285086</link>
-            <guid>https://www.vlive.tv/video/285086</guid>
-            <pubDate>Mon, 06 Jun 2022 14:39:57 GMT</pubDate>
-            <content:encoded><![CDATA[VICTON]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220606_100/1654517383596OqpNM_PNG/upload_70786720945042934184fbcea-7319-488e-9d56-395a283bcc88.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[보러 옴👀]]></title>
-            <link>https://www.vlive.tv/video/285087</link>
-            <guid>https://www.vlive.tv/video/285087</guid>
-            <pubDate>Mon, 06 Jun 2022 13:56:19 GMT</pubDate>
-            <content:encoded><![CDATA[VIVIZ (비비지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220606_225/1654523874160PaxYw_JPEG/78f84fc6-e5a0-11ec-bb12-d4f5ef5a9532_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

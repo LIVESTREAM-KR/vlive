@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 02:32:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 03:42:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Before the concert]]></title>
-            <link>https://m.vlive.tv/video/285096</link>
-            <guid>https://m.vlive.tv/video/285096</guid>
-            <pubDate>Tue, 07 Jun 2022 02:31:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 3:00</span>
-										<span class="txt">ARTMCONCERT</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220607_188/1654562576283yGz3Y_PNG/upload_986417887023383567e6b7521-1142-4554-b5a8-58df64c1622d.png?type=f274_154" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[ASC Live Ep.526 (TNX / 티엔엑스)]]></title>
             <link>https://m.vlive.tv/video/284874</link>
@@ -106,6 +96,16 @@
 										오전 11:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220606_232/1654509749133mLTRb_JPEG/upload_98589431416330113e363e415-d724-4ec8-adbc-3ce5c81be3d0.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
+            <link>https://m.vlive.tv/video/284804</link>
+            <guid>https://m.vlive.tv/video/284804</guid>
+            <pubDate>Tue, 07 Jun 2022 03:42:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220602_157/165415608821955DUS_JPEG/upload_98235791010640106be8ea019-d60a-4a6f-a6c7-2d5fd70da9ec.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
