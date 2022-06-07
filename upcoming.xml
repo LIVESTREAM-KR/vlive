@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 13:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 13:54:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,14 +392,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220607_136/1654602709101E7Y1f_JPEG/e62fd454-e657-11ec-8055-505dac8c385b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[주은이에용]]></title>
-            <link>https://www.vlive.tv/video/285162</link>
-            <guid>https://www.vlive.tv/video/285162</guid>
-            <pubDate>Tue, 07 Jun 2022 13:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:03]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220607_236/1654603398747oogks_JPEG/482211750295759436df15a65-e971-400e-8bb4-7e16e9843998.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[또 안뇽👀]]></title>
             <link>https://www.vlive.tv/video/285153</link>
             <guid>https://www.vlive.tv/video/285153</guid>
@@ -480,11 +472,27 @@
             <enclosure url="https://v-phinf.pstatic.net/20220607_299/1654607608401MMWz6_JPEG/cbf66aa6-e662-11ec-b6ab-505dac8c38f5_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[마지막 공사입니다…🥹]]></title>
+            <link>https://www.vlive.tv/video/285169</link>
+            <guid>https://www.vlive.tv/video/285169</guid>
+            <pubDate>Tue, 07 Jun 2022 13:54:26 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:17]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/285169/thumb?type=f228_128" length="0" type="image//live/285169/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[돌아온 정룬정식🍽]]></title>
+            <link>https://www.vlive.tv/video/285161</link>
+            <guid>https://www.vlive.tv/video/285161</guid>
+            <pubDate>Tue, 07 Jun 2022 13:54:26 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:19]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220607_45/1654603011402fBpU8_JPEG/1674786113820930935ca7f10d-39ef-4c8a-bb31-689fa40b3d8a.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[해피 하빛 데이🎉🎉]]></title>
             <link>https://www.vlive.tv/video/285168</link>
             <guid>https://www.vlive.tv/video/285168</guid>
             <pubDate>Tue, 07 Jun 2022 13:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:15]]></content:encoded>
+            <content:encoded><![CDATA[오후 1:51]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220607_200/1654607457902803Fi_JPEG/upload_986871780988458972933b55d-8660-4441-a821-51002bc4920e.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
