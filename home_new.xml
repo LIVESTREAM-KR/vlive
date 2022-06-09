@@ -4,9 +4,33 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 13:23:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 13:54:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나랑 놀자🎶]]></title>
+            <link>https://www.vlive.tv/video/285340</link>
+            <guid>https://www.vlive.tv/video/285340</guid>
+            <pubDate>Thu, 09 Jun 2022 13:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[DKZ]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220609_215/1654781911078Dbg91_JPEG/c3368ace-e7f8-11ec-8055-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나랑 놀자아😍]]></title>
+            <link>https://www.vlive.tv/video/285345</link>
+            <guid>https://www.vlive.tv/video/285345</guid>
+            <pubDate>Thu, 09 Jun 2022 13:52:54 GMT</pubDate>
+            <content:encoded><![CDATA[EPEX]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/285345/thumb?type=f228_128" length="0" type="image//live/285345/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[드디어..... 성공..?]]></title>
+            <link>https://www.vlive.tv/video/285344</link>
+            <guid>https://www.vlive.tv/video/285344</guid>
+            <pubDate>Thu, 09 Jun 2022 13:52:54 GMT</pubDate>
+            <content:encoded><![CDATA[LAPOEM]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220609_201/1654781598606XttT9_JPEG/16765712858719672384fb16c4-58d0-487d-9933-b3dc9149d9da.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[We're COMEBACK! FRIENDZ🎉]]></title>
             <link>https://www.vlive.tv/video/285343</link>
@@ -56,22 +80,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220609_26/1654764870784aud2q_JPEG/upload_988439597305513491930617a-4dc5-4ba6-9013-011ca9a03c26.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[무엇이든 그려보삼🖐]]></title>
-            <link>https://www.vlive.tv/video/285341</link>
-            <guid>https://www.vlive.tv/video/285341</guid>
-            <pubDate>Thu, 09 Jun 2022 13:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[M.O.N.T (몬트)]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/285341/thumb?type=f228_128" length="0" type="image//live/285341/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[나랑 놀자🎶]]></title>
-            <link>https://www.vlive.tv/video/285340</link>
-            <guid>https://www.vlive.tv/video/285340</guid>
-            <pubDate>Thu, 09 Jun 2022 13:21:39 GMT</pubDate>
-            <content:encoded><![CDATA[DKZ]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/285340/thumb?type=f228_128" length="0" type="image//live/285340/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[모기 박멸 기원 1일 차]]></title>
             <link>https://www.vlive.tv/video/285334</link>
             <guid>https://www.vlive.tv/video/285334</guid>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 09 Jun 2022 13:21:39 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220609_207/16547798581222Yaoc_PNG/upload_988595898639807602582f23e-8119-4211-843c-2a57543feabc.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[🎉TEMPEST의 100일 PARTY🎉]]></title>
-            <link>https://www.vlive.tv/video/285181</link>
-            <guid>https://www.vlive.tv/video/285181</guid>
-            <pubDate>Thu, 09 Jun 2022 10:45:06 GMT</pubDate>
-            <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220608_32/1654654368376tsnEx_JPEG/upload_98733785238084622e3d1fd0c-350f-4c83-b246-43672913826f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
