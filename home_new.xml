@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 04:08:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 04:56:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / Ye Ji Kim 김예지)]]></title>
+            <link>https://www.vlive.tv/video/285074</link>
+            <guid>https://www.vlive.tv/video/285074</guid>
+            <pubDate>Thu, 09 Jun 2022 04:55:35 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220606_90/1654509523939WR1Bi_JPEG/upload_707790635017406208ec784f2-59c9-4aa9-92e0-801bbf25b82e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드디어...]]></title>
             <link>https://www.vlive.tv/video/285283</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 08 Jun 2022 14:40:45 GMT</pubDate>
             <content:encoded><![CDATA[T1419]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220608_105/1654698621664C2OTA_JPEG/167574152623514821bd02cae0-ad9d-4cd2-a468-92d1e6032f08.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다들 뭐해요?🤔☀️]]></title>
-            <link>https://www.vlive.tv/video/285254</link>
-            <guid>https://www.vlive.tv/video/285254</guid>
-            <pubDate>Wed, 08 Jun 2022 14:40:45 GMT</pubDate>
-            <content:encoded><![CDATA[P1Harmony]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220608_50/1654697969656T2Eia_JPEG/767504081921226258d864784-2a8a-42af-87fb-6fe4dd3c9ab5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
