@@ -4,9 +4,17 @@
         <title>V LIVE 모바일 ─ CHARTS </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 14:43:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 17:01:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[컴백]]></title>
+            <link>https://m.vlive.tv/video/285426</link>
+            <guid>https://m.vlive.tv/video/285426</guid>
+            <pubDate>Fri, 10 Jun 2022 17:00:41 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220611_64/1654877001265DtlKb_JPEG/upload_71146600283995348f973a720-e164-42bf-b600-bea487ceeebf.jpeg?type=f640_360_wp" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[BTS (방탄소년단) 'Yet To Come (The Most Beautiful Moment)' Official MV]]></title>
             <link>https://m.vlive.tv/video/285356</link>
@@ -22,14 +30,6 @@
             <pubDate>Fri, 10 Jun 2022 09:44:50 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220607_240/1654605843814XQ4ah_JPEG/upload_708754464578935122c384003-9a63-49f9-9c7f-f95979109a60.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[♥️HBD JUN♥️]]></title>
-            <link>https://m.vlive.tv/video/285376</link>
-            <guid>https://m.vlive.tv/video/285376</guid>
-            <pubDate>Fri, 10 Jun 2022 13:53:51 GMT</pubDate>
-            <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220610_142/1654841282728y4psQ_JPEG/upload_98920996762327290de6c1a09-7187-472d-ac1a-35774fe8548f.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
