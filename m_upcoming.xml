@@ -4,26 +4,16 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 04:05:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 04:53:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / Sound K] Edu-K-tion with DJ Hanmin DJ 한민]]></title>
-            <link>https://m.vlive.tv/video/284809</link>
-            <guid>https://m.vlive.tv/video/284809</guid>
-            <pubDate>Wed, 08 Jun 2022 05:41:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220602_132/1654156547825iYA39_JPEG/upload_98236256230772299c0f80fd1-4bbc-4326-a61f-8a612cba6c0b.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Super K-Pop] Topic Song with BÉBE YANA , Jogon of 9001]]></title>
             <link>https://m.vlive.tv/video/284812</link>
             <guid>https://m.vlive.tv/video/284812</guid>
             <pubDate>Wed, 08 Jun 2022 07:42:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
+										방송취소</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220602_113/1654156709435bbUJb_JPEG/upload_7042629639733657045189b49-f04c-4641-ac0d-c512a2fe9ee3.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
@@ -66,6 +56,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220609_214/1654735008077LyrRI_JPEG/upload_7100457077282492028fbfec7-3ccd-44be-895c-5e9a9f45d650.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop]Oh My K-Pop with NIve]]></title>
+            <link>https://m.vlive.tv/video/285272</link>
+            <guid>https://m.vlive.tv/video/285272</guid>
+            <pubDate>Fri, 10 Jun 2022 04:53:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220609_165/1654735178447cqi7w_JPEG/upload_71004750514696369f5300c1a-4d16-4f9e-84b0-7c7e9faca868.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
