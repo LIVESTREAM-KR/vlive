@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 05:41:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 06:50:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,16 @@
             <enclosure url="https://v-phinf.pstatic.net/20220608_7/1654684850391CxKuC_JPEG/upload_70954388549177522259f3ce4-adb8-4a7c-86e9-d114b819648a.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[LIVE] SIMPLY K-POP CON-TOUR (📍Vietnam)]]></title>
+            <link>https://m.vlive.tv/video/285378</link>
+            <guid>https://m.vlive.tv/video/285378</guid>
+            <pubDate>Fri, 10 Jun 2022 06:49:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220610_63/1654842054476ctRCF_PNG/upload_989216554484433571c2c20ad-d9c7-4aa4-b4f0-0b5a097ac8b2.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
             <link>https://m.vlive.tv/video/285263</link>
             <guid>https://m.vlive.tv/video/285263</guid>
@@ -46,16 +56,6 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220609_6/1654734597524Yvm5j_JPEG/upload_98814292567526996d58a0a0d-f139-422d-883f-d2c388fdc3ed.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ASC Live Ep.527 (VICTON / 빅톤)]]></title>
-            <link>https://m.vlive.tv/video/285371</link>
-            <guid>https://m.vlive.tv/video/285371</guid>
-            <pubDate>Fri, 10 Jun 2022 05:40:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										방송취소</span>
-										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220610_229/16548374249427poDb_PNG/upload_989171415003620006e051678-01a9-4395-9fcb-613e68c89dfc.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
