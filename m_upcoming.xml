@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 08:46:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 09:42:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220609_11/1654734640909aDjDC_JPEG/upload_710042256771634123a39c73b-f1e8-4f96-b1cd-a64bc1e6235d.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio/K-Poppin'] Idol LUMINOUS 아이돌 루미너스]]></title>
+            <link>https://m.vlive.tv/video/285268</link>
+            <guid>https://m.vlive.tv/video/285268</guid>
+            <pubDate>Sat, 11 Jun 2022 09:41:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220609_53/1654734939933Lcoma_JPEG/upload_98814570320065135a2e5d338-7a3e-4b53-a8df-a6d1e82c0411.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
