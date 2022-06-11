@@ -4,16 +4,32 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 06:48:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 07:40:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[La Luna 첫방송🎉]]></title>
+            <link>https://www.vlive.tv/video/285443</link>
+            <guid>https://www.vlive.tv/video/285443</guid>
+            <pubDate>Sat, 11 Jun 2022 07:39:07 GMT</pubDate>
+            <content:encoded><![CDATA[ICHILLIN’]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/285443/thumb?type=f228_128" length="0" type="image//live/285443/thumb"/>
+        </item>
         <item>
             <title><![CDATA[아이돌 필수 덕목 : 서양 음악의 이해]]></title>
             <link>https://www.vlive.tv/video/285441</link>
             <guid>https://www.vlive.tv/video/285441</guid>
             <pubDate>Sat, 11 Jun 2022 06:47:22 GMT</pubDate>
             <content:encoded><![CDATA[NMIXX]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/285441/thumb?type=f228_128" length="0" type="image//live/285441/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220611_42/1654932463561q7KKl_JPEG/fdd7088d-e956-11ec-a120-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리 얘기 좀 합시다 #144]]></title>
+            <link>https://www.vlive.tv/video/285442</link>
+            <guid>https://www.vlive.tv/video/285442</guid>
+            <pubDate>Sat, 11 Jun 2022 07:39:07 GMT</pubDate>
+            <content:encoded><![CDATA[N.Flying]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220611_10/1654931971820VGpng_JPEG/8f475a3d-e956-11ec-9fa8-505dacfba98a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오랜만이에요!]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Sat, 11 Jun 2022 02:34:04 GMT</pubDate>
             <content:encoded><![CDATA[MBC 예능]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220611_30/1654911811663US9WA_JPEG/upload_71181413606217725bb82e24a-724a-43a9-a666-e1f5af8fe9b0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[선공개] 도도하고 시크했던 중학생 시절의 아이키💕 최초로 공개하는 졸업 사진⁉️ "추억이 새록새록 하다🌸", MBC 220611 방송]]></title>
-            <link>https://www.vlive.tv/video/285433</link>
-            <guid>https://www.vlive.tv/video/285433</guid>
-            <pubDate>Sat, 11 Jun 2022 02:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[MBC 예능]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220611_198/1654910646725oJd1M_JPEG/upload_71180145274749430b5038e5a-b0ee-40aa-96fb-e5db3ca62104.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[선공개] 3사 대표들의 아찔 살벌 멤버 영입전!💥 "그때는 여기가 🐏아치 짓 했잖아"🤣, MBC 220611]]></title>
-            <link>https://www.vlive.tv/video/285432</link>
-            <guid>https://www.vlive.tv/video/285432</guid>
-            <pubDate>Sat, 11 Jun 2022 02:34:04 GMT</pubDate>
-            <content:encoded><![CDATA[MBC 예능]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220611_50/1654908930144m17Ib_JPEG/upload_7117843325694160215775a40-2c94-4fe2-ba1e-b4a7e6c92d88.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

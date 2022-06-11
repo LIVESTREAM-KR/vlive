@@ -4,15 +4,31 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 06:48:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 07:40:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[La Luna 첫방송🎉]]></title>
+            <link>https://www.vlive.tv/video/285443</link>
+            <guid>https://www.vlive.tv/video/285443</guid>
+            <pubDate>Sat, 11 Jun 2022 07:38:57 GMT</pubDate>
+            <content:encoded><![CDATA[ICHILLIN’]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[아이돌 필수 덕목 : 서양 음악의 이해]]></title>
             <link>https://www.vlive.tv/video/285441</link>
             <guid>https://www.vlive.tv/video/285441</guid>
             <pubDate>Sat, 11 Jun 2022 06:47:13 GMT</pubDate>
             <content:encoded><![CDATA[NMIXX]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220611_42/1654932463561q7KKl_JPEG/fdd7088d-e956-11ec-a120-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리 얘기 좀 합시다 #144]]></title>
+            <link>https://www.vlive.tv/video/285442</link>
+            <guid>https://www.vlive.tv/video/285442</guid>
+            <pubDate>Sat, 11 Jun 2022 07:38:57 GMT</pubDate>
+            <content:encoded><![CDATA[N.Flying]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220611_10/1654931971820VGpng_JPEG/8f475a3d-e956-11ec-9fa8-505dacfba98a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오랜만이에요!]]></title>
@@ -389,22 +405,6 @@
             <pubDate>Fri, 10 Jun 2022 08:45:35 GMT</pubDate>
             <content:encoded><![CDATA[미래소년 (MIRAE)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220610_2/1654856965445KK2Ys_JPEG/7f5d27af-e8a2-11ec-bb44-48df379ccacc_06.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔피아에게 떼굴떼굴🌧]]></title>
-            <link>https://www.vlive.tv/video/285389</link>
-            <guid>https://www.vlive.tv/video/285389</guid>
-            <pubDate>Fri, 10 Jun 2022 08:45:35 GMT</pubDate>
-            <content:encoded><![CDATA[N.Flying]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220610_128/1654854029372MQr9Y_JPEG/d0f0b4da-e8a0-11ec-9fa8-505dacfba98a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수윤경댄브💃]]></title>
-            <link>https://www.vlive.tv/video/285382</link>
-            <guid>https://www.vlive.tv/video/285382</guid>
-            <pubDate>Fri, 10 Jun 2022 08:45:35 GMT</pubDate>
-            <content:encoded><![CDATA[Rocket Punch]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220610_138/1654853751957LXh9l_JPEG/fb7908c0-e89f-11ec-aef4-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
