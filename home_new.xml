@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 19:41:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 20:42:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조용한클럽!! (삭제예정)]]></title>
+            <link>https://www.vlive.tv/video/285476</link>
+            <guid>https://www.vlive.tv/video/285476</guid>
+            <pubDate>Sat, 11 Jun 2022 20:41:20 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220612_196/1654978817361e8jMm_JPEG/167767188343485509b7f8efd3-1400-4cad-aca4-519ffc6b529c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잠못드는 밤에]]></title>
             <link>https://www.vlive.tv/video/285475</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 11 Jun 2022 13:01:15 GMT</pubDate>
             <content:encoded><![CDATA[SF9]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220611_199/1654953093857GxOhQ_JPEG/97a2ace5-e987-11ec-928a-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yooni ><]]></title>
-            <link>https://www.vlive.tv/video/285460</link>
-            <guid>https://www.vlive.tv/video/285460</guid>
-            <pubDate>Sat, 11 Jun 2022 13:01:15 GMT</pubDate>
-            <content:encoded><![CDATA[SF9]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220611_28/1654950481094hXe4y_JPEG/735759b6-e981-11ec-aef4-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

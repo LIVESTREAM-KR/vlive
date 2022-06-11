@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 19:41:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 20:42:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -404,8 +404,16 @@
             <link>https://www.vlive.tv/video/285475</link>
             <guid>https://www.vlive.tv/video/285475</guid>
             <pubDate>Sat, 11 Jun 2022 19:41:04 GMT</pubDate>
-            <content:encoded><![CDATA[오후 6:54]]></content:encoded>
+            <content:encoded><![CDATA[오후 7:51]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220612_213/1654973653648I6WS7_JPEG/167761964652121956bfdb74a5-4ae3-4070-9d0b-75a2ce9fbafe.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조용한클럽!! (삭제예정)]]></title>
+            <link>https://www.vlive.tv/video/285476</link>
+            <guid>https://www.vlive.tv/video/285476</guid>
+            <pubDate>Sat, 11 Jun 2022 20:42:12 GMT</pubDate>
+            <content:encoded><![CDATA[오후 8:20]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220612_196/1654978817361e8jMm_JPEG/167767188343485509b7f8efd3-1400-4cad-aca4-519ffc6b529c.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
