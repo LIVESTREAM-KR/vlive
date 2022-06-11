@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 17:41:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 18:47:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,14 +368,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220612_94/16549611068693YSJM_JPEG/c2f44845-e999-11ec-9fa8-505dacfba98a_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[호나잇🐢]]></title>
-            <link>https://www.vlive.tv/video/285471</link>
-            <guid>https://www.vlive.tv/video/285471</guid>
-            <pubDate>Sat, 11 Jun 2022 15:44:16 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:36]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220612_13/1654961771118y6tCE_JPEG/48579547357970923f2d374f0-6683-4acb-8379-549b95badd28.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[OMEGA X(오메가엑스) 1st Full Album [樂서(Story Written in Music)] HIGHLIGHT MEDLEY]]></title>
             <link>https://www.vlive.tv/video/285472</link>
             <guid>https://www.vlive.tv/video/285472</guid>
@@ -398,6 +390,14 @@
             <pubDate>Sat, 11 Jun 2022 17:40:49 GMT</pubDate>
             <content:encoded><![CDATA[오후 5:35]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220612_68/1654967089618SOX6W_JPEG/167842753609971793ff863f96-7edc-4f1c-9b72-ce1560922ae7.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[호나잇🐢]]></title>
+            <link>https://www.vlive.tv/video/285471</link>
+            <guid>https://www.vlive.tv/video/285471</guid>
+            <pubDate>Sat, 11 Jun 2022 15:44:16 GMT</pubDate>
+            <content:encoded><![CDATA[오후 6:14]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220612_13/1654961771118y6tCE_JPEG/48579547357970923f2d374f0-6683-4acb-8379-549b95badd28.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
