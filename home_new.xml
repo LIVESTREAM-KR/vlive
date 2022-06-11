@@ -4,16 +4,32 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 13:02:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 13:44:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위아이 왔지롱💙💜]]></title>
+            <link>https://www.vlive.tv/video/285466</link>
+            <guid>https://www.vlive.tv/video/285466</guid>
+            <pubDate>Sat, 11 Jun 2022 13:43:20 GMT</pubDate>
+            <content:encoded><![CDATA[위아이 (WEi)]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/285466/thumb?type=f228_128" length="0" type="image//live/285466/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[기호의 기호 🫶]]></title>
+            <link>https://www.vlive.tv/video/285465</link>
+            <guid>https://www.vlive.tv/video/285465</guid>
+            <pubDate>Sat, 11 Jun 2022 13:43:20 GMT</pubDate>
+            <content:encoded><![CDATA[P1Harmony]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/285465/thumb?type=f228_128" length="0" type="image//live/285465/thumb"/>
+        </item>
         <item>
             <title><![CDATA[유태양입니다]]></title>
             <link>https://www.vlive.tv/video/285462</link>
             <guid>https://www.vlive.tv/video/285462</guid>
             <pubDate>Sat, 11 Jun 2022 13:01:15 GMT</pubDate>
             <content:encoded><![CDATA[SF9]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/285462/thumb?type=f228_128" length="0" type="image//live/285462/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220611_199/1654953093857GxOhQ_JPEG/97a2ace5-e987-11ec-928a-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Yooni ><]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Sat, 11 Jun 2022 09:40:49 GMT</pubDate>
             <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220611_163/1654937801908VaxRk_JPEG/167813417860560451668f8173-92fe-49b1-865e-5825c7b25c4b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[괜찮아!?]]></title>
-            <link>https://www.vlive.tv/video/285451</link>
-            <guid>https://www.vlive.tv/video/285451</guid>
-            <pubDate>Sat, 11 Jun 2022 09:40:49 GMT</pubDate>
-            <content:encoded><![CDATA[sema]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220611_184/1654937373610tukTR_JPEG/1677259095802536695ca0ce5c-acae-4a4d-8b67-36d0140aa9dd.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SHINE YOUR LAPILLUS | CHANTY]]></title>
-            <link>https://www.vlive.tv/video/285446</link>
-            <guid>https://www.vlive.tv/video/285446</guid>
-            <pubDate>Sat, 11 Jun 2022 09:40:49 GMT</pubDate>
-            <content:encoded><![CDATA[Lapillus]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220611_209/1654934007566qOIwb_JPEG/upload_712036104419420952246dacb-a5b0-435a-90dd-3e93b35348fc.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
