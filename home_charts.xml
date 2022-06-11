@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 09:42:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 10:43:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레스기]]></title>
+            <link>https://www.vlive.tv/video/285159</link>
+            <guid>https://www.vlive.tv/video/285159</guid>
+            <pubDate>Sat, 11 Jun 2022 10:42:39 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220607_240/1654605843814XQ4ah_JPEG/upload_708754464578935122c384003-9a63-49f9-9c7f-f95979109a60.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Hot🔥 모두 고생많았오요 💎]]></title>
             <link>https://www.vlive.tv/video/285452</link>
@@ -30,14 +38,6 @@
             <pubDate>Fri, 10 Jun 2022 14:41:43 GMT</pubDate>
             <content:encoded><![CDATA[iKON]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220610_158/1654856917593FlKPx_JPEG/1677324345782030568003c666-b3f6-4e49-a2ab-55bc1f727de8.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안녕하세요 저희는 2016년에 데뷔한 9인조 보이그룹 세상을 놀라게 할 아홉소년 SF9입니다]]></title>
-            <link>https://www.vlive.tv/video/285395</link>
-            <guid>https://www.vlive.tv/video/285395</guid>
-            <pubDate>Sat, 11 Jun 2022 05:40:04 GMT</pubDate>
-            <content:encoded><![CDATA[SF9]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220610_239/1654863046199KhmNm_JPEG/fd4359a8-e8a5-11ec-90b2-505dac8c37f3_08.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
