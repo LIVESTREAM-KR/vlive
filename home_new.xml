@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 18:47:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 19:41:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잠못드는 밤에]]></title>
+            <link>https://www.vlive.tv/video/285475</link>
+            <guid>https://www.vlive.tv/video/285475</guid>
+            <pubDate>Sat, 11 Jun 2022 19:40:14 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220612_213/1654973653648I6WS7_JPEG/167761964652121956bfdb74a5-4ae3-4070-9d0b-75a2ce9fbafe.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[호나잇🐢]]></title>
             <link>https://www.vlive.tv/video/285471</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 11 Jun 2022 13:01:15 GMT</pubDate>
             <content:encoded><![CDATA[SF9]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220611_28/1654950481094hXe4y_JPEG/735759b6-e981-11ec-aef4-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[고락실] EP.7 고락실 주인장 바뀌는 날?!😥 (ENG/JPN/ESP/IDN)]]></title>
-            <link>https://www.vlive.tv/video/285461</link>
-            <guid>https://www.vlive.tv/video/285461</guid>
-            <pubDate>Sat, 11 Jun 2022 13:01:15 GMT</pubDate>
-            <content:encoded><![CDATA[블리처스(BLITZERS)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220611_210/1654948894519HriQg_JPEG/upload_71215175685358551085e8576-fcd3-437a-87d2-6fdb94aab651.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
