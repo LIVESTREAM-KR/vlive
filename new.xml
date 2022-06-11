@@ -4,9 +4,16 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 05:41:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 06:48:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이돌 필수 덕목 : 서양 음악의 이해]]></title>
+            <link>https://www.vlive.tv/video/285441</link>
+            <guid>https://www.vlive.tv/video/285441</guid>
+            <pubDate>Sat, 11 Jun 2022 06:47:13 GMT</pubDate>
+            <content:encoded><![CDATA[NMIXX]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[오랜만이에요!]]></title>
             <link>https://www.vlive.tv/video/285440</link>
@@ -398,14 +405,6 @@
             <pubDate>Fri, 10 Jun 2022 08:45:35 GMT</pubDate>
             <content:encoded><![CDATA[Rocket Punch]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220610_138/1654853751957LXh9l_JPEG/fb7908c0-e89f-11ec-aef4-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['늦은 밤 헤어지긴 너무 아쉬워' (Don't wanna leave tonight) | 케이시(Kassy) 단독공연 'May, Be' Live]]></title>
-            <link>https://www.vlive.tv/video/285291</link>
-            <guid>https://www.vlive.tv/video/285291</guid>
-            <pubDate>Fri, 10 Jun 2022 09:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[케이시(Kassy)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220609_82/165475201054804RsT_JPEG/upload_710215512016070559656e459-b6ab-40bc-9949-9798a3f7c104.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
