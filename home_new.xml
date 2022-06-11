@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 16:54:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 17:41:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크롱반]]></title>
+            <link>https://www.vlive.tv/video/285474</link>
+            <guid>https://www.vlive.tv/video/285474</guid>
+            <pubDate>Sat, 11 Jun 2022 17:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[OH MY GIRL]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220612_68/1654967089618SOX6W_JPEG/167842753609971793ff863f96-7edc-4f1c-9b72-ce1560922ae7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[LIVE] yo]]></title>
             <link>https://www.vlive.tv/video/285473</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 11 Jun 2022 13:01:15 GMT</pubDate>
             <content:encoded><![CDATA[블리처스(BLITZERS)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220611_210/1654948894519HriQg_JPEG/upload_71215175685358551085e8576-fcd3-437a-87d2-6fdb94aab651.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IRRIS (아이리스) Official Logo Motion]]></title>
-            <link>https://www.vlive.tv/video/285445</link>
-            <guid>https://www.vlive.tv/video/285445</guid>
-            <pubDate>Sat, 11 Jun 2022 13:01:15 GMT</pubDate>
-            <content:encoded><![CDATA[IRRIS (아이리스)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220611_252/1654938567642Wd186_JPEG/upload_99013568475483872aca3d5d2-413e-4d94-93b2-b820489909d3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
