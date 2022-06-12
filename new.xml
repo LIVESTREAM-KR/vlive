@@ -4,9 +4,16 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 06:49:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 07:40:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해남주 고고]]></title>
+            <link>https://www.vlive.tv/video/285483</link>
+            <guid>https://www.vlive.tv/video/285483</guid>
+            <pubDate>Sun, 12 Jun 2022 07:38:56 GMT</pubDate>
+            <content:encoded><![CDATA[Apink]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[ㅋㅍ]]></title>
             <link>https://www.vlive.tv/video/285482</link>
@@ -398,14 +405,6 @@
             <pubDate>Sat, 11 Jun 2022 04:49:11 GMT</pubDate>
             <content:encoded><![CDATA[TRENDZ (트렌드지)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220610_282/1654793555351YCdBN_JPEG/upload_71063157168399092fbcc5080-d774-4ef5-82c0-a688c0b6e674.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TRENDZ(트렌드지) 'TNT(Truth&Trust)' | 220608 COMEBACK SHOWCASE]]></title>
-            <link>https://www.vlive.tv/video/285352</link>
-            <guid>https://www.vlive.tv/video/285352</guid>
-            <pubDate>Sat, 11 Jun 2022 03:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[TRENDZ (트렌드지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220610_26/16547934118280np4S_JPEG/upload_710630038559978720622c0c7-8f4a-4ec7-8b55-4ee00fb7dc03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
