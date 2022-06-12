@@ -4,17 +4,9 @@
         <title>V LIVE ─ 홈 ─ CHARTS TOP3</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 13:01:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 13:44:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[컴백]]></title>
-            <link>https://www.vlive.tv/video/285426</link>
-            <guid>https://www.vlive.tv/video/285426</guid>
-            <pubDate>Fri, 10 Jun 2022 17:00:14 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220611_64/1654877001265DtlKb_JPEG/upload_71146600283995348f973a720-e164-42bf-b600-bea487ceeebf.jpeg?type=f380_213_wp" length="0" type="image/jpeg"/>
-        </item>
         <item>
             <title><![CDATA[JAKE]]></title>
             <link>https://www.vlive.tv/video/285493</link>
@@ -30,6 +22,14 @@
             <pubDate>Sun, 12 Jun 2022 11:38:56 GMT</pubDate>
             <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220612_181/1655032361715MAqc8_JPEG/upload_991120856323671063be1af10-6313-4171-922d-e7bdf1fb7825.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[컴백]]></title>
+            <link>https://www.vlive.tv/video/285426</link>
+            <guid>https://www.vlive.tv/video/285426</guid>
+            <pubDate>Fri, 10 Jun 2022 17:00:14 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220611_64/1654877001265DtlKb_JPEG/upload_71146600283995348f973a720-e164-42bf-b600-bea487ceeebf.jpeg?type=f380_213_wp" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

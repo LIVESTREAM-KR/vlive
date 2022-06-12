@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 13:01:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 13:44:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나 와따요!🐱]]></title>
+            <link>https://www.vlive.tv/video/285499</link>
+            <guid>https://www.vlive.tv/video/285499</guid>
+            <pubDate>Sun, 12 Jun 2022 13:00:15 GMT</pubDate>
+            <content:encoded><![CDATA[LIZ ENT]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220612_220/1655034129305HzcEg_JPEG/486519055328557960b46df79-e86c-44ca-baec-64c696870da6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🍯]]></title>
+            <link>https://www.vlive.tv/video/285504</link>
+            <guid>https://www.vlive.tv/video/285504</guid>
+            <pubDate>Sun, 12 Jun 2022 13:42:57 GMT</pubDate>
+            <content:encoded><![CDATA[UP10TION]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/285504/thumb?type=f228_128" length="0" type="image//live/285504/thumb"/>
+        </item>
         <item>
             <title><![CDATA[혁모저모 #7 (I like K-pop❤)]]></title>
             <link>https://www.vlive.tv/video/285503</link>
@@ -30,14 +46,6 @@
             <pubDate>Sun, 12 Jun 2022 11:38:46 GMT</pubDate>
             <content:encoded><![CDATA[DREAMCATCHER]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220612_285/1655034637926XUAvx_JPEG/71b93966-ea45-11ec-9d93-d4f5ef590144_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나 와따요!🐱]]></title>
-            <link>https://www.vlive.tv/video/285499</link>
-            <guid>https://www.vlive.tv/video/285499</guid>
-            <pubDate>Sun, 12 Jun 2022 13:00:15 GMT</pubDate>
-            <content:encoded><![CDATA[LIZ ENT]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220612_220/1655034129305HzcEg_JPEG/486519055328557960b46df79-e86c-44ca-baec-64c696870da6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[소녀세상] 쇼케이스 7일전]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 12 Jun 2022 09:42:01 GMT</pubDate>
             <content:encoded><![CDATA[다크비(DKB)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220610_106/1654849168771PTOCh_PNG/upload_711187445125831186899a066-8e45-4837-9afe-bfae22765ae7.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[윤후] '나무 (Love tree)' Special CLIP]]></title>
-            <link>https://www.vlive.tv/video/285325</link>
-            <guid>https://www.vlive.tv/video/285325</guid>
-            <pubDate>Sun, 12 Jun 2022 09:42:01 GMT</pubDate>
-            <content:encoded><![CDATA[MAJOR9 (메이저나인)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220609_245/1654765995222bFMQr_JPEG/upload_71035203470713320b66590c0-bb3d-4ae7-a93e-a84a7a356354.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
