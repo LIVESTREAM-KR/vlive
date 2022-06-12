@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 11:40:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 13:01:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,13 +88,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220612_274/1655028458973p3I7u_JPEG/167816829914957485bc8d797e-7224-4dbe-afd7-9d1d72abd309.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[찐(막)빵🍞]]></title>
-            <link>https://www.vlive.tv/video/285496</link>
-            <guid>https://www.vlive.tv/video/285496</guid>
-            <pubDate>Sun, 12 Jun 2022 11:39:39 GMT</pubDate>
-            <content:encoded><![CDATA[오전 10:59]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[WONHO 원호 'FACADE' Highlight Medley]]></title>
             <link>https://www.vlive.tv/video/285457</link>
             <guid>https://www.vlive.tv/video/285457</guid>
@@ -124,15 +117,6 @@
             <guid>https://www.vlive.tv/video/285497</guid>
             <pubDate>Sun, 12 Jun 2022 11:39:39 GMT</pubDate>
             <content:encoded><![CDATA[오전 11:14]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/285497/thumb?type=f228_128" length="0" type="image//live/285497/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[[드림캐쳐]몰라]]></title>
-            <link>https://www.vlive.tv/video/285498</link>
-            <guid>https://www.vlive.tv/video/285498</guid>
-            <pubDate>Sun, 12 Jun 2022 11:39:39 GMT</pubDate>
-            <content:encoded><![CDATA[오전 11:22]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/285498/thumb?type=f228_128" length="0" type="image//live/285498/thumb"/>
         </item>
         <item>
             <title><![CDATA[파리 박멸 기원 1일 차]]></title>
@@ -149,6 +133,38 @@
             <pubDate>Sun, 12 Jun 2022 10:43:13 GMT</pubDate>
             <content:encoded><![CDATA[오전 11:35]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220612_245/1655033751754CsgvG_JPEG/a96f3059-ea42-11ec-89b9-d4f5ef5906a4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나 와따요!🐱]]></title>
+            <link>https://www.vlive.tv/video/285499</link>
+            <guid>https://www.vlive.tv/video/285499</guid>
+            <pubDate>Sun, 12 Jun 2022 13:00:59 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:42]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220612_220/1655034129305HzcEg_JPEG/486519055328557960b46df79-e86c-44ca-baec-64c696870da6.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[드림캐쳐]몰라]]></title>
+            <link>https://www.vlive.tv/video/285498</link>
+            <guid>https://www.vlive.tv/video/285498</guid>
+            <pubDate>Sun, 12 Jun 2022 11:39:39 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:50]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220612_285/1655034637926XUAvx_JPEG/71b93966-ea45-11ec-9d93-d4f5ef590144_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찐(막)빵🍞]]></title>
+            <link>https://www.vlive.tv/video/285496</link>
+            <guid>https://www.vlive.tv/video/285496</guid>
+            <pubDate>Sun, 12 Jun 2022 11:39:39 GMT</pubDate>
+            <content:encoded><![CDATA[오후 12:04]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220612_125/1655036583180UQNYT_JPEG/45176032-ea47-11ec-89b9-d4f5ef5906a4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[혁모저모 #7 (I like K-pop❤)]]></title>
+            <link>https://www.vlive.tv/video/285503</link>
+            <guid>https://www.vlive.tv/video/285503</guid>
+            <pubDate>Sun, 12 Jun 2022 13:00:59 GMT</pubDate>
+            <content:encoded><![CDATA[오후 12:35]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220612_112/1655037323901VTsIs_JPEG/167825713584628612542dc8cd-278b-40d1-bf31-10e9250829ea.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
