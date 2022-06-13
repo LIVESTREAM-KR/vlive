@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 10:46:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 11:40:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Radio'n Us / GRASS 그래쓰)]]></title>
-            <link>https://m.vlive.tv/video/285519</link>
-            <guid>https://m.vlive.tv/video/285519</guid>
-            <pubDate>Mon, 13 Jun 2022 04:23:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220613_2/16550890523542JLsy_JPEG/upload_713586056441345017b33bdaa-f51b-4bf5-8a2d-18fd3890b404.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
             <link>https://m.vlive.tv/video/285263</link>
@@ -96,6 +86,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220608_137/1654685020724ABri4_JPEG/upload_9876473333655486171598291-d7be-4516-a29e-57a303648a8f.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
+            <link>https://m.vlive.tv/video/285266</link>
+            <guid>https://m.vlive.tv/video/285266</guid>
+            <pubDate>Mon, 13 Jun 2022 11:40:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220609_65/1654734686026yvhtg_JPEG/upload_710042602809311726a43a1c4-ba95-4dba-8cea-1441ac3b2e3f.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
