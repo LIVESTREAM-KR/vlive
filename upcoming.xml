@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 15:54:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 17:03:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -504,14 +504,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220613_115/1655128230046LJHS8_JPEG/3cca5814-eb1f-11ec-b44a-d4f5ef58ad5e_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[월요병 뿌셔~~]]></title>
-            <link>https://www.vlive.tv/video/285591</link>
-            <guid>https://www.vlive.tv/video/285591</guid>
-            <pubDate>Mon, 13 Jun 2022 14:48:35 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:59]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220613_50/1655128756266zulXf_JPEG/168004372250968907b5134519-f82e-4413-a8e2-cc459ab6b4c1.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[잉]]></title>
             <link>https://www.vlive.tv/video/285581</link>
             <guid>https://www.vlive.tv/video/285581</guid>
@@ -550,14 +542,6 @@
             <pubDate>Mon, 13 Jun 2022 13:17:37 GMT</pubDate>
             <content:encoded><![CDATA[오후 2:16]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220613_80/1655129801914mTYVt_JPEG/991b6eb8-eb22-11ec-81b1-505dac8c3639_03.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🌹🔥 잠깐 오늘도 레이디오📻]]></title>
-            <link>https://www.vlive.tv/video/285593</link>
-            <guid>https://www.vlive.tv/video/285593</guid>
-            <pubDate>Mon, 13 Jun 2022 14:48:35 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:44]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/285593/thumb?type=f228_128" length="0" type="image//live/285593/thumb"/>
         </item>
         <item>
             <title><![CDATA[그레이스 뭐해? 자?]]></title>
@@ -612,8 +596,24 @@
             <link>https://www.vlive.tv/video/285595</link>
             <guid>https://www.vlive.tv/video/285595</guid>
             <pubDate>Mon, 13 Jun 2022 15:53:29 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:30]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/285595/thumb?type=f228_128" length="0" type="image//live/285595/thumb"/>
+            <content:encoded><![CDATA[오후 4:03]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220614_199/16551362213598ftjC_JPEG/17872e24-eb32-11ec-b44a-d4f5ef58ad5e_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🌹🔥 잠깐 오늘도 레이디오📻]]></title>
+            <link>https://www.vlive.tv/video/285593</link>
+            <guid>https://www.vlive.tv/video/285593</guid>
+            <pubDate>Mon, 13 Jun 2022 14:48:35 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:05]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220614_102/1655136319098nIelN_JPEG/1e7f32fb-eb31-11ec-bb44-48df379ccacc_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[월요병 뿌셔~~]]></title>
+            <link>https://www.vlive.tv/video/285591</link>
+            <guid>https://www.vlive.tv/video/285591</guid>
+            <pubDate>Mon, 13 Jun 2022 14:48:35 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:12]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220613_50/1655128756266zulXf_JPEG/168004372250968907b5134519-f82e-4413-a8e2-cc459ab6b4c1.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
