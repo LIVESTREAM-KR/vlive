@@ -4,9 +4,17 @@
         <title>V LIVE 모바일 ─ CHARTS </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 08:49:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 09:44:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리노리방😺마지막입니다...]]></title>
+            <link>https://m.vlive.tv/video/285547</link>
+            <guid>https://m.vlive.tv/video/285547</guid>
+            <pubDate>Mon, 13 Jun 2022 08:48:32 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220613_205/1655108611110Fh8mB_JPEG/upload_99188330326326937f181c8b1-608f-4a99-aa27-4e1793f0ccfe.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[JAKE]]></title>
             <link>https://m.vlive.tv/video/285493</link>
@@ -22,14 +30,6 @@
             <pubDate>Sun, 12 Jun 2022 11:39:23 GMT</pubDate>
             <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220612_181/1655032361715MAqc8_JPEG/upload_991120856323671063be1af10-6313-4171-922d-e7bdf1fb7825.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리노리방😺마지막입니다...]]></title>
-            <link>https://m.vlive.tv/video/285547</link>
-            <guid>https://m.vlive.tv/video/285547</guid>
-            <pubDate>Mon, 13 Jun 2022 08:48:32 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220613_205/1655108611110Fh8mB_JPEG/upload_99188330326326937f181c8b1-608f-4a99-aa27-4e1793f0ccfe.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
