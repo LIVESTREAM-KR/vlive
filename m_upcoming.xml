@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 02:46:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 04:23:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,6 +26,16 @@
 										오전 10:00</span>
 										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220610_63/1654842054476ctRCF_PNG/upload_989216554484433571c2c20ad-d9c7-4aa4-b4f0-0b5a097ac8b2.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Radio'n Us / GRASS 그래쓰)]]></title>
+            <link>https://m.vlive.tv/video/285519</link>
+            <guid>https://m.vlive.tv/video/285519</guid>
+            <pubDate>Mon, 13 Jun 2022 04:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220613_2/16550890523542JLsy_JPEG/upload_713586056441345017b33bdaa-f51b-4bf5-8a2d-18fd3890b404.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
@@ -86,16 +96,6 @@
 										오전 4:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220609_53/1654734939933Lcoma_JPEG/upload_98814570320065135a2e5d338-7a3e-4b53-a8df-a6d1e82c0411.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Sound K] Song Express ver.3 with Denise 데니스]]></title>
-            <link>https://m.vlive.tv/video/285270</link>
-            <guid>https://m.vlive.tv/video/285270</guid>
-            <pubDate>Mon, 13 Jun 2022 02:45:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220609_37/1654735057964tG7EX_JPEG/upload_710046332367524025e033da3-24c6-4331-8ed0-26f4ac6e009c.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
