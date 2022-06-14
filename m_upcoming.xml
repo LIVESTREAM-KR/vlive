@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 14:42:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 15:51:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,16 @@
             <enclosure url="https://v-phinf.pstatic.net/20220608_137/1654685020724ABri4_JPEG/upload_9876473333655486171598291-d7be-4516-a29e-57a303648a8f.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[🎉010615 GO_U Day🎉]]></title>
+            <link>https://m.vlive.tv/video/285671</link>
+            <guid>https://m.vlive.tv/video/285671</guid>
+            <pubDate>Tue, 14 Jun 2022 15:50:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">블리처스(BLITZERS)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220615_240/1655218801993dvxCr_JPEG/upload_992977029792797934575aa3e-eec1-40fb-9c92-fc694f7c738d.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
             <link>https://m.vlive.tv/video/285266</link>
             <guid>https://m.vlive.tv/video/285266</guid>
@@ -86,16 +96,6 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220609_48/165473522653232KuH_JPEG/upload_988149175779457256b62d721-a6fd-45de-8422-a9000b370cc1.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[143회 아트엠콘서트, 바이올리니스트 백주영]]></title>
-            <link>https://m.vlive.tv/video/284128</link>
-            <guid>https://m.vlive.tv/video/284128</guid>
-            <pubDate>Tue, 14 Jun 2022 05:50:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:20</span>
-										<span class="txt">ARTMCONCERT</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220524_120/1653351798383POQ9E_JPEG/upload_6962140114263013452350961-e0b1-4dd3-9452-8772210e4129.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
