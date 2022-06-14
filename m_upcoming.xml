@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 02:56:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 04:35:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[ASC Live Ep.527 (VICTON / 빅톤)]]></title>
-            <link>https://m.vlive.tv/video/285372</link>
-            <guid>https://m.vlive.tv/video/285372</guid>
-            <pubDate>Fri, 10 Jun 2022 07:41:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 4:00</span>
-										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220610_170/1654838701841LrOTq_PNG/upload_7110827466772858348f5ea15-8ace-4d46-9d05-9ea9aa84afff.png?type=f274_154" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Sound K] Mystery Mix with BOiTELLO 보이텔로]]></title>
             <link>https://m.vlive.tv/video/285269</link>
@@ -106,6 +96,16 @@
 										오전 6:30</span>
 										<span class="txt">ARTMCONCERT</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220614_247/1655171109229Lj6kA_JPEG/upload_99250804998117732a48358d2-f8c6-4d1a-b922-e0e0a9a9b14d.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop] Stray Quiz]]></title>
+            <link>https://m.vlive.tv/video/285273</link>
+            <guid>https://m.vlive.tv/video/285273</guid>
+            <pubDate>Tue, 14 Jun 2022 04:35:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220609_48/165473522653232KuH_JPEG/upload_988149175779457256b62d721-a6fd-45de-8422-a9000b370cc1.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
