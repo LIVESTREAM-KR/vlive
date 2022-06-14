@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 23:42:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 02:56:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
-            <link>https://m.vlive.tv/video/285263</link>
-            <guid>https://m.vlive.tv/video/285263</guid>
-            <pubDate>Fri, 10 Jun 2022 02:38:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220609_6/1654734597524Yvm5j_JPEG/upload_98814292567526996d58a0a0d-f139-422d-883f-d2c388fdc3ed.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[ASC Live Ep.527 (VICTON / 빅톤)]]></title>
             <link>https://m.vlive.tv/video/285372</link>
@@ -96,6 +86,26 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220609_65/1654734686026yvhtg_JPEG/upload_710042602809311726a43a1c4-ba95-4dba-8cea-1441ac3b2e3f.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / CRUCiAL STAR & Quokka 크루셜스타 & 쿼카)]]></title>
+            <link>https://m.vlive.tv/video/285521</link>
+            <guid>https://m.vlive.tv/video/285521</guid>
+            <pubDate>Tue, 14 Jun 2022 02:56:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220613_289/16550891952701fqw2_JPEG/upload_713587781747379898d7fd710-39fd-4411-a768-feca13b3b3dd.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[리허설] 143회 콘서트]]></title>
+            <link>https://m.vlive.tv/video/285599</link>
+            <guid>https://m.vlive.tv/video/285599</guid>
+            <pubDate>Tue, 14 Jun 2022 02:56:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 6:30</span>
+										<span class="txt">ARTMCONCERT</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220614_247/1655171109229Lj6kA_JPEG/upload_99250804998117732a48358d2-f8c6-4d1a-b922-e0e0a9a9b14d.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
