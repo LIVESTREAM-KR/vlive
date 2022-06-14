@@ -4,16 +4,24 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 17:45:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 18:50:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[WHAT'S UP ATLANTA🍑]]></title>
+            <link>https://www.vlive.tv/video/285675</link>
+            <guid>https://www.vlive.tv/video/285675</guid>
+            <pubDate>Tue, 14 Jun 2022 18:48:59 GMT</pubDate>
+            <content:encoded><![CDATA[다크비(DKB)]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/285675/thumb?type=f228_128" length="0" type="image//live/285675/thumb"/>
+        </item>
         <item>
             <title><![CDATA[FINALLY GOING BACK HOME🥹 이제 집에 가장 🇰🇷]]></title>
             <link>https://www.vlive.tv/video/285674</link>
             <guid>https://www.vlive.tv/video/285674</guid>
             <pubDate>Tue, 14 Jun 2022 17:43:36 GMT</pubDate>
             <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/285674/thumb?type=f228_128" length="0" type="image//live/285674/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220615_29/1655232044469pKIUm_JPEG/1afdeaa4-ec11-11ec-928a-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[❤️🤚🏻👍🏻❤️]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 14 Jun 2022 13:12:39 GMT</pubDate>
             <content:encoded><![CDATA[fromis_9]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220614_130/1655180273265x2PCf_PNG/upload_99259986210161409001978a3-741b-4602-8c33-0fea923c8b72.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[fromis_9 (프로미스나인) [from our Memento Box] 'Dream Ver.' Concept Film #이채영 #LeeChaeYoung]]></title>
-            <link>https://www.vlive.tv/video/285607</link>
-            <guid>https://www.vlive.tv/video/285607</guid>
-            <pubDate>Tue, 14 Jun 2022 13:12:39 GMT</pubDate>
-            <content:encoded><![CDATA[fromis_9]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220614_181/16551801249362YUuH_PNG/upload_7144968812042649736443d1e-2ce0-4f41-bac6-72e6faf12c66.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

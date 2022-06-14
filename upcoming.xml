@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 17:45:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 18:50:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -484,8 +484,16 @@
             <link>https://www.vlive.tv/video/285674</link>
             <guid>https://www.vlive.tv/video/285674</guid>
             <pubDate>Tue, 14 Jun 2022 17:44:29 GMT</pubDate>
-            <content:encoded><![CDATA[오후 5:39]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/285674/thumb?type=f228_128" length="0" type="image//live/285674/thumb"/>
+            <content:encoded><![CDATA[오후 6:40]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220615_29/1655232044469pKIUm_JPEG/1afdeaa4-ec11-11ec-928a-48df37ae3dc4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WHAT'S UP ATLANTA🍑]]></title>
+            <link>https://www.vlive.tv/video/285675</link>
+            <guid>https://www.vlive.tv/video/285675</guid>
+            <pubDate>Tue, 14 Jun 2022 18:49:50 GMT</pubDate>
+            <content:encoded><![CDATA[오후 6:42]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/285675/thumb?type=f228_128" length="0" type="image//live/285675/thumb"/>
         </item>
     </channel>
 </rss>

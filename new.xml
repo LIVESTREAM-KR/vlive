@@ -4,15 +4,23 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 17:45:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 18:50:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[WHAT'S UP ATLANTA🍑]]></title>
+            <link>https://www.vlive.tv/video/285675</link>
+            <guid>https://www.vlive.tv/video/285675</guid>
+            <pubDate>Tue, 14 Jun 2022 18:48:50 GMT</pubDate>
+            <content:encoded><![CDATA[다크비(DKB)]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[FINALLY GOING BACK HOME🥹 이제 집에 가장 🇰🇷]]></title>
             <link>https://www.vlive.tv/video/285674</link>
             <guid>https://www.vlive.tv/video/285674</guid>
             <pubDate>Tue, 14 Jun 2022 17:43:27 GMT</pubDate>
             <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220615_29/1655232044469pKIUm_JPEG/1afdeaa4-ec11-11ec-928a-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[❤️🤚🏻👍🏻❤️]]></title>
@@ -397,14 +405,6 @@
             <pubDate>Tue, 14 Jun 2022 05:49:55 GMT</pubDate>
             <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220609_214/1654735008077LyrRI_JPEG/upload_7100457077282492028fbfec7-3ccd-44be-895c-5e9a9f45d650.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ㅇㅇ]]></title>
-            <link>https://www.vlive.tv/video/285620</link>
-            <guid>https://www.vlive.tv/video/285620</guid>
-            <pubDate>Tue, 14 Jun 2022 06:50:43 GMT</pubDate>
-            <content:encoded><![CDATA[TWICE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220614_166/1655189190766OIMQ2_JPEG/4f0d64ab-ebad-11ec-bb12-d4f5ef5a9532_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
