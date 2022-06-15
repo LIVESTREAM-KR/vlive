@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 15:47:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 16:58:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,15 @@
             <guid>https://www.vlive.tv/video/285764</guid>
             <pubDate>Wed, 15 Jun 2022 15:46:08 GMT</pubDate>
             <content:encoded><![CDATA[KINGDOM]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/285764/thumb?type=f228_128" length="0" type="image//live/285764/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220616_121/16553097904643WAH9_JPEG/3da42510-ecc6-11ec-b77c-48df379cca40_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이 뭐선일이고]]></title>
+            <link>https://www.vlive.tv/video/285758</link>
+            <guid>https://www.vlive.tv/video/285758</guid>
+            <pubDate>Wed, 15 Jun 2022 16:57:17 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220616_212/1655309373778nvn64_JPEG/upload_71578974998017374f63e7056-864b-48cf-bc34-ff66f19958b7.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[나의 눈에 도쿄 타워가 보여서🗼]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 15 Jun 2022 11:40:58 GMT</pubDate>
             <content:encoded><![CDATA[TRI.BE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220615_63/1655290831534Y1rlw_JPEG/1681664455199615201a5ff4b0-30b6-4ce9-9e24-0cb3ec23d807.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TRENDZ(트렌드지) 'WHO [吼]' Dance Practice]]></title>
-            <link>https://www.vlive.tv/video/285753</link>
-            <guid>https://www.vlive.tv/video/285753</guid>
-            <pubDate>Wed, 15 Jun 2022 13:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[TRENDZ (트렌드지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220615_259/1655294932329tHemW_JPEG/upload_99374630888219248b76e27b9-e1df-41f5-8c2a-ce8d08c5db91.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
