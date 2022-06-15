@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 02:55:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 04:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio/K-Poppin'] Idol LUMINOUS 아이돌 루미너스]]></title>
-            <link>https://m.vlive.tv/video/285268</link>
-            <guid>https://m.vlive.tv/video/285268</guid>
-            <pubDate>Sat, 11 Jun 2022 14:40:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 4:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220609_53/1654734939933Lcoma_JPEG/upload_98814570320065135a2e5d338-7a3e-4b53-a8df-a6d1e82c0411.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Sound K] Song Express ver.3 with Denise 데니스]]></title>
             <link>https://m.vlive.tv/video/285270</link>
@@ -86,6 +76,26 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220609_48/165473522653232KuH_JPEG/upload_988149175779457256b62d721-a6fd-45de-8422-a9000b370cc1.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[143회 아트엠콘서트, 바이올리니스트 백주영]]></title>
+            <link>https://m.vlive.tv/video/284128</link>
+            <guid>https://m.vlive.tv/video/284128</guid>
+            <pubDate>Wed, 15 Jun 2022 04:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:20</span>
+										<span class="txt">ARTMCONCERT</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220524_120/1653351798383POQ9E_JPEG/upload_6962140114263013452350961-e0b1-4dd3-9452-8772210e4129.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
+            <link>https://m.vlive.tv/video/285267</link>
+            <guid>https://m.vlive.tv/video/285267</guid>
+            <pubDate>Wed, 15 Jun 2022 04:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220609_74/1654734720229lNQCn_JPEG/upload_98814430938168846d2753fe3-5457-4c2c-ac13-65a74a5569a6.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
