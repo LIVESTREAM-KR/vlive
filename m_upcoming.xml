@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 06:50:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 07:43:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Super K-Pop / Yebit 예빛)]]></title>
-            <link>https://m.vlive.tv/video/285221</link>
-            <guid>https://m.vlive.tv/video/285221</guid>
-            <pubDate>Mon, 13 Jun 2022 10:45:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220608_137/1654685020724ABri4_JPEG/upload_9876473333655486171598291-d7be-4516-a29e-57a303648a8f.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[🎉010615 GO_U Day🎉]]></title>
             <link>https://m.vlive.tv/video/285671</link>
@@ -76,26 +66,6 @@
 										오전 10:20</span>
 										<span class="txt">ARTMCONCERT</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220524_120/1653351798383POQ9E_JPEG/upload_6962140114263013452350961-e0b1-4dd3-9452-8772210e4129.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
-            <link>https://m.vlive.tv/video/285267</link>
-            <guid>https://m.vlive.tv/video/285267</guid>
-            <pubDate>Wed, 15 Jun 2022 04:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220609_74/1654734720229lNQCn_JPEG/upload_98814430938168846d2753fe3-5457-4c2c-ac13-65a74a5569a6.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Sound K] Edu-K-tion with DJ Hanmin DJ 한민]]></title>
-            <link>https://m.vlive.tv/video/285271</link>
-            <guid>https://m.vlive.tv/video/285271</guid>
-            <pubDate>Wed, 15 Jun 2022 05:02:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220609_281/1654735125221xtpzE_JPEG/upload_71004697485527115453b031e-bda6-408c-b4c3-269d63abcc26.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
