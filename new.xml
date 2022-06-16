@@ -4,9 +4,16 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 18:50:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 19:46:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Ciipher] 멜하바~🇹🇷]]></title>
+            <link>https://www.vlive.tv/video/285850</link>
+            <guid>https://www.vlive.tv/video/285850</guid>
+            <pubDate>Thu, 16 Jun 2022 19:44:29 GMT</pubDate>
+            <content:encoded><![CDATA[싸이퍼(Ciipher)]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[HOME SWEET HOME 🇰🇷💛🐝 집이당 🥹]]></title>
             <link>https://www.vlive.tv/video/285848</link>
@@ -398,14 +405,6 @@
             <pubDate>Thu, 16 Jun 2022 05:42:21 GMT</pubDate>
             <content:encoded><![CDATA[mydaily]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220616_90/16553573348182R7vg_JPEG/upload_7162693597535549513ff867e-9c48-4206-9ef0-a2d663964174.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[아임라이브] 최유리 '단짝' (Choi Yu Ree - Friend)]]></title>
-            <link>https://www.vlive.tv/video/285779</link>
-            <guid>https://www.vlive.tv/video/285779</guid>
-            <pubDate>Thu, 16 Jun 2022 05:42:21 GMT</pubDate>
-            <content:encoded><![CDATA[ARIRANG K Pop │ 아리랑케이팝]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220616_3/1655355819600rXX6e_PNG/upload_99435532370384457fd22bf27-58b8-48ef-8a8d-370146c9300f.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

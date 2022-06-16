@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 18:50:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 19:46:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -518,6 +518,22 @@
             <pubDate>Thu, 16 Jun 2022 15:47:06 GMT</pubDate>
             <content:encoded><![CDATA[오후 5:06]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220617_89/1655399169932Hg7CR_JPEG/40ff404c-ed96-11ec-8863-48df379cc9e4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Ciipher] 멜하바~🇹🇷]]></title>
+            <link>https://www.vlive.tv/video/285850</link>
+            <guid>https://www.vlive.tv/video/285850</guid>
+            <pubDate>Thu, 16 Jun 2022 19:45:30 GMT</pubDate>
+            <content:encoded><![CDATA[오후 7:25]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/285850/thumb?type=f228_128" length="0" type="image//live/285850/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[잠못드는밤에 (해뜨기전)]]></title>
+            <link>https://www.vlive.tv/video/285851</link>
+            <guid>https://www.vlive.tv/video/285851</guid>
+            <pubDate>Thu, 16 Jun 2022 19:45:30 GMT</pubDate>
+            <content:encoded><![CDATA[오후 7:44]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220617_73/1655408667724A4s7k_JPEG/1682841977068784731b2ae263-2be6-49e3-93f7-a72d4c7e0004.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
