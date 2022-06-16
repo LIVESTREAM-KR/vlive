@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 09:46:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 10:46:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[143회 아트엠콘서트, 바이올리니스트 백주영]]></title>
-            <link>https://m.vlive.tv/video/284128</link>
-            <guid>https://m.vlive.tv/video/284128</guid>
-            <pubDate>Wed, 15 Jun 2022 09:44:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:20</span>
-										<span class="txt">ARTMCONCERT</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220524_120/1653351798383POQ9E_JPEG/upload_6962140114263013452350961-e0b1-4dd3-9452-8772210e4129.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
             <link>https://m.vlive.tv/video/285267</link>
@@ -76,6 +66,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220616_261/1655360324761zTviH_JPEG/upload_9944001017251859056500f08-5e36-481d-9673-01f152ddad70.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio/K-Poppin'] Singlish with DKB]]></title>
+            <link>https://m.vlive.tv/video/285788</link>
+            <guid>https://m.vlive.tv/video/285788</guid>
+            <pubDate>Thu, 16 Jun 2022 10:46:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220616_41/1655360568434J01Qh_JPEG/upload_99440278726586246873ef66c-ff24-443d-85b5-29ac76629fcd.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
