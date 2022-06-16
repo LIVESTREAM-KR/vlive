@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 23:43:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 02:43:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
-            <link>https://m.vlive.tv/video/285266</link>
-            <guid>https://m.vlive.tv/video/285266</guid>
-            <pubDate>Mon, 13 Jun 2022 11:40:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220609_65/1654734686026yvhtg_JPEG/upload_710042602809311726a43a1c4-ba95-4dba-8cea-1441ac3b2e3f.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Sound K / CRUCiAL STAR & Quokka 크루셜스타 & 쿼카)]]></title>
             <link>https://m.vlive.tv/video/285521</link>
@@ -66,6 +56,36 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220609_74/1654734720229lNQCn_JPEG/upload_98814430938168846d2753fe3-5457-4c2c-ac13-65a74a5569a6.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Simply K-Pop CON-TOUR (심플리케이팝 콘투어) Ep.524]]></title>
+            <link>https://m.vlive.tv/video/285767</link>
+            <guid>https://m.vlive.tv/video/285767</guid>
+            <pubDate>Thu, 16 Jun 2022 02:42:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220616_129/1655343223441zAimC_PNG/upload_716127901561737111fe4c96a-d4a2-4397-9241-6fdf2c36820c.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Sound K] Edu-K-tion with DJ Hanmin DJ 한민]]></title>
+            <link>https://m.vlive.tv/video/285271</link>
+            <guid>https://m.vlive.tv/video/285271</guid>
+            <pubDate>Thu, 16 Jun 2022 02:42:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220609_281/1654735125221xtpzE_JPEG/upload_71004697485527115453b031e-bda6-408c-b4c3-269d63abcc26.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop] Topic Song with BÉBE YANA , Jogon of 9001]]></title>
+            <link>https://m.vlive.tv/video/285274</link>
+            <guid>https://m.vlive.tv/video/285274</guid>
+            <pubDate>Thu, 16 Jun 2022 02:42:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220609_135/1654735269423EvbfV_JPEG/upload_71004848818343722d1512aa2-736f-4e60-9392-4a26549cbcfd.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
