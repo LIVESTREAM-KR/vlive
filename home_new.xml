@@ -4,24 +4,16 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 19:46:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 20:49:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[잠못드는밤에 (해뜨기전)]]></title>
-            <link>https://www.vlive.tv/video/285851</link>
-            <guid>https://www.vlive.tv/video/285851</guid>
-            <pubDate>Thu, 16 Jun 2022 19:44:39 GMT</pubDate>
-            <content:encoded><![CDATA[허영생]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220617_73/1655408667724A4s7k_JPEG/1682841977068784731b2ae263-2be6-49e3-93f7-a72d4c7e0004.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Ciipher] 멜하바~🇹🇷]]></title>
             <link>https://www.vlive.tv/video/285850</link>
             <guid>https://www.vlive.tv/video/285850</guid>
             <pubDate>Thu, 16 Jun 2022 19:44:39 GMT</pubDate>
             <content:encoded><![CDATA[싸이퍼(Ciipher)]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/285850/thumb?type=f228_128" length="0" type="image//live/285850/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220617_63/1655409925337XJxHo_JPEG/2e8ffa4a-edaf-11ec-90b2-505dac8c37f3_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HOME SWEET HOME 🇰🇷💛🐝 집이당 🥹]]></title>
@@ -126,6 +118,14 @@
             <pubDate>Thu, 16 Jun 2022 13:15:39 GMT</pubDate>
             <content:encoded><![CDATA[Golden Child]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220616_259/1655385278295rlSVd_JPEG/fb9ed68d-ed75-11ec-8055-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안녕👋]]></title>
+            <link>https://www.vlive.tv/video/285833</link>
+            <guid>https://www.vlive.tv/video/285833</guid>
+            <pubDate>Thu, 16 Jun 2022 20:47:45 GMT</pubDate>
+            <content:encoded><![CDATA[윤서빈 (Yoon Seobin)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220616_2/1655379100858qgorI_JPEG/13869057662878504945dd385d-a9e9-4f6d-a297-b9680c431f17.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
