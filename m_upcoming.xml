@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 07:42:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 08:52:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220609_135/1654735269423EvbfV_JPEG/upload_71004848818343722d1512aa2-736f-4e60-9392-4a26549cbcfd.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Radio'n Us / 장하은 & 한예솔 Jang Haeun & Han Yesol)]]></title>
+            <link>https://m.vlive.tv/video/285520</link>
+            <guid>https://m.vlive.tv/video/285520</guid>
+            <pubDate>Thu, 16 Jun 2022 08:52:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220615_90/1655275295774UFgJk_JPEG/upload_99355011830499481ab241d24-4339-4efc-ac62-10812fe1fc8b.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
