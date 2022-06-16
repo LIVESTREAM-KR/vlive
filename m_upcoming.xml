@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 11:40:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 13:16:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -58,6 +58,16 @@
             <enclosure url="https://v-phinf.pstatic.net/20220615_90/1655275295774UFgJk_JPEG/upload_99355011830499481ab241d24-4339-4efc-ac62-10812fe1fc8b.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤경이의 심야(心野) 다이어리 EP.1 💖🍃]]></title>
+            <link>https://m.vlive.tv/video/285835</link>
+            <guid>https://m.vlive.tv/video/285835</guid>
+            <pubDate>Thu, 16 Jun 2022 13:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Rocket Punch</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220616_200/1655380805167U40N0_JPEG/upload_99460251124911181df0b5e3b-cbf9-4e8f-978f-645fe904b9cb.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
             <link>https://m.vlive.tv/video/285783</link>
             <guid>https://m.vlive.tv/video/285783</guid>
@@ -66,16 +76,6 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220616_261/1655360324761zTviH_JPEG/upload_9944001017251859056500f08-5e36-481d-9673-01f152ddad70.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio/K-Poppin'] Singlish with DKB]]></title>
-            <link>https://m.vlive.tv/video/285788</link>
-            <guid>https://m.vlive.tv/video/285788</guid>
-            <pubDate>Thu, 16 Jun 2022 10:46:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 4:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220616_41/1655360568434J01Qh_JPEG/upload_99440278726586246873ef66c-ff24-443d-85b5-29ac76629fcd.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
