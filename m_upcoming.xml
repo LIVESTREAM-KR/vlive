@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 08:51:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 09:44:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[BZ-BOYS 3rd Anniversary♡]]></title>
-            <link>https://m.vlive.tv/video/285861</link>
-            <guid>https://m.vlive.tv/video/285861</guid>
-            <pubDate>Fri, 17 Jun 2022 04:09:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 9:00</span>
-										<span class="txt">청공소년 (Bz_Boys)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220617_166/1655434362228lqfLU_JPEG/upload_9951382446765384053d343e5-d76f-4da5-878a-307b057c891c.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Radio'n Us / 장하은 & 한예솔 Jang Haeun & Han Yesol)]]></title>
             <link>https://m.vlive.tv/video/285520</link>
@@ -36,6 +26,16 @@
 										오전 11:00</span>
 										<span class="txt">Rocket Punch</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220616_200/1655380805167U40N0_JPEG/upload_99460251124911181df0b5e3b-cbf9-4e8f-978f-645fe904b9cb.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SUNMI X miya-ne [신곡 정찬&청음회] 당첨자 발표🗳️]]></title>
+            <link>https://m.vlive.tv/video/285904</link>
+            <guid>https://m.vlive.tv/video/285904</guid>
+            <pubDate>Fri, 17 Jun 2022 09:44:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">SUNMI</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220617_58/16554573197170yEM7_JPEG/upload_717029020482468124e51d0b4-2ac8-4232-9be6-8316f4e3cc78.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
@@ -86,6 +86,26 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220616_192/1655360354923wBSP5_JPEG/upload_71629939242418507e73decec-3131-4be4-a9e0-0a6b098d4618.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ASC Live Ep.528 (SECRET NUMBER / 시크릿넘버)]]></title>
+            <link>https://m.vlive.tv/video/285889</link>
+            <guid>https://m.vlive.tv/video/285889</guid>
+            <pubDate>Fri, 17 Jun 2022 09:44:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220617_233/1655449683627hqJ9S_PNG/upload_995293869844845542b41e57c-cf4a-44d5-8dd0-552e0bc00673.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Sound K] Mystery Mix with BOiTELLO 보이텔로]]></title>
+            <link>https://m.vlive.tv/video/285789</link>
+            <guid>https://m.vlive.tv/video/285789</guid>
+            <pubDate>Fri, 17 Jun 2022 09:44:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220616_206/165536061073473Di6_JPEG/upload_9944030519682607644ca53a8-b629-4ad7-ae20-283a2d808874.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
