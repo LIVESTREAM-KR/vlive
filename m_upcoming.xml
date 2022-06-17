@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 23:44:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 02:42:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
-            <link>https://m.vlive.tv/video/285267</link>
-            <guid>https://m.vlive.tv/video/285267</guid>
-            <pubDate>Wed, 15 Jun 2022 10:47:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220609_74/1654734720229lNQCn_JPEG/upload_98814430938168846d2753fe3-5457-4c2c-ac13-65a74a5569a6.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Simply K-Pop CON-TOUR (심플리케이팝 콘투어) Ep.524]]></title>
             <link>https://m.vlive.tv/video/285767</link>
@@ -76,6 +66,26 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220616_261/1655360324761zTviH_JPEG/upload_9944001017251859056500f08-5e36-481d-9673-01f152ddad70.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio/K-Poppin'] Singlish with DKB]]></title>
+            <link>https://m.vlive.tv/video/285788</link>
+            <guid>https://m.vlive.tv/video/285788</guid>
+            <pubDate>Fri, 17 Jun 2022 02:42:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220616_41/1655360568434J01Qh_JPEG/upload_99440278726586246873ef66c-ff24-443d-85b5-29ac76629fcd.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / woo!ah! 우아!)]]></title>
+            <link>https://m.vlive.tv/video/285776</link>
+            <guid>https://m.vlive.tv/video/285776</guid>
+            <pubDate>Fri, 17 Jun 2022 02:42:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220616_195/1655355466636BQQDw_JPEG/upload_99435147133469317a1690ea5-cbb3-4363-95b9-590533f3ac75.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
