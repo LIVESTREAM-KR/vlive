@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 09:42:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 10:43:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[하이엘의 여름 나기⛱🍨💕]]></title>
-            <link>https://m.vlive.tv/video/285943</link>
-            <guid>https://m.vlive.tv/video/285943</guid>
-            <pubDate>Sat, 18 Jun 2022 04:52:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">Hi-L (하이엘)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220618_181/1655526526859kIWN9_JPEG/upload_996055659723947197879fab4-c7e6-4c65-a8eb-c1f260e4540a.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
             <link>https://m.vlive.tv/video/285783</link>
@@ -96,6 +86,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220616_206/165536061073473Di6_JPEG/upload_9944030519682607644ca53a8-b629-4ad7-ae20-283a2d808874.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop]Oh My K-Pop with NIve]]></title>
+            <link>https://m.vlive.tv/video/285792</link>
+            <guid>https://m.vlive.tv/video/285792</guid>
+            <pubDate>Sat, 18 Jun 2022 10:43:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220616_234/1655360730838OzOrj_JPEG/upload_71630312493082895a69f309e-0cda-4d86-b57e-e414ac3a5cd1.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
