@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 15:45:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 16:55:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -408,14 +408,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220618_245/16555522346809vAoG_JPEG/168340605670389269c0c30b86-b947-48d3-9c27-b41aa0a1c139.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[다람쥐 밤 산책🐿💙(2)]]></title>
-            <link>https://www.vlive.tv/video/285986</link>
-            <guid>https://www.vlive.tv/video/285986</guid>
-            <pubDate>Sat, 18 Jun 2022 15:44:48 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:57]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/285986/thumb?type=f228_128" length="0" type="image//live/285986/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[명품백 저리가라👋🏻  2~10만원대 갓성비 데일리백 하울👜 (대학생가방ㅣ직장인가방)]]></title>
             <link>https://www.vlive.tv/video/285923</link>
             <guid>https://www.vlive.tv/video/285923</guid>
@@ -448,12 +440,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220619_108/16555646278460rnmb_JPEG/679aff7f-ef17-11ec-8bba-505dac8c381b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[다람쥐 밤 산책🐿💙(2)]]></title>
+            <link>https://www.vlive.tv/video/285986</link>
+            <guid>https://www.vlive.tv/video/285986</guid>
+            <pubDate>Sat, 18 Jun 2022 15:44:48 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:58]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220619_177/1655567897458OvplN_JPEG/f1b968d4-ef1e-11ec-b769-505dac8c35ff_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[🌃🤔😯😳]]></title>
             <link>https://www.vlive.tv/video/285987</link>
             <guid>https://www.vlive.tv/video/285987</guid>
             <pubDate>Sat, 18 Jun 2022 15:44:48 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:14]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/285987/thumb?type=f228_128" length="0" type="image//live/285987/thumb"/>
+            <content:encoded><![CDATA[오후 4:21]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220619_272/1655569276727t4kgL_JPEG/e4add7a2-ef21-11ec-928a-48df37ae3dc4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
