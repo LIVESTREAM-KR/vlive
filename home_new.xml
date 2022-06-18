@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 05:41:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 06:49:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[운동 하다가 노래가 부르고 싶어서🎶]]></title>
+            <link>https://www.vlive.tv/video/285944</link>
+            <guid>https://www.vlive.tv/video/285944</guid>
+            <pubDate>Sat, 18 Jun 2022 06:47:54 GMT</pubDate>
+            <content:encoded><![CDATA[N.O.M]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220618_136/1655532067069xF1lr_JPEG/491498433501478530fa7e315-979d-4627-913e-a93e61a84be1.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[점심 같이 먹을래요?]]></title>
             <link>https://www.vlive.tv/video/285941</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 17 Jun 2022 15:50:17 GMT</pubDate>
             <content:encoded><![CDATA[Lapillus]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220617_136/1655474868703VfC7f_JPEG/upload_99554590325438041ebb7b03d-464d-443b-ae62-198f832ab82b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TRENDZ(트렌드지) 'WHO [吼]' Performance Video]]></title>
-            <link>https://www.vlive.tv/video/285769</link>
-            <guid>https://www.vlive.tv/video/285769</guid>
-            <pubDate>Fri, 17 Jun 2022 15:50:17 GMT</pubDate>
-            <content:encoded><![CDATA[TRENDZ (트렌드지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220616_189/16553449803285UiOu_JPEG/upload_71614584175943455f9ce6118-d42f-47dd-9815-e9fd30b072f2.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

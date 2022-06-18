@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 05:41:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 06:49:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[운동 하다가 노래가 부르고 싶어서🎶]]></title>
+            <link>https://www.vlive.tv/video/285944</link>
+            <guid>https://www.vlive.tv/video/285944</guid>
+            <pubDate>Sat, 18 Jun 2022 06:47:45 GMT</pubDate>
+            <content:encoded><![CDATA[N.O.M]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220618_136/1655532067069xF1lr_JPEG/491498433501478530fa7e315-979d-4627-913e-a93e61a84be1.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[점심 같이 먹을래요?]]></title>
             <link>https://www.vlive.tv/video/285941</link>
@@ -398,14 +406,6 @@
             <pubDate>Fri, 17 Jun 2022 09:43:15 GMT</pubDate>
             <content:encoded><![CDATA[WOODZ (조승연)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220617_254/1655447300069GdCtu_JPEG/upload_995269456516248723ee848d8-8854-48e4-9cfc-752a367cad5e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[TEMFLIX] EP 05-2. 안 싸워서 다행이야｜TPST_MT_최종_진짜_이게_마지막_완_제발.mov]]></title>
-            <link>https://www.vlive.tv/video/285855</link>
-            <guid>https://www.vlive.tv/video/285855</guid>
-            <pubDate>Fri, 17 Jun 2022 09:43:15 GMT</pubDate>
-            <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220617_298/1655428383522ugxk8_JPEG/upload_7169797559133656162d31763-def4-45ee-94f0-258233362c1c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
