@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 07:40:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 08:46:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,12 +64,60 @@
             <enclosure url="https://v-phinf.pstatic.net/20220619_245/1655587146911Jd22s_PNG/upload_7185672706093642069a50cdd-0627-4503-b174-54a87acbc97e.png?type=f228_128" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[신뢰즈]]></title>
+            <link>https://www.vlive.tv/video/285996</link>
+            <guid>https://www.vlive.tv/video/285996</guid>
+            <pubDate>Sun, 19 Jun 2022 08:45:30 GMT</pubDate>
+            <content:encoded><![CDATA[오전 7:45]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/285996/thumb?type=f228_128" length="0" type="image//live/285996/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[[Special] 8주년 맞이 '마마무맥락' 1편]]></title>
+            <link>https://www.vlive.tv/video/285991</link>
+            <guid>https://www.vlive.tv/video/285991</guid>
+            <pubDate>Sun, 19 Jun 2022 08:45:30 GMT</pubDate>
+            <content:encoded><![CDATA[오전 8:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220619_138/1655614315926xxmMQ_JPEG/upload_718839187040765950829e85f-c1c5-43dc-a6eb-04f13726e4f7.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유태양입니다]]></title>
+            <link>https://www.vlive.tv/video/285997</link>
+            <guid>https://www.vlive.tv/video/285997</guid>
+            <pubDate>Sun, 19 Jun 2022 08:45:30 GMT</pubDate>
+            <content:encoded><![CDATA[오전 8:08]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220619_159/1655626116692Vq98c_JPEG/df021d30-efa6-11ec-9fa8-505dacfba98a_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잘먹겠습니다!]]></title>
+            <link>https://www.vlive.tv/video/285999</link>
+            <guid>https://www.vlive.tv/video/285999</guid>
+            <pubDate>Sun, 19 Jun 2022 08:45:30 GMT</pubDate>
+            <content:encoded><![CDATA[오전 8:23]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/285999/thumb?type=f228_128" length="0" type="image//live/285999/thumb"/>
+        </item>
+        <item>
             <title><![CDATA[안녕? 오랜만이야~]]></title>
             <link>https://www.vlive.tv/video/285995</link>
             <guid>https://www.vlive.tv/video/285995</guid>
             <pubDate>Sun, 19 Jun 2022 07:40:10 GMT</pubDate>
-            <content:encoded><![CDATA[오전 7:32]]></content:encoded>
+            <content:encoded><![CDATA[오전 8:31]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220619_191/1655623949538GGOMB_JPEG/1684123501722530178762d0fd-5629-4b77-bb5a-a01b4e773126.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이동 중에 잠깐 !]]></title>
+            <link>https://www.vlive.tv/video/285998</link>
+            <guid>https://www.vlive.tv/video/285998</guid>
+            <pubDate>Sun, 19 Jun 2022 08:45:30 GMT</pubDate>
+            <content:encoded><![CDATA[오전 8:34]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220619_271/16556276756516ghFt_JPEG/807e1d4c-efaa-11ec-b77c-48df379cca40_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하2]]></title>
+            <link>https://www.vlive.tv/video/286000</link>
+            <guid>https://www.vlive.tv/video/286000</guid>
+            <pubDate>Sun, 19 Jun 2022 08:45:30 GMT</pubDate>
+            <content:encoded><![CDATA[오전 8:42]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/286000/thumb?type=f228_128" length="0" type="image//live/286000/thumb"/>
         </item>
     </channel>
 </rss>
