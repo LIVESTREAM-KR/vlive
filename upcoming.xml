@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 15:45:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 16:55:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -240,14 +240,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220619_141/16556475795499mGp8_JPEG/bef871b5-efd8-11ec-bb12-d4f5ef5a9532_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오랜만 SO-RADIO🗣💕]]></title>
-            <link>https://www.vlive.tv/video/286018</link>
-            <guid>https://www.vlive.tv/video/286018</guid>
-            <pubDate>Sun, 19 Jun 2022 14:40:45 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:20]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/286018/thumb?type=f228_128" length="0" type="image//live/286018/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[일요일😝]]></title>
             <link>https://www.vlive.tv/video/286016</link>
             <guid>https://www.vlive.tv/video/286016</guid>
@@ -334,6 +326,22 @@
             <pubDate>Sun, 19 Jun 2022 14:40:45 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:25]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220620_291/16556523165793cjFp_JPEG/8199fd8c-efe3-11ec-bb44-48df379ccacc_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찬이의 "방" 🐺 Ep. 162 - JAPAN!]]></title>
+            <link>https://www.vlive.tv/video/286017</link>
+            <guid>https://www.vlive.tv/video/286017</guid>
+            <pubDate>Sun, 19 Jun 2022 16:54:30 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:46]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220620_117/1655653612384MJUdY_JPEG/70086f15-efe6-11ec-bb44-48df379ccacc_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오랜만 SO-RADIO🗣💕]]></title>
+            <link>https://www.vlive.tv/video/286018</link>
+            <guid>https://www.vlive.tv/video/286018</guid>
+            <pubDate>Sun, 19 Jun 2022 14:40:45 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:10]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220620_28/1655655030048FmM8E_JPEG/a6b3c42e-efe9-11ec-aef4-48df37ae3fca_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
