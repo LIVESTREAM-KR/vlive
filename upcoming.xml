@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 13:03:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 13:45:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -208,14 +208,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220619_80/1655640553567TUDit_JPEG/89dea506-efc8-11ec-9d93-d4f5ef590144_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아연이랑 놀쟈🐶💛]]></title>
-            <link>https://www.vlive.tv/video/286010</link>
-            <guid>https://www.vlive.tv/video/286010</guid>
-            <pubDate>Sun, 19 Jun 2022 13:02:54 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:15]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220619_242/1655640932168OBMNz_JPEG/1684292431526515103b770f25-ed35-48fe-920f-8a2c646cada9.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[안농]]></title>
             <link>https://www.vlive.tv/video/286011</link>
             <guid>https://www.vlive.tv/video/286011</guid>
@@ -228,8 +220,40 @@
             <link>https://www.vlive.tv/video/286012</link>
             <guid>https://www.vlive.tv/video/286012</guid>
             <pubDate>Sun, 19 Jun 2022 13:02:54 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:02]]></content:encoded>
+            <content:encoded><![CDATA[오후 1:16]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220619_9/1655643738935ihBUg_JPEG/948002216955955211b1514cb-b7fb-4d1f-a995-26fa079f5778.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이제,,,?]]></title>
+            <link>https://www.vlive.tv/video/286013</link>
+            <guid>https://www.vlive.tv/video/286013</guid>
+            <pubDate>Sun, 19 Jun 2022 13:44:32 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:16]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220619_206/1655644603375jnjnR_JPEG/4926237957142782162c8afbc-673f-4820-8fa6-afc98a2593f0.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아연이랑 놀쟈🐶💛]]></title>
+            <link>https://www.vlive.tv/video/286010</link>
+            <guid>https://www.vlive.tv/video/286010</guid>
+            <pubDate>Sun, 19 Jun 2022 13:02:54 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:27]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220619_242/1655640932168OBMNz_JPEG/1684292431526515103b770f25-ed35-48fe-920f-8a2c646cada9.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오랜만에 보브 다 들어왕😀]]></title>
+            <link>https://www.vlive.tv/video/286014</link>
+            <guid>https://www.vlive.tv/video/286014</guid>
+            <pubDate>Sun, 19 Jun 2022 13:44:32 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:30]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220619_135/1655645401780YJJgg_JPEG/1685209327262329751e80aed1-f148-441f-aa97-8132c2d2b053.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE] 첫주의끝]]></title>
+            <link>https://www.vlive.tv/video/286015</link>
+            <guid>https://www.vlive.tv/video/286015</guid>
+            <pubDate>Sun, 19 Jun 2022 13:44:32 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:35]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/286015/thumb?type=f228_128" length="0" type="image//live/286015/thumb"/>
         </item>
     </channel>
 </rss>
