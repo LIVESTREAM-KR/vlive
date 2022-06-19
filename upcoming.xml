@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 09:44:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 10:44:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,13 +96,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220619_271/16556276756516ghFt_JPEG/807e1d4c-efaa-11ec-b77c-48df379cca40_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[하2]]></title>
-            <link>https://www.vlive.tv/video/286000</link>
-            <guid>https://www.vlive.tv/video/286000</guid>
-            <pubDate>Sun, 19 Jun 2022 08:45:30 GMT</pubDate>
-            <content:encoded><![CDATA[오전 8:42]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[신뢰즈]]></title>
             <link>https://www.vlive.tv/video/285996</link>
             <guid>https://www.vlive.tv/video/285996</guid>
@@ -132,6 +125,7 @@
             <guid>https://www.vlive.tv/video/286003</guid>
             <pubDate>Sun, 19 Jun 2022 09:44:03 GMT</pubDate>
             <content:encoded><![CDATA[오전 9:30]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/286003/thumb?type=f228_128" length="0" type="image//live/286003/thumb"/>
         </item>
         <item>
             <title><![CDATA[사인회 전에 보고 싶어서🥺]]></title>
@@ -140,6 +134,38 @@
             <pubDate>Sun, 19 Jun 2022 09:44:03 GMT</pubDate>
             <content:encoded><![CDATA[오전 9:31]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220619_232/1655631061970FwV4O_JPEG/53476e85-efb2-11ec-9fa8-505dacfba98a_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하2]]></title>
+            <link>https://www.vlive.tv/video/286000</link>
+            <guid>https://www.vlive.tv/video/286000</guid>
+            <pubDate>Sun, 19 Jun 2022 08:45:30 GMT</pubDate>
+            <content:encoded><![CDATA[오전 9:51]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220619_54/16556323041803gFnS_JPEG/d84736ad-efb4-11ec-8bba-505dac8c381b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미래게임천국 시즌2🎮 | EP.06 런닝맨]]></title>
+            <link>https://www.vlive.tv/video/285918</link>
+            <guid>https://www.vlive.tv/video/285918</guid>
+            <pubDate>Sun, 19 Jun 2022 10:43:28 GMT</pubDate>
+            <content:encoded><![CDATA[오전 10:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220619_110/1655633283351vI95l_JPEG/upload_71737213619061976ad5082a3-019b-46a4-b118-1e8ca3ca4da7.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 AB6IX FAN MEETING 'AB_NEW AREA' IN TOKYO]]></title>
+            <link>https://www.vlive.tv/video/285994</link>
+            <guid>https://www.vlive.tv/video/285994</guid>
+            <pubDate>Sun, 19 Jun 2022 10:43:28 GMT</pubDate>
+            <content:encoded><![CDATA[오전 10:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220619_84/16556203212850WoXW_JPEG/upload_997000300524405849c453be4-3fa7-48f8-8186-ae6e29a1e733.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[88한 하루]]></title>
+            <link>https://www.vlive.tv/video/286005</link>
+            <guid>https://www.vlive.tv/video/286005</guid>
+            <pubDate>Sun, 19 Jun 2022 10:43:28 GMT</pubDate>
+            <content:encoded><![CDATA[오전 10:17]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220619_231/1655632649636XNJLG_JPEG/49250425871868421bb661007-eaa6-4c9d-9f80-7f744cb3e3ef.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
