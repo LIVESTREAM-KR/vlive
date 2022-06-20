@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 04:03:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 04:55:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / woo!ah! 우아!)]]></title>
+            <link>https://www.vlive.tv/video/285776</link>
+            <guid>https://www.vlive.tv/video/285776</guid>
+            <pubDate>Mon, 20 Jun 2022 04:54:35 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220616_195/1655355466636BQQDw_JPEG/upload_99435147133469317a1690ea5-cbb3-4363-95b9-590533f3ac75.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(여자)아이들 공식 팬클럽 네버랜드 3기 모집 (3RD NEVERLAND Generation Recruitment Guide)]]></title>
             <link>https://www.vlive.tv/video/286023</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 19 Jun 2022 15:43:46 GMT</pubDate>
             <content:encoded><![CDATA[LAPOEM]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220619_206/1655644603375jnjnR_JPEG/4926237957142782162c8afbc-673f-4820-8fa6-afc98a2593f0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안농]]></title>
-            <link>https://www.vlive.tv/video/286011</link>
-            <guid>https://www.vlive.tv/video/286011</guid>
-            <pubDate>Sun, 19 Jun 2022 13:02:01 GMT</pubDate>
-            <content:encoded><![CDATA[KINGDOM]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220619_291/1655648914055BYu5S_JPEG/b66899b0-efda-11ec-9d93-d4f5ef590144_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
