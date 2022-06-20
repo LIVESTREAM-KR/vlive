@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 23:42:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 02:36:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
-            <link>https://m.vlive.tv/video/285783</link>
-            <guid>https://m.vlive.tv/video/285783</guid>
-            <pubDate>Thu, 16 Jun 2022 09:46:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220616_261/1655360324761zTviH_JPEG/upload_9944001017251859056500f08-5e36-481d-9673-01f152ddad70.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Sound K / woo!ah! 우아!)]]></title>
             <link>https://m.vlive.tv/video/285776</link>
@@ -96,6 +86,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220616_234/1655360730838OzOrj_JPEG/upload_71630312493082895a69f309e-0cda-4d86-b57e-e414ac3a5cd1.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영재 2nd Mini Album [SUGAR] 발매 기념 쇼케이스]]></title>
+            <link>https://m.vlive.tv/video/285704</link>
+            <guid>https://m.vlive.tv/video/285704</guid>
+            <pubDate>Mon, 20 Jun 2022 02:35:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">영재 (YOUNGJAE)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220615_84/1655272955756rlMqm_JPEG/upload_99352677131770555bdd739c0-840e-4ab3-8d35-800617314db4.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
