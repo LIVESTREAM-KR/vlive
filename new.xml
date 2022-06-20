@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 18:51:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 19:43:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[midnight:)]]></title>
+            <link>https://www.vlive.tv/video/286099</link>
+            <guid>https://www.vlive.tv/video/286099</guid>
+            <pubDate>Mon, 20 Jun 2022 19:42:20 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220621_251/1655752072030KMtq5_JPEG/168540382986091040b247d15b-25ca-448d-adaf-b365997d3882.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KISU ! Run !]]></title>
             <link>https://www.vlive.tv/video/286098</link>
@@ -398,14 +406,6 @@
             <pubDate>Mon, 20 Jun 2022 09:43:03 GMT</pubDate>
             <content:encoded><![CDATA[mydaily]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220620_69/1655716752074bXeq2_JPEG/upload_99796469098969331ccddc98e-e3d4-4241-8155-9cf15e54b1b5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arirang Radio (Super K-Pop / bugAboo 버가부)]]></title>
-            <link>https://www.vlive.tv/video/285780</link>
-            <guid>https://www.vlive.tv/video/285780</guid>
-            <pubDate>Mon, 20 Jun 2022 07:41:55 GMT</pubDate>
-            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220616_149/1655355925785yctXg_JPEG/upload_994356369590336493a2cd741-0835-426b-ab69-566adfa0ca34.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
