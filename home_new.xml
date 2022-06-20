@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 13:58:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 14:42:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,12 +16,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20220620_176/1655732413941oOsS0_JPEG/49350190218190942c586d1f0-c0a3-48c5-8d77-cee8fb1287dc.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[😝]]></title>
+            <link>https://www.vlive.tv/video/286087</link>
+            <guid>https://www.vlive.tv/video/286087</guid>
+            <pubDate>Mon, 20 Jun 2022 14:41:05 GMT</pubDate>
+            <content:encoded><![CDATA[OMEGA X (오메가엑스)]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/286087/thumb?type=f228_128" length="0" type="image//live/286087/thumb"/>
+        </item>
+        <item>
             <title><![CDATA[기호의 기호 🐈‍⬛]]></title>
             <link>https://www.vlive.tv/video/286084</link>
             <guid>https://www.vlive.tv/video/286084</guid>
             <pubDate>Mon, 20 Jun 2022 13:56:37 GMT</pubDate>
             <content:encoded><![CDATA[P1Harmony]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/286084/thumb?type=f228_128" length="0" type="image//live/286084/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220620_75/16557342545237X6cr_JPEG/54182764-f0a2-11ec-89b9-d4f5ef5906a4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여기는 아침 거기는 밤?]]></title>
+            <link>https://www.vlive.tv/video/286086</link>
+            <guid>https://www.vlive.tv/video/286086</guid>
+            <pubDate>Mon, 20 Jun 2022 14:41:05 GMT</pubDate>
+            <content:encoded><![CDATA[AB6IX]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/286086/thumb?type=f228_128" length="0" type="image//live/286086/thumb"/>
         </item>
         <item>
             <title><![CDATA[저녁 먹으면서 소통하께여]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 20 Jun 2022 11:39:34 GMT</pubDate>
             <content:encoded><![CDATA[LIZ ENT]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220620_1/165572700863363A16_JPEG/030472b0-f091-11ec-946a-d4f5ef58ac88_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CRAVITY PARK (크래비티 파크) EP.59 수상한 집들이 2 l SEASON 5 (시즌 5)]]></title>
-            <link>https://www.vlive.tv/video/286070</link>
-            <guid>https://www.vlive.tv/video/286070</guid>
-            <pubDate>Mon, 20 Jun 2022 13:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[CRAVITY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220620_242/1655720124040W1uWA_JPEG/upload_9979980577175122407963a62-36cc-4624-a0cb-1a302d8f82a2.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[DKZ ON AIR] Allure 6월호 화보 촬영 비하인드 - EP.55]]></title>
-            <link>https://www.vlive.tv/video/286057</link>
-            <guid>https://www.vlive.tv/video/286057</guid>
-            <pubDate>Mon, 20 Jun 2022 13:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[DKZ]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220620_158/165571472943249o1a_JPEG/upload_9979444834174273415aaf058-cef8-4e8e-86c4-2b4cfa190304.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
