@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 11:40:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 13:24:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220616_171/1655360646841fRpEX_JPEG/upload_99440345228077996e4657177-8f97-4641-a8a8-60b93de1211c.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / Ku OneChan 구원찬)]]></title>
+            <link>https://m.vlive.tv/video/285915</link>
+            <guid>https://m.vlive.tv/video/285915</guid>
+            <pubDate>Mon, 20 Jun 2022 13:24:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220617_56/16554642493545i9Fi_JPEG/upload_717338357622911888d6de560-413a-4ffc-ab6b-1631e42fffbb.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
