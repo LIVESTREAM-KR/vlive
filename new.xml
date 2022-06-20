@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 04:55:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 05:42:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[루미너스(LUMINOUS) 공식 팬덤명 공개]]></title>
+            <link>https://www.vlive.tv/video/285892</link>
+            <guid>https://www.vlive.tv/video/285892</guid>
+            <pubDate>Mon, 20 Jun 2022 05:40:38 GMT</pubDate>
+            <content:encoded><![CDATA[루미너스 (LUMINOUS)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220617_46/16554514933641UBgA_JPEG/upload_717210785005516081d8f41e4-3482-4ec9-beaa-cb9dfcba3bd8.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Arirang Radio (Sound K / woo!ah! 우아!)]]></title>
             <link>https://www.vlive.tv/video/285776</link>
@@ -398,14 +406,6 @@
             <pubDate>Sat, 18 Jun 2022 15:43:36 GMT</pubDate>
             <content:encoded><![CDATA[KARD]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220618_147/1655561168241Xje19_JPEG/upload_996408619398693424b696371-eee3-4527-b362-8b13d1b3c129.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lapillus(라필루스) 'HIT YA!' MV Teaser2]]></title>
-            <link>https://www.vlive.tv/video/285980</link>
-            <guid>https://www.vlive.tv/video/285980</guid>
-            <pubDate>Sat, 18 Jun 2022 15:43:36 GMT</pubDate>
-            <content:encoded><![CDATA[Lapillus]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220618_122/1655558720495A3Hgh_JPEG/upload_996383774211417667465183a-ceb2-401d-a149-46f07df7ba04.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

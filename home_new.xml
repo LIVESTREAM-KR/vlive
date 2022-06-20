@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 04:55:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 05:42:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[루미너스(LUMINOUS) 공식 팬덤명 공개]]></title>
+            <link>https://www.vlive.tv/video/285892</link>
+            <guid>https://www.vlive.tv/video/285892</guid>
+            <pubDate>Mon, 20 Jun 2022 05:40:47 GMT</pubDate>
+            <content:encoded><![CDATA[루미너스 (LUMINOUS)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220617_46/16554514933641UBgA_JPEG/upload_717210785005516081d8f41e4-3482-4ec9-beaa-cb9dfcba3bd8.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Arirang Radio (Sound K / woo!ah! 우아!)]]></title>
             <link>https://www.vlive.tv/video/285776</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 19 Jun 2022 14:39:54 GMT</pubDate>
             <content:encoded><![CDATA[SF9]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220620_260/1655653279009Di7g8_JPEG/02873217-efe0-11ec-9fa8-505dacfba98a_06.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이제,,,?]]></title>
-            <link>https://www.vlive.tv/video/286013</link>
-            <guid>https://www.vlive.tv/video/286013</guid>
-            <pubDate>Sun, 19 Jun 2022 15:43:46 GMT</pubDate>
-            <content:encoded><![CDATA[LAPOEM]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220619_206/1655644603375jnjnR_JPEG/4926237957142782162c8afbc-673f-4820-8fa6-afc98a2593f0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
