@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 13:24:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 13:58:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -478,6 +478,22 @@
             <pubDate>Mon, 20 Jun 2022 13:24:10 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:13]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220620_176/1655730800137D299P_JPEG/d1230bec-f099-11ec-bb12-d4f5ef5a9532_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기호의 기호 🐈‍⬛]]></title>
+            <link>https://www.vlive.tv/video/286084</link>
+            <guid>https://www.vlive.tv/video/286084</guid>
+            <pubDate>Mon, 20 Jun 2022 13:57:30 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:25]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/286084/thumb?type=f228_128" length="0" type="image//live/286084/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[한 주 시작은 브이앱 어때요🤔?]]></title>
+            <link>https://www.vlive.tv/video/286085</link>
+            <guid>https://www.vlive.tv/video/286085</guid>
+            <pubDate>Mon, 20 Jun 2022 13:57:30 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:40]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220620_176/1655732413941oOsS0_JPEG/49350190218190942c586d1f0-c0a3-48c5-8d77-cee8fb1287dc.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
