@@ -4,16 +4,24 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 07:43:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 08:52:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[핫쿨즈🔥🧊]]></title>
+            <link>https://www.vlive.tv/video/286054</link>
+            <guid>https://www.vlive.tv/video/286054</guid>
+            <pubDate>Mon, 20 Jun 2022 08:50:51 GMT</pubDate>
+            <content:encoded><![CDATA[LE SSERAFIM]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/286054/thumb?type=f228_128" length="0" type="image//live/286054/thumb"/>
+        </item>
         <item>
             <title><![CDATA[안녕!!!]]></title>
             <link>https://www.vlive.tv/video/286049</link>
             <guid>https://www.vlive.tv/video/286049</guid>
             <pubDate>Mon, 20 Jun 2022 07:42:05 GMT</pubDate>
             <content:encoded><![CDATA[Golden Child]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/286049/thumb?type=f228_128" length="0" type="image//live/286049/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220620_85/16557113031840xmqQ_JPEG/1aacb3ec-f06d-11ec-8e34-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Arirang Radio (Sound K / woo!ah! 우아!)]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 20 Jun 2022 04:02:31 GMT</pubDate>
             <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220620_22/1655686914084M6lau_JPEG/upload_99766588552715683010e298b-1db1-4b4e-adde-87a9957e0c17.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[《예고》네 번째 싱글 앨범 DOOMCHITA를 발매한 시크릿넘버(SECRET NUMBER)가 ASC를 찾아온다! _ 528회]]></title>
-            <link>https://www.vlive.tv/video/286026</link>
-            <guid>https://www.vlive.tv/video/286026</guid>
-            <pubDate>Mon, 20 Jun 2022 02:34:58 GMT</pubDate>
-            <content:encoded><![CDATA[After School Club │ 애프터스쿨클럽]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220620_174/1655690577059HGA2a_PNG/upload_997702753303478591f34f470-42cf-46e2-85c8-8b4d3179d2ce.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
