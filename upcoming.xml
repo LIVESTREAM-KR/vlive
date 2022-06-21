@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 15:49:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 17:09:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -496,14 +496,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220621_102/1655820508249MaOMv_PNG/upload_99900210519574261113eb36a-8283-42e2-9c18-e55217b3a9d9.png?type=f228_128" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[굿나잇 fm]]></title>
-            <link>https://www.vlive.tv/video/286168</link>
-            <guid>https://www.vlive.tv/video/286168</guid>
-            <pubDate>Tue, 21 Jun 2022 15:48:35 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:00]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220622_64/16558236566439Po87_JPEG/168699238638384518e099a849-b111-4ef4-a3d5-ee22340f5306.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[❤️]]></title>
             <link>https://www.vlive.tv/video/286166</link>
             <guid>https://www.vlive.tv/video/286166</guid>
@@ -520,12 +512,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220622_99/1655825212041wevTF_JPEG/8f72dd7a-f175-11ec-81b1-505dac8c3639_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[굿나잇 fm]]></title>
+            <link>https://www.vlive.tv/video/286168</link>
+            <guid>https://www.vlive.tv/video/286168</guid>
+            <pubDate>Tue, 21 Jun 2022 15:48:35 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:09]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220622_64/16558236566439Po87_JPEG/168699238638384518e099a849-b111-4ef4-a3d5-ee22340f5306.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[진짜 짧은 브이앱]]></title>
             <link>https://www.vlive.tv/video/286169</link>
             <guid>https://www.vlive.tv/video/286169</guid>
             <pubDate>Tue, 21 Jun 2022 15:48:35 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:38]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/286169/thumb?type=f228_128" length="0" type="image//live/286169/thumb"/>
+            <content:encoded><![CDATA[오후 4:11]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220622_177/16558278884763qp5D_JPEG/89133a56-f17c-11ec-aef4-48df37ae3fca_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이유(IU)-엔시티 드림(NCT DREAM), 스포츠서울 창간 37주년 축하 메시지]]></title>

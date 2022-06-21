@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 15:49:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 17:09:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,15 @@
             <guid>https://www.vlive.tv/video/286169</guid>
             <pubDate>Tue, 21 Jun 2022 15:47:42 GMT</pubDate>
             <content:encoded><![CDATA[ONEUS]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/286169/thumb?type=f228_128" length="0" type="image//live/286169/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220622_177/16558278884763qp5D_JPEG/89133a56-f17c-11ec-aef4-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[굿나잇 fm]]></title>
+            <link>https://www.vlive.tv/video/286168</link>
+            <guid>https://www.vlive.tv/video/286168</guid>
+            <pubDate>Tue, 21 Jun 2022 15:47:42 GMT</pubDate>
+            <content:encoded><![CDATA[정광현 (JeongGwangHyeon)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220622_64/16558236566439Po87_JPEG/168699238638384518e099a849-b111-4ef4-a3d5-ee22340f5306.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NIGHT WALKING 밤산책🌃]]></title>
@@ -30,14 +38,6 @@
             <pubDate>Tue, 21 Jun 2022 14:42:09 GMT</pubDate>
             <content:encoded><![CDATA[ONEWE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220622_147/1655824474984HnkSY_JPEG/28ec06e4-f174-11ec-89b9-d4f5ef5906a4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[굿나잇 fm]]></title>
-            <link>https://www.vlive.tv/video/286168</link>
-            <guid>https://www.vlive.tv/video/286168</guid>
-            <pubDate>Tue, 21 Jun 2022 15:47:42 GMT</pubDate>
-            <content:encoded><![CDATA[정광현 (JeongGwangHyeon)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220622_64/16558236566439Po87_JPEG/168699238638384518e099a849-b111-4ef4-a3d5-ee22340f5306.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NAYEON "POP!" M/V Teaser 1]]></title>
