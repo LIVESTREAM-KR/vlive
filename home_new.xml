@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 17:54:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 18:50:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ㅋㅋㅋㅋ]]></title>
+            <link>https://www.vlive.tv/video/286173</link>
+            <guid>https://www.vlive.tv/video/286173</guid>
+            <pubDate>Tue, 21 Jun 2022 18:49:04 GMT</pubDate>
+            <content:encoded><![CDATA[WOODZ (조승연)]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/286173/thumb?type=f228_128" length="0" type="image//live/286173/thumb"/>
+        </item>
         <item>
             <title><![CDATA[진짜 짧은 브이앱]]></title>
             <link>https://www.vlive.tv/video/286169</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 21 Jun 2022 11:42:49 GMT</pubDate>
             <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220621_89/16558101021438vVdB_JPEG/168598496142233481fa9495dc-38df-445d-8e56-1b0faf3904fa.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ㅍㅍ]]></title>
-            <link>https://www.vlive.tv/video/286160</link>
-            <guid>https://www.vlive.tv/video/286160</guid>
-            <pubDate>Tue, 21 Jun 2022 13:59:25 GMT</pubDate>
-            <content:encoded><![CDATA[TWICE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220621_191/16558175219736LX8i_JPEG/17bdefd9-f164-11ec-946a-d4f5ef58ac88_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
