@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 20:44:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 21:43:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,36 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220617_56/16554642493545i9Fi_JPEG/upload_717338357622911888d6de560-413a-4ffc-ab6b-1631e42fffbb.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[한빈] 한빈이의 생일파티에 초대합니다🎂]]></title>
+            <link>https://m.vlive.tv/video/286048</link>
+            <guid>https://m.vlive.tv/video/286048</guid>
+            <pubDate>Tue, 21 Jun 2022 21:43:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 12:00</span>
+										<span class="txt">MAJOR9 (메이저나인)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220620_132/1655709421535jxXjW_JPEG/upload_71978972695281437cacc9d83-6b6c-4b8c-ae79-32d1ac860cb7.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
+            <link>https://m.vlive.tv/video/285786</link>
+            <guid>https://m.vlive.tv/video/285786</guid>
+            <pubDate>Tue, 21 Jun 2022 21:43:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220616_139/1655360479041UNfbi_JPEG/upload_99440185525434524b8190ed6-a5b7-4ca3-929f-cf5e6604d32c.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio/K-Poppin'] Singlish with DKB]]></title>
+            <link>https://m.vlive.tv/video/285788</link>
+            <guid>https://m.vlive.tv/video/285788</guid>
+            <pubDate>Tue, 21 Jun 2022 21:43:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220616_41/1655360568434J01Qh_JPEG/upload_99440278726586246873ef66c-ff24-443d-85b5-29ac76629fcd.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
