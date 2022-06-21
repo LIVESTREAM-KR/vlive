@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 02:41:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 04:14:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[ASC Live Ep.528 (SECRET NUMBER / 시크릿넘버)]]></title>
-            <link>https://m.vlive.tv/video/285889</link>
-            <guid>https://m.vlive.tv/video/285889</guid>
-            <pubDate>Fri, 17 Jun 2022 09:44:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 4:00</span>
-										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220617_233/1655449683627hqJ9S_PNG/upload_995293869844845542b41e57c-cf4a-44d5-8dd0-552e0bc00673.png?type=f274_154" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Sound K] Mystery Mix with BOiTELLO 보이텔로]]></title>
             <link>https://m.vlive.tv/video/285789</link>
@@ -96,6 +86,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220616_171/1655360646841fRpEX_JPEG/upload_99440345228077996e4657177-8f97-4641-a8a8-60b93de1211c.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / Ku OneChan 구원찬)]]></title>
+            <link>https://m.vlive.tv/video/285915</link>
+            <guid>https://m.vlive.tv/video/285915</guid>
+            <pubDate>Tue, 21 Jun 2022 04:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220617_56/16554642493545i9Fi_JPEG/upload_717338357622911888d6de560-413a-4ffc-ab6b-1631e42fffbb.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
