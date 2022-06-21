@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 07:41:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 08:54:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,16 +36,6 @@
 										오전 11:00</span>
 										<span class="txt">KINGDOM</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220621_294/1655738800025Rd5h0_JPEG/upload_99818446047574200911b423c-137f-4913-a817-3a7ac549590e.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthew]]></title>
-            <link>https://m.vlive.tv/video/285785</link>
-            <guid>https://m.vlive.tv/video/285785</guid>
-            <pubDate>Mon, 20 Jun 2022 04:55:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220616_238/1655360391072ns7EC_JPEG/upload_9944008662502778815488f0d-3d46-41d2-8aa0-41c7299e62af.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
