@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 04:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 05:03:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / Sound K] Song Express ver.3 with Denise 데니스]]></title>
-            <link>https://m.vlive.tv/video/285790</link>
-            <guid>https://m.vlive.tv/video/285790</guid>
-            <pubDate>Tue, 21 Jun 2022 11:43:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220616_171/1655360646841fRpEX_JPEG/upload_99440345228077996e4657177-8f97-4641-a8a8-60b93de1211c.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Super K-Pop / Ku OneChan 구원찬)]]></title>
             <link>https://m.vlive.tv/video/285915</link>
@@ -66,26 +56,6 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220616_114/1655355516333996M5_JPEG/upload_994352028203907129ec3d7af-11b4-4be3-9e9c-d66f035c5ebd.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Super K-Pop] Stray Quiz]]></title>
-            <link>https://m.vlive.tv/video/285793</link>
-            <guid>https://m.vlive.tv/video/285793</guid>
-            <pubDate>Wed, 22 Jun 2022 04:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220616_116/1655360788354Qzcon_JPEG/upload_994404898872447244a90bfc8-ed66-4de3-a1c3-dad8dcb14083.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
-            <link>https://m.vlive.tv/video/285787</link>
-            <guid>https://m.vlive.tv/video/285787</guid>
-            <pubDate>Wed, 22 Jun 2022 04:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220616_284/1655360522938tkzK8_JPEG/upload_99440223284569276393022b8-280f-4c9d-af39-0ee5e80d4c0b.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
