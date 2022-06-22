@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 08:52:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 09:45:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[이지 지원이의 행복 고민 상담소💕]]></title>
-            <link>https://m.vlive.tv/video/286205</link>
-            <guid>https://m.vlive.tv/video/286205</guid>
-            <pubDate>Wed, 22 Jun 2022 06:51:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">ICHILLIN’</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220622_192/1655877609625TKF1J_JPEG/upload_99954431600278432c93fcf6c-2a99-44c4-b1d4-fa2d41da9afb.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[한빈] 한빈이의 생일파티에 초대합니다🎂]]></title>
             <link>https://m.vlive.tv/video/286048</link>
@@ -26,6 +16,16 @@
 										오후 12:00</span>
 										<span class="txt">MAJOR9 (메이저나인)</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220620_132/1655709421535jxXjW_JPEG/upload_71978972695281437cacc9d83-6b6c-4b8c-ae79-32d1ac860cb7.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이지 지원이의 행복 고민 상담소💕]]></title>
+            <link>https://m.vlive.tv/video/286205</link>
+            <guid>https://m.vlive.tv/video/286205</guid>
+            <pubDate>Wed, 22 Jun 2022 06:51:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 12:00</span>
+										<span class="txt">ICHILLIN’</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220622_192/1655877609625TKF1J_JPEG/upload_99954431600278432c93fcf6c-2a99-44c4-b1d4-fa2d41da9afb.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
@@ -56,6 +56,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220616_114/1655355516333996M5_JPEG/upload_994352028203907129ec3d7af-11b4-4be3-9e9c-d66f035c5ebd.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop] Stray Quiz]]></title>
+            <link>https://m.vlive.tv/video/285793</link>
+            <guid>https://m.vlive.tv/video/285793</guid>
+            <pubDate>Wed, 22 Jun 2022 09:44:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220616_116/1655360788354Qzcon_JPEG/upload_994404898872447244a90bfc8-ed66-4de3-a1c3-dad8dcb14083.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
