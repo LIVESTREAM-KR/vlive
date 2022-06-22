@@ -4,7 +4,7 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 15:47:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 17:02:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,23 @@
             <guid>https://www.vlive.tv/video/286268</guid>
             <pubDate>Wed, 22 Jun 2022 15:46:19 GMT</pubDate>
             <content:encoded><![CDATA[AB6IX]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220623_287/1655915164971LTGlP_JPEG/6335e92a-f247-11ec-b77c-48df379cca40_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[호주니와 수요일 보내기]]></title>
+            <link>https://www.vlive.tv/video/286254</link>
+            <guid>https://www.vlive.tv/video/286254</guid>
+            <pubDate>Wed, 22 Jun 2022 13:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[F.able (페이블)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220622_115/1655901064399bFRBx_JPEG/168689465027383404ecdff0a8-0b0d-4b49-9c28-3b70435447af.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Again KISU ! Run !]]></title>
+            <link>https://www.vlive.tv/video/286269</link>
+            <guid>https://www.vlive.tv/video/286269</guid>
+            <pubDate>Wed, 22 Jun 2022 17:00:59 GMT</pubDate>
+            <content:encoded><![CDATA[KISU]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220623_13/1655912958369JISiX_JPEG/1687884763565300621a8cea74-e1cf-40aa-9c47-479d82270470.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Radio Hama] 운동 후 씻기 전 진짜 잠깐]]></title>
@@ -165,14 +182,6 @@
             <pubDate>Wed, 22 Jun 2022 13:14:00 GMT</pubDate>
             <content:encoded><![CDATA[OH MY GIRL]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220622_270/1655900301311utaJY_JPEG/1687759012752900067749af1e-16a4-4b0d-a4c3-323b8fc76bc7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[호주니와 수요일 보내기]]></title>
-            <link>https://www.vlive.tv/video/286254</link>
-            <guid>https://www.vlive.tv/video/286254</guid>
-            <pubDate>Wed, 22 Jun 2022 13:14:00 GMT</pubDate>
-            <content:encoded><![CDATA[F.able (페이블)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220622_115/1655901064399bFRBx_JPEG/168689465027383404ecdff0a8-0b0d-4b49-9c28-3b70435447af.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다시💕]]></title>
@@ -397,14 +406,6 @@
             <pubDate>Wed, 22 Jun 2022 09:43:21 GMT</pubDate>
             <content:encoded><![CDATA[DREAMCATCHER]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220621_124/1655791431548cPE1x_JPEG/upload_9987114905561551553fc8126-b7a0-4e60-b519-77ac0f31be44.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[좋아하면 키스 해도 돼? [집에 가기 싫어서] EP2]]></title>
-            <link>https://www.vlive.tv/video/286043</link>
-            <guid>https://www.vlive.tv/video/286043</guid>
-            <pubDate>Wed, 22 Jun 2022 09:43:21 GMT</pubDate>
-            <content:encoded><![CDATA[콬TV (WHYNOT)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220620_230/16557067156773eVc2_JPEG/upload_719763115940589647a32e028-60e2-43a7-bb16-a20b57237598.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

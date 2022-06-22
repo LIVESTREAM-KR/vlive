@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 15:47:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 17:02:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,23 @@
             <guid>https://www.vlive.tv/video/286268</guid>
             <pubDate>Wed, 22 Jun 2022 15:46:28 GMT</pubDate>
             <content:encoded><![CDATA[AB6IX]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/286268/thumb?type=f228_128" length="0" type="image//live/286268/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220623_287/1655915164971LTGlP_JPEG/6335e92a-f247-11ec-b77c-48df379cca40_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[호주니와 수요일 보내기]]></title>
+            <link>https://www.vlive.tv/video/286254</link>
+            <guid>https://www.vlive.tv/video/286254</guid>
+            <pubDate>Wed, 22 Jun 2022 17:01:08 GMT</pubDate>
+            <content:encoded><![CDATA[F.able (페이블)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220622_115/1655901064399bFRBx_JPEG/168689465027383404ecdff0a8-0b0d-4b49-9c28-3b70435447af.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Again KISU ! Run !]]></title>
+            <link>https://www.vlive.tv/video/286269</link>
+            <guid>https://www.vlive.tv/video/286269</guid>
+            <pubDate>Wed, 22 Jun 2022 17:01:08 GMT</pubDate>
+            <content:encoded><![CDATA[KISU]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220623_13/1655912958369JISiX_JPEG/1687884763565300621a8cea74-e1cf-40aa-9c47-479d82270470.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Radio Hama] 운동 후 씻기 전 진짜 잠깐]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 22 Jun 2022 13:57:27 GMT</pubDate>
             <content:encoded><![CDATA[EVERGLOW (에버글로우)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220622_134/1655903839262sX5mS_JPEG/168779439252304199268facfb-7aa9-4bfc-b8fa-23fab5dc8e86.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사클 라이브💙🎤🎵]]></title>
-            <link>https://www.vlive.tv/video/286247</link>
-            <guid>https://www.vlive.tv/video/286247</guid>
-            <pubDate>Wed, 22 Jun 2022 14:41:39 GMT</pubDate>
-            <content:encoded><![CDATA[ONEWE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220622_106/1655906542801sPKpE_JPEG/0b830d43-f231-11ec-ba01-505dac8c3607_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레미랑 영상통화🐸📞]]></title>
-            <link>https://www.vlive.tv/video/286259</link>
-            <guid>https://www.vlive.tv/video/286259</guid>
-            <pubDate>Wed, 22 Jun 2022 13:14:10 GMT</pubDate>
-            <content:encoded><![CDATA[Cherry Bullet]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220622_183/16559035711675pGjb_JPEG/1686919608250937030c49287e-12a6-4300-ba15-cff1c453e861.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
