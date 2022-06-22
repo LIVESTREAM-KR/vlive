@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 05:44:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 06:51:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,6 +16,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220617_56/16554642493545i9Fi_JPEG/upload_717338357622911888d6de560-413a-4ffc-ab6b-1631e42fffbb.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이지 지원이의 행복 고민 상담소💕]]></title>
+            <link>https://m.vlive.tv/video/286205</link>
+            <guid>https://m.vlive.tv/video/286205</guid>
+            <pubDate>Wed, 22 Jun 2022 06:51:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">ICHILLIN’</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220622_192/1655877609625TKF1J_JPEG/upload_99954431600278432c93fcf6c-2a99-44c4-b1d4-fa2d41da9afb.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[한빈] 한빈이의 생일파티에 초대합니다🎂]]></title>
@@ -46,16 +56,6 @@
 										오전 4:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220616_41/1655360568434J01Qh_JPEG/upload_99440278726586246873ef66c-ff24-443d-85b5-29ac76629fcd.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arirang Radio (Sound K / JENYER 전지윤)]]></title>
-            <link>https://m.vlive.tv/video/285777</link>
-            <guid>https://m.vlive.tv/video/285777</guid>
-            <pubDate>Wed, 22 Jun 2022 02:51:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220616_114/1655355516333996M5_JPEG/upload_994352028203907129ec3d7af-11b4-4be3-9e9c-d66f035c5ebd.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
