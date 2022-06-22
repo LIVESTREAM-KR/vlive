@@ -4,17 +4,9 @@
         <title>V LIVE 모바일 ─ CHARTS </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 13:15:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 13:58:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[ㅍㅍ]]></title>
-            <link>https://m.vlive.tv/video/286160</link>
-            <guid>https://m.vlive.tv/video/286160</guid>
-            <pubDate>Tue, 21 Jun 2022 13:59:58 GMT</pubDate>
-            <content:encoded><![CDATA[TWICE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220621_191/16558175219736LX8i_JPEG/17bdefd9-f164-11ec-946a-d4f5ef58ac88_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[이 뭐선일이고]]></title>
             <link>https://m.vlive.tv/video/285758</link>
@@ -24,12 +16,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220616_212/1655309373778nvn64_JPEG/upload_71578974998017374f63e7056-864b-48cf-bc34-ff66f19958b7.jpeg?type=f640_360_wp" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[녹화 끝]]></title>
-            <link>https://m.vlive.tv/video/285568</link>
-            <guid>https://m.vlive.tv/video/285568</guid>
-            <pubDate>Wed, 22 Jun 2022 13:14:46 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220613_223/1655124508596EBTYM_JPEG/upload_713941094576705450304fc2e-1911-4d11-9b59-bb4be77a0972.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+            <title><![CDATA[ㅍㅍ]]></title>
+            <link>https://m.vlive.tv/video/286160</link>
+            <guid>https://m.vlive.tv/video/286160</guid>
+            <pubDate>Tue, 21 Jun 2022 13:59:58 GMT</pubDate>
+            <content:encoded><![CDATA[TWICE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220621_191/16558175219736LX8i_JPEG/17bdefd9-f164-11ec-946a-d4f5ef58ac88_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다시💕]]></title>
+            <link>https://m.vlive.tv/video/286249</link>
+            <guid>https://m.vlive.tv/video/286249</guid>
+            <pubDate>Wed, 22 Jun 2022 13:58:05 GMT</pubDate>
+            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220622_203/1655900544425jNaqM_JPEG/6ef2a436-f225-11ec-8bba-505dac8c381b_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
