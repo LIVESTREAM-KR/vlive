@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 17:02:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 17:46:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -464,11 +464,19 @@
             <enclosure url="https://v-phinf.pstatic.net/20220624_221/1655999091094Ewidp_JPEG/45333973-f30a-11ec-9fa8-505dacfba98a_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[인사🌧]]></title>
+            <link>https://www.vlive.tv/video/286335</link>
+            <guid>https://www.vlive.tv/video/286335</guid>
+            <pubDate>Thu, 23 Jun 2022 17:46:26 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:36]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/286335/thumb?type=f228_128" length="0" type="image//live/286335/thumb"/>
+        </item>
+        <item>
             <title><![CDATA[RAINING DAY 🌧🌂]]></title>
             <link>https://www.vlive.tv/video/286334</link>
             <guid>https://www.vlive.tv/video/286334</guid>
             <pubDate>Thu, 23 Jun 2022 17:01:30 GMT</pubDate>
-            <content:encoded><![CDATA[오후 4:16]]></content:encoded>
+            <content:encoded><![CDATA[오후 5:41]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220624_109/1656000986277R9Vz0_JPEG/16878935727192359709162de5-0791-4ab8-b9df-644d2cecaa65.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>

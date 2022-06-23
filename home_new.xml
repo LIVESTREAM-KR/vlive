@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 17:02:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 17:46:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 23 Jun 2022 17:00:37 GMT</pubDate>
             <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220624_109/1656000986277R9Vz0_JPEG/16878935727192359709162de5-0791-4ab8-b9df-644d2cecaa65.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인사🌧]]></title>
+            <link>https://www.vlive.tv/video/286335</link>
+            <guid>https://www.vlive.tv/video/286335</guid>
+            <pubDate>Thu, 23 Jun 2022 17:45:40 GMT</pubDate>
+            <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/286335/thumb?type=f228_128" length="0" type="image//live/286335/thumb"/>
         </item>
         <item>
             <title><![CDATA[비가 싫다....]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 23 Jun 2022 13:21:11 GMT</pubDate>
             <content:encoded><![CDATA[멋진녀석들 (GreatGuys)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220623_99/1655986165655rN2fd_JPEG/1688616965856226685559edfa-114f-477a-8716-b1d63cdd3d4e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안뇽]]></title>
-            <link>https://www.vlive.tv/video/286320</link>
-            <guid>https://www.vlive.tv/video/286320</guid>
-            <pubDate>Thu, 23 Jun 2022 13:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[멋진녀석들 (GreatGuys)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220623_222/1655985930508znhnG_JPEG/16877446650092952811771c63-4ea8-454a-91f0-2a2189e4899d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
