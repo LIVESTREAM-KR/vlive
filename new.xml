@@ -4,9 +4,24 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 22:43:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 23:43:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[참새의 아침 라디오]]></title>
+            <link>https://www.vlive.tv/video/286337</link>
+            <guid>https://www.vlive.tv/video/286337</guid>
+            <pubDate>Thu, 23 Jun 2022 23:42:09 GMT</pubDate>
+            <content:encoded><![CDATA[AB6IX]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단(BTS) RM 따라 미술관 가자-성북구립미술관 '회향' @rkive [아트 in K팝]]]></title>
+            <link>https://www.vlive.tv/video/286333</link>
+            <guid>https://www.vlive.tv/video/286333</guid>
+            <pubDate>Thu, 23 Jun 2022 23:42:09 GMT</pubDate>
+            <content:encoded><![CDATA[Ktimes]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220624_256/1655999621996XKawg_PNG/upload_1000788369460713328bcfff17-7e38-47ff-87b5-98b3e27db2ab.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[잠 못드는 밤에(비오는 어느날이 오늘이네?)]]></title>
             <link>https://www.vlive.tv/video/286336</link>
@@ -390,22 +405,6 @@
             <pubDate>Thu, 23 Jun 2022 07:40:58 GMT</pubDate>
             <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220616_114/1655355516333996M5_JPEG/upload_994352028203907129ec3d7af-11b4-4be3-9e9c-d66f035c5ebd.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['외계+인' 김우빈(Kim woo bin)·김태리(Kim Tae ri) "자리 좀 바꿔주세요~" 무슨 일?]]></title>
-            <link>https://www.vlive.tv/video/286284</link>
-            <guid>https://www.vlive.tv/video/286284</guid>
-            <pubDate>Thu, 23 Jun 2022 06:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[mydaily]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220623_96/16559655995206Wb7Q_JPEG/upload_72235202643466098e0fd3b41-d2b2-4c77-b0bd-126e36b6918e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['외계+인' 최동훈 감독 "소지섭, 왜 소간지로 불리는지 알겠더라" (김우빈 Kim woobin &소지섭 So Jiseob 캐스팅 이유)]]></title>
-            <link>https://www.vlive.tv/video/286283</link>
-            <guid>https://www.vlive.tv/video/286283</guid>
-            <pubDate>Thu, 23 Jun 2022 06:51:00 GMT</pubDate>
-            <content:encoded><![CDATA[mydaily]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220623_43/16559654845410vLrz_JPEG/upload_7223508855325615437df39d3-f02c-4c1c-b91a-c6401a77434f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

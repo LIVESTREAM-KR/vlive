@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 22:43:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 23:43:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[참새의 아침 라디오]]></title>
+            <link>https://www.vlive.tv/video/286337</link>
+            <guid>https://www.vlive.tv/video/286337</guid>
+            <pubDate>Thu, 23 Jun 2022 23:42:17 GMT</pubDate>
+            <content:encoded><![CDATA[AB6IX]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/286337/thumb?type=f228_128" length="0" type="image//live/286337/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단(BTS) RM 따라 미술관 가자-성북구립미술관 '회향' @rkive [아트 in K팝]]]></title>
+            <link>https://www.vlive.tv/video/286333</link>
+            <guid>https://www.vlive.tv/video/286333</guid>
+            <pubDate>Thu, 23 Jun 2022 23:42:17 GMT</pubDate>
+            <content:encoded><![CDATA[Ktimes]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220624_256/1655999621996XKawg_PNG/upload_1000788369460713328bcfff17-7e38-47ff-87b5-98b3e27db2ab.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[잠 못드는 밤에(비오는 어느날이 오늘이네?)]]></title>
             <link>https://www.vlive.tv/video/286336</link>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 23 Jun 2022 13:56:32 GMT</pubDate>
             <content:encoded><![CDATA[ONEWE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220623_228/1655990630567fMCg5_JPEG/6fc1c90b-f2f6-11ec-9d93-d4f5ef590144_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[의문의 실험실에 갇혀버린 드리핀의 운명은? | DRIPPIN's Chemi Lab]]></title>
-            <link>https://www.vlive.tv/video/286319</link>
-            <guid>https://www.vlive.tv/video/286319</guid>
-            <pubDate>Thu, 23 Jun 2022 13:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[DRIPPIN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220623_67/1655987127873Uy2xB_JPEG/upload_7225520023941513963202b20-ecd2-4b49-a797-3b99cb1dcb09.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mini Mini Jimini 🌛]]></title>
-            <link>https://www.vlive.tv/video/286318</link>
-            <guid>https://www.vlive.tv/video/286318</guid>
-            <pubDate>Thu, 23 Jun 2022 13:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[Weeekly(위클리)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220623_187/16559887052460MpNp_JPEG/62259406-f2f2-11ec-81b1-505dac8c3639_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
