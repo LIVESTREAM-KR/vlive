@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 09:46:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 10:47:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[요리킹 조리킹🍴]]></title>
-            <link>https://m.vlive.tv/video/286276</link>
-            <guid>https://m.vlive.tv/video/286276</guid>
-            <pubDate>Thu, 23 Jun 2022 04:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">YOUNITE</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220623_94/1655953049592Ehi8F_JPEG/upload_72222080358292511c9cdee1e-3361-421b-b556-c47e6babb095.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
             <link>https://m.vlive.tv/video/285787</link>
@@ -56,6 +46,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220616_74/16553608260916h5PP_JPEG/upload_7163041469805155790755b41-7f8e-4faa-a115-36784e9116e2.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
+            <link>https://m.vlive.tv/video/286183</link>
+            <guid>https://m.vlive.tv/video/286183</guid>
+            <pubDate>Thu, 23 Jun 2022 10:46:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220622_267/165587055323147Qkh_JPEG/upload_7214008652380004299aaba73-68c0-46f3-b437-58d4e987082a.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
