@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 02:50:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 04:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,11 +48,19 @@
             <enclosure url="https://v-phinf.pstatic.net/20220622_236/1655902485583X4cjv_JPEG/34d137c6-f229-11ec-928a-48df37ae3dc4_01.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[위아이(WEi)의 애창곡은 뭘까? #4]]></title>
+            <link>https://www.vlive.tv/video/286214</link>
+            <guid>https://www.vlive.tv/video/286214</guid>
+            <pubDate>Thu, 23 Jun 2022 04:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[오전 3:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220622_254/1655881684445bXOBv_JPEG/upload_99961347145840736fb8cd1f4-919e-4d06-99aa-b750397b89e0.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Arirang Radio/K-Poppin'] Singlish with DKB]]></title>
             <link>https://www.vlive.tv/video/285788</link>
             <guid>https://www.vlive.tv/video/285788</guid>
             <pubDate>Thu, 23 Jun 2022 02:50:07 GMT</pubDate>
-            <content:encoded><![CDATA[오전 4:00]]></content:encoded>
+            <content:encoded><![CDATA[오전 3:50]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220616_41/1655360568434J01Qh_JPEG/upload_99440278726586246873ef66c-ff24-443d-85b5-29ac76629fcd.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -86,6 +94,14 @@
             <pubDate>Thu, 23 Jun 2022 02:50:07 GMT</pubDate>
             <content:encoded><![CDATA[오전 8:30]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220622_254/1655875635540p1lXO_JPEG/upload_999553519942123367ad87bad-70e8-41ad-9795-381c2bbe0ad0.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요리킹 조리킹🍴]]></title>
+            <link>https://www.vlive.tv/video/286276</link>
+            <guid>https://www.vlive.tv/video/286276</guid>
+            <pubDate>Thu, 23 Jun 2022 04:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[오전 10:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220623_94/1655953049592Ehi8F_JPEG/upload_72222080358292511c9cdee1e-3361-421b-b556-c47e6babb095.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
