@@ -4,7 +4,7 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 04:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 05:04:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 23 Jun 2022 04:10:34 GMT</pubDate>
             <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220616_41/1655360568434J01Qh_JPEG/upload_99440278726586246873ef66c-ff24-443d-85b5-29ac76629fcd.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / JENYER 전지윤)]]></title>
+            <link>https://www.vlive.tv/video/285777</link>
+            <guid>https://www.vlive.tv/video/285777</guid>
+            <pubDate>Thu, 23 Jun 2022 05:03:17 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220616_114/1655355516333996M5_JPEG/upload_994352028203907129ec3d7af-11b4-4be3-9e9c-d66f035c5ebd.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[위아이(WEi)의 애창곡은 뭘까? #4]]></title>
@@ -398,14 +406,6 @@
             <pubDate>Wed, 22 Jun 2022 10:45:42 GMT</pubDate>
             <content:encoded><![CDATA[AB6IX]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220622_25/1655874309451X6zVY_JPEG/upload_99954038061519112a2586c32-9932-401a-9852-bd19525d5d18.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[TRI.BE COVER] 소녀시대 ‘다시 만난 세계’ Dance Cover]]></title>
-            <link>https://www.vlive.tv/video/286147</link>
-            <guid>https://www.vlive.tv/video/286147</guid>
-            <pubDate>Wed, 22 Jun 2022 10:45:42 GMT</pubDate>
-            <content:encoded><![CDATA[TRI.BE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220621_228/16558053050214yYmp_JPEG/upload_720749053033718040265714a-cfa6-4332-b72d-4c88b1a6bd4b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
