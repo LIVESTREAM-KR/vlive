@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 13:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 13:57:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -389,7 +389,6 @@
             <guid>https://www.vlive.tv/video/286324</guid>
             <pubDate>Thu, 23 Jun 2022 13:22:02 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:01]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/286324/thumb?type=f228_128" length="0" type="image//live/286324/thumb"/>
         </item>
         <item>
             <title><![CDATA[진석이의 별빛라디오⭐️]]></title>
@@ -398,6 +397,30 @@
             <pubDate>Thu, 23 Jun 2022 13:22:02 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:15]]></content:encoded>
             <enclosure url="https://vlive-thumb.pstatic.net/live/286325/thumb?type=f228_128" length="0" type="image//live/286325/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[피자먹자🍕💛🌧]]></title>
+            <link>https://www.vlive.tv/video/286316</link>
+            <guid>https://www.vlive.tv/video/286316</guid>
+            <pubDate>Thu, 23 Jun 2022 13:57:15 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:23]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220623_228/1655990630567fMCg5_JPEG/6fc1c90b-f2f6-11ec-9d93-d4f5ef590144_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이달의 소녀 측, 츄 이적설에 강경대응 예고 "선처 없다" (LOONA CHU)]]></title>
+            <link>https://www.vlive.tv/video/286326</link>
+            <guid>https://www.vlive.tv/video/286326</guid>
+            <pubDate>Thu, 23 Jun 2022 13:57:15 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:26]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220623_211/1655990774279L2Uwu_JPEG/upload_1000704929809660920c6bdb65-b78d-41ef-8ead-20ce89a79c30.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[상혁 (aka 1+1)]]></title>
+            <link>https://www.vlive.tv/video/286327</link>
+            <guid>https://www.vlive.tv/video/286327</guid>
+            <pubDate>Thu, 23 Jun 2022 13:57:15 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:28]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220623_60/1655990923370dfn3a_JPEG/49608699629157397e773294a-095a-4026-8a8d-fda1532bfa4c.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
