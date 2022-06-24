@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 15:49:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 17:01:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -710,14 +710,6 @@
             <pubDate>Fri, 24 Jun 2022 15:48:50 GMT</pubDate>
             <content:encoded><![CDATA[오후 2:59]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220624_168/16560827596723sPAV_JPEG/upload_10016247245873641460c53979-9157-4b13-b55c-18e9261f4f81.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A NIGHT WALKING 🏃🏻]]></title>
-            <link>https://www.vlive.tv/video/286432</link>
-            <guid>https://www.vlive.tv/video/286432</guid>
-            <pubDate>Fri, 24 Jun 2022 15:48:50 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:42]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/286432/thumb?type=f228_128" length="0" type="image//live/286432/thumb"/>
         </item>
     </channel>
 </rss>

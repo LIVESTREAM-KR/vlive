@@ -4,17 +4,9 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 15:49:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 17:01:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[A NIGHT WALKING 🏃🏻]]></title>
-            <link>https://www.vlive.tv/video/286432</link>
-            <guid>https://www.vlive.tv/video/286432</guid>
-            <pubDate>Fri, 24 Jun 2022 15:48:03 GMT</pubDate>
-            <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/286432/thumb?type=f228_128" length="0" type="image//live/286432/thumb"/>
-        </item>
         <item>
             <title><![CDATA[[선공개] 통으로 듬성듬성~풍덩~! 매운탕 끓이는 빽가와 불안한 신지😱, MBC 220627 방송]]></title>
             <link>https://www.vlive.tv/video/286429</link>
@@ -126,6 +118,14 @@
             <pubDate>Fri, 24 Jun 2022 13:21:52 GMT</pubDate>
             <content:encoded><![CDATA[Cherry Bullet]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220624_286/1656071379337u2hOT_JPEG/168947043301015500dcb8f5d9-402c-494f-8b29-591ca971aab0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#떠누야생일축하해]]></title>
+            <link>https://www.vlive.tv/video/286409</link>
+            <guid>https://www.vlive.tv/video/286409</guid>
+            <pubDate>Fri, 24 Jun 2022 17:00:31 GMT</pubDate>
+            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220624_162/16560756782910ukDo_JPEG/upload_100155402712116343ed1bfb23-c9c6-4a45-9d3d-6054db08d70b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
