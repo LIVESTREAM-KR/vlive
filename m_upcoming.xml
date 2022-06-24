@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 08:50:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 09:43:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -66,6 +66,26 @@
 										오전 10:00</span>
 										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220624_119/1656046390182YIPV7_PNG/upload_1001261022699750197c3052b8-db76-439a-b4b0-5dd9c078334a.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Radio'n Us / THE VANE 더베인)]]></title>
+            <link>https://m.vlive.tv/video/286294</link>
+            <guid>https://m.vlive.tv/video/286294</guid>
+            <pubDate>Fri, 24 Jun 2022 09:43:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220623_31/1655969117040tv0Ud_JPEG/upload_722386888369556065aaf153e-2e93-4af0-8158-98f107e70969.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
+            <link>https://m.vlive.tv/video/286184</link>
+            <guid>https://m.vlive.tv/video/286184</guid>
+            <pubDate>Fri, 24 Jun 2022 09:43:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220622_175/1655870585643Db7yq_JPEG/upload_9995029535823702286fe5e22-22d7-4522-ae1e-0523922e247e.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
