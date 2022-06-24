@@ -4,9 +4,16 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 20:44:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 21:43:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리노리방😺미국]]></title>
+            <link>https://www.vlive.tv/video/286435</link>
+            <guid>https://www.vlive.tv/video/286435</guid>
+            <pubDate>Fri, 24 Jun 2022 21:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[A NIGHT WALKING 🏃🏻]]></title>
             <link>https://www.vlive.tv/video/286432</link>
@@ -398,14 +405,6 @@
             <pubDate>Fri, 24 Jun 2022 08:49:24 GMT</pubDate>
             <content:encoded><![CDATA[멋진녀석들 (GreatGuys)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220624_97/1656059713146nn57J_JPEG/1689352951414144899103890f-0801-42ec-906f-c133d541c8fe.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[마마무] '4seasons' MOOMOO Stay Teaser : 우리 호텔 영업을 중단합니다.']]></title>
-            <link>https://www.vlive.tv/video/286371</link>
-            <guid>https://www.vlive.tv/video/286371</guid>
-            <pubDate>Fri, 24 Jun 2022 09:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[MAMAMOO]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220624_111/1656055357653hgqeg_JPEG/upload_7232494513943543925071e7b-7de7-4a3b-af1c-a18964acb44c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

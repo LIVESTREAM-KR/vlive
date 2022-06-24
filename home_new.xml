@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 20:44:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 21:43:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리노리방😺미국]]></title>
+            <link>https://www.vlive.tv/video/286435</link>
+            <guid>https://www.vlive.tv/video/286435</guid>
+            <pubDate>Fri, 24 Jun 2022 21:41:43 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/286435/thumb?type=f228_128" length="0" type="image//live/286435/thumb"/>
+        </item>
         <item>
             <title><![CDATA[A NIGHT WALKING 🏃🏻]]></title>
             <link>https://www.vlive.tv/video/286432</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 24 Jun 2022 13:21:52 GMT</pubDate>
             <content:encoded><![CDATA[EVERGLOW (에버글로우)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220624_129/165607573374948FEw_JPEG/7e17a58d-f3bd-11ec-8863-48df379cc9e4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뽀룸 뽀라이브🤟🏻💕]]></title>
-            <link>https://www.vlive.tv/video/286413</link>
-            <guid>https://www.vlive.tv/video/286413</guid>
-            <pubDate>Fri, 24 Jun 2022 13:21:52 GMT</pubDate>
-            <content:encoded><![CDATA[Cherry Bullet]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220624_286/1656071379337u2hOT_JPEG/168947043301015500dcb8f5d9-402c-494f-8b29-591ca971aab0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
