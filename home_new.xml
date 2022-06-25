@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 07:40:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 08:46:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.vlive.tv/video/286451</guid>
             <pubDate>Sat, 25 Jun 2022 07:39:26 GMT</pubDate>
             <content:encoded><![CDATA[DKZ]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/286451/thumb?type=f228_128" length="0" type="image//live/286451/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220625_31/1656146438857D0u1D_JPEG/805daae4-f461-11ec-8055-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[🐶🐧]]></title>
@@ -22,6 +22,22 @@
             <pubDate>Sat, 25 Jun 2022 07:39:26 GMT</pubDate>
             <content:encoded><![CDATA[E'LAST]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220625_23/1656141211764BKv8w_JPEG/49758988037940227f85449da-5032-4b46-95b7-e436b3c8b30d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하이이이]]></title>
+            <link>https://www.vlive.tv/video/286452</link>
+            <guid>https://www.vlive.tv/video/286452</guid>
+            <pubDate>Sat, 25 Jun 2022 08:45:25 GMT</pubDate>
+            <content:encoded><![CDATA[핑크판타지 / PINKFANTASY]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220625_216/1656144927191AGbiu_JPEG/168933298187036374ee19f394-3f1e-48e2-bfd1-d4827792214b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WINNER - COMEBACK TRAILER MAKING FILM]]></title>
+            <link>https://www.vlive.tv/video/286450</link>
+            <guid>https://www.vlive.tv/video/286450</guid>
+            <pubDate>Sat, 25 Jun 2022 08:45:25 GMT</pubDate>
+            <content:encoded><![CDATA[WINNER]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220625_98/1656141815170skbeE_JPEG/upload_1002211769133181995a7bb32f-4bce-4ed4-9dba-49316f3e26b9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ready for showcase!!]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Sat, 25 Jun 2022 02:51:42 GMT</pubDate>
             <content:encoded><![CDATA[MBC 예능]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220625_231/1656118439590SiIQ1_JPEG/upload_1001981713119165323aaacd26-466a-46c8-97c4-d82bdac452c5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[선공개] 본격! G방의 데뷔곡💕 보컬 어벤져스가 부릅니다 <그때 그 순간 그대로>🎼, MBC 220625]]></title>
-            <link>https://www.vlive.tv/video/286436</link>
-            <guid>https://www.vlive.tv/video/286436</guid>
-            <pubDate>Sat, 25 Jun 2022 02:51:42 GMT</pubDate>
-            <content:encoded><![CDATA[MBC 예능]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220625_203/1656116478453lPBSN_JPEG/upload_100196209178741130304efe2c-a97d-451f-8548-b76540094b32.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리노리방😺미국]]></title>
-            <link>https://www.vlive.tv/video/286435</link>
-            <guid>https://www.vlive.tv/video/286435</guid>
-            <pubDate>Fri, 24 Jun 2022 21:41:43 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220625_116/1656108668474D2wq8_JPEG/upload_100188401645078379f80bdf5c-4b85-4345-b03b-a9f699075481.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
