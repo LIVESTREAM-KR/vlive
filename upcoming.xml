@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 04:08:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 04:55:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,11 +56,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220624_140/16560679946480cd2D_PNG/upload_1001475886715849346d1f695b-53c3-4ffc-8b16-9466224aa8d7.png?type=f228_128" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[하루의 시작도 마무리도 에이비식스💕💙]]></title>
+            <link>https://www.vlive.tv/video/286439</link>
+            <guid>https://www.vlive.tv/video/286439</guid>
+            <pubDate>Sat, 25 Jun 2022 04:55:29 GMT</pubDate>
+            <content:encoded><![CDATA[오전 4:09]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220625_238/1656130161912TQ4Hu_JPEG/0ff3e5dd-f43c-11ec-8055-505dac8c385b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[상혁인데요 다원이에요]]></title>
             <link>https://www.vlive.tv/video/286440</link>
             <guid>https://www.vlive.tv/video/286440</guid>
             <pubDate>Sat, 25 Jun 2022 04:07:51 GMT</pubDate>
-            <content:encoded><![CDATA[오전 3:58]]></content:encoded>
+            <content:encoded><![CDATA[오전 4:13]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220625_73/1656130399731lioT9_JPEG/e5dd18b9-f43c-11ec-928a-48df37ae3dc4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

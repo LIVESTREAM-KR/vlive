@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 04:08:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 04:55:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,15 @@
             <guid>https://www.vlive.tv/video/286440</guid>
             <pubDate>Sat, 25 Jun 2022 04:07:00 GMT</pubDate>
             <content:encoded><![CDATA[SF9]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/286440/thumb?type=f228_128" length="0" type="image//live/286440/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220625_73/1656130399731lioT9_JPEG/e5dd18b9-f43c-11ec-928a-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하루의 시작도 마무리도 에이비식스💕💙]]></title>
+            <link>https://www.vlive.tv/video/286439</link>
+            <guid>https://www.vlive.tv/video/286439</guid>
+            <pubDate>Sat, 25 Jun 2022 04:54:43 GMT</pubDate>
+            <content:encoded><![CDATA[AB6IX]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220625_238/1656130161912TQ4Hu_JPEG/0ff3e5dd-f43c-11ec-8055-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[ 데니안 ] tvN '남편의 죽음을 알리지 마라' 미공개 Full 영상]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 24 Jun 2022 15:48:03 GMT</pubDate>
             <content:encoded><![CDATA[MBC 예능]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220624_12/1656082083375ao555_JPEG/upload_100161815592045651ade7f88f-8d38-48c6-ad82-cf409247cae5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너에게 들려주는 자장가🌙]]></title>
-            <link>https://www.vlive.tv/video/286422</link>
-            <guid>https://www.vlive.tv/video/286422</guid>
-            <pubDate>Fri, 24 Jun 2022 15:48:03 GMT</pubDate>
-            <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220624_96/16560820284326GEdO_JPEG/e8986f07-f3ca-11ec-946a-d4f5ef58ac88_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
