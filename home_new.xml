@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 06:49:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 07:40:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오늘 누구 생일이게요~]]></title>
+            <link>https://www.vlive.tv/video/286451</link>
+            <guid>https://www.vlive.tv/video/286451</guid>
+            <pubDate>Sat, 25 Jun 2022 07:39:26 GMT</pubDate>
+            <content:encoded><![CDATA[DKZ]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/286451/thumb?type=f228_128" length="0" type="image//live/286451/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[🐶🐧]]></title>
+            <link>https://www.vlive.tv/video/286449</link>
+            <guid>https://www.vlive.tv/video/286449</guid>
+            <pubDate>Sat, 25 Jun 2022 07:39:26 GMT</pubDate>
+            <content:encoded><![CDATA[E'LAST]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220625_23/1656141211764BKv8w_JPEG/49758988037940227f85449da-5032-4b46-95b7-e436b3c8b30d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ready for showcase!!]]></title>
             <link>https://www.vlive.tv/video/286447</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 24 Jun 2022 21:41:43 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220625_116/1656108668474D2wq8_JPEG/upload_100188401645078379f80bdf5c-4b85-4345-b03b-a9f699075481.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A NIGHT WALKING 🏃🏻]]></title>
-            <link>https://www.vlive.tv/video/286432</link>
-            <guid>https://www.vlive.tv/video/286432</guid>
-            <pubDate>Fri, 24 Jun 2022 17:44:04 GMT</pubDate>
-            <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220625_174/1656090124740QpKKb_JPEG/e0fc19d1-f3de-11ec-8863-48df379cc9e4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[선공개] 통으로 듬성듬성~풍덩~! 매운탕 끓이는 빽가와 불안한 신지😱, MBC 220627 방송]]></title>
-            <link>https://www.vlive.tv/video/286429</link>
-            <guid>https://www.vlive.tv/video/286429</guid>
-            <pubDate>Fri, 24 Jun 2022 15:48:03 GMT</pubDate>
-            <content:encoded><![CDATA[MBC 예능]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220624_168/16560827596723sPAV_JPEG/upload_10016247245873641460c53979-9157-4b13-b55c-18e9261f4f81.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
