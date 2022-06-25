@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 19:41:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 20:44:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -374,6 +374,14 @@
             <pubDate>Sat, 25 Jun 2022 16:55:07 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:49]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220625_143/1656162474903Yj4X8_JPEG/1689508688754393985106a5b5-e0f7-4a77-969b-5681dabeec30.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PARIS IN THE BOYZ]]></title>
+            <link>https://www.vlive.tv/video/286482</link>
+            <guid>https://www.vlive.tv/video/286482</guid>
+            <pubDate>Sat, 25 Jun 2022 20:43:54 GMT</pubDate>
+            <content:encoded><![CDATA[오후 8:41]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220626_294/1656189707021UlEkv_JPEG/18d7ae79-f4c7-11ec-8bba-505dac8c381b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

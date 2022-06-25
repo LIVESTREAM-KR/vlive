@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 19:41:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 20:44:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[PARIS IN THE BOYZ]]></title>
+            <link>https://www.vlive.tv/video/286482</link>
+            <guid>https://www.vlive.tv/video/286482</guid>
+            <pubDate>Sat, 25 Jun 2022 20:42:59 GMT</pubDate>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220626_294/1656189707021UlEkv_JPEG/18d7ae79-f4c7-11ec-8bba-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[토요일도 호준✌🏻]]></title>
             <link>https://www.vlive.tv/video/286473</link>
@@ -398,14 +406,6 @@
             <pubDate>Fri, 24 Jun 2022 15:47:53 GMT</pubDate>
             <content:encoded><![CDATA[MBC 예능]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220624_168/16560827596723sPAV_JPEG/upload_10016247245873641460c53979-9157-4b13-b55c-18e9261f4f81.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠들기전에 잠깐!!!]]></title>
-            <link>https://www.vlive.tv/video/286427</link>
-            <guid>https://www.vlive.tv/video/286427</guid>
-            <pubDate>Fri, 24 Jun 2022 14:40:25 GMT</pubDate>
-            <content:encoded><![CDATA[ONEUS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220624_178/1656082461798mqIV8_JPEG/46eff93e-f3cd-11ec-8e34-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
