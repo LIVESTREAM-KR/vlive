@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 04:55:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 05:41:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,30 @@
             <pubDate>Sat, 25 Jun 2022 04:07:51 GMT</pubDate>
             <content:encoded><![CDATA[오전 4:13]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220625_73/1656130399731lioT9_JPEG/e5dd18b9-f43c-11ec-928a-48df37ae3dc4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[작전현황보고하도록.]]></title>
+            <link>https://www.vlive.tv/video/286443</link>
+            <guid>https://www.vlive.tv/video/286443</guid>
+            <pubDate>Sat, 25 Jun 2022 05:40:54 GMT</pubDate>
+            <content:encoded><![CDATA[오전 5:14]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220625_52/16561340394989AF84_JPEG/168922440075079989b891375e-ff32-4496-8f8d-84344898d1ed.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안농]]></title>
+            <link>https://www.vlive.tv/video/286445</link>
+            <guid>https://www.vlive.tv/video/286445</guid>
+            <pubDate>Sat, 25 Jun 2022 05:40:54 GMT</pubDate>
+            <content:encoded><![CDATA[오전 5:31]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/286445/thumb?type=f228_128" length="0" type="image//live/286445/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[have a good weekend🥳]]></title>
+            <link>https://www.vlive.tv/video/286446</link>
+            <guid>https://www.vlive.tv/video/286446</guid>
+            <pubDate>Sat, 25 Jun 2022 05:40:54 GMT</pubDate>
+            <content:encoded><![CDATA[오전 5:32]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220625_202/1656135146271LmpUT_JPEG/16901067525881283079a04718-17ab-4965-8f17-1a5a999bc255.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
