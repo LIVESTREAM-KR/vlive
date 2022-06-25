@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 21:41:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 22:43:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sat, 25 Jun 2022 20:43:08 GMT</pubDate>
             <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220626_294/1656189707021UlEkv_JPEG/18d7ae79-f4c7-11ec-8bba-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다람쥐 밤 산책🐿💙(4)]]></title>
+            <link>https://www.vlive.tv/video/286479</link>
+            <guid>https://www.vlive.tv/video/286479</guid>
+            <pubDate>Sat, 25 Jun 2022 22:42:04 GMT</pubDate>
+            <content:encoded><![CDATA[KINGDOM]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220626_48/1656173056578b2RRW_PNG/upload_100252789167708354faf56642-94ac-46f8-82c6-15216097cc0a.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[토요일도 호준✌🏻]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 25 Jun 2022 13:01:24 GMT</pubDate>
             <content:encoded><![CDATA[Ktimes]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220625_176/1656161279102gBnre_JPEG/upload_100241002186868084bd6652bd-1fdb-426d-9fdf-8fccc9d1b399.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우당탕탕 블리처스배 미니 운동회💪(ENG/JPN/ESP/IDN)]]></title>
-            <link>https://www.vlive.tv/video/286467</link>
-            <guid>https://www.vlive.tv/video/286467</guid>
-            <pubDate>Sat, 25 Jun 2022 13:01:24 GMT</pubDate>
-            <content:encoded><![CDATA[블리처스(BLITZERS)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220625_18/1656158769528tR2z5_JPEG/upload_724275815669849112a3f5271-f5ad-4ab8-a399-41324f5f4632.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
