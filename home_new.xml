@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 15:45:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 16:55:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[I’M GONNA BE FREE 🌃]]></title>
+            <link>https://www.vlive.tv/video/286518</link>
+            <guid>https://www.vlive.tv/video/286518</guid>
+            <pubDate>Sun, 26 Jun 2022 16:54:13 GMT</pubDate>
+            <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/286518/thumb?type=f228_128" length="0" type="image//live/286518/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[보고싶소 💙✨💙]]></title>
+            <link>https://www.vlive.tv/video/286516</link>
+            <guid>https://www.vlive.tv/video/286516</guid>
+            <pubDate>Sun, 26 Jun 2022 15:43:57 GMT</pubDate>
+            <content:encoded><![CDATA[걸카인드(GIRLKIND)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220626_165/16562545449889InXE_JPEG/169130147976023858da4f5496-2d6e-40f2-a7d3-f953433f06e2.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[굿나잇2~~~^^]]></title>
             <link>https://www.vlive.tv/video/286517</link>
@@ -72,14 +88,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220626_55/1656254567045kvylf_JPEG/cb545d75-f55d-11ec-8e34-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[보고싶소 💙✨💙]]></title>
-            <link>https://www.vlive.tv/video/286516</link>
-            <guid>https://www.vlive.tv/video/286516</guid>
-            <pubDate>Sun, 26 Jun 2022 15:43:57 GMT</pubDate>
-            <content:encoded><![CDATA[걸카인드(GIRLKIND)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220626_165/16562545449889InXE_JPEG/169130147976023858da4f5496-2d6e-40f2-a7d3-f953433f06e2.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Be the Sun☀]]></title>
             <link>https://www.vlive.tv/video/286512</link>
             <guid>https://www.vlive.tv/video/286512</guid>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 26 Jun 2022 11:39:20 GMT</pubDate>
             <content:encoded><![CDATA[LAM(영화처럼)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220626_68/1656245231204WRlTV_JPEG/b9721fe6-f547-11ec-8e34-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안녕💛]]></title>
-            <link>https://www.vlive.tv/video/286505</link>
-            <guid>https://www.vlive.tv/video/286505</guid>
-            <pubDate>Sun, 26 Jun 2022 11:39:20 GMT</pubDate>
-            <content:encoded><![CDATA[VICTON]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220626_83/1656245017898gYpmN_JPEG/4e3aebd0-f547-11ec-8055-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
