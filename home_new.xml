@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 04:57:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 05:42:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sun, 26 Jun 2022 04:56:13 GMT</pubDate>
             <content:encoded><![CDATA[EVERGLOW (에버글로우)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220626_214/1656216929631AmuRP_JPEG/13952840542836187851305452-6084-46d7-aac5-80d6c7a68726.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 P1Harmony LIVE TOUR [P1ustage H : PEACE] in San Jose Plus Behind]]></title>
+            <link>https://www.vlive.tv/video/286466</link>
+            <guid>https://www.vlive.tv/video/286466</guid>
+            <pubDate>Sun, 26 Jun 2022 05:40:55 GMT</pubDate>
+            <content:encoded><![CDATA[P1Harmony]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220625_148/1656157104673OeyeO_JPEG/upload_72426694897061425313e05ab-5824-4242-9e0e-c6a1ad7eb884.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[IMERA] EP.135 Begin Again: K-POP EDITION 비하인드]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 25 Jun 2022 13:43:00 GMT</pubDate>
             <content:encoded><![CDATA[bugAboo]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220625_196/1656166504370HAPul_JPEG/70cbb92b-f490-11ec-b44a-d4f5ef58ad5e_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음소거 먹방]]></title>
-            <link>https://www.vlive.tv/video/286469</link>
-            <guid>https://www.vlive.tv/video/286469</guid>
-            <pubDate>Sat, 25 Jun 2022 13:01:24 GMT</pubDate>
-            <content:encoded><![CDATA[윤서빈 (Yoon Seobin)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220625_34/1656160792876cofUC_JPEG/1690363957885289546b38766e-f939-4e26-8155-3caa2d92f18f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
