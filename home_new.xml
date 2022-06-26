@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 06:49:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 07:40:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[日本にきたよー🙀😸🎶]]></title>
+            <link>https://www.vlive.tv/video/286490</link>
+            <guid>https://www.vlive.tv/video/286490</guid>
+            <pubDate>Sun, 26 Jun 2022 07:39:10 GMT</pubDate>
+            <content:encoded><![CDATA[Rocket Punch]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/286490/thumb?type=f228_128" length="0" type="image//live/286490/thumb"/>
+        </item>
         <item>
             <title><![CDATA[주말 ♡]]></title>
             <link>https://www.vlive.tv/video/286487</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 25 Jun 2022 13:43:00 GMT</pubDate>
             <content:encoded><![CDATA[KISU]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220625_130/1656163615711GXwhF_JPEG/169039214701566968784fb1bc-377a-483f-a07a-9bcf9741e9bd.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레이니 공주와👸🏼지인 기사단 🥷🏼와쏘]]></title>
-            <link>https://www.vlive.tv/video/286474</link>
-            <guid>https://www.vlive.tv/video/286474</guid>
-            <pubDate>Sat, 25 Jun 2022 13:43:00 GMT</pubDate>
-            <content:encoded><![CDATA[bugAboo]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220625_196/1656166504370HAPul_JPEG/70cbb92b-f490-11ec-b44a-d4f5ef58ad5e_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
