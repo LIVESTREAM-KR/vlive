@@ -4,17 +4,9 @@
         <title>V LIVE ─ 홈 ─ CHARTS TOP3</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 11:40:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 13:03:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[이 뭐선일이고]]></title>
-            <link>https://www.vlive.tv/video/285758</link>
-            <guid>https://www.vlive.tv/video/285758</guid>
-            <pubDate>Sat, 25 Jun 2022 05:40:10 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220616_212/1655309373778nvn64_JPEG/upload_71578974998017374f63e7056-864b-48cf-bc34-ff66f19958b7.jpeg?type=f380_213_wp" length="0" type="image/jpeg"/>
-        </item>
         <item>
             <title><![CDATA[슈야]]></title>
             <link>https://www.vlive.tv/video/286498</link>
@@ -24,12 +16,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220626_294/1656239230659gnl0I_JPEG/9e854e2a-f539-11ec-90b2-505dac8c37f3_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[드디어 단체 먹방! 아 배고파.]]></title>
-            <link>https://www.vlive.tv/video/286495</link>
-            <guid>https://www.vlive.tv/video/286495</guid>
-            <pubDate>Sun, 26 Jun 2022 10:42:57 GMT</pubDate>
-            <content:encoded><![CDATA[LE SSERAFIM]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220626_141/165624033529588Xis_JPEG/upload_100320066643778510c6ce7228-911d-4483-9219-022208034a8a.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+            <title><![CDATA[이 뭐선일이고]]></title>
+            <link>https://www.vlive.tv/video/285758</link>
+            <guid>https://www.vlive.tv/video/285758</guid>
+            <pubDate>Sat, 25 Jun 2022 05:40:10 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220616_212/1655309373778nvn64_JPEG/upload_71578974998017374f63e7056-864b-48cf-bc34-ff66f19958b7.jpeg?type=f380_213_wp" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[배고파슈]]></title>
+            <link>https://www.vlive.tv/video/286500</link>
+            <guid>https://www.vlive.tv/video/286500</guid>
+            <pubDate>Sun, 26 Jun 2022 13:02:36 GMT</pubDate>
+            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220626_282/1656244282398Jqh7P_JPEG/128f4408-f545-11ec-b77c-48df379cca40_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
