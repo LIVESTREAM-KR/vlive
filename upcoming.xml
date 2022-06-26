@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 13:45:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 14:41:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -173,7 +173,7 @@
             <guid>https://www.vlive.tv/video/286499</guid>
             <pubDate>Sun, 26 Jun 2022 10:43:36 GMT</pubDate>
             <content:encoded><![CDATA[오전 10:51]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220626_155/1656240704252UMaNc_JPEG/a99384be-f53d-11ec-8055-505dac8c385b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220626_18/1656252200334QfTg4_JPEG/a99384be-f53d-11ec-8055-505dac8c385b_08.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우주소녀(WJSN) - Sequence Mood Shot : EUNSEO]]></title>
@@ -197,7 +197,7 @@
             <guid>https://www.vlive.tv/video/286502</guid>
             <pubDate>Sun, 26 Jun 2022 11:40:11 GMT</pubDate>
             <content:encoded><![CDATA[오전 11:23]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220626_284/1656242629700Lm6pT_JPEG/44f0f012-f542-11ec-8e34-505dac8c3721_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220626_276/1656252242184GemeL_JPEG/44f0f012-f542-11ec-8e34-505dac8c3721_05.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[배고파슈]]></title>
@@ -260,8 +260,23 @@
             <link>https://www.vlive.tv/video/286512</link>
             <guid>https://www.vlive.tv/video/286512</guid>
             <pubDate>Sun, 26 Jun 2022 13:44:35 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:42]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/286512/thumb?type=f228_128" length="0" type="image//live/286512/thumb"/>
+            <content:encoded><![CDATA[오후 1:50]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220626_252/1656252450525pBnRz_JPEG/upload_100332179938195076316d1b81-7c25-473e-9575-4f2625562b74.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뭐해]]></title>
+            <link>https://www.vlive.tv/video/286513</link>
+            <guid>https://www.vlive.tv/video/286513</guid>
+            <pubDate>Sun, 26 Jun 2022 14:40:46 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:50]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220626_33/1656251458448wfIH0_JPEG/169039829435985902f4cbe343-4caa-4383-9092-8c670bbc724d.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🎙]]></title>
+            <link>https://www.vlive.tv/video/286515</link>
+            <guid>https://www.vlive.tv/video/286515</guid>
+            <pubDate>Sun, 26 Jun 2022 14:40:46 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:12]]></content:encoded>
         </item>
     </channel>
 </rss>

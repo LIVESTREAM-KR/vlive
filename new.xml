@@ -4,15 +4,31 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 13:45:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 14:41:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🎙]]></title>
+            <link>https://www.vlive.tv/video/286515</link>
+            <guid>https://www.vlive.tv/video/286515</guid>
+            <pubDate>Sun, 26 Jun 2022 14:39:45 GMT</pubDate>
+            <content:encoded><![CDATA[UP10TION]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뭐해]]></title>
+            <link>https://www.vlive.tv/video/286513</link>
+            <guid>https://www.vlive.tv/video/286513</guid>
+            <pubDate>Sun, 26 Jun 2022 14:39:45 GMT</pubDate>
+            <content:encoded><![CDATA[MAMAMOO]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220626_33/1656251458448wfIH0_JPEG/169039829435985902f4cbe343-4caa-4383-9092-8c670bbc724d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Be the Sun☀]]></title>
             <link>https://www.vlive.tv/video/286512</link>
             <guid>https://www.vlive.tv/video/286512</guid>
             <pubDate>Sun, 26 Jun 2022 13:43:37 GMT</pubDate>
             <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220626_252/1656252450525pBnRz_JPEG/upload_100332179938195076316d1b81-7c25-473e-9575-4f2625562b74.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아직 나는 CRAZY 못 보낸다]]></title>
@@ -76,7 +92,7 @@
             <guid>https://www.vlive.tv/video/286502</guid>
             <pubDate>Sun, 26 Jun 2022 11:39:11 GMT</pubDate>
             <content:encoded><![CDATA[PENTAGON]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220626_284/1656242629700Lm6pT_JPEG/44f0f012-f542-11ec-8e34-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220626_276/1656252242184GemeL_JPEG/44f0f012-f542-11ec-8e34-505dac8c3721_05.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우주소녀(WJSN) - Sequence Mood Shot : DAYOUNG]]></title>
@@ -100,7 +116,7 @@
             <guid>https://www.vlive.tv/video/286499</guid>
             <pubDate>Sun, 26 Jun 2022 10:42:43 GMT</pubDate>
             <content:encoded><![CDATA[PENTAGON]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220626_155/1656240704252UMaNc_JPEG/a99384be-f53d-11ec-8055-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220626_18/1656252200334QfTg4_JPEG/a99384be-f53d-11ec-8055-505dac8c385b_08.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[100DAYS with YOUNIZ💕]]></title>
@@ -389,22 +405,6 @@
             <pubDate>Sat, 25 Jun 2022 13:01:15 GMT</pubDate>
             <content:encoded><![CDATA[블리처스(BLITZERS)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220625_18/1656158769528tR2z5_JPEG/upload_724275815669849112a3f5271-f5ad-4ab8-a399-41324f5f4632.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[fromis_9 (프로미스나인) 'Stay This Way' Official Teaser]]></title>
-            <link>https://www.vlive.tv/video/286441</link>
-            <guid>https://www.vlive.tv/video/286441</guid>
-            <pubDate>Sat, 25 Jun 2022 13:01:15 GMT</pubDate>
-            <content:encoded><![CDATA[fromis_9]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220625_88/1656129730751eg1ng_PNG/upload_1002091206314132609fe33106-f8ca-415f-be1c-ede7f36d336a.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[온 제로 키오 💕 (멋쟁이즈)]]></title>
-            <link>https://www.vlive.tv/video/286465</link>
-            <guid>https://www.vlive.tv/video/286465</guid>
-            <pubDate>Sat, 25 Jun 2022 11:38:46 GMT</pubDate>
-            <content:encoded><![CDATA[T1419]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220625_170/1656156629445esYVb_JPEG/169032245438868047edbb68be-b4a8-46f5-af3f-e662cbba200e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
