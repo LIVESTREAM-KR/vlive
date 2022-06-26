@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 08:46:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 09:43:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[100DAYS with YOUNIZ💕]]></title>
-            <link>https://m.vlive.tv/video/286486</link>
-            <guid>https://m.vlive.tv/video/286486</guid>
-            <pubDate>Sun, 26 Jun 2022 02:57:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 9:30</span>
-										<span class="txt">YOUNITE</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220626_79/1656211372507Du7EB_JPEG/upload_100289365931720630cae61164-99fb-434b-94a3-6b417b64f03f.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
             <link>https://m.vlive.tv/video/286183</link>
@@ -96,6 +86,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220622_175/1655870585643Db7yq_JPEG/upload_9995029535823702286fe5e22-22d7-4522-ae1e-0523922e247e.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ASC Live Ep.529 (OMEGA X / 오메가엑스)]]></title>
+            <link>https://m.vlive.tv/video/286369</link>
+            <guid>https://m.vlive.tv/video/286369</guid>
+            <pubDate>Sun, 26 Jun 2022 09:42:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220624_136/1656053460276UwfP3_PNG/upload_1001331676732019617b6f6483-de79-4552-a289-ccf1f68bd2e0.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
