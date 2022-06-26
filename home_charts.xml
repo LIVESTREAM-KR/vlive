@@ -4,17 +4,9 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 10:44:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 11:40:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[리노리방😺미국]]></title>
-            <link>https://www.vlive.tv/video/286435</link>
-            <guid>https://www.vlive.tv/video/286435</guid>
-            <pubDate>Sun, 26 Jun 2022 10:43:04 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220625_116/1656108668474D2wq8_JPEG/upload_100188401645078379f80bdf5c-4b85-4345-b03b-a9f699075481.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[PARIS IN THE BOYZ]]></title>
             <link>https://www.vlive.tv/video/286482</link>
@@ -24,20 +16,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20220626_294/1656189707021UlEkv_JPEG/18d7ae79-f4c7-11ec-8bba-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[리노리방😺미국]]></title>
+            <link>https://www.vlive.tv/video/286435</link>
+            <guid>https://www.vlive.tv/video/286435</guid>
+            <pubDate>Sun, 26 Jun 2022 10:43:04 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220625_116/1656108668474D2wq8_JPEG/upload_100188401645078379f80bdf5c-4b85-4345-b03b-a9f699075481.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[배고파슈]]></title>
+            <link>https://www.vlive.tv/video/286500</link>
+            <guid>https://www.vlive.tv/video/286500</guid>
+            <pubDate>Sun, 26 Jun 2022 11:39:34 GMT</pubDate>
+            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/286500/thumb?type=f228_128" length="0" type="image//live/286500/thumb"/>
+        </item>
+        <item>
             <title><![CDATA[녹화 끝]]></title>
             <link>https://www.vlive.tv/video/285568</link>
             <guid>https://www.vlive.tv/video/285568</guid>
             <pubDate>Sun, 26 Jun 2022 02:56:56 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220613_223/1655124508596EBTYM_JPEG/upload_713941094576705450304fc2e-1911-4d11-9b59-bb4be77a0972.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[건반 위의 명창 고양이와 티라노🐱🦖]]></title>
-            <link>https://www.vlive.tv/video/286496</link>
-            <guid>https://www.vlive.tv/video/286496</guid>
-            <pubDate>Sun, 26 Jun 2022 10:43:04 GMT</pubDate>
-            <content:encoded><![CDATA[Xdinary Heroes]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220626_234/1656239251612vQ4ed_JPEG/56d2335c-f539-11ec-b769-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
