@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 21:44:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 22:43:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잠들기 전에🤓👋]]></title>
+            <link>https://www.vlive.tv/video/286581</link>
+            <guid>https://www.vlive.tv/video/286581</guid>
+            <pubDate>Mon, 27 Jun 2022 22:42:31 GMT</pubDate>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/286581/thumb?type=f228_128" length="0" type="image//live/286581/thumb"/>
+        </item>
         <item>
             <title><![CDATA[아직도?]]></title>
             <link>https://www.vlive.tv/video/286579</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 27 Jun 2022 14:00:05 GMT</pubDate>
             <content:encoded><![CDATA[CRAVITY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220627_86/165633868120131yKd_JPEG/ca3cabec-f621-11ec-90b2-505dac8c37f3_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[💙☁️HAPPY KEONHEE DAY☁️💙]]></title>
-            <link>https://www.vlive.tv/video/286566</link>
-            <guid>https://www.vlive.tv/video/286566</guid>
-            <pubDate>Mon, 27 Jun 2022 14:00:05 GMT</pubDate>
-            <content:encoded><![CDATA[ONEUS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220627_63/1656337022285XJGJJ_JPEG/27f3e685-f61e-11ec-81b1-505dac8c3639_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
