@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 04:36:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 05:45:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Sound K / JUNNY 주니)]]></title>
-            <link>https://m.vlive.tv/video/286295</link>
-            <guid>https://m.vlive.tv/video/286295</guid>
-            <pubDate>Fri, 24 Jun 2022 08:50:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220623_197/1655969208462byG13_JPEG/upload_1000488833432282430447ca17-1b8c-4b68-87b1-7f2269783a6b.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Super K-Pop]Oh My K-Pop with NIve]]></title>
             <link>https://m.vlive.tv/video/286191</link>
@@ -96,6 +86,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220622_81/1655870625931GtVUp_JPEG/upload_999503162141982112158fe52-29c3-4bbf-acfe-e37698a9cc29.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio/K-Poppin'] Rock Band SEMA / 밴드 세마]]></title>
+            <link>https://m.vlive.tv/video/286194</link>
+            <guid>https://m.vlive.tv/video/286194</guid>
+            <pubDate>Mon, 27 Jun 2022 05:45:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220622_139/1655872162634tS7nB_JPEG/upload_72141743088641300711370d2-3c2c-432c-b06d-dea30cd24a39.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
