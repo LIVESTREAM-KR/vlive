@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 15:50:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 17:05:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -472,14 +472,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220627_95/1656341264391RuiLs_JPEG/upload_1004209676336277134cdf8746-00bc-485a-b083-37ebde1448e3.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[럿디🐁#6]]></title>
-            <link>https://www.vlive.tv/video/286573</link>
-            <guid>https://www.vlive.tv/video/286573</guid>
-            <pubDate>Mon, 27 Jun 2022 15:50:05 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:03]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/286573/thumb?type=f228_128" length="0" type="image//live/286573/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[비올땐 더 신나게‼️]]></title>
             <link>https://www.vlive.tv/video/286561</link>
             <guid>https://www.vlive.tv/video/286561</guid>
@@ -518,6 +510,14 @@
             <pubDate>Mon, 27 Jun 2022 15:50:05 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:40]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220628_185/16563444010112Slun_JPEG/6993525576183458104f305-47d6-4779-adb4-cef174f2a65a.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[럿디🐁#6]]></title>
+            <link>https://www.vlive.tv/video/286573</link>
+            <guid>https://www.vlive.tv/video/286573</guid>
+            <pubDate>Mon, 27 Jun 2022 15:50:05 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:43]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220628_167/1656348205353C8sAi_JPEG/0d8c37d6-f637-11ec-8e34-505dac8c3721_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
