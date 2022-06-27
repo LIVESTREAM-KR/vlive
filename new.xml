@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 19:40:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 20:44:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아직도?]]></title>
+            <link>https://www.vlive.tv/video/286579</link>
+            <guid>https://www.vlive.tv/video/286579</guid>
+            <pubDate>Mon, 27 Jun 2022 20:43:01 GMT</pubDate>
+            <content:encoded><![CDATA[KISU]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220628_160/1656359369965cFlmy_JPEG/139670845733596527027c2d93-8cdb-4098-b912-de4de7660602.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[짱구가 좋아 근데 엘링이 더 좋아🐹💟]]></title>
             <link>https://www.vlive.tv/video/286576</link>
@@ -398,14 +406,6 @@
             <pubDate>Mon, 27 Jun 2022 08:48:40 GMT</pubDate>
             <content:encoded><![CDATA[Kep1er]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220627_95/1656319243058bhziR_JPEG/16919485904872283090a1aa9a-8ced-4dc1-86ed-5c1d5536a2fb.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[02즈가 돌아왔지😎]]></title>
-            <link>https://www.vlive.tv/video/286546</link>
-            <guid>https://www.vlive.tv/video/286546</guid>
-            <pubDate>Mon, 27 Jun 2022 09:43:20 GMT</pubDate>
-            <content:encoded><![CDATA[RoaD-B]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220627_132/1656319948755Giptr_JPEG/a6da2701-f5f5-11ec-8bba-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
