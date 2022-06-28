@@ -4,17 +4,9 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 14:43:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 15:48:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[이 뭐선일이고]]></title>
-            <link>https://www.vlive.tv/video/285758</link>
-            <guid>https://www.vlive.tv/video/285758</guid>
-            <pubDate>Sun, 26 Jun 2022 17:41:15 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220616_212/1655309373778nvn64_JPEG/upload_71578974998017374f63e7056-864b-48cf-bc34-ff66f19958b7.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
-        </item>
         <item>
             <title><![CDATA[Stay This Way]]></title>
             <link>https://www.vlive.tv/video/286620</link>
@@ -38,6 +30,14 @@
             <pubDate>Tue, 28 Jun 2022 09:43:46 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220627_126/1656309470112l7m06_JPEG/upload_72579074991965396165bd17b-49a8-4430-8112-42baba3dc0cb.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TO DO X TOMORROW X TOGETHER - EP.84]]></title>
+            <link>https://www.vlive.tv/video/286036</link>
+            <guid>https://www.vlive.tv/video/286036</guid>
+            <pubDate>Tue, 28 Jun 2022 15:47:57 GMT</pubDate>
+            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220620_258/1655701077651Knkc3_JPEG/upload_71970675049361597ecef8124-ca65-474b-a230-95326666bfa0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
