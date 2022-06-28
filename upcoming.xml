@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 17:05:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 17:47:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -384,20 +384,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20220629_300/16564312724529YVHw_JPEG/7b58f606-f6f9-11ec-946a-d4f5ef58ac88_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[찜밤🛌]]></title>
-            <link>https://www.vlive.tv/video/286638</link>
-            <guid>https://www.vlive.tv/video/286638</guid>
-            <pubDate>Tue, 28 Jun 2022 17:05:06 GMT</pubDate>
-            <content:encoded><![CDATA[오후 4:21]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/286638/thumb?type=f228_128" length="0" type="image//live/286638/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[단룽🦊🐶]]></title>
             <link>https://www.vlive.tv/video/286634</link>
             <guid>https://www.vlive.tv/video/286634</guid>
             <pubDate>Tue, 28 Jun 2022 15:48:29 GMT</pubDate>
             <content:encoded><![CDATA[오후 4:27]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220629_263/1656433657854jshzE_JPEG/a73f6bb3-f6fe-11ec-946a-d4f5ef58ac88_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220629_235/1656437231153Ba17X_JPEG/a73f6bb3-f6fe-11ec-946a-d4f5ef58ac88_01.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[LIVE] 편의점 투어❤️]]></title>
@@ -422,6 +414,22 @@
             <pubDate>Tue, 28 Jun 2022 17:05:06 GMT</pubDate>
             <content:encoded><![CDATA[오후 4:57]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220629_195/1656435403827QScBu_JPEG/upload_100515129250039617f941791c-e98d-4a82-ac94-fa2ebd43b453.jpeg?type=f228_128" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[찜밤🛌]]></title>
+            <link>https://www.vlive.tv/video/286638</link>
+            <guid>https://www.vlive.tv/video/286638</guid>
+            <pubDate>Tue, 28 Jun 2022 17:05:06 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:11]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220629_71/1656436307870RX5sK_JPEG/f076f3e1-f704-11ec-8bba-505dac8c381b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안자는싸람]]></title>
+            <link>https://www.vlive.tv/video/286642</link>
+            <guid>https://www.vlive.tv/video/286642</guid>
+            <pubDate>Tue, 28 Jun 2022 17:46:41 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:25]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220629_189/1656437143335BE1Ns_JPEG/1692256793295732688bc4fae4-87ca-4653-930a-8a8e0d89137a.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
