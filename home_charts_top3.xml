@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ CHARTS TOP3</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 13:58:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 14:43:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220628_167/1656348205353C8sAi_JPEG/0d8c37d6-f637-11ec-8e34-505dac8c3721_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[따아나아이잇🌙]]></title>
-            <link>https://www.vlive.tv/video/286564</link>
-            <guid>https://www.vlive.tv/video/286564</guid>
-            <pubDate>Tue, 28 Jun 2022 05:46:16 GMT</pubDate>
-            <content:encoded><![CDATA[ASTRO]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220627_118/1656340628614VK0Lq_JPEG/4311253b-f626-11ec-8bba-505dac8c381b_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[잠들기 전에🤓👋]]></title>
             <link>https://www.vlive.tv/video/286581</link>
             <guid>https://www.vlive.tv/video/286581</guid>
             <pubDate>Tue, 28 Jun 2022 13:22:02 GMT</pubDate>
             <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220628_226/1656372996220lHRVn_JPEG/fa1b362c-f670-11ec-81b1-505dac8c3639_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[따아나아이잇🌙]]></title>
+            <link>https://www.vlive.tv/video/286564</link>
+            <guid>https://www.vlive.tv/video/286564</guid>
+            <pubDate>Tue, 28 Jun 2022 05:46:16 GMT</pubDate>
+            <content:encoded><![CDATA[ASTRO]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220627_118/1656340628614VK0Lq_JPEG/4311253b-f626-11ec-8bba-505dac8c381b_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
