@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 20:45:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 21:42:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BeB❤️]]></title>
+            <link>https://www.vlive.tv/video/286643</link>
+            <guid>https://www.vlive.tv/video/286643</guid>
+            <pubDate>Tue, 28 Jun 2022 21:41:10 GMT</pubDate>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220629_248/165645112362020POE_JPEG/c3b1b064-f727-11ec-8055-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[찜밤🛌]]></title>
             <link>https://www.vlive.tv/video/286638</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 28 Jun 2022 13:21:54 GMT</pubDate>
             <content:encoded><![CDATA[Weki Meki]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220628_205/1656422430000F7akd_JPEG/1692980299826943300100265f-f234-4a0b-84a1-4b859a5d8234.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아임 캐슬제이👋🏻]]></title>
-            <link>https://www.vlive.tv/video/286628</link>
-            <guid>https://www.vlive.tv/video/286628</guid>
-            <pubDate>Tue, 28 Jun 2022 14:42:28 GMT</pubDate>
-            <content:encoded><![CDATA[MCND]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220628_78/1656422827659CXg9T_JPEG/1397343034576091155d4f5391-e8fe-434d-8ed0-a57f83b15f86.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,17 +4,9 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 20:45:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 21:42:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[잠들기 전에🤓👋]]></title>
-            <link>https://www.vlive.tv/video/286581</link>
-            <guid>https://www.vlive.tv/video/286581</guid>
-            <pubDate>Mon, 27 Jun 2022 23:43:22 GMT</pubDate>
-            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220628_226/1656372996220lHRVn_JPEG/fa1b362c-f670-11ec-81b1-505dac8c3639_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[ENHYPEN (엔하이픈) MANIFESTO : DAY 1 Preview]]></title>
             <link>https://www.vlive.tv/video/286598</link>
@@ -22,6 +14,14 @@
             <pubDate>Tue, 28 Jun 2022 17:04:40 GMT</pubDate>
             <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220628_39/1656397480881BMEOg_JPEG/upload_1004772034587138898afda004-dae1-462b-be62-48d7e632a62a.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠들기 전에🤓👋]]></title>
+            <link>https://www.vlive.tv/video/286581</link>
+            <guid>https://www.vlive.tv/video/286581</guid>
+            <pubDate>Mon, 27 Jun 2022 23:43:22 GMT</pubDate>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220628_226/1656372996220lHRVn_JPEG/fa1b362c-f670-11ec-81b1-505dac8c3639_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이 뭐선일이고]]></title>
@@ -56,12 +56,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20220613_223/1655124508596EBTYM_JPEG/upload_713941094576705450304fc2e-1911-4d11-9b59-bb4be77a0972.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[TO DO X TOMORROW X TOGETHER - EP.84]]></title>
-            <link>https://www.vlive.tv/video/286036</link>
-            <guid>https://www.vlive.tv/video/286036</guid>
-            <pubDate>Tue, 28 Jun 2022 15:48:07 GMT</pubDate>
-            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220620_258/1655701077651Knkc3_JPEG/upload_71970675049361597ecef8124-ca65-474b-a230-95326666bfa0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <title><![CDATA[나 보면서 저녁 먹는 거 어때?]]></title>
+            <link>https://www.vlive.tv/video/286612</link>
+            <guid>https://www.vlive.tv/video/286612</guid>
+            <pubDate>Tue, 28 Jun 2022 21:41:35 GMT</pubDate>
+            <content:encoded><![CDATA[STAYC]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220628_48/16564119491533vR7T_JPEG/15e7d96e-f6cc-11ec-bb44-48df379ccacc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
