@@ -4,9 +4,16 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 18:05:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 18:54:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자기전 대화창><]]></title>
+            <link>https://www.vlive.tv/video/286725</link>
+            <guid>https://www.vlive.tv/video/286725</guid>
+            <pubDate>Wed, 29 Jun 2022 18:52:29 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[RAINY DAY ☔️]]></title>
             <link>https://www.vlive.tv/video/286723</link>
@@ -398,14 +405,6 @@
             <pubDate>Wed, 29 Jun 2022 09:44:53 GMT</pubDate>
             <content:encoded><![CDATA[쇼파르엔터테인먼트]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220629_221/1656482341906BPDxJ_JPEG/upload_727519339424820451a2a40b4-fa89-4679-8b6f-d66533ad870e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NAYEON "POP!" M/V Reaction with JEONGYEON, CHAEYOUNG]]></title>
-            <link>https://www.vlive.tv/video/286652</link>
-            <guid>https://www.vlive.tv/video/286652</guid>
-            <pubDate>Wed, 29 Jun 2022 09:44:53 GMT</pubDate>
-            <content:encoded><![CDATA[TWICE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220629_271/1656476626078oVxNe_JPEG/upload_100556163975675569a84190e2-2b0a-438f-88cf-345028a1bc0c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
