@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 04:30:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 05:10:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / Sound K] Song Express ver.3 with Denise 데니스]]></title>
-            <link>https://m.vlive.tv/video/286190</link>
-            <guid>https://m.vlive.tv/video/286190</guid>
-            <pubDate>Mon, 27 Jun 2022 07:41:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220622_112/16558708728869fEJx_JPEG/upload_721404453472651817491e555-6dfa-42ea-bd1f-fa353e250e5e.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Super K-Pop] Stray Quiz]]></title>
             <link>https://m.vlive.tv/video/286192</link>
@@ -106,6 +96,16 @@
 										오전 11:00</span>
 										<span class="txt">VVLIVE</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220610_39/1654839518965U5v0P_PNG/upload_98898780955841958bd7562f9-a67a-4745-99c7-317979fa0ba8.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[MCND(엠씨엔디) THE EARTH : SECRET MISSION CHAPTER.2 SHOWCASE]]></title>
+            <link>https://m.vlive.tv/video/286232</link>
+            <guid>https://m.vlive.tv/video/286232</guid>
+            <pubDate>Wed, 29 Jun 2022 05:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 1:00</span>
+										<span class="txt">MCND</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220622_121/1655888171084NWdY2_JPEG/upload_999678924266299351fa0929b-f10c-42c2-ba73-c64e9de09415.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
