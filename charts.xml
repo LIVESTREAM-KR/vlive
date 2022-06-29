@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 23:43:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 02:57:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,14 +40,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220629_248/165645112362020POE_JPEG/c3b1b064-f727-11ec-8055-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[럿디🐁#6]]></title>
-            <link>https://www.vlive.tv/video/286573</link>
-            <guid>https://www.vlive.tv/video/286573</guid>
-            <pubDate>Mon, 27 Jun 2022 17:04:25 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220628_167/1656348205353C8sAi_JPEG/0d8c37d6-f637-11ec-8e34-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[녹화 끝]]></title>
             <link>https://www.vlive.tv/video/285568</link>
             <guid>https://www.vlive.tv/video/285568</guid>
@@ -62,6 +54,14 @@
             <pubDate>Tue, 28 Jun 2022 23:42:48 GMT</pubDate>
             <content:encoded><![CDATA[STAYC]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220628_48/16564119491533vR7T_JPEG/15e7d96e-f6cc-11ec-bb44-48df379ccacc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[럿디🐁#6]]></title>
+            <link>https://www.vlive.tv/video/286573</link>
+            <guid>https://www.vlive.tv/video/286573</guid>
+            <pubDate>Mon, 27 Jun 2022 17:04:25 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220628_167/1656348205353C8sAi_JPEG/0d8c37d6-f637-11ec-8e34-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
