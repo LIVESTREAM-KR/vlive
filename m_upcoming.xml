@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 06:51:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 07:43:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / Super K-Pop] Stray Quiz]]></title>
-            <link>https://m.vlive.tv/video/286192</link>
-            <guid>https://m.vlive.tv/video/286192</guid>
-            <pubDate>Mon, 27 Jun 2022 10:46:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220622_172/1655871321406gMQSY_JPEG/upload_999510228833054074cd39c1b-1eae-4243-85eb-92ac9fa6b0f5.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arirang Radio (Super K-Pop / Lokid 로키드)]]></title>
-            <link>https://m.vlive.tv/video/286235</link>
-            <guid>https://m.vlive.tv/video/286235</guid>
-            <pubDate>Mon, 27 Jun 2022 11:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220622_191/16558902547528W0p8_JPEG/upload_99969964662576161f65a0654-b29f-4248-99dd-8affc6774579.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[HAPPY KYUNGMUN DAY🎂]]></title>
             <link>https://m.vlive.tv/video/286649</link>
@@ -46,6 +26,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220622_244/1655870658716otzFS_JPEG/upload_72140248410725690b297132f-360b-4527-b129-a5b3be59b21d.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop] Stray Quiz]]></title>
+            <link>https://m.vlive.tv/video/286192</link>
+            <guid>https://m.vlive.tv/video/286192</guid>
+            <pubDate>Mon, 27 Jun 2022 10:46:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220622_172/1655871321406gMQSY_JPEG/upload_999510228833054074cd39c1b-1eae-4243-85eb-92ac9fa6b0f5.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
@@ -96,6 +86,16 @@
 										오전 11:00</span>
 										<span class="txt">VVLIVE</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220610_39/1654839518965U5v0P_PNG/upload_98898780955841958bd7562f9-a67a-4745-99c7-317979fa0ba8.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[MCND(엠씨엔디) THE EARTH : SECRET MISSION CHAPTER.2 SHOWCASE]]></title>
+            <link>https://m.vlive.tv/video/286232</link>
+            <guid>https://m.vlive.tv/video/286232</guid>
+            <pubDate>Wed, 29 Jun 2022 07:43:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 1:00</span>
+										<span class="txt">MCND</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220622_121/1655888171084NWdY2_JPEG/upload_999678924266299351fa0929b-f10c-42c2-ba73-c64e9de09415.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
