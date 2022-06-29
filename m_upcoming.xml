@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 02:57:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 04:30:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio/K-Poppin'] Rock Band SEMA / 밴드 세마]]></title>
-            <link>https://m.vlive.tv/video/286194</link>
-            <guid>https://m.vlive.tv/video/286194</guid>
-            <pubDate>Mon, 27 Jun 2022 05:45:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 4:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220622_139/1655872162634tS7nB_JPEG/upload_72141743088641300711370d2-3c2c-432c-b06d-dea30cd24a39.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Sound K] Song Express ver.3 with Denise 데니스]]></title>
             <link>https://m.vlive.tv/video/286190</link>
@@ -106,6 +96,16 @@
 										오전 11:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220623_236/1655969067852r3TUA_JPEG/upload_100048742574089559a0c9f013-92f0-470d-9c2a-753f5a8c0f68.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제 21회 상명대학교 외식의류학부 의류학전공 졸업작품 패션쇼]]></title>
+            <link>https://m.vlive.tv/video/285374</link>
+            <guid>https://m.vlive.tv/video/285374</guid>
+            <pubDate>Wed, 29 Jun 2022 04:29:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">VVLIVE</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220610_39/1654839518965U5v0P_PNG/upload_98898780955841958bd7562f9-a67a-4745-99c7-317979fa0ba8.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
