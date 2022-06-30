@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 11:41:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 13:21:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -68,6 +68,16 @@
             <enclosure url="https://v-phinf.pstatic.net/20220610_39/1654839518965U5v0P_PNG/upload_98898780955841958bd7562f9-a67a-4745-99c7-317979fa0ba8.png?type=f274_154" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[fromis_9 Comeback Live 'Stay This Summer']]></title>
+            <link>https://m.vlive.tv/video/286586</link>
+            <guid>https://m.vlive.tv/video/286586</guid>
+            <pubDate>Thu, 30 Jun 2022 13:21:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 12:00</span>
+										<span class="txt">fromis_9</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220628_232/1656385289318t2j64_JPEG/upload_7265486962233409944e6830d-b101-4e93-ae96-9ac278ac64fc.jpeg?type=f274_154" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
             <link>https://m.vlive.tv/video/286726</link>
             <guid>https://m.vlive.tv/video/286726</guid>
@@ -96,16 +106,6 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220630_230/1656547617249E3DDh_JPEG/upload_10062731100991262091340e88-72df-4ce3-8032-60982b24a07f.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Sound K] Mystery Mix with BOiTELLO 보이텔로]]></title>
-            <link>https://m.vlive.tv/video/286731</link>
-            <guid>https://m.vlive.tv/video/286731</guid>
-            <pubDate>Thu, 30 Jun 2022 02:59:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220630_148/16565478298091geLK_JPEG/upload_1006275155429207029ee9ccb0-4e99-47af-86ea-ec8ab094928b.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
