@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 21:44:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 22:43:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리노리방😺시카고!!!!!]]></title>
+            <link>https://www.vlive.tv/video/286821</link>
+            <guid>https://www.vlive.tv/video/286821</guid>
+            <pubDate>Thu, 30 Jun 2022 22:42:34 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/286821/thumb?type=f228_128" length="0" type="image//live/286821/thumb"/>
+        </item>
         <item>
             <title><![CDATA[잠 못드는 밤에 (안지우려고 모자씁니다!!)]]></title>
             <link>https://www.vlive.tv/video/286820</link>
@@ -119,14 +127,6 @@
             <pubDate>Thu, 30 Jun 2022 14:41:47 GMT</pubDate>
             <content:encoded><![CDATA[Apink]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220630_147/16565733427586ll1s_JPEG/upload_100653038681399123efd83bab-fd0e-4dc9-a8cd-7bec0298dc4f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진석이의 별빛라디오⭐️]]></title>
-            <link>https://www.vlive.tv/video/286807</link>
-            <guid>https://www.vlive.tv/video/286807</guid>
-            <pubDate>Thu, 30 Jun 2022 13:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[지진석 (Ji jin seok)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220630_5/1656598788812AMqWL_JPEG/25e55641-f87d-11ec-8055-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
