@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 18:00:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 18:53:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -546,14 +546,6 @@ HARMONY TRAILER]]></title>
             <enclosure url="https://v-phinf.pstatic.net/20220701_294/16566031419379OtaN_JPEG/upload_72872745250631653b6cfa042-c7c2-46d9-91d5-81b077653866.jpeg?type=f228_128" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[빼앰 크홍반]]></title>
-            <link>https://www.vlive.tv/video/286818</link>
-            <guid>https://www.vlive.tv/video/286818</guid>
-            <pubDate>Thu, 30 Jun 2022 17:09:30 GMT</pubDate>
-            <content:encoded><![CDATA[오후 4:53]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220701_274/1656607995283v7wpj_JPEG/169483524250058380d8db0189-7891-4281-bbe5-6c0b079f7097.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[HAPPY BIRTHDAY🎂]]></title>
             <link>https://www.vlive.tv/video/286813</link>
             <guid>https://www.vlive.tv/video/286813</guid>
@@ -562,12 +554,28 @@ HARMONY TRAILER]]></title>
             <enclosure url="https://v-phinf.pstatic.net/20220701_132/1656611000939tzxBj_JPEG/1c9da17c-f899-11ec-a120-505dacfbaa5c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[빼앰 크홍반]]></title>
+            <link>https://www.vlive.tv/video/286818</link>
+            <guid>https://www.vlive.tv/video/286818</guid>
+            <pubDate>Thu, 30 Jun 2022 17:09:30 GMT</pubDate>
+            <content:encoded><![CDATA[오후 6:15]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220701_274/1656607995283v7wpj_JPEG/169483524250058380d8db0189-7891-4281-bbe5-6c0b079f7097.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[잠 못드는 밤에 [잠이 안오신다구요? 저두요^^]]]></title>
             <link>https://www.vlive.tv/video/286819</link>
             <guid>https://www.vlive.tv/video/286819</guid>
             <pubDate>Thu, 30 Jun 2022 18:00:16 GMT</pubDate>
-            <content:encoded><![CDATA[오후 5:50]]></content:encoded>
+            <content:encoded><![CDATA[오후 6:25]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220701_127/1656611416733RKb0M_JPEG/957678995738333933fc746c1-386c-48f5-8c26-10731b56e4e3.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠 못드는 밤에 (안지우려고 모자씁니다!!)]]></title>
+            <link>https://www.vlive.tv/video/286820</link>
+            <guid>https://www.vlive.tv/video/286820</guid>
+            <pubDate>Thu, 30 Jun 2022 18:53:18 GMT</pubDate>
+            <content:encoded><![CDATA[오후 6:30]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220701_268/1656613852915G7P9v_JPEG/1694894529107732515a8d9a20-e84a-4076-ab14-740d44c42695.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
