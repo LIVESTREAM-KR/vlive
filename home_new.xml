@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 15:49:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 17:10:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빼앰 크홍반]]></title>
+            <link>https://www.vlive.tv/video/286818</link>
+            <guid>https://www.vlive.tv/video/286818</guid>
+            <pubDate>Thu, 30 Jun 2022 17:08:37 GMT</pubDate>
+            <content:encoded><![CDATA[OH MY GIRL]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220701_274/1656607995283v7wpj_JPEG/169483524250058380d8db0189-7891-4281-bbe5-6c0b079f7097.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하이🖤-@]]></title>
             <link>https://www.vlive.tv/video/286814</link>
@@ -119,14 +127,6 @@
             <pubDate>Thu, 30 Jun 2022 14:41:47 GMT</pubDate>
             <content:encoded><![CDATA[Apink]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220630_224/1656573122807XcPfL_JPEG/upload_7284271040406321714128b16-7f5b-42c1-94bd-56e1368bc2b5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진호 - MAGAZINE HO #46 'Running Up That Hill / Kate Bush']]></title>
-            <link>https://www.vlive.tv/video/286756</link>
-            <guid>https://www.vlive.tv/video/286756</guid>
-            <pubDate>Thu, 30 Jun 2022 14:41:47 GMT</pubDate>
-            <content:encoded><![CDATA[PENTAGON]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220630_56/1656569830627BVD28_JPEG/upload_728394350831619729ced4378-c0a3-4a51-afdc-39a09b635fa9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
