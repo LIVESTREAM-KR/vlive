@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 22:43:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 23:43:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 30 Jun 2022 05:45:02 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220630_283/1656568301541HPGgy_JPEG/upload_100648033769505381937f1603-6b12-41ea-9000-eb76e055945c.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리노리방😺시카고!!!!!]]></title>
+            <link>https://www.vlive.tv/video/286821</link>
+            <guid>https://www.vlive.tv/video/286821</guid>
+            <pubDate>Thu, 30 Jun 2022 23:42:45 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220701_187/1656632184967cKqld_JPEG/f3121c7c-f8cc-11ec-8bba-505dac8c381b_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[콘서트 2일 전]]></title>
@@ -29,7 +37,7 @@
             <guid>https://www.vlive.tv/video/286782</guid>
             <pubDate>Thu, 30 Jun 2022 10:48:40 GMT</pubDate>
             <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220630_102/16565933613940dKQp_JPEG/8c7d608e-f858-11ec-89b9-d4f5ef5906a4_08.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220630_102/16565933613940dKQp_JPEG/8c7d608e-f858-11ec-89b9-d4f5ef5906a4_08.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[j-hope 'MORE' Official Teaser]]></title>
@@ -40,14 +48,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220629_132/1656502337459uG66M_PNG/upload_10058196652974816551ab0f22-80a5-4230-b9b7-40f172e92b67.PNG?type=f228_128_wp" length="0" type="image/PNG"/>
         </item>
         <item>
-            <title><![CDATA[이 뭐선일이고]]></title>
-            <link>https://www.vlive.tv/video/285758</link>
-            <guid>https://www.vlive.tv/video/285758</guid>
-            <pubDate>Wed, 15 Jun 2022 16:57:45 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220616_212/1655309373778nvn64_JPEG/upload_71578974998017374f63e7056-864b-48cf-bc34-ff66f19958b7.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[ENHYPEN (엔하이픈) 'Future Perfect (Pass the MIC)' Official Teaser 1]]></title>
             <link>https://www.vlive.tv/video/286793</link>
             <guid>https://www.vlive.tv/video/286793</guid>
@@ -56,12 +56,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20220630_154/1656586595428O8L0E_JPEG/upload_72856196525978749e13fb59d-c732-46cd-8068-9d058997b7de.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[드림캐쳐] 우리가 ?]]></title>
-            <link>https://www.vlive.tv/video/286737</link>
-            <guid>https://www.vlive.tv/video/286737</guid>
-            <pubDate>Thu, 30 Jun 2022 18:52:50 GMT</pubDate>
-            <content:encoded><![CDATA[DREAMCATCHER]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220630_16/1656550700374368HB_JPEG/59e5c1a0-f80f-11ec-b769-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <title><![CDATA[이 뭐선일이고]]></title>
+            <link>https://www.vlive.tv/video/285758</link>
+            <guid>https://www.vlive.tv/video/285758</guid>
+            <pubDate>Wed, 15 Jun 2022 16:57:45 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220616_212/1655309373778nvn64_JPEG/upload_71578974998017374f63e7056-864b-48cf-bc34-ff66f19958b7.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
