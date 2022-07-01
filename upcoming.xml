@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Jul 2022 15:48:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 17:05:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -576,14 +576,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220701_50/16566850299893N2QG_JPEG/457b90f1-f948-11ec-b769-505dac8c35ff_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[엔피아에게 떼굴떼굴🫡]]></title>
-            <link>https://www.vlive.tv/video/286896</link>
-            <guid>https://www.vlive.tv/video/286896</guid>
-            <pubDate>Fri, 01 Jul 2022 14:42:31 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:23]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/286896/thumb?type=f228_128" length="0" type="image//live/286896/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[LOVE YOU💛🐝]]></title>
             <link>https://www.vlive.tv/video/286892</link>
             <guid>https://www.vlive.tv/video/286892</guid>
@@ -640,20 +632,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20220702_144/1656688864094OQjh2_JPEG/3df9bf06-f950-11ec-8863-48df379cc9e4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[보이는 SO-RADIO👀💗]]></title>
-            <link>https://www.vlive.tv/video/286899</link>
-            <guid>https://www.vlive.tv/video/286899</guid>
-            <pubDate>Fri, 01 Jul 2022 15:48:21 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:24]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220702_163/1656689061621OsF5F_JPEG/958455444711818481a1a7f6b-d385-47db-89bc-dbf766fe5d84.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[놀자아]]></title>
             <link>https://www.vlive.tv/video/286898</link>
             <guid>https://www.vlive.tv/video/286898</guid>
             <pubDate>Fri, 01 Jul 2022 15:48:21 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:32]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220701_287/1656686863635vbAX6_JPEG/169562466583438554a4d54731-a505-4e13-b0ab-2e71499def4d.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔피아에게 떼굴떼굴🫡]]></title>
+            <link>https://www.vlive.tv/video/286896</link>
+            <guid>https://www.vlive.tv/video/286896</guid>
+            <pubDate>Fri, 01 Jul 2022 14:42:31 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220702_294/1656691241554lcJnm_JPEG/d4a60842-f955-11ec-bb44-48df379ccacc_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보이는 SO-RADIO👀💗]]></title>
+            <link>https://www.vlive.tv/video/286899</link>
+            <guid>https://www.vlive.tv/video/286899</guid>
+            <pubDate>Fri, 01 Jul 2022 15:48:21 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:40]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220702_163/1656689061621OsF5F_JPEG/958455444711818481a1a7f6b-d385-47db-89bc-dbf766fe5d84.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
