@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Jul 2022 20:45:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 21:42:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공연하고 왔숩☘️]]></title>
+            <link>https://www.vlive.tv/video/286903</link>
+            <guid>https://www.vlive.tv/video/286903</guid>
+            <pubDate>Fri, 01 Jul 2022 21:41:09 GMT</pubDate>
+            <content:encoded><![CDATA[VICTON]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220702_145/1656709199436d8No7_JPEG/169497573374543224376d6b12-578b-4f8f-b087-5c9a53ec2445.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[선공개] 2022 송가인의 전국투어 콘서트! ✨ 딸을 응원하러 콘서트 장에 오신 부모님! "갑자기 손을 흔드시는..?", MBC 220702 방송]]></title>
             <link>https://www.vlive.tv/video/286901</link>
@@ -398,14 +406,6 @@
             <pubDate>Fri, 01 Jul 2022 10:44:34 GMT</pubDate>
             <content:encoded><![CDATA[CUBE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220628_207/1656412570321SAXgq_JPEG/upload_7267453468461852193f96077-ee01-4370-8a94-e19cbfa5bd0d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[💕에버글로우 in JEDDAH💕]]></title>
-            <link>https://www.vlive.tv/video/286857</link>
-            <guid>https://www.vlive.tv/video/286857</guid>
-            <pubDate>Fri, 01 Jul 2022 09:43:55 GMT</pubDate>
-            <content:encoded><![CDATA[EVERGLOW (에버글로우)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220701_111/1656667925300recbp_JPEG/1695435252724366568b86a9ef-83bc-43ad-a6e0-a4df8b62d0c7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
