@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Jul 2022 11:40:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 13:02:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[fromis_9 Comeback Live 'Stay This Summer']]></title>
-            <link>https://m.vlive.tv/video/286586</link>
-            <guid>https://m.vlive.tv/video/286586</guid>
-            <pubDate>Thu, 30 Jun 2022 13:21:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 12:00</span>
-										<span class="txt">fromis_9</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220628_232/1656385289318t2j64_JPEG/upload_7265486962233409944e6830d-b101-4e93-ae96-9ac278ac64fc.jpeg?type=f274_154" length="0" type="image/jpeg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
             <link>https://m.vlive.tv/video/286726</link>
@@ -96,6 +86,16 @@
 										오전 11:30</span>
 										<span class="txt">ENHYPEN</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220701_57/1656673923023uaQB0_JPEG/upload_729432943467907190d753719-0c52-4841-b6e4-1286d12e74a9.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthew]]></title>
+            <link>https://m.vlive.tv/video/286728</link>
+            <guid>https://m.vlive.tv/video/286728</guid>
+            <pubDate>Sat, 02 Jul 2022 13:02:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220630_96/1656547649927BAJR5_JPEG/upload_72817232940054695b2c8ecba-4e5f-4bfe-ae80-612fb8749f08.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
