@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Jul 2022 22:42:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 23:42:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[fromis_9 Comeback Live 'Stay This Summer']]></title>
+            <link>https://www.vlive.tv/video/286586</link>
+            <guid>https://www.vlive.tv/video/286586</guid>
+            <pubDate>Sat, 02 Jul 2022 23:41:27 GMT</pubDate>
+            <content:encoded><![CDATA[fromis_9]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220628_232/1656385289318t2j64_JPEG/upload_7265486962233409944e6830d-b101-4e93-ae96-9ac278ac64fc.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[이 뭐선일이고]]></title>
             <link>https://www.vlive.tv/video/285758</link>
@@ -30,14 +38,6 @@
             <pubDate>Sat, 02 Jul 2022 14:40:26 GMT</pubDate>
             <content:encoded><![CDATA[TWICE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220702_291/1656729676170HgV5b_PNG/upload_1008085818703115462416ee5a-c934-4997-a2f3-0b92ea88522e.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[벌써 자는거 아니죠..?🤔]]></title>
-            <link>https://www.vlive.tv/video/286940</link>
-            <guid>https://www.vlive.tv/video/286940</guid>
-            <pubDate>Sat, 02 Jul 2022 22:41:46 GMT</pubDate>
-            <content:encoded><![CDATA[P1Harmony]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220703_75/1656776258961dAg6V_JPEG/1695646329444589743300ccd6-9cc8-4388-a458-00232a07faee.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
