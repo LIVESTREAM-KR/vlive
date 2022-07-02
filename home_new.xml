@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Jul 2022 21:41:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 22:42:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LIVE : 모여라 몬베베❤️]]></title>
+            <link>https://www.vlive.tv/video/286944</link>
+            <guid>https://www.vlive.tv/video/286944</guid>
+            <pubDate>Sat, 02 Jul 2022 22:41:31 GMT</pubDate>
+            <content:encoded><![CDATA[MONSTA X]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/286944/thumb?type=f228_128" length="0" type="image//live/286944/thumb"/>
+        </item>
         <item>
             <title><![CDATA[설마 지금 안자 크롱]]></title>
             <link>https://www.vlive.tv/video/286943</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 02 Jul 2022 13:43:15 GMT</pubDate>
             <content:encoded><![CDATA[YOUNITE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220702_165/1656768713836dTNC6_JPEG/d7815377-fa05-11ec-89b9-d4f5ef5906a4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[선공개] 김종민의 항아리 훈연 낙지구이! 🔥 "대박" 씹을수록 퍼지는 훈연 향, MBC 220704 방송]]></title>
-            <link>https://www.vlive.tv/video/286932</link>
-            <guid>https://www.vlive.tv/video/286932</guid>
-            <pubDate>Sat, 02 Jul 2022 13:43:15 GMT</pubDate>
-            <content:encoded><![CDATA[MBC 예능]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220702_245/1656767833855QN1jD_JPEG/upload_7303743306130709048cdbbc6-dc96-48b9-a664-192fd65fe78c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

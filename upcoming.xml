@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Jul 2022 21:41:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 22:42:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -358,6 +358,14 @@
             <pubDate>Sat, 02 Jul 2022 19:40:11 GMT</pubDate>
             <content:encoded><![CDATA[오후 7:47]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220703_263/1656788082701oSij8_JPEG/16966361365790895662eb0718-dc0f-460c-8fa6-12ca6484207f.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LIVE : 모여라 몬베베❤️]]></title>
+            <link>https://www.vlive.tv/video/286944</link>
+            <guid>https://www.vlive.tv/video/286944</guid>
+            <pubDate>Sat, 02 Jul 2022 22:42:21 GMT</pubDate>
+            <content:encoded><![CDATA[오후 10:05]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/286944/thumb?type=f228_128" length="0" type="image//live/286944/thumb"/>
         </item>
     </channel>
 </rss>
