@@ -4,7 +4,7 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Jul 2022 05:42:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 06:49:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,15 @@
             <guid>https://www.vlive.tv/video/286910</guid>
             <pubDate>Sat, 02 Jul 2022 05:41:11 GMT</pubDate>
             <content:encoded><![CDATA[AB6IX]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220702_200/1656742681181ycjFk_JPEG/6b852682-f9ce-11ec-b769-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여러분 오랜만이에요~]]></title>
+            <link>https://www.vlive.tv/video/286911</link>
+            <guid>https://www.vlive.tv/video/286911</guid>
+            <pubDate>Sat, 02 Jul 2022 06:47:49 GMT</pubDate>
+            <content:encoded><![CDATA[Golden Child]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220702_188/16567419400704UgQJ_JPEG/16961747101879296693a5dead-4a15-4ef9-a65d-af127e491ca0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[킹덤이들 500일♥]]></title>
@@ -397,14 +406,6 @@
             <pubDate>Fri, 01 Jul 2022 10:44:34 GMT</pubDate>
             <content:encoded><![CDATA[루미너스 (LUMINOUS)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220701_218/1656667349754F8HYb_PNG/upload_10074706667083549058df6a9c-c03f-4e00-91e1-7f638784a683.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[OH MY GIRL SKETCHBOOK 2] EP.52 미미 '뿅뿅 지구오락실' 제작발표회 Behind]]></title>
-            <link>https://www.vlive.tv/video/286840</link>
-            <guid>https://www.vlive.tv/video/286840</guid>
-            <pubDate>Fri, 01 Jul 2022 10:44:34 GMT</pubDate>
-            <content:encoded><![CDATA[OH MY GIRL]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220701_38/1656652346146iMCk7_JPEG/upload_10073200744207946092a39e8f-14ae-4741-98d8-751c41bde549.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
