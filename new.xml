@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 15:45:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 16:55:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[gym 호도]]></title>
+            <link>https://www.vlive.tv/video/286975</link>
+            <guid>https://www.vlive.tv/video/286975</guid>
+            <pubDate>Sun, 03 Jul 2022 16:54:20 GMT</pubDate>
+            <content:encoded><![CDATA[ONEUS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220704_209/1656866727171pgRuQ_JPEG/feea491f-faee-11ec-928a-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[응원법 🥒앱(넌 나의 봄이야)]]></title>
             <link>https://www.vlive.tv/video/286974</link>
@@ -398,14 +406,6 @@
             <pubDate>Sat, 02 Jul 2022 13:01:08 GMT</pubDate>
             <content:encoded><![CDATA[MONSTA X]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220630_68/1656584347345lbLEY_JPEG/upload_100664050347218108bd592fe2-c6f1-4826-bf89-0ba0e53b76e1.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[bugAboo(버가부) | boobooTV EP.33 앳스타일 BEHIND]]></title>
-            <link>https://www.vlive.tv/video/286744</link>
-            <guid>https://www.vlive.tv/video/286744</guid>
-            <pubDate>Sat, 02 Jul 2022 13:01:08 GMT</pubDate>
-            <content:encoded><![CDATA[bugAboo]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220630_84/1656560577956EvXap_JPEG/upload_7282970316667583320623388-a8fc-40c5-b209-a211845a481f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
