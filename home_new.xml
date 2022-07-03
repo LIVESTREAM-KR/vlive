@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 06:49:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 07:40:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,15 @@
             <guid>https://www.vlive.tv/video/286950</guid>
             <pubDate>Sun, 03 Jul 2022 06:48:05 GMT</pubDate>
             <content:encoded><![CDATA[ONEWE]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/286950/thumb?type=f228_128" length="0" type="image//live/286950/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220703_194/1656833602191muDli_JPEG/06637599-faa2-11ec-bb12-d4f5ef5a9532_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[날씨요정 등장🥰🥰]]></title>
+            <link>https://www.vlive.tv/video/286952</link>
+            <guid>https://www.vlive.tv/video/286952</guid>
+            <pubDate>Sun, 03 Jul 2022 07:39:34 GMT</pubDate>
+            <content:encoded><![CDATA[HEYGIRLS (헤이걸스)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220703_23/1656832876019yLxuB_JPEG/169621250017505519f87890c1-8426-473d-987e-98ad970bcc1f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안녕🐶🐻🐰]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 02 Jul 2022 15:45:06 GMT</pubDate>
             <content:encoded><![CDATA[MisoJeong]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220702_127/1656762147081vaufs_PNG/upload_730317497393481998fc10cd4-eb35-41e6-8a87-2beb39e7e66a.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[VIVIZ (비비지) - The 2nd Mini Album 'Summer Vibe' Album Preview]]></title>
-            <link>https://www.vlive.tv/video/286887</link>
-            <guid>https://www.vlive.tv/video/286887</guid>
-            <pubDate>Sat, 02 Jul 2022 15:45:06 GMT</pubDate>
-            <content:encoded><![CDATA[VIVIZ (비비지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220701_89/165668041748120Ar1_JPEG/upload_1007601214442091631abcc85b-7a11-4564-b9ef-6950b39042fc.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

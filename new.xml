@@ -4,7 +4,7 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 06:49:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 07:40:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,15 @@
             <guid>https://www.vlive.tv/video/286950</guid>
             <pubDate>Sun, 03 Jul 2022 06:47:56 GMT</pubDate>
             <content:encoded><![CDATA[ONEWE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220703_194/1656833602191muDli_JPEG/06637599-faa2-11ec-bb12-d4f5ef5a9532_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[날씨요정 등장🥰🥰]]></title>
+            <link>https://www.vlive.tv/video/286952</link>
+            <guid>https://www.vlive.tv/video/286952</guid>
+            <pubDate>Sun, 03 Jul 2022 07:39:23 GMT</pubDate>
+            <content:encoded><![CDATA[HEYGIRLS (헤이걸스)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220703_23/1656832876019yLxuB_JPEG/169621250017505519f87890c1-8426-473d-987e-98ad970bcc1f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안녕🐶🐻🐰]]></title>
@@ -397,14 +406,6 @@
             <pubDate>Sat, 02 Jul 2022 02:55:32 GMT</pubDate>
             <content:encoded><![CDATA[DRIPPIN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220702_94/165672729500132BGD_JPEG/upload_72996894254609907fa913080-8477-4355-a648-c3d3db407f8f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[선공개] 이 집 노래 맛집이네~💓 시소 & 콴무진의 데뷔곡 전격 공개!✨, MBC 220702]]></title>
-            <link>https://www.vlive.tv/video/286904</link>
-            <guid>https://www.vlive.tv/video/286904</guid>
-            <pubDate>Sat, 02 Jul 2022 02:55:32 GMT</pubDate>
-            <content:encoded><![CDATA[MBC 예능]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220702_142/1656725584498XxCvG_JPEG/upload_10080531697485303548a485bd-b5bc-4949-93f2-11c9f76b380e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
