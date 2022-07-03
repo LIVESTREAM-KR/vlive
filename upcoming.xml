@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 07:40:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 08:46:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Sun, 03 Jul 2022 06:48:49 GMT</pubDate>
             <content:encoded><![CDATA[오전 7:33]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220703_194/1656833602191muDli_JPEG/06637599-faa2-11ec-bb12-d4f5ef5a9532_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🐯 20220703 HAPPY DONGHAN DAY 🐯]]></title>
+            <link>https://www.vlive.tv/video/286954</link>
+            <guid>https://www.vlive.tv/video/286954</guid>
+            <pubDate>Sun, 03 Jul 2022 08:45:49 GMT</pubDate>
+            <content:encoded><![CDATA[오전 8:11]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220703_5/1656835910205thxjQ_JPEG/9599239301546885705ace743-df4c-4e5e-8786-cb99c181b341.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

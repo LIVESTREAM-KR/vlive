@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 07:40:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 08:46:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,9 +23,19 @@
             <guid>https://m.vlive.tv/video/286874</guid>
             <pubDate>Fri, 01 Jul 2022 11:40:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
+										방송취소</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220701_259/1656674091206TERo1_JPEG/upload_729436512298621920360f4f7-a701-4f7e-85f7-c34b236e126f.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / Q6ix 큐빅스)]]></title>
+            <link>https://m.vlive.tv/video/286955</link>
+            <guid>https://m.vlive.tv/video/286955</guid>
+            <pubDate>Sun, 03 Jul 2022 08:45:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220703_4/1656837070142Oxo8a_JPEG/upload_100916771319078649efca77a7-d01b-4e6f-9439-e393c7addf9e.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Arirang Radio (Super K-Pop / PIXY 픽시)]]></title>
@@ -86,16 +96,6 @@
 										오전 11:30</span>
 										<span class="txt">ENHYPEN</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220701_57/1656673923023uaQB0_JPEG/upload_729432943467907190d753719-0c52-4841-b6e4-1286d12e74a9.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthew]]></title>
-            <link>https://m.vlive.tv/video/286728</link>
-            <guid>https://m.vlive.tv/video/286728</guid>
-            <pubDate>Sat, 02 Jul 2022 13:02:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220630_96/1656547649927BAJR5_JPEG/upload_72817232940054695b2c8ecba-4e5f-4bfe-ae80-612fb8749f08.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
