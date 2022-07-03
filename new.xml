@@ -4,7 +4,7 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 17:42:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 18:47:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,13 @@
             <pubDate>Sun, 03 Jul 2022 17:41:19 GMT</pubDate>
             <content:encoded><![CDATA[OH MY GIRL]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220704_24/1656869345912dsmOD_JPEG/96025828721017451ca500540-289d-4a8d-aa1b-58334a0c7b30.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[럿디🐁#7]]></title>
+            <link>https://www.vlive.tv/video/286977</link>
+            <guid>https://www.vlive.tv/video/286977</guid>
+            <pubDate>Sun, 03 Jul 2022 18:46:12 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[💛뿅]]></title>
@@ -398,14 +405,6 @@
             <pubDate>Sat, 02 Jul 2022 13:43:07 GMT</pubDate>
             <content:encoded><![CDATA[fromis_9]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220628_232/1656385289318t2j64_JPEG/upload_7265486962233409944e6830d-b101-4e93-ae96-9ac278ac64fc.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[RVFILMS] RYS - 식은 음식 (Leftover) (Acoustic Visualizer)]]></title>
-            <link>https://www.vlive.tv/video/286858</link>
-            <guid>https://www.vlive.tv/video/286858</guid>
-            <pubDate>Sat, 02 Jul 2022 13:01:08 GMT</pubDate>
-            <content:encoded><![CDATA[ONEUS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220701_124/1656668704512IHGWE_JPEG/upload_1007484204788773307e4ee0fb-8a52-477b-b960-7981844f0bca.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

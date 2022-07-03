@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 17:42:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 18:47:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,11 +248,19 @@
             <enclosure url="https://v-phinf.pstatic.net/20220703_248/1656860339029fGefH_JPEG/169648739636664183887b742c-6eaa-4fce-8aa1-80c26a33efc8.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[럿디🐁#7]]></title>
+            <link>https://www.vlive.tv/video/286977</link>
+            <guid>https://www.vlive.tv/video/286977</guid>
+            <pubDate>Sun, 03 Jul 2022 18:47:09 GMT</pubDate>
+            <content:encoded><![CDATA[오후 6:29]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/286977/thumb?type=f228_128" length="0" type="image//live/286977/thumb"/>
+        </item>
+        <item>
             <title><![CDATA[크롱바 오늘도 들어올것이냐]]></title>
             <link>https://www.vlive.tv/video/286976</link>
             <guid>https://www.vlive.tv/video/286976</guid>
             <pubDate>Sun, 03 Jul 2022 17:42:14 GMT</pubDate>
-            <content:encoded><![CDATA[오후 5:29]]></content:encoded>
+            <content:encoded><![CDATA[오후 6:33]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220704_24/1656869345912dsmOD_JPEG/96025828721017451ca500540-289d-4a8d-aa1b-58334a0c7b30.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>

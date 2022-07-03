@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 17:42:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 18:47:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sun, 03 Jul 2022 17:41:28 GMT</pubDate>
             <content:encoded><![CDATA[OH MY GIRL]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220704_24/1656869345912dsmOD_JPEG/96025828721017451ca500540-289d-4a8d-aa1b-58334a0c7b30.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[럿디🐁#7]]></title>
+            <link>https://www.vlive.tv/video/286977</link>
+            <guid>https://www.vlive.tv/video/286977</guid>
+            <pubDate>Sun, 03 Jul 2022 18:46:21 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/286977/thumb?type=f228_128" length="0" type="image//live/286977/thumb"/>
         </item>
         <item>
             <title><![CDATA[💛뿅]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 03 Jul 2022 13:01:52 GMT</pubDate>
             <content:encoded><![CDATA[bugAboo]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220703_113/1656854630336OUhww_JPEG/5c9928ca-fad2-11ec-bb44-48df379ccacc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민둥 주디 크로스 💚💜]]></title>
-            <link>https://www.vlive.tv/video/286967</link>
-            <guid>https://www.vlive.tv/video/286967</guid>
-            <pubDate>Sun, 03 Jul 2022 13:01:52 GMT</pubDate>
-            <content:encoded><![CDATA[SATURDAY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220703_276/1656851507240FdW12_JPEG/169727123241050776b5fd7b34-66e2-4efb-98fd-a569a6ae1f61.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
