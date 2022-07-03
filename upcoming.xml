@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 16:55:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 17:42:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,14 +192,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220703_60/1656853995836taV7t_JPEG/96010478670642344cf09434b-db22-45e5-a259-8263a6b73408.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[💛뿅]]></title>
-            <link>https://www.vlive.tv/video/286973</link>
-            <guid>https://www.vlive.tv/video/286973</guid>
-            <pubDate>Sun, 03 Jul 2022 15:45:05 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:58]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220703_248/1656860339029fGefH_JPEG/169648739636664183887b742c-6eaa-4fce-8aa1-80c26a33efc8.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Looking for BLEE, #WOOJU in #NEVSEHIR]]></title>
             <link>https://www.vlive.tv/video/286884</link>
             <guid>https://www.vlive.tv/video/286884</guid>
@@ -246,6 +238,22 @@
             <pubDate>Sun, 03 Jul 2022 16:55:18 GMT</pubDate>
             <content:encoded><![CDATA[오후 4:45]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220704_209/1656866727171pgRuQ_JPEG/feea491f-faee-11ec-928a-48df37ae3dc4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[💛뿅]]></title>
+            <link>https://www.vlive.tv/video/286973</link>
+            <guid>https://www.vlive.tv/video/286973</guid>
+            <pubDate>Sun, 03 Jul 2022 15:45:05 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:12]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220703_248/1656860339029fGefH_JPEG/169648739636664183887b742c-6eaa-4fce-8aa1-80c26a33efc8.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크롱바 오늘도 들어올것이냐]]></title>
+            <link>https://www.vlive.tv/video/286976</link>
+            <guid>https://www.vlive.tv/video/286976</guid>
+            <pubDate>Sun, 03 Jul 2022 17:42:14 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:29]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220704_24/1656869345912dsmOD_JPEG/96025828721017451ca500540-289d-4a8d-aa1b-58334a0c7b30.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
