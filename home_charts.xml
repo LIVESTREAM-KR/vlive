@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 18:47:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 19:41:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[또~?]]></title>
+            <link>https://www.vlive.tv/video/286959</link>
+            <guid>https://www.vlive.tv/video/286959</guid>
+            <pubDate>Sun, 03 Jul 2022 19:40:07 GMT</pubDate>
+            <content:encoded><![CDATA[LE SSERAFIM]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220703_20/1656844775228IdoiF_JPEG/bb521692-fabb-11ec-ba01-505dac8c3607_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 뭐선일이고]]></title>
             <link>https://www.vlive.tv/video/285758</link>
@@ -30,14 +38,6 @@
             <pubDate>Sun, 03 Jul 2022 16:54:44 GMT</pubDate>
             <content:encoded><![CDATA[TWICE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220703_244/1656810111097483EB_PNG/upload_1008898224558096726fdc2b1b-810f-43fe-a917-fb91cea31c5d.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[🐯 20220703 HAPPY DONGHAN DAY 🐯]]></title>
-            <link>https://www.vlive.tv/video/286954</link>
-            <guid>https://www.vlive.tv/video/286954</guid>
-            <pubDate>Sun, 03 Jul 2022 18:46:36 GMT</pubDate>
-            <content:encoded><![CDATA[위아이 (WEi)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220703_5/1656835910205thxjQ_JPEG/9599239301546885705ace743-df4c-4e5e-8786-cb99c181b341.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
