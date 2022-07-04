@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 04:33:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 05:49:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Sound K / KARD 카드)]]></title>
-            <link>https://m.vlive.tv/video/286874</link>
-            <guid>https://m.vlive.tv/video/286874</guid>
-            <pubDate>Fri, 01 Jul 2022 11:40:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										방송취소</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220701_259/1656674091206TERo1_JPEG/upload_729436512298621920360f4f7-a701-4f7e-85f7-c34b236e126f.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arirang Radio (Sound K / Q6ix 큐빅스)]]></title>
-            <link>https://m.vlive.tv/video/286955</link>
-            <guid>https://m.vlive.tv/video/286955</guid>
-            <pubDate>Sun, 03 Jul 2022 08:45:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220703_4/1656837070142Oxo8a_JPEG/upload_100916771319078649efca77a7-d01b-4e6f-9439-e393c7addf9e.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Super K-Pop / PIXY 픽시)]]></title>
             <link>https://m.vlive.tv/video/286685</link>
@@ -36,6 +16,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220629_163/1656495679414PATMs_JPEG/upload_72765282895559802b5be46ac-f5a3-43cc-a3a4-b1f08a43012f.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요리킹 조리킹 : 달고나편]]></title>
+            <link>https://m.vlive.tv/video/286990</link>
+            <guid>https://m.vlive.tv/video/286990</guid>
+            <pubDate>Mon, 04 Jul 2022 05:48:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">YOUNITE</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220704_180/1656909969579lYerq_JPEG/upload_1009895537105906822fdf0552-3e18-48d6-b471-c8caa3418e79.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
@@ -96,6 +86,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220630_96/1656547649927BAJR5_JPEG/upload_72817232940054695b2c8ecba-4e5f-4bfe-ae80-612fb8749f08.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Sound K] Song Express ver.3 with Junny 주니]]></title>
+            <link>https://m.vlive.tv/video/286732</link>
+            <guid>https://m.vlive.tv/video/286732</guid>
+            <pubDate>Mon, 04 Jul 2022 05:48:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220704_2/1656913381378NM4b5_JPEG/upload_7281745299029780593a94ec7-28d4-4110-9f70-58eff96008b1.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
