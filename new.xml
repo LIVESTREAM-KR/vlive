@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 18:50:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 19:40:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BlACK]]></title>
+            <link>https://www.vlive.tv/video/287051</link>
+            <guid>https://www.vlive.tv/video/287051</guid>
+            <pubDate>Mon, 04 Jul 2022 19:39:15 GMT</pubDate>
+            <content:encoded><![CDATA[KISU]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220705_146/1656962359278Desmx_JPEG/50580135564148368788d2e87-fdc7-4e5a-8571-37084db591c9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[I want to go home]]></title>
             <link>https://www.vlive.tv/video/287050</link>
@@ -399,14 +407,6 @@ PROLOGUE]]></title>
             <pubDate>Mon, 04 Jul 2022 08:49:20 GMT</pubDate>
             <content:encoded><![CDATA[mydaily]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220704_34/1656920743474HCDhV_JPEG/upload_10100046166785270388880628-69bb-4f61-b200-536716630137.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[손흥민(Son Heung min) "아버지 의견에 동의…진짜 월클은 논쟁 없어"]]></title>
-            <link>https://www.vlive.tv/video/287010</link>
-            <guid>https://www.vlive.tv/video/287010</guid>
-            <pubDate>Mon, 04 Jul 2022 08:49:20 GMT</pubDate>
-            <content:encoded><![CDATA[mydaily]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220704_156/1656920698450d2O8X_JPEG/upload_101000428781235589b81d207a-63d8-4679-ad97-07761f20196f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

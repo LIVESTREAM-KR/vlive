@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 18:50:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 19:40:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BlACK]]></title>
+            <link>https://www.vlive.tv/video/287051</link>
+            <guid>https://www.vlive.tv/video/287051</guid>
+            <pubDate>Mon, 04 Jul 2022 19:39:23 GMT</pubDate>
+            <content:encoded><![CDATA[KISU]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220705_146/1656962359278Desmx_JPEG/50580135564148368788d2e87-fdc7-4e5a-8571-37084db591c9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[I want to go home]]></title>
             <link>https://www.vlive.tv/video/287050</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 04 Jul 2022 13:14:03 GMT</pubDate>
             <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220704_38/1656910945063hEdTs_JPEG/upload_73180473320869746a98fd8a9-f2bf-45e2-b91f-b57f3ace6084.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[몬채널][B] EP.309 MINHYUK W]]></title>
-            <link>https://www.vlive.tv/video/286786</link>
-            <guid>https://www.vlive.tv/video/286786</guid>
-            <pubDate>Mon, 04 Jul 2022 13:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[MONSTA X]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220630_188/1656584448685XBbSA_JPEG/upload_728540515727193520b4cd29e-6d4a-418f-8464-396894330ba7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
