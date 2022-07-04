@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 17:45:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 18:50:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[I want to go home]]></title>
+            <link>https://www.vlive.tv/video/287050</link>
+            <guid>https://www.vlive.tv/video/287050</guid>
+            <pubDate>Mon, 04 Jul 2022 18:49:17 GMT</pubDate>
+            <content:encoded><![CDATA[KISU]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220705_258/1656958745992y6SfE_JPEG/169834359981150209fc36da98-73f7-4827-9bed-5523ae0a364e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#OMRR 여행 가고 싶다 🥹💛]]></title>
             <link>https://www.vlive.tv/video/287049</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 04 Jul 2022 13:14:03 GMT</pubDate>
             <content:encoded><![CDATA[MONSTA X]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220630_188/1656584448685XBbSA_JPEG/upload_728540515727193520b4cd29e-6d4a-418f-8464-396894330ba7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[220704]월요환라이브]]></title>
-            <link>https://www.vlive.tv/video/287043</link>
-            <guid>https://www.vlive.tv/video/287043</guid>
-            <pubDate>Mon, 04 Jul 2022 13:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[VANNER (배너)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220704_4/16569393797269mx74_JPEG/4f26db2f-fb98-11ec-81b1-505dac8c3639_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
