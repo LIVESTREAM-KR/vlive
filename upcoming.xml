@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 13:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 13:57:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -409,14 +409,6 @@ PROLOGUE]]></title>
             <enclosure url="https://v-phinf.pstatic.net/20220704_24/1656933096818bOpSC_JPEG/upload_73202665829922047224f7ca4-a5ab-4b35-9f6a-c10848393cb5.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[밥 친구 해 줄 사람??]]></title>
-            <link>https://www.vlive.tv/video/287041</link>
-            <guid>https://www.vlive.tv/video/287041</guid>
-            <pubDate>Mon, 04 Jul 2022 13:14:49 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:20]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/287041/thumb?type=f228_128" length="0" type="image//live/287041/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[OMEGA X(오메가엑스) 'PLAY DUMB' Practice Ver.]]></title>
             <link>https://www.vlive.tv/video/287040</link>
             <guid>https://www.vlive.tv/video/287040</guid>
@@ -431,13 +423,6 @@ PROLOGUE]]></title>
             <pubDate>Mon, 04 Jul 2022 13:14:49 GMT</pubDate>
             <content:encoded><![CDATA[오후 12:43]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220704_47/1656938589043KGr5o_JPEG/upload_10101830745213476021a7dc4a-44f9-4bc0-8f40-fc1a45afecd6.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[220704]월요환라이브]]></title>
-            <link>https://www.vlive.tv/video/287044</link>
-            <guid>https://www.vlive.tv/video/287044</guid>
-            <pubDate>Mon, 04 Jul 2022 13:14:49 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:53]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이열치열 라디오🥰]]></title>
@@ -478,6 +463,30 @@ PROLOGUE]]></title>
             <pubDate>Mon, 04 Jul 2022 13:14:49 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220704_158/1656923044155dFVRl_JPEG/upload_101002729273219983986966fd-9cf3-42df-875a-09abce69130d.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[깨비의 이야기 보따리 0화]]></title>
+            <link>https://www.vlive.tv/video/287046</link>
+            <guid>https://www.vlive.tv/video/287046</guid>
+            <pubDate>Mon, 04 Jul 2022 13:57:08 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:34]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/287046/thumb?type=f228_128" length="0" type="image//live/287046/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[밥 친구 해 줄 사람??]]></title>
+            <link>https://www.vlive.tv/video/287041</link>
+            <guid>https://www.vlive.tv/video/287041</guid>
+            <pubDate>Mon, 04 Jul 2022 13:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:39]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220704_280/1656941989180iPX1Q_JPEG/c42ec771-fb9d-11ec-9d93-d4f5ef590144_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[220704]월요환라이브]]></title>
+            <link>https://www.vlive.tv/video/287044</link>
+            <guid>https://www.vlive.tv/video/287044</guid>
+            <pubDate>Mon, 04 Jul 2022 13:14:49 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:53]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220704_146/1656942835533ROBKN_JPEG/4815f393-fba0-11ec-928a-48df37ae3dc4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
