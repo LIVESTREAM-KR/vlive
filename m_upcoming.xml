@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 04:23:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 05:02:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / Sound K] Mystery Mix with BOiTELLO 보이텔로]]></title>
-            <link>https://m.vlive.tv/video/286731</link>
-            <guid>https://m.vlive.tv/video/286731</guid>
-            <pubDate>Fri, 01 Jul 2022 08:49:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220630_148/16565478298091geLK_JPEG/upload_1006275155429207029ee9ccb0-4e99-47af-86ea-ec8ab094928b.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Super K-Pop]Oh My K-Pop with NIve]]></title>
             <link>https://m.vlive.tv/video/286733</link>
@@ -86,6 +76,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220630_44/16565479862519891M_JPEG/upload_728175636614436476821d6c0-2fb2-4dc7-8f11-99dbf4bc4166.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MCND(엠씨엔디) THE EARTH : SECRET MISSION CHAPTER.2 SHOWCASE]]></title>
+            <link>https://m.vlive.tv/video/286232</link>
+            <guid>https://m.vlive.tv/video/286232</guid>
+            <pubDate>Tue, 05 Jul 2022 05:02:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 1:00</span>
+										<span class="txt">MCND</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220622_121/1655888171084NWdY2_JPEG/upload_999678924266299351fa0929b-f10c-42c2-ba73-c64e9de09415.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
