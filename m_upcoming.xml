@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 02:57:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 04:23:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[ASC Live Ep.530 (DRIPPIN / 드리핀)]]></title>
-            <link>https://m.vlive.tv/video/286836</link>
-            <guid>https://m.vlive.tv/video/286836</guid>
-            <pubDate>Fri, 01 Jul 2022 08:49:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 4:00</span>
-										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220701_285/1656651061632S6onF_PNG/upload_10073075859107545541b3e7a1-a991-43a5-8586-ab81872d8604.png?type=f274_154" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Sound K] Mystery Mix with BOiTELLO 보이텔로]]></title>
             <link>https://m.vlive.tv/video/286731</link>
@@ -86,6 +76,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220701_105/1656674023889V681j_JPEG/upload_100753626325151502967591df-8503-4c41-95fb-612a01895624.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop] Stray Quiz]]></title>
+            <link>https://m.vlive.tv/video/286734</link>
+            <guid>https://m.vlive.tv/video/286734</guid>
+            <pubDate>Tue, 05 Jul 2022 04:22:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220630_44/16565479862519891M_JPEG/upload_728175636614436476821d6c0-2fb2-4dc7-8f11-99dbf4bc4166.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
