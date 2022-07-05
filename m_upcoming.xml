@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 08:48:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 09:53:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220630_121/1656547733970YERlR_JPEG/upload_72817315474834114206af88f-f41e-49be-8da9-4a245bfbff4c.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop] Topic Song with BÉBE YANA , Jogon of 9001]]></title>
+            <link>https://m.vlive.tv/video/286735</link>
+            <guid>https://m.vlive.tv/video/286735</guid>
+            <pubDate>Tue, 05 Jul 2022 09:53:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220630_59/1656548025004uyuoq_JPEG/upload_728176093002274239fe19d5c-b6a3-4d3b-86d9-ba8e21fc05d7.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
