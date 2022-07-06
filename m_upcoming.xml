@@ -4,9 +4,19 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 05:48:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 06:52:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[초원이가 요리조리🍳🍽 EP.2]]></title>
+            <link>https://m.vlive.tv/video/287131</link>
+            <guid>https://m.vlive.tv/video/287131</guid>
+            <pubDate>Wed, 06 Jul 2022 06:52:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">ICHILLIN’</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220706_205/1657087210738EYEgJ_JPEG/upload_10116597538530247422818326-4ce3-40b1-81bb-d6ae50a37381.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
             <link>https://m.vlive.tv/video/286729</link>
@@ -56,16 +66,6 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220630_121/1656547733970YERlR_JPEG/upload_72817315474834114206af88f-f41e-49be-8da9-4a245bfbff4c.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Super K-Pop] Topic Song with BÉBE YANA , Jogon of 9001]]></title>
-            <link>https://m.vlive.tv/video/286735</link>
-            <guid>https://m.vlive.tv/video/286735</guid>
-            <pubDate>Wed, 06 Jul 2022 05:48:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220630_59/1656548025004uyuoq_JPEG/upload_728176093002274239fe19d5c-b6a3-4d3b-86d9-ba8e21fc05d7.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
