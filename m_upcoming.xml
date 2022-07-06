@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 06:52:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 07:42:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,16 +56,6 @@
 										오후 1:00</span>
 										<span class="txt">MCND</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220622_121/1655888171084NWdY2_JPEG/upload_999678924266299351fa0929b-f10c-42c2-ba73-c64e9de09415.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
-            <link>https://m.vlive.tv/video/286730</link>
-            <guid>https://m.vlive.tv/video/286730</guid>
-            <pubDate>Wed, 06 Jul 2022 04:33:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220630_121/1656547733970YERlR_JPEG/upload_72817315474834114206af88f-f41e-49be-8da9-4a245bfbff4c.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,33 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 06:52:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 07:42:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SEWOON_ing]]></title>
+            <link>https://www.vlive.tv/video/287141</link>
+            <guid>https://www.vlive.tv/video/287141</guid>
+            <pubDate>Wed, 06 Jul 2022 07:40:50 GMT</pubDate>
+            <content:encoded><![CDATA[정세운(Jeong Sewoon)]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/287141/thumb?type=f228_128" length="0" type="image//live/287141/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Sound K] Song Express ver.3 with Junny 주니]]></title>
+            <link>https://www.vlive.tv/video/286732</link>
+            <guid>https://www.vlive.tv/video/286732</guid>
+            <pubDate>Wed, 06 Jul 2022 05:47:22 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220704_2/1656913381378NM4b5_JPEG/upload_7281745299029780593a94ec7-28d4-4110-9f70-58eff96008b1.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / Song I Han 송이한)]]></title>
+            <link>https://www.vlive.tv/video/286684</link>
+            <guid>https://www.vlive.tv/video/286684</guid>
+            <pubDate>Wed, 06 Jul 2022 07:40:50 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220629_75/1656495560234B2fri_JPEG/upload_100575227992026017521989da-479b-48de-8352-e02f5eb6ac99.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드리핀의 오프닝 인사 비하인드]]></title>
             <link>https://www.vlive.tv/video/287135</link>
@@ -64,14 +88,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220706_9/1657073901006gzHd7_JPEG/upload_101153558467732019b0bac70f-1f87-469b-9752-24eef1ce3b30.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[Arirang Radio / Sound K] Song Express ver.3 with Junny 주니]]></title>
-            <link>https://www.vlive.tv/video/286732</link>
-            <guid>https://www.vlive.tv/video/286732</guid>
-            <pubDate>Wed, 06 Jul 2022 05:47:22 GMT</pubDate>
-            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220704_2/1656913381378NM4b5_JPEG/upload_7281745299029780593a94ec7-28d4-4110-9f70-58eff96008b1.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[우주소녀 WJSN ‘Last Sequence’ 응원법 Cheering Guide]]></title>
             <link>https://www.vlive.tv/video/287124</link>
             <guid>https://www.vlive.tv/video/287124</guid>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 06 Jul 2022 03:02:49 GMT</pubDate>
             <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220630_96/1656547649927BAJR5_JPEG/upload_72817232940054695b2c8ecba-4e5f-4bfe-ae80-612fb8749f08.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[REPLAY] 6/20 WINNER+'s Broadcast V]]></title>
-            <link>https://www.vlive.tv/video/286066</link>
-            <guid>https://www.vlive.tv/video/286066</guid>
-            <pubDate>Wed, 06 Jul 2022 03:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[WINNER]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220620_227/1655718167608jaxbU_JPEG/1685065615646476262b18f483-5ad0-4b02-a24a-919e27fe9f3d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[메이킹] 이한을 배신한 혁철의 광기😱폭발, 9~10회 비하인드 영상, MBC 220702 방송]]></title>
-            <link>https://www.vlive.tv/video/287115</link>
-            <guid>https://www.vlive.tv/video/287115</guid>
-            <pubDate>Wed, 06 Jul 2022 03:02:49 GMT</pubDate>
-            <content:encoded><![CDATA[MBC드라마]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220706_280/1657068579978zqbWx_JPEG/upload_101148296749810992f798f3c0-4101-4d6e-8ac2-1fd65699590a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

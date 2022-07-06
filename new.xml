@@ -4,9 +4,32 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 06:52:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 07:42:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SEWOON_ing]]></title>
+            <link>https://www.vlive.tv/video/287141</link>
+            <guid>https://www.vlive.tv/video/287141</guid>
+            <pubDate>Wed, 06 Jul 2022 07:40:41 GMT</pubDate>
+            <content:encoded><![CDATA[정세운(Jeong Sewoon)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Sound K] Song Express ver.3 with Junny 주니]]></title>
+            <link>https://www.vlive.tv/video/286732</link>
+            <guid>https://www.vlive.tv/video/286732</guid>
+            <pubDate>Wed, 06 Jul 2022 05:47:14 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220704_2/1656913381378NM4b5_JPEG/upload_7281745299029780593a94ec7-28d4-4110-9f70-58eff96008b1.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / Song I Han 송이한)]]></title>
+            <link>https://www.vlive.tv/video/286684</link>
+            <guid>https://www.vlive.tv/video/286684</guid>
+            <pubDate>Wed, 06 Jul 2022 07:40:41 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220629_75/1656495560234B2fri_JPEG/upload_100575227992026017521989da-479b-48de-8352-e02f5eb6ac99.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드리핀의 오프닝 인사 비하인드]]></title>
             <link>https://www.vlive.tv/video/287135</link>
@@ -62,14 +85,6 @@
             <pubDate>Wed, 06 Jul 2022 04:33:03 GMT</pubDate>
             <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220706_9/1657073901006gzHd7_JPEG/upload_101153558467732019b0bac70f-1f87-469b-9752-24eef1ce3b30.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Sound K] Song Express ver.3 with Junny 주니]]></title>
-            <link>https://www.vlive.tv/video/286732</link>
-            <guid>https://www.vlive.tv/video/286732</guid>
-            <pubDate>Wed, 06 Jul 2022 05:47:14 GMT</pubDate>
-            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220704_2/1656913381378NM4b5_JPEG/upload_7281745299029780593a94ec7-28d4-4110-9f70-58eff96008b1.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우주소녀 WJSN ‘Last Sequence’ 응원법 Cheering Guide]]></title>
@@ -390,22 +405,6 @@
             <pubDate>Tue, 05 Jul 2022 09:52:26 GMT</pubDate>
             <content:encoded><![CDATA[ONEUS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220705_73/1657008703459zLzd7_JPEG/upload_101088415949733058711b5906-1825-4b45-bfda-451302793b02.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우주소녀 WJSN 'Last Sequence' MV]]></title>
-            <link>https://www.vlive.tv/video/287077</link>
-            <guid>https://www.vlive.tv/video/287077</guid>
-            <pubDate>Tue, 05 Jul 2022 09:52:26 GMT</pubDate>
-            <content:encoded><![CDATA[우주소녀(WJSN)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220705_216/16570107361100puWd_JPEG/upload_73280340506247970c81ecfb6-c5fe-4f19-9093-7d60ef7d5c99.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WINNER - ‘I LOVE U’ M/V]]></title>
-            <link>https://www.vlive.tv/video/287073</link>
-            <guid>https://www.vlive.tv/video/287073</guid>
-            <pubDate>Tue, 05 Jul 2022 09:52:26 GMT</pubDate>
-            <content:encoded><![CDATA[WINNER]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220705_283/1657004438962PDn2L_JPEG/upload_1010841147677814189d8b3869-8efb-41fb-93f6-499c4bbac1a4.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
