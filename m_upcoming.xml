@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 09:47:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 10:47:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[초원이가 요리조리🍳🍽 EP.2]]></title>
-            <link>https://m.vlive.tv/video/287131</link>
-            <guid>https://m.vlive.tv/video/287131</guid>
-            <pubDate>Wed, 06 Jul 2022 06:52:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">ICHILLIN’</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220706_205/1657087210738EYEgJ_JPEG/upload_10116597538530247422818326-4ce3-40b1-81bb-d6ae50a37381.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
             <link>https://m.vlive.tv/video/286729</link>
@@ -66,6 +56,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220630_121/1656547733970YERlR_JPEG/upload_72817315474834114206af88f-f41e-49be-8da9-4a245bfbff4c.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Simply K-Pop CON-TOUR (심플리케이팝 콘투어) Ep.527]]></title>
+            <link>https://m.vlive.tv/video/287140</link>
+            <guid>https://m.vlive.tv/video/287140</guid>
+            <pubDate>Wed, 06 Jul 2022 10:47:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220706_73/1657091942664ASBLf_PNG/upload_1011716267517156979bb670e5-a7de-4533-a1e8-88678077dfeb.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
