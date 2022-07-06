@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 22:45:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 23:43:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -574,6 +574,14 @@
             <pubDate>Wed, 06 Jul 2022 19:01:03 GMT</pubDate>
             <content:encoded><![CDATA[오후 7:20]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220707_203/16571310714517K6as_JPEG/1699194720422307488e9ea4e2-8641-454e-a57b-d931a73cf869.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Susan morning call]]></title>
+            <link>https://www.vlive.tv/video/287185</link>
+            <guid>https://www.vlive.tv/video/287185</guid>
+            <pubDate>Wed, 06 Jul 2022 23:42:51 GMT</pubDate>
+            <content:encoded><![CDATA[오후 10:50]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/287185/thumb?type=f228_128" length="0" type="image//live/287185/thumb"/>
         </item>
     </channel>
 </rss>
