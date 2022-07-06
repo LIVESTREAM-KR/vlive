@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 17:47:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 19:01:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[❤️]]></title>
+            <link>https://www.vlive.tv/video/287184</link>
+            <guid>https://www.vlive.tv/video/287184</guid>
+            <pubDate>Wed, 06 Jul 2022 19:00:12 GMT</pubDate>
+            <content:encoded><![CDATA[KISU]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220707_203/16571310714517K6as_JPEG/1699194720422307488e9ea4e2-8641-454e-a57b-d931a73cf869.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[#OMRR 비오는 밤 RAINY NIGHT 💛🌃☔️]]></title>
             <link>https://www.vlive.tv/video/287183</link>
@@ -398,14 +406,6 @@
             <pubDate>Wed, 06 Jul 2022 09:46:15 GMT</pubDate>
             <content:encoded><![CDATA[BRANDNEW MUSIC]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220705_198/1657017136494xSFab_JPEG/upload_10109664416827882875e93e90-7f5d-4451-b1e6-62d5c31b2f05.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[르세라핌 카즈하·사쿠라 (LE SSERAFIM KAZUHA·SAKURA), 잘 다녀왔어요~ | LE SSERAFIM SAKURA·KAZUHA Airport Arrival]]></title>
-            <link>https://www.vlive.tv/video/287153</link>
-            <guid>https://www.vlive.tv/video/287153</guid>
-            <pubDate>Wed, 06 Jul 2022 08:48:10 GMT</pubDate>
-            <content:encoded><![CDATA[TEN Asia (텐아시아)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220706_273/1657097119306B05BU_JPEG/upload_7336671544689168810d07eba-3e07-4baa-bb03-dc56272e6417.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
