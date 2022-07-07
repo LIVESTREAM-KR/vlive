@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 17:49:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 19:01:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220707_160/1657200359553hkumY_JPEG/4e6b31bd-fdf7-11ec-ba01-505dac8c3607_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[j-hope 'MORE' Official MV]]></title>
-            <link>https://www.vlive.tv/video/286824</link>
-            <guid>https://www.vlive.tv/video/286824</guid>
-            <pubDate>Thu, 07 Jul 2022 03:01:16 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220701_227/1656637774983IQufR_PNG/upload_100716847050657859d0b8a2a5-419b-49ce-a81f-0c42972d9c4a.PNG?type=f228_128_wp" length="0" type="image/PNG"/>
-        </item>
-        <item>
             <title><![CDATA[ENHYPEN (엔하이픈) 'Future Perfect (Pass the MIC)' Official MV (Choreography ver.)]]></title>
             <link>https://www.vlive.tv/video/287273</link>
             <guid>https://www.vlive.tv/video/287273</guid>
             <pubDate>Thu, 07 Jul 2022 17:05:37 GMT</pubDate>
             <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220707_14/16571995570250J8LR_PNG/upload_1012792620189124590731a5d8-747a-433b-b0c1-173c3e2c86c3.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[j-hope 'MORE' Official MV]]></title>
+            <link>https://www.vlive.tv/video/286824</link>
+            <guid>https://www.vlive.tv/video/286824</guid>
+            <pubDate>Thu, 07 Jul 2022 03:01:16 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220701_227/1656637774983IQufR_PNG/upload_100716847050657859d0b8a2a5-419b-49ce-a81f-0c42972d9c4a.PNG?type=f228_128_wp" length="0" type="image/PNG"/>
         </item>
     </channel>
 </rss>
