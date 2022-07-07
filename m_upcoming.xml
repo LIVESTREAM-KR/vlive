@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 09:44:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 10:47:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[나인아이 데뷔 100일 됐어요💖🎉]]></title>
-            <link>https://m.vlive.tv/video/287194</link>
-            <guid>https://m.vlive.tv/video/287194</guid>
-            <pubDate>Thu, 07 Jul 2022 04:31:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">NINE.i</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220707_195/1657163662863KX2vm_JPEG/upload_101243351658933971083b4e37-b0cc-42a9-8564-0dd9a42c83b5.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[MCND(엠씨엔디) THE EARTH : SECRET MISSION CHAPTER.2 SHOWCASE]]></title>
             <link>https://m.vlive.tv/video/286232</link>
@@ -86,6 +76,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220707_21/1657170919712UDSUl_JPEG/upload_7344048883673677193decfb5-de94-4faa-9f87-831a260a6774.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio/K-Poppin'] Singlish with DKB]]></title>
+            <link>https://m.vlive.tv/video/287207</link>
+            <guid>https://m.vlive.tv/video/287207</guid>
+            <pubDate>Thu, 07 Jul 2022 10:46:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220707_32/1657171936983Fcxfn_JPEG/upload_10125162634326431402b4318d-877c-4c38-8a9d-c252af112c3d.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
