@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 11:42:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 13:13:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[심야 라디오🚨on-온🚨]]></title>
-            <link>https://m.vlive.tv/video/287224</link>
-            <guid>https://m.vlive.tv/video/287224</guid>
-            <pubDate>Thu, 07 Jul 2022 09:44:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 1:00</span>
-										<span class="txt">YOUNITE</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220707_70/16571772877866cW5r_JPEG/upload_101256877434685107dd183d97-1298-44d3-b529-0f6d4fe5e004.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
             <link>https://m.vlive.tv/video/287199</link>
@@ -106,6 +96,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220707_118/1657171049171tt8Cf_JPEG/upload_1012507535263250563bb0ee83-e923-47c9-9710-f51de5936d9b.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio/K-Poppin'] Entertainer Siloé Anzardi / 엔터테이너 앙자르디 실로에]]></title>
+            <link>https://m.vlive.tv/video/287208</link>
+            <guid>https://m.vlive.tv/video/287208</guid>
+            <pubDate>Fri, 08 Jul 2022 13:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220707_81/1657172065426u5yaV_JPEG/upload_101251694150152968d47f4b0c-25a6-4eac-bfa1-0bff040ba6f3.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
