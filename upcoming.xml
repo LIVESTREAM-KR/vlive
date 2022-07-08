@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 17:50:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 18:50:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -776,14 +776,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220709_49/1657293514307PCfyD_JPEG/d98cee53-fecf-11ec-a120-505dacfbaa5c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[내일 더 사랑할게! 💛🐝]]></title>
-            <link>https://www.vlive.tv/video/287390</link>
-            <guid>https://www.vlive.tv/video/287390</guid>
-            <pubDate>Fri, 08 Jul 2022 15:48:45 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:19]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220709_188/1657293590131ap7r7_JPEG/17016920409252322031f17ab4-6cd0-4bd3-b397-07bf2faf96be.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[선공개] 한적한 한강변에 등장한 에스파 ✨✨ 라면부터 소시지 먹방까지! 찐 현실 에스파 일상 대공개, MBC 220709 방송]]></title>
             <link>https://www.vlive.tv/video/287391</link>
             <guid>https://www.vlive.tv/video/287391</guid>
@@ -798,6 +790,14 @@
             <pubDate>Fri, 08 Jul 2022 17:06:24 GMT</pubDate>
             <content:encoded><![CDATA[오후 4:52]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220709_27/1657299241429Uq9l9_JPEG/upload_101378872384796591a75b09cd-a3b9-42fd-af71-db04e00bf143.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내일 더 사랑할게! 💛🐝]]></title>
+            <link>https://www.vlive.tv/video/287390</link>
+            <guid>https://www.vlive.tv/video/287390</guid>
+            <pubDate>Fri, 08 Jul 2022 15:48:45 GMT</pubDate>
+            <content:encoded><![CDATA[오후 6:03]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220709_188/1657293590131ap7r7_JPEG/17016920409252322031f17ab4-6cd0-4bd3-b397-07bf2faf96be.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
