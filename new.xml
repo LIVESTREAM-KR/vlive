@@ -4,9 +4,16 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 22:43:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 23:43:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[LIVE] 신사비티🕴]]></title>
+            <link>https://www.vlive.tv/video/287395</link>
+            <guid>https://www.vlive.tv/video/287395</guid>
+            <pubDate>Fri, 08 Jul 2022 23:42:07 GMT</pubDate>
+            <content:encoded><![CDATA[CRAVITY]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Hi]]></title>
             <link>https://www.vlive.tv/video/287393</link>
@@ -398,14 +405,6 @@
             <pubDate>Fri, 08 Jul 2022 09:44:41 GMT</pubDate>
             <content:encoded><![CDATA[E'LAST]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220708_47/1657258875597KUhkw_JPEG/upload_101262949389772289773422fa-a198-466c-ad64-9335b9aa5668.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빈센트블루 (Vincent Blue) ‘무덤까지 가져가 (Take it To the Grave)’ M/V TEASER]]></title>
-            <link>https://www.vlive.tv/video/287227</link>
-            <guid>https://www.vlive.tv/video/287227</guid>
-            <pubDate>Fri, 08 Jul 2022 09:44:41 GMT</pubDate>
-            <content:encoded><![CDATA[BRANDNEW MUSIC]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220707_79/1657178878403B5ny5_JPEG/upload_7344842975652692057747d86-aba1-4c65-9092-6793ca016c27.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

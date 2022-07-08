@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 22:43:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 23:43:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[LIVE] 신사비티🕴]]></title>
+            <link>https://www.vlive.tv/video/287395</link>
+            <guid>https://www.vlive.tv/video/287395</guid>
+            <pubDate>Fri, 08 Jul 2022 23:42:15 GMT</pubDate>
+            <content:encoded><![CDATA[CRAVITY]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/287395/thumb?type=f228_128" length="0" type="image//live/287395/thumb"/>
+        </item>
         <item>
             <title><![CDATA[Hi]]></title>
             <link>https://www.vlive.tv/video/287393</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 08 Jul 2022 13:55:10 GMT</pubDate>
             <content:encoded><![CDATA[T1419]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220708_124/1657283859793iwrRr_JPEG/1700722337869468363141d39f-0bca-41c2-a3f3-a02270e2c759.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arirang Radio (Radio'n Us / Kim YoungHeum 김영흠)]]></title>
-            <link>https://www.vlive.tv/video/286991</link>
-            <guid>https://www.vlive.tv/video/286991</guid>
-            <pubDate>Fri, 08 Jul 2022 11:40:48 GMT</pubDate>
-            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220704_223/16569101390480tSn1_JPEG/upload_100989815855673137a1e5f76b-9d4e-4b8a-85ac-55299a852219.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
