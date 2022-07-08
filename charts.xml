@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 05:06:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 05:46:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 08 Jul 2022 02:55:40 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220708_292/1657247883430QmTkG_JPEG/5f92a21b-fe65-11ec-aef4-48df37ae3fca_02.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시카고에서의 밤]]></title>
+            <link>https://www.vlive.tv/video/287328</link>
+            <guid>https://www.vlive.tv/video/287328</guid>
+            <pubDate>Fri, 08 Jul 2022 05:45:50 GMT</pubDate>
+            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220708_230/1657256901770b7wBx_JPEG/upload_101336632472659125b819ae6c-5af9-4834-b8a5-ac1d4925eaff.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ss]]></title>
@@ -29,7 +37,7 @@
             <guid>https://www.vlive.tv/video/287222</guid>
             <pubDate>Thu, 07 Jul 2022 07:42:08 GMT</pubDate>
             <content:encoded><![CDATA[TREASURE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220707_200/1657176205288rcCNc_JPEG/170051869264517511b81a556c-9e7c-4ab2-8337-85fd431189ba.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220707_200/1657176205288rcCNc_JPEG/170051869264517511b81a556c-9e7c-4ab2-8337-85fd431189ba.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ENHYPEN (엔하이픈) 'Future Perfect (Pass the MIC)' Official MV (Choreography ver.)]]></title>
@@ -54,14 +62,6 @@
             <pubDate>Thu, 07 Jul 2022 14:00:21 GMT</pubDate>
             <content:encoded><![CDATA[NMIXX]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220707_160/1657200359553hkumY_JPEG/4e6b31bd-fdf7-11ec-ba01-505dac8c3607_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[j-hope 'MORE' Official MV]]></title>
-            <link>https://www.vlive.tv/video/286824</link>
-            <guid>https://www.vlive.tv/video/286824</guid>
-            <pubDate>Fri, 01 Jul 2022 08:48:39 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220701_227/1656637774983IQufR_PNG/upload_100716847050657859d0b8a2a5-419b-49ce-a81f-0c42972d9c4a.PNG?type=f228_128_wp" length="0" type="image/PNG"/>
         </item>
     </channel>
 </rss>
