@@ -4,9 +4,16 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 20:46:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 21:43:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hi]]></title>
+            <link>https://www.vlive.tv/video/287393</link>
+            <guid>https://www.vlive.tv/video/287393</guid>
+            <pubDate>Fri, 08 Jul 2022 21:41:51 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[내일 더 사랑할게! 💛🐝]]></title>
             <link>https://www.vlive.tv/video/287390</link>
@@ -398,14 +405,6 @@
             <pubDate>Fri, 08 Jul 2022 09:44:41 GMT</pubDate>
             <content:encoded><![CDATA[BRANDNEW MUSIC]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220707_79/1657178878403B5ny5_JPEG/upload_7344842975652692057747d86-aba1-4c65-9092-6793ca016c27.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안녕 글에이스😉]]></title>
-            <link>https://www.vlive.tv/video/287349</link>
-            <guid>https://www.vlive.tv/video/287349</guid>
-            <pubDate>Fri, 08 Jul 2022 07:40:25 GMT</pubDate>
-            <content:encoded><![CDATA[멋진녀석들 (GreatGuys)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220708_188/16572651668421sBgT_JPEG/17005354083366491314403edd-98e6-4652-b634-19285d2d2c13.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
