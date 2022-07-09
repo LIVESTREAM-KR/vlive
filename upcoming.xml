@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Jul 2022 22:45:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 23:44:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -374,6 +374,14 @@
             <pubDate>Sat, 09 Jul 2022 19:40:25 GMT</pubDate>
             <content:encoded><![CDATA[오후 7:43]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220710_1/1657394119528qT4WO_JPEG/17018249052142056227e8e893-abd8-4c9e-8cef-501801b83917.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE] 비티FC⚽️]]></title>
+            <link>https://www.vlive.tv/video/287439</link>
+            <guid>https://www.vlive.tv/video/287439</guid>
+            <pubDate>Sat, 09 Jul 2022 23:43:51 GMT</pubDate>
+            <content:encoded><![CDATA[오후 10:52]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220710_280/16574071775904RRHb_JPEG/15d55018-ffd9-11ec-8055-505dac8c385b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

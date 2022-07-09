@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Jul 2022 22:45:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 23:44:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[LIVE] 비티FC⚽️]]></title>
+            <link>https://www.vlive.tv/video/287439</link>
+            <guid>https://www.vlive.tv/video/287439</guid>
+            <pubDate>Sat, 09 Jul 2022 23:42:59 GMT</pubDate>
+            <content:encoded><![CDATA[CRAVITY]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220710_280/16574071775904RRHb_JPEG/15d55018-ffd9-11ec-8055-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이 시간에 안자는 당신 이상해 나는 더 이상해]]></title>
             <link>https://www.vlive.tv/video/287438</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 09 Jul 2022 13:03:46 GMT</pubDate>
             <content:encoded><![CDATA[KINGDOM]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220709_183/1657376424388opIqg_PNG/upload_736460282945505240393d280-28e3-456b-b5f7-e610db3014e9.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[돌아온 현우데 🕺]]></title>
-            <link>https://www.vlive.tv/video/287421</link>
-            <guid>https://www.vlive.tv/video/287421</guid>
-            <pubDate>Sat, 09 Jul 2022 13:03:46 GMT</pubDate>
-            <content:encoded><![CDATA[YOUNITE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220709_251/1657373890143RD1h5_JPEG/ba774b9b-ff8b-11ec-bb12-d4f5ef5a9532_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
