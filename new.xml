@@ -4,7 +4,7 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Jul 2022 15:46:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 16:56:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,13 +13,7 @@
             <guid>https://www.vlive.tv/video/287435</guid>
             <pubDate>Sat, 09 Jul 2022 15:44:30 GMT</pubDate>
             <content:encoded><![CDATA[SF9]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ㅎㅇ]]></title>
-            <link>https://www.vlive.tv/video/287433</link>
-            <guid>https://www.vlive.tv/video/287433</guid>
-            <pubDate>Sat, 09 Jul 2022 15:44:30 GMT</pubDate>
-            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220710_236/1657382699242qFQLW_JPEG/941a89b7-ffa0-11ec-89b9-d4f5ef5906a4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[밤에 하는 라이브 ☽ ☻]]></title>
@@ -28,6 +22,21 @@
             <pubDate>Sat, 09 Jul 2022 15:44:30 GMT</pubDate>
             <content:encoded><![CDATA[Weki Meki]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220710_118/1657379329741TKnuc_JPEG/17016772115555686048a17f98-7014-434b-b638-185d316f0666.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[london>_<]]></title>
+            <link>https://www.vlive.tv/video/287432</link>
+            <guid>https://www.vlive.tv/video/287432</guid>
+            <pubDate>Sat, 09 Jul 2022 16:54:26 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220710_275/1657381514122N2BMY_JPEG/c88dfed2-ff9d-11ec-ba01-505dac8c3607_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ㅎㅇ]]></title>
+            <link>https://www.vlive.tv/video/287433</link>
+            <guid>https://www.vlive.tv/video/287433</guid>
+            <pubDate>Sat, 09 Jul 2022 15:44:30 GMT</pubDate>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[피부 좋아지는 올바른 60초 세안법💦]]></title>
@@ -396,14 +405,6 @@
             <pubDate>Fri, 08 Jul 2022 15:47:54 GMT</pubDate>
             <content:encoded><![CDATA[ITZY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220709_232/16572938262504FuRs_PNG/upload_7356343140255032886dac7c2-f4de-47ea-bdb5-4145e3db134d.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[4K] NAYEON "POP!" MTV Fresh Out Live Full Performance]]></title>
-            <link>https://www.vlive.tv/video/287300</link>
-            <guid>https://www.vlive.tv/video/287300</guid>
-            <pubDate>Fri, 08 Jul 2022 15:47:54 GMT</pubDate>
-            <content:encoded><![CDATA[TWICE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220708_123/1657244540147ruQlg_PNG/upload_101324254372679185a087c9ba-24d0-467d-b430-3ef099f58b47.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Jul 2022 15:46:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 16:56:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,15 +13,7 @@
             <guid>https://www.vlive.tv/video/287435</guid>
             <pubDate>Sat, 09 Jul 2022 15:44:39 GMT</pubDate>
             <content:encoded><![CDATA[SF9]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/287435/thumb?type=f228_128" length="0" type="image//live/287435/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[ㅎㅇ]]></title>
-            <link>https://www.vlive.tv/video/287433</link>
-            <guid>https://www.vlive.tv/video/287433</guid>
-            <pubDate>Sat, 09 Jul 2022 15:44:39 GMT</pubDate>
-            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/287433/thumb?type=f228_128" length="0" type="image//live/287433/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220710_236/1657382699242qFQLW_JPEG/941a89b7-ffa0-11ec-89b9-d4f5ef5906a4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[밤에 하는 라이브 ☽ ☻]]></title>
@@ -30,6 +22,22 @@
             <pubDate>Sat, 09 Jul 2022 15:44:39 GMT</pubDate>
             <content:encoded><![CDATA[Weki Meki]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220710_118/1657379329741TKnuc_JPEG/17016772115555686048a17f98-7014-434b-b638-185d316f0666.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[london>_<]]></title>
+            <link>https://www.vlive.tv/video/287432</link>
+            <guid>https://www.vlive.tv/video/287432</guid>
+            <pubDate>Sat, 09 Jul 2022 16:54:36 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220710_275/1657381514122N2BMY_JPEG/c88dfed2-ff9d-11ec-ba01-505dac8c3607_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ㅎㅇ]]></title>
+            <link>https://www.vlive.tv/video/287433</link>
+            <guid>https://www.vlive.tv/video/287433</guid>
+            <pubDate>Sat, 09 Jul 2022 15:44:39 GMT</pubDate>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/287433/thumb?type=f228_128" length="0" type="image//live/287433/thumb"/>
         </item>
         <item>
             <title><![CDATA[피부 좋아지는 올바른 60초 세안법💦]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 09 Jul 2022 13:45:34 GMT</pubDate>
             <content:encoded><![CDATA[TEENTOP]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220709_52/16573717767213fPAx_JPEG/upload_101451440314119695ee69633a-f890-400d-84f8-0f62fa76b1df.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원어스(ONEUS) GUARD OF TOMOON – Visual Action 환웅(HWAN WOONG)]]></title>
-            <link>https://www.vlive.tv/video/287409</link>
-            <guid>https://www.vlive.tv/video/287409</guid>
-            <pubDate>Sat, 09 Jul 2022 13:03:46 GMT</pubDate>
-            <content:encoded><![CDATA[ONEUS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220709_207/1657350450295R1mW3_JPEG/upload_101430147034548350d6ff7d78-9e34-4f78-a4d9-f2b3c7f53dea.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
