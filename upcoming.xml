@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Jul 2022 04:52:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 05:41:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,22 @@
             <pubDate>Sat, 09 Jul 2022 04:00:41 GMT</pubDate>
             <content:encoded><![CDATA[오전 3:20]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220709_244/1657336840623VI0HO_JPEG/upload_101416175955028094212018a0-6c6c-4092-bf33-dbb04623f14b.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[토요일의 엄공쥬 🎀]]></title>
+            <link>https://www.vlive.tv/video/287403</link>
+            <guid>https://www.vlive.tv/video/287403</guid>
+            <pubDate>Sat, 09 Jul 2022 05:41:01 GMT</pubDate>
+            <content:encoded><![CDATA[오전 5:37]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220709_252/1657344919518IUrOl_JPEG/140656395314537422a4012ccd-0a8d-4131-a3e1-2693848cbeda.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[토요일의 엄공쥬🎀]]></title>
+            <link>https://www.vlive.tv/video/287404</link>
+            <guid>https://www.vlive.tv/video/287404</guid>
+            <pubDate>Sat, 09 Jul 2022 05:41:01 GMT</pubDate>
+            <content:encoded><![CDATA[오전 5:37]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220709_16/1657345063905Mw0ln_JPEG/1701334348505595672c9bd3db-31c8-492a-8644-385c22dbea29.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
