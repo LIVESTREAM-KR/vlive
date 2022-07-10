@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 15:47:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 16:56:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,14 +256,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220710_81/16574616771130p7Ov_JPEG/upload_10154140926366240207c8894a-2a97-4a0b-95bb-f4809bb15abd.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[새벽 라디오 같은 라이브]]></title>
-            <link>https://www.vlive.tv/video/287469</link>
-            <guid>https://www.vlive.tv/video/287469</guid>
-            <pubDate>Sun, 10 Jul 2022 15:47:08 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:11]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220711_158/1657465902499eu79t_JPEG/170341420450897276a9ea9d20-02ba-4705-9241-906ddcb58f43.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[진짜 오랜만에 콩나물FM🌱🤍🫧]]></title>
             <link>https://www.vlive.tv/video/287468</link>
             <guid>https://www.vlive.tv/video/287468</guid>
@@ -281,10 +273,27 @@
         </item>
         <item>
             <title><![CDATA[Olá! Somos DKZ (in BRAZIL🇧🇷)]]></title>
-            <link>https://www.vlive.tv/video/287470</link>
-            <guid>https://www.vlive.tv/video/287470</guid>
+            <link>https://www.vlive.tv/video/287473</link>
+            <guid>https://www.vlive.tv/video/287473</guid>
+            <pubDate>Sun, 10 Jul 2022 16:55:45 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:13]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220711_207/16574696176098Am8j_JPEG/1f189a17-006b-11ed-89b9-d4f5ef5906a4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🐻🍞]]></title>
+            <link>https://www.vlive.tv/video/287471</link>
+            <guid>https://www.vlive.tv/video/287471</guid>
+            <pubDate>Sun, 10 Jul 2022 16:55:45 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:39]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220711_32/1657471140184cSwTl_JPEG/60e0c8a0-006e-11ed-89b9-d4f5ef5906a4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새벽 라디오 같은 라이브]]></title>
+            <link>https://www.vlive.tv/video/287469</link>
+            <guid>https://www.vlive.tv/video/287469</guid>
             <pubDate>Sun, 10 Jul 2022 15:47:08 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:47]]></content:encoded>
+            <content:encoded><![CDATA[오후 4:52]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220711_158/1657465902499eu79t_JPEG/170341420450897276a9ea9d20-02ba-4705-9241-906ddcb58f43.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
