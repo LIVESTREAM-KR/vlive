@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 10:44:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 11:42:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,14 +104,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220710_20/1657442505346jU09G_JPEG/51060281619429872386a8e41-ab93-4f45-8c0f-ac540646febf.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[맛밤 아니고 먹방 아니고 막방]]></title>
-            <link>https://www.vlive.tv/video/287452</link>
-            <guid>https://www.vlive.tv/video/287452</guid>
-            <pubDate>Sun, 10 Jul 2022 09:42:51 GMT</pubDate>
-            <content:encoded><![CDATA[오전 9:23]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/287452/thumb?type=f228_128" length="0" type="image//live/287452/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[허성현(Huh) - '926' Behind The Scenes]]></title>
             <link>https://www.vlive.tv/video/287444</link>
             <guid>https://www.vlive.tv/video/287444</guid>
@@ -144,20 +136,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20220708_128/1657263287252FYJvt_JPEG/upload_7346154084338314780d7fce8-88ce-4c4b-bf48-9b4b2f23fd98.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[룰루랄라~🎶]]></title>
-            <link>https://www.vlive.tv/video/287455</link>
-            <guid>https://www.vlive.tv/video/287455</guid>
-            <pubDate>Sun, 10 Jul 2022 10:44:15 GMT</pubDate>
-            <content:encoded><![CDATA[오전 10:02]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/287455/thumb?type=f228_128" length="0" type="image//live/287455/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[블루 레몬 에이드]]></title>
             <link>https://www.vlive.tv/video/287456</link>
             <guid>https://www.vlive.tv/video/287456</guid>
             <pubDate>Sun, 10 Jul 2022 10:44:15 GMT</pubDate>
             <content:encoded><![CDATA[오전 10:21]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220710_33/1657448506634k3tmi_JPEG/1702368962669304770ef1adaa-921c-4f82-93ce-506857a469ad.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[룰루랄라~🎶]]></title>
+            <link>https://www.vlive.tv/video/287455</link>
+            <guid>https://www.vlive.tv/video/287455</guid>
+            <pubDate>Sun, 10 Jul 2022 10:44:15 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:04]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220710_251/1657451045570ooSAW_JPEG/3e0aad7e-003f-11ed-b77c-48df379cca40_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[맛밤 아니고 먹방 아니고 막방]]></title>
+            <link>https://www.vlive.tv/video/287452</link>
+            <guid>https://www.vlive.tv/video/287452</guid>
+            <pubDate>Sun, 10 Jul 2022 09:42:51 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:41]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220710_244/1657453287688E2va3_JPEG/4eb707f0-0043-11ed-81b1-505dac8c3639_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
