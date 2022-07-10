@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 04:55:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 05:42:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Sun, 10 Jul 2022 04:07:40 GMT</pubDate>
             <content:encoded><![CDATA[오전 4:33]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220710_282/1657428101264k8wgB_JPEG/upload_101507824089543503dfca4520-0751-42cf-8da9-98bd3308e53d.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[드림캐쳐] 지금은 11시 18분]]></title>
+            <link>https://www.vlive.tv/video/287443</link>
+            <guid>https://www.vlive.tv/video/287443</guid>
+            <pubDate>Sun, 10 Jul 2022 05:42:23 GMT</pubDate>
+            <content:encoded><![CDATA[오전 5:01]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220710_280/1657430433382M1Wq1_JPEG/c3c8fd4a-000c-11ed-bb44-48df379ccacc_01.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
