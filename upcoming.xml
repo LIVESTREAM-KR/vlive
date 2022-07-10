@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 22:43:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 23:43:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,6 +294,22 @@
             <pubDate>Sun, 10 Jul 2022 15:47:08 GMT</pubDate>
             <content:encoded><![CDATA[오후 4:52]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220711_158/1657465902499eu79t_JPEG/170341420450897276a9ea9d20-02ba-4705-9241-906ddcb58f43.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CIX KIM Brothers 🕺]]></title>
+            <link>https://www.vlive.tv/video/287475</link>
+            <guid>https://www.vlive.tv/video/287475</guid>
+            <pubDate>Sun, 10 Jul 2022 23:43:04 GMT</pubDate>
+            <content:encoded><![CDATA[오후 10:50]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/287475/thumb?type=f228_128" length="0" type="image//live/287475/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE] 한류_팝_페스티벌_후기_푼다요]]></title>
+            <link>https://www.vlive.tv/video/287476</link>
+            <guid>https://www.vlive.tv/video/287476</guid>
+            <pubDate>Sun, 10 Jul 2022 23:43:04 GMT</pubDate>
+            <content:encoded><![CDATA[오후 10:56]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/287476/thumb?type=f228_128" length="0" type="image//live/287476/thumb"/>
         </item>
     </channel>
 </rss>
