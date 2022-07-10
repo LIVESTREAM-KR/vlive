@@ -4,7 +4,7 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 04:08:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 04:55:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,14 @@
             <guid>https://www.vlive.tv/video/287442</guid>
             <pubDate>Sun, 10 Jul 2022 04:06:36 GMT</pubDate>
             <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220710_282/1657428101264k8wgB_JPEG/upload_101507824089543503dfca4520-0751-42cf-8da9-98bd3308e53d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[드림캐쳐] 지금은 11시 18분]]></title>
+            <link>https://www.vlive.tv/video/287443</link>
+            <guid>https://www.vlive.tv/video/287443</guid>
+            <pubDate>Sun, 10 Jul 2022 04:54:10 GMT</pubDate>
+            <content:encoded><![CDATA[DREAMCATCHER]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[잠은 어려운 친구]]></title>
@@ -396,14 +404,6 @@
             <pubDate>Sat, 09 Jul 2022 02:36:14 GMT</pubDate>
             <content:encoded><![CDATA[MBC 예능]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220709_120/1657329125784QEUB1_JPEG/upload_735977358773702856700c3a1-6905-4303-a5d7-f924e169df08.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Olá👋🏻]]></title>
-            <link>https://www.vlive.tv/video/287397</link>
-            <guid>https://www.vlive.tv/video/287397</guid>
-            <pubDate>Sat, 09 Jul 2022 02:36:14 GMT</pubDate>
-            <content:encoded><![CDATA[DKZ]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220709_293/1657353772378vrG3N_JPEG/066744bb-ff20-11ec-8863-48df379cc9e4_05.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

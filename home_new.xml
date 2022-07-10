@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 04:08:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 04:55:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,15 @@
             <guid>https://www.vlive.tv/video/287442</guid>
             <pubDate>Sun, 10 Jul 2022 04:06:45 GMT</pubDate>
             <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/287442/thumb?type=f228_128" length="0" type="image//live/287442/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220710_282/1657428101264k8wgB_JPEG/upload_101507824089543503dfca4520-0751-42cf-8da9-98bd3308e53d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[드림캐쳐] 지금은 11시 18분]]></title>
+            <link>https://www.vlive.tv/video/287443</link>
+            <guid>https://www.vlive.tv/video/287443</guid>
+            <pubDate>Sun, 10 Jul 2022 04:54:19 GMT</pubDate>
+            <content:encoded><![CDATA[DREAMCATCHER]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/287443/thumb?type=f228_128" length="0" type="image//live/287443/thumb"/>
         </item>
         <item>
             <title><![CDATA[잠은 어려운 친구]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 09 Jul 2022 14:40:15 GMT</pubDate>
             <content:encoded><![CDATA[SATURDAY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220709_144/1657377097033zLAap_JPEG/17025261402726366988b03573-b022-471a-a80c-a3f5998c7c72.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[궁금하면 들어와 💚💜]]></title>
-            <link>https://www.vlive.tv/video/287427</link>
-            <guid>https://www.vlive.tv/video/287427</guid>
-            <pubDate>Sat, 09 Jul 2022 13:45:34 GMT</pubDate>
-            <content:encoded><![CDATA[SATURDAY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220709_205/1657373056926r59lu_JPEG/17024857492174004856f1ab2c-b7b1-471a-bfff-0082174e9dc8.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
