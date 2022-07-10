@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 13:04:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 13:45:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,23 @@
             <guid>https://www.vlive.tv/video/287460</guid>
             <pubDate>Sun, 10 Jul 2022 13:02:59 GMT</pubDate>
             <content:encoded><![CDATA[T1419]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/287460/thumb?type=f228_128" length="0" type="image//live/287460/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220710_91/1657459727293MKsac_JPEG/ed8b7b1e-0053-11ed-b44a-d4f5ef58ad5e_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피카츄랑 놀자 💛]]></title>
+            <link>https://www.vlive.tv/video/287462</link>
+            <guid>https://www.vlive.tv/video/287462</guid>
+            <pubDate>Sun, 10 Jul 2022 13:43:49 GMT</pubDate>
+            <content:encoded><![CDATA[SATURDAY]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220710_220/1657459319721Comn3_JPEG/170247690700313383a1428771-273b-443e-98c8-8a32082bff49.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보라를 보라💜]]></title>
+            <link>https://www.vlive.tv/video/287461</link>
+            <guid>https://www.vlive.tv/video/287461</guid>
+            <pubDate>Sun, 10 Jul 2022 13:43:49 GMT</pubDate>
+            <content:encoded><![CDATA[드림노트 (DreamNote)]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/287461/thumb?type=f228_128" length="0" type="image//live/287461/thumb"/>
         </item>
         <item>
             <title><![CDATA[오늘은 목소리만~]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Sun, 10 Jul 2022 08:45:12 GMT</pubDate>
             <content:encoded><![CDATA[LIGHTSUM]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220710_32/16574394639215w67A_JPEG/17031506684987834014156e2b-2bbb-4408-98c7-dea65cef0b9c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BEHIND] JUNHO #HBD #주노생축]]></title>
-            <link>https://www.vlive.tv/video/287332</link>
-            <guid>https://www.vlive.tv/video/287332</guid>
-            <pubDate>Sun, 10 Jul 2022 09:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[DRIPPIN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220708_218/1657256192915XMEIE_PNG/upload_1013359052036809995f7bd8b4-cb2d-4ae0-80b3-d0cb6cbfb4f2.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[B.I.G(비아이지) | Debut 8th Anniversary🎉 PART. 2]]></title>
-            <link>https://www.vlive.tv/video/287147</link>
-            <guid>https://www.vlive.tv/video/287147</guid>
-            <pubDate>Sun, 10 Jul 2022 09:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[B.I.G (비아이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220707_57/1657179594606IhqgU_JPEG/upload_73365055543358558834f870a-5835-4f9a-8965-40d0b3795c65.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

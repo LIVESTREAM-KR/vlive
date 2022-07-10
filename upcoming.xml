@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 13:04:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 13:45:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -184,12 +184,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20220710_29/1657456025737FlMVX_JPEG/17033168972409914189e091db-470a-4c93-a015-9a49b1d59058.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[보라를 보라💜]]></title>
+            <link>https://www.vlive.tv/video/287461</link>
+            <guid>https://www.vlive.tv/video/287461</guid>
+            <pubDate>Sun, 10 Jul 2022 13:44:39 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:17]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/287461/thumb?type=f228_128" length="0" type="image//live/287461/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[피카츄랑 놀자 💛]]></title>
+            <link>https://www.vlive.tv/video/287462</link>
+            <guid>https://www.vlive.tv/video/287462</guid>
+            <pubDate>Sun, 10 Jul 2022 13:44:39 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:22]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220710_220/1657459319721Comn3_JPEG/170247690700313383a1428771-273b-443e-98c8-8a32082bff49.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[ㅋㅋㅋㅋㅋㅋ미안해]]></title>
             <link>https://www.vlive.tv/video/287460</link>
             <guid>https://www.vlive.tv/video/287460</guid>
             <pubDate>Sun, 10 Jul 2022 13:03:49 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:47]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/287460/thumb?type=f228_128" length="0" type="image//live/287460/thumb"/>
+            <content:encoded><![CDATA[오후 1:28]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220710_91/1657459727293MKsac_JPEG/ed8b7b1e-0053-11ed-b44a-d4f5ef58ad5e_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

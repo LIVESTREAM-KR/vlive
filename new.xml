@@ -4,7 +4,7 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 13:04:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 13:45:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,22 @@
             <guid>https://www.vlive.tv/video/287460</guid>
             <pubDate>Sun, 10 Jul 2022 13:02:49 GMT</pubDate>
             <content:encoded><![CDATA[T1419]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220710_91/1657459727293MKsac_JPEG/ed8b7b1e-0053-11ed-b44a-d4f5ef58ad5e_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피카츄랑 놀자 💛]]></title>
+            <link>https://www.vlive.tv/video/287462</link>
+            <guid>https://www.vlive.tv/video/287462</guid>
+            <pubDate>Sun, 10 Jul 2022 13:43:39 GMT</pubDate>
+            <content:encoded><![CDATA[SATURDAY]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220710_220/1657459319721Comn3_JPEG/170247690700313383a1428771-273b-443e-98c8-8a32082bff49.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보라를 보라💜]]></title>
+            <link>https://www.vlive.tv/video/287461</link>
+            <guid>https://www.vlive.tv/video/287461</guid>
+            <pubDate>Sun, 10 Jul 2022 13:43:39 GMT</pubDate>
+            <content:encoded><![CDATA[드림노트 (DreamNote)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[오늘은 목소리만~]]></title>
@@ -389,22 +405,6 @@
             <pubDate>Sat, 09 Jul 2022 13:03:36 GMT</pubDate>
             <content:encoded><![CDATA[fromis_9]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220709_29/1657348900334HLiH5_PNG/upload_10142860718035765784a98f0e-1eb9-4a0d-af30-5ecd889d1bf8.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[🚨ONE CHIP CHALLENGE🔥]]></title>
-            <link>https://www.vlive.tv/video/287418</link>
-            <guid>https://www.vlive.tv/video/287418</guid>
-            <pubDate>Sat, 09 Jul 2022 10:45:24 GMT</pubDate>
-            <content:encoded><![CDATA[VERIVERY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220709_47/1657361801986YC7MC_JPEG/17023740489757346954f8f57b-f217-4c30-a1fc-9445374ef769.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Behind] KWON EUN BI 1st CONCERT 'Secret Doors']]></title>
-            <link>https://www.vlive.tv/video/287372</link>
-            <guid>https://www.vlive.tv/video/287372</guid>
-            <pubDate>Sat, 09 Jul 2022 11:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[KWON EUN BI]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220708_247/1657276032786gMuK1_JPEG/upload_73545629684436541cc62896e-7f7f-4c1f-83da-5447d98bf269.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
