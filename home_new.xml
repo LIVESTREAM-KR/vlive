@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 05:42:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 06:50:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잠은 어려운 친구]]></title>
+            <link>https://www.vlive.tv/video/287441</link>
+            <guid>https://www.vlive.tv/video/287441</guid>
+            <pubDate>Sun, 10 Jul 2022 04:06:45 GMT</pubDate>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220710_70/1657433080440rAw0x_JPEG/e765394f-0014-11ed-928a-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[드림캐쳐]솨동 눈누난냐]]></title>
+            <link>https://www.vlive.tv/video/287446</link>
+            <guid>https://www.vlive.tv/video/287446</guid>
+            <pubDate>Sun, 10 Jul 2022 06:48:38 GMT</pubDate>
+            <content:encoded><![CDATA[DREAMCATCHER]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220710_202/1657434122502jTuJj_JPEG/20da9df5-0013-11ed-90b2-505dac8c37f3_05.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[드림캐쳐] 지금은 11시 18분]]></title>
             <link>https://www.vlive.tv/video/287443</link>
@@ -22,14 +38,6 @@
             <pubDate>Sun, 10 Jul 2022 04:06:45 GMT</pubDate>
             <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220710_282/1657428101264k8wgB_JPEG/upload_101507824089543503dfca4520-0751-42cf-8da9-98bd3308e53d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠은 어려운 친구]]></title>
-            <link>https://www.vlive.tv/video/287441</link>
-            <guid>https://www.vlive.tv/video/287441</guid>
-            <pubDate>Sun, 10 Jul 2022 04:06:45 GMT</pubDate>
-            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/287441/thumb?type=f228_128" length="0" type="image//live/287441/thumb"/>
         </item>
         <item>
             <title><![CDATA[Let's Roll  우리 만나서 얘기 좀 합시다 in 춘천 #회승 이야기]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 09 Jul 2022 15:44:39 GMT</pubDate>
             <content:encoded><![CDATA[MisoJeong]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220709_47/1657354705588Us1zE_PNG/upload_7362430807603746814e3b5ca-5d2e-473f-9f46-11b144eed891.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[어머...💚💜]]></title>
-            <link>https://www.vlive.tv/video/287429</link>
-            <guid>https://www.vlive.tv/video/287429</guid>
-            <pubDate>Sat, 09 Jul 2022 14:40:15 GMT</pubDate>
-            <content:encoded><![CDATA[SATURDAY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220709_144/1657377097033zLAap_JPEG/17025261402726366988b03573-b022-471a-a80c-a3f5998c7c72.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
