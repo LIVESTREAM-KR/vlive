@@ -4,17 +4,9 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 04:20:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 05:06:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Hi-L (하이엘) [Teaser] 'Hi-Way']]></title>
-            <link>https://www.vlive.tv/video/287484</link>
-            <guid>https://www.vlive.tv/video/287484</guid>
-            <pubDate>Mon, 11 Jul 2022 04:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[Hi-L (하이엘)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220711_27/1657512370670NBjns_JPEG/b801773d-00ce-11ed-9d93-d4f5ef590144_04.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio/K-Poppin'] Singlish with DKB]]></title>
             <link>https://www.vlive.tv/video/287207</link>
@@ -22,6 +14,22 @@
             <pubDate>Mon, 11 Jul 2022 04:19:14 GMT</pubDate>
             <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220707_32/1657171936983Fcxfn_JPEG/upload_10125162634326431402b4318d-877c-4c38-8a9d-c252af112c3d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / hyeon seo park 박현서)]]></title>
+            <link>https://www.vlive.tv/video/287486</link>
+            <guid>https://www.vlive.tv/video/287486</guid>
+            <pubDate>Mon, 11 Jul 2022 05:05:40 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220711_261/1657515374753K24YK_JPEG/upload_737849424848679265db8a85c-6ceb-49a6-a276-ac07f081034c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hi-L (하이엘) [Teaser] 'Hi-Way']]></title>
+            <link>https://www.vlive.tv/video/287484</link>
+            <guid>https://www.vlive.tv/video/287484</guid>
+            <pubDate>Mon, 11 Jul 2022 04:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[Hi-L (하이엘)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220711_27/1657512370670NBjns_JPEG/b801773d-00ce-11ed-9d93-d4f5ef590144_04.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우진영(WOO JIN YOUNG) 'Delicious' Teaser]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 10 Jul 2022 15:46:18 GMT</pubDate>
             <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220710_81/16574616771130p7Ov_JPEG/upload_10154140926366240207c8894a-2a97-4a0b-95bb-f4809bb15abd.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SEVENTEEN (세븐틴) 4th Album Repackage ‘SECTOR 17’ Physical Album Preview]]></title>
-            <link>https://www.vlive.tv/video/287463</link>
-            <guid>https://www.vlive.tv/video/287463</guid>
-            <pubDate>Sun, 10 Jul 2022 15:46:18 GMT</pubDate>
-            <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220710_91/1657461571058rgezP_JPEG/upload_10154129947363114750421456-34a1-4364-9bbc-92c17531ce75.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
