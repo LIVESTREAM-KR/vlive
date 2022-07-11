@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 05:06:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 05:46:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,6 +36,16 @@
 										오전 11:00</span>
 										<span class="txt">ATBO</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220711_107/1657505193306wiLXd_JPEG/upload_73774678580597795db464787-456b-4166-a076-826ee4957aed.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Radio'n Us / Cott 콧)]]></title>
+            <link>https://m.vlive.tv/video/287488</link>
+            <guid>https://m.vlive.tv/video/287488</guid>
+            <pubDate>Mon, 11 Jul 2022 05:46:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220711_37/1657516162833AOIeU_JPEG/upload_737857412796129836f4df783-68fa-4a5e-989f-2cdb92dc4753.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
@@ -76,16 +86,6 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220707_198/1657172521773PqKup_JPEG/upload_101252133801407230dea6282c-f443-46fd-a2c3-738d96153edc.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthew]]></title>
-            <link>https://m.vlive.tv/video/287201</link>
-            <guid>https://m.vlive.tv/video/287201</guid>
-            <pubDate>Fri, 08 Jul 2022 11:41:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220707_118/1657171049171tt8Cf_JPEG/upload_1012507535263250563bb0ee83-e923-47c9-9710-f51de5936d9b.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
