@@ -4,17 +4,9 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 17:06:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 17:51:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[차은우의 Just one 10 minutes]]></title>
-            <link>https://www.vlive.tv/video/287555</link>
-            <guid>https://www.vlive.tv/video/287555</guid>
-            <pubDate>Mon, 11 Jul 2022 17:04:37 GMT</pubDate>
-            <content:encoded><![CDATA[ASTRO]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220712_14/1657558351311S0dGR_JPEG/95d6cf8b-0139-11ed-bb44-48df379ccacc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[안뇨옹]]></title>
             <link>https://www.vlive.tv/video/287557</link>
@@ -22,6 +14,14 @@
             <pubDate>Mon, 11 Jul 2022 17:04:37 GMT</pubDate>
             <content:encoded><![CDATA[MAJORS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220712_246/1657557509906axxKY_JPEG/1704331098978392978a76d423-59d3-4194-b0d2-be3cc85911ed.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[차은우의 Just one 10 minutes]]></title>
+            <link>https://www.vlive.tv/video/287555</link>
+            <guid>https://www.vlive.tv/video/287555</guid>
+            <pubDate>Mon, 11 Jul 2022 17:04:37 GMT</pubDate>
+            <content:encoded><![CDATA[ASTRO]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220712_14/1657558351311S0dGR_JPEG/95d6cf8b-0139-11ed-bb44-48df379ccacc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[심야수다회]]></title>
