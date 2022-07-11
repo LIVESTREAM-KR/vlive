@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 23:43:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 02:54:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
-            <link>https://m.vlive.tv/video/287199</link>
-            <guid>https://m.vlive.tv/video/287199</guid>
-            <pubDate>Thu, 07 Jul 2022 09:44:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220707_21/1657170919712UDSUl_JPEG/upload_7344048883673677193decfb5-de94-4faa-9f87-831a260a6774.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio/K-Poppin'] Singlish with DKB]]></title>
             <link>https://m.vlive.tv/video/287207</link>
@@ -96,6 +86,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220707_118/1657171049171tt8Cf_JPEG/upload_1012507535263250563bb0ee83-e923-47c9-9710-f51de5936d9b.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio/K-Poppin'] Entertainer Siloé Anzardi / 엔터테이너 앙자르디 실로에]]></title>
+            <link>https://m.vlive.tv/video/287208</link>
+            <guid>https://m.vlive.tv/video/287208</guid>
+            <pubDate>Mon, 11 Jul 2022 02:54:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220707_81/1657172065426u5yaV_JPEG/upload_101251694150152968d47f4b0c-25a6-4eac-bfa1-0bff040ba6f3.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
