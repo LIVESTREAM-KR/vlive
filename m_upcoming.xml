@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 08:51:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 09:49:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,46 @@
 										방송취소</span>
 										<span class="txt">앨리스 (ALICE)</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220711_171/1657522404826hnWbn_JPEG/upload_737917392126067649fbf9eb4-ae3e-45e1-9010-6a368a5fb935.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Korean Unnie Moon Sohyun 문소현]]></title>
+            <link>https://m.vlive.tv/video/287200</link>
+            <guid>https://m.vlive.tv/video/287200</guid>
+            <pubDate>Mon, 11 Jul 2022 09:48:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220707_122/16571709662916DVlL_JPEG/upload_10125068142015747243973236-b3fc-42ed-8655-3766c497316a.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ASC Live Ep.531 (fromis_9 / 프로미스나인)]]></title>
+            <link>https://m.vlive.tv/video/287353</link>
+            <guid>https://m.vlive.tv/video/287353</guid>
+            <pubDate>Mon, 11 Jul 2022 09:48:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220708_299/1657266872350s58pz_PNG/upload_735364221729162936b73933b-21b3-4a14-860e-5576861f69ab.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Sound K] Mystery Mix with BOiTELLO 보이텔로]]></title>
+            <link>https://m.vlive.tv/video/287210</link>
+            <guid>https://m.vlive.tv/video/287210</guid>
+            <pubDate>Mon, 11 Jul 2022 09:48:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220707_211/1657172111608Ssto9_JPEG/upload_10125181899927551324ba0591-234a-4ff1-b520-32a31b32a347.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop]Oh My K-Pop with NIve]]></title>
+            <link>https://m.vlive.tv/video/287213</link>
+            <guid>https://m.vlive.tv/video/287213</guid>
+            <pubDate>Mon, 11 Jul 2022 09:48:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220707_198/1657172521773PqKup_JPEG/upload_101252133801407230dea6282c-f443-46fd-a2c3-738d96153edc.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
