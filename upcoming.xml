@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 15:47:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 17:45:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -472,14 +472,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220712_64/1657628610174OsG0D_JPEG/84159807734747011b85d05b-8092-4289-990c-4604542393b2.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[🌙]]></title>
-            <link>https://www.vlive.tv/video/287633</link>
-            <guid>https://www.vlive.tv/video/287633</guid>
-            <pubDate>Tue, 12 Jul 2022 15:47:02 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:46]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/287633/thumb?type=f228_128" length="0" type="image//live/287633/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[ㄲㅏ]]></title>
             <link>https://www.vlive.tv/video/287632</link>
             <guid>https://www.vlive.tv/video/287632</guid>
@@ -526,6 +518,14 @@
             <pubDate>Tue, 12 Jul 2022 15:47:02 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:29]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220713_217/1657639763469l9pNb_JPEG/2617b090-01f7-11ed-9fa8-505dacfba98a_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🌙]]></title>
+            <link>https://www.vlive.tv/video/287633</link>
+            <guid>https://www.vlive.tv/video/287633</guid>
+            <pubDate>Tue, 12 Jul 2022 15:47:02 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:21]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220713_26/1657642890684xDCks_JPEG/9a81afbe-01fc-11ed-ba01-505dac8c3607_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
