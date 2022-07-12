@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 04:45:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 05:55:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / Sound K] Mystery Mix with BOiTELLO 보이텔로]]></title>
-            <link>https://m.vlive.tv/video/287210</link>
-            <guid>https://m.vlive.tv/video/287210</guid>
-            <pubDate>Mon, 11 Jul 2022 09:48:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220707_211/1657172111608Ssto9_JPEG/upload_10125181899927551324ba0591-234a-4ff1-b520-32a31b32a347.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Super K-Pop]Oh My K-Pop with NIve]]></title>
             <link>https://m.vlive.tv/video/287213</link>
@@ -26,6 +16,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220707_198/1657172521773PqKup_JPEG/upload_101252133801407230dea6282c-f443-46fd-a2c3-738d96153edc.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보고싶었어 EVERY]]></title>
+            <link>https://m.vlive.tv/video/287569</link>
+            <guid>https://m.vlive.tv/video/287569</guid>
+            <pubDate>Tue, 12 Jul 2022 05:54:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">W24</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220712_288/1657604607449EV3ic_JPEG/upload_10168422889469385805c1bfa6-df84-4151-aaf5-5fb83ec010c5.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthew]]></title>
@@ -96,16 +96,6 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220707_186/1657172553424jPLDv_JPEG/upload_101252268308635234f792b920-f1de-4007-99c7-57606ae5eee0.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[144회 아트엠콘서트, 첼리스트 이원해]]></title>
-            <link>https://m.vlive.tv/video/286582</link>
-            <guid>https://m.vlive.tv/video/286582</guid>
-            <pubDate>Tue, 12 Jul 2022 04:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:20</span>
-										<span class="txt">ARTMCONCERT</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220628_62/16563918124145vXNO_PNG/upload_100471530776545558e79b74b1-f726-46d7-b694-0596cebaa640.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
