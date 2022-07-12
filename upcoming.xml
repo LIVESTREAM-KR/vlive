@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 14:00:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 14:43:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -470,6 +470,22 @@
             <pubDate>Tue, 12 Jul 2022 13:22:53 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:48]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220712_8/1657633718278kfDR6_JPEG/59b02666-01e8-11ed-bb12-d4f5ef5a9532_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ㄲㅏ]]></title>
+            <link>https://www.vlive.tv/video/287632</link>
+            <guid>https://www.vlive.tv/video/287632</guid>
+            <pubDate>Tue, 12 Jul 2022 14:42:28 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:00]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/287632/thumb?type=f228_128" length="0" type="image//live/287632/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[비밀이 많은 그녀..🤓]]></title>
+            <link>https://www.vlive.tv/video/287628</link>
+            <guid>https://www.vlive.tv/video/287628</guid>
+            <pubDate>Tue, 12 Jul 2022 14:42:28 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:04]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220712_64/1657628610174OsG0D_JPEG/84159807734747011b85d05b-8092-4289-990c-4604542393b2.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

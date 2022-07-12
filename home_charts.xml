@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 14:00:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 14:43:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[심야수다회]]></title>
+            <link>https://www.vlive.tv/video/287556</link>
+            <guid>https://www.vlive.tv/video/287556</guid>
+            <pubDate>Tue, 12 Jul 2022 14:41:46 GMT</pubDate>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220712_32/1657563400819r8HpY_JPEG/bc04ac8c-0144-11ed-b769-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[찬이의 "방" 🐺 Ep. 165 - LA!]]></title>
             <link>https://www.vlive.tv/video/287500</link>
@@ -30,14 +38,6 @@
             <pubDate>Mon, 11 Jul 2022 15:56:40 GMT</pubDate>
             <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220704_112/1656924453043rTkC0_JPEG/upload_731940504285802532e3401d9-16a6-4d2b-b352-8f30f95d3c43.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ITZY(있지) “SNEAKERS” M/V Teaser 1]]></title>
-            <link>https://www.vlive.tv/video/287528</link>
-            <guid>https://www.vlive.tv/video/287528</guid>
-            <pubDate>Tue, 12 Jul 2022 13:22:06 GMT</pubDate>
-            <content:encoded><![CDATA[ITZY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220711_60/16575361185718LOFq_JPEG/upload_101615839935395324d8b4d381-3f2a-4721-9ff1-432fd7c61e8e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
