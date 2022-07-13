@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 05:03:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 05:44:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220711_293/1657532088276HMa0t_JPEG/3eacbdea-00fc-11ed-9fa8-505dacfba98a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[차은우의 Just one 10 minutes]]></title>
-            <link>https://www.vlive.tv/video/287555</link>
-            <guid>https://www.vlive.tv/video/287555</guid>
-            <pubDate>Wed, 13 Jul 2022 02:56:29 GMT</pubDate>
-            <content:encoded><![CDATA[ASTRO]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220712_14/1657558351311S0dGR_JPEG/95d6cf8b-0139-11ed-bb44-48df379ccacc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[ITZY(있지) “SNEAKERS” M/V Teaser 2]]></title>
             <link>https://www.vlive.tv/video/287586</link>
             <guid>https://www.vlive.tv/video/287586</guid>
             <pubDate>Wed, 13 Jul 2022 02:56:29 GMT</pubDate>
             <content:encoded><![CDATA[ITZY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220712_25/1657613358125uekVf_JPEG/upload_738829209040274105f0bf064-caad-4c96-94f9-2ef8ec5900ed.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[차은우의 Just one 10 minutes]]></title>
+            <link>https://www.vlive.tv/video/287555</link>
+            <guid>https://www.vlive.tv/video/287555</guid>
+            <pubDate>Wed, 13 Jul 2022 02:56:29 GMT</pubDate>
+            <content:encoded><![CDATA[ASTRO]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220712_14/1657558351311S0dGR_JPEG/95d6cf8b-0139-11ed-bb44-48df379ccacc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
