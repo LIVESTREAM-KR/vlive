@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 14:53:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 15:50:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220713_294/1657702759026RWD7B_JPEG/90282b4d-0289-11ed-b77c-48df379cca40_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ㅎㅎ]]></title>
-            <link>https://www.vlive.tv/video/287630</link>
-            <guid>https://www.vlive.tv/video/287630</guid>
-            <pubDate>Wed, 13 Jul 2022 14:52:52 GMT</pubDate>
-            <content:encoded><![CDATA[TWICE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220712_296/1657632558327eoriN_JPEG/1bedd2b2-01e6-11ed-8e34-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[ITZY(있지) “SNEAKERS” M/V Teaser 2]]></title>
             <link>https://www.vlive.tv/video/287586</link>
             <guid>https://www.vlive.tv/video/287586</guid>
             <pubDate>Wed, 13 Jul 2022 02:56:29 GMT</pubDate>
             <content:encoded><![CDATA[ITZY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220712_25/1657613358125uekVf_JPEG/upload_738829209040274105f0bf064-caad-4c96-94f9-2ef8ec5900ed.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ㅎㅎ]]></title>
+            <link>https://www.vlive.tv/video/287630</link>
+            <guid>https://www.vlive.tv/video/287630</guid>
+            <pubDate>Wed, 13 Jul 2022 14:52:52 GMT</pubDate>
+            <content:encoded><![CDATA[TWICE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220712_296/1657632558327eoriN_JPEG/1bedd2b2-01e6-11ed-8e34-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

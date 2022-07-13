@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 14:53:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 15:50:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -66,6 +66,16 @@
 										오전 10:20</span>
 										<span class="txt">ARTMCONCERT</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220628_62/16563918124145vXNO_PNG/upload_100471530776545558e79b74b1-f726-46d7-b694-0596cebaa640.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[빌리 '팥빙수' 발매 기념 스페샬 브이-라이브🍧]]></title>
+            <link>https://m.vlive.tv/video/287683</link>
+            <guid>https://m.vlive.tv/video/287683</guid>
+            <pubDate>Wed, 13 Jul 2022 15:49:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 1:00</span>
+										<span class="txt">Billlie 빌리</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220713_151/1657709840486cqaa3_JPEG/upload_1017767667254062546c210345-a15f-4e1a-bc33-8f333e1152f9.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
