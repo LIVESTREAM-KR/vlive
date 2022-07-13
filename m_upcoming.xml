@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 07:42:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 08:49:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -66,6 +66,16 @@
 										오전 7:20</span>
 										<span class="txt">ARTMCONCERT</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220713_224/1657690345720dmwOw_PNG/upload_10176941346054434976417c06-3a57-4c93-953f-3dc91f058141.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[144회 아트엠콘서트, 첼리스트 이원해]]></title>
+            <link>https://m.vlive.tv/video/286582</link>
+            <guid>https://m.vlive.tv/video/286582</guid>
+            <pubDate>Wed, 13 Jul 2022 08:49:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:20</span>
+										<span class="txt">ARTMCONCERT</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220628_62/16563918124145vXNO_PNG/upload_100471530776545558e79b74b1-f726-46d7-b694-0596cebaa640.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
