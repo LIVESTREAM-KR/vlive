@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 09:45:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 10:48:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 12 Jul 2022 14:41:57 GMT</pubDate>
             <content:encoded><![CDATA[TWICE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220712_296/1657632558327eoriN_JPEG/1bedd2b2-01e6-11ed-8e34-505dac8c3721_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[루토랑 저녁먹어요 🍗]]></title>
+            <link>https://www.vlive.tv/video/287698</link>
+            <guid>https://www.vlive.tv/video/287698</guid>
+            <pubDate>Wed, 13 Jul 2022 10:47:49 GMT</pubDate>
+            <content:encoded><![CDATA[TREASURE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220713_78/16577034274568kl2V_JPEG/2058379007698890d1e87b4c-fd01-4b7e-8af7-0ae4ec7492a6.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비 와 요 🌧⛈]]></title>
@@ -29,7 +37,7 @@
             <guid>https://www.vlive.tv/video/287368</guid>
             <pubDate>Fri, 08 Jul 2022 10:45:55 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220708_215/16572770046595wrdw_JPEG/upload_73546602656393940ad191ebc-c963-49d0-9a84-be309f77c341.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220708_215/16572770046595wrdw_JPEG/upload_73546602656393940ad191ebc-c963-49d0-9a84-be309f77c341.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[220713 ANYUJIN REI LIZ 사랑의 삼각관계]]></title>
@@ -54,14 +62,6 @@
             <pubDate>Wed, 13 Jul 2022 02:56:41 GMT</pubDate>
             <content:encoded><![CDATA[ITZY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220712_25/1657613358125uekVf_JPEG/upload_738829209040274105f0bf064-caad-4c96-94f9-2ef8ec5900ed.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찬이의 "방" 🐺 Ep. 165 - LA!]]></title>
-            <link>https://www.vlive.tv/video/287500</link>
-            <guid>https://www.vlive.tv/video/287500</guid>
-            <pubDate>Mon, 11 Jul 2022 11:40:42 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220711_293/1657532088276HMa0t_JPEG/3eacbdea-00fc-11ed-9fa8-505dacfba98a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
