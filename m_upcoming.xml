@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 11:41:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 13:28:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[빌리 '팥빙수' 발매 기념 스페샬 브이-라이브🍧]]></title>
-            <link>https://m.vlive.tv/video/287683</link>
-            <guid>https://m.vlive.tv/video/287683</guid>
-            <pubDate>Wed, 13 Jul 2022 15:49:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 1:00</span>
-										<span class="txt">Billlie 빌리</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220713_151/1657709840486cqaa3_JPEG/upload_1017767667254062546c210345-a15f-4e1a-bc33-8f333e1152f9.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
             <link>https://m.vlive.tv/video/287647</link>
@@ -86,6 +76,16 @@
 										오후 1:00</span>
 										<span class="txt">BTS</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220713_248/1657700447473D1gXj_JPEG/upload_739700545255902661e0d6eac-c18e-4bf9-b1d2-0e525a328ef9.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
+            <link>https://m.vlive.tv/video/287643</link>
+            <guid>https://m.vlive.tv/video/287643</guid>
+            <pubDate>Thu, 14 Jul 2022 13:28:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220713_130/1657675828201evRfw_JPEG/upload_7394527508822557707bfc385-2f35-4a1c-a049-d1f87fc336b0.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
