@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 09:45:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 10:47:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[144회 아트엠콘서트, 첼리스트 이원해]]></title>
-            <link>https://m.vlive.tv/video/286582</link>
-            <guid>https://m.vlive.tv/video/286582</guid>
-            <pubDate>Wed, 13 Jul 2022 08:49:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:20</span>
-										<span class="txt">ARTMCONCERT</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220628_62/16563918124145vXNO_PNG/upload_100471530776545558e79b74b1-f726-46d7-b694-0596cebaa640.png?type=f274_154" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[빌리 '팥빙수' 발매 기념 스페샬 브이-라이브🍧]]></title>
             <link>https://m.vlive.tv/video/287683</link>
@@ -68,6 +58,16 @@
             <enclosure url="https://v-phinf.pstatic.net/20220707_281/16571725863967JII2_JPEG/upload_101252288739288286f61a2e73-4cd7-4a94-8861-abcbd3dda9b2.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Happy Birthday DONG GEON 🎂🎉]]></title>
+            <link>https://m.vlive.tv/video/287780</link>
+            <guid>https://m.vlive.tv/video/287780</guid>
+            <pubDate>Thu, 14 Jul 2022 10:46:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">TO1</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220714_287/1657792805941oYDTS_PNG/upload_101871705913339486162e55b3-25d9-4fdc-b825-f148c4e8b576.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[Arirang Radio (Radio'n Us / The Solutions 솔루션스)]]></title>
             <link>https://m.vlive.tv/video/287487</link>
             <guid>https://m.vlive.tv/video/287487</guid>
@@ -86,16 +86,6 @@
 										오후 1:00</span>
 										<span class="txt">BTS</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220713_248/1657700447473D1gXj_JPEG/upload_739700545255902661e0d6eac-c18e-4bf9-b1d2-0e525a328ef9.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
-            <link>https://m.vlive.tv/video/287643</link>
-            <guid>https://m.vlive.tv/video/287643</guid>
-            <pubDate>Thu, 14 Jul 2022 09:44:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220713_130/1657675828201evRfw_JPEG/upload_7394527508822557707bfc385-2f35-4a1c-a049-d1f87fc336b0.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
