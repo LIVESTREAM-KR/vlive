@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 05:50:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 06:53:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -26,6 +26,16 @@
 										오전 7:20</span>
 										<span class="txt">ARTMCONCERT</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220713_224/1657690345720dmwOw_PNG/upload_10176941346054434976417c06-3a57-4c93-953f-3dc91f058141.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Hi-L (하이엘) Single Album "Summer Ride" 쇼케이스 🚗]]></title>
+            <link>https://m.vlive.tv/video/287761</link>
+            <guid>https://m.vlive.tv/video/287761</guid>
+            <pubDate>Thu, 14 Jul 2022 06:52:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 9:00</span>
+										<span class="txt">Hi-L (하이엘)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220714_86/1657780890491oWmtb_JPEG/upload_740504339615063682577e2a7-5bb3-41a2-b60a-6d511bfc8143.JPG?type=f274_154" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[144회 아트엠콘서트, 첼리스트 이원해]]></title>
@@ -86,16 +96,6 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220707_281/16571725863967JII2_JPEG/upload_101252288739288286f61a2e73-4cd7-4a94-8861-abcbd3dda9b2.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arirang Radio (Radio'n Us / The Solutions 솔루션스)]]></title>
-            <link>https://m.vlive.tv/video/287487</link>
-            <guid>https://m.vlive.tv/video/287487</guid>
-            <pubDate>Thu, 14 Jul 2022 05:50:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220711_165/1657516119697odm5p_JPEG/upload_1015957866951668500d675dd3-c69d-4f7a-a58b-48ce5b6f0e0a.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
