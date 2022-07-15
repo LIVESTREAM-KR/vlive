@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 06:51:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 07:43:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / Super K-Pop] Topic Song with BÉBE YANA , Jogon of 9001]]></title>
-            <link>https://m.vlive.tv/video/287215</link>
-            <guid>https://m.vlive.tv/video/287215</guid>
-            <pubDate>Thu, 14 Jul 2022 03:02:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220707_281/16571725863967JII2_JPEG/upload_101252288739288286f61a2e73-4cd7-4a94-8861-abcbd3dda9b2.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Happy Birthday DONG GEON 🎂🎉]]></title>
             <link>https://m.vlive.tv/video/287780</link>
@@ -86,6 +76,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220713_177/1657675865533ezrph_JPEG/upload_101755574337803428e08fe7a7-a802-457f-8856-8a00e7e159b4.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ASC Live Ep.532 (TAN / 탄)]]></title>
+            <link>https://m.vlive.tv/video/287835</link>
+            <guid>https://m.vlive.tv/video/287835</guid>
+            <pubDate>Fri, 15 Jul 2022 07:42:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220715_75/1657864953838sSpwU_PNG/upload_1019446674139038550d0a732e-b54e-42a4-9c94-25ab5ea5835b.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
