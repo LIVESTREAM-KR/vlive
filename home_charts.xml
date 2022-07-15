@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 10:46:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 11:41:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 15 Jul 2022 09:44:57 GMT</pubDate>
             <content:encoded><![CDATA[TREASURE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220715_192/1657875270092QV1po_JPEG/1707508010327765285d8c47c4-259b-47b1-b867-00cdf9bba819.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[승민 "Ghost" Cover (원곡 : Justin Bieber) | [Stray Kids(스트레이 키즈) : SKZ-RECORD(슼즈 레코드)]]]></title>
+            <link>https://www.vlive.tv/video/287773</link>
+            <guid>https://www.vlive.tv/video/287773</guid>
+            <pubDate>Fri, 15 Jul 2022 11:40:02 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220714_255/16577891344348auhi_PNG/upload_74056271051568049d3ec877c-e7e6-4ef5-94fe-a5c887852cab.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[j-hope '방화 (Arson)' Official Teaser]]></title>
@@ -30,14 +38,6 @@
             <pubDate>Fri, 15 Jul 2022 05:56:55 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220708_215/16572770046595wrdw_JPEG/upload_73546602656393940ad191ebc-c963-49d0-9a84-be309f77c341.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ITZY(있지) “SNEAKERS” M/V]]></title>
-            <link>https://www.vlive.tv/video/287810</link>
-            <guid>https://www.vlive.tv/video/287810</guid>
-            <pubDate>Fri, 15 Jul 2022 05:56:55 GMT</pubDate>
-            <content:encoded><![CDATA[ITZY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220715_107/1657851727041kikEQ_JPEG/upload_1019314002035753832525e821-71e5-44f3-8abe-63f3a0e7ca24.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
