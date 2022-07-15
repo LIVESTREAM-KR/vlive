@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 17:04:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 17:50:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -584,14 +584,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220716_94/1657897748867ouGf7_JPEG/upload_1019773181535984644754306d-f812-4cad-a447-eb482adfec98.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[너에게 들려주는 자장가🌙]]></title>
-            <link>https://www.vlive.tv/video/287886</link>
-            <guid>https://www.vlive.tv/video/287886</guid>
-            <pubDate>Fri, 15 Jul 2022 15:48:46 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:18]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/287886/thumb?type=f228_128" length="0" type="image//live/287886/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[[선공개] 홍현희의 로망, 만삭 화보 촬영!& 촬영 후 만나는 제주도 언니?!👧🌟🌟, MBC 220716 방송]]></title>
             <link>https://www.vlive.tv/video/287889</link>
             <guid>https://www.vlive.tv/video/287889</guid>
@@ -646,6 +638,14 @@
             <pubDate>Fri, 15 Jul 2022 15:48:46 GMT</pubDate>
             <content:encoded><![CDATA[오후 4:33]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220716_228/1657899942128CbRAR_JPEG/1707755420950948949052b5bf-3dde-46ce-bb04-a4e64bd28115.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[너에게 들려주는 자장가🌙]]></title>
+            <link>https://www.vlive.tv/video/287886</link>
+            <guid>https://www.vlive.tv/video/287886</guid>
+            <pubDate>Fri, 15 Jul 2022 15:48:46 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:23]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220716_242/16579058269102uzCz_JPEG/543d8506-0461-11ed-8055-505dac8c385b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
