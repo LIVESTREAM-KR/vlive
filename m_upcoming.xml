@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 23:46:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 03:06:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
-            <link>https://m.vlive.tv/video/287647</link>
-            <guid>https://m.vlive.tv/video/287647</guid>
-            <pubDate>Thu, 14 Jul 2022 03:02:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220713_21/1657675987281DMD8c_JPEG/upload_101755683541536460431f2620-6ec0-4206-bcfa-05126dd284fc.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Simply K-Pop CON-TOUR (심플리케이팝 콘투어) Ep.528]]></title>
             <link>https://m.vlive.tv/video/287686</link>
@@ -86,6 +76,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220713_130/1657675828201evRfw_JPEG/upload_7394527508822557707bfc385-2f35-4a1c-a049-d1f87fc336b0.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio/K-Poppin'] Singlish with DKB]]></title>
+            <link>https://m.vlive.tv/video/287648</link>
+            <guid>https://m.vlive.tv/video/287648</guid>
+            <pubDate>Fri, 15 Jul 2022 03:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220713_12/1657676214510fG1SP_JPEG/upload_1017558387612923236aaee890-0525-469b-b81b-96e70734912c.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
