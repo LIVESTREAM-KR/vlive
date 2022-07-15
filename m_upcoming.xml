@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 08:50:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 09:45:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,26 @@
 										오전 4:00</span>
 										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220715_75/1657864953838sSpwU_PNG/upload_1019446674139038550d0a732e-b54e-42a4-9c94-25ab5ea5835b.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Sound K] Mystery Mix with BOiTELLO 보이텔로]]></title>
+            <link>https://m.vlive.tv/video/287211</link>
+            <guid>https://m.vlive.tv/video/287211</guid>
+            <pubDate>Fri, 15 Jul 2022 09:45:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220707_165/1657172245307TqXxy_JPEG/upload_1012519148374872389908022e-72a2-427a-9d03-c7a718f938b0.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop]Oh My K-Pop with NIve]]></title>
+            <link>https://m.vlive.tv/video/287652</link>
+            <guid>https://m.vlive.tv/video/287652</guid>
+            <pubDate>Fri, 15 Jul 2022 09:45:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220713_243/1657676444996I6S9C_JPEG/upload_73946049979794051ec90dd2e-a6a8-4e0a-b1b0-d8299ce37237.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
