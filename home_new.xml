@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 20:46:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 22:43:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🎶]]></title>
+            <link>https://www.vlive.tv/video/287893</link>
+            <guid>https://www.vlive.tv/video/287893</guid>
+            <pubDate>Fri, 15 Jul 2022 22:42:25 GMT</pubDate>
+            <content:encoded><![CDATA[KWON EUN BI]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220716_241/1657923642131TMXDX_JPEG/32df705d-048c-11ed-b769-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[너에게 들려주는 자장가🌙]]></title>
             <link>https://www.vlive.tv/video/287886</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 15 Jul 2022 13:27:11 GMT</pubDate>
             <content:encoded><![CDATA[Cherry Bullet]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220715_164/1657889516406MjwIs_JPEG/170765130389798548c9ede852-bd61-420c-b8ee-239cc806379a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선데이 하이💙⚡]]></title>
-            <link>https://www.vlive.tv/video/287874</link>
-            <guid>https://www.vlive.tv/video/287874</guid>
-            <pubDate>Fri, 15 Jul 2022 13:27:11 GMT</pubDate>
-            <content:encoded><![CDATA[SATURDAY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220715_54/1657890460491e6Hzk_JPEG/170766059490282132b1897959-2fbb-42fd-98b4-b6bf8d638607.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

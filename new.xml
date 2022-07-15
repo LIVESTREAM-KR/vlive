@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 20:46:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 22:43:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🎶]]></title>
+            <link>https://www.vlive.tv/video/287893</link>
+            <guid>https://www.vlive.tv/video/287893</guid>
+            <pubDate>Fri, 15 Jul 2022 22:42:15 GMT</pubDate>
+            <content:encoded><![CDATA[KWON EUN BI]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220716_241/1657923642131TMXDX_JPEG/32df705d-048c-11ed-b769-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[너에게 들려주는 자장가🌙]]></title>
             <link>https://www.vlive.tv/video/287886</link>
@@ -398,14 +406,6 @@
             <pubDate>Fri, 15 Jul 2022 07:41:27 GMT</pubDate>
             <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220707_281/16571725863967JII2_JPEG/upload_101252288739288286f61a2e73-4cd7-4a94-8861-abcbd3dda9b2.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BLITZERS EP3 'WIN-DOW' BEHIND FILM #1 (ENG/JPN/ESP/IDN)]]></title>
-            <link>https://www.vlive.tv/video/287846</link>
-            <guid>https://www.vlive.tv/video/287846</guid>
-            <pubDate>Fri, 15 Jul 2022 09:44:35 GMT</pubDate>
-            <content:encoded><![CDATA[블리처스(BLITZERS)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220715_96/1657876557517JQ4Ec_JPEG/upload_101954509223356775e8c12534-197e-4273-8e0a-f4f59c545d4f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
