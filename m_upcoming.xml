@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Jul 2022 14:42:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 15:45:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220713_243/1657676444996I6S9C_JPEG/upload_73946049979794051ec90dd2e-a6a8-4e0a-b1b0-d8299ce37237.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthew]]></title>
+            <link>https://m.vlive.tv/video/287645</link>
+            <guid>https://m.vlive.tv/video/287645</guid>
+            <pubDate>Sat, 16 Jul 2022 15:45:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220713_145/1657675913651Gdz2t_JPEG/upload_101755598875737615c821056d-c474-4d83-9a3a-3838bf32c816.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
