@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Jul 2022 22:43:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 23:44:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[hi]]></title>
+            <link>https://www.vlive.tv/video/287926</link>
+            <guid>https://www.vlive.tv/video/287926</guid>
+            <pubDate>Sat, 16 Jul 2022 23:42:48 GMT</pubDate>
+            <content:encoded><![CDATA[AleXa]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220717_52/1658012472845iGJxr_JPEG/1708880867873727617d5b9dfb-2879-4538-8202-563a87c5caa7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[밤새씅]]></title>
             <link>https://www.vlive.tv/video/287925</link>
@@ -398,14 +406,6 @@
             <pubDate>Fri, 15 Jul 2022 15:47:44 GMT</pubDate>
             <content:encoded><![CDATA[ITZY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220715_238/1657874813883GY8AM_JPEG/upload_101954516439712753d9dec694-2d56-40bc-a349-4b6359744419.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방 이사 기념👍]]></title>
-            <link>https://www.vlive.tv/video/287882</link>
-            <guid>https://www.vlive.tv/video/287882</guid>
-            <pubDate>Fri, 15 Jul 2022 14:43:58 GMT</pubDate>
-            <content:encoded><![CDATA[OMEGA X (오메가엑스)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220715_247/1657896284392uJWH2_JPEG/a2feb37b-044c-11ed-9fa8-505dacfba98a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
