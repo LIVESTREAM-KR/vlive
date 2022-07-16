@@ -4,9 +4,16 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Jul 2022 04:06:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 04:57:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[토요일 같이 보낼 온리비👍]]></title>
+            <link>https://www.vlive.tv/video/287896</link>
+            <guid>https://www.vlive.tv/video/287896</guid>
+            <pubDate>Sat, 16 Jul 2022 04:55:48 GMT</pubDate>
+            <content:encoded><![CDATA[JUST B (저스트비)]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Apink 초봄(CHOBOM) 'Copycat' 안무 연습 영상 (Choreography Practice Video)]]></title>
             <link>https://www.vlive.tv/video/287552</link>
@@ -398,14 +405,6 @@
             <pubDate>Fri, 15 Jul 2022 10:44:41 GMT</pubDate>
             <content:encoded><![CDATA[mydaily]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220715_83/1657879044272xRaBH_JPEG/upload_101958748684247828ee47598c-66f0-41f3-9db5-71f2c227f1c8.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안녕하세용]]></title>
-            <link>https://www.vlive.tv/video/287852</link>
-            <guid>https://www.vlive.tv/video/287852</guid>
-            <pubDate>Fri, 15 Jul 2022 09:44:35 GMT</pubDate>
-            <content:encoded><![CDATA[미래소년 (MIRAE)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220715_187/1657878866672aI9Lj_JPEG/930ca7de-0423-11ed-aef4-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

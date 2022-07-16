@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Jul 2022 04:06:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 04:57:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[토요일 같이 보낼 온리비👍]]></title>
+            <link>https://www.vlive.tv/video/287896</link>
+            <guid>https://www.vlive.tv/video/287896</guid>
+            <pubDate>Sat, 16 Jul 2022 04:55:57 GMT</pubDate>
+            <content:encoded><![CDATA[JUST B (저스트비)]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/287896/thumb?type=f228_128" length="0" type="image//live/287896/thumb"/>
+        </item>
         <item>
             <title><![CDATA[Apink 초봄(CHOBOM) 'Copycat' 안무 연습 영상 (Choreography Practice Video)]]></title>
             <link>https://www.vlive.tv/video/287552</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 15 Jul 2022 15:47:53 GMT</pubDate>
             <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220715_260/165789469912597yRs_JPEG/upload_1019744221473027083279e68b-b29b-425d-b792-7df1333e28ba.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ITZY(있지) "SNEAKERS" M/V Reaction Video]]></title>
-            <link>https://www.vlive.tv/video/287845</link>
-            <guid>https://www.vlive.tv/video/287845</guid>
-            <pubDate>Fri, 15 Jul 2022 15:47:53 GMT</pubDate>
-            <content:encoded><![CDATA[ITZY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220715_238/1657874813883GY8AM_JPEG/upload_101954516439712753d9dec694-2d56-40bc-a349-4b6359744419.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
