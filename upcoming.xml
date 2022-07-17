@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Jul 2022 15:46:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 16:56:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -320,14 +320,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220717_9/1658064655663tyxzg_JPEG/upload_10214437851981754011c492b6-00c5-432f-b78c-a12cd96be9eb.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[썬데이 나잇✨🌠🌃]]></title>
-            <link>https://www.vlive.tv/video/287969</link>
-            <guid>https://www.vlive.tv/video/287969</guid>
-            <pubDate>Sun, 17 Jul 2022 14:41:34 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:35]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220717_204/16580685471651Y6ge_JPEG/1709440841566315200cdbc7cb-8c2e-4a84-babf-9632b9806a78.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[STAYC(스테이씨) [WE NEED LOVE] 'BEAUTIFUL MONSTER' MV Teaser]]></title>
             <link>https://www.vlive.tv/video/287857</link>
             <guid>https://www.vlive.tv/video/287857</guid>
@@ -390,6 +382,14 @@
             <pubDate>Sun, 17 Jul 2022 14:41:34 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:14]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220717_234/1658067460944lci7k_JPEG/1709430769306898724722f7bf-b32b-4b7a-9858-ba545d8b48c2.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[썬데이 나잇✨🌠🌃]]></title>
+            <link>https://www.vlive.tv/video/287969</link>
+            <guid>https://www.vlive.tv/video/287969</guid>
+            <pubDate>Sun, 17 Jul 2022 14:41:34 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:54]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220717_204/16580685471651Y6ge_JPEG/1709440841566315200cdbc7cb-8c2e-4a84-babf-9632b9806a78.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
