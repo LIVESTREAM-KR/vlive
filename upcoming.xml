@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Jul 2022 07:41:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 08:46:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,22 @@
             <pubDate>Sun, 17 Jul 2022 07:40:50 GMT</pubDate>
             <content:encoded><![CDATA[오전 7:04]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220717_112/1658041151066bzjpd_JPEG/upload_1021208674488336463f46c237-30d3-41a0-8204-40caa58616de.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예민Z🦌🐽]]></title>
+            <link>https://www.vlive.tv/video/287937</link>
+            <guid>https://www.vlive.tv/video/287937</guid>
+            <pubDate>Sun, 17 Jul 2022 08:46:08 GMT</pubDate>
+            <content:encoded><![CDATA[오전 8:15]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/287937/thumb?type=f228_128" length="0" type="image//live/287937/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[같이 걷다 뛰어요🏃]]></title>
+            <link>https://www.vlive.tv/video/287938</link>
+            <guid>https://www.vlive.tv/video/287938</guid>
+            <pubDate>Sun, 17 Jul 2022 08:46:08 GMT</pubDate>
+            <content:encoded><![CDATA[오전 8:22]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/287938/thumb?type=f228_128" length="0" type="image//live/287938/thumb"/>
         </item>
     </channel>
 </rss>
