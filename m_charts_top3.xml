@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ CHARTS </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Jul 2022 17:43:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 18:49:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220717_237/16580386744641mrsX_JPEG/ccd7d2a7-0597-11ed-9d93-d4f5ef590144_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Check out what's in Jack In The Box]]></title>
-            <link>https://m.vlive.tv/video/287666</link>
-            <guid>https://m.vlive.tv/video/287666</guid>
-            <pubDate>Fri, 15 Jul 2022 17:03:42 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220716_108/1657935803080UyRdA_JPEG/upload_1020155219324701696f483de9-4787-43ec-a77a-ce4a281d28a2.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[안뇽!think about tzu]]></title>
             <link>https://m.vlive.tv/video/287962</link>
             <guid>https://m.vlive.tv/video/287962</guid>
             <pubDate>Sun, 17 Jul 2022 13:45:38 GMT</pubDate>
             <content:encoded><![CDATA[TWICE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220717_197/1658060037386Cm9h0_JPEG/801124758947719553c383b52-0ad5-4c1f-bd2a-a7562202915e.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Check out what's in Jack In The Box]]></title>
+            <link>https://m.vlive.tv/video/287666</link>
+            <guid>https://m.vlive.tv/video/287666</guid>
+            <pubDate>Fri, 15 Jul 2022 17:03:42 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220716_108/1657935803080UyRdA_JPEG/upload_1020155219324701696f483de9-4787-43ec-a77a-ce4a281d28a2.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
