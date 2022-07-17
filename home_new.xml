@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Jul 2022 05:01:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2022 05:43:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리노리방😺곧 잘시간😴]]></title>
+            <link>https://www.vlive.tv/video/287927</link>
+            <guid>https://www.vlive.tv/video/287927</guid>
+            <pubDate>Sun, 17 Jul 2022 05:41:36 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/287927/thumb?type=f228_128" length="0" type="image//live/287927/thumb"/>
+        </item>
         <item>
             <title><![CDATA[SF9 - 'SCREAM' Choreography Video]]></title>
             <link>https://www.vlive.tv/video/287924</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 16 Jul 2022 10:43:12 GMT</pubDate>
             <content:encoded><![CDATA[VERIVERY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220716_32/1657972897907vdeYB_JPEG/ecbcb3de-04fd-11ed-bb44-48df379ccacc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[CLEAN CAM] ep.41 '메이플스토리' 광고 촬영 비하인드]]></title>
-            <link>https://www.vlive.tv/video/287838</link>
-            <guid>https://www.vlive.tv/video/287838</guid>
-            <pubDate>Sat, 16 Jul 2022 13:02:06 GMT</pubDate>
-            <content:encoded><![CDATA[김세정 (KIM SEJEONG)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220715_223/1657866517653be8ms_JPEG/upload_10194624638765394015657314-27c1-4762-aae5-a29fb54d4077.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
