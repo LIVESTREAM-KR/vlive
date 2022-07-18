@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 17:48:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 18:52:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[허영생의 잠 못드는 밤에 (무엇이든 물어보세요!!)]]></title>
+            <link>https://www.vlive.tv/video/288039</link>
+            <guid>https://www.vlive.tv/video/288039</guid>
+            <pubDate>Mon, 18 Jul 2022 18:50:44 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220719_130/1658168672672NuDgB_JPEG/17104420167039664899e83154-6539-4300-b0ad-e4556b8081c1.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오잉🐝]]></title>
             <link>https://www.vlive.tv/video/288038</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 18 Jul 2022 14:06:51 GMT</pubDate>
             <content:encoded><![CDATA[mydaily]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220718_169/1658151825459dNGxR_JPEG/upload_744214203419198379c3060fc-f0c2-47b8-bad3-28aa40f2a28b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arirang Radio (Radio'n Us / Peakboy 픽보이)]]></title>
-            <link>https://www.vlive.tv/video/287755</link>
-            <guid>https://www.vlive.tv/video/287755</guid>
-            <pubDate>Mon, 18 Jul 2022 11:40:11 GMT</pubDate>
-            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220714_153/1657774861958jc17K_JPEG/upload_1018545487622592518139b6a2-ba2f-4b7b-b1a7-717ee2431cf1.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
