@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 19:43:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 20:48:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[☀️해를 기다리는 사람들☀️]]></title>
+            <link>https://www.vlive.tv/video/288041</link>
+            <guid>https://www.vlive.tv/video/288041</guid>
+            <pubDate>Mon, 18 Jul 2022 20:46:51 GMT</pubDate>
+            <content:encoded><![CDATA[VIVIZ (비비지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220719_57/1658174757630gtJMf_JPEG/171050286601030701f7960f83-0c97-4d3b-b4c0-92394e61ea4d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[허영생의 잠 못드는 밤에 (무엇이든 물어보세요!!)]]></title>
             <link>https://www.vlive.tv/video/288039</link>
@@ -398,14 +406,6 @@
             <pubDate>Mon, 18 Jul 2022 09:44:49 GMT</pubDate>
             <content:encoded><![CDATA[YOUNHA]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220715_163/1657880323680dVFCl_JPEG/41f8e696-0427-11ed-81b1-505dac8c3639_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[4k] 하이라이트(Highlight) 윤두준 '얼굴 찌푸리지 말아요' 직캠 | Highlight YOON DUJUN G KPOP CONCERT]]></title>
-            <link>https://www.vlive.tv/video/288009</link>
-            <guid>https://www.vlive.tv/video/288009</guid>
-            <pubDate>Mon, 18 Jul 2022 09:44:49 GMT</pubDate>
-            <content:encoded><![CDATA[TEN Asia (텐아시아)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220718_154/1658134602203h18FT_JPEG/upload_10221430456862672166e3373a-e199-469d-86cc-ebd316fc15b3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 19:43:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 20:48:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[☀️해를 기다리는 사람들☀️]]></title>
+            <link>https://www.vlive.tv/video/288041</link>
+            <guid>https://www.vlive.tv/video/288041</guid>
+            <pubDate>Mon, 18 Jul 2022 20:46:59 GMT</pubDate>
+            <content:encoded><![CDATA[VIVIZ (비비지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220719_57/1658174757630gtJMf_JPEG/171050286601030701f7960f83-0c97-4d3b-b4c0-92394e61ea4d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[허영생의 잠 못드는 밤에 (무엇이든 물어보세요!!)]]></title>
             <link>https://www.vlive.tv/video/288039</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 18 Jul 2022 14:06:51 GMT</pubDate>
             <content:encoded><![CDATA[mydaily]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220718_47/1658151830436kcotj_JPEG/upload_1022315264483829673c512f2d-0200-472a-91ce-6442143b82a3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[송가인(Song Gain), '외계+인' 응원차 극장 나들이 '재밌게 볼게요' #외계+인 #VIP시사회]]></title>
-            <link>https://www.vlive.tv/video/288029</link>
-            <guid>https://www.vlive.tv/video/288029</guid>
-            <pubDate>Mon, 18 Jul 2022 14:06:51 GMT</pubDate>
-            <content:encoded><![CDATA[mydaily]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220718_169/1658151825459dNGxR_JPEG/upload_744214203419198379c3060fc-f0c2-47b8-bad3-28aa40f2a28b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
