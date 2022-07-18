@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 10:48:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 11:41:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Radio'n Us / Peakboy 픽보이)]]></title>
-            <link>https://m.vlive.tv/video/287755</link>
-            <guid>https://m.vlive.tv/video/287755</guid>
-            <pubDate>Fri, 15 Jul 2022 04:49:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220714_153/1657774861958jc17K_JPEG/upload_1018545487622592518139b6a2-ba2f-4b7b-b1a7-717ee2431cf1.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HAPPY BVNDITBUL DAY❤]]></title>
-            <link>https://m.vlive.tv/video/287970</link>
-            <guid>https://m.vlive.tv/video/287970</guid>
-            <pubDate>Sun, 17 Jul 2022 15:45:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">BVNDIT(밴디트)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220718_148/1658072220272X1fOQ_JPEG/upload_74341816550722715128292c7-f7ea-4ff8-8bba-1ca2e88859d5.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Welcome to Korea with Kim Min Ji]]></title>
             <link>https://m.vlive.tv/video/287644</link>
@@ -96,6 +76,26 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220713_14/1657676347227DXAP9_JPEG/upload_1017560453466906787ea4fa78-f76d-4b7a-ad39-ca19ce192bab.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / Eternity Zae-in 이터니티 제인)]]></title>
+            <link>https://m.vlive.tv/video/287861</link>
+            <guid>https://m.vlive.tv/video/287861</guid>
+            <pubDate>Mon, 18 Jul 2022 11:41:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220715_231/1657883545697MoBKm_JPEG/upload_101963228547953250c4c88703-670e-4c9e-8346-05f8c208cad2.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[P1Harmony 4TH MINI ALBUM 'HARMONY : ZERO IN' SHOWCASE]]></title>
+            <link>https://m.vlive.tv/video/287564</link>
+            <guid>https://m.vlive.tv/video/287564</guid>
+            <pubDate>Mon, 18 Jul 2022 11:41:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">P1Harmony</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220718_225/16580879393832zQJd_JPEG/upload_74357537492296810673a02a9-7ae5-458e-bf01-64a61382738f.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
