@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 14:08:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 14:55:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,14 +40,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220717_57/1658036379009q74oL_JPEG/upload_102116056491455208d8eb4b6c-7eb2-4b6b-9f32-dd984c088623.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[안뇽!think about tzu]]></title>
-            <link>https://www.vlive.tv/video/287962</link>
-            <guid>https://www.vlive.tv/video/287962</guid>
-            <pubDate>Sun, 17 Jul 2022 13:45:30 GMT</pubDate>
-            <content:encoded><![CDATA[TWICE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220717_197/1658060037386Cm9h0_JPEG/801124758947719553c383b52-0ad5-4c1f-bd2a-a7562202915e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[리노리방😺곧 잘시간😴]]></title>
             <link>https://www.vlive.tv/video/287927</link>
             <guid>https://www.vlive.tv/video/287927</guid>
@@ -62,6 +54,14 @@
             <pubDate>Mon, 18 Jul 2022 13:23:53 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220718_95/1658141560697YsrE2_JPEG/upload_744083420064448096d9f4478-e04b-4abf-84d6-4e8e4203e93d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안뇽!think about tzu]]></title>
+            <link>https://www.vlive.tv/video/287962</link>
+            <guid>https://www.vlive.tv/video/287962</guid>
+            <pubDate>Sun, 17 Jul 2022 13:45:30 GMT</pubDate>
+            <content:encoded><![CDATA[TWICE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220717_197/1658060037386Cm9h0_JPEG/801124758947719553c383b52-0ad5-4c1f-bd2a-a7562202915e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
