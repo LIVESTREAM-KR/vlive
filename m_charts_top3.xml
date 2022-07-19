@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ CHARTS </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 05:59:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 06:51:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220718_5/16581281360116AA3F_JPEG/b99ebf2f-0667-11ed-b44a-d4f5ef58ad5e_06.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오랜만!!!]]></title>
-            <link>https://m.vlive.tv/video/287983</link>
-            <guid>https://m.vlive.tv/video/287983</guid>
-            <pubDate>Mon, 18 Jul 2022 05:50:49 GMT</pubDate>
-            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220718_48/1658125862924RObln_JPEG/upload_1022055915923902235c46d4b7-3896-4730-a717-8157b1f34f6f.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Check out what's in Jack In The Box]]></title>
             <link>https://m.vlive.tv/video/287666</link>
             <guid>https://m.vlive.tv/video/287666</guid>
             <pubDate>Mon, 18 Jul 2022 13:24:01 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220716_108/1657935803080UyRdA_JPEG/upload_1020155219324701696f483de9-4787-43ec-a77a-ce4a281d28a2.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오랜만!!!]]></title>
+            <link>https://m.vlive.tv/video/287983</link>
+            <guid>https://m.vlive.tv/video/287983</guid>
+            <pubDate>Mon, 18 Jul 2022 05:50:49 GMT</pubDate>
+            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220718_48/1658125862924RObln_JPEG/upload_1022055915923902235c46d4b7-3896-4730-a717-8157b1f34f6f.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
