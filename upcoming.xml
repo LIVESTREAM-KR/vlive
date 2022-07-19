@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 07:42:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 08:50:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -117,8 +117,32 @@
             <link>https://www.vlive.tv/video/288064</link>
             <guid>https://www.vlive.tv/video/288064</guid>
             <pubDate>Tue, 19 Jul 2022 07:42:12 GMT</pubDate>
-            <content:encoded><![CDATA[오전 7:21]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/288064/thumb?type=f228_128" length="0" type="image//live/288064/thumb"/>
+            <content:encoded><![CDATA[오전 7:48]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220719_134/1658217314054Wr5LY_PNG/upload_74486914418049367e4f80ebc-a680-4367-89b5-d81e71f9be66.png?type=f228_128" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[카레]]></title>
+            <link>https://www.vlive.tv/video/288069</link>
+            <guid>https://www.vlive.tv/video/288069</guid>
+            <pubDate>Tue, 19 Jul 2022 08:49:48 GMT</pubDate>
+            <content:encoded><![CDATA[오전 8:08]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/288069/thumb?type=f228_128" length="0" type="image//live/288069/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[밍냥즈랑 놀자 🙈🐰]]></title>
+            <link>https://www.vlive.tv/video/288070</link>
+            <guid>https://www.vlive.tv/video/288070</guid>
+            <pubDate>Tue, 19 Jul 2022 08:49:48 GMT</pubDate>
+            <content:encoded><![CDATA[오전 8:08]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220719_174/1658218133900ckj6R_JPEG/171006589896205313684814a8-de30-46cd-ad8c-e633ee2b0a5c.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오랜만이에요~]]></title>
+            <link>https://www.vlive.tv/video/288073</link>
+            <guid>https://www.vlive.tv/video/288073</guid>
+            <pubDate>Tue, 19 Jul 2022 08:49:48 GMT</pubDate>
+            <content:encoded><![CDATA[오전 8:39]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/288073/thumb?type=f228_128" length="0" type="image//live/288073/thumb"/>
         </item>
     </channel>
 </rss>

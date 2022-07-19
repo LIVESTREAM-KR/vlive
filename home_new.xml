@@ -4,16 +4,40 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 07:42:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 08:50:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오랜만이에요~]]></title>
+            <link>https://www.vlive.tv/video/288073</link>
+            <guid>https://www.vlive.tv/video/288073</guid>
+            <pubDate>Tue, 19 Jul 2022 08:49:02 GMT</pubDate>
+            <content:encoded><![CDATA[Golden Child]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/288073/thumb?type=f228_128" length="0" type="image//live/288073/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[밍냥즈랑 놀자 🙈🐰]]></title>
+            <link>https://www.vlive.tv/video/288070</link>
+            <guid>https://www.vlive.tv/video/288070</guid>
+            <pubDate>Tue, 19 Jul 2022 08:49:02 GMT</pubDate>
+            <content:encoded><![CDATA[LIGHTSUM]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220719_174/1658218133900ckj6R_JPEG/171006589896205313684814a8-de30-46cd-ad8c-e633ee2b0a5c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카레]]></title>
+            <link>https://www.vlive.tv/video/288069</link>
+            <guid>https://www.vlive.tv/video/288069</guid>
+            <pubDate>Tue, 19 Jul 2022 08:49:02 GMT</pubDate>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/288069/thumb?type=f228_128" length="0" type="image//live/288069/thumb"/>
+        </item>
         <item>
             <title><![CDATA[HBD WONWOO+2🐱]]></title>
             <link>https://www.vlive.tv/video/288064</link>
             <guid>https://www.vlive.tv/video/288064</guid>
             <pubDate>Tue, 19 Jul 2022 07:41:14 GMT</pubDate>
             <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/288064/thumb?type=f228_128" length="0" type="image//live/288064/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220719_134/1658217314054Wr5LY_PNG/upload_74486914418049367e4f80ebc-a680-4367-89b5-d81e71f9be66.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio / Sound K] Mystery Mix with BOiTELLO 보이텔로]]></title>
@@ -103,30 +127,6 @@
             <pubDate>Tue, 19 Jul 2022 03:07:20 GMT</pubDate>
             <content:encoded><![CDATA[TREASURE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220718_183/1658134882423a98UL_JPEG/upload_10221451743448575750da0bcd-7624-4cf8-8193-63c5dcae2059.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Welcome to Korea with Kim Min Ji]]></title>
-            <link>https://www.vlive.tv/video/287644</link>
-            <guid>https://www.vlive.tv/video/287644</guid>
-            <pubDate>Tue, 19 Jul 2022 03:07:20 GMT</pubDate>
-            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220713_177/1657675865533ezrph_JPEG/upload_101755574337803428e08fe7a7-a802-457f-8856-8a00e7e159b4.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[REPLAY] Lisa is Hungry]]></title>
-            <link>https://www.vlive.tv/video/287111</link>
-            <guid>https://www.vlive.tv/video/287111</guid>
-            <pubDate>Tue, 19 Jul 2022 03:07:20 GMT</pubDate>
-            <content:encoded><![CDATA[BLACKPINK]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220705_270/1657032483361bJv6S_JPEG/16982087304719049189ba0b00-d149-4467-ba5b-800e0c969859.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[☀️해를 기다리는 사람들☀️]]></title>
-            <link>https://www.vlive.tv/video/288041</link>
-            <guid>https://www.vlive.tv/video/288041</guid>
-            <pubDate>Mon, 18 Jul 2022 20:46:59 GMT</pubDate>
-            <content:encoded><![CDATA[VIVIZ (비비지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220719_57/1658174757630gtJMf_JPEG/171050286601030701f7960f83-0c97-4d3b-b4c0-92394e61ea4d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
