@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 06:54:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 13:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / Super K-Pop] Stray Quiz]]></title>
-            <link>https://m.vlive.tv/video/287653</link>
-            <guid>https://m.vlive.tv/video/287653</guid>
-            <pubDate>Tue, 19 Jul 2022 03:08:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 4:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220713_203/1657676475473JdSbE_JPEG/upload_739460632835093309127dfec-4b11-4270-9501-68d2799e1e50.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데뷔 200일? ㅇㅇ 즐겨줄게]]></title>
-            <link>https://m.vlive.tv/video/288132</link>
-            <guid>https://m.vlive.tv/video/288132</guid>
-            <pubDate>Wed, 20 Jul 2022 07:42:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 8:00</span>
-										<span class="txt">Kep1er</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220720_61/16583000493841y2VI_JPEG/upload_102375712534735564eaa318c3-0465-4084-8909-3deadb69e2cc.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
             <link>https://m.vlive.tv/video/287206</link>
@@ -76,6 +56,36 @@
 										오후 8:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220714_68/1657774813627wALQB_JPEG/upload_101854495009316135bc0c0d3b-8834-46b5-ae0b-f212b33c2560.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / ILY:1 아일리원)]]></title>
+            <link>https://m.vlive.tv/video/288212</link>
+            <guid>https://m.vlive.tv/video/288212</guid>
+            <pubDate>Thu, 21 Jul 2022 13:21:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 2:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220721_130/1658380861817Xmgsd_JPEG/upload_10246055388853927080020616-ffd3-47de-9c7e-5531dc41c013.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / Hi-L 하이엘)]]></title>
+            <link>https://m.vlive.tv/video/288213</link>
+            <guid>https://m.vlive.tv/video/288213</guid>
+            <pubDate>Thu, 21 Jul 2022 13:21:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 4:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220721_176/1658380986797I59U8_JPEG/upload_10246068071593693658518d69-e986-4e36-a2b4-cb9d83e455dd.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE] SIMPLY K-POP CON-TOUR (📍Thailand)]]></title>
+            <link>https://m.vlive.tv/video/288237</link>
+            <guid>https://m.vlive.tv/video/288237</guid>
+            <pubDate>Thu, 21 Jul 2022 13:21:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 7:00</span>
+										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220721_144/1658395388242dItgk_PNG/upload_7466492834550897184250e0c-e046-431e-9db2-35503e4d903a.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
