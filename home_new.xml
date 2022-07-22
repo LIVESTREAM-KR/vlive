@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 19:41:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 20:46:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[큐뉴]]></title>
+            <link>https://www.vlive.tv/video/288392</link>
+            <guid>https://www.vlive.tv/video/288392</guid>
+            <pubDate>Fri, 22 Jul 2022 20:44:56 GMT</pubDate>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220723_217/1658518799918sF4E4_JPEG/6852d681-09f5-11ed-94ce-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인 + 라노 IN 베트남]]></title>
             <link>https://www.vlive.tv/video/288387</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 22 Jul 2022 13:56:45 GMT</pubDate>
             <content:encoded><![CDATA[TWICE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220722_162/16584978700004xe9t_JPEG/1e52719a-09c5-11ed-946a-d4f5ef58ac88_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안녕하세요 비피엠의 비비지라고합니다]]></title>
-            <link>https://www.vlive.tv/video/288380</link>
-            <guid>https://www.vlive.tv/video/288380</guid>
-            <pubDate>Fri, 22 Jul 2022 19:39:49 GMT</pubDate>
-            <content:encoded><![CDATA[VIVIZ (비비지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220722_227/1658495745607JjfUh_JPEG/171371409569311230c5ec5045-9fef-45b0-b408-ae344a565a47.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
