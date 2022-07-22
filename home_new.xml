@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 17:50:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 18:52:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[큐뉴]]></title>
+            <link>https://www.vlive.tv/video/288392</link>
+            <guid>https://www.vlive.tv/video/288392</guid>
+            <pubDate>Fri, 22 Jul 2022 18:51:17 GMT</pubDate>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/288392/thumb?type=f228_128" length="0" type="image//live/288392/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[인 + 라노 IN 베트남]]></title>
+            <link>https://www.vlive.tv/video/288387</link>
+            <guid>https://www.vlive.tv/video/288387</guid>
+            <pubDate>Fri, 22 Jul 2022 17:06:05 GMT</pubDate>
+            <content:encoded><![CDATA[E'LAST]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220723_152/1658505333381nOU2m_JPEG/80557771913758391715bc3dc-4fa2-4d7b-b37d-bb8f3ac1f696.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[선공개] 차준환의 첫 도전! 못 2개 박기 🔨 이어 팻말 꽂기에 나선 그! "어떻게 꽂는 거지?", MBC 220725 방송]]></title>
             <link>https://www.vlive.tv/video/288391</link>
@@ -46,14 +62,6 @@
             <pubDate>Fri, 22 Jul 2022 17:06:05 GMT</pubDate>
             <content:encoded><![CDATA[MBC 예능]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220723_43/1658508111721PfgCH_JPEG/upload_1025878259470683740558a78d-9969-44c4-b485-74354011aa89.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인 + 라노 IN 베트남]]></title>
-            <link>https://www.vlive.tv/video/288387</link>
-            <guid>https://www.vlive.tv/video/288387</guid>
-            <pubDate>Fri, 22 Jul 2022 17:06:05 GMT</pubDate>
-            <content:encoded><![CDATA[E'LAST]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220723_152/1658505333381nOU2m_JPEG/80557771913758391715bc3dc-4fa2-4d7b-b37d-bb8f3ac1f696.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[P1Harmony (피원하모니) - ‘Black Hole’ (@4TH MINI ALBUM 'HARMONY : ZERO IN' SHOWCASE)]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 22 Jul 2022 13:56:45 GMT</pubDate>
             <content:encoded><![CDATA[TWICE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220722_162/16584978700004xe9t_JPEG/1e52719a-09c5-11ed-946a-d4f5ef58ac88_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안녕하세요 비피엠의 비비지라고합니다]]></title>
-            <link>https://www.vlive.tv/video/288380</link>
-            <guid>https://www.vlive.tv/video/288380</guid>
-            <pubDate>Fri, 22 Jul 2022 13:56:45 GMT</pubDate>
-            <content:encoded><![CDATA[VIVIZ (비비지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220722_227/1658495745607JjfUh_JPEG/171371409569311230c5ec5045-9fef-45b0-b408-ae344a565a47.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

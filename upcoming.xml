@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 17:50:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 18:52:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -640,14 +640,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220722_167/1658496524764PBizA_JPEG/upload_102576240214630084b2a70722-c394-477c-980d-db74eee6da4b.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인 + 라노 IN 베트남]]></title>
-            <link>https://www.vlive.tv/video/288387</link>
-            <guid>https://www.vlive.tv/video/288387</guid>
-            <pubDate>Fri, 22 Jul 2022 17:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:55]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220723_152/1658505333381nOU2m_JPEG/80557771913758391715bc3dc-4fa2-4d7b-b37d-bb8f3ac1f696.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[선공개] 마치 식물원에 온 듯 풀 내음 가득한 정재형의 하우스! 🏡 "한국 아닌 거 같아", MBC 220723 방송]]></title>
             <link>https://www.vlive.tv/video/288388</link>
             <guid>https://www.vlive.tv/video/288388</guid>
@@ -686,6 +678,22 @@
             <pubDate>Fri, 22 Jul 2022 17:50:01 GMT</pubDate>
             <content:encoded><![CDATA[오후 5:22]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220723_283/1658510573388XHh4O_JPEG/upload_102590302942670292c43abdcb-c889-4f3c-a52b-fad9e942e171.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인 + 라노 IN 베트남]]></title>
+            <link>https://www.vlive.tv/video/288387</link>
+            <guid>https://www.vlive.tv/video/288387</guid>
+            <pubDate>Fri, 22 Jul 2022 17:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[오후 6:04]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220723_152/1658505333381nOU2m_JPEG/80557771913758391715bc3dc-4fa2-4d7b-b37d-bb8f3ac1f696.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[큐뉴]]></title>
+            <link>https://www.vlive.tv/video/288392</link>
+            <guid>https://www.vlive.tv/video/288392</guid>
+            <pubDate>Fri, 22 Jul 2022 18:52:07 GMT</pubDate>
+            <content:encoded><![CDATA[오후 6:23]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/288392/thumb?type=f228_128" length="0" type="image//live/288392/thumb"/>
         </item>
     </channel>
 </rss>

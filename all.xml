@@ -4,9 +4,24 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 17:50:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 18:52:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[큐뉴 (V LIVE ─ NEW)]]></title>
+            <link>https://www.vlive.tv/video/288392</link>
+            <guid>https://www.vlive.tv/video/288392</guid>
+            <pubDate>Fri, 22 Jul 2022 18:51:07 GMT</pubDate>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[인 + 라노 IN 베트남 (V LIVE ─ NEW)]]></title>
+            <link>https://www.vlive.tv/video/288387</link>
+            <guid>https://www.vlive.tv/video/288387</guid>
+            <pubDate>Fri, 22 Jul 2022 17:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[E'LAST]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220723_152/1658505333381nOU2m_JPEG/80557771913758391715bc3dc-4fa2-4d7b-b37d-bb8f3ac1f696.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[선공개] 차준환의 첫 도전! 못 2개 박기 🔨 이어 팻말 꽂기에 나선 그! "어떻게 꽂는 거지?", MBC 220725 방송 (V LIVE ─ NEW)]]></title>
             <link>https://www.vlive.tv/video/288391</link>
@@ -46,14 +61,6 @@
             <pubDate>Fri, 22 Jul 2022 17:05:55 GMT</pubDate>
             <content:encoded><![CDATA[MBC 예능]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220723_43/1658508111721PfgCH_JPEG/upload_1025878259470683740558a78d-9969-44c4-b485-74354011aa89.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인 + 라노 IN 베트남 (V LIVE ─ NEW)]]></title>
-            <link>https://www.vlive.tv/video/288387</link>
-            <guid>https://www.vlive.tv/video/288387</guid>
-            <pubDate>Fri, 22 Jul 2022 17:05:55 GMT</pubDate>
-            <content:encoded><![CDATA[E'LAST]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220723_152/1658505333381nOU2m_JPEG/80557771913758391715bc3dc-4fa2-4d7b-b37d-bb8f3ac1f696.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[P1Harmony (피원하모니) - ‘Black Hole’ (@4TH MINI ALBUM 'HARMONY : ZERO IN' SHOWCASE) (V LIVE ─ NEW)]]></title>
@@ -400,18 +407,26 @@
             <enclosure url="https://v-phinf.pstatic.net/20220721_159/1658374401827QnDCr_PNG/upload_7464400313974453644c3fd32-1969-4148-b2a2-82dac810065c.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[Live Clip] 케이시(Kassy)_'사랑이야' (FOREVER LOVE) (V LIVE ─ NEW)]]></title>
-            <link>https://www.vlive.tv/video/288138</link>
-            <guid>https://www.vlive.tv/video/288138</guid>
-            <pubDate>Fri, 22 Jul 2022 03:00:37 GMT</pubDate>
-            <content:encoded><![CDATA[케이시(Kassy)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220720_267/16583023175130Muj9_JPEG/upload_1023820493319150169ad2a21f-d827-4614-8825-4baa89f243ee.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <title><![CDATA[큐뉴 (V LIVE ─ 홈 ─ NEW)]]></title>
+            <link>https://www.vlive.tv/video/288392</link>
+            <guid>https://www.vlive.tv/video/288392</guid>
+            <pubDate>Fri, 22 Jul 2022 18:51:17 GMT</pubDate>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/288392/thumb?type=f228_128" length="0" type="image//live/288392/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[인 + 라노 IN 베트남 (V LIVE ─ 홈 ─ NEW)]]></title>
+            <link>https://www.vlive.tv/video/288387</link>
+            <guid>https://www.vlive.tv/video/288387</guid>
+            <pubDate>Fri, 22 Jul 2022 17:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[E'LAST]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220723_152/1658505333381nOU2m_JPEG/80557771913758391715bc3dc-4fa2-4d7b-b37d-bb8f3ac1f696.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[선공개] 차준환의 첫 도전! 못 2개 박기 🔨 이어 팻말 꽂기에 나선 그! "어떻게 꽂는 거지?", MBC 220725 방송 (V LIVE ─ 홈 ─ NEW)]]></title>
             <link>https://www.vlive.tv/video/288391</link>
             <guid>https://www.vlive.tv/video/288391</guid>
-            <pubDate>Fri, 22 Jul 2022 17:49:15 GMT</pubDate>
+            <pubDate>Fri, 22 Jul 2022 17:49:07 GMT</pubDate>
             <content:encoded><![CDATA[MBC 예능]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220723_283/1658510573388XHh4O_JPEG/upload_102590302942670292c43abdcb-c889-4f3c-a52b-fad9e942e171.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
@@ -419,7 +434,7 @@
             <title><![CDATA[[선공개] 해루질 시작 💡 "걱정 마요 촌장님" 안정환 서포트하는 씨름 선수 손희찬! "뭔가 잡았다?", MBC 220725 방송 (V LIVE ─ 홈 ─ NEW)]]></title>
             <link>https://www.vlive.tv/video/288390</link>
             <guid>https://www.vlive.tv/video/288390</guid>
-            <pubDate>Fri, 22 Jul 2022 17:49:15 GMT</pubDate>
+            <pubDate>Fri, 22 Jul 2022 17:49:07 GMT</pubDate>
             <content:encoded><![CDATA[MBC 예능]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220723_92/1658510383997qlCn3_JPEG/upload_102590099579033114b482adbb-32b6-4d4c-8356-5f5c8d50f520.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
@@ -446,14 +461,6 @@
             <pubDate>Fri, 22 Jul 2022 17:05:55 GMT</pubDate>
             <content:encoded><![CDATA[MBC 예능]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220723_43/1658508111721PfgCH_JPEG/upload_1025878259470683740558a78d-9969-44c4-b485-74354011aa89.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인 + 라노 IN 베트남 (V LIVE ─ 홈 ─ NEW)]]></title>
-            <link>https://www.vlive.tv/video/288387</link>
-            <guid>https://www.vlive.tv/video/288387</guid>
-            <pubDate>Fri, 22 Jul 2022 17:05:55 GMT</pubDate>
-            <content:encoded><![CDATA[E'LAST]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220723_152/1658505333381nOU2m_JPEG/80557771913758391715bc3dc-4fa2-4d7b-b37d-bb8f3ac1f696.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[P1Harmony (피원하모니) - ‘Black Hole’ (@4TH MINI ALBUM 'HARMONY : ZERO IN' SHOWCASE) (V LIVE ─ 홈 ─ NEW)]]></title>
@@ -518,14 +525,6 @@
             <pubDate>Fri, 22 Jul 2022 13:56:36 GMT</pubDate>
             <content:encoded><![CDATA[TWICE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220722_162/16584978700004xe9t_JPEG/1e52719a-09c5-11ed-946a-d4f5ef58ac88_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안녕하세요 비피엠의 비비지라고합니다 (V LIVE ─ 홈 ─ NEW)]]></title>
-            <link>https://www.vlive.tv/video/288380</link>
-            <guid>https://www.vlive.tv/video/288380</guid>
-            <pubDate>Fri, 22 Jul 2022 13:56:36 GMT</pubDate>
-            <content:encoded><![CDATA[VIVIZ (비비지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220722_227/1658495745607JjfUh_JPEG/171371409569311230c5ec5045-9fef-45b0-b408-ae344a565a47.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[엔진 모여라😃 (V LIVE ─ 홈 ─ CHARTS TOP3)]]></title>
@@ -667,7 +666,7 @@
             <title><![CDATA[Charting4 오랜만이에요☺️ (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Fri, 22 Jul 2022 17:49:54 GMT</pubDate>
+            <pubDate>Fri, 22 Jul 2022 18:51:58 GMT</pubDate>
             <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220722_235/1658475396729wjMkA_JPEG/upload_102555111360231088541c718e-01b0-4557-a3cb-99848a842072.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
@@ -675,7 +674,7 @@
             <title><![CDATA[Charting5 요ㅛ (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Fri, 22 Jul 2022 17:49:54 GMT</pubDate>
+            <pubDate>Fri, 22 Jul 2022 18:51:58 GMT</pubDate>
             <content:encoded><![CDATA[TWICE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220722_214/1658499020224GKmU1_JPEG/a0f006a4-09c7-11ed-8e34-505dac8c3721_03.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
@@ -683,7 +682,7 @@
             <title><![CDATA[Charting6 요 (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Fri, 22 Jul 2022 17:49:54 GMT</pubDate>
+            <pubDate>Fri, 22 Jul 2022 18:51:58 GMT</pubDate>
             <content:encoded><![CDATA[TWICE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220722_162/16584978700004xe9t_JPEG/1e52719a-09c5-11ed-946a-d4f5ef58ac88_03.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
@@ -691,7 +690,7 @@
             <title><![CDATA[Charting7 Check out what's in Jack In The Box (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Fri, 22 Jul 2022 17:49:54 GMT</pubDate>
+            <pubDate>Fri, 22 Jul 2022 18:51:58 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220716_108/1657935803080UyRdA_JPEG/upload_1020155219324701696f483de9-4787-43ec-a77a-ce4a281d28a2.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
@@ -699,7 +698,7 @@
             <title><![CDATA[Charting8 옐로우 걸의 정체를 공개해주세요 (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Fri, 22 Jul 2022 17:49:54 GMT</pubDate>
+            <pubDate>Fri, 22 Jul 2022 18:51:58 GMT</pubDate>
             <content:encoded><![CDATA[NMIXX]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220722_41/1658496165529dDz1U_JPEG/d2a6e573-09bf-11ed-b769-505dac8c35ff_03.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
@@ -707,79 +706,79 @@
             <title><![CDATA[Charting9 TXT (투모로우바이투게더) 'Valley of Lies (feat. iann dior)' Official Visualizer (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Fri, 22 Jul 2022 17:49:54 GMT</pubDate>
+            <pubDate>Fri, 22 Jul 2022 18:51:58 GMT</pubDate>
             <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220721_253/1658407134162CqQit_JPEG/upload_102486860976900439329bc9ac-bc99-4096-9273-2e82aaaf69f8.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Charting10 슼즈로운 제주생활 #1｜[SKZ CODE(스키즈 코드)] Ep.20 (V LIVE 모바일 ─ CHARTS)]]></title>
+            <title><![CDATA[Charting10 안녕하세요 비피엠의 비비지라고합니다 (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Fri, 22 Jul 2022 17:49:54 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220720_54/1658314677197ekwFK_PNG/upload_102393663651730724a5f5020d-1b12-497e-bcbd-6c896c3463dd.png?type=f256_144_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Charting11 안녕하세요 비피엠의 비비지라고합니다 (V LIVE 모바일 ─ CHARTS)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Fri, 22 Jul 2022 17:49:54 GMT</pubDate>
+            <pubDate>Fri, 22 Jul 2022 18:51:58 GMT</pubDate>
             <content:encoded><![CDATA[VIVIZ (비비지)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220722_227/1658495745607JjfUh_JPEG/171371409569311230c5ec5045-9fef-45b0-b408-ae344a565a47.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Charting11 슼즈로운 제주생활 #1｜[SKZ CODE(스키즈 코드)] Ep.20 (V LIVE 모바일 ─ CHARTS)]]></title>
+            <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
+            <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
+            <pubDate>Fri, 22 Jul 2022 18:51:58 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220720_54/1658314677197ekwFK_PNG/upload_102393663651730724a5f5020d-1b12-497e-bcbd-6c896c3463dd.png?type=f256_144_wp" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Charting12 이 뭐선일이고 (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Fri, 22 Jul 2022 17:49:54 GMT</pubDate>
+            <pubDate>Fri, 22 Jul 2022 18:51:58 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220616_212/1655309373778nvn64_JPEG/upload_71578974998017374f63e7056-864b-48cf-bc34-ff66f19958b7.jpeg?type=f256_144_wp" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Charting13 안녕 아리! 브이라이브가 많이 늦었지~ (V LIVE 모바일 ─ CHARTS)]]></title>
+            <title><![CDATA[Charting13 찬이의 "방" 🐺 Ep. 166 (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Fri, 22 Jul 2022 17:49:54 GMT</pubDate>
-            <content:encoded><![CDATA[DKZ]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220722_141/1658463942665RQH53_JPEG/ce692f0c-091b-11ed-b6ab-505dac8c38f5_01.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Charting14 찬이의 "방" 🐺 Ep. 166 (V LIVE 모바일 ─ CHARTS)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Fri, 22 Jul 2022 17:49:54 GMT</pubDate>
+            <pubDate>Fri, 22 Jul 2022 18:51:58 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220718_5/16581281360116AA3F_JPEG/b99ebf2f-0667-11ed-b44a-d4f5ef58ad5e_06.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Charting15 NAYEON "POP!" M/V Behind the Scenes EP.03 (V LIVE 모바일 ─ CHARTS)]]></title>
+            <title><![CDATA[Charting14 NAYEON "POP!" M/V Behind the Scenes EP.03 (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Fri, 22 Jul 2022 17:49:54 GMT</pubDate>
+            <pubDate>Fri, 22 Jul 2022 18:51:59 GMT</pubDate>
             <content:encoded><![CDATA[TWICE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220722_242/1658465041572mO1ne_PNG/upload_74734633997246122463e2e4e-d164-438d-a543-dc633a9d164e.png?type=f256_144_wp" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Charting16 안부인사🔥 (V LIVE 모바일 ─ CHARTS)]]></title>
+            <title><![CDATA[Charting15 안부인사🔥 (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Fri, 22 Jul 2022 17:49:54 GMT</pubDate>
+            <pubDate>Fri, 22 Jul 2022 18:51:59 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220708_215/16572770046595wrdw_JPEG/upload_73546602656393940ad191ebc-c963-49d0-9a84-be309f77c341.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Charting17 j-hope '방화 (Arson)' Official MV (V LIVE 모바일 ─ CHARTS)]]></title>
+            <title><![CDATA[Charting16 j-hope '방화 (Arson)' Official MV (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Fri, 22 Jul 2022 17:49:54 GMT</pubDate>
+            <pubDate>Fri, 22 Jul 2022 18:51:59 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220715_215/1657846532724Dx7kf_JPEG/upload_10192603677852125927c1a61f-3a30-49dc-916f-f58dc98e3b20.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Charting17 안녕 아리! 브이라이브가 많이 늦었지~ (V LIVE 모바일 ─ CHARTS)]]></title>
+            <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
+            <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
+            <pubDate>Fri, 22 Jul 2022 18:51:59 GMT</pubDate>
+            <content:encoded><![CDATA[DKZ]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220722_141/1658463942665RQH53_JPEG/ce692f0c-091b-11ed-b6ab-505dac8c38f5_01.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Charting18 지민씨 등장 (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Fri, 22 Jul 2022 17:49:54 GMT</pubDate>
+            <pubDate>Fri, 22 Jul 2022 18:51:59 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211013_144/1634122553955eHKox_JPEG/upload_78202275760730696931ec09d-bfa2-4361-8b27-5b66010714b3.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
@@ -787,7 +786,7 @@
             <title><![CDATA[Charting19 녹화 끝 (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Fri, 22 Jul 2022 17:49:54 GMT</pubDate>
+            <pubDate>Fri, 22 Jul 2022 18:51:59 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220613_223/1655124508596EBTYM_JPEG/upload_713941094576705450304fc2e-1911-4d11-9b59-bb4be77a0972.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
@@ -795,7 +794,7 @@
             <title><![CDATA[Charting20 ENHYPEN (엔하이픈) 'ParadoXXX Invasion' Official MV (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Fri, 22 Jul 2022 17:49:54 GMT</pubDate>
+            <pubDate>Fri, 22 Jul 2022 18:51:59 GMT</pubDate>
             <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220720_34/1658299973997Cve69_PNG/upload_74569554759115450686bd088-d409-4784-90fc-b8ef951aff2c.png?type=f256_144_wp" length="0" type="image/png"/>
         </item>
@@ -1432,14 +1431,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220722_167/1658496524764PBizA_JPEG/upload_102576240214630084b2a70722-c394-477c-980d-db74eee6da4b.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인 + 라노 IN 베트남 (V LIVE ─ 일정표)]]></title>
-            <link>https://www.vlive.tv/video/288387</link>
-            <guid>https://www.vlive.tv/video/288387</guid>
-            <pubDate>Fri, 22 Jul 2022 17:05:55 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:55]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220723_152/1658505333381nOU2m_JPEG/80557771913758391715bc3dc-4fa2-4d7b-b37d-bb8f3ac1f696.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[선공개] 마치 식물원에 온 듯 풀 내음 가득한 정재형의 하우스! 🏡 "한국 아닌 거 같아", MBC 220723 방송 (V LIVE ─ 일정표)]]></title>
             <link>https://www.vlive.tv/video/288388</link>
             <guid>https://www.vlive.tv/video/288388</guid>
@@ -1467,7 +1458,7 @@
             <title><![CDATA[[선공개] 해루질 시작 💡 "걱정 마요 촌장님" 안정환 서포트하는 씨름 선수 손희찬! "뭔가 잡았다?", MBC 220725 방송 (V LIVE ─ 일정표)]]></title>
             <link>https://www.vlive.tv/video/288390</link>
             <guid>https://www.vlive.tv/video/288390</guid>
-            <pubDate>Fri, 22 Jul 2022 17:50:01 GMT</pubDate>
+            <pubDate>Fri, 22 Jul 2022 17:49:07 GMT</pubDate>
             <content:encoded><![CDATA[오후 5:19]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220723_92/1658510383997qlCn3_JPEG/upload_102590099579033114b482adbb-32b6-4d4c-8356-5f5c8d50f520.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
@@ -1475,9 +1466,25 @@
             <title><![CDATA[[선공개] 차준환의 첫 도전! 못 2개 박기 🔨 이어 팻말 꽂기에 나선 그! "어떻게 꽂는 거지?", MBC 220725 방송 (V LIVE ─ 일정표)]]></title>
             <link>https://www.vlive.tv/video/288391</link>
             <guid>https://www.vlive.tv/video/288391</guid>
-            <pubDate>Fri, 22 Jul 2022 17:50:01 GMT</pubDate>
+            <pubDate>Fri, 22 Jul 2022 17:49:07 GMT</pubDate>
             <content:encoded><![CDATA[오후 5:22]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220723_283/1658510573388XHh4O_JPEG/upload_102590302942670292c43abdcb-c889-4f3c-a52b-fad9e942e171.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인 + 라노 IN 베트남 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/288387</link>
+            <guid>https://www.vlive.tv/video/288387</guid>
+            <pubDate>Fri, 22 Jul 2022 17:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[오후 6:04]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220723_152/1658505333381nOU2m_JPEG/80557771913758391715bc3dc-4fa2-4d7b-b37d-bb8f3ac1f696.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[큐뉴 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/288392</link>
+            <guid>https://www.vlive.tv/video/288392</guid>
+            <pubDate>Fri, 22 Jul 2022 18:52:07 GMT</pubDate>
+            <content:encoded><![CDATA[오후 6:23]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/288392/thumb?type=f228_128" length="0" type="image//live/288392/thumb"/>
         </item>
         <item>
             <title><![CDATA[🚨SPOILER🚨YOUNI-Q D-2 (V LIVE 모바일 ─ 일정표)]]></title>
