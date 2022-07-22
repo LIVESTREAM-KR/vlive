@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 13:58:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 14:45:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -39,6 +39,14 @@
             <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[요ㅛ]]></title>
+            <link>https://www.vlive.tv/video/288383</link>
+            <guid>https://www.vlive.tv/video/288383</guid>
+            <pubDate>Fri, 22 Jul 2022 14:44:33 GMT</pubDate>
+            <content:encoded><![CDATA[TWICE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220722_214/1658499020224GKmU1_JPEG/a0f006a4-09c7-11ed-8e34-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[TXT (투모로우바이투게더) 'Valley of Lies (feat. iann dior)' Official Visualizer]]></title>
             <link>https://www.vlive.tv/video/288261</link>
             <guid>https://www.vlive.tv/video/288261</guid>
@@ -47,20 +55,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20220721_253/1658407134162CqQit_JPEG/upload_102486860976900439329bc9ac-bc99-4096-9273-2e82aaaf69f8.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Check out what's in Jack In The Box]]></title>
-            <link>https://www.vlive.tv/video/287666</link>
-            <guid>https://www.vlive.tv/video/287666</guid>
-            <pubDate>Fri, 15 Jul 2022 17:03:31 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220716_108/1657935803080UyRdA_JPEG/upload_1020155219324701696f483de9-4787-43ec-a77a-ce4a281d28a2.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안녕 아리! 브이라이브가 많이 늦었지~]]></title>
-            <link>https://www.vlive.tv/video/288280</link>
-            <guid>https://www.vlive.tv/video/288280</guid>
-            <pubDate>Thu, 21 Jul 2022 18:55:41 GMT</pubDate>
-            <content:encoded><![CDATA[DKZ]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220722_141/1658463942665RQH53_JPEG/ce692f0c-091b-11ed-b6ab-505dac8c38f5_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <title><![CDATA[요]]></title>
+            <link>https://www.vlive.tv/video/288382</link>
+            <guid>https://www.vlive.tv/video/288382</guid>
+            <pubDate>Fri, 22 Jul 2022 14:44:33 GMT</pubDate>
+            <content:encoded><![CDATA[TWICE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220722_162/16584978700004xe9t_JPEG/1e52719a-09c5-11ed-946a-d4f5ef58ac88_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
