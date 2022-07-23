@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 02:53:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 04:10:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -66,6 +66,26 @@
 										오후 4:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220722_182/1658466869678auYwL_JPEG/upload_102546571242328867ae97af63-4053-4b6f-829d-9975c29d945d.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE] SIMPLY K-POP CON-TOUR (📍Thailand)]]></title>
+            <link>https://m.vlive.tv/video/288237</link>
+            <guid>https://m.vlive.tv/video/288237</guid>
+            <pubDate>Sat, 23 Jul 2022 04:10:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 7:00</span>
+										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220721_144/1658395388242dItgk_PNG/upload_7466492834550897184250e0c-e046-431e-9db2-35503e4d903a.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Radio'n Us / Park Soeun 박소은)]]></title>
+            <link>https://m.vlive.tv/video/288363</link>
+            <guid>https://m.vlive.tv/video/288363</guid>
+            <pubDate>Sat, 23 Jul 2022 04:10:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 8:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220722_49/1658487491612YshzD_JPEG/upload_7475702519319506320e6c3ef-c336-4648-8dca-a6469b4ffd74.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
