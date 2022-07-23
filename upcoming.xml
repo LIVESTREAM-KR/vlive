@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 15:47:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 16:58:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,8 +36,31 @@
             <link>https://www.vlive.tv/video/288432</link>
             <guid>https://www.vlive.tv/video/288432</guid>
             <pubDate>Sat, 23 Jul 2022 15:46:33 GMT</pubDate>
-            <content:encoded><![CDATA[오전 12:09]]></content:encoded>
+            <content:encoded><![CDATA[오전 1:03]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220724_258/1658588978993KcJow_JPEG/171464642946443913a79fca80-95ad-4832-bdf0-92f672f92e30.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[야심한 밤🍗]]></title>
+            <link>https://www.vlive.tv/video/288434</link>
+            <guid>https://www.vlive.tv/video/288434</guid>
+            <pubDate>Sat, 23 Jul 2022 16:58:18 GMT</pubDate>
+            <content:encoded><![CDATA[오전 1:16]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[새벽감성 브이앱은 처음이라서🫧]]></title>
+            <link>https://www.vlive.tv/video/288433</link>
+            <guid>https://www.vlive.tv/video/288433</guid>
+            <pubDate>Sat, 23 Jul 2022 16:58:18 GMT</pubDate>
+            <content:encoded><![CDATA[오전 1:35]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220724_270/1658592629330Q1MXJ_JPEG/17138108531718601640035b4c-49af-4c8a-b2d8-c1176d388ca1.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[커몬 크롱]]></title>
+            <link>https://www.vlive.tv/video/288435</link>
+            <guid>https://www.vlive.tv/video/288435</guid>
+            <pubDate>Sat, 23 Jul 2022 16:58:18 GMT</pubDate>
+            <content:encoded><![CDATA[오전 1:39]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220724_7/1658594343260HdMMO_JPEG/171469860215192606698fb052-7e3d-4b87-aa21-aabfc8e366b2.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
