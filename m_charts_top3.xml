@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ CHARTS </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 13:48:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 14:43:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220723_61/1658511969514Hdgvz_JPEG/upload_102591682843231113888ffc64-a6cf-47cf-810f-33e9d10914de.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ㅎㅅㅎ]]></title>
-            <link>https://m.vlive.tv/video/288415</link>
-            <guid>https://m.vlive.tv/video/288415</guid>
-            <pubDate>Sat, 23 Jul 2022 10:45:04 GMT</pubDate>
-            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220723_165/1658571510046U869Y_JPEG/f74c3ef5-0a6f-11ed-928a-48df37ae3dc4_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[🦁 해피재혁데이 🎂]]></title>
             <link>https://m.vlive.tv/video/288418</link>
             <guid>https://m.vlive.tv/video/288418</guid>
             <pubDate>Sat, 23 Jul 2022 11:41:00 GMT</pubDate>
             <content:encoded><![CDATA[TREASURE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220723_174/1658569601548QMmuR_JPEG/1713579125440260391aa8b80a-5098-424c-a2eb-478d5ce32d3d.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ㅎㅅㅎ]]></title>
+            <link>https://m.vlive.tv/video/288415</link>
+            <guid>https://m.vlive.tv/video/288415</guid>
+            <pubDate>Sat, 23 Jul 2022 10:45:04 GMT</pubDate>
+            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220723_165/1658571510046U869Y_JPEG/f74c3ef5-0a6f-11ed-928a-48df37ae3dc4_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

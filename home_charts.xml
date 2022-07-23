@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 13:48:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 14:43:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220722_214/1658499020224GKmU1_JPEG/a0f006a4-09c7-11ed-8e34-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[요]]></title>
-            <link>https://www.vlive.tv/video/288382</link>
-            <guid>https://www.vlive.tv/video/288382</guid>
-            <pubDate>Sat, 23 Jul 2022 10:44:44 GMT</pubDate>
-            <content:encoded><![CDATA[TWICE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220722_162/16584978700004xe9t_JPEG/1e52719a-09c5-11ed-946a-d4f5ef58ac88_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[엔믹스 노래방]]></title>
             <link>https://www.vlive.tv/video/288421</link>
             <guid>https://www.vlive.tv/video/288421</guid>
             <pubDate>Sat, 23 Jul 2022 13:05:29 GMT</pubDate>
             <content:encoded><![CDATA[NMIXX]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220723_142/1658578888811yyJmi_JPEG/2fb3af72-0a80-11ed-946a-d4f5ef58ac88_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[큐뉴]]></title>
+            <link>https://www.vlive.tv/video/288392</link>
+            <guid>https://www.vlive.tv/video/288392</guid>
+            <pubDate>Sat, 23 Jul 2022 14:41:50 GMT</pubDate>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220723_217/1658518799918sF4E4_JPEG/6852d681-09f5-11ed-94ce-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
