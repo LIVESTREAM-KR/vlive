@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 08:49:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 09:45:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 22 Jul 2022 20:45:14 GMT</pubDate>
             <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220723_217/1658518799918sF4E4_JPEG/6852d681-09f5-11ed-94ce-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다시]]></title>
+            <link>https://www.vlive.tv/video/288404</link>
+            <guid>https://www.vlive.tv/video/288404</guid>
+            <pubDate>Sat, 23 Jul 2022 08:48:32 GMT</pubDate>
+            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220723_100/1658561541861aRqii_JPEG/d70481ea-0a58-11ed-8055-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오랜만이에요☺️]]></title>
@@ -30,14 +38,6 @@
             <pubDate>Fri, 22 Jul 2022 23:45:11 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220722_299/1658444667603bYqia_JPEG/3d83707d-0949-11ed-89b9-d4f5ef5906a4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다시]]></title>
-            <link>https://www.vlive.tv/video/288404</link>
-            <guid>https://www.vlive.tv/video/288404</guid>
-            <pubDate>Sat, 23 Jul 2022 08:48:32 GMT</pubDate>
-            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220723_100/1658561541861aRqii_JPEG/d70481ea-0a58-11ed-8055-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
