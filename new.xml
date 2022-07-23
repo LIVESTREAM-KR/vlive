@@ -4,9 +4,24 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 06:51:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 07:42:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다시]]></title>
+            <link>https://www.vlive.tv/video/288404</link>
+            <guid>https://www.vlive.tv/video/288404</guid>
+            <pubDate>Sat, 23 Jul 2022 06:49:52 GMT</pubDate>
+            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220723_100/1658561541861aRqii_JPEG/d70481ea-0a58-11ed-8055-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🐬 돌고래]]></title>
+            <link>https://www.vlive.tv/video/288408</link>
+            <guid>https://www.vlive.tv/video/288408</guid>
+            <pubDate>Sat, 23 Jul 2022 07:41:03 GMT</pubDate>
+            <content:encoded><![CDATA[미래소년 (MIRAE)]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[LA콘 끝났어요]]></title>
             <link>https://www.vlive.tv/video/288402</link>
@@ -14,13 +29,6 @@
             <pubDate>Sat, 23 Jul 2022 06:49:52 GMT</pubDate>
             <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220723_73/1658558543834pqL01_JPEG/5e1629a6-0a52-11ed-a120-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다시]]></title>
-            <link>https://www.vlive.tv/video/288404</link>
-            <guid>https://www.vlive.tv/video/288404</guid>
-            <pubDate>Sat, 23 Jul 2022 06:49:52 GMT</pubDate>
-            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[케빈이랑 놀자 🙃]]></title>
@@ -396,14 +404,6 @@
             <pubDate>Fri, 22 Jul 2022 09:44:50 GMT</pubDate>
             <content:encoded><![CDATA[VIXX]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220722_272/1658482955567zFr8g_JPEG/171358484561100805c04023d4-ccc3-4801-8315-15c5322bfb26.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예삐소드] 승요 우지니의 롯데자이언츠 시구 BEHIND 참쏘공🐦⚾]]></title>
-            <link>https://www.vlive.tv/video/288290</link>
-            <guid>https://www.vlive.tv/video/288290</guid>
-            <pubDate>Fri, 22 Jul 2022 10:46:58 GMT</pubDate>
-            <content:encoded><![CDATA[AB6IX]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220722_229/1658454590800NokEz_JPEG/upload_1025343014165041634ece236d-fe2e-4df6-81a8-e48be2080538.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
