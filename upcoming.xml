@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 05:02:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 05:44:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,19 +104,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220724_230/1658597320436vVIAQ_JPEG/upload_74761705614616450202b30be-2bf7-4395-a74b-01ef87cfdc9c.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[안녕 😑😇😎]]></title>
-            <link>https://www.vlive.tv/video/288437</link>
-            <guid>https://www.vlive.tv/video/288437</guid>
-            <pubDate>Sun, 24 Jul 2022 05:01:25 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:25]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[Full] P1Harmony 4TH MINI ALBUM 'HARMONY : ZERO IN' SHOWCASE]]></title>
             <link>https://www.vlive.tv/video/288416</link>
             <guid>https://www.vlive.tv/video/288416</guid>
             <pubDate>Sun, 24 Jul 2022 05:01:25 GMT</pubDate>
             <content:encoded><![CDATA[오후 2:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220723_33/1658568844628y7iC7_JPEG/upload_7483837320593784344825afd-d848-48ff-8f81-a1a98f44b4d7.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안녕 😑😇😎]]></title>
+            <link>https://www.vlive.tv/video/288437</link>
+            <guid>https://www.vlive.tv/video/288437</guid>
+            <pubDate>Sun, 24 Jul 2022 05:01:25 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:06]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220724_180/1658639168447EVjgD_JPEG/d3fd5ab8-0b0d-11ed-a120-505dacfbaa5c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
