@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 05:44:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2022 06:51:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[단 체 브 이 앱]]></title>
+            <link>https://www.vlive.tv/video/288440</link>
+            <guid>https://www.vlive.tv/video/288440</guid>
+            <pubDate>Sun, 24 Jul 2022 06:50:11 GMT</pubDate>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220724_231/1658644019811k1cQ4_JPEG/479490ac-0b19-11ed-b77c-48df379cca40_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안녕 😑😇😎]]></title>
             <link>https://www.vlive.tv/video/288437</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 23 Jul 2022 15:45:34 GMT</pubDate>
             <content:encoded><![CDATA[MisoJeong]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220723_97/1658516757861wI4tG_PNG/upload_10259648926258139581851a49-5d22-4632-aa75-f468ce3cea1a.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[오랜만이죠 보고싶었어요👧🏻  나나밤🎀]]></title>
-            <link>https://www.vlive.tv/video/288425</link>
-            <guid>https://www.vlive.tv/video/288425</guid>
-            <pubDate>Sat, 23 Jul 2022 13:05:13 GMT</pubDate>
-            <content:encoded><![CDATA[woo!ah! (우아!)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220723_242/1658578884224p8GNa_JPEG/171454421164779401545b0592-53fb-45b9-a08e-f2c5b3c1917b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
