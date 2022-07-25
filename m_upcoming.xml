@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Jul 2022 23:45:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 02:58:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
-            <link>https://m.vlive.tv/video/288315</link>
-            <guid>https://m.vlive.tv/video/288315</guid>
-            <pubDate>Fri, 22 Jul 2022 08:51:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220722_151/1658466485047U4d41_JPEG/upload_102546175472395851933e43d6-db99-485f-bf78-e028e4dc6deb.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio/K-Poppin'] Singlish with DKB]]></title>
             <link>https://m.vlive.tv/video/288321</link>
@@ -96,6 +86,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220722_132/1658466516924QKfhj_JPEG/upload_74736105356538352cea5e9c1-7020-4a10-9064-650ce8f5591f.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ASC Live Ep.533 (MCND / 엠씨엔디)]]></title>
+            <link>https://m.vlive.tv/video/288330</link>
+            <guid>https://m.vlive.tv/video/288330</guid>
+            <pubDate>Mon, 25 Jul 2022 02:58:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220722_197/16584676950656wnJd_PNG/upload_1025473737692304410858847f-9d79-46e8-8ca6-63819139956e.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
