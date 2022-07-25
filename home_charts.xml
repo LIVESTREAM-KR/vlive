@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 04:34:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 05:49:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[단 체 브 이 앱]]></title>
+            <link>https://www.vlive.tv/video/288440</link>
+            <guid>https://www.vlive.tv/video/288440</guid>
+            <pubDate>Mon, 25 Jul 2022 05:48:51 GMT</pubDate>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220724_231/1658644019811k1cQ4_JPEG/479490ac-0b19-11ed-b77c-48df379cca40_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[태삐]]></title>
             <link>https://www.vlive.tv/video/288457</link>
@@ -30,14 +38,6 @@
             <pubDate>Sun, 24 Jul 2022 16:58:02 GMT</pubDate>
             <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220724_277/1658652234118dRQGw_JPEG/1715278161024244437c0a6528-81ab-4068-935a-3dd0517b6137.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Check out what's in Jack In The Box]]></title>
-            <link>https://www.vlive.tv/video/287666</link>
-            <guid>https://www.vlive.tv/video/287666</guid>
-            <pubDate>Sun, 24 Jul 2022 17:44:39 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220716_108/1657935803080UyRdA_JPEG/upload_1020155219324701696f483de9-4787-43ec-a77a-ce4a281d28a2.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
