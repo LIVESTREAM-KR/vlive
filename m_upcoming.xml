@@ -4,28 +4,28 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 08:53:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 09:46:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[LIVE] SIMPLY K-POP CON-TOUR (📍Thailand)]]></title>
-            <link>https://m.vlive.tv/video/288237</link>
-            <guid>https://m.vlive.tv/video/288237</guid>
-            <pubDate>Sat, 23 Jul 2022 09:44:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220721_144/1658395388242dItgk_PNG/upload_7466492834550897184250e0c-e046-431e-9db2-35503e4d903a.png?type=f274_154" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[Happy KANGDANIEL 3rd Anniversary]]></title>
             <link>https://m.vlive.tv/video/288448</link>
             <guid>https://m.vlive.tv/video/288448</guid>
             <pubDate>Sun, 24 Jul 2022 09:45:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
+										오후 7:00</span>
 										<span class="txt">강다니엘 (KANGDANIEL)</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220724_83/1658653231657a0taA_JPEG/upload_102729756984656586c92579d3-939e-49b3-ba69-b672a787be48.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE] SIMPLY K-POP CON-TOUR (📍Thailand)]]></title>
+            <link>https://m.vlive.tv/video/288237</link>
+            <guid>https://m.vlive.tv/video/288237</guid>
+            <pubDate>Sat, 23 Jul 2022 09:44:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 7:40</span>
+										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220725_134/1658741783613tneyh_JPEG/upload_7501135810481778308ed9b05-807b-4efd-9cf1-0ace2edb8f5c.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Arirang Radio (Radio'n Us / Park Soeun 박소은)]]></title>
@@ -33,7 +33,7 @@
             <guid>https://m.vlive.tv/video/288363</guid>
             <pubDate>Sat, 23 Jul 2022 10:45:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
+										오후 8:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220722_49/1658487491612YshzD_JPEG/upload_7475702519319506320e6c3ef-c336-4648-8dca-a6469b4ffd74.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
@@ -43,7 +43,7 @@
             <guid>https://m.vlive.tv/video/288316</guid>
             <pubDate>Sat, 23 Jul 2022 10:45:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
+										오전 10:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220722_132/1658466516924QKfhj_JPEG/upload_74736105356538352cea5e9c1-7020-4a10-9064-650ce8f5591f.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
@@ -53,7 +53,7 @@
             <guid>https://m.vlive.tv/video/288330</guid>
             <pubDate>Mon, 25 Jul 2022 02:58:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="time">
-										오전 4:00</span>
+										오후 1:00</span>
 										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220722_197/16584676950656wnJd_PNG/upload_1025473737692304410858847f-9d79-46e8-8ca6-63819139956e.png?type=f274_154" length="0" type="image/png"/>
         </item>
@@ -63,7 +63,7 @@
             <guid>https://m.vlive.tv/video/288323</guid>
             <pubDate>Mon, 25 Jul 2022 05:49:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
+										오후 2:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220722_240/1658466777503IASG5_JPEG/upload_74736358329364390a2427086-631e-4517-9ff3-3ec174b19099.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
@@ -73,7 +73,7 @@
             <guid>https://m.vlive.tv/video/288326</guid>
             <pubDate>Fri, 22 Jul 2022 09:45:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
+										오후 4:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220722_182/1658466869678auYwL_JPEG/upload_102546571242328867ae97af63-4053-4b6f-829d-9975c29d945d.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
@@ -83,7 +83,7 @@
             <guid>https://m.vlive.tv/video/288318</guid>
             <pubDate>Mon, 25 Jul 2022 07:43:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
+										오전 10:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220722_243/16584665449404gkMI_JPEG/upload_7473613313198390557d083ca-a902-42a6-8a4a-1a90bbc98195.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
@@ -93,7 +93,7 @@
             <guid>https://m.vlive.tv/video/288322</guid>
             <pubDate>Mon, 25 Jul 2022 08:52:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="time">
-										오전 4:00</span>
+										오후 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220722_220/1658466729833KeEjj_JPEG/upload_1025464396023162509a8efe74-063b-4fcf-9e35-a83f91b07f81.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
