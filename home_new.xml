@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 17:48:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 18:52:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새벽이군]]></title>
+            <link>https://www.vlive.tv/video/288535</link>
+            <guid>https://www.vlive.tv/video/288535</guid>
+            <pubDate>Mon, 25 Jul 2022 18:51:16 GMT</pubDate>
+            <content:encoded><![CDATA[LOUDI (로우디)]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/288535/thumb?type=f228_128" length="0" type="image//live/288535/thumb"/>
+        </item>
         <item>
             <title><![CDATA[오잉😑]]></title>
             <link>https://www.vlive.tv/video/288534</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 25 Jul 2022 14:01:02 GMT</pubDate>
             <content:encoded><![CDATA[mydaily]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220725_113/1658756300556jNwI7_JPEG/upload_102836033149129460469ee23a-c32c-446e-992d-c3d93ff472db.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이민정(Lee Min Jung), 남편 이병헌(Lee Byung hun) 응원 왔어요~ '비상선언 파이팅' #비상선언 #이민정 #이병헌 #남편응원온이민정]]></title>
-            <link>https://www.vlive.tv/video/288524</link>
-            <guid>https://www.vlive.tv/video/288524</guid>
-            <pubDate>Mon, 25 Jul 2022 14:01:02 GMT</pubDate>
-            <content:encoded><![CDATA[mydaily]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220725_164/1658756098741R2HCp_JPEG/upload_102835815111932695a984d7f6-2c20-4d0f-a05d-36c08835edfe.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

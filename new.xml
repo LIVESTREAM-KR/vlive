@@ -4,9 +4,16 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 17:48:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 18:52:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새벽이군]]></title>
+            <link>https://www.vlive.tv/video/288535</link>
+            <guid>https://www.vlive.tv/video/288535</guid>
+            <pubDate>Mon, 25 Jul 2022 18:51:07 GMT</pubDate>
+            <content:encoded><![CDATA[LOUDI (로우디)]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[오잉😑]]></title>
             <link>https://www.vlive.tv/video/288534</link>
@@ -398,14 +405,6 @@
             <pubDate>Mon, 25 Jul 2022 09:45:09 GMT</pubDate>
             <content:encoded><![CDATA[BVNDIT(밴디트)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220725_142/1658740171953Ts3MK_JPEG/upload_10281990353792794464219ed8-f1ff-4416-8409-8dd681686822.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-beauty sparkling mask]]></title>
-            <link>https://www.vlive.tv/video/288493</link>
-            <guid>https://www.vlive.tv/video/288493</guid>
-            <pubDate>Mon, 25 Jul 2022 08:51:29 GMT</pubDate>
-            <content:encoded><![CDATA[Berryato (베리아또)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220725_65/1658736018795ORIaN_JPEG/171524554793623839f5ca1ff0-5a13-46e4-983d-0c0762bb44b7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
