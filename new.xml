@@ -4,7 +4,7 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 18:52:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 19:43:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,15 @@
             <guid>https://www.vlive.tv/video/288535</guid>
             <pubDate>Mon, 25 Jul 2022 18:51:07 GMT</pubDate>
             <content:encoded><![CDATA[LOUDI (로우디)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220726_67/16587780229074dqhd_JPEG/161fa476-0c51-11ed-bb12-d4f5ef5a9532_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Curitiba Poolside chillin 🏊‍♂️🌞🕶]]></title>
+            <link>https://www.vlive.tv/video/288536</link>
+            <guid>https://www.vlive.tv/video/288536</guid>
+            <pubDate>Mon, 25 Jul 2022 19:42:03 GMT</pubDate>
+            <content:encoded><![CDATA[KARD]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220726_268/1658777117253YjfQo_JPEG/6b056a09-0c4f-11ed-9fa8-505dacfba98a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오잉😑]]></title>
@@ -397,14 +406,6 @@
             <pubDate>Mon, 25 Jul 2022 09:45:09 GMT</pubDate>
             <content:encoded><![CDATA[NMIXX]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220725_185/1658741497899daLiV_JPEG/91b621c0-0bfc-11ed-b769-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[BVNDITv] 밴망진창 MC 인터뷰ㅣBVNDIT(밴디트)]]></title>
-            <link>https://www.vlive.tv/video/288499</link>
-            <guid>https://www.vlive.tv/video/288499</guid>
-            <pubDate>Mon, 25 Jul 2022 09:45:09 GMT</pubDate>
-            <content:encoded><![CDATA[BVNDIT(밴디트)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220725_142/1658740171953Ts3MK_JPEG/upload_10281990353792794464219ed8-f1ff-4416-8409-8dd681686822.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

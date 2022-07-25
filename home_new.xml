@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 18:52:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 19:43:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,15 @@
             <guid>https://www.vlive.tv/video/288535</guid>
             <pubDate>Mon, 25 Jul 2022 18:51:16 GMT</pubDate>
             <content:encoded><![CDATA[LOUDI (로우디)]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/288535/thumb?type=f228_128" length="0" type="image//live/288535/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220726_67/16587780229074dqhd_JPEG/161fa476-0c51-11ed-bb12-d4f5ef5a9532_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Curitiba Poolside chillin 🏊‍♂️🌞🕶]]></title>
+            <link>https://www.vlive.tv/video/288536</link>
+            <guid>https://www.vlive.tv/video/288536</guid>
+            <pubDate>Mon, 25 Jul 2022 19:42:13 GMT</pubDate>
+            <content:encoded><![CDATA[KARD]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220726_268/1658777117253YjfQo_JPEG/6b056a09-0c4f-11ed-9fa8-505dacfba98a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오잉😑]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 25 Jul 2022 14:01:02 GMT</pubDate>
             <content:encoded><![CDATA[mydaily]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220725_288/1658757339478oF6JN_JPEG/upload_10283707107765704792b9a452-5ff2-4c03-b62b-9aaa59326860.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서현(Seohyun)·노정의(Noh Jeongeui)·설현(Seolhyun) '비상선언 시사회를 밝히는 아름다움' #서현 #소녀시대 #설현 #노정의]]></title>
-            <link>https://www.vlive.tv/video/288525</link>
-            <guid>https://www.vlive.tv/video/288525</guid>
-            <pubDate>Mon, 25 Jul 2022 14:01:02 GMT</pubDate>
-            <content:encoded><![CDATA[mydaily]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220725_113/1658756300556jNwI7_JPEG/upload_102836033149129460469ee23a-c32c-446e-992d-c3d93ff472db.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
