@@ -1,8 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.vlive.tv/vstore</id>
-    <title>V LIVE ─ STORE ─ SPOT BOX</title>
-    <updated>2022-07-26T06:53:29.867Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.vlive.tv/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>V LIVE ─ STORE ─ SPOT BOX</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 26 Jul 2022 07:42:29 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[TWICE+]]></title>
+            <link>http://www.vlive.tv/membership/13</link>
+            <guid>http://www.vlive.tv/membership/13</guid>
+            <pubDate>Tue, 26 Jul 2022 07:42:28 GMT</pubDate>
+            <content:encoded><![CDATA[MEMBERSHIP]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20200601_2/1591005836640SXsCR_JPEG/upload_V%2BFANSHIP_Banner_1.jpg?type=f574_280" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이달의 소녀+]]></title>
+            <link>http://www.vlive.tv/membership/129</link>
+            <guid>http://www.vlive.tv/membership/129</guid>
+            <pubDate>Tue, 26 Jul 2022 07:42:28 GMT</pubDate>
+            <content:encoded><![CDATA[MEMBERSHIP]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20201021_208/1603265301049wt6Wh_JPEG/upload_1125x564_ED8CACEC89BDEC8381ED9288ECBBA4EBB284.jpg?type=f574_280" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BLACKPINK+]]></title>
+            <link>http://www.vlive.tv/membership/9</link>
+            <guid>http://www.vlive.tv/membership/9</guid>
+            <pubDate>Tue, 26 Jul 2022 07:42:28 GMT</pubDate>
+            <content:encoded><![CDATA[MEMBERSHIP]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210617_103/16239160567049jNlB_JPEG/upload_401856637583298781779aa85-28d5-48b5-80cb-f2621411e40b.jpeg?type=f574_280" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[TWICE+]]></title>
+            <link>http://www.vlive.tv/membership/13</link>
+            <guid>http://www.vlive.tv/membership/13</guid>
+            <pubDate>Tue, 26 Jul 2022 07:42:28 GMT</pubDate>
+            <content:encoded><![CDATA[MEMBERSHIP]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20200601_2/1591005836640SXsCR_JPEG/upload_V%2BFANSHIP_Banner_1.jpg?type=f574_280" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이달의 소녀+]]></title>
+            <link>http://www.vlive.tv/membership/129</link>
+            <guid>http://www.vlive.tv/membership/129</guid>
+            <pubDate>Tue, 26 Jul 2022 07:42:28 GMT</pubDate>
+            <content:encoded><![CDATA[MEMBERSHIP]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20201021_208/1603265301049wt6Wh_JPEG/upload_1125x564_ED8CACEC89BDEC8381ED9288ECBBA4EBB284.jpg?type=f574_280" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BLACKPINK+]]></title>
+            <link>http://www.vlive.tv/membership/9</link>
+            <guid>http://www.vlive.tv/membership/9</guid>
+            <pubDate>Tue, 26 Jul 2022 07:42:28 GMT</pubDate>
+            <content:encoded><![CDATA[MEMBERSHIP]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20210617_103/16239160567049jNlB_JPEG/upload_401856637583298781779aa85-28d5-48b5-80cb-f2621411e40b.jpeg?type=f574_280" length="0" type="image/jpeg"/>
+        </item>
+    </channel>
+</rss>

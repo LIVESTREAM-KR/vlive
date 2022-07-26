@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 06:53:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 07:42:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / Super K-Pop]Oh My K-Pop with NIve]]></title>
-            <link>https://m.vlive.tv/video/288326</link>
-            <guid>https://m.vlive.tv/video/288326</guid>
-            <pubDate>Fri, 22 Jul 2022 09:45:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220722_182/1658466869678auYwL_JPEG/upload_102546571242328867ae97af63-4053-4b6f-829d-9975c29d945d.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthew]]></title>
             <link>https://m.vlive.tv/video/288318</link>
@@ -96,6 +86,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220722_102/1658466609163JRkHd_JPEG/upload_74736192915494913e63b9385-9d24-4d2a-9f6f-a3635fc8d3a5.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Sound K] Hey! Ladies Kode~ with Sojung&Zuny 소정 &주니]]></title>
+            <link>https://m.vlive.tv/video/288325</link>
+            <guid>https://m.vlive.tv/video/288325</guid>
+            <pubDate>Tue, 26 Jul 2022 07:42:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220722_125/1658466837584ktFs3_JPEG/upload_10254654025230994083238aa7-3e4e-4f87-a4dc-020eeac8157c.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
