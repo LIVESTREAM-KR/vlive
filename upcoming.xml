@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 05:58:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 06:53:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -60,8 +60,16 @@
             <link>https://www.vlive.tv/video/288550</link>
             <guid>https://www.vlive.tv/video/288550</guid>
             <pubDate>Tue, 26 Jul 2022 05:57:52 GMT</pubDate>
-            <content:encoded><![CDATA[오전 5:32]]></content:encoded>
+            <content:encoded><![CDATA[오전 6:25]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220726_14/1658813565249DwqTo_JPEG/17168910224370775201a6768d-6355-486b-a7a8-f88f25cf6e2c.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE] Runtime 21🐧]]></title>
+            <link>https://www.vlive.tv/video/288553</link>
+            <guid>https://www.vlive.tv/video/288553</guid>
+            <pubDate>Tue, 26 Jul 2022 06:52:58 GMT</pubDate>
+            <content:encoded><![CDATA[오전 6:36]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/288553/thumb?type=f228_128" length="0" type="image//live/288553/thumb"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio / Super K-Pop]Oh My K-Pop with NIve]]></title>

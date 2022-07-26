@@ -4,9 +4,16 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 05:58:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 06:53:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[LIVE] Runtime 21🐧]]></title>
+            <link>https://www.vlive.tv/video/288553</link>
+            <guid>https://www.vlive.tv/video/288553</guid>
+            <pubDate>Tue, 26 Jul 2022 06:51:59 GMT</pubDate>
+            <content:encoded><![CDATA[CRAVITY]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[💛 HAPPY LEEDO DAY 💛]]></title>
             <link>https://www.vlive.tv/video/288550</link>
@@ -398,14 +405,6 @@
             <pubDate>Mon, 25 Jul 2022 11:41:31 GMT</pubDate>
             <content:encoded><![CDATA[Billlie 빌리]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220725_210/1658737000759aaKjn_JPEG/upload_10281135200024951602e8c2eb-3fdb-4ab4-af07-e6f3477d6b95.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[동글]]></title>
-            <link>https://www.vlive.tv/video/288505</link>
-            <guid>https://www.vlive.tv/video/288505</guid>
-            <pubDate>Mon, 25 Jul 2022 10:46:53 GMT</pubDate>
-            <content:encoded><![CDATA[VIVIZ (비비지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220725_117/1658744577985gc9gT_JPEG/171533033977152416ffe43e6a-4547-46ed-94d5-f05e99a4fb17.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
