@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 17:04:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 17:50:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[놀자아]]></title>
+            <link>https://www.vlive.tv/video/288667</link>
+            <guid>https://www.vlive.tv/video/288667</guid>
+            <pubDate>Wed, 27 Jul 2022 17:48:29 GMT</pubDate>
+            <content:encoded><![CDATA[T1419]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220728_148/16589374172953KeQJ_JPEG/1718129462580197677df3792b-7508-4812-9342-ef63c84c14fb.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김.라 <김재현의 라디오>]]></title>
             <link>https://www.vlive.tv/video/288665</link>
@@ -398,14 +406,6 @@
             <pubDate>Wed, 27 Jul 2022 05:50:37 GMT</pubDate>
             <content:encoded><![CDATA[Mnet]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220727_286/1658899456615Kyha9_JPEG/upload_102979168877728628aec8e657-1373-4762-a512-c6342d2617a4.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio/K-Poppin'] Dr. Nam Koong Ihn / 응급의학과 교수 남궁인]]></title>
-            <link>https://www.vlive.tv/video/288322</link>
-            <guid>https://www.vlive.tv/video/288322</guid>
-            <pubDate>Wed, 27 Jul 2022 04:35:14 GMT</pubDate>
-            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220722_220/1658466729833KeEjj_JPEG/upload_1025464396023162509a8efe74-063b-4fcf-9e35-a83f91b07f81.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
