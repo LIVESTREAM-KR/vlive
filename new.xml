@@ -4,15 +4,31 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 05:47:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 06:52:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[다시다시 왔어요]]></title>
-            <link>https://www.vlive.tv/video/288702</link>
-            <guid>https://www.vlive.tv/video/288702</guid>
-            <pubDate>Thu, 28 Jul 2022 05:45:36 GMT</pubDate>
+            <title><![CDATA[다시다시다시 왔어요]]></title>
+            <link>https://www.vlive.tv/video/288709</link>
+            <guid>https://www.vlive.tv/video/288709</guid>
+            <pubDate>Thu, 28 Jul 2022 06:50:56 GMT</pubDate>
             <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[왔어요!]]></title>
+            <link>https://www.vlive.tv/video/288682</link>
+            <guid>https://www.vlive.tv/video/288682</guid>
+            <pubDate>Thu, 28 Jul 2022 06:50:56 GMT</pubDate>
+            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220728_247/1658990978668E5dGb_JPEG/3c53ad7f-0e2c-11ed-aef4-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소녀시대(SNSD), 핫도그도 15먹고 가요계도 15먹자! ('아는형님' 출근길)]]></title>
+            <link>https://www.vlive.tv/video/288703</link>
+            <guid>https://www.vlive.tv/video/288703</guid>
+            <pubDate>Thu, 28 Jul 2022 06:50:56 GMT</pubDate>
+            <content:encoded><![CDATA[Ktimes]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220728_140/1658988761957ElNcI_PNG/upload_1030684395836291617d8ee5d8-68e1-4d0c-8eca-8a11b4995918.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[아임라이브] 안녕하신가영 '언젠가 설명이 필요한 밤' (HELLO GA-YOUNG! - Sleepless night in summer)]]></title>
@@ -389,22 +405,6 @@
             <pubDate>Wed, 27 Jul 2022 11:39:53 GMT</pubDate>
             <content:encoded><![CDATA[mydaily]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220727_122/1658919841697dyyOY_JPEG/upload_102999527731124158c81112da-8382-456e-bd9d-5818e94e139e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[P.S.NOTE] 퍼플키스(PURPLE KISS) 'Geekyland' Story Film Behind]]></title>
-            <link>https://www.vlive.tv/video/288642</link>
-            <guid>https://www.vlive.tv/video/288642</guid>
-            <pubDate>Wed, 27 Jul 2022 11:39:53 GMT</pubDate>
-            <content:encoded><![CDATA[PURPLE KISS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220727_85/16589244890212XgSi_JPEG/upload_75180876021474638c67c8b60-5840-4806-9fb6-e0643f9ba466.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포맨(4MEN)] 포맨(4MEN) '못해(I can't )' re-LIVE]]></title>
-            <link>https://www.vlive.tv/video/286783</link>
-            <guid>https://www.vlive.tv/video/286783</guid>
-            <pubDate>Wed, 27 Jul 2022 11:39:53 GMT</pubDate>
-            <content:encoded><![CDATA[MAJOR9 (메이저나인)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220630_200/1656581021199N6Ged_JPEG/upload_72850623296942404c46f94ef-1df0-451d-a856-5a0e9bd56084.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
