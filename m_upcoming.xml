@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 23:44:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 02:53:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
-            <link>https://m.vlive.tv/video/288319</link>
-            <guid>https://m.vlive.tv/video/288319</guid>
-            <pubDate>Mon, 25 Jul 2022 11:42:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220722_69/1658466572655o7pPU_JPEG/upload_74736162224581596ff48174c-a534-4e35-afcd-69c5747bb346.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Sound K / CraXilver 크랙실버)]]></title>
             <link>https://m.vlive.tv/video/288211</link>
@@ -58,6 +48,16 @@
             <enclosure url="https://v-phinf.pstatic.net/20220722_102/1658466609163JRkHd_JPEG/upload_74736192915494913e63b9385-9d24-4d2a-9f6f-a3635fc8d3a5.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Simply K-Pop CON-TOUR (심플리케이팝 콘투어) Ep.530]]></title>
+            <link>https://m.vlive.tv/video/288672</link>
+            <guid>https://m.vlive.tv/video/288672</guid>
+            <pubDate>Thu, 28 Jul 2022 02:52:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220728_125/1658969626388GMW3z_PNG/upload_75239202799839410c532db2e-da57-4654-854d-758877db30bc.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[Arirang Radio / Sound K] Hey! Ladies Kode~ with Sojung&Zuny 소정 &주니]]></title>
             <link>https://m.vlive.tv/video/288325</link>
             <guid>https://m.vlive.tv/video/288325</guid>
@@ -76,6 +76,26 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220722_8/1658466938950vXFO4_JPEG/upload_102546640212249447bf5958dc-f124-405d-adf8-5319761fd629.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Radio'n Us / Western Kite 웨스턴 카잇)]]></title>
+            <link>https://m.vlive.tv/video/288630</link>
+            <guid>https://m.vlive.tv/video/288630</guid>
+            <pubDate>Thu, 28 Jul 2022 02:52:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220727_242/165889974479660wPN_JPEG/upload_102979436703139194a23a0e25-4a08-4756-9d68-21a94af0aca1.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[145회 아트엠콘서트, 비올리스트 김세준]]></title>
+            <link>https://m.vlive.tv/video/288141</link>
+            <guid>https://m.vlive.tv/video/288141</guid>
+            <pubDate>Thu, 28 Jul 2022 02:52:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:20</span>
+										<span class="txt">ARTMCONCERT</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220720_225/1658303418295oLGwF_PNG/upload_74572986737943995c199e3f9-c6c5-4e72-8ab9-4fbbfbac5195.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
