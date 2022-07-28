@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 06:52:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 07:42:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 28 Jul 2022 06:51:37 GMT</pubDate>
             <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220728_247/1658990978668E5dGb_JPEG/3c53ad7f-0e2c-11ed-aef4-48df37ae3fca_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다시다시 왔어요]]></title>
+            <link>https://www.vlive.tv/video/288702</link>
+            <guid>https://www.vlive.tv/video/288702</guid>
+            <pubDate>Thu, 28 Jul 2022 07:41:19 GMT</pubDate>
+            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220728_186/1658992749069U8b8C_JPEG/f5123bb4-0e3d-11ed-94ce-505dac8c381b_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[🎉HAPPY HUENING BAHIYYIH DAY💜]]></title>
@@ -29,7 +37,7 @@
             <guid>https://www.vlive.tv/video/288659</guid>
             <pubDate>Wed, 27 Jul 2022 14:42:46 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220727_183/16589254231922neBg_PNG/upload_75194188201763361596a9528-806e-487a-8a72-dedd08adb5cb.png?type=f380_213_wp" length="0" type="image/png"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220727_183/16589254231922neBg_PNG/upload_75194188201763361596a9528-806e-487a-8a72-dedd08adb5cb.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[😳]]></title>
@@ -54,14 +62,6 @@
             <pubDate>Tue, 26 Jul 2022 06:52:35 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220716_108/1657935803080UyRdA_JPEG/upload_1020155219324701696f483de9-4787-43ec-a77a-ce4a281d28a2.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[GOING SEVENTEEN] EP.55 전원우일기 #2 (WONWOO's Diary #2)]]></title>
-            <link>https://www.vlive.tv/video/288656</link>
-            <guid>https://www.vlive.tv/video/288656</guid>
-            <pubDate>Wed, 27 Jul 2022 23:43:45 GMT</pubDate>
-            <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220727_38/16589217907741f0to_JPEG/upload_1030014751172466644e5547f3-1dc6-4a81-a493-3399b2c5340a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
