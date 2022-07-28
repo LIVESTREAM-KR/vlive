@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 15:49:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 17:06:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위험해/Red Wine 응원법 보강]]></title>
+            <link>https://www.vlive.tv/video/288744</link>
+            <guid>https://www.vlive.tv/video/288744</guid>
+            <pubDate>Thu, 28 Jul 2022 17:04:49 GMT</pubDate>
+            <content:encoded><![CDATA[BTOB]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220729_292/1659027431958740py_JPEG/19437d66-0e96-11ed-b769-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우리 얘기 좀 합시다 #151]]></title>
             <link>https://www.vlive.tv/video/288743</link>
@@ -85,7 +93,7 @@
             <guid>https://www.vlive.tv/video/288736</guid>
             <pubDate>Thu, 28 Jul 2022 13:23:00 GMT</pubDate>
             <content:encoded><![CDATA[Cherry Bullet]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220728_289/1659014421679ghMOV_JPEG/bccf698d-0e77-11ed-928a-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220729_155/1659023635112zrt0X_JPEG/upload_75293235098757138b1650925-036b-442f-bc0e-a1e100dc23e9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[VAV]BARON : 22.07.28 평일방송]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 28 Jul 2022 13:23:00 GMT</pubDate>
             <content:encoded><![CDATA[MONSTA X]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220727_278/16589210822637d0pw_JPEG/upload_103000800377335519c1270c31-d76b-447f-bf1d-4c35885e56df.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뽀메라니안 in London🇬🇧]]></title>
-            <link>https://www.vlive.tv/video/288735</link>
-            <guid>https://www.vlive.tv/video/288735</guid>
-            <pubDate>Thu, 28 Jul 2022 13:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[Cherry Bullet]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220728_255/1659012810483IlTka_JPEG/33677620102229685a09a594-447d-416b-a290-18cba4ba8dd8.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
