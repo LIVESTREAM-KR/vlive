@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ CHARTS TOP3</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 08:49:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 09:46:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[호랑이의 시선🐯]]></title>
+            <link>https://www.vlive.tv/video/288800</link>
+            <guid>https://www.vlive.tv/video/288800</guid>
+            <pubDate>Fri, 29 Jul 2022 09:44:46 GMT</pubDate>
+            <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220729_109/1659084044884QydKu_JPEG/upload_103163762024635117c1977035-3cb4-4a96-b77d-f8320923ba7b.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Check out what's in Jack In The Box]]></title>
             <link>https://www.vlive.tv/video/287666</link>
@@ -22,14 +30,6 @@
             <pubDate>Fri, 29 Jul 2022 04:32:53 GMT</pubDate>
             <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220728_20/1658997574865eApYA_PNG/upload_103077293119062324e8f863cb-5446-45d9-96c1-044f82824ab5.png?type=f380_213_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[왔어요!]]></title>
-            <link>https://www.vlive.tv/video/288682</link>
-            <guid>https://www.vlive.tv/video/288682</guid>
-            <pubDate>Fri, 29 Jul 2022 07:40:51 GMT</pubDate>
-            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220728_175/1658997285309IEPpW_JPEG/3c53ad7f-0e2c-11ed-aef4-48df37ae3fca_06.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
