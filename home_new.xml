@@ -4,17 +4,9 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 14:43:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 15:50:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[안녕 :)]]></title>
-            <link>https://www.vlive.tv/video/288834</link>
-            <guid>https://www.vlive.tv/video/288834</guid>
-            <pubDate>Fri, 29 Jul 2022 14:42:13 GMT</pubDate>
-            <content:encoded><![CDATA[멋진녀석들 (GreatGuys)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220729_38/1659105441291zwace_JPEG/17198104423906402650da0aa7-b6cc-466e-b683-30326f714019.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[금요일 밤🙈]]></title>
             <link>https://www.vlive.tv/video/288832</link>
@@ -32,12 +24,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20220729_135/16591041022734n9cq_JPEG/17197968420121787067f79974-bfd2-408b-8d46-55163d30c860.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[안녕 :)]]></title>
+            <link>https://www.vlive.tv/video/288834</link>
+            <guid>https://www.vlive.tv/video/288834</guid>
+            <pubDate>Fri, 29 Jul 2022 14:42:13 GMT</pubDate>
+            <content:encoded><![CDATA[멋진녀석들 (GreatGuys)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220729_38/1659105441291zwace_JPEG/17198104423906402650da0aa7-b6cc-466e-b683-30326f714019.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[너에게 들려주는 자장가~🌙]]></title>
             <link>https://www.vlive.tv/video/288830</link>
             <guid>https://www.vlive.tv/video/288830</guid>
             <pubDate>Fri, 29 Jul 2022 14:42:13 GMT</pubDate>
             <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/288830/thumb?type=f228_128" length="0" type="image//live/288830/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220730_191/1659107008957uNTUP_JPEG/c8a8e141-0f4e-11ed-94ce-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PARTY PARTY YEAH!! 오예🐝💛]]></title>
+            <link>https://www.vlive.tv/video/288836</link>
+            <guid>https://www.vlive.tv/video/288836</guid>
+            <pubDate>Fri, 29 Jul 2022 15:49:15 GMT</pubDate>
+            <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/288836/thumb?type=f228_128" length="0" type="image//live/288836/thumb"/>
         </item>
         <item>
             <title><![CDATA[[MAJOR9 ACTORS] 손소망(SON SO MANG) '2022 New Profile picture' Behind The Scenes (Making Film)]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 29 Jul 2022 13:21:50 GMT</pubDate>
             <content:encoded><![CDATA[Hezz]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220729_12/1659082353288qQNDr_JPEG/upload_103162082898410664872f6e34-9372-478a-b53e-490a9936a1d3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DRIPPIN(드리핀) File : ZER0.12 | School Attack]]></title>
-            <link>https://www.vlive.tv/video/288796</link>
-            <guid>https://www.vlive.tv/video/288796</guid>
-            <pubDate>Fri, 29 Jul 2022 13:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[DRIPPIN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220729_284/1659080692458isgwr_JPEG/upload_1031604106907118925e6def5e-7d1f-43de-8317-2a6830e6adb9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
