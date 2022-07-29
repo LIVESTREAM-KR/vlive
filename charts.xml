@@ -4,17 +4,9 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 05:49:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 06:52:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[다시다시 왔어요]]></title>
-            <link>https://www.vlive.tv/video/288702</link>
-            <guid>https://www.vlive.tv/video/288702</guid>
-            <pubDate>Thu, 28 Jul 2022 07:41:19 GMT</pubDate>
-            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220728_284/1658998197241YJ6cf_PNG/upload_7526779840039959525c340ea-68c0-4767-ab3e-bb9716e5d48c.png?type=f380_213_wp" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[다시다시다시 왔어요]]></title>
             <link>https://www.vlive.tv/video/288709</link>
@@ -24,12 +16,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220728_20/1658997574865eApYA_PNG/upload_103077293119062324e8f863cb-5446-45d9-96c1-044f82824ab5.png?type=f380_213_wp" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[다시 돌아온 수빈!]]></title>
-            <link>https://www.vlive.tv/video/288690</link>
-            <guid>https://www.vlive.tv/video/288690</guid>
-            <pubDate>Thu, 28 Jul 2022 08:49:11 GMT</pubDate>
+            <title><![CDATA[다시다시 왔어요]]></title>
+            <link>https://www.vlive.tv/video/288702</link>
+            <guid>https://www.vlive.tv/video/288702</guid>
+            <pubDate>Thu, 28 Jul 2022 07:41:19 GMT</pubDate>
             <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220728_108/1658997558420mal4K_JPEG/6192ee1d-0e38-11ed-89b9-d4f5ef5906a4_04.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220728_284/1658998197241YJ6cf_PNG/upload_7526779840039959525c340ea-68c0-4767-ab3e-bb9716e5d48c.png?type=f380_213_wp" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Check out what's in Jack In The Box]]></title>
+            <link>https://www.vlive.tv/video/287666</link>
+            <guid>https://www.vlive.tv/video/287666</guid>
+            <pubDate>Thu, 28 Jul 2022 15:48:28 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220716_108/1657935803080UyRdA_JPEG/upload_1020155219324701696f483de9-4787-43ec-a77a-ce4a281d28a2.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[왔어요!]]></title>
@@ -48,20 +48,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220727_183/16589254231922neBg_PNG/upload_75194188201763361596a9528-806e-487a-8a72-dedd08adb5cb.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Check out what's in Jack In The Box]]></title>
-            <link>https://www.vlive.tv/video/287666</link>
-            <guid>https://www.vlive.tv/video/287666</guid>
-            <pubDate>Thu, 28 Jul 2022 15:48:28 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220716_108/1657935803080UyRdA_JPEG/upload_1020155219324701696f483de9-4787-43ec-a77a-ce4a281d28a2.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[TWICE 「Celebrate」 Music Video]]></title>
             <link>https://www.vlive.tv/video/288571</link>
             <guid>https://www.vlive.tv/video/288571</guid>
             <pubDate>Thu, 28 Jul 2022 17:49:06 GMT</pubDate>
             <content:encoded><![CDATA[TWICE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220726_104/1658827744061RLAYl_JPEG/upload_1029072539098611548bdc8964-3f0c-468b-8d69-e53927a995a2.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위험해/Red Wine 응원법 보강]]></title>
+            <link>https://www.vlive.tv/video/288744</link>
+            <guid>https://www.vlive.tv/video/288744</guid>
+            <pubDate>Fri, 29 Jul 2022 06:51:49 GMT</pubDate>
+            <content:encoded><![CDATA[BTOB]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220729_292/1659027431958740py_JPEG/19437d66-0e96-11ed-b769-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
