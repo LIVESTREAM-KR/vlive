@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 17:46:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 18:51:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,6 +40,14 @@
             <enclosure url="https://v-phinf.pstatic.net/20220729_219/1659070872308nkz86_JPEG/upload_10315037164528564823eb4fb9-f86c-4491-b525-22811cd5c261.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[슈~]]></title>
+            <link>https://www.vlive.tv/video/288843</link>
+            <guid>https://www.vlive.tv/video/288843</guid>
+            <pubDate>Fri, 29 Jul 2022 18:51:06 GMT</pubDate>
+            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220730_280/1659116338335YohqV_JPEG/e3aff86c-0f64-11ed-b44a-d4f5ef58ad5e_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[👾 "Hello, world!" 중간 점검📌]]></title>
             <link>https://www.vlive.tv/video/288826</link>
             <guid>https://www.vlive.tv/video/288826</guid>
@@ -54,14 +62,6 @@
             <pubDate>Fri, 29 Jul 2022 16:59:46 GMT</pubDate>
             <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220730_191/1659107008957uNTUP_JPEG/c8a8e141-0f4e-11ed-94ce-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슼즈로운 제주생활 #2｜[SKZ CODE(스키즈 코드)] Ep.21]]></title>
-            <link>https://www.vlive.tv/video/288659</link>
-            <guid>https://www.vlive.tv/video/288659</guid>
-            <pubDate>Wed, 27 Jul 2022 14:42:46 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220727_183/16589254231922neBg_PNG/upload_75194188201763361596a9528-806e-487a-8a72-dedd08adb5cb.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
