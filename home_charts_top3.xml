@@ -4,17 +4,9 @@
         <title>V LIVE ─ 홈 ─ CHARTS TOP3</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 04:33:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 05:49:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[다시 돌아온 수빈!]]></title>
-            <link>https://www.vlive.tv/video/288690</link>
-            <guid>https://www.vlive.tv/video/288690</guid>
-            <pubDate>Thu, 28 Jul 2022 08:48:54 GMT</pubDate>
-            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220728_108/1658997558420mal4K_JPEG/6192ee1d-0e38-11ed-89b9-d4f5ef5906a4_04.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[다시다시 왔어요]]></title>
             <link>https://www.vlive.tv/video/288702</link>
@@ -30,6 +22,14 @@
             <pubDate>Fri, 29 Jul 2022 04:32:53 GMT</pubDate>
             <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220728_20/1658997574865eApYA_PNG/upload_103077293119062324e8f863cb-5446-45d9-96c1-044f82824ab5.png?type=f380_213_wp" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[다시 돌아온 수빈!]]></title>
+            <link>https://www.vlive.tv/video/288690</link>
+            <guid>https://www.vlive.tv/video/288690</guid>
+            <pubDate>Thu, 28 Jul 2022 08:48:54 GMT</pubDate>
+            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220728_108/1658997558420mal4K_JPEG/6192ee1d-0e38-11ed-89b9-d4f5ef5906a4_04.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
