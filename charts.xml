@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 08:47:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 09:43:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Fri, 29 Jul 2022 16:59:46 GMT</pubDate>
             <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220730_93/1659109752893G1Q8E_JPEG/a5493b59-0f55-11ed-89b9-d4f5ef5906a4_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[호랑이의 시선🐯]]></title>
-            <link>https://www.vlive.tv/video/288800</link>
-            <guid>https://www.vlive.tv/video/288800</guid>
-            <pubDate>Fri, 29 Jul 2022 09:45:05 GMT</pubDate>
-            <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220729_109/1659084044884QydKu_JPEG/upload_103163762024635117c1977035-3cb4-4a96-b77d-f8320923ba7b.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Stray Kids(스트레이 키즈) 2ND #LoveSTAY 'SKZ’S CHOCOLATE FACTORY' Behind Ep.01]]></title>
@@ -37,7 +29,7 @@
             <guid>https://www.vlive.tv/video/288843</guid>
             <pubDate>Fri, 29 Jul 2022 18:51:06 GMT</pubDate>
             <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220730_280/1659116338335YohqV_JPEG/e3aff86c-0f64-11ed-b44a-d4f5ef58ad5e_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220730_280/1659116338335YohqV_JPEG/e3aff86c-0f64-11ed-b44a-d4f5ef58ad5e_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[슈슈]]></title>
@@ -62,6 +54,14 @@
             <pubDate>Thu, 28 Jul 2022 15:48:28 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220716_108/1657935803080UyRdA_JPEG/upload_1020155219324701696f483de9-4787-43ec-a77a-ce4a281d28a2.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[호랑이의 시선🐯]]></title>
+            <link>https://www.vlive.tv/video/288800</link>
+            <guid>https://www.vlive.tv/video/288800</guid>
+            <pubDate>Fri, 29 Jul 2022 09:45:05 GMT</pubDate>
+            <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220729_109/1659084044884QydKu_JPEG/upload_103163762024635117c1977035-3cb4-4a96-b77d-f8320923ba7b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
