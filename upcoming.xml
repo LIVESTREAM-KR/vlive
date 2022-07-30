@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 04:24:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 05:03:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -118,6 +118,21 @@
             <pubDate>Sat, 30 Jul 2022 02:57:34 GMT</pubDate>
             <content:encoded><![CDATA[오전 10:28]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220730_2/1659144482805iN4wL_JPEG/upload_75414084726685628995660e7-13a6-4990-ba53-f547dbf7dddc.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈끊킹 🙅🏻‍♀️]]></title>
+            <link>https://www.vlive.tv/video/288847</link>
+            <guid>https://www.vlive.tv/video/288847</guid>
+            <pubDate>Sat, 30 Jul 2022 05:02:34 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:25]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[슈슈]]></title>
+            <link>https://www.vlive.tv/video/288846</link>
+            <guid>https://www.vlive.tv/video/288846</guid>
+            <pubDate>Sat, 30 Jul 2022 05:02:34 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:30]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220730_110/1659155433353HMeDP_JPEG/aec13083-0fbf-11ed-b44a-d4f5ef58ad5e_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

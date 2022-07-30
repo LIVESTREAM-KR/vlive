@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 04:24:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 05:03:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[슈슈]]></title>
+            <link>https://www.vlive.tv/video/288846</link>
+            <guid>https://www.vlive.tv/video/288846</guid>
+            <pubDate>Sat, 30 Jul 2022 05:01:36 GMT</pubDate>
+            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220730_110/1659155433353HMeDP_JPEG/aec13083-0fbf-11ed-b44a-d4f5ef58ad5e_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈끊킹 🙅🏻‍♀️]]></title>
+            <link>https://www.vlive.tv/video/288847</link>
+            <guid>https://www.vlive.tv/video/288847</guid>
+            <pubDate>Sat, 30 Jul 2022 05:01:36 GMT</pubDate>
+            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/288847/thumb?type=f228_128" length="0" type="image//live/288847/thumb"/>
+        </item>
         <item>
             <title><![CDATA[[선공개] 드디어 시작되는 WSG워너비 콘서트!🎉 리허설 현장 전격 공개?!🙊💕, MBC 220730 방송]]></title>
             <link>https://www.vlive.tv/video/288845</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 29 Jul 2022 14:42:13 GMT</pubDate>
             <content:encoded><![CDATA[멋진녀석들 (GreatGuys)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220729_38/1659105441291zwace_JPEG/17198104423906402650da0aa7-b6cc-466e-b683-30326f714019.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[너에게 들려주는 자장가~🌙]]></title>
-            <link>https://www.vlive.tv/video/288830</link>
-            <guid>https://www.vlive.tv/video/288830</guid>
-            <pubDate>Fri, 29 Jul 2022 14:42:13 GMT</pubDate>
-            <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220730_191/1659107008957uNTUP_JPEG/c8a8e141-0f4e-11ed-94ce-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[MAJOR9 ACTORS] 손소망(SON SO MANG) '2022 New Profile picture' Behind The Scenes (Making Film)]]></title>
-            <link>https://www.vlive.tv/video/288717</link>
-            <guid>https://www.vlive.tv/video/288717</guid>
-            <pubDate>Fri, 29 Jul 2022 13:57:17 GMT</pubDate>
-            <content:encoded><![CDATA[MAJOR9 (메이저나인)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220728_195/1658997538920QucB4_JPEG/upload_7526686860195819926cb2376-960d-41ed-a4e7-11200e540007.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
