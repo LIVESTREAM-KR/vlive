@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 06:49:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 07:41:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하이잉!]]></title>
+            <link>https://www.vlive.tv/video/288853</link>
+            <guid>https://www.vlive.tv/video/288853</guid>
+            <pubDate>Sat, 30 Jul 2022 07:39:50 GMT</pubDate>
+            <content:encoded><![CDATA[위아이 (WEi)]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/288853/thumb?type=f228_128" length="0" type="image//live/288853/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[동하니]]></title>
+            <link>https://www.vlive.tv/video/288851</link>
+            <guid>https://www.vlive.tv/video/288851</guid>
+            <pubDate>Sat, 30 Jul 2022 07:39:50 GMT</pubDate>
+            <content:encoded><![CDATA[위아이 (WEi)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220730_183/1659163726944XUTbH_JPEG/37b491e8-0fd3-11ed-b769-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[선공개] 맨땅에서도 완벽한 차준환의 완벽한 공중회전!💕+ 감탄이 절로 나는 손희찬의 완성형 근육😎💞, MBC 220801 방송]]></title>
             <link>https://www.vlive.tv/video/288850</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 29 Jul 2022 16:59:19 GMT</pubDate>
             <content:encoded><![CDATA[24K]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220730_172/1659143802349QMtdW_JPEG/a08c4ee6-0f55-11ed-aef4-48df37ae3fca_06.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도겸이랑 놀사람😆]]></title>
-            <link>https://www.vlive.tv/video/288837</link>
-            <guid>https://www.vlive.tv/video/288837</guid>
-            <pubDate>Fri, 29 Jul 2022 16:59:19 GMT</pubDate>
-            <content:encoded><![CDATA[SEVENTEEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220730_93/1659109752893G1Q8E_JPEG/a5493b59-0f55-11ed-89b9-d4f5ef5906a4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금요일 밤🙈]]></title>
-            <link>https://www.vlive.tv/video/288832</link>
-            <guid>https://www.vlive.tv/video/288832</guid>
-            <pubDate>Fri, 29 Jul 2022 14:42:13 GMT</pubDate>
-            <content:encoded><![CDATA[Weki Meki]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220729_18/16591051035843vR9q_JPEG/171893473446509022b6e3fb72-d64d-42bc-94ac-832ec54f1ec4.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

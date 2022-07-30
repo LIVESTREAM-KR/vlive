@@ -4,9 +4,24 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 06:49:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 07:41:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하이잉!]]></title>
+            <link>https://www.vlive.tv/video/288853</link>
+            <guid>https://www.vlive.tv/video/288853</guid>
+            <pubDate>Sat, 30 Jul 2022 07:39:42 GMT</pubDate>
+            <content:encoded><![CDATA[위아이 (WEi)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[동하니]]></title>
+            <link>https://www.vlive.tv/video/288851</link>
+            <guid>https://www.vlive.tv/video/288851</guid>
+            <pubDate>Sat, 30 Jul 2022 07:39:42 GMT</pubDate>
+            <content:encoded><![CDATA[위아이 (WEi)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220730_183/1659163726944XUTbH_JPEG/37b491e8-0fd3-11ed-b769-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[선공개] 맨땅에서도 완벽한 차준환의 완벽한 공중회전!💕+ 감탄이 절로 나는 손희찬의 완성형 근육😎💞, MBC 220801 방송]]></title>
             <link>https://www.vlive.tv/video/288850</link>
@@ -390,22 +405,6 @@
             <pubDate>Fri, 29 Jul 2022 09:44:30 GMT</pubDate>
             <content:encoded><![CDATA[CHUNG HA]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220729_278/1659078528685gSMI2_JPEG/upload_1031582387227164373e485d44-7057-47bf-b410-a3073473a386.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[군산 불주먹🔥 vs 장성 피바다💥, 테린이들의 자존심 싸움🎾 | 동아리 탐구생활]]></title>
-            <link>https://www.vlive.tv/video/288782</link>
-            <guid>https://www.vlive.tv/video/288782</guid>
-            <pubDate>Fri, 29 Jul 2022 09:44:30 GMT</pubDate>
-            <content:encoded><![CDATA[YG KPLUS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220729_19/1659081870673kMFWQ_JPEG/upload_1031615887866525812d33c47b-506f-4d29-acdc-8f5f536c9cdc.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Xdinary Heroes : Xtra Files] Ep.11 Hello, world! 비하인드]]></title>
-            <link>https://www.vlive.tv/video/288763</link>
-            <guid>https://www.vlive.tv/video/288763</guid>
-            <pubDate>Fri, 29 Jul 2022 09:44:30 GMT</pubDate>
-            <content:encoded><![CDATA[Xdinary Heroes]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220729_15/16590709896443vcGV_PNG/upload_10315072179048628488b1cad1-5d46-4640-9b2c-682510fdbeb4.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
