@@ -4,9 +4,29 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 14:42:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 15:45:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나윤이의 생일을 축하합니다🎂]]></title>
+            <link>https://m.vlive.tv/video/288878</link>
+            <guid>https://m.vlive.tv/video/288878</guid>
+            <pubDate>Sat, 30 Jul 2022 15:45:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 2:00</span>
+										<span class="txt">MOMOLAND</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220731_205/165919497490005raL_JPEG/upload_1032738990530962159ef701fe-3a6c-4ff5-9e6e-1299ea99c3ab.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[양⭐ Birthday데이❗❗]]></title>
+            <link>https://m.vlive.tv/video/288872</link>
+            <guid>https://m.vlive.tv/video/288872</guid>
+            <pubDate>Sat, 30 Jul 2022 15:45:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 5:00</span>
+										<span class="txt">다크비(DKB)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220731_113/1659193443053FvQQI_JPEG/upload_754521731297785784e1402d7-7b1c-4705-a769-772b4d8824c8.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
             <link>https://m.vlive.tv/video/288746</link>
@@ -86,16 +106,6 @@
 										오후 2:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220729_260/16590555032022LivD_JPEG/upload_1031352066559358399fc061e6-6d25-4813-bef5-91792ca58f8b.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
-            <link>https://m.vlive.tv/video/288749</link>
-            <guid>https://m.vlive.tv/video/288749</guid>
-            <pubDate>Fri, 29 Jul 2022 09:45:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220729_169/1659055013619bfCf5_JPEG/upload_7532455933656321608196f38-0acc-4710-99d7-dd3d4ff116a5.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
