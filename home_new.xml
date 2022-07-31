@@ -4,24 +4,16 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 04:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 05:00:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[비온다…🌧😫😢😭]]></title>
-            <link>https://www.vlive.tv/video/288883</link>
-            <guid>https://www.vlive.tv/video/288883</guid>
-            <pubDate>Sun, 31 Jul 2022 04:19:09 GMT</pubDate>
-            <content:encoded><![CDATA[LIZ ENT]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/288883/thumb?type=f228_128" length="0" type="image//live/288883/thumb"/>
-        </item>
         <item>
             <title><![CDATA[좋은밤슈]]></title>
             <link>https://www.vlive.tv/video/288882</link>
             <guid>https://www.vlive.tv/video/288882</guid>
             <pubDate>Sun, 31 Jul 2022 04:19:09 GMT</pubDate>
             <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/288882/thumb?type=f228_128" length="0" type="image//live/288882/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220731_155/1659242423296tdUpI_JPEG/52db53ee-108a-11ed-928a-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[찬이의 "방" 🐺 Ep. 168]]></title>
@@ -126,6 +118,14 @@
             <pubDate>Sat, 30 Jul 2022 13:03:08 GMT</pubDate>
             <content:encoded><![CDATA[ITZY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220730_222/1659188162920MlJxA_JPEG/8387c0e6-100b-11ed-89b9-d4f5ef5906a4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오호호 트립 여행은 아직 끝나지 않았지]]></title>
+            <link>https://www.vlive.tv/video/288874</link>
+            <guid>https://www.vlive.tv/video/288874</guid>
+            <pubDate>Sun, 31 Jul 2022 04:59:14 GMT</pubDate>
+            <content:encoded><![CDATA[원호 (WONHO)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220730_7/1659187607537fw7lD_JPEG/18405ffb-100b-11ed-928a-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
