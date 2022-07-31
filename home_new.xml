@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 07:41:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 08:47:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비오는날 집가는길 널보러]]></title>
+            <link>https://www.vlive.tv/video/288887</link>
+            <guid>https://www.vlive.tv/video/288887</guid>
+            <pubDate>Sun, 31 Jul 2022 08:45:36 GMT</pubDate>
+            <content:encoded><![CDATA[INFINITE]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/288887/thumb?type=f228_128" length="0" type="image//live/288887/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[양⭐ Birthday데이❗❗]]></title>
+            <link>https://www.vlive.tv/video/288872</link>
+            <guid>https://www.vlive.tv/video/288872</guid>
+            <pubDate>Sun, 31 Jul 2022 08:45:36 GMT</pubDate>
+            <content:encoded><![CDATA[다크비(DKB)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220731_113/1659193443053FvQQI_JPEG/upload_754521731297785784e1402d7-7b1c-4705-a769-772b4d8824c8.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[토요일😊]]></title>
             <link>https://www.vlive.tv/video/288886</link>
@@ -110,22 +126,6 @@
             <pubDate>Sun, 31 Jul 2022 03:02:12 GMT</pubDate>
             <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220731_170/1659236923613HTmsz_JPEG/upload_75506527745460076344636cc-d416-481a-8136-01f8aa8c1bd0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이건명] 뮤지컬 <넥스트 투 노멀> 마지막 공연 소감]]></title>
-            <link>https://www.vlive.tv/video/288790</link>
-            <guid>https://www.vlive.tv/video/288790</guid>
-            <pubDate>Sun, 31 Jul 2022 03:02:12 GMT</pubDate>
-            <content:encoded><![CDATA[WILL ENTERTAINMENT]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220729_282/1659077137351Ku2z6_JPEG/upload_753466797635539168252625a-31a5-489f-abfc-cb237022c44b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우물 속 작은아이 1부]]></title>
-            <link>https://www.vlive.tv/video/288877</link>
-            <guid>https://www.vlive.tv/video/288877</guid>
-            <pubDate>Sat, 30 Jul 2022 16:55:51 GMT</pubDate>
-            <content:encoded><![CDATA[ONEWE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220731_85/165919599989065pYV_JPEG/f5f567d0-101d-11ed-9d93-d4f5ef590144_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
