@@ -4,17 +4,9 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 13:46:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 14:41:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[소녀세상] 아라가 왔는데 다들 놀아주라!]]></title>
-            <link>https://www.vlive.tv/video/288900</link>
-            <guid>https://www.vlive.tv/video/288900</guid>
-            <pubDate>Sun, 31 Jul 2022 13:45:44 GMT</pubDate>
-            <content:encoded><![CDATA[LIZ ENT]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/288900/thumb?type=f228_128" length="0" type="image//live/288900/thumb"/>
-        </item>
         <item>
             <title><![CDATA[뉴욕듀오]]></title>
             <link>https://www.vlive.tv/video/288899</link>
@@ -22,6 +14,30 @@
             <pubDate>Sun, 31 Jul 2022 13:45:44 GMT</pubDate>
             <content:encoded><![CDATA[잔나비 JANNABI]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220731_3/1659273130769Yvr6i_JPEG/1720615017525954777b72b7bd-c2cd-4787-a827-4d6e32501bbc.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비가 오는 밤에🌌]]></title>
+            <link>https://www.vlive.tv/video/288901</link>
+            <guid>https://www.vlive.tv/video/288901</guid>
+            <pubDate>Sun, 31 Jul 2022 14:40:35 GMT</pubDate>
+            <content:encoded><![CDATA[TRENDZ (트렌드지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220731_158/1659276342765jO4ok_JPEG/172151945752743407193a421a-ccc6-48be-8df2-540c613107a8.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[진호 - MAGAZINE HO #47 'Thinking Out Loud / Ed Sheeran']]></title>
+            <link>https://www.vlive.tv/video/288833</link>
+            <guid>https://www.vlive.tv/video/288833</guid>
+            <pubDate>Sun, 31 Jul 2022 14:40:35 GMT</pubDate>
+            <content:encoded><![CDATA[PENTAGON]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220729_46/16591051387751uWEj_JPEG/fd50547d-0f4a-11ed-b769-505dac8c35ff_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[소녀세상] 아라가 왔는데 다들 놀아주라!]]></title>
+            <link>https://www.vlive.tv/video/288900</link>
+            <guid>https://www.vlive.tv/video/288900</guid>
+            <pubDate>Sun, 31 Jul 2022 13:45:44 GMT</pubDate>
+            <content:encoded><![CDATA[LIZ ENT]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/288900/thumb?type=f228_128" length="0" type="image//live/288900/thumb"/>
         </item>
         <item>
             <title><![CDATA[[LIVE] 너는 충분히 최고야 짱보이]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Sun, 31 Jul 2022 08:45:36 GMT</pubDate>
             <content:encoded><![CDATA[INFINITE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220731_264/1659257278993iO976_JPEG/482b7f4e-10ad-11ed-8055-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LIVE]]]></title>
-            <link>https://www.vlive.tv/video/288888</link>
-            <guid>https://www.vlive.tv/video/288888</guid>
-            <pubDate>Sun, 31 Jul 2022 09:42:27 GMT</pubDate>
-            <content:encoded><![CDATA[원호 (WONHO)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220731_238/1659257134688bNuGp_JPEG/ff52824e-10ac-11ed-9d93-d4f5ef590144_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[토요일😊]]></title>
-            <link>https://www.vlive.tv/video/288886</link>
-            <guid>https://www.vlive.tv/video/288886</guid>
-            <pubDate>Sun, 31 Jul 2022 07:39:57 GMT</pubDate>
-            <content:encoded><![CDATA[멋진녀석들 (GreatGuys)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220731_181/1659250280441JnWiH_JPEG/10037651058622335ab7d4614-211a-41df-8b19-9a3aff2e13ee.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

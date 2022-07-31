@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 13:46:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 14:41:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,20 +216,36 @@
             <enclosure url="https://v-phinf.pstatic.net/20220731_116/1659270803122tFFFU_JPEG/4b6caeab-10cc-11ed-b44a-d4f5ef58ad5e_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뉴욕듀오]]></title>
-            <link>https://www.vlive.tv/video/288899</link>
-            <guid>https://www.vlive.tv/video/288899</guid>
-            <pubDate>Sun, 31 Jul 2022 13:46:26 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:12]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220731_3/1659273130769Yvr6i_JPEG/1720615017525954777b72b7bd-c2cd-4787-a827-4d6e32501bbc.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[소녀세상] 아라가 왔는데 다들 놀아주라!]]></title>
             <link>https://www.vlive.tv/video/288900</link>
             <guid>https://www.vlive.tv/video/288900</guid>
             <pubDate>Sun, 31 Jul 2022 13:46:26 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:21]]></content:encoded>
             <enclosure url="https://vlive-thumb.pstatic.net/live/288900/thumb?type=f228_128" length="0" type="image//live/288900/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[진호 - MAGAZINE HO #47 'Thinking Out Loud / Ed Sheeran']]></title>
+            <link>https://www.vlive.tv/video/288833</link>
+            <guid>https://www.vlive.tv/video/288833</guid>
+            <pubDate>Sun, 31 Jul 2022 14:41:17 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220729_46/16591051387751uWEj_JPEG/fd50547d-0f4a-11ed-b769-505dac8c35ff_01.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비가 오는 밤에🌌]]></title>
+            <link>https://www.vlive.tv/video/288901</link>
+            <guid>https://www.vlive.tv/video/288901</guid>
+            <pubDate>Sun, 31 Jul 2022 14:41:17 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:05]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220731_158/1659276342765jO4ok_JPEG/172151945752743407193a421a-ccc6-48be-8df2-540c613107a8.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴욕듀오]]></title>
+            <link>https://www.vlive.tv/video/288899</link>
+            <guid>https://www.vlive.tv/video/288899</guid>
+            <pubDate>Sun, 31 Jul 2022 13:46:26 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:08]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220731_3/1659273130769Yvr6i_JPEG/1720615017525954777b72b7bd-c2cd-4787-a827-4d6e32501bbc.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
