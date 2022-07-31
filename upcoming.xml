@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 10:44:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 11:42:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -165,13 +165,39 @@
             <guid>https://www.vlive.tv/video/288891</guid>
             <pubDate>Sun, 31 Jul 2022 10:44:19 GMT</pubDate>
             <content:encoded><![CDATA[오전 10:05]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/288891/thumb?type=f228_128" length="0" type="image//live/288891/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA['Out of time' Covered by 우주소녀 다영 (WJSN DAYOUNG)]]></title>
+            <link>https://www.vlive.tv/video/288760</link>
+            <guid>https://www.vlive.tv/video/288760</guid>
+            <pubDate>Sun, 31 Jul 2022 11:42:17 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220729_77/1659058996301JeFcT_JPEG/upload_103138710923613481021f3035-c6d0-4635-9206-08e07b2f44cc.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2 Kids Room(투키즈룸)] Ep.28 리노 X 필릭스]]></title>
+            <link>https://www.vlive.tv/video/288892</link>
+            <guid>https://www.vlive.tv/video/288892</guid>
+            <pubDate>Sun, 31 Jul 2022 11:42:17 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220731_180/1659262548953scAiR_JPEG/upload_103341511558736333c5e2f371-3e02-4bef-b213-90b5959eea28.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BANA💚]]></title>
             <link>https://www.vlive.tv/video/288893</link>
             <guid>https://www.vlive.tv/video/288893</guid>
             <pubDate>Sun, 31 Jul 2022 10:44:19 GMT</pubDate>
-            <content:encoded><![CDATA[오전 10:31]]></content:encoded>
+            <content:encoded><![CDATA[오전 11:15]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220731_85/1659266116816AjHk8_JPEG/abd021be-10c1-11ed-ba01-505dac8c3607_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE] 너는 충분히 최고야 짱보이]]></title>
+            <link>https://www.vlive.tv/video/288895</link>
+            <guid>https://www.vlive.tv/video/288895</guid>
+            <pubDate>Sun, 31 Jul 2022 11:42:17 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:35]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/288895/thumb?type=f228_128" length="0" type="image//live/288895/thumb"/>
         </item>
     </channel>
 </rss>
