@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 13:06:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 13:46:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[소녀세상] 아라가 왔는데 다들 놀아주라!]]></title>
+            <link>https://www.vlive.tv/video/288900</link>
+            <guid>https://www.vlive.tv/video/288900</guid>
+            <pubDate>Sun, 31 Jul 2022 13:45:44 GMT</pubDate>
+            <content:encoded><![CDATA[LIZ ENT]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/288900/thumb?type=f228_128" length="0" type="image//live/288900/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴욕듀오]]></title>
+            <link>https://www.vlive.tv/video/288899</link>
+            <guid>https://www.vlive.tv/video/288899</guid>
+            <pubDate>Sun, 31 Jul 2022 13:45:44 GMT</pubDate>
+            <content:encoded><![CDATA[잔나비 JANNABI]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220731_3/1659273130769Yvr6i_JPEG/1720615017525954777b72b7bd-c2cd-4787-a827-4d6e32501bbc.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[LIVE] 너는 충분히 최고야 짱보이]]></title>
             <link>https://www.vlive.tv/video/288895</link>
@@ -110,22 +126,6 @@
             <pubDate>Sun, 31 Jul 2022 07:39:57 GMT</pubDate>
             <content:encoded><![CDATA[멋진녀석들 (GreatGuys)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220731_181/1659250280441JnWiH_JPEG/10037651058622335ab7d4614-211a-41df-8b19-9a3aff2e13ee.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LA+PLUS (라+플러스) EP.4]]></title>
-            <link>https://www.vlive.tv/video/288784</link>
-            <guid>https://www.vlive.tv/video/288784</guid>
-            <pubDate>Sun, 31 Jul 2022 07:39:57 GMT</pubDate>
-            <content:encoded><![CDATA[Lapillus]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220729_5/1659071127778KeoRu_JPEG/upload_753407307273024439f02b154-3f1c-4bb5-876e-2e234c20e873.JPG?type=f228_128_wp" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[JJACK-LOG IN FRANKFURT]]></title>
-            <link>https://www.vlive.tv/video/288764</link>
-            <guid>https://www.vlive.tv/video/288764</guid>
-            <pubDate>Sun, 31 Jul 2022 07:39:57 GMT</pubDate>
-            <content:encoded><![CDATA[AB6IX]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220729_22/1659061829828zJtpB_PNG/upload_1031415313906028260b92a015-cd9c-4bbb-838a-3e8b4b77f658.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
