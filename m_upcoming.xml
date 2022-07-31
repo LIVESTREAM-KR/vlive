@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 31 Jul 2022 05:00:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2022 05:42:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[나윤이의 생일을 축하합니다🎂]]></title>
-            <link>https://m.vlive.tv/video/288878</link>
-            <guid>https://m.vlive.tv/video/288878</guid>
-            <pubDate>Sat, 30 Jul 2022 15:45:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 2:00</span>
-										<span class="txt">MOMOLAND</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220731_205/165919497490005raL_JPEG/upload_1032738990530962159ef701fe-3a6c-4ff5-9e6e-1299ea99c3ab.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[양⭐ Birthday데이❗❗]]></title>
             <link>https://m.vlive.tv/video/288872</link>
@@ -96,6 +86,16 @@
 										오전 10:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220729_238/16590547500163JkEc_JPEG/upload_753242081108710998887c310-b390-4349-9bc4-cceb8a511fd8.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Sound K] Song Express ver.3 with Denise 데니스]]></title>
+            <link>https://m.vlive.tv/video/288753</link>
+            <guid>https://m.vlive.tv/video/288753</guid>
+            <pubDate>Sun, 31 Jul 2022 05:42:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 2:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220729_260/16590555032022LivD_JPEG/upload_1031352066559358399fc061e6-6d25-4813-bef5-91792ca58f8b.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
