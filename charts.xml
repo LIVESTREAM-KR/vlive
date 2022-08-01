@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 04:59:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 06:07:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Mon, 01 Aug 2022 04:58:03 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220801_144/1659326826203eDdGX_JPEG/100efed4-114f-11ed-b769-505dac8c35ff_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찬이의 "방" 🐺 Ep. 168]]></title>
-            <link>https://www.vlive.tv/video/288881</link>
-            <guid>https://www.vlive.tv/video/288881</guid>
-            <pubDate>Sun, 31 Jul 2022 04:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220731_160/1659244343514X81Pi_JPEG/211618a6-108e-11ed-928a-48df37ae3dc4_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Stray Kids(스트레이 키즈) "Time Out" M/V]]></title>
@@ -37,7 +29,15 @@
             <guid>https://www.vlive.tv/video/288896</guid>
             <pubDate>Sun, 31 Jul 2022 16:55:31 GMT</pubDate>
             <content:encoded><![CDATA[BLACKPINK]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220731_2/1659268137433BGj8e_JPEG/upload_103347827911458282bd48d6c4-8f36-438a-a2f6-ba2270c410a6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220731_2/1659268137433BGj8e_JPEG/upload_103347827911458282bd48d6c4-8f36-438a-a2f6-ba2270c410a6.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찬이의 "방" 🐺 Ep. 168]]></title>
+            <link>https://www.vlive.tv/video/288881</link>
+            <guid>https://www.vlive.tv/video/288881</guid>
+            <pubDate>Sun, 31 Jul 2022 04:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220731_160/1659244343514X81Pi_JPEG/211618a6-108e-11ed-928a-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Check out what's in Jack In The Box]]></title>
@@ -56,12 +56,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20220731_297/1659257743194jmVpF_PNG/upload_755269708695331007a738489-cc6b-4c13-ab4d-579d28a4cdc5.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[좋은밤슈]]></title>
-            <link>https://www.vlive.tv/video/288882</link>
-            <guid>https://www.vlive.tv/video/288882</guid>
-            <pubDate>Sun, 31 Jul 2022 05:41:57 GMT</pubDate>
-            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220731_155/1659242423296tdUpI_JPEG/52db53ee-108a-11ed-928a-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <title><![CDATA[이동하면서 처음하네요]]></title>
+            <link>https://www.vlive.tv/video/288880</link>
+            <guid>https://www.vlive.tv/video/288880</guid>
+            <pubDate>Mon, 01 Aug 2022 06:06:55 GMT</pubDate>
+            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220731_170/1659236923613HTmsz_JPEG/upload_75506527745460076344636cc-d416-481a-8136-01f8aa8c1bd0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
