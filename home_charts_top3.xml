@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ CHARTS TOP3</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 07:43:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 08:52:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220801_232/1659346538612pDCd0_PNG/upload_1034262332029856072d309e3d-cf12-4d55-adf2-df75af643e2c.png?type=f380_213_wp" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[호비팔루자]]></title>
-            <link>https://www.vlive.tv/video/288913</link>
-            <guid>https://www.vlive.tv/video/288913</guid>
-            <pubDate>Mon, 01 Aug 2022 04:57:43 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220801_144/1659326826203eDdGX_JPEG/100efed4-114f-11ed-b769-505dac8c35ff_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Run BTS! 2022 Special Episode Teaser]]></title>
             <link>https://www.vlive.tv/video/288779</link>
             <guid>https://www.vlive.tv/video/288779</guid>
             <pubDate>Mon, 01 Aug 2022 13:24:30 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220729_54/1659070165410OBr5e_PNG/upload_7533953619909729876d01a59-935b-4c7f-b56d-4e9022a684d2.png?type=f380_213_wp" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[호비팔루자]]></title>
+            <link>https://www.vlive.tv/video/288913</link>
+            <guid>https://www.vlive.tv/video/288913</guid>
+            <pubDate>Mon, 01 Aug 2022 04:57:43 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220801_144/1659326826203eDdGX_JPEG/100efed4-114f-11ed-b769-505dac8c35ff_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
