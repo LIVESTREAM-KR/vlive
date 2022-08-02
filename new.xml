@@ -4,9 +4,16 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 05:58:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 06:51:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[틈새라면]]></title>
+            <link>https://www.vlive.tv/video/288963</link>
+            <guid>https://www.vlive.tv/video/288963</guid>
+            <pubDate>Tue, 02 Aug 2022 06:50:00 GMT</pubDate>
+            <content:encoded><![CDATA[유주 (YUJU)]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA['카터' 주원(JOOWON) "내 필모에 엄청난 작품이 될 거라 생각, 욕심났다" #넷플릭스 #주원 #카터 #JOOWON #CARTER]]></title>
             <link>https://www.vlive.tv/video/288960</link>
@@ -398,14 +405,6 @@
             <pubDate>Mon, 01 Aug 2022 03:11:38 GMT</pubDate>
             <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220729_256/1659054431347I3eTU_JPEG/upload_10313409505855730665c26033-7342-4dda-a59a-acbea7b7752e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 파트너 트랙 | 공식 예고편]]></title>
-            <link>https://www.vlive.tv/video/288905</link>
-            <guid>https://www.vlive.tv/video/288905</guid>
-            <pubDate>Mon, 01 Aug 2022 03:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 (Netflixkr)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220801_97/16593165125415BA1r_JPEG/upload_103396227307874290fd755414-7a15-4bf2-830f-7e64de2d7faa.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
