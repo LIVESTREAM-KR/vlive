@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 03:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 04:54:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[ASC Live Ep.534 (BLITZERS / 블리처스)]]></title>
-            <link>https://m.vlive.tv/video/288788</link>
-            <guid>https://m.vlive.tv/video/288788</guid>
-            <pubDate>Fri, 29 Jul 2022 06:52:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 1:00</span>
-										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220729_209/1659074984821QIf4x_PNG/upload_1031546786980581721387ea03-2c67-4f5a-be2f-c594a037493e.png?type=f274_154" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Sound K] Mystery Mix with BOiTELLO 보이텔로]]></title>
             <link>https://m.vlive.tv/video/288752</link>
@@ -106,6 +96,16 @@
 										오후 4:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220729_36/1659056193933L3eoP_JPEG/upload_103135885187517668fe9eb432-c154-4314-8016-6be8e59ad64a.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SKYLE 1주년 파티~❤]]></title>
+            <link>https://m.vlive.tv/video/288956</link>
+            <guid>https://m.vlive.tv/video/288956</guid>
+            <pubDate>Tue, 02 Aug 2022 04:54:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 9:00</span>
+										<span class="txt">SKYLE</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220802_26/165941336721679eCp_JPEG/upload_103493001480952076c964e8b4-4c49-4d1c-88dc-aa0254e077a9.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

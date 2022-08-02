@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 03:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 04:54:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220801_105/1659361620328do4Yt_JPEG/142673096130085444e8f51ffd-e3ba-4960-a29a-ed7b20c81d11.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Check out what's in Jack In The Box]]></title>
-            <link>https://www.vlive.tv/video/287666</link>
-            <guid>https://www.vlive.tv/video/287666</guid>
-            <pubDate>Sun, 31 Jul 2022 16:55:20 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220716_108/1657935803080UyRdA_JPEG/upload_1020155219324701696f483de9-4787-43ec-a77a-ce4a281d28a2.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[TO DO X TOMORROW X TOGETHER - EP.89]]></title>
             <link>https://www.vlive.tv/video/288560</link>
             <guid>https://www.vlive.tv/video/288560</guid>
             <pubDate>Tue, 02 Aug 2022 03:14:21 GMT</pubDate>
             <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220726_51/16588216726735pPMC_JPEG/upload_75091249371472655ac22a43e-e3ef-4fbb-9b51-88be0f6c021e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Check out what's in Jack In The Box]]></title>
+            <link>https://www.vlive.tv/video/287666</link>
+            <guid>https://www.vlive.tv/video/287666</guid>
+            <pubDate>Sun, 31 Jul 2022 16:55:20 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220716_108/1657935803080UyRdA_JPEG/upload_1020155219324701696f483de9-4787-43ec-a77a-ce4a281d28a2.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
