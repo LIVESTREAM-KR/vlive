@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 13:59:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 14:43:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -511,14 +511,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220803_52/1659530859833SbEMd_JPEG/142842335610041087620d359f-0573-4e97-aa20-d9c67986f310.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오늘은 재현이 ☁️]]></title>
-            <link>https://www.vlive.tv/video/289067</link>
-            <guid>https://www.vlive.tv/video/289067</guid>
-            <pubDate>Wed, 03 Aug 2022 13:58:30 GMT</pubDate>
-            <content:encoded><![CDATA[오후 10:40]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220803_236/1659534028332gqxuk_JPEG/172322419709713483045c3296-99e3-41f2-ae9f-726128f908d6.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[뿅 우리가 왔따✨🐶🐰🐱🦊❤️]]></title>
             <link>https://www.vlive.tv/video/289060</link>
             <guid>https://www.vlive.tv/video/289060</guid>
@@ -532,6 +524,14 @@
             <guid>https://www.vlive.tv/video/289068</guid>
             <pubDate>Wed, 03 Aug 2022 13:58:30 GMT</pubDate>
             <content:encoded><![CDATA[오후 10:54]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오늘은 재현이 ☁️]]></title>
+            <link>https://www.vlive.tv/video/289067</link>
+            <guid>https://www.vlive.tv/video/289067</guid>
+            <pubDate>Wed, 03 Aug 2022 13:58:30 GMT</pubDate>
+            <content:encoded><![CDATA[오후 11:42]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220803_236/1659534028332gqxuk_JPEG/172322419709713483045c3296-99e3-41f2-ae9f-726128f908d6.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
