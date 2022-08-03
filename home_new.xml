@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 15:51:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 17:00:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비요뜨먹방]]></title>
+            <link>https://www.vlive.tv/video/289071</link>
+            <guid>https://www.vlive.tv/video/289071</guid>
+            <pubDate>Wed, 03 Aug 2022 16:58:47 GMT</pubDate>
+            <content:encoded><![CDATA[KWON EUN BI]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/289071/thumb?type=f228_128" length="0" type="image//live/289071/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[안자는 사람 누군데 ㅡㅡ]]></title>
+            <link>https://www.vlive.tv/video/289069</link>
+            <guid>https://www.vlive.tv/video/289069</guid>
+            <pubDate>Wed, 03 Aug 2022 15:49:36 GMT</pubDate>
+            <content:encoded><![CDATA[INFINITE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220803_230/1659538226211HR2yu_JPEG/172413756123656392508ea138-3346-4ee5-8e87-ab8ac31002fa.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[덥다요 🥵 I FEEL SO HOT BECAUSE OF YOU 💛]]></title>
             <link>https://www.vlive.tv/video/289068</link>
@@ -46,14 +62,6 @@
             <pubDate>Wed, 03 Aug 2022 15:49:36 GMT</pubDate>
             <content:encoded><![CDATA[MisoJeong]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220803_222/1659532596241gATFB_PNG/upload_103612314894910573ddcc482c-721c-4e56-9d4c-f57fabcf70c1.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[안자는 사람 누군데 ㅡㅡ]]></title>
-            <link>https://www.vlive.tv/video/289069</link>
-            <guid>https://www.vlive.tv/video/289069</guid>
-            <pubDate>Wed, 03 Aug 2022 15:49:36 GMT</pubDate>
-            <content:encoded><![CDATA[INFINITE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220803_230/1659538226211HR2yu_JPEG/172413756123656392508ea138-3346-4ee5-8e87-ab8ac31002fa.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오늘은 재현이 ☁️]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 03 Aug 2022 13:22:04 GMT</pubDate>
             <content:encoded><![CDATA[BDC]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220803_245/1659529368372USmam_JPEG/65312ddf-1326-11ed-a120-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[withus] 오늘도 수락데이!-!]]></title>
-            <link>https://www.vlive.tv/video/289051</link>
-            <guid>https://www.vlive.tv/video/289051</guid>
-            <pubDate>Wed, 03 Aug 2022 11:40:40 GMT</pubDate>
-            <content:encoded><![CDATA[위드에이치씨 (withHC)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220803_270/1659524621717niP75_JPEG/1723130777142325818dfb3d75-5d56-4dca-bc51-695303a01cab.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
