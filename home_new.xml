@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 15:49:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 17:04:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[LIVE]]]></title>
+            <link>https://www.vlive.tv/video/289147</link>
+            <guid>https://www.vlive.tv/video/289147</guid>
+            <pubDate>Thu, 04 Aug 2022 17:02:47 GMT</pubDate>
+            <content:encoded><![CDATA[원호 (WONHO)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220805_186/1659632437379hBSX9_JPEG/8a0a9a93-1416-11ed-9d93-d4f5ef590144_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고우신원]]></title>
+            <link>https://www.vlive.tv/video/289146</link>
+            <guid>https://www.vlive.tv/video/289146</guid>
+            <pubDate>Thu, 04 Aug 2022 17:02:47 GMT</pubDate>
+            <content:encoded><![CDATA[PENTAGON]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220805_51/1659631778806cPWlH_JPEG/76e77e3d-1413-11ed-94ce-505dac8c381b_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안냥~><]]></title>
             <link>https://www.vlive.tv/video/289145</link>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 04 Aug 2022 13:56:04 GMT</pubDate>
             <content:encoded><![CDATA[IVE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220804_276/1659619172415ENHLq_JPEG/cbfb304e-13f7-11ed-a120-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SKYLE 1주년 파티~❤]]></title>
-            <link>https://www.vlive.tv/video/288956</link>
-            <guid>https://www.vlive.tv/video/288956</guid>
-            <pubDate>Thu, 04 Aug 2022 13:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[SKYLE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220802_26/165941336721679eCp_JPEG/upload_103493001480952076c964e8b4-4c49-4d1c-88dc-aa0254e077a9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민트야 놀자~~]]></title>
-            <link>https://www.vlive.tv/video/289129</link>
-            <guid>https://www.vlive.tv/video/289129</guid>
-            <pubDate>Thu, 04 Aug 2022 13:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[M.O.N.T (몬트)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220804_45/1659618119911KP0y1_JPEG/bd27e683-13f4-11ed-bb12-d4f5ef5a9532_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
