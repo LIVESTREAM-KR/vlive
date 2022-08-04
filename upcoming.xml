@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 23:44:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 02:43:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,14 +64,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220804_177/1659546436451gqT4M_JPEG/9fa4125a-134e-11ed-a120-505dacfbaa5c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
-            <link>https://www.vlive.tv/video/288749</link>
-            <guid>https://www.vlive.tv/video/288749</guid>
-            <pubDate>Wed, 03 Aug 2022 20:45:30 GMT</pubDate>
-            <content:encoded><![CDATA[오전 10:00]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220729_169/1659055013619bfCf5_JPEG/upload_7532455933656321608196f38-0acc-4710-99d7-dd3d4ff116a5.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[강승원_말하지 않아도 알아요]]></title>
             <link>https://www.vlive.tv/video/289017</link>
             <guid>https://www.vlive.tv/video/289017</guid>
@@ -94,6 +86,14 @@
             <pubDate>Wed, 03 Aug 2022 20:45:30 GMT</pubDate>
             <content:encoded><![CDATA[오전 11:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220803_144/1659511821631NnB3X_JPEG/3c1e71c2-12fc-11ed-bb12-d4f5ef5a9532_07.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
+            <link>https://www.vlive.tv/video/288749</link>
+            <guid>https://www.vlive.tv/video/288749</guid>
+            <pubDate>Wed, 03 Aug 2022 20:45:30 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220729_169/1659055013619bfCf5_JPEG/upload_7532455933656321608196f38-0acc-4710-99d7-dd3d4ff116a5.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Arirang Radio (Sound K  / DORI)]]></title>

@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 23:44:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 02:43:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
-            <link>https://m.vlive.tv/video/288749</link>
-            <guid>https://m.vlive.tv/video/288749</guid>
-            <pubDate>Mon, 01 Aug 2022 04:58:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220729_169/1659055013619bfCf5_JPEG/upload_7532455933656321608196f38-0acc-4710-99d7-dd3d4ff116a5.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Sound K  / DORI)]]></title>
             <link>https://m.vlive.tv/video/288944</link>
@@ -76,6 +66,36 @@
 										오후 4:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220729_122/1659056239117NEWf4_JPEG/upload_75325813394239297f9931cbc-4434-4357-8126-02748f436965.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🧡HAPPY WOODZ DAY💙 with 승연의 세포들]]></title>
+            <link>https://m.vlive.tv/video/289072</link>
+            <guid>https://m.vlive.tv/video/289072</guid>
+            <pubDate>Thu, 04 Aug 2022 02:43:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 4:00</span>
+										<span class="txt">WOODZ (조승연)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220804_21/165957909842941B2E_JPEG/upload_103658816012690301198d7946-a47c-4484-8e1e-b527315ab166.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Radio'n Us / qman 구만)]]></title>
+            <link>https://m.vlive.tv/video/288909</link>
+            <guid>https://m.vlive.tv/video/288909</guid>
+            <pubDate>Thu, 04 Aug 2022 02:43:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 8:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220801_251/1659323093801Av61Y_JPEG/upload_10340270598920588044433529-eb80-4253-b614-56a7e566e8c3.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[💜HAPPY JIA DAY💜]]></title>
+            <link>https://m.vlive.tv/video/289015</link>
+            <guid>https://m.vlive.tv/video/289015</guid>
+            <pubDate>Thu, 04 Aug 2022 02:43:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 2:00</span>
+										<span class="txt">TRI.BE</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220803_281/1659508792476PgNFY_JPEG/upload_7577829908791671703e74c7e-f3b6-4542-bbf2-0216a44ce7fc.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
