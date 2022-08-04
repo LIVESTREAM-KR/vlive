@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 04:24:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 05:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Sound K  / DORI)]]></title>
-            <link>https://m.vlive.tv/video/288944</link>
-            <guid>https://m.vlive.tv/video/288944</guid>
-            <pubDate>Tue, 02 Aug 2022 03:14:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 2:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220802_174/1659403090381Xcoyq_JPEG/upload_103482762156678029a1d4fb99-eeab-4114-b674-ccab05e0b922.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Super K-Pop] Stray Quiz]]></title>
             <link>https://m.vlive.tv/video/288756</link>
@@ -96,6 +86,16 @@
 										오후 2:00</span>
 										<span class="txt">TRI.BE</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220803_281/1659508792476PgNFY_JPEG/upload_7577829908791671703e74c7e-f3b6-4542-bbf2-0216a44ce7fc.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
+            <link>https://m.vlive.tv/video/289076</link>
+            <guid>https://m.vlive.tv/video/289076</guid>
+            <pubDate>Thu, 04 Aug 2022 05:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220804_257/1659585721536lNkXl_JPEG/upload_1036654339287963186a4afeb3-3f26-44f9-b4ad-568313ea4933.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
