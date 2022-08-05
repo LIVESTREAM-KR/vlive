@@ -4,9 +4,17 @@
         <title>V LIVE 모바일 ─ CHARTS </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 14:44:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 15:48:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[승확행 잠깐만!🐾🌙]]></title>
+            <link>https://m.vlive.tv/video/289227</link>
+            <guid>https://m.vlive.tv/video/289227</guid>
+            <pubDate>Fri, 05 Aug 2022 15:47:27 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220806_164/1659712096623HSSmR_JPEG/1e0e2d57-14cd-11ed-b769-505dac8c35ff_07.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유부초밥 🤎]]></title>
             <link>https://m.vlive.tv/video/289161</link>
@@ -22,14 +30,6 @@
             <pubDate>Mon, 01 Aug 2022 04:58:13 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220801_144/1659326826203eDdGX_JPEG/100efed4-114f-11ed-b769-505dac8c35ff_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stray Kids(스트레이 키즈) 2nd World Tour “MANIAC” Seoul Special (UNVEIL 11)]]></title>
-            <link>https://m.vlive.tv/video/289144</link>
-            <guid>https://m.vlive.tv/video/289144</guid>
-            <pubDate>Fri, 05 Aug 2022 14:44:00 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220805_92/1659627421855CHN4y_JPEG/upload_1037071538292893119c0dad88-f52c-4c08-9079-b91bd94f21ac.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
