@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ CHARTS </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 05:52:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 06:52:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220805_24/1659665325307taCA8_JPEG/5a738bd5-13df-11ed-8e34-505dac8c3721_06.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[호비팔루자]]></title>
-            <link>https://m.vlive.tv/video/288913</link>
-            <guid>https://m.vlive.tv/video/288913</guid>
-            <pubDate>Mon, 01 Aug 2022 04:58:13 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220801_144/1659326826203eDdGX_JPEG/100efed4-114f-11ed-b769-505dac8c35ff_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[자기전에🐶]]></title>
             <link>https://m.vlive.tv/video/289133</link>
             <guid>https://m.vlive.tv/video/289133</guid>
             <pubDate>Thu, 04 Aug 2022 14:42:13 GMT</pubDate>
             <content:encoded><![CDATA[IVE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220804_276/1659619172415ENHLq_JPEG/cbfb304e-13f7-11ed-a120-505dacfbaa5c_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[호비팔루자]]></title>
+            <link>https://m.vlive.tv/video/288913</link>
+            <guid>https://m.vlive.tv/video/288913</guid>
+            <pubDate>Mon, 01 Aug 2022 04:58:13 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220801_144/1659326826203eDdGX_JPEG/100efed4-114f-11ed-b769-505dac8c35ff_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
