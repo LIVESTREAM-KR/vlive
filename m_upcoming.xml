@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 06:50:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 07:41:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[하이키의 ❤️로고 공작소❤️]]></title>
-            <link>https://m.vlive.tv/video/289217</link>
-            <guid>https://m.vlive.tv/video/289217</guid>
-            <pubDate>Fri, 05 Aug 2022 11:43:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 4:30</span>
-										<span class="txt">H1-KEY</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220805_14/165969905448821wQg_JPEG/upload_103778361821840260ff22c082-0f36-41eb-9d69-2b80ddc38c39.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
             <link>https://m.vlive.tv/video/289076</link>
@@ -86,6 +76,26 @@
 										오후 1:00</span>
 										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220805_150/1659677657016sT5gH_PNG/upload_759472377480806157e3f3b53-664d-4a67-b384-c58d6840f1b8.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Sound K] Mystery Mix with BOiTELLO 보이텔로]]></title>
+            <link>https://m.vlive.tv/video/289082</link>
+            <guid>https://m.vlive.tv/video/289082</guid>
+            <pubDate>Sun, 07 Aug 2022 07:40:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 2:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220804_3/1659585924753aTXgR_JPEG/upload_103665625674718350cb9ecd26-7810-4474-b97c-22a85828375d.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop]Oh My K-Pop with NIve]]></title>
+            <link>https://m.vlive.tv/video/289085</link>
+            <guid>https://m.vlive.tv/video/289085</guid>
+            <pubDate>Sun, 07 Aug 2022 07:40:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 4:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220804_205/1659586030856nUzgV_JPEG/upload_10366574493573564565ab1f9d-7038-475c-97df-2b4f22e84a82.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
