@@ -4,16 +4,24 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 04:53:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 05:42:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HBD GON🎂🤍🥳]]></title>
+            <link>https://www.vlive.tv/video/289270</link>
+            <guid>https://www.vlive.tv/video/289270</guid>
+            <pubDate>Sun, 07 Aug 2022 05:40:46 GMT</pubDate>
+            <content:encoded><![CDATA[VANNER (배너)]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/289270/thumb?type=f228_128" length="0" type="image//live/289270/thumb"/>
+        </item>
         <item>
             <title><![CDATA[Rommie]]></title>
             <link>https://www.vlive.tv/video/289268</link>
             <guid>https://www.vlive.tv/video/289268</guid>
             <pubDate>Sun, 07 Aug 2022 04:52:18 GMT</pubDate>
             <content:encoded><![CDATA[PENTAGON]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/289268/thumb?type=f228_128" length="0" type="image//live/289268/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220807_14/16598489119384tlVX_JPEG/df71660c-160d-11ed-8e34-505dac8c3721_07.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우진이랑 힐링합시다]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 06 Aug 2022 13:03:00 GMT</pubDate>
             <content:encoded><![CDATA[fromis_9]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220802_73/1659442130034KD1za_JPEG/upload_103521731587965938096d9730-ae55-424f-8bd0-c62a9dd6deb5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수다 떨 부리들👻]]></title>
-            <link>https://www.vlive.tv/video/289254</link>
-            <guid>https://www.vlive.tv/video/289254</guid>
-            <pubDate>Sat, 06 Aug 2022 11:42:29 GMT</pubDate>
-            <content:encoded><![CDATA[BVNDIT(밴디트)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220806_86/1659783101271mAlIj_JPEG/172658700248456028861d978a-1dd4-47c1-b4fc-d70221977bfa.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
