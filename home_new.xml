@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 04:03:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 04:53:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Rommie]]></title>
+            <link>https://www.vlive.tv/video/289268</link>
+            <guid>https://www.vlive.tv/video/289268</guid>
+            <pubDate>Sun, 07 Aug 2022 04:52:18 GMT</pubDate>
+            <content:encoded><![CDATA[PENTAGON]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/289268/thumb?type=f228_128" length="0" type="image//live/289268/thumb"/>
+        </item>
         <item>
             <title><![CDATA[우진이랑 힐링합시다]]></title>
             <link>https://www.vlive.tv/video/289263</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 06 Aug 2022 11:42:29 GMT</pubDate>
             <content:encoded><![CDATA[BVNDIT(밴디트)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220806_86/1659783101271mAlIj_JPEG/172658700248456028861d978a-1dd4-47c1-b4fc-d70221977bfa.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🥰4주년 디크런치🥰]]></title>
-            <link>https://www.vlive.tv/video/289250</link>
-            <guid>https://www.vlive.tv/video/289250</guid>
-            <pubDate>Sat, 06 Aug 2022 13:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[디크런치 (D_CRUNCH)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220806_264/16597818139319Hruj_JPEG/172570184918716823ef5ab9fa-590b-4906-9132-9063fc460294.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
