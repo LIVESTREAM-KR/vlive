@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 14:43:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 15:50:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20220731_2/1659268137433BGj8e_JPEG/upload_103347827911458282bd48d6c4-8f36-438a-a2f6-ba2270c410a6.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ENHYPEN (엔하이픈) MANIFESTO : DAY 1 'Foreshadow']]></title>
-            <link>https://www.vlive.tv/video/289199</link>
-            <guid>https://www.vlive.tv/video/289199</guid>
-            <pubDate>Sun, 07 Aug 2022 15:45:13 GMT</pubDate>
-            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220805_173/165968744691741pRl_JPEG/upload_75956713965229700855fc334-c0b9-49d2-824d-12083fe7cb32.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Run BTS! 2022 Special Episode Teaser]]></title>
             <link>https://www.vlive.tv/video/288779</link>
             <guid>https://www.vlive.tv/video/288779</guid>
             <pubDate>Fri, 05 Aug 2022 17:50:02 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220729_54/1659070165410OBr5e_PNG/upload_7533953619909729876d01a59-935b-4c7f-b56d-4e9022a684d2.png?type=f228_128_wp" length="0" type="image/png"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220729_54/1659070165410OBr5e_PNG/upload_7533953619909729876d01a59-935b-4c7f-b56d-4e9022a684d2.png?type=f380_213_wp" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[호비팔루자]]></title>
@@ -48,6 +40,14 @@
             <enclosure url="https://v-phinf.pstatic.net/20220801_144/1659326826203eDdGX_JPEG/100efed4-114f-11ed-b769-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[TO DO X TOMORROW X TOGETHER - EP.90]]></title>
+            <link>https://www.vlive.tv/video/288984</link>
+            <guid>https://www.vlive.tv/video/288984</guid>
+            <pubDate>Mon, 08 Aug 2022 13:23:13 GMT</pubDate>
+            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220802_226/1659440093740JC8lm_JPEG/upload_103519778686218182ef1c3d36-5d1f-4ed6-9ed3-92ad4c0c5c43.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[TREASURE - SPECIAL DANCE CHALLENGE HITS COMPILATION (2nd ANNIVER2ARY ver.)]]></title>
             <link>https://www.vlive.tv/video/289298</link>
             <guid>https://www.vlive.tv/video/289298</guid>
@@ -56,12 +56,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20220808_207/1659924232695gaNzX_JPEG/upload_104003805109373510085b3c48-c810-4d8f-ba56-1ea0d17a0df6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[TO DO X TOMORROW X TOGETHER - EP.90]]></title>
-            <link>https://www.vlive.tv/video/288984</link>
-            <guid>https://www.vlive.tv/video/288984</guid>
-            <pubDate>Mon, 08 Aug 2022 13:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220802_226/1659440093740JC8lm_JPEG/upload_103519778686218182ef1c3d36-5d1f-4ed6-9ed3-92ad4c0c5c43.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <title><![CDATA[ENHYPEN (엔하이픈) MANIFESTO : DAY 1 'Foreshadow']]></title>
+            <link>https://www.vlive.tv/video/289199</link>
+            <guid>https://www.vlive.tv/video/289199</guid>
+            <pubDate>Sun, 07 Aug 2022 15:45:13 GMT</pubDate>
+            <content:encoded><![CDATA[ENHYPEN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220805_173/165968744691741pRl_JPEG/upload_75956713965229700855fc334-c0b9-49d2-824d-12083fe7cb32.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
