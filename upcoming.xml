@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 14:02:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 14:43:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -264,14 +264,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220808_128/1659964501653zWDwt_JPEG/ef59ed7d-171a-11ed-88a6-505dac8c38f5_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[6주년🖤💗]]></title>
-            <link>https://www.vlive.tv/video/289334</link>
-            <guid>https://www.vlive.tv/video/289334</guid>
-            <pubDate>Mon, 08 Aug 2022 14:01:30 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:39]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220808_63/1659965944570Dr8xE_JPEG/99122427411624602bec002a0-91cc-4307-8272-b5e01724abc1.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[브이앱 맛 들림🙃]]></title>
             <link>https://www.vlive.tv/video/289330</link>
             <guid>https://www.vlive.tv/video/289330</guid>
@@ -302,6 +294,22 @@
             <pubDate>Mon, 08 Aug 2022 13:23:41 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:51]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220808_225/1659962498498lo3C1_JPEG/172750868489212235b95b4394-4517-4ae6-adf2-b4ab37e23da7.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[20220808 - 5주년 🎉❤️🧡💛]]></title>
+            <link>https://www.vlive.tv/video/289336</link>
+            <guid>https://www.vlive.tv/video/289336</guid>
+            <pubDate>Mon, 08 Aug 2022 14:43:05 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:20]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220808_70/1659968454055MDJG6_JPEG/172756825043445327b8341946-ccb8-40b4-8278-13981f3df36e.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE]]]></title>
+            <link>https://www.vlive.tv/video/289337</link>
+            <guid>https://www.vlive.tv/video/289337</guid>
+            <pubDate>Mon, 08 Aug 2022 14:43:05 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:34]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/289337/thumb?type=f228_128" length="0" type="image//live/289337/thumb"/>
         </item>
     </channel>
 </rss>

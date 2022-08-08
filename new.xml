@@ -4,9 +4,24 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 14:02:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 14:43:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[LIVE]]]></title>
+            <link>https://www.vlive.tv/video/289337</link>
+            <guid>https://www.vlive.tv/video/289337</guid>
+            <pubDate>Mon, 08 Aug 2022 14:42:16 GMT</pubDate>
+            <content:encoded><![CDATA[원호 (WONHO)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[20220808 - 5주년 🎉❤️🧡💛]]></title>
+            <link>https://www.vlive.tv/video/289336</link>
+            <guid>https://www.vlive.tv/video/289336</guid>
+            <pubDate>Mon, 08 Aug 2022 14:42:16 GMT</pubDate>
+            <content:encoded><![CDATA[Weki Meki]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220808_70/1659968454055MDJG6_JPEG/172756825043445327b8341946-ccb8-40b4-8278-13981f3df36e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[5주년 🤭]]></title>
             <link>https://www.vlive.tv/video/289332</link>
@@ -37,14 +52,6 @@
             <pubDate>Mon, 08 Aug 2022 11:40:11 GMT</pubDate>
             <content:encoded><![CDATA[TRENDZ (트렌드지)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220808_282/1659958290302Hb17B_JPEG/172833872298441258a1cf93b7-42cb-4154-b2e7-01725185a65d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[6주년🖤💗]]></title>
-            <link>https://www.vlive.tv/video/289334</link>
-            <guid>https://www.vlive.tv/video/289334</guid>
-            <pubDate>Mon, 08 Aug 2022 14:00:26 GMT</pubDate>
-            <content:encoded><![CDATA[BLACKPINK]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220808_63/1659965944570Dr8xE_JPEG/99122427411624602bec002a0-91cc-4307-8272-b5e01724abc1.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시훈이와 떠나요~ 냥냥이 탐구생활🐱🐱]]></title>
@@ -397,14 +404,6 @@
             <pubDate>Sun, 07 Aug 2022 13:44:56 GMT</pubDate>
             <content:encoded><![CDATA[MCND]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220807_69/1659879390021UaYSz_JPEG/17275497198874225443961815-54b4-4e36-9dcc-3f70b6b0bcf0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LIVE] TOKYO]]></title>
-            <link>https://www.vlive.tv/video/289281</link>
-            <guid>https://www.vlive.tv/video/289281</guid>
-            <pubDate>Sun, 07 Aug 2022 13:03:51 GMT</pubDate>
-            <content:encoded><![CDATA[원호 (WONHO)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220807_247/1659880720692VARwB_JPEG/8e615228-1654-11ed-a79b-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
