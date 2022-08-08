@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 22:45:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 23:45:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[선공개] 성민의 예나 케어 데이~🌿 식단을 피하고 싶은 예나의 꼼수🙄?!, MBC 220809 방송]]></title>
+            <link>https://www.vlive.tv/video/289344</link>
+            <guid>https://www.vlive.tv/video/289344</guid>
+            <pubDate>Mon, 08 Aug 2022 23:44:21 GMT</pubDate>
+            <content:encoded><![CDATA[MBC 예능]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220809_90/1660001918495iGiF1_JPEG/upload_7627152181632058931c44964-ff2f-43d2-bd46-42b4b8493374.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잠못 드는 밤 승구 등장(하마 v)]]></title>
             <link>https://www.vlive.tv/video/289338</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 08 Aug 2022 13:22:47 GMT</pubDate>
             <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220802_226/1659440093740JC8lm_JPEG/upload_103519778686218182ef1c3d36-5d1f-4ed6-9ed3-92ad4c0c5c43.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블리스 ZIP POP!]]></title>
-            <link>https://www.vlive.tv/video/289328</link>
-            <guid>https://www.vlive.tv/video/289328</guid>
-            <pubDate>Mon, 08 Aug 2022 11:40:21 GMT</pubDate>
-            <content:encoded><![CDATA[앨리스 (ALICE)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220808_76/1659956568879CoIgJ_JPEG/1727449694511828530b60c4de-8208-43ef-8735-6d4c8454c090.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
