@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 14:05:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 14:44:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[호비팔루자]]></title>
+            <link>https://www.vlive.tv/video/288913</link>
+            <guid>https://www.vlive.tv/video/288913</guid>
+            <pubDate>Tue, 09 Aug 2022 14:43:32 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220801_144/1659326826203eDdGX_JPEG/100efed4-114f-11ed-b769-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Run BTS! 2022 Special Episode Teaser]]></title>
             <link>https://www.vlive.tv/video/288779</link>
@@ -30,14 +38,6 @@
             <pubDate>Tue, 09 Aug 2022 13:26:17 GMT</pubDate>
             <content:encoded><![CDATA[TOMORROW X TOGETHER]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220802_226/1659440093740JC8lm_JPEG/upload_103519778686218182ef1c3d36-5d1f-4ed6-9ed3-92ad4c0c5c43.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찬이의 “방” 🐺 Ep. 169 - 빵빵~]]></title>
-            <link>https://www.vlive.tv/video/289286</link>
-            <guid>https://www.vlive.tv/video/289286</guid>
-            <pubDate>Mon, 08 Aug 2022 23:44:37 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220808_260/1659887473953Okdvz_JPEG/upload_103967206592446337da8bae31-6ded-4fa4-8dc4-3abd8437c80c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
