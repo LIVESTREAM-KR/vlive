@@ -4,9 +4,25 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 17:45:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 18:50:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오밤보고2]]></title>
+            <link>https://www.vlive.tv/video/289408</link>
+            <guid>https://www.vlive.tv/video/289408</guid>
+            <pubDate>Tue, 09 Aug 2022 18:49:21 GMT</pubDate>
+            <content:encoded><![CDATA[정승환(Jung Seung Hwan)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220810_55/1660070468273JjK2N_JPEG/780ded61-1812-11ed-a836-48df379cca40_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오밤보고]]></title>
+            <link>https://www.vlive.tv/video/289407</link>
+            <guid>https://www.vlive.tv/video/289407</guid>
+            <pubDate>Tue, 09 Aug 2022 18:49:21 GMT</pubDate>
+            <content:encoded><![CDATA[정승환(Jung Seung Hwan)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220810_45/1660066996575jnwk2_JPEG/a5082ff8-180a-11ed-8e5e-505dac8c38f5_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제발 부디,,]]></title>
             <link>https://www.vlive.tv/video/289403</link>
@@ -390,22 +406,6 @@
             <pubDate>Tue, 09 Aug 2022 02:56:59 GMT</pubDate>
             <content:encoded><![CDATA[K-Arts Theater 한예종 예술극장]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220809_169/1660011540362AJMIN_PNG/upload_104091271336060723ad0fa825-1fc9-4189-9fb2-8141b6eef87c.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Welcome to Korea with Kim Min Ji]]></title>
-            <link>https://www.vlive.tv/video/289077</link>
-            <guid>https://www.vlive.tv/video/289077</guid>
-            <pubDate>Tue, 09 Aug 2022 02:56:59 GMT</pubDate>
-            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220804_288/1659585749261ijfL1_JPEG/upload_103665467794237017f32b23cd-cada-4a80-896f-d99f4dcffcea.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 또 다른 365일 | 공식 예고편]]></title>
-            <link>https://www.vlive.tv/video/289346</link>
-            <guid>https://www.vlive.tv/video/289346</guid>
-            <pubDate>Tue, 09 Aug 2022 02:56:59 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 (Netflixkr)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220809_142/1660008114950mxHCd_JPEG/upload_1040878319918534047a96fd05-4aa6-4174-81ec-6941172029aa.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
