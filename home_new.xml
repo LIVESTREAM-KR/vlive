@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 17:01:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 17:45:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오밤보고]]></title>
+            <link>https://www.vlive.tv/video/289407</link>
+            <guid>https://www.vlive.tv/video/289407</guid>
+            <pubDate>Tue, 09 Aug 2022 17:44:14 GMT</pubDate>
+            <content:encoded><![CDATA[정승환(Jung Seung Hwan)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220810_45/1660066996575jnwk2_JPEG/a5082ff8-180a-11ed-8e5e-505dac8c38f5_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제발 부디,,]]></title>
             <link>https://www.vlive.tv/video/289403</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 09 Aug 2022 13:26:02 GMT</pubDate>
             <content:encoded><![CDATA[YOUNITE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220809_216/1660050303549W7tx2_JPEG/1f250c7a-17e3-11ed-b4d4-d4f5ef58ac88_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안전하게 귀가😸]]></title>
-            <link>https://www.vlive.tv/video/289388</link>
-            <guid>https://www.vlive.tv/video/289388</guid>
-            <pubDate>Tue, 09 Aug 2022 13:26:02 GMT</pubDate>
-            <content:encoded><![CDATA[TRENDZ (트렌드지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220809_87/1660046110413yGxar_JPEG/172834481410484291d6e87d9a-c92a-4409-bbed-3b4da7618694.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
