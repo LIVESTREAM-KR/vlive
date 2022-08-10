@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 04:52:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 05:42:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,20 +48,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220809_182/16600570109348S4kD_JPEG/603231ad-17f2-11ed-b1f2-48df379ccacc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[🐶]]></title>
+            <link>https://www.vlive.tv/video/289419</link>
+            <guid>https://www.vlive.tv/video/289419</guid>
+            <pubDate>Wed, 10 Aug 2022 05:41:49 GMT</pubDate>
+            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220810_223/1660107262941K4D68_JPEG/4279feff-1868-11ed-b440-505dacfba98a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Run BTS! 2022 Special Episode Teaser]]></title>
             <link>https://www.vlive.tv/video/288779</link>
             <guid>https://www.vlive.tv/video/288779</guid>
             <pubDate>Fri, 05 Aug 2022 17:50:02 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220729_54/1659070165410OBr5e_PNG/upload_7533953619909729876d01a59-935b-4c7f-b56d-4e9022a684d2.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[']]></title>
-            <link>https://www.vlive.tv/video/289411</link>
-            <guid>https://www.vlive.tv/video/289411</guid>
-            <pubDate>Wed, 10 Aug 2022 03:28:25 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220810_192/1660093670719Popv4_JPEG/3b081258-1848-11ed-88c7-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
