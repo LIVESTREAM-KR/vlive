@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 23:45:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 02:25:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthew]]></title>
-            <link>https://m.vlive.tv/video/289078</link>
-            <guid>https://m.vlive.tv/video/289078</guid>
-            <pubDate>Mon, 08 Aug 2022 04:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220804_230/1659585779683P8gBx_JPEG/upload_1036654950008128469f52d6a8-f37d-4c09-92e6-b75e62388658.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio/K-Poppin'] Medical Translator Lee Jin Joo / 의료통역사 이진주]]></title>
             <link>https://m.vlive.tv/video/289353</link>
@@ -106,6 +96,16 @@
 										오후 2:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220804_286/165958599392933ouV_JPEG/upload_103665695386089955a0f5a62e-8918-459e-93e8-aba199b75f5d.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop] Topic Song with BÉBE YANA , Jogon of 9001]]></title>
+            <link>https://m.vlive.tv/video/289088</link>
+            <guid>https://m.vlive.tv/video/289088</guid>
+            <pubDate>Wed, 10 Aug 2022 02:24:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 4:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220804_267/1659586099446CE2C4_JPEG/upload_10366579600694732461d8169b-3c5e-4901-aff1-27b7341cc50c.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
