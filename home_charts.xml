@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 22:45:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 23:44:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220810_223/1660107262941K4D68_JPEG/4279feff-1868-11ed-b440-505dacfba98a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[호비팔루자]]></title>
-            <link>https://www.vlive.tv/video/288913</link>
-            <guid>https://www.vlive.tv/video/288913</guid>
-            <pubDate>Wed, 10 Aug 2022 11:40:51 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220801_144/1659326826203eDdGX_JPEG/100efed4-114f-11ed-b769-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[']]></title>
             <link>https://www.vlive.tv/video/289411</link>
             <guid>https://www.vlive.tv/video/289411</guid>
             <pubDate>Wed, 10 Aug 2022 13:55:49 GMT</pubDate>
             <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220810_192/1660093670719Popv4_JPEG/3b081258-1848-11ed-88c7-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[호비팔루자]]></title>
+            <link>https://www.vlive.tv/video/288913</link>
+            <guid>https://www.vlive.tv/video/288913</guid>
+            <pubDate>Wed, 10 Aug 2022 11:40:51 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220801_144/1659326826203eDdGX_JPEG/100efed4-114f-11ed-b769-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
