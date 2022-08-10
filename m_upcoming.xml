@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 14:43:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 15:47:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,16 @@
 										오후 8:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220809_146/1659983026753uBaSE_JPEG/upload_10406268126653101394935373-e59b-466c-8c38-03e98135482f.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유찬이 하고 싶은 거 다 해]]></title>
+            <link>https://m.vlive.tv/video/289464</link>
+            <guid>https://m.vlive.tv/video/289464</guid>
+            <pubDate>Wed, 10 Aug 2022 15:46:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 8:00</span>
+										<span class="txt">에이스(A.C.E)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220810_6/1660136404363hdts1_JPEG/upload_10421507088049993835b5ca24-a323-4c4f-9069-cd95aaade352.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
