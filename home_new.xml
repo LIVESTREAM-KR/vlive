@@ -4,17 +4,9 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 17:05:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 17:48:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[I am going to sleep soon]]></title>
-            <link>https://www.vlive.tv/video/289470</link>
-            <guid>https://www.vlive.tv/video/289470</guid>
-            <pubDate>Wed, 10 Aug 2022 17:03:53 GMT</pubDate>
-            <content:encoded><![CDATA[sema]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220811_239/1660147400042NiQHE_JPEG/172935770970232545260a86ed-5001-40ef-89aa-64ddda866707.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[안녕]]></title>
             <link>https://www.vlive.tv/video/289471</link>
@@ -22,6 +14,14 @@
             <pubDate>Wed, 10 Aug 2022 17:03:53 GMT</pubDate>
             <content:encoded><![CDATA[sema]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220811_269/16601487590512rd0w_JPEG/173024373045815792678e5413-474f-4527-be18-413d7b795d13.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I am going to sleep soon]]></title>
+            <link>https://www.vlive.tv/video/289470</link>
+            <guid>https://www.vlive.tv/video/289470</guid>
+            <pubDate>Wed, 10 Aug 2022 17:03:53 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220811_239/1660147400042NiQHE_JPEG/172935770970232545260a86ed-5001-40ef-89aa-64ddda866707.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새벽반 모여라]]></title>
