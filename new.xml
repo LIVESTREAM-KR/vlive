@@ -4,15 +4,32 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 15:47:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 17:05:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[I am going to sleep soon]]></title>
+            <link>https://www.vlive.tv/video/289470</link>
+            <guid>https://www.vlive.tv/video/289470</guid>
+            <pubDate>Wed, 10 Aug 2022 17:03:45 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220811_239/1660147400042NiQHE_JPEG/172935770970232545260a86ed-5001-40ef-89aa-64ddda866707.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안녕]]></title>
+            <link>https://www.vlive.tv/video/289471</link>
+            <guid>https://www.vlive.tv/video/289471</guid>
+            <pubDate>Wed, 10 Aug 2022 17:03:45 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220811_269/16601487590512rd0w_JPEG/173024373045815792678e5413-474f-4527-be18-413d7b795d13.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새벽반 모여라]]></title>
             <link>https://www.vlive.tv/video/289468</link>
             <guid>https://www.vlive.tv/video/289468</guid>
             <pubDate>Wed, 10 Aug 2022 15:45:47 GMT</pubDate>
             <content:encoded><![CDATA[GROOVL1N]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220811_25/1660148672411b5VC7_JPEG/15bb3717-18c8-11ed-88c7-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[꾸안꾸 여름 옷 코디👚 지그재그 패션 하울‼️ 절대 실패 없는 데일리룩 14가지]]></title>
@@ -389,22 +406,6 @@
             <pubDate>Wed, 10 Aug 2022 04:51:12 GMT</pubDate>
             <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220810_213/1660107828161mVWwA_JPEG/857e6806-1869-11ed-88c7-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio/K-Poppin'] Medical Translator Lee Jin Joo / 의료통역사 이진주]]></title>
-            <link>https://www.vlive.tv/video/289353</link>
-            <guid>https://www.vlive.tv/video/289353</guid>
-            <pubDate>Wed, 10 Aug 2022 03:55:17 GMT</pubDate>
-            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220809_71/1660023673182e5tf7_PNG/upload_1041033640011455881ff756ed-a392-43bf-b436-a3f77fb926d3.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[🐶]]></title>
-            <link>https://www.vlive.tv/video/289419</link>
-            <guid>https://www.vlive.tv/video/289419</guid>
-            <pubDate>Wed, 10 Aug 2022 04:51:12 GMT</pubDate>
-            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220810_223/1660107262941K4D68_JPEG/4279feff-1868-11ed-b440-505dacfba98a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
