@@ -4,9 +4,32 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 23:44:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 02:38:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🎀]]></title>
+            <link>https://www.vlive.tv/video/289473</link>
+            <guid>https://www.vlive.tv/video/289473</guid>
+            <pubDate>Thu, 11 Aug 2022 02:36:39 GMT</pubDate>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
+            <link>https://www.vlive.tv/video/289359</link>
+            <guid>https://www.vlive.tv/video/289359</guid>
+            <pubDate>Thu, 11 Aug 2022 02:36:39 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220809_291/1660025829518G2dCy_JPEG/upload_1041055431702609677283bfa4-e900-48f7-9701-c829dfbbe74f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 수리남 | 티저 예고편]]></title>
+            <link>https://www.vlive.tv/video/289433</link>
+            <guid>https://www.vlive.tv/video/289433</guid>
+            <pubDate>Thu, 11 Aug 2022 02:36:39 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스 (Netflixkr)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220810_41/1660123785098dozWI_JPEG/upload_76393381533895140f4ea88db-086b-4e6f-b10c-80cce6842097.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안녕]]></title>
             <link>https://www.vlive.tv/video/289471</link>
@@ -382,30 +405,6 @@
             <pubDate>Wed, 10 Aug 2022 05:41:15 GMT</pubDate>
             <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220804_241/1659585960089r68Vo_JPEG/upload_103665663926687157f42bdbb0-0901-4d54-aec7-e1136543c267.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🐻🐳 이것저것 다 하는 시간😄]]></title>
-            <link>https://www.vlive.tv/video/289422</link>
-            <guid>https://www.vlive.tv/video/289422</guid>
-            <pubDate>Wed, 10 Aug 2022 07:41:38 GMT</pubDate>
-            <content:encoded><![CDATA[ICHILLIN’]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220810_98/1660114522334AXPI4_JPEG/0c2f455a-1878-11ed-9ff1-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Short one]]></title>
-            <link>https://www.vlive.tv/video/289424</link>
-            <guid>https://www.vlive.tv/video/289424</guid>
-            <pubDate>Wed, 10 Aug 2022 06:51:31 GMT</pubDate>
-            <content:encoded><![CDATA[sema]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220810_243/1660110759786WdTTn_JPEG/82163198250847342694398a6-7744-4e32-a480-67161d27f2c8.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[💙]]></title>
-            <link>https://www.vlive.tv/video/289418</link>
-            <guid>https://www.vlive.tv/video/289418</guid>
-            <pubDate>Wed, 10 Aug 2022 04:51:12 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220810_213/1660107828161mVWwA_JPEG/857e6806-1869-11ed-88c7-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
