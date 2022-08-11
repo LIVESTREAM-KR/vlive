@@ -4,17 +4,9 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 04:04:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 04:56:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[혀비랑 놀사람]]></title>
-            <link>https://www.vlive.tv/video/289478</link>
-            <guid>https://www.vlive.tv/video/289478</guid>
-            <pubDate>Thu, 11 Aug 2022 04:03:01 GMT</pubDate>
-            <content:encoded><![CDATA[DRIPPIN]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/289478/thumb?type=f228_128" length="0" type="image//live/289478/thumb"/>
-        </item>
         <item>
             <title><![CDATA[🎀]]></title>
             <link>https://www.vlive.tv/video/289473</link>
@@ -22,14 +14,6 @@
             <pubDate>Thu, 11 Aug 2022 02:36:47 GMT</pubDate>
             <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220811_255/1660189147125gOqcU_JPEG/2741f8ff-1926-11ed-997e-d4f5ef5906a4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠깐 하이키 등장 🌈]]></title>
-            <link>https://www.vlive.tv/video/289476</link>
-            <guid>https://www.vlive.tv/video/289476</guid>
-            <pubDate>Thu, 11 Aug 2022 04:03:01 GMT</pubDate>
-            <content:encoded><![CDATA[H1-KEY]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/289476/thumb?type=f228_128" length="0" type="image//live/289476/thumb"/>
         </item>
         <item>
             <title><![CDATA[2022 LEO 3rd CONCERT Piano man Op. 9 Teaser]]></title>
@@ -126,6 +110,22 @@
             <pubDate>Wed, 10 Aug 2022 15:45:57 GMT</pubDate>
             <content:encoded><![CDATA[LIZ ENT]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220810_136/16601427874185vMTa_JPEG/2723fe6c-18b9-11ed-8198-505dac8c3639_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수박과 멜론의 사이]]></title>
+            <link>https://www.vlive.tv/video/289465</link>
+            <guid>https://www.vlive.tv/video/289465</guid>
+            <pubDate>Thu, 11 Aug 2022 04:54:42 GMT</pubDate>
+            <content:encoded><![CDATA[루미너스 (LUMINOUS)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220810_139/1660137125621KxG75_JPEG/172925581616919175d23bdc0a-340b-4e15-a969-e9991fa07d1e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현진이의 연습실 #11😎]]></title>
+            <link>https://www.vlive.tv/video/289466</link>
+            <guid>https://www.vlive.tv/video/289466</guid>
+            <pubDate>Thu, 11 Aug 2022 04:54:42 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220810_115/1660142752215yhGJI_JPEG/bf72b5ee-18b0-11ed-b4d4-d4f5ef58ac88_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
