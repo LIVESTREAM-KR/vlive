@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 17:44:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 18:51:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Veeeery short]]></title>
+            <link>https://www.vlive.tv/video/289541</link>
+            <guid>https://www.vlive.tv/video/289541</guid>
+            <pubDate>Thu, 11 Aug 2022 18:50:35 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220812_161/1660243088688SLgM8_JPEG/1730314626776394410b85f21f-c261-4be4-9a26-d77e0d669b0a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[LIVE] 승식이랑]]></title>
             <link>https://www.vlive.tv/video/289536</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 11 Aug 2022 13:20:47 GMT</pubDate>
             <content:encoded><![CDATA[IRRIS (아이리스)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220811_132/1660219328473OdEeo_JPEG/82271767009157186975494a9-df43-4fa8-b9cf-f0f76542e4ef.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[짱이엘의 첫 돌잔치에 놀러와 👼🏻🎊💕]]></title>
-            <link>https://www.vlive.tv/video/289439</link>
-            <guid>https://www.vlive.tv/video/289439</guid>
-            <pubDate>Thu, 11 Aug 2022 11:40:47 GMT</pubDate>
-            <content:encoded><![CDATA[Hi-L (하이엘)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220810_281/1660120538823hyiN5_JPEG/upload_1041950913850982620d4a6f92-15f2-462c-af57-04f785809aaf.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

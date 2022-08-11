@@ -4,16 +4,24 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 17:44:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 18:51:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Veeeery short]]></title>
+            <link>https://www.vlive.tv/video/289541</link>
+            <guid>https://www.vlive.tv/video/289541</guid>
+            <pubDate>Thu, 11 Aug 2022 18:50:27 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220812_161/1660243088688SLgM8_JPEG/1730314626776394410b85f21f-c261-4be4-9a26-d77e0d669b0a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[LIVE] 승식이랑]]></title>
             <link>https://www.vlive.tv/video/289536</link>
             <guid>https://www.vlive.tv/video/289536</guid>
             <pubDate>Thu, 11 Aug 2022 14:41:51 GMT</pubDate>
             <content:encoded><![CDATA[원호 (WONHO)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220812_180/16602395242150TxdE_JPEG/c96396ce-1992-11ed-9c37-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220812_92/1660239778117Q6tzl_JPEG/upload_104319510521084821923e0463-e524-47be-afdf-ca955cd24af1.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마무리는 재현이랑 🫶🏻]]></title>
@@ -398,14 +406,6 @@
             <pubDate>Thu, 11 Aug 2022 05:41:24 GMT</pubDate>
             <content:encoded><![CDATA[DRIPPIN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220811_182/16601978345754KYK9_JPEG/0ce08917-193b-11ed-ac30-505dac8c37f3_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[ #리아 ] 랴💙]]></title>
-            <link>https://www.vlive.tv/video/289483</link>
-            <guid>https://www.vlive.tv/video/289483</guid>
-            <pubDate>Thu, 11 Aug 2022 06:52:46 GMT</pubDate>
-            <content:encoded><![CDATA[ITZY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220811_7/1660197027734Pd7Im_JPEG/d71b755a-1937-11ed-bc04-d4f5ef590144_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
