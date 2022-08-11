@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 06:54:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 07:43:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,6 +36,16 @@
 										오전 10:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220804_267/165958584398638tV5_JPEG/upload_75855432676833383a4be8e2f-eb4b-45b1-80df-45b180afe43e.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🎉HAPPY YUJIN DAY💜]]></title>
+            <link>https://m.vlive.tv/video/289491</link>
+            <guid>https://m.vlive.tv/video/289491</guid>
+            <pubDate>Thu, 11 Aug 2022 07:43:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 12:30</span>
+										<span class="txt">Kep1er</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220811_159/1660201203216Ud10k_PNG/upload_1042769172548365698ddf598c-d0df-4a88-88d5-6d833eb42e0b.png?type=f274_154" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Simply K-Pop CON-TOUR (심플리케이팝 콘투어) Ep.532]]></title>
@@ -86,16 +96,6 @@
 										오후 8:00</span>
 										<span class="txt">에이스(A.C.E)</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220810_6/1660136404363hdts1_JPEG/upload_10421507088049993835b5ca24-a323-4c4f-9069-cd95aaade352.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Welcome to Korea with Kim Min Ji]]></title>
-            <link>https://m.vlive.tv/video/289357</link>
-            <guid>https://m.vlive.tv/video/289357</guid>
-            <pubDate>Thu, 11 Aug 2022 05:42:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220809_88/1660025726112T2NJR_JPEG/upload_1041054209793716369cf9d253-c2ff-48b7-ad10-c80d7bf49fbf.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

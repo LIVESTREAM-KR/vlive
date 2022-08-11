@@ -4,7 +4,7 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 06:54:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 07:43:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Thu, 11 Aug 2022 05:41:24 GMT</pubDate>
             <content:encoded><![CDATA[ARIRANG K Pop │ 아리랑케이팝]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220811_53/16601941441613L5aW_PNG/upload_10427387111903847313ce4eab-28f0-4846-98d1-d6e9a884ddd1.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[혀비랑 놀사람]]></title>
+            <link>https://www.vlive.tv/video/289478</link>
+            <guid>https://www.vlive.tv/video/289478</guid>
+            <pubDate>Thu, 11 Aug 2022 07:42:15 GMT</pubDate>
+            <content:encoded><![CDATA[DRIPPIN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220811_216/166020083120173kTO_JPEG/395f836d-1942-11ed-9c37-505dac8c35ff_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[🎀]]></title>
@@ -398,14 +406,6 @@
             <pubDate>Wed, 10 Aug 2022 07:41:38 GMT</pubDate>
             <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220803_71/1659510803345p2U53_JPEG/upload_103590354164473912d7de7fa6-a940-4a21-a5e0-ce5608e93c3d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3YE(써드아이) | 밖유림 EP 01. 삐빅- 핫플 막차입니다 (feat. 손리다)]]></title>
-            <link>https://www.vlive.tv/video/289436</link>
-            <guid>https://www.vlive.tv/video/289436</guid>
-            <pubDate>Wed, 10 Aug 2022 09:44:32 GMT</pubDate>
-            <content:encoded><![CDATA[3YE (써드아이)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220810_215/1660120003711ykwVX_JPEG/upload_104199665195688637b396e378-5c5f-420a-b43f-200eaa6c55ab.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

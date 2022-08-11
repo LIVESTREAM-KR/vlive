@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 06:54:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 07:43:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Thu, 11 Aug 2022 05:41:32 GMT</pubDate>
             <content:encoded><![CDATA[ARIRANG K Pop │ 아리랑케이팝]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220811_53/16601941441613L5aW_PNG/upload_10427387111903847313ce4eab-28f0-4846-98d1-d6e9a884ddd1.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[혀비랑 놀사람]]></title>
+            <link>https://www.vlive.tv/video/289478</link>
+            <guid>https://www.vlive.tv/video/289478</guid>
+            <pubDate>Thu, 11 Aug 2022 07:42:25 GMT</pubDate>
+            <content:encoded><![CDATA[DRIPPIN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220811_216/166020083120173kTO_JPEG/395f836d-1942-11ed-9c37-505dac8c35ff_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[🎀]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 10 Aug 2022 15:45:57 GMT</pubDate>
             <content:encoded><![CDATA[GROOVL1N]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220811_25/1660148672411b5VC7_JPEG/15bb3717-18c8-11ed-88c7-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[꾸안꾸 여름 옷 코디👚 지그재그 패션 하울‼️ 절대 실패 없는 데일리룩 14가지]]></title>
-            <link>https://www.vlive.tv/video/289455</link>
-            <guid>https://www.vlive.tv/video/289455</guid>
-            <pubDate>Wed, 10 Aug 2022 15:45:57 GMT</pubDate>
-            <content:encoded><![CDATA[MisoJeong]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220810_134/1660130307454coyOT_PNG/upload_763984308408272051a0baec0-48f8-42f2-8de7-c7ba857b5a98.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
