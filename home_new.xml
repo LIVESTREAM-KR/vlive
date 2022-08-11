@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 22:44:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 23:44:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[서랍 속의 작품] 뮤직비디오 〈나비 되어〉 - 나비 되어 프로젝트 (연극원 음악극창작협동과정)]]></title>
+            <link>https://www.vlive.tv/video/289542</link>
+            <guid>https://www.vlive.tv/video/289542</guid>
+            <pubDate>Thu, 11 Aug 2022 23:43:21 GMT</pubDate>
+            <content:encoded><![CDATA[K-Arts Theater 한예종 예술극장]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220812_131/1660260609511WhhfP_JPEG/upload_76530210568569963b8b12dd0-90be-43e8-9282-6195d6943f18.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Veeeery short]]></title>
             <link>https://www.vlive.tv/video/289541</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 11 Aug 2022 11:40:47 GMT</pubDate>
             <content:encoded><![CDATA[송유빈  Song Yuvin]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220811_221/1660222011714Rp4tu_JPEG/a8f24862-1972-11ed-a59e-d4f5ef58ad5e_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤슬이랑 놀 사람-💓(feat.???)]]></title>
-            <link>https://www.vlive.tv/video/289525</link>
-            <guid>https://www.vlive.tv/video/289525</guid>
-            <pubDate>Thu, 11 Aug 2022 13:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[IRRIS (아이리스)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220811_132/1660219328473OdEeo_JPEG/82271767009157186975494a9-df43-4fa8-b9cf-f0f76542e4ef.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
