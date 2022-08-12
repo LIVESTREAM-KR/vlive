@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ CHARTS TOP3</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 17:05:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 17:47:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220812_184/1660267180739dbO4F_JPEG/upload_7653664745784891036003de2-1b0e-4eb7-91a6-d9c73a3f1f9b.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[BLACKPINK - ‘Pink Venom’ LISA Concept Teaser]]></title>
-            <link>https://www.vlive.tv/video/289546</link>
-            <guid>https://www.vlive.tv/video/289546</guid>
-            <pubDate>Fri, 12 Aug 2022 17:04:38 GMT</pubDate>
-            <content:encoded><![CDATA[BLACKPINK]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220812_288/16602675634257LfkQ_JPEG/upload_104347242852380633fd9987a0-9845-450a-8bc1-e340512c5889.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[현진 "ice.cream" | [Stray Kids(스트레이 키즈) : SKZ-RECORD(슼즈 레코드)]]]></title>
             <link>https://www.vlive.tv/video/289558</link>
             <guid>https://www.vlive.tv/video/289558</guid>
             <pubDate>Fri, 12 Aug 2022 17:04:38 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220812_105/1660276620977iniJu_PNG/upload_10435314195256108162c8e7b4-8e01-4353-be89-1ba8537116f4.png?type=f380_213_wp" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[BLACKPINK - ‘Pink Venom’ LISA Concept Teaser]]></title>
+            <link>https://www.vlive.tv/video/289546</link>
+            <guid>https://www.vlive.tv/video/289546</guid>
+            <pubDate>Fri, 12 Aug 2022 17:04:38 GMT</pubDate>
+            <content:encoded><![CDATA[BLACKPINK]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220812_288/16602675634257LfkQ_JPEG/upload_104347242852380633fd9987a0-9845-450a-8bc1-e340512c5889.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
