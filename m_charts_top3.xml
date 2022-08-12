@@ -4,17 +4,9 @@
         <title>V LIVE 모바일 ─ CHARTS </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 14:44:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 15:50:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[생일 마지막은 스테이랑🐷🐰💕]]></title>
-            <link>https://m.vlive.tv/video/289531</link>
-            <guid>https://m.vlive.tv/video/289531</guid>
-            <pubDate>Thu, 11 Aug 2022 14:42:35 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220811_283/16602277003355qfOW_PNG/upload_764973045596011558b6d45fc-4e95-487f-98c8-9d5bb80fe891.png?type=f640_360_wp" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[BLACKPINK - 'Pink Venom' JISOO Concept Teaser]]></title>
             <link>https://m.vlive.tv/video/289514</link>
@@ -30,6 +22,14 @@
             <pubDate>Fri, 12 Aug 2022 10:48:11 GMT</pubDate>
             <content:encoded><![CDATA[BLACKPINK]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220811_254/1660212620338k1Xrx_JPEG/upload_76482131043354102eb9295e9-9d26-4a9c-b909-9e7a11924a3e.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[생일 마지막은 스테이랑🐷🐰💕]]></title>
+            <link>https://m.vlive.tv/video/289531</link>
+            <guid>https://m.vlive.tv/video/289531</guid>
+            <pubDate>Thu, 11 Aug 2022 14:42:35 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220811_283/16602277003355qfOW_PNG/upload_764973045596011558b6d45fc-4e95-487f-98c8-9d5bb80fe891.png?type=f640_360_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
