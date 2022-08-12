@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 06:52:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 07:42:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,6 +40,14 @@
             <enclosure url="https://v-phinf.pstatic.net/20220811_254/1660212620338k1Xrx_JPEG/upload_76482131043354102eb9295e9-9d26-4a9c-b909-9e7a11924a3e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[BLACKPINK - ‘Pink Venom’ ROSÉ Concept Teaser]]></title>
+            <link>https://www.vlive.tv/video/289545</link>
+            <guid>https://www.vlive.tv/video/289545</guid>
+            <pubDate>Fri, 12 Aug 2022 06:51:54 GMT</pubDate>
+            <content:encoded><![CDATA[BLACKPINK]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220812_184/1660267180739dbO4F_JPEG/upload_7653664745784891036003de2-1b0e-4eb7-91a6-d9c73a3f1f9b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BLACKPINK - ‘Pink Venom’ LISA Concept Teaser]]></title>
             <link>https://www.vlive.tv/video/289546</link>
             <guid>https://www.vlive.tv/video/289546</guid>
@@ -54,14 +62,6 @@
             <pubDate>Wed, 10 Aug 2022 14:42:31 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220810_20/1660142774856RDaOP_JPEG/upload_764123777343893920e9637cd-c9e6-4325-b671-5275f1fe54a0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BLACKPINK - ‘Pink Venom’ ROSÉ Concept Teaser]]></title>
-            <link>https://www.vlive.tv/video/289545</link>
-            <guid>https://www.vlive.tv/video/289545</guid>
-            <pubDate>Fri, 12 Aug 2022 06:51:54 GMT</pubDate>
-            <content:encoded><![CDATA[BLACKPINK]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220812_184/1660267180739dbO4F_JPEG/upload_7653664745784891036003de2-1b0e-4eb7-91a6-d9c73a3f1f9b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

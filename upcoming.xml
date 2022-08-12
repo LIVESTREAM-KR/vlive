@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 06:52:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 07:42:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,14 +248,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220812_3/1660279293916rzmg7_JPEG/upload_76548863508456459ffaf40f1-4b8f-461d-b6af-460c93c4466d.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[Arirang Radio / Sound K] Hey! Ladies Kode~ with Sojung&Zuny 소정 &주니]]></title>
-            <link>https://www.vlive.tv/video/289084</link>
-            <guid>https://www.vlive.tv/video/289084</guid>
-            <pubDate>Thu, 11 Aug 2022 23:44:04 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:51]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220804_286/165958599392933ouV_JPEG/upload_103665695386089955a0f5a62e-8918-459e-93e8-aba199b75f5d.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Simply K-Pop CON-TOUR (심플리케이팝 콘투어) Ep.532]]></title>
             <link>https://www.vlive.tv/video/289426</link>
             <guid>https://www.vlive.tv/video/289426</guid>
@@ -308,8 +300,16 @@
             <link>https://www.vlive.tv/video/289088</link>
             <guid>https://www.vlive.tv/video/289088</guid>
             <pubDate>Thu, 11 Aug 2022 23:44:04 GMT</pubDate>
-            <content:encoded><![CDATA[오후 4:00]]></content:encoded>
+            <content:encoded><![CDATA[오후 3:57]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220804_267/1659586099446CE2C4_JPEG/upload_10366579600694732461d8169b-3c5e-4901-aff1-27b7341cc50c.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Sound K] Hey! Ladies Kode~ with Sojung&Zuny 소정 &주니]]></title>
+            <link>https://www.vlive.tv/video/289084</link>
+            <guid>https://www.vlive.tv/video/289084</guid>
+            <pubDate>Thu, 11 Aug 2022 23:44:04 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:05]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220804_286/165958599392933ouV_JPEG/upload_103665695386089955a0f5a62e-8918-459e-93e8-aba199b75f5d.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Arirang Radio (Radio'n Us / Hwang YunJin 황윤진 (밴드: FOOL IN THE POOL)]]></title>
