@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 05:00:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 05:43:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,16 @@
 										오전 10:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220809_88/1660025726112T2NJR_JPEG/upload_1041054209793716369cf9d253-c2ff-48b7-ad10-c80d7bf49fbf.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ASC Live Ep.535 (ATBO / 에이티비오)]]></title>
+            <link>https://m.vlive.tv/video/289580</link>
+            <guid>https://m.vlive.tv/video/289580</guid>
+            <pubDate>Fri, 12 Aug 2022 05:43:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 1:00</span>
+										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220812_243/1660282239628N5I2x_PNG/upload_10436192114946232748698b4a-624b-46d2-9388-dadfa884ff9a.png?type=f274_154" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio / Sound K] Mystery Mix with BOiTELLO 보이텔로]]></title>
@@ -96,16 +106,6 @@
 										오전 10:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220809_76/16600260620506nxkz_JPEG/upload_1041057461418639773e4f7116-0c42-4a59-bd8b-3645ea69ea8f.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Super K-Pop] Stray Quiz]]></title>
-            <link>https://m.vlive.tv/video/289366</link>
-            <guid>https://m.vlive.tv/video/289366</guid>
-            <pubDate>Fri, 12 Aug 2022 04:59:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 4:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220809_265/1660026263816kP104_JPEG/upload_104105973986497424fdccfb13-9771-4035-9872-0bcc9ab51d8f.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
