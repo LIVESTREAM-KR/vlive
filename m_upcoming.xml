@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 10:48:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 11:40:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Radio'n Us / Hwang YunJin 황윤진 (밴드: FOOL IN THE POOL)]]></title>
-            <link>https://m.vlive.tv/video/289343</link>
-            <guid>https://m.vlive.tv/video/289343</guid>
-            <pubDate>Wed, 10 Aug 2022 03:56:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 8:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220809_146/1659983026753uBaSE_JPEG/upload_10406268126653101394935373-e59b-466c-8c38-03e98135482f.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유찬이 하고 싶은 거 다 해]]></title>
-            <link>https://m.vlive.tv/video/289464</link>
-            <guid>https://m.vlive.tv/video/289464</guid>
-            <pubDate>Wed, 10 Aug 2022 15:46:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 8:00</span>
-										<span class="txt">에이스(A.C.E)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220810_6/1660136404363hdts1_JPEG/upload_10421507088049993835b5ca24-a323-4c4f-9069-cd95aaade352.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Welcome to Korea with Kim Min Ji]]></title>
             <link>https://m.vlive.tv/video/289357</link>
@@ -106,6 +86,26 @@
 										오후 4:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220809_265/1660026263816kP104_JPEG/upload_104105973986497424fdccfb13-9771-4035-9872-0bcc9ab51d8f.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[145회 아트엠콘서트, 비올리스트 김세준]]></title>
+            <link>https://m.vlive.tv/video/288141</link>
+            <guid>https://m.vlive.tv/video/288141</guid>
+            <pubDate>Fri, 12 Aug 2022 11:40:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 7:20</span>
+										<span class="txt">ARTMCONCERT</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220720_225/1658303418295oLGwF_PNG/upload_74572986737943995c199e3f9-c6c5-4e72-8ab9-4fbbfbac5195.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
+            <link>https://m.vlive.tv/video/289360</link>
+            <guid>https://m.vlive.tv/video/289360</guid>
+            <pubDate>Fri, 12 Aug 2022 11:40:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220809_127/1660025909008cahjb_JPEG/upload_104105583016122226f999f8b2-5386-4aa0-a167-dbfaf58ba033.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
