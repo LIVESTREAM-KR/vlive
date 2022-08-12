@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 18:51:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 19:41:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 12 Aug 2022 17:46:40 GMT</pubDate>
             <content:encoded><![CDATA[BLACKPINK]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220812_174/1660303272358eVpwq_JPEG/upload_765727323623966649375fe10-f7fd-4950-849a-989f72d394fe.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🎉HAPPY YUJIN DAY💜]]></title>
+            <link>https://www.vlive.tv/video/289491</link>
+            <guid>https://www.vlive.tv/video/289491</guid>
+            <pubDate>Fri, 12 Aug 2022 11:39:37 GMT</pubDate>
+            <content:encoded><![CDATA[Kep1er]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220811_159/1660201203216Ud10k_PNG/upload_1042769172548365698ddf598c-d0df-4a88-88d5-6d833eb42e0b.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[생일 마지막은 스테이랑🐷🐰💕]]></title>
@@ -30,14 +38,6 @@
             <pubDate>Fri, 12 Aug 2022 17:04:46 GMT</pubDate>
             <content:encoded><![CDATA[BLACKPINK]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220811_273/1660212303200xUkAQ_JPEG/upload_764818825492141525f9a2273-45ec-418e-999f-1b5573c26c70.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🎉HAPPY YUJIN DAY💜]]></title>
-            <link>https://www.vlive.tv/video/289491</link>
-            <guid>https://www.vlive.tv/video/289491</guid>
-            <pubDate>Fri, 12 Aug 2022 11:39:37 GMT</pubDate>
-            <content:encoded><![CDATA[Kep1er]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220811_159/1660201203216Ud10k_PNG/upload_1042769172548365698ddf598c-d0df-4a88-88d5-6d833eb42e0b.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
