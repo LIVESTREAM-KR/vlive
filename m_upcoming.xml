@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 02:43:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 04:10:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[🎉HAPPY YUJIN DAY💜]]></title>
-            <link>https://m.vlive.tv/video/289491</link>
-            <guid>https://m.vlive.tv/video/289491</guid>
-            <pubDate>Thu, 11 Aug 2022 07:43:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 12:30</span>
-										<span class="txt">Kep1er</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220811_159/1660201203216Ud10k_PNG/upload_1042769172548365698ddf598c-d0df-4a88-88d5-6d833eb42e0b.png?type=f274_154" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Simply K-Pop CON-TOUR (심플리케이팝 콘투어) Ep.532]]></title>
-            <link>https://m.vlive.tv/video/289426</link>
-            <guid>https://m.vlive.tv/video/289426</guid>
-            <pubDate>Wed, 10 Aug 2022 06:52:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 1:00</span>
-										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220810_6/1660111759573zN60q_PNG/upload_1041914704699987245c1e53e9-dd0f-46b2-8e1f-2ebfb7409ca5.png?type=f274_154" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Sound K] Hey! Ladies Kode~ with Sojung&Zuny 소정 &주니]]></title>
             <link>https://m.vlive.tv/video/289084</link>
@@ -106,6 +86,26 @@
 										오전 10:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220809_159/1660025796918W3j7H_JPEG/upload_1041054710308522683a0106fa-7070-4970-82d6-1079874f7ec7.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Sound K] Song Express ver.3 with Denise 데니스]]></title>
+            <link>https://m.vlive.tv/video/289363</link>
+            <guid>https://m.vlive.tv/video/289363</guid>
+            <pubDate>Fri, 12 Aug 2022 04:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 2:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220809_96/1660026144345mAWPu_JPEG/upload_1041058389657788741b4eb162-689e-4859-8a3d-ea8347f96516.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
+            <link>https://m.vlive.tv/video/289361</link>
+            <guid>https://m.vlive.tv/video/289361</guid>
+            <pubDate>Fri, 12 Aug 2022 04:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220809_76/16600260620506nxkz_JPEG/upload_1041057461418639773e4f7116-0c42-4a59-bd8b-3645ea69ea8f.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
