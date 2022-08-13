@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Aug 2022 06:50:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 07:44:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[치킨 먹방입니닭 🍗💙💛]]></title>
+            <link>https://www.vlive.tv/video/289642</link>
+            <guid>https://www.vlive.tv/video/289642</guid>
+            <pubDate>Sat, 13 Aug 2022 07:43:19 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/289642/thumb?type=f228_128" length="0" type="image//live/289642/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[유찬이 하고 싶은 거 다 해]]></title>
+            <link>https://www.vlive.tv/video/289633</link>
+            <guid>https://www.vlive.tv/video/289633</guid>
+            <pubDate>Sat, 13 Aug 2022 07:43:19 GMT</pubDate>
+            <content:encoded><![CDATA[에이스(A.C.E)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220813_295/1660320419749b2VQK_JPEG/upload_10440013168366560711426fb0-bba4-4363-a95c-a71b1693b7f3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[🎂HAPPY EJ DAY🎂]]></title>
             <link>https://www.vlive.tv/video/289640</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 12 Aug 2022 15:48:45 GMT</pubDate>
             <content:encoded><![CDATA[BLACKPINK]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220812_174/1660303272358eVpwq_JPEG/upload_765727323623966649375fe10-f7fd-4950-849a-989f72d394fe.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ITZY(있지) "DOMINO" VIDEO | SPECIAL PRESENT FOR MIDZY]]></title>
-            <link>https://www.vlive.tv/video/289490</link>
-            <guid>https://www.vlive.tv/video/289490</guid>
-            <pubDate>Fri, 12 Aug 2022 15:48:45 GMT</pubDate>
-            <content:encoded><![CDATA[ITZY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220811_47/1660201527767jgwvY_JPEG/upload_76469817485764944cf539926-6f39-4234-aafe-746a28515618.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캄캄한 폐가 속에서 전화 벨소리가 들리는거야🎶｜느닷없이 폐가에 던져진 엘라스트👻]]></title>
-            <link>https://www.vlive.tv/video/289413</link>
-            <guid>https://www.vlive.tv/video/289413</guid>
-            <pubDate>Fri, 12 Aug 2022 15:48:46 GMT</pubDate>
-            <content:encoded><![CDATA[E'LAST]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220813_80/1660318500452w0F8m_JPEG/upload_1041759173072167088f3d44d4-abf8-4442-9145-24b6eeab5d76.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
