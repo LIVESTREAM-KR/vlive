@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Aug 2022 04:53:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 05:42:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,11 +112,19 @@
             <enclosure url="https://v-phinf.pstatic.net/20220813_147/1660358584889olL6L_JPEG/upload_7662816606704977891da5a6f-da2c-4db4-a596-5f9a1199fb5b.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[그냥왔숩]]></title>
+            <link>https://www.vlive.tv/video/289639</link>
+            <guid>https://www.vlive.tv/video/289639</guid>
+            <pubDate>Sat, 13 Aug 2022 05:42:16 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:54]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220813_124/1660366460170So0DS_JPEG/9ad5f00b-1ac3-11ed-b4d4-d4f5ef58ac88_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[🎂HAPPY EJ DAY🎂]]></title>
             <link>https://www.vlive.tv/video/289640</link>
             <guid>https://www.vlive.tv/video/289640</guid>
             <pubDate>Sat, 13 Aug 2022 04:53:19 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:44]]></content:encoded>
+            <content:encoded><![CDATA[오후 2:34]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220813_179/1660365890498VwUNg_JPEG/173241490458408971953194c4-a8df-4081-9bbb-8c5d30f7c0c4.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>

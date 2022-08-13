@@ -4,7 +4,7 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Aug 2022 04:53:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 05:42:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sat, 13 Aug 2022 04:52:22 GMT</pubDate>
             <content:encoded><![CDATA[앨리스 (ALICE)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220813_179/1660365890498VwUNg_JPEG/173241490458408971953194c4-a8df-4081-9bbb-8c5d30f7c0c4.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그냥왔숩]]></title>
+            <link>https://www.vlive.tv/video/289639</link>
+            <guid>https://www.vlive.tv/video/289639</guid>
+            <pubDate>Sat, 13 Aug 2022 05:41:18 GMT</pubDate>
+            <content:encoded><![CDATA[우주소녀(WJSN)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220813_124/1660366460170So0DS_JPEG/9ad5f00b-1ac3-11ed-b4d4-d4f5ef58ac88_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BLACKPINK - ‘Pink Venom’ JISOO Concept Teaser #2]]></title>
@@ -398,14 +406,6 @@
             <pubDate>Fri, 12 Aug 2022 09:43:41 GMT</pubDate>
             <content:encoded><![CDATA[Xdinary Heroes]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220812_50/16602700455553SQdx_PNG/upload_1043497562205122960f90a049-2e41-4b99-ab23-2c01c3788b6e.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[시윤(SIYOON) 'The One I Love' TEASER]]></title>
-            <link>https://www.vlive.tv/video/289538</link>
-            <guid>https://www.vlive.tv/video/289538</guid>
-            <pubDate>Fri, 12 Aug 2022 09:43:41 GMT</pubDate>
-            <content:encoded><![CDATA[Rooftop Company]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220811_286/1660228932675Vheka_JPEG/7b211836-1983-11ed-a59e-d4f5ef58ad5e_02.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
