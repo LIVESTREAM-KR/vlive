@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Aug 2022 04:02:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 04:53:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🎂HAPPY EJ DAY🎂]]></title>
+            <link>https://www.vlive.tv/video/289640</link>
+            <guid>https://www.vlive.tv/video/289640</guid>
+            <pubDate>Sat, 13 Aug 2022 04:52:31 GMT</pubDate>
+            <content:encoded><![CDATA[앨리스 (ALICE)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220813_179/1660365890498VwUNg_JPEG/173241490458408971953194c4-a8df-4081-9bbb-8c5d30f7c0c4.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BLACKPINK - ‘Pink Venom’ JISOO Concept Teaser #2]]></title>
             <link>https://www.vlive.tv/video/289638</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 12 Aug 2022 13:58:14 GMT</pubDate>
             <content:encoded><![CDATA[DKZ]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220812_107/1660315581671NyXal_JPEG/483ffb65-1a4d-11ed-837f-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레드 슌💜]]></title>
-            <link>https://www.vlive.tv/video/289625</link>
-            <guid>https://www.vlive.tv/video/289625</guid>
-            <pubDate>Fri, 12 Aug 2022 13:21:37 GMT</pubDate>
-            <content:encoded><![CDATA[F.able (페이블)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220812_89/1660310366085RBBmO_JPEG/1730987667059221746a569ec6-6d6c-4345-8795-d62cdd0e7efd.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
