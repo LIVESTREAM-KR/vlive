@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Aug 2022 15:46:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2022 16:56:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,11 +24,19 @@
             <enclosure url="https://v-phinf.pstatic.net/20220813_36/16603896504947h1qI_PNG/upload_10446937602232719632056477-fc2d-4e3f-8d89-96ff00d20503.png?type=f228_128" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[LA 아침 산책 🏃]]></title>
+            <link>https://www.vlive.tv/video/289669</link>
+            <guid>https://www.vlive.tv/video/289669</guid>
+            <pubDate>Sat, 13 Aug 2022 16:55:42 GMT</pubDate>
+            <content:encoded><![CDATA[오전 1:10]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[🎂 HAPPY GONGCHAN DAY 🎉 PARTY TIME 🎁]]></title>
             <link>https://www.vlive.tv/video/289668</link>
             <guid>https://www.vlive.tv/video/289668</guid>
             <pubDate>Sat, 13 Aug 2022 15:45:39 GMT</pubDate>
-            <content:encoded><![CDATA[오전 12:00]]></content:encoded>
+            <content:encoded><![CDATA[오전 1:11]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220814_296/16604070962456bvgh_JPEG/7c6bbef1-1b21-11ed-b440-505dacfba98a_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
