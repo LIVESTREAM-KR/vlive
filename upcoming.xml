@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Aug 2022 13:05:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 13:49:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,7 +128,7 @@
             <enclosure url="https://v-phinf.pstatic.net/20220814_212/1660468801993AFLRo_JPEG/1732571759329508159286e0b1-d9b7-4285-b0cc-b8506aad43ae.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[<HIT YA!> 마지막..😂]]></title>
+            <title><![CDATA["HIT YA!" 마지막..😂]]></title>
             <link>https://www.vlive.tv/video/289679</link>
             <guid>https://www.vlive.tv/video/289679</guid>
             <pubDate>Sun, 14 Aug 2022 10:44:35 GMT</pubDate>
@@ -158,14 +158,6 @@
             <pubDate>Sun, 14 Aug 2022 09:44:08 GMT</pubDate>
             <content:encoded><![CDATA[오후 9:10]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220814_60/1660467645820aU5Ve_JPEG/173255956822687426a598d8e1-3d8e-4b1c-a7cf-33fd4a358bef.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소통소통😁]]></title>
-            <link>https://www.vlive.tv/video/289684</link>
-            <guid>https://www.vlive.tv/video/289684</guid>
-            <pubDate>Sun, 14 Aug 2022 13:05:20 GMT</pubDate>
-            <content:encoded><![CDATA[오후 9:43]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220814_177/1660481014635xYD9g_JPEG/173269388630190642f90147e6-965f-4d1e-b3e5-acb61267f02e.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[충전하러 와써여~🔋]]></title>
@@ -198,6 +190,28 @@
             <pubDate>Sun, 14 Aug 2022 13:05:20 GMT</pubDate>
             <content:encoded><![CDATA[오후 10:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220811_197/1660215634956vE6p3_JPEG/upload_10429536524530126444fec4fe-d84a-424e-9df8-403badfd1f25.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[막내 왔어요🤍🫧]]></title>
+            <link>https://www.vlive.tv/video/289688</link>
+            <guid>https://www.vlive.tv/video/289688</guid>
+            <pubDate>Sun, 14 Aug 2022 13:48:42 GMT</pubDate>
+            <content:encoded><![CDATA[오후 10:38]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[다들 뭐해😅]]></title>
+            <link>https://www.vlive.tv/video/289689</link>
+            <guid>https://www.vlive.tv/video/289689</guid>
+            <pubDate>Sun, 14 Aug 2022 13:48:42 GMT</pubDate>
+            <content:encoded><![CDATA[오후 10:41]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[소통소통😁]]></title>
+            <link>https://www.vlive.tv/video/289684</link>
+            <guid>https://www.vlive.tv/video/289684</guid>
+            <pubDate>Sun, 14 Aug 2022 13:05:20 GMT</pubDate>
+            <content:encoded><![CDATA[오후 10:46]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220814_177/1660481014635xYD9g_JPEG/173269388630190642f90147e6-965f-4d1e-b3e5-acb61267f02e.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
