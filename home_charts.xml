@@ -4,25 +4,9 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Aug 2022 04:57:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 05:42:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[팅이 왔다!!!]]></title>
-            <link>https://www.vlive.tv/video/289659</link>
-            <guid>https://www.vlive.tv/video/289659</guid>
-            <pubDate>Sat, 13 Aug 2022 15:45:04 GMT</pubDate>
-            <content:encoded><![CDATA[Kep1er]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220813_140/1660392943802HWxR0_JPEG/173181335205513324f65f8286-030f-453e-83b9-5aa09da925ef.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현진 "ice.cream" | [Stray Kids(스트레이 키즈) : SKZ-RECORD(슼즈 레코드)]]]></title>
-            <link>https://www.vlive.tv/video/289558</link>
-            <guid>https://www.vlive.tv/video/289558</guid>
-            <pubDate>Sat, 13 Aug 2022 16:55:12 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220812_105/1660276620977iniJu_PNG/upload_10435314195256108162c8e7b4-8e01-4353-be89-1ba8537116f4.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[보고 싶었어요! 🌺 (Leisure With Lily #3)]]></title>
             <link>https://www.vlive.tv/video/289673</link>
@@ -32,12 +16,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20220814_170/1660450434769NBkDt_JPEG/a1233550-1b86-11ed-8198-505dac8c3639_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[팅이 왔다!!!]]></title>
+            <link>https://www.vlive.tv/video/289659</link>
+            <guid>https://www.vlive.tv/video/289659</guid>
+            <pubDate>Sat, 13 Aug 2022 15:45:04 GMT</pubDate>
+            <content:encoded><![CDATA[Kep1er]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220813_140/1660392943802HWxR0_JPEG/173181335205513324f65f8286-030f-453e-83b9-5aa09da925ef.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[현진이의 연습실 #11😎]]></title>
             <link>https://www.vlive.tv/video/289467</link>
             <guid>https://www.vlive.tv/video/289467</guid>
             <pubDate>Sun, 14 Aug 2022 02:56:22 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220810_20/1660142774856RDaOP_JPEG/upload_764123777343893920e9637cd-c9e6-4325-b671-5275f1fe54a0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현진 "ice.cream" | [Stray Kids(스트레이 키즈) : SKZ-RECORD(슼즈 레코드)]]]></title>
+            <link>https://www.vlive.tv/video/289558</link>
+            <guid>https://www.vlive.tv/video/289558</guid>
+            <pubDate>Sat, 13 Aug 2022 16:55:12 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220812_105/1660276620977iniJu_PNG/upload_10435314195256108162c8e7b4-8e01-4353-be89-1ba8537116f4.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Aug 2022 04:57:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 05:42:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,13 @@
             <pubDate>Sun, 14 Aug 2022 04:56:30 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:13]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220814_170/1660450434769NBkDt_JPEG/a1233550-1b86-11ed-8198-505dac8c3639_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하이엘 왔다감 🙈🙉]]></title>
+            <link>https://www.vlive.tv/video/289674</link>
+            <guid>https://www.vlive.tv/video/289674</guid>
+            <pubDate>Sun, 14 Aug 2022 05:41:59 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:32]]></content:encoded>
         </item>
     </channel>
 </rss>
