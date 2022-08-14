@@ -4,9 +4,19 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Aug 2022 11:41:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 13:05:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Arirang Radio (Radio'n Us / ISAAC (그룹: IN2IT)]]></title>
+            <link>https://m.vlive.tv/video/289682</link>
+            <guid>https://m.vlive.tv/video/289682</guid>
+            <pubDate>Sun, 14 Aug 2022 13:05:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 8:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220814_225/1660480709629w2IcI_JPEG/upload_76750259201590435465a05da-440b-4f4e-897c-0b03ba878db5.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Welcome to Korea with Kim Min Ji]]></title>
             <link>https://m.vlive.tv/video/289357</link>
@@ -68,6 +78,16 @@
             <enclosure url="https://v-phinf.pstatic.net/20220809_96/1660026144345mAWPu_JPEG/upload_1041058389657788741b4eb162-689e-4859-8a3d-ea8347f96516.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / GyeongseoYeji 경서예지)]]></title>
+            <link>https://m.vlive.tv/video/289683</link>
+            <guid>https://m.vlive.tv/video/289683</guid>
+            <pubDate>Sun, 14 Aug 2022 13:05:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 4:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220814_277/1660480838443v6xgw_JPEG/upload_1045605608233750577628fb37-8435-4f00-8984-78c963c53adf.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
             <link>https://m.vlive.tv/video/289361</link>
             <guid>https://m.vlive.tv/video/289361</guid>
@@ -76,26 +96,6 @@
 										오전 10:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220809_76/16600260620506nxkz_JPEG/upload_1041057461418639773e4f7116-0c42-4a59-bd8b-3645ea69ea8f.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Super K-Pop] Stray Quiz]]></title>
-            <link>https://m.vlive.tv/video/289366</link>
-            <guid>https://m.vlive.tv/video/289366</guid>
-            <pubDate>Fri, 12 Aug 2022 07:42:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 4:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220809_265/1660026263816kP104_JPEG/upload_104105973986497424fdccfb13-9771-4035-9872-0bcc9ab51d8f.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[145회 아트엠콘서트, 비올리스트 김세준]]></title>
-            <link>https://m.vlive.tv/video/288141</link>
-            <guid>https://m.vlive.tv/video/288141</guid>
-            <pubDate>Fri, 12 Aug 2022 11:40:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 7:20</span>
-										<span class="txt">ARTMCONCERT</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220720_225/1658303418295oLGwF_PNG/upload_74572986737943995c199e3f9-c6c5-4e72-8ab9-4fbbfbac5195.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
