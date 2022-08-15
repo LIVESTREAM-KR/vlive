@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Aug 2022 07:43:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 08:50:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[LIVE] 도착!]]></title>
+            <link>https://www.vlive.tv/video/289697</link>
+            <guid>https://www.vlive.tv/video/289697</guid>
+            <pubDate>Mon, 15 Aug 2022 08:49:06 GMT</pubDate>
+            <content:encoded><![CDATA[원호 (WONHO)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220815_289/1660550459362Eg88V_JPEG/32013c7f-1c70-11ed-b1f2-48df379ccacc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Ciipher] 왜 너도 안경이야😎]]></title>
+            <link>https://www.vlive.tv/video/289696</link>
+            <guid>https://www.vlive.tv/video/289696</guid>
+            <pubDate>Mon, 15 Aug 2022 08:49:06 GMT</pubDate>
+            <content:encoded><![CDATA[싸이퍼(Ciipher)]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/289696/thumb?type=f228_128" length="0" type="image//live/289696/thumb"/>
+        </item>
         <item>
             <title><![CDATA[쵸 잠깐 왔다감 🌹]]></title>
             <link>https://www.vlive.tv/video/289695</link>
@@ -110,22 +126,6 @@
             <pubDate>Sun, 14 Aug 2022 09:43:17 GMT</pubDate>
             <content:encoded><![CDATA[E'LAST]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220814_60/1660467645820aU5Ve_JPEG/173255956822687426a598d8e1-3d8e-4b1c-a7cf-33fd4a358bef.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[콘서트 ㅎㅎ]]></title>
-            <link>https://www.vlive.tv/video/289681</link>
-            <guid>https://www.vlive.tv/video/289681</guid>
-            <pubDate>Sun, 14 Aug 2022 11:40:05 GMT</pubDate>
-            <content:encoded><![CDATA[강다니엘 (KANGDANIEL)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220814_57/1660476416089Cn9HT_JPEG/17326481007972343163807f2d-7723-44f4-9f58-9c3b7af519aa.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퍼플키스(PURPLE KISS) 'Nerdy' Dance Practice (Random W1H1 Ver.)]]></title>
-            <link>https://www.vlive.tv/video/289597</link>
-            <guid>https://www.vlive.tv/video/289597</guid>
-            <pubDate>Sun, 14 Aug 2022 11:40:05 GMT</pubDate>
-            <content:encoded><![CDATA[PURPLE KISS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220812_103/1660294005125nCQmR_JPEG/upload_104373464340396957f905b2ca-978e-4ad6-b6fa-e8ee0032917c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
