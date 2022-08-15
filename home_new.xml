@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Aug 2022 14:01:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 14:45:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[말복에 이 날씨에 이 밤에 윤우 못 참지]]></title>
+            <link>https://www.vlive.tv/video/289703</link>
+            <guid>https://www.vlive.tv/video/289703</guid>
+            <pubDate>Mon, 15 Aug 2022 14:44:04 GMT</pubDate>
+            <content:encoded><![CDATA[TRENDZ (트렌드지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220815_150/166057255141965Qd5_JPEG/173361087361595055c7fa34a2-4811-4059-9eaf-59b769d23b69.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Arirang Radio (Radio'n Us / ISAAC (그룹: IN2IT)]]></title>
             <link>https://www.vlive.tv/video/289682</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 14 Aug 2022 15:45:32 GMT</pubDate>
             <content:encoded><![CDATA[F.able (페이블)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220814_72/1660489097009wYssG_JPEG/173364613996245067634d0b94-1e02-48a6-a65c-87ac9339535e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다들 뭐해😅]]></title>
-            <link>https://www.vlive.tv/video/289689</link>
-            <guid>https://www.vlive.tv/video/289689</guid>
-            <pubDate>Sun, 14 Aug 2022 13:47:54 GMT</pubDate>
-            <content:encoded><![CDATA[P1Harmony]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220815_157/1660489414934yPlYb_JPEG/4b9f0ed2-1be1-11ed-84f3-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,17 +4,9 @@
         <title>V LIVE 모바일 ─ CHARTS </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Aug 2022 14:01:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 14:45:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[찬이의 "방" 🐺 Ep. 170]]></title>
-            <link>https://m.vlive.tv/video/289680</link>
-            <guid>https://m.vlive.tv/video/289680</guid>
-            <pubDate>Sun, 14 Aug 2022 13:05:04 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220814_295/1660487592506KFPfp_JPEG/d3d316f3-1bcf-11ed-a59e-d4f5ef58ad5e_01.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Thank you 🐺]]></title>
             <link>https://m.vlive.tv/video/289693</link>
@@ -30,6 +22,14 @@
             <pubDate>Sun, 14 Aug 2022 16:55:52 GMT</pubDate>
             <content:encoded><![CDATA[BLACKPINK]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220814_258/1660468995789I58Mf_JPEG/upload_10454867267518103001404052-3065-4eed-8063-53117c6d8491.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찬이의 "방" 🐺 Ep. 170]]></title>
+            <link>https://m.vlive.tv/video/289680</link>
+            <guid>https://m.vlive.tv/video/289680</guid>
+            <pubDate>Sun, 14 Aug 2022 13:05:04 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220814_295/1660487592506KFPfp_JPEG/d3d316f3-1bcf-11ed-a59e-d4f5ef58ad5e_01.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
