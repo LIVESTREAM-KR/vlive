@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Aug 2022 05:54:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Aug 2022 06:53:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[쵸 잠깐 왔다감 🌹]]></title>
+            <link>https://www.vlive.tv/video/289695</link>
+            <guid>https://www.vlive.tv/video/289695</guid>
+            <pubDate>Mon, 15 Aug 2022 06:52:29 GMT</pubDate>
+            <content:encoded><![CDATA[LIGHTSUM]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220815_121/16605455376961S0CB_JPEG/1733339086758829700d5b9f71-4f50-4510-ab78-66fb53f90012.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Thank you 🐺]]></title>
             <link>https://www.vlive.tv/video/289693</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 14 Aug 2022 11:40:05 GMT</pubDate>
             <content:encoded><![CDATA[PURPLE KISS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220812_103/1660294005125nCQmR_JPEG/upload_104373464340396957f905b2ca-978e-4ad6-b6fa-e8ee0032917c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["HIT YA!" 마지막..😂]]></title>
-            <link>https://www.vlive.tv/video/289679</link>
-            <guid>https://www.vlive.tv/video/289679</guid>
-            <pubDate>Sun, 14 Aug 2022 10:43:53 GMT</pubDate>
-            <content:encoded><![CDATA[Lapillus]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220814_17/1660471173662JfW83_JPEG/1733466906435118755c86005b-eb41-45cd-9be3-92618a5dc94b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
