@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 17:00:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 17:46:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[10분만]]></title>
+            <link>https://www.vlive.tv/video/289773</link>
+            <guid>https://www.vlive.tv/video/289773</guid>
+            <pubDate>Tue, 16 Aug 2022 17:45:20 GMT</pubDate>
+            <content:encoded><![CDATA[LOUDI (로우디)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220817_286/1660670794560JTFsn_JPEG/705ffced-1d88-11ed-ac30-505dac8c37f3_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Ü.나.시] 💖]]></title>
             <link>https://www.vlive.tv/video/289772</link>
@@ -398,14 +406,6 @@
             <pubDate>Tue, 16 Aug 2022 06:50:21 GMT</pubDate>
             <content:encoded><![CDATA[Ktimes]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220816_64/1660628954005jhdGN_PNG/upload_104708686023422244af528ab4-baa8-4c80-906e-c3f535d279f0.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA['공조2' 현빈(Hyunbin) "다니엘 헤니(Daniel Henney)와 '김삼순' 이후 17년만에 재회, 반가웠다" #현빈 #다니엘헤니 #DanielHenney #Hyunbin]]></title>
-            <link>https://www.vlive.tv/video/289728</link>
-            <guid>https://www.vlive.tv/video/289728</guid>
-            <pubDate>Tue, 16 Aug 2022 06:50:21 GMT</pubDate>
-            <content:encoded><![CDATA[mydaily]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220816_168/1660628476054FdUbc_JPEG/upload_7689807860262750507e181d4-010c-4f5a-a9ca-2d46f4742760.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
