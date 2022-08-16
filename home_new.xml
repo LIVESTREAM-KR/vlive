@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 03:01:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 04:28:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ASC Live Ep.536 (ATBO / 에이티비오)]]></title>
+            <link>https://www.vlive.tv/video/289580</link>
+            <guid>https://www.vlive.tv/video/289580</guid>
+            <pubDate>Tue, 16 Aug 2022 04:27:01 GMT</pubDate>
+            <content:encoded><![CDATA[After School Club │ 애프터스쿨클럽]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220812_212/1660287540920jpFOX_PNG/upload_10436192114946232748698b4a-624b-46d2-9388-dadfa884ff9a.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[김이온(KIM I ON) - HAPPY BIRTHDAY KIM I ON]]></title>
             <link>https://www.vlive.tv/video/289556</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 15 Aug 2022 14:44:04 GMT</pubDate>
             <content:encoded><![CDATA[TRENDZ (트렌드지)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220815_150/166057255141965Qd5_JPEG/173361087361595055c7fa34a2-4811-4059-9eaf-59b769d23b69.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헬로 실험실]]></title>
-            <link>https://www.vlive.tv/video/289702</link>
-            <guid>https://www.vlive.tv/video/289702</guid>
-            <pubDate>Mon, 15 Aug 2022 13:22:13 GMT</pubDate>
-            <content:encoded><![CDATA[BOL4]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220815_93/1660568477759HofRJ_JPEG/17335687171531383071ca8b74-8361-4908-a43e-64a2f8dd30c9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
