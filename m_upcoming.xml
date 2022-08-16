@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 07:40:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 08:44:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -58,6 +58,26 @@
             <enclosure url="https://v-phinf.pstatic.net/20220809_265/1660026263816kP104_JPEG/upload_104105973986497424fdccfb13-9771-4035-9872-0bcc9ab51d8f.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[145회_리허설]]></title>
+            <link>https://m.vlive.tv/video/289742</link>
+            <guid>https://m.vlive.tv/video/289742</guid>
+            <pubDate>Tue, 16 Aug 2022 08:43:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										방송취소</span>
+										<span class="txt">ARTMCONCERT</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220816_29/1660638046237sWePV_PNG/upload_7690761802666421471ecbb9e-f924-47ac-a57b-e2d1d018fdcd.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[145회_리허설]]></title>
+            <link>https://m.vlive.tv/video/289743</link>
+            <guid>https://m.vlive.tv/video/289743</guid>
+            <pubDate>Tue, 16 Aug 2022 08:43:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 4:10</span>
+										<span class="txt">ARTMCONCERT</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220816_14/1660638106474g2OBJ_PNG/upload_104717810018033383a11ed0be-199e-4712-b64e-41299f02037c.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[145회 아트엠콘서트, 비올리스트 김세준]]></title>
             <link>https://m.vlive.tv/video/288141</link>
             <guid>https://m.vlive.tv/video/288141</guid>
@@ -76,26 +96,6 @@
 										오전 10:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220809_127/1660025909008cahjb_JPEG/upload_104105583016122226f999f8b2-5386-4aa0-a167-dbfaf58ba033.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Sound K] Hey! Ladies Kode~ with Sojung&Zuny 소정 &주니]]></title>
-            <link>https://m.vlive.tv/video/289364</link>
-            <guid>https://m.vlive.tv/video/289364</guid>
-            <pubDate>Tue, 16 Aug 2022 05:02:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 2:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220809_156/1660026181217JFtWs_JPEG/upload_104105879938322747ddbdc42d-1335-48b6-9050-661788ffc83b.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Super K-Pop] Topic Song with BÉBE YANA , Jogon of 9001]]></title>
-            <link>https://m.vlive.tv/video/289367</link>
-            <guid>https://m.vlive.tv/video/289367</guid>
-            <pubDate>Tue, 16 Aug 2022 07:40:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 4:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220809_82/1660026296578L1xVS_JPEG/upload_76295882655069254d374382c-79e7-4fad-ab60-39d4be5f17fd.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
