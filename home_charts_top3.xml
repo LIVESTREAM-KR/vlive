@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ CHARTS TOP3</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 13:08:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 13:48:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 1]]></title>
+            <link>https://www.vlive.tv/video/289368</link>
+            <guid>https://www.vlive.tv/video/289368</guid>
+            <pubDate>Tue, 16 Aug 2022 13:46:41 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220812_138/1660264042259WLREz_JPEG/upload_1043437541963210687545b394-698c-42fc-ade5-7c29af587fb7.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 0]]></title>
             <link>https://www.vlive.tv/video/289162</link>
@@ -22,14 +30,6 @@
             <pubDate>Tue, 16 Aug 2022 09:39:29 GMT</pubDate>
             <content:encoded><![CDATA[ASTRO]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220816_48/1660640874327h45fR_JPEG/9b024ec2-1d42-11ed-bca7-505dac8c38f5_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WHISPER]]></title>
-            <link>https://www.vlive.tv/video/289751</link>
-            <guid>https://www.vlive.tv/video/289751</guid>
-            <pubDate>Tue, 16 Aug 2022 13:07:22 GMT</pubDate>
-            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220816_100/1660650933581uxoy9_JPEG/3049d33c-1d5a-11ed-b4d4-d4f5ef58ac88_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
