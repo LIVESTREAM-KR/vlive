@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 15:50:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 17:00:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BLACKPINK - ‘Pink Venom’ M/V TEASER]]></title>
+            <link>https://www.vlive.tv/video/289760</link>
+            <guid>https://www.vlive.tv/video/289760</guid>
+            <pubDate>Tue, 16 Aug 2022 16:59:23 GMT</pubDate>
+            <content:encoded><![CDATA[BLACKPINK]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220816_202/1660659435187tfQ2R_JPEG/upload_7692903769110399461539b21-a7ef-46d3-9185-3f2b16be5ccb.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[WHISPER]]></title>
             <link>https://www.vlive.tv/video/289751</link>
@@ -30,14 +38,6 @@
             <pubDate>Mon, 15 Aug 2022 05:53:27 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220813_82/1660380813500Fk1dP_PNG/upload_1044605464925374207e31b36e-6208-4f04-86e3-da5f0e0b94d9.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[호비팔루자]]></title>
-            <link>https://www.vlive.tv/video/288913</link>
-            <guid>https://www.vlive.tv/video/288913</guid>
-            <pubDate>Tue, 16 Aug 2022 15:49:17 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220801_144/1659326826203eDdGX_JPEG/100efed4-114f-11ed-b769-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

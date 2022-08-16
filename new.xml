@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Aug 2022 15:50:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2022 17:00:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Ü.나.시] 💖]]></title>
+            <link>https://www.vlive.tv/video/289772</link>
+            <guid>https://www.vlive.tv/video/289772</guid>
+            <pubDate>Tue, 16 Aug 2022 16:58:52 GMT</pubDate>
+            <content:encoded><![CDATA[온앤오프 (ONF)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220817_121/16606686965881SIUd_JPEG/6710f833-1d83-11ed-bc04-d4f5ef590144_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ONEWE(원위) 용훈 '이 밤을 빌려 말해요' SPECIAL COVER]]></title>
             <link>https://www.vlive.tv/video/289733</link>
@@ -398,14 +406,6 @@
             <pubDate>Tue, 16 Aug 2022 06:50:21 GMT</pubDate>
             <content:encoded><![CDATA[mydaily]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220816_168/1660628476054FdUbc_JPEG/upload_7689807860262750507e181d4-010c-4f5a-a9ca-2d46f4742760.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['공조2' 임윤아(SNSD YOONA) "민영 캐릭터의 매력, 잘 표현하고 싶었다" #윤아 #임윤아 #소녀시대 #SNSD #YOONA #공조2]]></title>
-            <link>https://www.vlive.tv/video/289729</link>
-            <guid>https://www.vlive.tv/video/289729</guid>
-            <pubDate>Tue, 16 Aug 2022 06:50:21 GMT</pubDate>
-            <content:encoded><![CDATA[mydaily]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220816_111/1660628505014aLu0u_JPEG/upload_76898109975870076edc7bd08-40c7-4914-a537-c2102c1b3bb0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
