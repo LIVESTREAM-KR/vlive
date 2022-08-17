@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 03:09:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 04:54:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio/K-Poppin'] Entertainer Ashley Sunyoung / 방송인 애슐리 선영]]></title>
-            <link>https://m.vlive.tv/video/289775</link>
-            <guid>https://m.vlive.tv/video/289775</guid>
-            <pubDate>Wed, 17 Aug 2022 03:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 4:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220817_152/1660693398618N7d2I_JPEG/upload_104773056916819492664bbaab-8080-44ff-9d26-ae32566d3d03.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Sound K] Song Express ver.3 with Denise 데니스]]></title>
             <link>https://m.vlive.tv/video/289363</link>
@@ -86,16 +76,6 @@
 										오전 10:20</span>
 										<span class="txt">ARTMCONCERT</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220720_225/1658303418295oLGwF_PNG/upload_74572986737943995c199e3f9-c6c5-4e72-8ab9-4fbbfbac5195.png?type=f274_154" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
-            <link>https://m.vlive.tv/video/289360</link>
-            <guid>https://m.vlive.tv/video/289360</guid>
-            <pubDate>Tue, 16 Aug 2022 04:27:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220809_127/1660025909008cahjb_JPEG/upload_104105583016122226f999f8b2-5386-4aa0-a167-dbfaf58ba033.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
