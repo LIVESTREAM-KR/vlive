@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 14:46:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 15:49:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,6 +16,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220809_76/16600260620506nxkz_JPEG/upload_1041057461418639773e4f7116-0c42-4a59-bd8b-3645ea69ea8f.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / 1CHU 원츄)]]></title>
+            <link>https://m.vlive.tv/video/289840</link>
+            <guid>https://m.vlive.tv/video/289840</guid>
+            <pubDate>Wed, 17 Aug 2022 15:49:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220818_137/1660750903644O28iV_JPEG/upload_77020461195781009970bb51d-5af7-4cf8-af96-36138e6bdc53.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio / Super K-Pop] Stray Quiz]]></title>
@@ -38,6 +48,16 @@
             <enclosure url="https://v-phinf.pstatic.net/20220816_14/1660638106474g2OBJ_PNG/upload_104717810018033383a11ed0be-199e-4712-b64e-41299f02037c.png?type=f274_154" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[주이의 생일을 축하합니다🎂]]></title>
+            <link>https://m.vlive.tv/video/289837</link>
+            <guid>https://m.vlive.tv/video/289837</guid>
+            <pubDate>Wed, 17 Aug 2022 15:49:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 9:00</span>
+										<span class="txt">MOMOLAND</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220818_11/16607494838729VQSh_JPEG/upload_104829127036080364dc981e8d-9d89-4adc-9c74-f6dde8ea8024.jpeg?type=f274_154" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[145회 아트엠콘서트, 비올리스트 김세준]]></title>
             <link>https://m.vlive.tv/video/288141</link>
             <guid>https://m.vlive.tv/video/288141</guid>
@@ -46,16 +66,6 @@
 										오전 10:20</span>
 										<span class="txt">ARTMCONCERT</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220720_225/1658303418295oLGwF_PNG/upload_74572986737943995c199e3f9-c6c5-4e72-8ab9-4fbbfbac5195.png?type=f274_154" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
-            <link>https://m.vlive.tv/video/289360</link>
-            <guid>https://m.vlive.tv/video/289360</guid>
-            <pubDate>Wed, 17 Aug 2022 05:56:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220809_127/1660025909008cahjb_JPEG/upload_104105583016122226f999f8b2-5386-4aa0-a167-dbfaf58ba033.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
