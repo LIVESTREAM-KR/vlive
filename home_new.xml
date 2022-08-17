@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 17:49:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 18:52:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,23 @@
             <guid>https://www.vlive.tv/video/289843</guid>
             <pubDate>Wed, 17 Aug 2022 17:47:41 GMT</pubDate>
             <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/289843/thumb?type=f228_128" length="0" type="image//live/289843/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220818_261/1660760382965Uiyfq_JPEG/8501db4f-1e58-11ed-bf94-d4f5ef590144_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[굿모닝 & 굿이브닝 💛🐝]]></title>
+            <link>https://www.vlive.tv/video/289841</link>
+            <guid>https://www.vlive.tv/video/289841</guid>
+            <pubDate>Wed, 17 Aug 2022 15:48:04 GMT</pubDate>
+            <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220818_213/1660750937190mqGgS_JPEG/173626601094865622e6809cb0-3dda-4d5b-b8b8-2f38def9f079.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하루의 시작을 같이💜]]></title>
+            <link>https://www.vlive.tv/video/289836</link>
+            <guid>https://www.vlive.tv/video/289836</guid>
+            <pubDate>Wed, 17 Aug 2022 18:51:31 GMT</pubDate>
+            <content:encoded><![CDATA[F.able (페이블)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220818_144/1660748898651og4gu_JPEG/144060374457508710832960a3-9882-41b3-b7f3-f6c7fbcadc3a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[💚]]></title>
@@ -30,14 +46,6 @@
             <pubDate>Wed, 17 Aug 2022 15:48:04 GMT</pubDate>
             <content:encoded><![CDATA[N.Flying]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220818_51/1660753654078EaGLX_JPEG/cd2e85ba-1e48-11ed-bbda-505dac8c37f3_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[굿모닝 & 굿이브닝 💛🐝]]></title>
-            <link>https://www.vlive.tv/video/289841</link>
-            <guid>https://www.vlive.tv/video/289841</guid>
-            <pubDate>Wed, 17 Aug 2022 15:48:04 GMT</pubDate>
-            <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220818_213/1660750937190mqGgS_JPEG/173626601094865622e6809cb0-3dda-4d5b-b8b8-2f38def9f079.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김.라<김재현의 라디오>]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 17 Aug 2022 10:45:42 GMT</pubDate>
             <content:encoded><![CDATA[CIX]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220817_131/1660737805042DnhQM_JPEG/8443fced-1e23-11ed-8d11-48df379ccacc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🏕제5회 여름승협캠프 #1 다시보기& #2 미리보기🍊]]></title>
-            <link>https://www.vlive.tv/video/289824</link>
-            <guid>https://www.vlive.tv/video/289824</guid>
-            <pubDate>Wed, 17 Aug 2022 10:45:42 GMT</pubDate>
-            <content:encoded><![CDATA[N.Flying]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220817_247/1660736457472XlMhq_JPEG/9236e0d5-1e20-11ed-9f1e-d4f5ef5a9532_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
