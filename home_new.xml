@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 17:06:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 17:49:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[💚]]></title>
+            <link>https://www.vlive.tv/video/289843</link>
+            <guid>https://www.vlive.tv/video/289843</guid>
+            <pubDate>Wed, 17 Aug 2022 17:47:41 GMT</pubDate>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/289843/thumb?type=f228_128" length="0" type="image//live/289843/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[💚]]></title>
+            <link>https://www.vlive.tv/video/289842</link>
+            <guid>https://www.vlive.tv/video/289842</guid>
+            <pubDate>Wed, 17 Aug 2022 17:47:42 GMT</pubDate>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220818_296/1660757083356T26I4_JPEG/76445fff-1e51-11ed-bf94-d4f5ef590144_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김.라<김재현의 라이브>]]></title>
             <link>https://www.vlive.tv/video/289839</link>
@@ -38,14 +54,6 @@
             <pubDate>Wed, 17 Aug 2022 15:48:04 GMT</pubDate>
             <content:encoded><![CDATA[SF9]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220818_269/16607494590389FLOa_JPEG/71353a89-1e3f-11ed-a57b-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하루의 시작을 같이💜]]></title>
-            <link>https://www.vlive.tv/video/289836</link>
-            <guid>https://www.vlive.tv/video/289836</guid>
-            <pubDate>Wed, 17 Aug 2022 15:48:04 GMT</pubDate>
-            <content:encoded><![CDATA[F.able (페이블)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220818_144/1660748898651og4gu_JPEG/144060374457508710832960a3-9882-41b3-b7f3-f6c7fbcadc3a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LEO(레오) - 'Losing Game' Official M/V Teaser 1]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 17 Aug 2022 10:45:42 GMT</pubDate>
             <content:encoded><![CDATA[N.Flying]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220817_247/1660736457472XlMhq_JPEG/9236e0d5-1e20-11ed-9f1e-d4f5ef5a9532_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BAE173(비에이이173) - 'DaSH' Official Music Video]]></title>
-            <link>https://www.vlive.tv/video/289828</link>
-            <guid>https://www.vlive.tv/video/289828</guid>
-            <pubDate>Wed, 17 Aug 2022 11:42:26 GMT</pubDate>
-            <content:encoded><![CDATA[BAE173]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220817_51/1660736310486PHVAy_JPEG/upload_7700591244568307703143e19-4210-4497-b076-dc700d0b5005.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

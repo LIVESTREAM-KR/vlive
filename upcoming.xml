@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 17:06:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 17:49:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -456,14 +456,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220817_12/1660722848342jmvTT_PNG/upload_769924334239140635b8d4802-c7ac-40ee-a5fc-48450c254bc7.png?type=f228_128" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[하루의 시작을 같이💜]]></title>
-            <link>https://www.vlive.tv/video/289836</link>
-            <guid>https://www.vlive.tv/video/289836</guid>
-            <pubDate>Wed, 17 Aug 2022 15:48:55 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:08]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220818_144/1660748898651og4gu_JPEG/144060374457508710832960a3-9882-41b3-b7f3-f6c7fbcadc3a.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[팩]]></title>
             <link>https://www.vlive.tv/video/289835</link>
             <guid>https://www.vlive.tv/video/289835</guid>
@@ -494,6 +486,22 @@
             <pubDate>Wed, 17 Aug 2022 15:48:55 GMT</pubDate>
             <content:encoded><![CDATA[오후 4:27]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220818_51/1660753654078EaGLX_JPEG/cd2e85ba-1e48-11ed-bbda-505dac8c37f3_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[💚]]></title>
+            <link>https://www.vlive.tv/video/289842</link>
+            <guid>https://www.vlive.tv/video/289842</guid>
+            <pubDate>Wed, 17 Aug 2022 17:48:41 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:24]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220818_296/1660757083356T26I4_JPEG/76445fff-1e51-11ed-bf94-d4f5ef590144_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[💚]]></title>
+            <link>https://www.vlive.tv/video/289843</link>
+            <guid>https://www.vlive.tv/video/289843</guid>
+            <pubDate>Wed, 17 Aug 2022 17:48:41 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:24]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/289843/thumb?type=f228_128" length="0" type="image//live/289843/thumb"/>
         </item>
     </channel>
 </rss>

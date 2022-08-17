@@ -4,9 +4,24 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 17:06:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 17:49:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[💚]]></title>
+            <link>https://www.vlive.tv/video/289843</link>
+            <guid>https://www.vlive.tv/video/289843</guid>
+            <pubDate>Wed, 17 Aug 2022 17:47:31 GMT</pubDate>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[💚]]></title>
+            <link>https://www.vlive.tv/video/289842</link>
+            <guid>https://www.vlive.tv/video/289842</guid>
+            <pubDate>Wed, 17 Aug 2022 17:47:31 GMT</pubDate>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220818_296/1660757083356T26I4_JPEG/76445fff-1e51-11ed-bf94-d4f5ef590144_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김.라<김재현의 라이브>]]></title>
             <link>https://www.vlive.tv/video/289839</link>
@@ -38,14 +53,6 @@
             <pubDate>Wed, 17 Aug 2022 15:47:55 GMT</pubDate>
             <content:encoded><![CDATA[SF9]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220818_269/16607494590389FLOa_JPEG/71353a89-1e3f-11ed-a57b-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하루의 시작을 같이💜]]></title>
-            <link>https://www.vlive.tv/video/289836</link>
-            <guid>https://www.vlive.tv/video/289836</guid>
-            <pubDate>Wed, 17 Aug 2022 15:47:55 GMT</pubDate>
-            <content:encoded><![CDATA[F.able (페이블)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220818_144/1660748898651og4gu_JPEG/144060374457508710832960a3-9882-41b3-b7f3-f6c7fbcadc3a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LEO(레오) - 'Losing Game' Official M/V Teaser 1]]></title>
@@ -398,14 +405,6 @@
             <pubDate>Wed, 17 Aug 2022 04:52:23 GMT</pubDate>
             <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220817_152/1660693398618N7d2I_JPEG/upload_104773056916819492664bbaab-8080-44ff-9d26-ae32566d3d03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이티비오 - Monochrome (color) (지미집 버전)]]></title>
-            <link>https://www.vlive.tv/video/289778</link>
-            <guid>https://www.vlive.tv/video/289778</guid>
-            <pubDate>Wed, 17 Aug 2022 05:55:12 GMT</pubDate>
-            <content:encoded><![CDATA[After School Club │ 애프터스쿨클럽]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220817_242/1660710069892z4sP1_PNG/upload_1047898022042529255ac9e87a-af3a-4a82-8687-1e7ddd3c2b54.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
