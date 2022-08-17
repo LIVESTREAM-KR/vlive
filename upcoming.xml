@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 15:49:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 17:06:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -472,14 +472,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220818_269/16607494590389FLOa_JPEG/71353a89-1e3f-11ed-a57b-505dac8c385b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김.라<김재현의 라이브>]]></title>
-            <link>https://www.vlive.tv/video/289839</link>
-            <guid>https://www.vlive.tv/video/289839</guid>
-            <pubDate>Wed, 17 Aug 2022 15:48:55 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:31]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/289839/thumb?type=f228_128" length="0" type="image//live/289839/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[김.라<김재현의 라디오>]]></title>
             <link>https://www.vlive.tv/video/289838</link>
             <guid>https://www.vlive.tv/video/289838</guid>
@@ -494,6 +486,14 @@
             <pubDate>Wed, 17 Aug 2022 15:48:55 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:42]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220818_213/1660750937190mqGgS_JPEG/173626601094865622e6809cb0-3dda-4d5b-b8b8-2f38def9f079.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김.라<김재현의 라이브>]]></title>
+            <link>https://www.vlive.tv/video/289839</link>
+            <guid>https://www.vlive.tv/video/289839</guid>
+            <pubDate>Wed, 17 Aug 2022 15:48:55 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:27]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220818_51/1660753654078EaGLX_JPEG/cd2e85ba-1e48-11ed-bbda-505dac8c37f3_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
