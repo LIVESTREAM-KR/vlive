@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 14:01:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 14:54:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -345,14 +345,6 @@
         </item>
         <item>
             <title><![CDATA[생일라이브💜]]></title>
-            <link>https://www.vlive.tv/video/289902</link>
-            <guid>https://www.vlive.tv/video/289902</guid>
-            <pubDate>Thu, 18 Aug 2022 13:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:17]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/289902/thumb?type=f228_128" length="0" type="image//live/289902/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[생일라이브💜]]></title>
             <link>https://www.vlive.tv/video/289901</link>
             <guid>https://www.vlive.tv/video/289901</guid>
             <pubDate>Thu, 18 Aug 2022 13:24:58 GMT</pubDate>
@@ -408,14 +400,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220818_190/1660827362609D0NqY_JPEG/173702880550839650a1f43efb-1985-4dc0-879e-485ba8b513cd.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[챌구랑 놀쟈아🐥🌈🫧🐰🍀]]></title>
-            <link>https://www.vlive.tv/video/289908</link>
-            <guid>https://www.vlive.tv/video/289908</guid>
-            <pubDate>Thu, 18 Aug 2022 13:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:22]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220818_202/1660828937511iDwN8_JPEG/1737045194707633527daa4f40-d13d-4c94-ab3f-e9e4187dfbd6.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[20220818 혜소통통💛]]></title>
             <link>https://www.vlive.tv/video/289897</link>
             <guid>https://www.vlive.tv/video/289897</guid>
@@ -432,11 +416,35 @@
             <enclosure url="https://v-phinf.pstatic.net/20220818_279/1660830071183FwvBh_JPEG/ea164a92-1efa-11ed-9f1e-d4f5ef5a9532_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[생일라이브💜]]></title>
+            <link>https://www.vlive.tv/video/289902</link>
+            <guid>https://www.vlive.tv/video/289902</guid>
+            <pubDate>Thu, 18 Aug 2022 13:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:08]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220818_30/1660831682092f6tl5_JPEG/8c19c96d-1efe-11ed-aa59-d4f5ef58ac88_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[챌구랑 놀쟈아🐥🌈🫧🐰🍀]]></title>
+            <link>https://www.vlive.tv/video/289908</link>
+            <guid>https://www.vlive.tv/video/289908</guid>
+            <pubDate>Thu, 18 Aug 2022 13:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:15]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220818_202/1660828937511iDwN8_JPEG/1737045194707633527daa4f40-d13d-4c94-ab3f-e9e4187dfbd6.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[It's Xiwoo Time❣#65]]></title>
+            <link>https://www.vlive.tv/video/289911</link>
+            <guid>https://www.vlive.tv/video/289911</guid>
+            <pubDate>Thu, 18 Aug 2022 14:54:05 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:33]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/289911/thumb?type=f228_128" length="0" type="image//live/289911/thumb"/>
+        </item>
+        <item>
             <title><![CDATA[헤헿]]></title>
             <link>https://www.vlive.tv/video/289909</link>
             <guid>https://www.vlive.tv/video/289909</guid>
             <pubDate>Thu, 18 Aug 2022 14:00:56 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:41]]></content:encoded>
+            <content:encoded><![CDATA[오후 2:45]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220818_149/1660830094818tLLTk_JPEG/999865776300779246ef8712d-9a91-4b9b-b8f7-3eb98a101e45.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
