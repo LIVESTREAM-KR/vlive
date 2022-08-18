@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 06:54:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 07:42:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / Super K-Pop] Stray Quiz]]></title>
-            <link>https://m.vlive.tv/video/289366</link>
-            <guid>https://m.vlive.tv/video/289366</guid>
-            <pubDate>Mon, 15 Aug 2022 13:23:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 6:53</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220809_265/1660026263816kP104_JPEG/upload_104105973986497424fdccfb13-9771-4035-9872-0bcc9ab51d8f.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[145회_리허설]]></title>
-            <link>https://m.vlive.tv/video/289743</link>
-            <guid>https://m.vlive.tv/video/289743</guid>
-            <pubDate>Tue, 16 Aug 2022 08:43:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:10</span>
-										<span class="txt">ARTMCONCERT</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220816_14/1660638106474g2OBJ_PNG/upload_104717810018033383a11ed0be-199e-4712-b64e-41299f02037c.png?type=f274_154" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[주이의 생일을 축하합니다🎂]]></title>
             <link>https://m.vlive.tv/video/289837</link>
@@ -96,6 +76,26 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220809_82/1660026296578L1xVS_JPEG/upload_76295882655069254d374382c-79e7-4fad-ab60-39d4be5f17fd.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
+            <link>https://m.vlive.tv/video/289844</link>
+            <guid>https://m.vlive.tv/video/289844</guid>
+            <pubDate>Thu, 18 Aug 2022 07:42:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220818_99/1660783030610wnAF5_JPEG/upload_10486271578127482701c7065a-d4e7-4bbb-b014-704f30dc4631.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / CSR 첫사랑)]]></title>
+            <link>https://m.vlive.tv/video/289873</link>
+            <guid>https://m.vlive.tv/video/289873</guid>
+            <pubDate>Thu, 18 Aug 2022 07:42:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220818_228/1660798474921N7ehP_JPEG/upload_1048781649933788344ad064fa-d34f-4265-9cf9-7fe38cc334bf.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

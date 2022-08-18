@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 06:54:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 07:42:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Tue, 16 Aug 2022 13:47:00 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220812_138/1660264042259WLREz_JPEG/upload_1043437541963210687545b394-698c-42fc-ade5-7c29af587fb7.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[💙]]></title>
-            <link>https://www.vlive.tv/video/289795</link>
-            <guid>https://www.vlive.tv/video/289795</guid>
-            <pubDate>Wed, 17 Aug 2022 07:42:23 GMT</pubDate>
-            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220817_15/16607237051486hy0B_JPEG/upload_104803437259619571dc5b3dcb-7a6d-4912-a081-a7edfd158094.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[슼즈로운 제주생활 #5｜[SKZ CODE(스키즈 코드)] Ep.24]]></title>
@@ -37,7 +29,7 @@
             <guid>https://www.vlive.tv/video/289843</guid>
             <pubDate>Wed, 17 Aug 2022 18:51:56 GMT</pubDate>
             <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220818_261/1660760382965Uiyfq_JPEG/8501db4f-1e58-11ed-bf94-d4f5ef590144_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220818_261/1660760382965Uiyfq_JPEG/8501db4f-1e58-11ed-bf94-d4f5ef590144_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BLACKPINK - ‘Pink Venom’ M/V TEASER]]></title>
@@ -62,6 +54,14 @@
             <pubDate>Wed, 17 Aug 2022 09:45:22 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220813_82/1660380813500Fk1dP_PNG/upload_1044605464925374207e31b36e-6208-4f04-86e3-da5f0e0b94d9.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[💙]]></title>
+            <link>https://www.vlive.tv/video/289795</link>
+            <guid>https://www.vlive.tv/video/289795</guid>
+            <pubDate>Wed, 17 Aug 2022 07:42:23 GMT</pubDate>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220817_15/16607237051486hy0B_JPEG/upload_104803437259619571dc5b3dcb-7a6d-4912-a081-a7edfd158094.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
