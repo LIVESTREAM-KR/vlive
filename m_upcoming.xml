@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 09:45:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 10:48:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[🌱 HAPPY CHOWON DAY 🌱]]></title>
-            <link>https://m.vlive.tv/video/289861</link>
-            <guid>https://m.vlive.tv/video/289861</guid>
-            <pubDate>Thu, 18 Aug 2022 03:12:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">ICHILLIN’</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220818_122/1660791605386xlnR2_JPEG/upload_7705731728209590638318400-f990-4b32-9d06-60df1ddc44d5.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[145회 아트엠콘서트, 비올리스트 김세준]]></title>
-            <link>https://m.vlive.tv/video/288141</link>
-            <guid>https://m.vlive.tv/video/288141</guid>
-            <pubDate>Tue, 16 Aug 2022 03:01:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:20</span>
-										<span class="txt">ARTMCONCERT</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220720_225/1658303418295oLGwF_PNG/upload_74572986737943995c199e3f9-c6c5-4e72-8ab9-4fbbfbac5195.png?type=f274_154" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
             <link>https://m.vlive.tv/video/289360</link>
@@ -96,6 +76,26 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220818_136/1660783064202sx7Js_JPEG/upload_104862774425402808b029f288-4439-4beb-ac33-596db6800b5e.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Sound K] Mystery Mix with BOiTELLO 보이텔로]]></title>
+            <link>https://m.vlive.tv/video/289849</link>
+            <guid>https://m.vlive.tv/video/289849</guid>
+            <pubDate>Thu, 18 Aug 2022 10:47:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220818_88/1660783327440dpctc_JPEG/upload_1048630371865514238abd3198-59d1-499d-9d50-79ca4401552f.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop]Oh My K-Pop with NIve]]></title>
+            <link>https://m.vlive.tv/video/289852</link>
+            <guid>https://m.vlive.tv/video/289852</guid>
+            <pubDate>Thu, 18 Aug 2022 10:47:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220818_1/1660783489355wfRR1_JPEG/upload_1048631759639852100bf1ef4c-e718-443a-8288-4f5086dd8161.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
