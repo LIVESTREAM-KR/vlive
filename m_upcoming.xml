@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 07:42:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 08:50:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,6 +16,16 @@
 										오전 9:00</span>
 										<span class="txt">MOMOLAND</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220818_11/16607494838729VQSh_JPEG/upload_104829127036080364dc981e8d-9d89-4adc-9c74-f6dde8ea8024.jpeg?type=f274_154" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[솔빈이의 미리 생일파티🎂]]></title>
+            <link>https://m.vlive.tv/video/289879</link>
+            <guid>https://m.vlive.tv/video/289879</guid>
+            <pubDate>Thu, 18 Aug 2022 08:50:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 9:00</span>
+										<span class="txt">LABOUM</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220818_109/1660810684303KesAV_JPEG/upload_77080198575313954462f6201-12de-4ec4-bc6f-140003858469.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[🌱 HAPPY CHOWON DAY 🌱]]></title>
@@ -86,16 +96,6 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220818_99/1660783030610wnAF5_JPEG/upload_10486271578127482701c7065a-d4e7-4bbb-b014-704f30dc4631.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arirang Radio (Super K-Pop / CSR 첫사랑)]]></title>
-            <link>https://m.vlive.tv/video/289873</link>
-            <guid>https://m.vlive.tv/video/289873</guid>
-            <pubDate>Thu, 18 Aug 2022 07:42:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220818_228/1660798474921N7ehP_JPEG/upload_1048781649933788344ad064fa-d34f-4265-9cf9-7fe38cc334bf.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
