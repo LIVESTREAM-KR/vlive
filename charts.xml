@@ -4,17 +4,9 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 06:54:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 07:45:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 1]]></title>
-            <link>https://www.vlive.tv/video/289368</link>
-            <guid>https://www.vlive.tv/video/289368</guid>
-            <pubDate>Tue, 16 Aug 2022 13:47:00 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220812_138/1660264042259WLREz_JPEG/upload_1043437541963210687545b394-698c-42fc-ade5-7c29af587fb7.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[BLACKPINK - ‘Pink Venom’ M/V]]></title>
             <link>https://www.vlive.tv/video/289926</link>
@@ -24,12 +16,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20220819_39/1660883594178KH6nQ_JPEG/upload_1049633260279212082684f284-1a11-4a7a-84e3-e5ea1c4a4f10.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 1]]></title>
+            <link>https://www.vlive.tv/video/289368</link>
+            <guid>https://www.vlive.tv/video/289368</guid>
+            <pubDate>Tue, 16 Aug 2022 13:47:00 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220812_138/1660264042259WLREz_JPEG/upload_1043437541963210687545b394-698c-42fc-ade5-7c29af587fb7.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[보나] Happy bona day🎂 in LA🐰🤍]]></title>
+            <link>https://www.vlive.tv/video/289934</link>
+            <guid>https://www.vlive.tv/video/289934</guid>
+            <pubDate>Fri, 19 Aug 2022 07:44:50 GMT</pubDate>
+            <content:encoded><![CDATA[우주소녀(WJSN)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220819_65/16608900158074SdoY_JPEG/ad035983-1f86-11ed-8d11-48df379ccacc_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[:D👶]]></title>
             <link>https://www.vlive.tv/video/289889</link>
             <guid>https://www.vlive.tv/video/289889</guid>
             <pubDate>Thu, 18 Aug 2022 13:24:31 GMT</pubDate>
             <content:encoded><![CDATA[SF9]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220818_236/1660820104497Em4Ja_JPEG/173695622492222667bbccebb8-0393-4aeb-bea9-0f39155a0d3d.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220818_236/1660820104497Em4Ja_JPEG/173695622492222667bbccebb8-0393-4aeb-bea9-0f39155a0d3d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BLACKPINK - ‘Pink Venom’ M/V TEASER]]></title>
@@ -54,14 +62,6 @@
             <pubDate>Wed, 17 Aug 2022 09:45:22 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220813_82/1660380813500Fk1dP_PNG/upload_1044605464925374207e31b36e-6208-4f04-86e3-da5f0e0b94d9.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[안녕 하늘..❤️]]></title>
-            <link>https://www.vlive.tv/video/289893</link>
-            <guid>https://www.vlive.tv/video/289893</guid>
-            <pubDate>Thu, 18 Aug 2022 19:40:41 GMT</pubDate>
-            <content:encoded><![CDATA[하성운 (HA SUNG WOON)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220818_58/16608251804345zj1f_JPEG/bc7d2b9c-1eef-11ed-b07a-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
