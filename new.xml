@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 18:54:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 19:41:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴욕]]></title>
+            <link>https://www.vlive.tv/video/289990</link>
+            <guid>https://www.vlive.tv/video/289990</guid>
+            <pubDate>Fri, 19 Aug 2022 19:39:57 GMT</pubDate>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220820_43/1660933115111ElPTR_JPEG/5288066661423512b8591117-fdab-446a-b1c1-21d3be1c890d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Just walking]]></title>
             <link>https://www.vlive.tv/video/289988</link>
@@ -398,14 +406,6 @@
             <pubDate>Fri, 19 Aug 2022 04:35:35 GMT</pubDate>
             <content:encoded><![CDATA[ARIRANG K Pop │ 아리랑케이팝]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220819_284/1660889705173QoYEX_PNG/upload_1049694230278576809345eec4-c721-4f4a-9052-1d88d6989c6a.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[소녀시대 태연(SNSD Taeyeon), 퇴근길 차량에 탔다가 다시 내린 이유는? #소녀시대 #태연 #SNSD #윤아 #써니 #티파니 #효연 #유리 #수영 #서현]]></title>
-            <link>https://www.vlive.tv/video/289931</link>
-            <guid>https://www.vlive.tv/video/289931</guid>
-            <pubDate>Fri, 19 Aug 2022 05:47:06 GMT</pubDate>
-            <content:encoded><![CDATA[mydaily]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220819_175/1660885484600yb0RB_JPEG/upload_77155088519874570a41394eb-06fe-4370-9a6e-e4a143679151.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 18:54:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 19:41:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뉴욕]]></title>
+            <link>https://www.vlive.tv/video/289990</link>
+            <guid>https://www.vlive.tv/video/289990</guid>
+            <pubDate>Fri, 19 Aug 2022 19:40:05 GMT</pubDate>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220820_43/1660933115111ElPTR_JPEG/5288066661423512b8591117-fdab-446a-b1c1-21d3be1c890d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Just walking]]></title>
             <link>https://www.vlive.tv/video/289988</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 19 Aug 2022 13:13:02 GMT</pubDate>
             <content:encoded><![CDATA[ONEWE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220819_250/1660915971002rwVyX_JPEG/1b48e813-1fc3-11ed-aee9-505dac8c38f5_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오랜만이에요 그레이스!]]></title>
-            <link>https://www.vlive.tv/video/289977</link>
-            <guid>https://www.vlive.tv/video/289977</guid>
-            <pubDate>Fri, 19 Aug 2022 13:58:17 GMT</pubDate>
-            <content:encoded><![CDATA[멋진녀석들 (GreatGuys)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220819_280/1660915731465TqYBU_JPEG/17379133145681556608225000-a50e-49df-844a-9bf5d02162d8.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
