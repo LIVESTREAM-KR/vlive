@@ -4,17 +4,9 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 17:52:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 18:54:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[미국기준 4주년]]></title>
-            <link>https://www.vlive.tv/video/289986</link>
-            <guid>https://www.vlive.tv/video/289986</guid>
-            <pubDate>Fri, 19 Aug 2022 17:03:00 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220820_17/1660931258347hCfvi_JPEG/5725afaa-1fe6-11ed-8d11-48df379ccacc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Just walking]]></title>
             <link>https://www.vlive.tv/video/289988</link>
@@ -22,6 +14,22 @@
             <pubDate>Fri, 19 Aug 2022 17:51:23 GMT</pubDate>
             <content:encoded><![CDATA[sema]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220820_265/1660930599980v9TEr_JPEG/173718970904483635d3f19d05-b775-4497-9c34-0afecf2b4280.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뉴욕 치즈케익 먹방]]></title>
+            <link>https://www.vlive.tv/video/289989</link>
+            <guid>https://www.vlive.tv/video/289989</guid>
+            <pubDate>Fri, 19 Aug 2022 18:53:01 GMT</pubDate>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220820_266/1660933003714znLMg_JPEG/1737213746929790958fccbb50-ee0c-4c0c-86a9-182fc4b5bff1.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국기준 4주년]]></title>
+            <link>https://www.vlive.tv/video/289986</link>
+            <guid>https://www.vlive.tv/video/289986</guid>
+            <pubDate>Fri, 19 Aug 2022 17:03:00 GMT</pubDate>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220820_17/1660931258347hCfvi_JPEG/5725afaa-1fe6-11ed-8d11-48df379ccacc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[선공개] 강남과 결혼에 대해 이야기하는 박세리 👰 "자연스러운 만남 추구" 리치 누나의 이상형은?, MBC 220822 방송]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 19 Aug 2022 13:58:17 GMT</pubDate>
             <content:encoded><![CDATA[멋진녀석들 (GreatGuys)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220819_280/1660915731465TqYBU_JPEG/17379133145681556608225000-a50e-49df-844a-9bf5d02162d8.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[💜 HAPPY (Belated) Lara DAY 💜]]></title>
-            <link>https://www.vlive.tv/video/289969</link>
-            <guid>https://www.vlive.tv/video/289969</guid>
-            <pubDate>Fri, 19 Aug 2022 13:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[드림노트 (DreamNote)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220819_48/1660910544535SqWnF_JPEG/173786081528217644ab11641a-d907-4af6-8443-80e4cdfd0197.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
