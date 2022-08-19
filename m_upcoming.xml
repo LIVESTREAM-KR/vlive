@@ -4,9 +4,19 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 09:47:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 10:48:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Arirang Radio (Radio'n Us / Jeon Tae Won 전태원)]]></title>
+            <link>https://m.vlive.tv/video/289957</link>
+            <guid>https://m.vlive.tv/video/289957</guid>
+            <pubDate>Fri, 19 Aug 2022 10:48:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220819_28/1660905773209Ot1nG_JPEG/upload_1049854475411244165db13475-942a-4380-9752-4eddf87d1e6c.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
             <link>https://m.vlive.tv/video/289844</link>
@@ -86,16 +96,6 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220818_21/1660783145110aqdaY_JPEG/upload_770526826096115487c4e7599-51dd-4396-b1be-5108d89ea4b0.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Sound K] Song Express ver.3 with Denise 데니스]]></title>
-            <link>https://m.vlive.tv/video/289850</link>
-            <guid>https://m.vlive.tv/video/289850</guid>
-            <pubDate>Fri, 19 Aug 2022 09:46:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220818_167/16607833878575m2TS_JPEG/upload_1048630855612441426a0f2bec-b89f-457b-bd81-6436b24e0f22.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
