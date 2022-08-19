@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 17:04:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 17:52:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -464,12 +464,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220820_244/1660927921890iWzhC_JPEG/upload_10500763198080514710a23b9e-2e90-4b04-95ce-e9891a145f9e.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Just walking]]></title>
+            <link>https://www.vlive.tv/video/289988</link>
+            <guid>https://www.vlive.tv/video/289988</guid>
+            <pubDate>Fri, 19 Aug 2022 17:52:14 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:36]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220820_265/1660930599980v9TEr_JPEG/173718970904483635d3f19d05-b775-4497-9c34-0afecf2b4280.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[미국기준 4주년]]></title>
             <link>https://www.vlive.tv/video/289986</link>
             <guid>https://www.vlive.tv/video/289986</guid>
             <pubDate>Fri, 19 Aug 2022 17:03:51 GMT</pubDate>
-            <content:encoded><![CDATA[오후 4:56]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/289986/thumb?type=f228_128" length="0" type="image//live/289986/thumb"/>
+            <content:encoded><![CDATA[오후 5:47]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220820_17/1660931258347hCfvi_JPEG/5725afaa-1fe6-11ed-8d11-48df379ccacc_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 17:04:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 17:52:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,15 @@
             <guid>https://www.vlive.tv/video/289986</guid>
             <pubDate>Fri, 19 Aug 2022 17:02:52 GMT</pubDate>
             <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220820_17/1660931258347hCfvi_JPEG/5725afaa-1fe6-11ed-8d11-48df379ccacc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Just walking]]></title>
+            <link>https://www.vlive.tv/video/289988</link>
+            <guid>https://www.vlive.tv/video/289988</guid>
+            <pubDate>Fri, 19 Aug 2022 17:51:15 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220820_265/1660930599980v9TEr_JPEG/173718970904483635d3f19d05-b775-4497-9c34-0afecf2b4280.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[선공개] 강남과 결혼에 대해 이야기하는 박세리 👰 "자연스러운 만남 추구" 리치 누나의 이상형은?, MBC 220822 방송]]></title>
@@ -397,14 +406,6 @@
             <pubDate>Fri, 19 Aug 2022 05:47:06 GMT</pubDate>
             <content:encoded><![CDATA[ARIRANG K Pop │ 아리랑케이팝]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220819_170/1660883970412XNobs_PNG/upload_104963702118583598c6066bfd-deaf-48cb-b3c4-a373c441593e.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[인녕하세요]]></title>
-            <link>https://www.vlive.tv/video/289925</link>
-            <guid>https://www.vlive.tv/video/289925</guid>
-            <pubDate>Fri, 19 Aug 2022 04:35:35 GMT</pubDate>
-            <content:encoded><![CDATA[sema]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220819_262/1660878056499ty5l8_JPEG/173666427473949584733ea3a8-ef5f-4a0e-b36e-342c1dc4f504.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
