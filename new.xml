@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Aug 2022 15:46:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 16:56:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방에 콕]]></title>
+            <link>https://www.vlive.tv/video/290011</link>
+            <guid>https://www.vlive.tv/video/290011</guid>
+            <pubDate>Sat, 20 Aug 2022 16:55:23 GMT</pubDate>
+            <content:encoded><![CDATA[EPEX]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220821_80/1661011209797oBtSo_JPEG/39ce49c6-20a0-11ed-aa59-d4f5ef58ac88_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[GOOD💭]]></title>
             <link>https://www.vlive.tv/video/290012</link>
@@ -398,14 +406,6 @@
             <pubDate>Fri, 19 Aug 2022 13:12:54 GMT</pubDate>
             <content:encoded><![CDATA[MBC 예능]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220819_214/16609132189916ADXN_JPEG/upload_104992933662397894b651fff0-5dbe-4617-890e-bdc811ac13f1.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔피아에게 떼굴떼굴🐔]]></title>
-            <link>https://www.vlive.tv/video/289967</link>
-            <guid>https://www.vlive.tv/video/289967</guid>
-            <pubDate>Fri, 19 Aug 2022 11:41:05 GMT</pubDate>
-            <content:encoded><![CDATA[N.Flying]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220819_76/1660913059029lwnED_JPEG/b2cbcf3a-1fbb-11ed-bbda-505dac8c37f3_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

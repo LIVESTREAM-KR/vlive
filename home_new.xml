@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Aug 2022 15:46:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 16:56:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방에 콕]]></title>
+            <link>https://www.vlive.tv/video/290011</link>
+            <guid>https://www.vlive.tv/video/290011</guid>
+            <pubDate>Sat, 20 Aug 2022 16:55:32 GMT</pubDate>
+            <content:encoded><![CDATA[EPEX]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220821_80/1661011209797oBtSo_JPEG/39ce49c6-20a0-11ed-aa59-d4f5ef58ac88_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[GOOD💭]]></title>
             <link>https://www.vlive.tv/video/290012</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 20 Aug 2022 11:40:08 GMT</pubDate>
             <content:encoded><![CDATA[bugAboo]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220820_151/16609613930564goGY_JPEG/upload_105038916726284241274f024e-5abd-4328-9ca4-2584e61839e6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[선공개] 홈박스 START 🎬 엄지윤 X 김원훈이 소개해 주는 <북한산 숏방스> 집에서 즐기는 북한산 뷰, MBC 220821 방송]]></title>
-            <link>https://www.vlive.tv/video/290004</link>
-            <guid>https://www.vlive.tv/video/290004</guid>
-            <pubDate>Sat, 20 Aug 2022 10:44:11 GMT</pubDate>
-            <content:encoded><![CDATA[MBC 예능]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220820_16/1660989901928ujic0_JPEG/upload_772593722759708217d65ef88-07e3-41d0-b9bb-b47518066f1e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
