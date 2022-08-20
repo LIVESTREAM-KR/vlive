@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Aug 2022 22:44:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 23:43:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[굿모닝 라이브]]></title>
+            <link>https://www.vlive.tv/video/290013</link>
+            <guid>https://www.vlive.tv/video/290013</guid>
+            <pubDate>Sat, 20 Aug 2022 23:42:27 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220821_294/16610382862505jqVg_JPEG/54656062529098875fc99bc39-88b8-4a6a-86be-f91968926f17.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[방에 콕]]></title>
             <link>https://www.vlive.tv/video/290011</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 20 Aug 2022 11:40:08 GMT</pubDate>
             <content:encoded><![CDATA[LUCY 루시]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220820_182/16609882251500tQNa_PNG/upload_77257792391727519e6bfba37-4837-4096-b55a-647ad6edd857.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[💖bugAboo 300days💖]]></title>
-            <link>https://www.vlive.tv/video/289993</link>
-            <guid>https://www.vlive.tv/video/289993</guid>
-            <pubDate>Sat, 20 Aug 2022 11:40:08 GMT</pubDate>
-            <content:encoded><![CDATA[bugAboo]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220820_151/16609613930564goGY_JPEG/upload_105038916726284241274f024e-5abd-4328-9ca4-2584e61839e6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
