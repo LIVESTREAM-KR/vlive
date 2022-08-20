@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Aug 2022 04:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 05:00:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[LIVE] LA❤️]]></title>
+            <link>https://www.vlive.tv/video/289995</link>
+            <guid>https://www.vlive.tv/video/289995</guid>
+            <pubDate>Sat, 20 Aug 2022 04:59:21 GMT</pubDate>
+            <content:encoded><![CDATA[CRAVITY]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/289995/thumb?type=f228_128" length="0" type="image//live/289995/thumb"/>
+        </item>
         <item>
             <title><![CDATA[[선공개] 혜자 리액션 이석훈 & 텐션 폭발 김호영의 전화 통화📞 "나 김호영 많이 좋아하네~💕", MBC 220820 방송]]></title>
             <link>https://www.vlive.tv/video/289992</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 19 Aug 2022 13:58:17 GMT</pubDate>
             <content:encoded><![CDATA[ONEWE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220819_194/1660918402804eGceu_JPEG/d41ca26a-1fc8-11ed-8bc9-d4f5ef5906a4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[활]]></title>
-            <link>https://www.vlive.tv/video/289976</link>
-            <guid>https://www.vlive.tv/video/289976</guid>
-            <pubDate>Fri, 19 Aug 2022 13:58:17 GMT</pubDate>
-            <content:encoded><![CDATA[멋진녀석들 (GreatGuys)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220819_27/16609156249228THYD_JPEG/5270576479400359af338e59-9c27-4abc-aa4c-ad19c03f9ce6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
