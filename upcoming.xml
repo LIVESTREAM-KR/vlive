@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Aug 2022 14:42:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 15:46:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -200,20 +200,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20220820_169/1661000293967v8lya_JPEG/173875892956822275e0ad4852-db78-4159-8f0e-48a6046a7ce5.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[방에 콕]]></title>
-            <link>https://www.vlive.tv/video/290011</link>
-            <guid>https://www.vlive.tv/video/290011</guid>
-            <pubDate>Sat, 20 Aug 2022 14:42:05 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:26]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/290011/thumb?type=f228_128" length="0" type="image//live/290011/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[GOOD💭]]></title>
-            <link>https://www.vlive.tv/video/290012</link>
-            <guid>https://www.vlive.tv/video/290012</guid>
-            <pubDate>Sat, 20 Aug 2022 14:42:05 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:26]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220820_71/1661005587784uregb_JPEG/173793988356103623d236bfd4-ab2d-4b4f-a7ca-8f8cde30022f.jpg?type=f228_128" length="0" type="image/jpg"/>
+            <title><![CDATA[하성운 (HA SUNG WOON) - The 7th Mini Album 'Strange World' Album Preview]]></title>
+            <link>https://www.vlive.tv/video/289920</link>
+            <guid>https://www.vlive.tv/video/289920</guid>
+            <pubDate>Sat, 20 Aug 2022 15:46:15 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220819_101/16608712106869Fnnf_JPEG/upload_77140808281381931fd7e567a-5387-46a2-99f8-d9563eb96752.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[GRWM💄 간단 데일리 메이크업 (제주 일상 vlog)]]></title>
@@ -222,6 +214,22 @@
             <pubDate>Sat, 20 Aug 2022 02:55:46 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220819_161/1660896451326imW7S_PNG/upload_1049761598348862708b034aae-911c-4f5b-966a-b4e46789d92a.png?type=f228_128" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[DKB:FOOTAGE\24/7\CHOREOGRAPHY SPOILER]]></title>
+            <link>https://www.vlive.tv/video/289945</link>
+            <guid>https://www.vlive.tv/video/289945</guid>
+            <pubDate>Sat, 20 Aug 2022 15:46:15 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220819_207/1660897882220Dyxcp_JPEG/upload_77167439490162194d822bcd4-ccbb-4216-92f1-08593a1f6628.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GOOD💭]]></title>
+            <link>https://www.vlive.tv/video/290012</link>
+            <guid>https://www.vlive.tv/video/290012</guid>
+            <pubDate>Sat, 20 Aug 2022 14:42:05 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:05]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220820_71/1661005587784uregb_JPEG/173793988356103623d236bfd4-ab2d-4b4f-a7ca-8f8cde30022f.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
