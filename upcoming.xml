@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Aug 2022 06:51:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 07:42:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,20 +48,36 @@
             <enclosure url="https://v-phinf.pstatic.net/20220821_140/1661061929954jhJqy_JPEG/09333a9e-2117-11ed-a7c3-d4f5ef58ad5e_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[헤이걸스랑🐰🐥✨🌈]]></title>
-            <link>https://www.vlive.tv/video/290019</link>
-            <guid>https://www.vlive.tv/video/290019</guid>
-            <pubDate>Sun, 21 Aug 2022 06:50:45 GMT</pubDate>
-            <content:encoded><![CDATA[오전 6:30]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220821_275/1661063428470D5s02_JPEG/173851819910634092d0a1cd53-c311-4427-89d0-30198deb1c78.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[윈든즈🐻🦔의 해외 여행 썰 풀기 ~! Eden & Winnie Travel experiences talk! Come and join us!]]></title>
             <link>https://www.vlive.tv/video/290017</link>
             <guid>https://www.vlive.tv/video/290017</guid>
             <pubDate>Sun, 21 Aug 2022 05:43:36 GMT</pubDate>
             <content:encoded><![CDATA[오전 6:32]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220821_117/16610586266445xnWM_JPEG/54135782011975309bf7588e-b79c-456f-a47a-3a1f00a7cf8e.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[속상해]]></title>
+            <link>https://www.vlive.tv/video/290021</link>
+            <guid>https://www.vlive.tv/video/290021</guid>
+            <pubDate>Sun, 21 Aug 2022 07:41:27 GMT</pubDate>
+            <content:encoded><![CDATA[오전 7:11]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220821_201/16610659104271yKTL_JPEG/1739414274161597415eb2879d-a0a4-416b-9faa-ed2752833e33.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠깐만]]></title>
+            <link>https://www.vlive.tv/video/290020</link>
+            <guid>https://www.vlive.tv/video/290020</guid>
+            <pubDate>Sun, 21 Aug 2022 07:41:27 GMT</pubDate>
+            <content:encoded><![CDATA[오전 7:12]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220821_63/1661065224517Ox0nc_JPEG/1738535355116139656eda3da4-f9f1-488c-b418-a8635ff6f4fa.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[헤이걸스랑🐰🐥✨🌈]]></title>
+            <link>https://www.vlive.tv/video/290019</link>
+            <guid>https://www.vlive.tv/video/290019</guid>
+            <pubDate>Sun, 21 Aug 2022 06:50:45 GMT</pubDate>
+            <content:encoded><![CDATA[오전 7:31]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220821_275/1661063428470D5s02_JPEG/173851819910634092d0a1cd53-c311-4427-89d0-30198deb1c78.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
