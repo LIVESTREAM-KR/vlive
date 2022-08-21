@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Aug 2022 04:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 05:01:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밥 먹어요🐻]]></title>
+            <link>https://www.vlive.tv/video/290015</link>
+            <guid>https://www.vlive.tv/video/290015</guid>
+            <pubDate>Sun, 21 Aug 2022 04:59:40 GMT</pubDate>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/290015/thumb?type=f228_128" length="0" type="image//live/290015/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[밥 먹어요]]></title>
+            <link>https://www.vlive.tv/video/290014</link>
+            <guid>https://www.vlive.tv/video/290014</guid>
+            <pubDate>Sun, 21 Aug 2022 04:59:40 GMT</pubDate>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220821_264/1661055276693x2s2f_JPEG/a08bd73a-2107-11ed-aee9-505dac8c38f5_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[굿모닝 라이브]]></title>
             <link>https://www.vlive.tv/video/290013</link>
@@ -110,22 +126,6 @@
             <pubDate>Sat, 20 Aug 2022 10:44:11 GMT</pubDate>
             <content:encoded><![CDATA[TRENDZ (트렌드지)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220820_102/1660991719418txNqP_JPEG/173780093405464203b2dc9cf8-5b5a-446f-acda-511c2c2a9d35.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HI-YENA] EP 06. 여긴 뭐든 이뤄질 수 있는 나의 별]]></title>
-            <link>https://www.vlive.tv/video/289936</link>
-            <guid>https://www.vlive.tv/video/289936</guid>
-            <pubDate>Sat, 20 Aug 2022 11:40:08 GMT</pubDate>
-            <content:encoded><![CDATA[YENA(최예나)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220819_113/1660891169379ikqEi_JPEG/upload_10497088286566296396a36b50-165b-4757-a505-61dfbad04406.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LUCY - 놀이 (Playing Performance ver.)]]></title>
-            <link>https://www.vlive.tv/video/290003</link>
-            <guid>https://www.vlive.tv/video/290003</guid>
-            <pubDate>Sat, 20 Aug 2022 11:40:08 GMT</pubDate>
-            <content:encoded><![CDATA[LUCY 루시]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220820_182/16609882251500tQNa_PNG/upload_77257792391727519e6bfba37-4837-4096-b55a-647ad6edd857.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

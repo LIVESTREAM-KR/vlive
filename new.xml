@@ -4,9 +4,24 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Aug 2022 04:15:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2022 05:01:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밥 먹어요🐻]]></title>
+            <link>https://www.vlive.tv/video/290015</link>
+            <guid>https://www.vlive.tv/video/290015</guid>
+            <pubDate>Sun, 21 Aug 2022 04:59:31 GMT</pubDate>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[밥 먹어요]]></title>
+            <link>https://www.vlive.tv/video/290014</link>
+            <guid>https://www.vlive.tv/video/290014</guid>
+            <pubDate>Sun, 21 Aug 2022 04:59:31 GMT</pubDate>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220821_264/1661055276693x2s2f_JPEG/a08bd73a-2107-11ed-aee9-505dac8c38f5_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[굿모닝 라이브]]></title>
             <link>https://www.vlive.tv/video/290013</link>
@@ -390,22 +405,6 @@
             <pubDate>Fri, 19 Aug 2022 13:58:08 GMT</pubDate>
             <content:encoded><![CDATA[RoaD-B]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220819_224/1660914953104hi9yH_JPEG/50e2dc2d-1fc0-11ed-b41c-48df379cc9e4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arirang Radio (Radio'n Us / Jeon Tae Won 전태원)]]></title>
-            <link>https://www.vlive.tv/video/289957</link>
-            <guid>https://www.vlive.tv/video/289957</guid>
-            <pubDate>Fri, 19 Aug 2022 11:41:05 GMT</pubDate>
-            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220819_140/1660906176590aDnwg_JPEG/upload_10498590963919822986d9ae16-8468-491f-b48b-63263483fb8b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[몬채널][B] EP.325 JEDDAH K-POP FESTIVAL]]></title>
-            <link>https://www.vlive.tv/video/289747</link>
-            <guid>https://www.vlive.tv/video/289747</guid>
-            <pubDate>Fri, 19 Aug 2022 13:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[MONSTA X]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220816_278/1660644691834JJ90j_JPEG/upload_10472442299323412270bce318-20de-47ca-aeed-7429d41ea376.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
