@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 15:49:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 16:59:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잠들기전^_^]]></title>
+            <link>https://www.vlive.tv/video/290108</link>
+            <guid>https://www.vlive.tv/video/290108</guid>
+            <pubDate>Mon, 22 Aug 2022 16:58:06 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220823_5/1661186276138nJX8E_JPEG/2abe7041-2238-11ed-8613-505dacfba98a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[생존]]></title>
             <link>https://www.vlive.tv/video/290107</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 22 Aug 2022 13:24:08 GMT</pubDate>
             <content:encoded><![CDATA[TRENDZ (트렌드지)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220822_172/16611690097796ihir_JPEG/174044608765125967f256b2b7-1a9a-4b76-9af5-7ff0f358bbbf.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[220822] 월요환노래방]]></title>
-            <link>https://www.vlive.tv/video/290094</link>
-            <guid>https://www.vlive.tv/video/290094</guid>
-            <pubDate>Mon, 22 Aug 2022 11:40:42 GMT</pubDate>
-            <content:encoded><![CDATA[VANNER (배너)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220822_225/1661170403869hRIh4_JPEG/6db0ce14-2213-11ed-bf94-d4f5ef590144_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

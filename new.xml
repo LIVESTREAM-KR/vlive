@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 15:49:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 16:59:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잠들기전^_^]]></title>
+            <link>https://www.vlive.tv/video/290108</link>
+            <guid>https://www.vlive.tv/video/290108</guid>
+            <pubDate>Mon, 22 Aug 2022 16:57:59 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220823_5/1661186276138nJX8E_JPEG/2abe7041-2238-11ed-8613-505dacfba98a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[생존]]></title>
             <link>https://www.vlive.tv/video/290107</link>
@@ -398,14 +406,6 @@
             <pubDate>Mon, 22 Aug 2022 04:53:25 GMT</pubDate>
             <content:encoded><![CDATA[Ktimes]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220822_171/1661142152704fKi9j_PNG/upload_105221789807725790a2b77930-ea20-454b-94ed-3c9443156764.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[성덕 유병재 "신하균(Shin Ha kyun) 덕후, 오마주 넣었다" 수줍은 눈맞춤까지('유니콘' 제작발표회)]]></title>
-            <link>https://www.vlive.tv/video/290057</link>
-            <guid>https://www.vlive.tv/video/290057</guid>
-            <pubDate>Mon, 22 Aug 2022 04:53:25 GMT</pubDate>
-            <content:encoded><![CDATA[Ktimes]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220822_177/1661141266965behVX_PNG/upload_1052209836510655836ae9d151-6f32-4e76-b9da-3432e884b30f.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
