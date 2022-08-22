@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 13:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 13:59:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,20 +328,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220822_144/1661168113186zgd3e_JPEG/015f5f55-220d-11ed-9aa2-505dac8c3721_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[피네고사 정답풀이📝]]></title>
-            <link>https://www.vlive.tv/video/290091</link>
-            <guid>https://www.vlive.tv/video/290091</guid>
-            <pubDate>Mon, 22 Aug 2022 13:25:03 GMT</pubDate>
-            <content:encoded><![CDATA[오전 11:48]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220822_252/16611688947793HKiP_JPEG/60ae425a-220f-11ed-999c-505dac8c3639_03.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[앨리스 VS 밸런스]]></title>
             <link>https://www.vlive.tv/video/290092</link>
             <guid>https://www.vlive.tv/video/290092</guid>
             <pubDate>Mon, 22 Aug 2022 11:41:31 GMT</pubDate>
             <content:encoded><![CDATA[오전 11:48]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220822_49/1661166001819ejrGn_JPEG/11953372392895081cca1b002-ab03-4f47-8dd9-ebafc5ce7651.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피네고사 정답풀이📝]]></title>
+            <link>https://www.vlive.tv/video/290091</link>
+            <guid>https://www.vlive.tv/video/290091</guid>
+            <pubDate>Mon, 22 Aug 2022 13:25:03 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:48]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220822_252/16611688947793HKiP_JPEG/60ae425a-220f-11ed-999c-505dac8c3639_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서빈이와 100%💗]]></title>
@@ -414,6 +414,30 @@
             <pubDate>Mon, 22 Aug 2022 13:25:03 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:06]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220822_88/16611735787926HKAm_JPEG/173962034788836560fd1536a7-aed4-4f1a-b575-e3bc920bba99.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[월요팅 하셨나요?😊]]></title>
+            <link>https://www.vlive.tv/video/290101</link>
+            <guid>https://www.vlive.tv/video/290101</guid>
+            <pubDate>Mon, 22 Aug 2022 13:59:03 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:35]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/290101/thumb?type=f228_128" length="0" type="image//live/290101/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[또 영광💙]]></title>
+            <link>https://www.vlive.tv/video/290102</link>
+            <guid>https://www.vlive.tv/video/290102</guid>
+            <pubDate>Mon, 22 Aug 2022 13:59:03 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:42]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/290102/thumb?type=f228_128" length="0" type="image//live/290102/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[비.. 와..요..]]></title>
+            <link>https://www.vlive.tv/video/290103</link>
+            <guid>https://www.vlive.tv/video/290103</guid>
+            <pubDate>Mon, 22 Aug 2022 13:59:03 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:52]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220822_203/1661176320523lvBzX_JPEG/1739647119714012616a443f7d-86b6-4765-8ce3-62cffeb19dd8.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
