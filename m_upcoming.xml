@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 09:46:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 10:48:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[LIVE] SIMPLY K-POP CON-TOUR (📍Poland)]]></title>
-            <link>https://m.vlive.tv/video/289935</link>
-            <guid>https://m.vlive.tv/video/289935</guid>
-            <pubDate>Fri, 19 Aug 2022 06:54:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220819_89/16608905122900inHw_PNG/upload_104970184111141246854610bd-0f8d-4ee3-a04f-1e1c11d18d1d.png?type=f274_154" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Radio'n Us / msftz 미스피츠)]]></title>
             <link>https://m.vlive.tv/video/289960</link>
@@ -96,6 +86,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220818_167/16607833878575m2TS_JPEG/upload_1048630855612441426a0f2bec-b89f-457b-bd81-6436b24e0f22.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / AHN YE EUN 안예은)]]></title>
+            <link>https://m.vlive.tv/video/289874</link>
+            <guid>https://m.vlive.tv/video/289874</guid>
+            <pubDate>Mon, 22 Aug 2022 10:48:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220818_87/1660798623560TWxLd_JPEG/upload_1048782964782442816573a8f9-dc34-45fc-a8ff-92c6fcf04a78.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
