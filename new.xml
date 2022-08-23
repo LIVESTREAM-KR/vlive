@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 07:46:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 08:50:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[박희순] What' in my bag🎒 왓츠 인 마이 백]]></title>
+            <link>https://www.vlive.tv/video/290126</link>
+            <guid>https://www.vlive.tv/video/290126</guid>
+            <pubDate>Tue, 23 Aug 2022 08:48:45 GMT</pubDate>
+            <content:encoded><![CDATA[SALT Entertainment]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220823_250/1661229550736etkQJ_JPEG/upload_105309228914262864bb17d52d-22c3-4810-a393-52243fef1282.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Sound K] Mystery Mix with BOiTELLO 보이텔로]]></title>
             <link>https://www.vlive.tv/video/289849</link>
@@ -398,14 +406,6 @@
             <pubDate>Mon, 22 Aug 2022 10:47:09 GMT</pubDate>
             <content:encoded><![CDATA[CIX]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220822_289/1661162505261eT4AT_JPEG/66ea34a1-2201-11ed-8bc9-d4f5ef5906a4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘458’로 컴백한 CIX 나는 빨머 승훈]]></title>
-            <link>https://www.vlive.tv/video/290084</link>
-            <guid>https://www.vlive.tv/video/290084</guid>
-            <pubDate>Mon, 22 Aug 2022 10:47:09 GMT</pubDate>
-            <content:encoded><![CDATA[CIX]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220822_253/1661162405832DHDUQ_JPEG/1e1fb781-2201-11ed-9f1e-d4f5ef5a9532_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

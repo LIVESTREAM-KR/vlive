@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 07:46:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 08:50:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[박희순] What' in my bag🎒 왓츠 인 마이 백]]></title>
+            <link>https://www.vlive.tv/video/290126</link>
+            <guid>https://www.vlive.tv/video/290126</guid>
+            <pubDate>Tue, 23 Aug 2022 08:48:54 GMT</pubDate>
+            <content:encoded><![CDATA[SALT Entertainment]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220823_250/1661229550736etkQJ_JPEG/upload_105309228914262864bb17d52d-22c3-4810-a393-52243fef1282.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Sound K] Mystery Mix with BOiTELLO 보이텔로]]></title>
             <link>https://www.vlive.tv/video/289849</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 23 Aug 2022 03:13:56 GMT</pubDate>
             <content:encoded><![CDATA[WINNER]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220713_264/1657705522186zPVIa_JPEG/170581186136348674f326c2a3-0ae0-4649-b3d9-549663ea80f4.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[REPLAY] 라방]]></title>
-            <link>https://www.vlive.tv/video/288589</link>
-            <guid>https://www.vlive.tv/video/288589</guid>
-            <pubDate>Tue, 23 Aug 2022 03:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[WINNER]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220727_65/1658917106307dfRJO_JPEG/5f6cfe43-0d95-11ed-81b1-505dac8c3639_08.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
