@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 15:47:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 17:01:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -396,8 +396,40 @@
             <link>https://www.vlive.tv/video/290163</link>
             <guid>https://www.vlive.tv/video/290163</guid>
             <pubDate>Tue, 23 Aug 2022 15:47:09 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:34]]></content:encoded>
+            <content:encoded><![CDATA[오후 4:01]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220824_300/1661268848431h8s4Y_JPEG/174144379405712770d71215b0-b2e5-4e8f-9cab-591503c98d60.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수민이랑 보니 잠깐🐿🐥]]></title>
+            <link>https://www.vlive.tv/video/290166</link>
+            <guid>https://www.vlive.tv/video/290166</guid>
+            <pubDate>Tue, 23 Aug 2022 17:00:44 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:34]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220824_146/16612724497794pa9w_JPEG/0cb12a28-2301-11ed-b6e8-48df37ae3dc4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘 저녁 6시 신곡 <Cheese Burger> 발매합니다.]]></title>
+            <link>https://www.vlive.tv/video/290167</link>
+            <guid>https://www.vlive.tv/video/290167</guid>
+            <pubDate>Tue, 23 Aug 2022 17:00:44 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:35]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220824_212/166127250424370fiE_JPEG/1740608982101317423e2b5dbd-6e54-4ddd-a836-cbe35b87c782.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🛌🥲🌃]]></title>
+            <link>https://www.vlive.tv/video/290165</link>
+            <guid>https://www.vlive.tv/video/290165</guid>
+            <pubDate>Tue, 23 Aug 2022 17:00:44 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:46]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220824_28/1661273172713kXWhe_JPEG/dea9f3ec-2302-11ed-a57b-505dac8c385b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🍚]]></title>
+            <link>https://www.vlive.tv/video/290168</link>
+            <guid>https://www.vlive.tv/video/290168</guid>
+            <pubDate>Tue, 23 Aug 2022 17:00:44 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:52]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/290168/thumb?type=f228_128" length="0" type="image//live/290168/thumb"/>
         </item>
     </channel>
 </rss>
