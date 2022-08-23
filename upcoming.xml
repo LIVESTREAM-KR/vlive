@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 11:42:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 13:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -296,14 +296,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220823_62/1661250760949xe90h_JPEG/14456223672512673242218ce4-ca5d-4373-a506-276eadc8b4ae.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[#여름의_엔딩요정_오예준 🧚🏻‍♂️]]></title>
-            <link>https://www.vlive.tv/video/290148</link>
-            <guid>https://www.vlive.tv/video/290148</guid>
-            <pubDate>Tue, 23 Aug 2022 11:41:29 GMT</pubDate>
-            <content:encoded><![CDATA[오전 11:23]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/290148/thumb?type=f228_128" length="0" type="image//live/290148/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 2]]></title>
             <link>https://www.vlive.tv/video/289928</link>
             <guid>https://www.vlive.tv/video/289928</guid>
@@ -312,12 +304,36 @@
             <enclosure url="https://v-phinf.pstatic.net/20220822_18/1661157265711LxzVE_JPEG/upload_10523698449209740410eab3d1-78d3-4cad-a1aa-bcedeb6371f3.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[프리티지(PRITTI-G) 'LOVE TAKER' MV Teaser SARANG (사랑)]]></title>
+            <title><![CDATA[🎹🏍건반 라이더즈 🐮🪵]]></title>
+            <link>https://www.vlive.tv/video/290153</link>
+            <guid>https://www.vlive.tv/video/290153</guid>
+            <pubDate>Tue, 23 Aug 2022 13:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[오후 12:15]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/290153/thumb?type=f228_128" length="0" type="image//live/290153/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[#여름의_엔딩요정_오예준 🧚🏻‍♂️]]></title>
+            <link>https://www.vlive.tv/video/290148</link>
+            <guid>https://www.vlive.tv/video/290148</guid>
+            <pubDate>Tue, 23 Aug 2022 11:41:29 GMT</pubDate>
+            <content:encoded><![CDATA[오후 12:45]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220823_75/1661258728720QPOI2_JPEG/5e44f7a0-22e0-11ed-8613-505dacfba98a_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안녕 민트!! 모두모여라!!]]></title>
+            <link>https://www.vlive.tv/video/290158</link>
+            <guid>https://www.vlive.tv/video/290158</guid>
+            <pubDate>Tue, 23 Aug 2022 13:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[오후 12:58]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/290158/thumb?type=f228_128" length="0" type="image//live/290158/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[프리티지(PRITTI-G) 'LOVE TAKER' M/V Teaser SARANG (사랑)]]></title>
             <link>https://www.vlive.tv/video/290150</link>
             <guid>https://www.vlive.tv/video/290150</guid>
             <pubDate>Tue, 23 Aug 2022 11:41:29 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:00]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220823_160/1661254883664ljQIW_JPEG/upload_1053346005897070282c4a2b0a-0744-4eb5-a93a-314f566fcb27.JPG?type=f228_128" length="0" type="image/JPG"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220823_179/1661258332594HFpvK_JPEG/upload_1053346005897070282c4a2b0a-0744-4eb5-a93a-314f566fcb27.JPG?type=f228_128" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
