@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 13:58:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 14:43:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -312,14 +312,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220823_75/1661258728720QPOI2_JPEG/5e44f7a0-22e0-11ed-8613-505dacfba98a_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[안녕 민트!! 모두모여라!!]]></title>
-            <link>https://www.vlive.tv/video/290158</link>
-            <guid>https://www.vlive.tv/video/290158</guid>
-            <pubDate>Tue, 23 Aug 2022 13:13:51 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:58]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/290158/thumb?type=f228_128" length="0" type="image//live/290158/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[오랜만이에요🐢]]></title>
             <link>https://www.vlive.tv/video/290159</link>
             <guid>https://www.vlive.tv/video/290159</guid>
@@ -336,12 +328,36 @@
             <enclosure url="https://v-phinf.pstatic.net/20220823_171/1661261000727eoYfd_JPEG/f3bba76e-22e5-11ed-8892-505dac8c35ff_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[프리티지(PRITTI-G) 'LOVE TAKER' M/V Teaser SARANG (사랑)]]></title>
+            <title><![CDATA[안녕 민트!! 모두모여라!!]]></title>
+            <link>https://www.vlive.tv/video/290158</link>
+            <guid>https://www.vlive.tv/video/290158</guid>
+            <pubDate>Tue, 23 Aug 2022 13:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:05]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220823_97/1661263553575jWtD8_JPEG/d111b1af-22eb-11ed-8892-505dac8c35ff_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤나잇🌙dD]]></title>
+            <link>https://www.vlive.tv/video/290161</link>
+            <guid>https://www.vlive.tv/video/290161</guid>
+            <pubDate>Tue, 23 Aug 2022 14:43:29 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:21]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220823_83/1661264502105iuLBp_JPEG/120518726821832597e0a17d0-1e5e-414c-9e10-d80845c7704b.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어때영?]]></title>
+            <link>https://www.vlive.tv/video/290162</link>
+            <guid>https://www.vlive.tv/video/290162</guid>
+            <pubDate>Tue, 23 Aug 2022 14:43:29 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:30]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220823_228/1661264911087NQ8tn_JPEG/174140525075714675c88563f4-6b90-4de1-a611-b2a49530a2c9.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프리티지(PRITTI-G) 'LOVE TAKER' M/V Teaser 'SARANG']]></title>
             <link>https://www.vlive.tv/video/290150</link>
             <guid>https://www.vlive.tv/video/290150</guid>
             <pubDate>Tue, 23 Aug 2022 11:41:29 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:00]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220823_179/1661258332594HFpvK_JPEG/upload_1053346005897070282c4a2b0a-0744-4eb5-a93a-314f566fcb27.JPG?type=f228_128" length="0" type="image/JPG"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220823_110/1661265783730UmfNa_JPEG/upload_1053346005897070282c4a2b0a-0744-4eb5-a93a-314f566fcb27.JPG?type=f228_128" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>

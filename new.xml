@@ -4,9 +4,33 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 13:58:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 14:43:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어때영?]]></title>
+            <link>https://www.vlive.tv/video/290162</link>
+            <guid>https://www.vlive.tv/video/290162</guid>
+            <pubDate>Tue, 23 Aug 2022 14:42:38 GMT</pubDate>
+            <content:encoded><![CDATA[강다니엘 (KANGDANIEL)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220823_228/1661264911087NQ8tn_JPEG/174140525075714675c88563f4-6b90-4de1-a611-b2a49530a2c9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤나잇🌙dD]]></title>
+            <link>https://www.vlive.tv/video/290161</link>
+            <guid>https://www.vlive.tv/video/290161</guid>
+            <pubDate>Tue, 23 Aug 2022 14:42:38 GMT</pubDate>
+            <content:encoded><![CDATA[TRENDZ (트렌드지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220823_83/1661264502105iuLBp_JPEG/120518726821832597e0a17d0-1e5e-414c-9e10-d80845c7704b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안녕 민트!! 모두모여라!!]]></title>
+            <link>https://www.vlive.tv/video/290158</link>
+            <guid>https://www.vlive.tv/video/290158</guid>
+            <pubDate>Tue, 23 Aug 2022 13:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[M.O.N.T (몬트)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220823_97/1661263553575jWtD8_JPEG/d111b1af-22eb-11ed-8892-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[🎹🏍건반 라이더즈 🐮🪵]]></title>
             <link>https://www.vlive.tv/video/290153</link>
@@ -22,13 +46,6 @@
             <pubDate>Tue, 23 Aug 2022 13:57:06 GMT</pubDate>
             <content:encoded><![CDATA[F.able (페이블)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220823_36/1661260930240ito7e_JPEG/1740493216809876030f050a70-bfb9-4453-b9be-5647ad8be8b6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안녕 민트!! 모두모여라!!]]></title>
-            <link>https://www.vlive.tv/video/290158</link>
-            <guid>https://www.vlive.tv/video/290158</guid>
-            <pubDate>Tue, 23 Aug 2022 13:12:46 GMT</pubDate>
-            <content:encoded><![CDATA[M.O.N.T (몬트)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[#여름의_엔딩요정_오예준 🧚🏻‍♂️]]></title>
@@ -389,22 +406,6 @@
             <pubDate>Mon, 22 Aug 2022 15:47:50 GMT</pubDate>
             <content:encoded><![CDATA[VIXX]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220822_291/1661162727242frNBd_JPEG/upload_1052424335249280064054f0dd-e2a2-4ccf-9c55-37af0f782bdd.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TWICE "BETWEEN 1&2" Album Sneak Peek]]></title>
-            <link>https://www.vlive.tv/video/290100</link>
-            <guid>https://www.vlive.tv/video/290100</guid>
-            <pubDate>Mon, 22 Aug 2022 15:47:50 GMT</pubDate>
-            <content:encoded><![CDATA[TWICE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220822_75/1661174168412DNXco_JPEG/upload_1052538917494727372e975889-c07f-4d70-b0e2-c7cce27dfe20.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하성운 (HA SUNG WOON) - 'FOCUS' MV Teaser #2]]></title>
-            <link>https://www.vlive.tv/video/290066</link>
-            <guid>https://www.vlive.tv/video/290066</guid>
-            <pubDate>Mon, 22 Aug 2022 15:47:50 GMT</pubDate>
-            <content:encoded><![CDATA[하성운 (HA SUNG WOON)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220822_204/1661149227594UAbQ9_JPEG/upload_77418829382793116c1333677-6cd2-44cb-a764-e23add5b09a7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
