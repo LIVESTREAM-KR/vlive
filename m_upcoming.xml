@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 10:47:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 11:42:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,6 +16,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220818_15/1660783180220vdHQg_JPEG/upload_104862877863120373a9f4d12c-8a50-4de5-9d7e-94806de5ef96.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / DAVII 다비)]]></title>
+            <link>https://m.vlive.tv/video/290223</link>
+            <guid>https://m.vlive.tv/video/290223</guid>
+            <pubDate>Wed, 24 Aug 2022 11:42:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220824_46/1661340179978tDd1i_JPEG/upload_776097178224057394844d09a-c102-4f46-a582-daaa212f5eb0.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio / Super K-Pop] Stray Quiz]]></title>
@@ -66,16 +76,6 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220818_133/1660783556429vIYi8_JPEG/upload_77053139613452296fa93dc5e-9c48-492a-a45e-809c2d909d83.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arirang Radio (Radio'n Us / KYUL 결)]]></title>
-            <link>https://m.vlive.tv/video/289959</link>
-            <guid>https://m.vlive.tv/video/289959</guid>
-            <pubDate>Wed, 24 Aug 2022 10:46:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220819_235/1660906313948haPuM_JPEG/upload_1049859866635151132078fb01-fc79-4550-8103-2f887b5ea91c.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
