@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 08:51:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 09:47:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -66,6 +66,16 @@
 										방송취소</span>
 										<span class="txt">EVERMORE ENTERTAINMENT</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220825_142/1661410914939yVUjD_JPEG/upload_10548856952125089370094311-a909-44fd-a62a-a19624d0cb35.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[💙✨ HAPPY &U DAY ✨💙]]></title>
+            <link>https://m.vlive.tv/video/290279</link>
+            <guid>https://m.vlive.tv/video/290279</guid>
+            <pubDate>Thu, 25 Aug 2022 09:46:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">EVERMORE ENTERTAINMENT</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220825_48/1661418481613P0Owb_JPEG/upload_105497172820605556d1c2facd-d879-49f3-babc-d8757bd41422.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
