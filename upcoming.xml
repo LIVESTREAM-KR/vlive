@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 15:48:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 17:01:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -504,14 +504,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220825_27/1661423121827i0MIv_JPEG/upload_77692674699248152f06548e6-16c8-4dfd-b86e-1fe6ca9cb550.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[금요일에 만나요〰️]]></title>
-            <link>https://www.vlive.tv/video/290308</link>
-            <guid>https://www.vlive.tv/video/290308</guid>
-            <pubDate>Thu, 25 Aug 2022 15:47:50 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:00]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/290308/thumb?type=f228_128" length="0" type="image//live/290308/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[Billlie | $UN palace (Stroop effect) | track drop]]></title>
             <link>https://www.vlive.tv/video/290297</link>
             <guid>https://www.vlive.tv/video/290297</guid>
@@ -532,16 +524,24 @@
             <link>https://www.vlive.tv/video/290309</link>
             <guid>https://www.vlive.tv/video/290309</guid>
             <pubDate>Thu, 25 Aug 2022 15:47:50 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:16]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/290309/thumb?type=f228_128" length="0" type="image//live/290309/thumb"/>
+            <content:encoded><![CDATA[오후 4:36]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220826_196/1661445394957NYKCs_JPEG/85497677-2493-11ed-8613-505dacfba98a_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[금요일에 만나요〰️]]></title>
+            <link>https://www.vlive.tv/video/290308</link>
+            <guid>https://www.vlive.tv/video/290308</guid>
+            <pubDate>Thu, 25 Aug 2022 15:47:50 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:40]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220826_186/1661445650157GeSID_JPEG/f1e4325b-2493-11ed-a57b-505dac8c385b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[형제목뭐할까요?]]></title>
             <link>https://www.vlive.tv/video/290311</link>
             <guid>https://www.vlive.tv/video/290311</guid>
             <pubDate>Thu, 25 Aug 2022 15:47:50 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:40]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/290311/thumb?type=f228_128" length="0" type="image//live/290311/thumb"/>
+            <content:encoded><![CDATA[오후 4:44]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220826_237/1661445890113cbMNW_JPEG/b45f7d6b-2494-11ed-814e-505dac8c381b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
