@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 15:48:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 17:01:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Thu, 25 Aug 2022 17:00:12 GMT</pubDate>
             <content:encoded><![CDATA[ASTRO]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220826_237/1661445890113cbMNW_JPEG/b45f7d6b-2494-11ed-814e-505dac8c381b_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BLACKPINK - ‘Pink Venom’ M/V REACTION]]></title>
-            <link>https://www.vlive.tv/video/290274</link>
-            <guid>https://www.vlive.tv/video/290274</guid>
-            <pubDate>Thu, 25 Aug 2022 17:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[BLACKPINK]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220826_5/1661482206403snk2a_JPEG/upload_105495591936040635183d7eb0-7cb3-42c4-8277-cfb1fca3bb8d.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 2]]></title>
@@ -37,7 +29,7 @@
             <guid>https://www.vlive.tv/video/290329</guid>
             <pubDate>Fri, 26 Aug 2022 06:21:54 GMT</pubDate>
             <content:encoded><![CDATA[TWICE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220826_58/1661483837922b5qa0_JPEG/upload_105563510593281840df347ebe-4ef9-4da9-b045-de62144b9196.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220826_58/1661483837922b5qa0_JPEG/upload_105563510593281840df347ebe-4ef9-4da9-b045-de62144b9196.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BLACKPINK - ‘Pink Venom’ Visualizer]]></title>
@@ -48,20 +40,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20220826_79/1661493057220xQ1P2_JPEG/upload_105572697271932345660efdc6-66ff-4cb0-bb0f-2dea888d03d1.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[BLACKPINK WORLD TOUR [BORN PINK] SEOUL MESSAGE VIDEO]]></title>
-            <link>https://www.vlive.tv/video/290325</link>
-            <guid>https://www.vlive.tv/video/290325</guid>
-            <pubDate>Fri, 26 Aug 2022 06:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[BLACKPINK]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220826_246/166148080065443P9j_JPEG/upload_105560493528609984186541c0-ff92-4c09-9981-927f0dbc268f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[Stray Kids(스트레이 키즈) : SKZ-TALKER GO! Season 3 (슼즈토커 고! 시즌 3)] Ep.04 CHICAGO]]></title>
             <link>https://www.vlive.tv/video/290364</link>
             <guid>https://www.vlive.tv/video/290364</guid>
             <pubDate>Fri, 26 Aug 2022 13:54:36 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220826_290/1661505407083mWjen_JPEG/upload_1055842014518518222243223c-2dec-46bb-a239-4684228aa309.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BLACKPINK - ‘Pink Venom’ M/V REACTION]]></title>
+            <link>https://www.vlive.tv/video/290274</link>
+            <guid>https://www.vlive.tv/video/290274</guid>
+            <pubDate>Thu, 25 Aug 2022 17:00:12 GMT</pubDate>
+            <content:encoded><![CDATA[BLACKPINK]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220826_5/1661482206403snk2a_JPEG/upload_105495591936040635183d7eb0-7cb3-42c4-8277-cfb1fca3bb8d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BLACKPINK WORLD TOUR [BORN PINK] SEOUL MESSAGE VIDEO]]></title>
+            <link>https://www.vlive.tv/video/290325</link>
+            <guid>https://www.vlive.tv/video/290325</guid>
+            <pubDate>Fri, 26 Aug 2022 06:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[BLACKPINK]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220826_246/166148080065443P9j_JPEG/upload_105560493528609984186541c0-ff92-4c09-9981-927f0dbc268f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
