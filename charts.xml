@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 20:45:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 21:44:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,20 +48,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220826_246/166148080065443P9j_JPEG/upload_105560493528609984186541c0-ff92-4c09-9981-927f0dbc268f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[형제목뭐할까요?]]></title>
-            <link>https://www.vlive.tv/video/290311</link>
-            <guid>https://www.vlive.tv/video/290311</guid>
-            <pubDate>Thu, 25 Aug 2022 17:00:12 GMT</pubDate>
-            <content:encoded><![CDATA[ASTRO]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220826_237/1661445890113cbMNW_JPEG/b45f7d6b-2494-11ed-814e-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[🐰토끼 락스타는 기타를 찢어🎸]]></title>
             <link>https://www.vlive.tv/video/290372</link>
             <guid>https://www.vlive.tv/video/290372</guid>
             <pubDate>Fri, 26 Aug 2022 17:45:17 GMT</pubDate>
             <content:encoded><![CDATA[Xdinary Heroes]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220826_51/1661516833390bhfyy_JPEG/821a6f28-2538-11ed-aee9-505dac8c38f5_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[형제목뭐할까요?]]></title>
+            <link>https://www.vlive.tv/video/290311</link>
+            <guid>https://www.vlive.tv/video/290311</guid>
+            <pubDate>Thu, 25 Aug 2022 17:00:12 GMT</pubDate>
+            <content:encoded><![CDATA[ASTRO]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220826_237/1661445890113cbMNW_JPEG/b45f7d6b-2494-11ed-814e-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
