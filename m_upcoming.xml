@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 11:42:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 13:12:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,16 @@
 										오전 4:00</span>
 										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220826_163/1661491139006eMEfp_PNG/upload_1055708334923484663b372e4d-89d5-4e0f-b3ce-b10a66f6e280.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Sound K] Mystery Mix with BOiTELLO 보이텔로]]></title>
+            <link>https://m.vlive.tv/video/290258</link>
+            <guid>https://m.vlive.tv/video/290258</guid>
+            <pubDate>Fri, 26 Aug 2022 13:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220825_42/1661400268536Xonst_JPEG/upload_105479963737338128bc48eb30-34d8-4681-961b-e76e611985b0.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
