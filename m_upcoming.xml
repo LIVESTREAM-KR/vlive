@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Aug 2022 06:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 07:05:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / Super K-Pop] Topic Song with BÉBE YANA , Jogon of 9001]]></title>
-            <link>https://m.vlive.tv/video/289854</link>
-            <guid>https://m.vlive.tv/video/289854</guid>
-            <pubDate>Wed, 24 Aug 2022 05:59:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220818_133/1660783556429vIYi8_JPEG/upload_77053139613452296fa93dc5e-9c48-492a-a45e-809c2d909d83.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Radio'n Us / KYUL 결)]]></title>
             <link>https://m.vlive.tv/video/289959</link>
@@ -26,16 +16,6 @@
 										오전 11:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220819_235/1660906313948haPuM_JPEG/upload_1049859866635151132078fb01-fc79-4550-8103-2f887b5ea91c.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[💙✨ HAPPY &U DAY ✨💙]]></title>
-            <link>https://m.vlive.tv/video/290267</link>
-            <guid>https://m.vlive.tv/video/290267</guid>
-            <pubDate>Thu, 25 Aug 2022 07:03:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										방송취소</span>
-										<span class="txt">EVERMORE ENTERTAINMENT</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220825_142/1661410914939yVUjD_JPEG/upload_10548856952125089370094311-a909-44fd-a62a-a19624d0cb35.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[💙✨ HAPPY &U DAY ✨💙]]></title>
@@ -66,6 +46,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220824_61/1661340359619Ftxpx_JPEG/upload_105420008738994157ff06a688-b6ff-47fe-aea2-7d319dd9dbd5.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Welcome to Korea with Kim Min Ji]]></title>
+            <link>https://m.vlive.tv/video/290254</link>
+            <guid>https://m.vlive.tv/video/290254</guid>
+            <pubDate>Fri, 26 Aug 2022 07:05:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220825_254/1661400056955Ax5Wp_JPEG/upload_1054797561837312684d8c0bf5-a692-400e-8143-6835cf151f92.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
