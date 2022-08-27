@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Aug 2022 13:49:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2022 14:43:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MC 등장]]></title>
+            <link>https://www.vlive.tv/video/290410</link>
+            <guid>https://www.vlive.tv/video/290410</guid>
+            <pubDate>Sat, 27 Aug 2022 14:41:48 GMT</pubDate>
+            <content:encoded><![CDATA[TRENDZ (트렌드지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220827_211/16616081763350GUFa_JPEG/17448377628006907257c865a4-83a2-425e-966d-3d4ef19ddae8.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[밥 먹자~]]></title>
             <link>https://www.vlive.tv/video/290409</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 27 Aug 2022 09:43:19 GMT</pubDate>
             <content:encoded><![CDATA[다크비(DKB)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220826_213/1661501738559W66DI_JPEG/upload_105581238162862163200d7c42-818f-4269-95ec-7441d5b51c1f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[B.I.G(비아이지) | J-HOON & HEEDO Way to Argentina 🇦🇷 (feat. Newyork)]]></title>
-            <link>https://www.vlive.tv/video/290273</link>
-            <guid>https://www.vlive.tv/video/290273</guid>
-            <pubDate>Sat, 27 Aug 2022 09:43:19 GMT</pubDate>
-            <content:encoded><![CDATA[B.I.G (비아이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220825_67/16614165415921dcyt_JPEG/upload_105496252579916999dcc50fee-7def-4fe8-aaa6-0dcb3d45bcc3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
