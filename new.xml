@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Aug 2022 13:08:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2022 13:49:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밥 먹자~]]></title>
+            <link>https://www.vlive.tv/video/290409</link>
+            <guid>https://www.vlive.tv/video/290409</guid>
+            <pubDate>Sat, 27 Aug 2022 13:47:38 GMT</pubDate>
+            <content:encoded><![CDATA[ASTRO]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220827_25/16616079849518QrYy_JPEG/2d640341-260e-11ed-b07a-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우당탕탕 트지라이브🤣]]></title>
             <link>https://www.vlive.tv/video/290408</link>
@@ -398,14 +406,6 @@
             <pubDate>Fri, 26 Aug 2022 10:45:44 GMT</pubDate>
             <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220824_278/166130810115150D5j_JPEG/upload_775776775351183942f4e82ff-68de-40dc-86de-efa1ab6595f6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2Z FF LIVE]]></title>
-            <link>https://www.vlive.tv/video/290367</link>
-            <guid>https://www.vlive.tv/video/290367</guid>
-            <pubDate>Fri, 26 Aug 2022 10:45:44 GMT</pubDate>
-            <content:encoded><![CDATA[2Z]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220826_7/1661507355853WE9rv_JPEG/1743829548510638485c985705-c268-479a-b79c-63c67e763595.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

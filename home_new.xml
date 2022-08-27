@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Aug 2022 13:08:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2022 13:49:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[밥 먹자~]]></title>
+            <link>https://www.vlive.tv/video/290409</link>
+            <guid>https://www.vlive.tv/video/290409</guid>
+            <pubDate>Sat, 27 Aug 2022 13:47:48 GMT</pubDate>
+            <content:encoded><![CDATA[ASTRO]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220827_25/16616079849518QrYy_JPEG/2d640341-260e-11ed-b07a-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우당탕탕 트지라이브🤣]]></title>
             <link>https://www.vlive.tv/video/290408</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 27 Aug 2022 09:43:19 GMT</pubDate>
             <content:encoded><![CDATA[B.I.G (비아이지)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220825_67/16614165415921dcyt_JPEG/upload_105496252579916999dcc50fee-7def-4fe8-aaa6-0dcb3d45bcc3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["Zombie" Band Cover By Xdinary Heroes (원곡 : DAY6)]]></title>
-            <link>https://www.vlive.tv/video/290201</link>
-            <guid>https://www.vlive.tv/video/290201</guid>
-            <pubDate>Sat, 27 Aug 2022 09:43:19 GMT</pubDate>
-            <content:encoded><![CDATA[Xdinary Heroes]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220824_150/1661326310818MkTk0_PNG/upload_1054060401182252051400c5bf-9f26-42d5-954f-e2aca46d225c.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
