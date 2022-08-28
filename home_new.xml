@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 07:42:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 08:49:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[날씨가 좋네요🌤]]></title>
+            <link>https://www.vlive.tv/video/290427</link>
+            <guid>https://www.vlive.tv/video/290427</guid>
+            <pubDate>Sun, 28 Aug 2022 08:47:46 GMT</pubDate>
+            <content:encoded><![CDATA[EPEX]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/290427/thumb?type=f228_128" length="0" type="image//live/290427/thumb"/>
+        </item>
         <item>
             <title><![CDATA[2022 LCK 서머 결승전 젠지 vs T1 '오프닝 세리머니' 풀버전 (2022 LCK Summer Finals opening ceremony Full ver.)]]></title>
             <link>https://www.vlive.tv/video/290426</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 27 Aug 2022 15:45:42 GMT</pubDate>
             <content:encoded><![CDATA[MisoJeong]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220819_20/1660910408339cqypI_PNG/upload_104990127737334578bde2d623-5b1b-41f3-9cea-42cdd6a0b6ff.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[MC 등장]]></title>
-            <link>https://www.vlive.tv/video/290410</link>
-            <guid>https://www.vlive.tv/video/290410</guid>
-            <pubDate>Sat, 27 Aug 2022 14:41:48 GMT</pubDate>
-            <content:encoded><![CDATA[TRENDZ (트렌드지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220827_211/16616081763350GUFa_JPEG/17448377628006907257c865a4-83a2-425e-966d-3d4ef19ddae8.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

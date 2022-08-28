@@ -4,9 +4,16 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 07:42:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 08:49:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[날씨가 좋네요🌤]]></title>
+            <link>https://www.vlive.tv/video/290427</link>
+            <guid>https://www.vlive.tv/video/290427</guid>
+            <pubDate>Sun, 28 Aug 2022 08:47:38 GMT</pubDate>
+            <content:encoded><![CDATA[EPEX]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[2022 LCK 서머 결승전 젠지 vs T1 '오프닝 세리머니' 풀버전 (2022 LCK Summer Finals opening ceremony Full ver.)]]></title>
             <link>https://www.vlive.tv/video/290426</link>
@@ -398,14 +405,6 @@
             <pubDate>Fri, 26 Aug 2022 15:47:17 GMT</pubDate>
             <content:encoded><![CDATA[Billlie 빌리]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220826_212/1661493879625aHqHa_JPEG/upload_10557330678098149888d6530d-aef8-4702-8e84-9058cf57f805.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프리티지(PRITTI-G) 'LOVE TAKER' M/V Teaser 'YERYANG ']]></title>
-            <link>https://www.vlive.tv/video/290154</link>
-            <guid>https://www.vlive.tv/video/290154</guid>
-            <pubDate>Fri, 26 Aug 2022 15:47:17 GMT</pubDate>
-            <content:encoded><![CDATA[PRITTI-G (프리티지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220823_117/1661265986987MRgJ9_JPEG/upload_105338115597512848b2846eee-b26d-4e71-a0a1-6d5f91ded932.JPG?type=f228_128_wp" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
