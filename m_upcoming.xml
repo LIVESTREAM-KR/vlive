@@ -4,9 +4,19 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 09:45:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 10:46:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현우 치훈 피스트범프 2주년]]></title>
+            <link>https://m.vlive.tv/video/290433</link>
+            <guid>https://m.vlive.tv/video/290433</guid>
+            <pubDate>Sun, 28 Aug 2022 10:45:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:30</span>
+										<span class="txt">sema</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220828_135/1661682432159m0uSi_JPEG/upload_10576211920325993893a326bd-33a0-46b2-919e-5f80994f0f22.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
             <link>https://m.vlive.tv/video/290253</link>
@@ -86,16 +96,6 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220825_221/1661400084152JHgR7_JPEG/upload_1054797999402007955f968baa-f18e-4078-a6de-663221d7931d.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arirang Radio (Super K-Pop / LUCY 루시)]]></title>
-            <link>https://m.vlive.tv/video/290224</link>
-            <guid>https://m.vlive.tv/video/290224</guid>
-            <pubDate>Sun, 28 Aug 2022 09:44:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220824_87/1661340273036qtMk7_JPEG/upload_105419959701951714f3bfa9d3-145e-4611-9a57-6c396d7f1bc3.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
