@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 08:49:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 09:45:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,23 @@
             <guid>https://www.vlive.tv/video/290427</guid>
             <pubDate>Sun, 28 Aug 2022 08:47:46 GMT</pubDate>
             <content:encoded><![CDATA[EPEX]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/290427/thumb?type=f228_128" length="0" type="image//live/290427/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220828_287/1661679293700S7lgg_JPEG/19e2aaa3-26b3-11ed-814e-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[웨딩싱어 👰‍♀️🤵]]></title>
+            <link>https://www.vlive.tv/video/290428</link>
+            <guid>https://www.vlive.tv/video/290428</guid>
+            <pubDate>Sun, 28 Aug 2022 09:44:05 GMT</pubDate>
+            <content:encoded><![CDATA[BEAUTYBOX (뷰티박스)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220828_48/1661677380229c5vdh_JPEG/1744657716713547527c66db9b-4a82-46f1-8ee6-e991775aa275.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Re:WIND Vol.01] 이솔로몬(Lee Solomon) '안되는데 (I Can't)' Official Teaser]]></title>
+            <link>https://www.vlive.tv/video/290350</link>
+            <guid>https://www.vlive.tv/video/290350</guid>
+            <pubDate>Sun, 28 Aug 2022 09:44:05 GMT</pubDate>
+            <content:encoded><![CDATA[MAJOR9 (메이저나인)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220826_296/1661496118376QPMk9_JPEG/upload_105575699367746863591507cd-8d93-4359-8663-2ef9a363b87d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 LCK 서머 결승전 젠지 vs T1 '오프닝 세리머니' 풀버전 (2022 LCK Summer Finals opening ceremony Full ver.)]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Sat, 27 Aug 2022 15:45:42 GMT</pubDate>
             <content:encoded><![CDATA[MAMAMOO]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220828_181/1661613174596asNAq_JPEG/upload_105692904786098834a8a59d39-9f65-427f-a932-ee11076cd4ee.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Billlie | B@ck 2 where we Belong | track drop]]></title>
-            <link>https://www.vlive.tv/video/290384</link>
-            <guid>https://www.vlive.tv/video/290384</guid>
-            <pubDate>Sat, 27 Aug 2022 15:45:42 GMT</pubDate>
-            <content:encoded><![CDATA[Billlie 빌리]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220827_53/1661539270921EdPEt_JPEG/upload_105616704794668298e41e39a2-8606-433c-8285-6bd3967994b7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA["나 쌩얼인데?" 화장 안걸리는 쌩얼 메이크업 필수템 (학생메이크업, 데이트메이크업)]]></title>
-            <link>https://www.vlive.tv/video/289953</link>
-            <guid>https://www.vlive.tv/video/289953</guid>
-            <pubDate>Sat, 27 Aug 2022 15:45:42 GMT</pubDate>
-            <content:encoded><![CDATA[MisoJeong]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220819_20/1660910408339cqypI_PNG/upload_104990127737334578bde2d623-5b1b-41f3-9cea-42cdd6a0b6ff.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

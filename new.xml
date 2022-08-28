@@ -4,7 +4,7 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Aug 2022 08:49:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Aug 2022 09:45:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,23 @@
             <guid>https://www.vlive.tv/video/290427</guid>
             <pubDate>Sun, 28 Aug 2022 08:47:38 GMT</pubDate>
             <content:encoded><![CDATA[EPEX]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220828_287/1661679293700S7lgg_JPEG/19e2aaa3-26b3-11ed-814e-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[웨딩싱어 👰‍♀️🤵]]></title>
+            <link>https://www.vlive.tv/video/290428</link>
+            <guid>https://www.vlive.tv/video/290428</guid>
+            <pubDate>Sun, 28 Aug 2022 09:43:56 GMT</pubDate>
+            <content:encoded><![CDATA[BEAUTYBOX (뷰티박스)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220828_48/1661677380229c5vdh_JPEG/1744657716713547527c66db9b-4a82-46f1-8ee6-e991775aa275.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Re:WIND Vol.01] 이솔로몬(Lee Solomon) '안되는데 (I Can't)' Official Teaser]]></title>
+            <link>https://www.vlive.tv/video/290350</link>
+            <guid>https://www.vlive.tv/video/290350</guid>
+            <pubDate>Sun, 28 Aug 2022 09:43:56 GMT</pubDate>
+            <content:encoded><![CDATA[MAJOR9 (메이저나인)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220826_296/1661496118376QPMk9_JPEG/upload_105575699367746863591507cd-8d93-4359-8663-2ef9a363b87d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022 LCK 서머 결승전 젠지 vs T1 '오프닝 세리머니' 풀버전 (2022 LCK Summer Finals opening ceremony Full ver.)]]></title>
@@ -389,22 +406,6 @@
             <pubDate>Fri, 26 Aug 2022 15:47:17 GMT</pubDate>
             <content:encoded><![CDATA[Ktimes]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220827_159/1661526496685WAVpl_JPEG/upload_77796093662023359467db459-4d41-4cc2-9e69-c685131fccf9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Billlie | Mcguffins ~ who's the Joker? | track drop]]></title>
-            <link>https://www.vlive.tv/video/290348</link>
-            <guid>https://www.vlive.tv/video/290348</guid>
-            <pubDate>Fri, 26 Aug 2022 15:47:17 GMT</pubDate>
-            <content:encoded><![CDATA[Billlie 빌리]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220826_176/1661495778935Jso3u_JPEG/upload_1055754977323387789bda6530-6f96-49d8-bac1-380cbf5ee330.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Billlie | B'rave ~ a song for Matilda | track drop]]></title>
-            <link>https://www.vlive.tv/video/290346</link>
-            <guid>https://www.vlive.tv/video/290346</guid>
-            <pubDate>Fri, 26 Aug 2022 15:47:17 GMT</pubDate>
-            <content:encoded><![CDATA[Billlie 빌리]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220826_212/1661493879625aHqHa_JPEG/upload_10557330678098149888d6530d-aef8-4702-8e84-9058cf57f805.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
