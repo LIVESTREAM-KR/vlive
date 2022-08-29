@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 03:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 05:10:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio/K-Poppin'] Singlish with DKB]]></title>
-            <link>https://m.vlive.tv/video/290448</link>
-            <guid>https://m.vlive.tv/video/290448</guid>
-            <pubDate>Mon, 29 Aug 2022 03:17:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 4:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220829_253/1661733648016PgPaR_JPEG/upload_78003140394265864b891bb4c-7b2b-4a61-8775-838f418a7b2c.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arirang Radio (Sound K / Park Boram 박보람)]]></title>
-            <link>https://m.vlive.tv/video/290371</link>
-            <guid>https://m.vlive.tv/video/290371</guid>
-            <pubDate>Fri, 26 Aug 2022 11:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220826_268/1661512538314on15P_JPEG/upload_77782090822239973d630e21c-dadc-401f-ab6b-b2bbc5bb235b.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Super K-Pop / SKYLE 스카이리)]]></title>
             <link>https://m.vlive.tv/video/290225</link>
@@ -106,6 +86,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220829_95/1661733241118CLExQ_JPEG/upload_1058129406075020293d99e8e2-e67a-458f-ad36-6742a59c2924.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / LUCY 루시)]]></title>
+            <link>https://m.vlive.tv/video/290224</link>
+            <guid>https://m.vlive.tv/video/290224</guid>
+            <pubDate>Mon, 29 Aug 2022 05:09:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220824_87/1661340273036qtMk7_JPEG/upload_105419959701951714f3bfa9d3-145e-4611-9a57-6c396d7f1bc3.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
