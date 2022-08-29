@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 15:48:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 17:02:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[굿나잇 에프엠😁]]></title>
+            <link>https://www.vlive.tv/video/290499</link>
+            <guid>https://www.vlive.tv/video/290499</guid>
+            <pubDate>Mon, 29 Aug 2022 17:00:51 GMT</pubDate>
+            <content:encoded><![CDATA[정광현 (JeongGwangHyeon)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220830_236/1661789560751uv3sb_JPEG/174665142747358853259af074-fd1c-4445-804c-ade6fc99d7fa.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[💚🎉0830 타케루 HBD🎂💚]]></title>
             <link>https://www.vlive.tv/video/290489</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 29 Aug 2022 11:41:18 GMT</pubDate>
             <content:encoded><![CDATA[VIXX]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220829_57/1661743703237mDcfp_JPEG/upload_780132116260364437a6fef6d-a5b8-4745-8e23-ef2d777fa14a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[EPEX:GO] EP.21 사우디아라비아, 사랑해 KSA 제다 케이팝 페스티벌 2022 비하인드]]></title>
-            <link>https://www.vlive.tv/video/290492</link>
-            <guid>https://www.vlive.tv/video/290492</guid>
-            <pubDate>Mon, 29 Aug 2022 11:41:18 GMT</pubDate>
-            <content:encoded><![CDATA[EPEX]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220829_223/1661770274780Vav9h_JPEG/upload_1058499963484091251cbdcfec-6c9f-41bd-a52d-aa077310a2fb.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

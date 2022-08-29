@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 15:48:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 17:02:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[굿나잇 에프엠😁]]></title>
+            <link>https://www.vlive.tv/video/290499</link>
+            <guid>https://www.vlive.tv/video/290499</guid>
+            <pubDate>Mon, 29 Aug 2022 17:00:42 GMT</pubDate>
+            <content:encoded><![CDATA[정광현 (JeongGwangHyeon)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220830_236/1661789560751uv3sb_JPEG/174665142747358853259af074-fd1c-4445-804c-ade6fc99d7fa.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[💚🎉0830 타케루 HBD🎂💚]]></title>
             <link>https://www.vlive.tv/video/290489</link>
@@ -398,14 +406,6 @@
             <pubDate>Sun, 28 Aug 2022 13:05:46 GMT</pubDate>
             <content:encoded><![CDATA[E'LAST]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220828_91/1661691553675l901S_JPEG/174567217670547399ce728516-e581-44b8-a3a5-6a1328e6108b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TWICE "Talk that Talk" Choreography Video]]></title>
-            <link>https://www.vlive.tv/video/290421</link>
-            <guid>https://www.vlive.tv/video/290421</guid>
-            <pubDate>Sun, 28 Aug 2022 15:45:31 GMT</pubDate>
-            <content:encoded><![CDATA[TWICE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220828_293/16616611242126T5BJ_JPEG/upload_1057408437977768509db0367a-39ed-4a0f-863a-e4516e740337.JPG?type=f228_128_wp" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
