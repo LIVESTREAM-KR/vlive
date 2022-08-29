@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 09:46:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 10:50:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -200,14 +200,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220829_246/1661761022072oU40C_PNG/upload_105840733983290319c10a6ae8-cf96-4904-9c31-a501bac73a94.png?type=f228_128" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[😊월요일의 채솔 지원 셀린😊]]></title>
-            <link>https://www.vlive.tv/video/290481</link>
-            <guid>https://www.vlive.tv/video/290481</guid>
-            <pubDate>Mon, 29 Aug 2022 09:46:15 GMT</pubDate>
-            <content:encoded><![CDATA[오전 9:02]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/290481/thumb?type=f228_128" length="0" type="image//live/290481/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[Arirang Radio (Super K-Pop / SKYLE 스카이리)]]></title>
             <link>https://www.vlive.tv/video/290225</link>
             <guid>https://www.vlive.tv/video/290225</guid>
@@ -246,6 +238,22 @@
             <pubDate>Mon, 29 Aug 2022 09:46:15 GMT</pubDate>
             <content:encoded><![CDATA[오전 9:39]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220829_5/1661765986267hGN2M_JPEG/upload_78035587399945715f1743b37-a73a-4ea0-9d8d-882cba661d24.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지금 뭐해 보고싶어❤️]]></title>
+            <link>https://www.vlive.tv/video/290488</link>
+            <guid>https://www.vlive.tv/video/290488</guid>
+            <pubDate>Mon, 29 Aug 2022 10:49:33 GMT</pubDate>
+            <content:encoded><![CDATA[오전 10:01]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220829_183/1661767299337EU5ty_JPEG/174555670330874492c78a80f7-b53b-4876-9036-04505ff3929a.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[💚🎉0830 타케루 HBD🎂💚]]></title>
+            <link>https://www.vlive.tv/video/290489</link>
+            <guid>https://www.vlive.tv/video/290489</guid>
+            <pubDate>Mon, 29 Aug 2022 10:49:33 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:30]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220829_43/1661767416147m60Ru_JPEG/upload_10584707725806185891678c9c-3b01-4da1-8bf2-0bce30e24772.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
