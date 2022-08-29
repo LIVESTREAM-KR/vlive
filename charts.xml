@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Aug 2022 07:46:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2022 08:53:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,20 +48,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220812_138/1660264042259WLREz_JPEG/upload_1043437541963210687545b394-698c-42fc-ade5-7c29af587fb7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[WAWD]]></title>
-            <link>https://www.vlive.tv/video/290425</link>
-            <guid>https://www.vlive.tv/video/290425</guid>
-            <pubDate>Sun, 28 Aug 2022 06:50:38 GMT</pubDate>
-            <content:encoded><![CDATA[ITZY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220828_174/1661665782668ACvef_JPEG/c5c01ab2-2694-11ed-aa59-d4f5ef58ac88_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[커피먹방]]></title>
             <link>https://www.vlive.tv/video/290430</link>
             <guid>https://www.vlive.tv/video/290430</guid>
             <pubDate>Sun, 28 Aug 2022 17:44:06 GMT</pubDate>
             <content:encoded><![CDATA[SF9]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220828_255/1661684801062InTYu_JPEG/ebed0a8b-26c0-11ed-b25c-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WAWD]]></title>
+            <link>https://www.vlive.tv/video/290425</link>
+            <guid>https://www.vlive.tv/video/290425</guid>
+            <pubDate>Sun, 28 Aug 2022 06:50:38 GMT</pubDate>
+            <content:encoded><![CDATA[ITZY]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220828_174/1661665782668ACvef_JPEG/c5c01ab2-2694-11ed-aa59-d4f5ef58ac88_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
