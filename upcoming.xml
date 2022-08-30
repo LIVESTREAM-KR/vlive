@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 11:42:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 13:25:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,14 +256,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220830_280/1661852317910k358K_JPEG/upload_781219131805304299ae5d7d4-d56f-4be4-8cc1-2513d4597a37.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[220830] 화요환라이브]]></title>
-            <link>https://www.vlive.tv/video/290546</link>
-            <guid>https://www.vlive.tv/video/290546</guid>
-            <pubDate>Tue, 30 Aug 2022 11:42:28 GMT</pubDate>
-            <content:encoded><![CDATA[오전 11:12]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/290546/thumb?type=f228_128" length="0" type="image//live/290546/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[[소녀세상] 나 보고싶다며!!]]></title>
             <link>https://www.vlive.tv/video/290541</link>
             <guid>https://www.vlive.tv/video/290541</guid>
@@ -276,8 +268,32 @@
             <link>https://www.vlive.tv/video/290547</link>
             <guid>https://www.vlive.tv/video/290547</guid>
             <pubDate>Tue, 30 Aug 2022 11:42:28 GMT</pubDate>
-            <content:encoded><![CDATA[오전 11:41]]></content:encoded>
+            <content:encoded><![CDATA[오전 11:59]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220830_202/16618596870953lktX_JPEG/1746480876776471657dc27c79-a300-4a09-9ad0-0112e1e14280.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[220830] 화요환라이브]]></title>
+            <link>https://www.vlive.tv/video/290546</link>
+            <guid>https://www.vlive.tv/video/290546</guid>
+            <pubDate>Tue, 30 Aug 2022 11:42:28 GMT</pubDate>
+            <content:encoded><![CDATA[오후 12:06]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220830_84/1661861177698qNnSu_JPEG/7f6fc60b-285b-11ed-a7c3-d4f5ef58ad5e_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Justin Bieber - Lifetime | Cover by 김시훈]]></title>
+            <link>https://www.vlive.tv/video/290527</link>
+            <guid>https://www.vlive.tv/video/290527</guid>
+            <pubDate>Tue, 30 Aug 2022 13:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220830_136/1661845065022d9SWb_JPEG/upload_10592430949817705215ee9ca7-fd84-4353-af1f-e0bce00538d3.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vteven 🔥#18]]></title>
+            <link>https://www.vlive.tv/video/290548</link>
+            <guid>https://www.vlive.tv/video/290548</guid>
+            <pubDate>Tue, 30 Aug 2022 13:25:22 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220830_50/1661860885224XAIMN_JPEG/1746492551647131455fd0e7dd-7cb9-4e6e-94c3-ad2770eae923.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
