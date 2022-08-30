@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 03:24:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 05:16:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[ASC Live Ep.537 (TRI.BE / 트라이비)]]></title>
-            <link>https://m.vlive.tv/video/290341</link>
-            <guid>https://m.vlive.tv/video/290341</guid>
-            <pubDate>Fri, 26 Aug 2022 11:42:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 4:00</span>
-										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220826_163/1661491139006eMEfp_PNG/upload_1055708334923484663b372e4d-89d5-4e0f-b3ce-b10a66f6e280.png?type=f274_154" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Sound K] Mystery Mix with BOiTELLO 보이텔로]]></title>
-            <link>https://m.vlive.tv/video/290258</link>
-            <guid>https://m.vlive.tv/video/290258</guid>
-            <pubDate>Fri, 26 Aug 2022 13:12:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220825_42/1661400268536Xonst_JPEG/upload_105479963737338128bc48eb30-34d8-4681-961b-e76e611985b0.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Super K-Pop]Oh My K-Pop with NIve]]></title>
             <link>https://m.vlive.tv/video/290261</link>
@@ -96,6 +76,26 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220825_23/1661401063459BUwyE_JPEG/upload_105480773869244322c3d6e834-3d22-4497-ab52-c8f311e5f76f.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
+            <link>https://m.vlive.tv/video/290257</link>
+            <guid>https://m.vlive.tv/video/290257</guid>
+            <pubDate>Tue, 30 Aug 2022 05:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220825_256/1661400217544Ll315_JPEG/upload_77669797349025866f67c01f0-b582-4f99-8400-0f2bca5e9670.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Sound K] Hey! Ladies Kode~ with Sojung&Zuny 소정 &주니]]></title>
+            <link>https://m.vlive.tv/video/290260</link>
+            <guid>https://m.vlive.tv/video/290260</guid>
+            <pubDate>Tue, 30 Aug 2022 05:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220825_256/1661400985935HewJa_JPEG/upload_77670566955554922dbab2bf7-798e-4b76-8796-64abbacaa2a0.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
