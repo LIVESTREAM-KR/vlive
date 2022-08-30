@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 07:48:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 08:51:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[지인이 생일이다아아아!!!!]]></title>
+            <link>https://www.vlive.tv/video/290532</link>
+            <guid>https://www.vlive.tv/video/290532</guid>
+            <pubDate>Tue, 30 Aug 2022 08:50:16 GMT</pubDate>
+            <content:encoded><![CDATA[bugAboo]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/290532/thumb?type=f228_128" length="0" type="image//live/290532/thumb"/>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Sound K] Mystery Mix with BOiTELLO 보이텔로]]></title>
             <link>https://www.vlive.tv/video/290258</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 30 Aug 2022 03:23:23 GMT</pubDate>
             <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220830_282/1661821327665pLEe8_JPEG/upload_780909099985838262bdbe670-3c1b-48eb-a097-6fe5453480d1.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[룰러의 장난기에 도란의 반응 (LCK 비하인드 직캠)]]></title>
-            <link>https://www.vlive.tv/video/290500</link>
-            <guid>https://www.vlive.tv/video/290500</guid>
-            <pubDate>Tue, 30 Aug 2022 03:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[Ktimes]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220830_250/1661819464704jK5We_JPEG/upload_1058991813484997714172da83-9d83-42e3-abbb-e2f4a5de5358.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

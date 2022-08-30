@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 07:48:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 08:51:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -126,6 +126,14 @@
             <pubDate>Tue, 30 Aug 2022 03:24:12 GMT</pubDate>
             <content:encoded><![CDATA[오전 7:05]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220825_42/1661400268536Xonst_JPEG/upload_105479963737338128bc48eb30-34d8-4681-961b-e76e611985b0.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지인이 생일이다아아아!!!!]]></title>
+            <link>https://www.vlive.tv/video/290532</link>
+            <guid>https://www.vlive.tv/video/290532</guid>
+            <pubDate>Tue, 30 Aug 2022 08:51:06 GMT</pubDate>
+            <content:encoded><![CDATA[오전 8:40]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/290532/thumb?type=f228_128" length="0" type="image//live/290532/thumb"/>
         </item>
     </channel>
 </rss>
