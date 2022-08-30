@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 19:41:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 20:46:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[잠 못드는 밤에 해뜨기전까지]]></title>
+            <link>https://www.vlive.tv/video/290553</link>
+            <guid>https://www.vlive.tv/video/290553</guid>
+            <pubDate>Tue, 30 Aug 2022 20:44:41 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220831_58/1661891717382yFpOs_JPEG/174680118007164674681bdc70-7121-4ee1-a42e-e9ff7cfecba6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[진예 잠깐 ! 🐋]]></title>
             <link>https://www.vlive.tv/video/290551</link>
@@ -398,14 +406,6 @@
             <pubDate>Mon, 29 Aug 2022 13:21:19 GMT</pubDate>
             <content:encoded><![CDATA[MONSTA X]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220826_262/1661481744187duIWY_JPEG/upload_1055614709536157336ba0e5a3-4708-4e5d-94d9-ecdc5edc1243.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컴백! 짧게😊]]></title>
-            <link>https://www.vlive.tv/video/290495</link>
-            <guid>https://www.vlive.tv/video/290495</guid>
-            <pubDate>Mon, 29 Aug 2022 13:21:19 GMT</pubDate>
-            <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220829_3/1661777957959lP6rA_JPEG/49aa07e7-279a-11ed-a57b-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
