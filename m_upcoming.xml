@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 11:42:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 13:25:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[220831 🍒 HAPPY JANGWONYOUNG DAY 🍒]]></title>
-            <link>https://m.vlive.tv/video/290564</link>
-            <guid>https://m.vlive.tv/video/290564</guid>
-            <pubDate>Wed, 31 Aug 2022 03:36:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 12:00</span>
-										<span class="txt">IVE</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220831_31/1661916439007eXsax_JPEG/upload_1059958562869745625fc4c250-1caf-4c7d-a91e-cbff3c791ba1.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
             <link>https://m.vlive.tv/video/290256</link>
@@ -96,6 +86,16 @@
 										오전 11:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220831_92/1661936056666eb4O1_JPEG/upload_105845983761158835fa64a134-c6a5-4473-b7f0-9b776c6dc249.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[146회 아트엠콘서트]]></title>
+            <link>https://m.vlive.tv/video/290502</link>
+            <guid>https://m.vlive.tv/video/290502</guid>
+            <pubDate>Wed, 31 Aug 2022 13:24:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:20</span>
+										<span class="txt">ARTMCONCERT</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220830_63/1661822832647YLCnW_PNG/upload_105902478021645718062b653a-5cf1-41ff-8494-3b2761cfda09.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
