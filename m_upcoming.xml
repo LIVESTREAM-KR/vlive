@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 23:48:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 03:36:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthew]]></title>
-            <link>https://m.vlive.tv/video/290255</link>
-            <guid>https://m.vlive.tv/video/290255</guid>
-            <pubDate>Sat, 27 Aug 2022 15:46:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220825_221/1661400084152JHgR7_JPEG/upload_1054797999402007955f968baa-f18e-4078-a6de-663221d7931d.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio/K-Poppin'] Wine expert Chang Hong / 와인 전문가 장홍]]></title>
             <link>https://m.vlive.tv/video/290449</link>
@@ -48,6 +38,16 @@
             <enclosure url="https://v-phinf.pstatic.net/20220824_87/1661340273036qtMk7_JPEG/upload_105419959701951714f3bfa9d3-145e-4611-9a57-6c396d7f1bc3.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[220831 🍒 HAPPY JANGWONYOUNG DAY 🍒]]></title>
+            <link>https://m.vlive.tv/video/290564</link>
+            <guid>https://m.vlive.tv/video/290564</guid>
+            <pubDate>Wed, 31 Aug 2022 03:36:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 12:00</span>
+										<span class="txt">IVE</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220831_31/1661916439007eXsax_JPEG/upload_1059958562869745625fc4c250-1caf-4c7d-a91e-cbff3c791ba1.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
             <link>https://m.vlive.tv/video/290256</link>
             <guid>https://m.vlive.tv/video/290256</guid>
@@ -66,26 +66,6 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220825_23/1661401063459BUwyE_JPEG/upload_105480773869244322c3d6e834-3d22-4497-ab52-c8f311e5f76f.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
-            <link>https://m.vlive.tv/video/290257</link>
-            <guid>https://m.vlive.tv/video/290257</guid>
-            <pubDate>Tue, 30 Aug 2022 05:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220825_256/1661400217544Ll315_JPEG/upload_77669797349025866f67c01f0-b582-4f99-8400-0f2bca5e9670.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Sound K] Hey! Ladies Kode~ with Sojung&Zuny 소정 &주니]]></title>
-            <link>https://m.vlive.tv/video/290260</link>
-            <guid>https://m.vlive.tv/video/290260</guid>
-            <pubDate>Tue, 30 Aug 2022 05:16:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220825_256/1661400985935HewJa_JPEG/upload_77670566955554922dbab2bf7-798e-4b76-8796-64abbacaa2a0.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
