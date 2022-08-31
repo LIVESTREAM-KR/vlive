@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 20:47:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 21:44:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -614,6 +614,22 @@
             <pubDate>Wed, 31 Aug 2022 20:47:15 GMT</pubDate>
             <content:encoded><![CDATA[오후 8:17]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220901_193/1661976203177OJRR4_JPEG/174851867170966441627e950c-592b-4206-a6fd-3802229ab936.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 뷔(BTS V), 새벽을 밝히는 태형이 미모]]></title>
+            <link>https://www.vlive.tv/video/290620</link>
+            <guid>https://www.vlive.tv/video/290620</guid>
+            <pubDate>Wed, 31 Aug 2022 21:44:13 GMT</pubDate>
+            <content:encoded><![CDATA[오후 9:09]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220901_57/1661980144406Lh1Gl_PNG/upload_1060597970813419861db3062f-7dec-4f2c-8b69-1aecdeaa012a.png?type=f228_128" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE]WN]]></title>
+            <link>https://www.vlive.tv/video/290622</link>
+            <guid>https://www.vlive.tv/video/290622</guid>
+            <pubDate>Wed, 31 Aug 2022 21:44:13 GMT</pubDate>
+            <content:encoded><![CDATA[오후 9:30]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/290622/thumb?type=f228_128" length="0" type="image//live/290622/thumb"/>
         </item>
     </channel>
 </rss>

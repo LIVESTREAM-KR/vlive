@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 20:47:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 21:44:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[LIVE]WN]]></title>
+            <link>https://www.vlive.tv/video/290622</link>
+            <guid>https://www.vlive.tv/video/290622</guid>
+            <pubDate>Wed, 31 Aug 2022 21:43:23 GMT</pubDate>
+            <content:encoded><![CDATA[원호 (WONHO)]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/290622/thumb?type=f228_128" length="0" type="image//live/290622/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단 뷔(BTS V), 새벽을 밝히는 태형이 미모]]></title>
+            <link>https://www.vlive.tv/video/290620</link>
+            <guid>https://www.vlive.tv/video/290620</guid>
+            <pubDate>Wed, 31 Aug 2022 21:43:24 GMT</pubDate>
+            <content:encoded><![CDATA[Ktimes]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220901_57/1661980144406Lh1Gl_PNG/upload_1060597970813419861db3062f-7dec-4f2c-8b69-1aecdeaa012a.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[💪]]></title>
             <link>https://www.vlive.tv/video/290619</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 31 Aug 2022 13:23:47 GMT</pubDate>
             <content:encoded><![CDATA[LAPOEM]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220831_11/1661949079893OBsIY_JPEG/17482474383225569466e038f4-7540-4e98-8cb7-027aa01b5671.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[민트들!!! 오랜만이야!! 모두 들어와!!!~~~]]></title>
-            <link>https://www.vlive.tv/video/290607</link>
-            <guid>https://www.vlive.tv/video/290607</guid>
-            <pubDate>Wed, 31 Aug 2022 13:59:33 GMT</pubDate>
-            <content:encoded><![CDATA[M.O.N.T (몬트)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220831_296/1661952345665WRrxn_JPEG/d4b66b86-292f-11ed-aa59-d4f5ef58ac88_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[얼굴 좀 보게 잠깐 들어 와 봐 😶]]></title>
-            <link>https://www.vlive.tv/video/290606</link>
-            <guid>https://www.vlive.tv/video/290606</guid>
-            <pubDate>Wed, 31 Aug 2022 13:23:47 GMT</pubDate>
-            <content:encoded><![CDATA[다크비(DKB)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220831_174/1661946687209foswq_JPEG/174822290194356430cf588ce4-87d8-4040-a1c3-bf710164e997.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
