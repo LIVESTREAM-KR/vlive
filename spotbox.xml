@@ -4,7 +4,7 @@
         <title>V LIVE ─ STORE ─ SPOT BOX</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 06:10:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 07:24:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,12 +24,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20201021_208/1603265301049wt6Wh_JPEG/upload_1125x564_ED8CACEC89BDEC8381ED9288ECBBA4EBB284.jpg?type=f574_280" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[BLACKPINK+]]></title>
-            <link>http://www.vlive.tv/membership/9</link>
-            <guid>http://www.vlive.tv/membership/9</guid>
-            <pubDate>Tue, 16 Aug 2022 08:44:06 GMT</pubDate>
-            <content:encoded><![CDATA[MEMBERSHIP]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210617_103/16239160567049jNlB_JPEG/upload_401856637583298781779aa85-28d5-48b5-80cb-f2621411e40b.jpeg?type=f574_280" length="0" type="image/jpeg"/>
+            <title><![CDATA[2]]></title>
+            <link>https://www.vlive.tv/vstore/sticker</link>
+            <guid>https://www.vlive.tv/vstore/sticker</guid>
+            <pubDate>Wed, 31 Aug 2022 07:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/vstore/sticker">
+										<div class="thumb sticker">
+											<div class="cnt_box">
+												<span class="bg_gradation"></span>
+												<div class="thumb_txt">
+													<p class="blind">Get Awesome Stickers On V LIVE!</p>
+												</div>
+											</div>
+										</div>
+									</a>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[TWICE+]]></title>
@@ -48,12 +56,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20201021_208/1603265301049wt6Wh_JPEG/upload_1125x564_ED8CACEC89BDEC8381ED9288ECBBA4EBB284.jpg?type=f574_280" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[BLACKPINK+]]></title>
-            <link>http://www.vlive.tv/membership/9</link>
-            <guid>http://www.vlive.tv/membership/9</guid>
-            <pubDate>Tue, 16 Aug 2022 08:44:06 GMT</pubDate>
-            <content:encoded><![CDATA[MEMBERSHIP]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20210617_103/16239160567049jNlB_JPEG/upload_401856637583298781779aa85-28d5-48b5-80cb-f2621411e40b.jpeg?type=f574_280" length="0" type="image/jpeg"/>
+            <title><![CDATA[5]]></title>
+            <link>https://www.vlive.tv/vstore/sticker</link>
+            <guid>https://www.vlive.tv/vstore/sticker</guid>
+            <pubDate>Wed, 31 Aug 2022 07:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/vstore/sticker">
+										<div class="thumb sticker">
+											<div class="cnt_box">
+												<span class="bg_gradation"></span>
+												<div class="thumb_txt">
+													<p class="blind">Get Awesome Stickers On V LIVE!</p>
+												</div>
+											</div>
+										</div>
+									</a>]]></content:encoded>
         </item>
     </channel>
 </rss>
