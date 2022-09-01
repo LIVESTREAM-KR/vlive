@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 09:46:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 10:48:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[🐰HAPPY YEJU DAY🐰]]></title>
-            <link>https://m.vlive.tv/video/290626</link>
-            <guid>https://m.vlive.tv/video/290626</guid>
-            <pubDate>Thu, 01 Sep 2022 03:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">ICHILLIN’</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220901_283/166200123955225XUI_JPEG/upload_106079355087843484405194aa-2127-4dde-ac01-88ce071b475f.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[220901 🐶 HAPPY ANYUJIN DAY 🐶]]></title>
             <link>https://m.vlive.tv/video/290635</link>
@@ -106,6 +96,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220901_158/1662017574249YoOHj_JPEG/upload_10609728070261272623ae39df-fe4a-46b0-a575-299b75a4de65.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop]Oh My K-Pop with NIve #키 #KEY #SHINee]]></title>
+            <link>https://m.vlive.tv/video/290647</link>
+            <guid>https://m.vlive.tv/video/290647</guid>
+            <pubDate>Thu, 01 Sep 2022 10:47:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220901_34/16620177400569jC88_JPEG/upload_10609741935163455156fdaa6b-1b28-44f1-8016-b4f4cf1eb2af.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
