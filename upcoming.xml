@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 13:23:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 13:57:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -440,14 +440,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220902_122/1662122550815HwYQJ_JPEG/4ae5ddc4-2abc-11ed-9f1e-d4f5ef5a9532_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[20220902 금요통통💛]]></title>
-            <link>https://www.vlive.tv/video/290738</link>
-            <guid>https://www.vlive.tv/video/290738</guid>
-            <pubDate>Fri, 02 Sep 2022 13:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:48]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/290738/thumb?type=f228_128" length="0" type="image//live/290738/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[[UNLOCK] 엘라스트 잠금해제 EP.58 1st Japan Live Tour 2022 in Tokyo 비하인드]]></title>
             <link>https://www.vlive.tv/video/290537</link>
             <guid>https://www.vlive.tv/video/290537</guid>
@@ -472,20 +464,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20220902_289/1662120936098LAC4I_JPEG/647588765011961698f600d8-bcd0-44a6-97dc-866739e866e2.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[잠깐 들어와~🎶]]></title>
-            <link>https://www.vlive.tv/video/290740</link>
-            <guid>https://www.vlive.tv/video/290740</guid>
-            <pubDate>Fri, 02 Sep 2022 13:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:09]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/290740/thumb?type=f228_128" length="0" type="image//live/290740/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[불타는 금요일 밤, 다크비와 함께 🍂]]></title>
             <link>https://www.vlive.tv/video/290739</link>
             <guid>https://www.vlive.tv/video/290739</guid>
             <pubDate>Fri, 02 Sep 2022 13:23:00 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:13]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220902_24/1662124383167XE4SE_JPEG/a1c3e242-2ac0-11ed-8613-505dacfba98a_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠깐 들어와~🎶]]></title>
+            <link>https://www.vlive.tv/video/290740</link>
+            <guid>https://www.vlive.tv/video/290740</guid>
+            <pubDate>Fri, 02 Sep 2022 13:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:42]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220902_277/1662126133634c3b6f_JPEG/89833fd4-2ac4-11ed-814e-505dac8c381b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[20220902 금요통통💛]]></title>
+            <link>https://www.vlive.tv/video/290738</link>
+            <guid>https://www.vlive.tv/video/290738</guid>
+            <pubDate>Fri, 02 Sep 2022 13:23:00 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:45]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220902_174/16621263185989zvOU_JPEG/ae52ec5d-2ac4-11ed-999c-505dac8c3639_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
