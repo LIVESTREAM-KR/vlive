@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 14:44:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 15:48:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.vlive.tv/video/290746</guid>
             <pubDate>Fri, 02 Sep 2022 14:43:08 GMT</pubDate>
             <content:encoded><![CDATA[LIZ ENT]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/290746/thumb?type=f228_128" length="0" type="image//live/290746/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220903_199/1662133355597tHv2H_JPEG/e44bcee5-2ad4-11ed-a14d-505dac8c3607_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노래와함께하는밤~]]></title>
@@ -21,7 +21,23 @@
             <guid>https://www.vlive.tv/video/290744</guid>
             <pubDate>Fri, 02 Sep 2022 14:43:08 GMT</pubDate>
             <content:encoded><![CDATA[AB6IX]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/290744/thumb?type=f228_128" length="0" type="image//live/290744/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220903_27/16621330595006l3Ny_JPEG/9b690e52-2ad4-11ed-a7c3-d4f5ef58ad5e_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김재환 (KIM JAE HWAN) - 그 시절 우리는 (BACK THEN) MV Teaser]]></title>
+            <link>https://www.vlive.tv/video/290725</link>
+            <guid>https://www.vlive.tv/video/290725</guid>
+            <pubDate>Fri, 02 Sep 2022 15:47:18 GMT</pubDate>
+            <content:encoded><![CDATA[KIM JAEHWAN(김재환)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220902_101/1662111201333SmnHW_PNG/upload_1061905348061620567e35dbc0-8b17-409e-83e3-577c9f20440f.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[버나드 박 2nd Mini Album <To whom it may concern> Highlight Medley]]></title>
+            <link>https://www.vlive.tv/video/290686</link>
+            <guid>https://www.vlive.tv/video/290686</guid>
+            <pubDate>Fri, 02 Sep 2022 15:47:18 GMT</pubDate>
+            <content:encoded><![CDATA[JYPnation]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220902_298/1662091493584WI9M2_PNG/upload_7836108321508456108723c2b-36a2-4e80-bd68-9c2bb483d937.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[<NO LIMIT> TOUR in SEOUL DAY 1]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 02 Sep 2022 13:22:03 GMT</pubDate>
             <content:encoded><![CDATA[PENTAGON]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220902_151/1662118633182tmVir_JPEG/upload_106198349923911279924125be-0994-4077-8579-ac6acf9f1a56.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리라즈와 함께라면💛]]></title>
-            <link>https://www.vlive.tv/video/290732</link>
-            <guid>https://www.vlive.tv/video/290732</guid>
-            <pubDate>Fri, 02 Sep 2022 11:41:41 GMT</pubDate>
-            <content:encoded><![CDATA[Kep1er]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220902_49/16621164676313n7lO_JPEG/17499198561849764019f04569-b210-4300-8422-68e1831172b5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🦄 아이닌! 같이 저녁 먹어요 🐉]]></title>
-            <link>https://www.vlive.tv/video/290727</link>
-            <guid>https://www.vlive.tv/video/290727</guid>
-            <pubDate>Fri, 02 Sep 2022 10:46:23 GMT</pubDate>
-            <content:encoded><![CDATA[NINE.i]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220902_154/1662112680327CCxey_JPEG/17498829432155909989fc247a-3099-4c60-908c-b184671cfc9b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
