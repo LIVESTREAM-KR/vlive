@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Sep 2022 13:49:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 14:43:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.vlive.tv/video/290771</guid>
             <pubDate>Sat, 03 Sep 2022 13:48:21 GMT</pubDate>
             <content:encoded><![CDATA[위아이 (WEi)]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/290771/thumb?type=f228_128" length="0" type="image//live/290771/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220903_2/1662215709649LnqnD_JPEG/05f13a56-2b95-11ed-8613-505dacfba98a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[floor time]]></title>
@@ -24,12 +24,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20220903_241/1662211421069xzjCP_JPEG/174999821657429061f0c0a9ec-b35d-407d-815e-081ddd11674f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[샤이니 키(SHINee Key) "이번 앨범이 새롭고, 살만하고, 들을만하길…" #키 #샤이니 #shinee #가솔린 #키가솔린 #keygasoline #김기범 #shineekey]]></title>
-            <link>https://www.vlive.tv/video/290769</link>
-            <guid>https://www.vlive.tv/video/290769</guid>
-            <pubDate>Sat, 03 Sep 2022 13:05:54 GMT</pubDate>
-            <content:encoded><![CDATA[mydaily]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220903_235/1662210313908cTwna_JPEG/upload_1062900300933174816afa4e31-95cb-4a03-a224-200465205bfb.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <title><![CDATA[하이]]></title>
+            <link>https://www.vlive.tv/video/290772</link>
+            <guid>https://www.vlive.tv/video/290772</guid>
+            <pubDate>Sat, 03 Sep 2022 14:42:09 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/290772/thumb?type=f228_128" length="0" type="image//live/290772/thumb"/>
         </item>
         <item>
             <title><![CDATA[🖤#52]]></title>
@@ -37,7 +37,15 @@
             <guid>https://www.vlive.tv/video/290768</guid>
             <pubDate>Sat, 03 Sep 2022 13:05:54 GMT</pubDate>
             <content:encoded><![CDATA[ITZY]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/290768/thumb?type=f228_128" length="0" type="image//live/290768/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220903_86/16622140700445oTPX_JPEG/ecfaaee2-2b90-11ed-bbda-505dac8c37f3_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[샤이니 키(SHINee Key) "이번 앨범이 새롭고, 살만하고, 들을만하길…" #키 #샤이니 #shinee #가솔린 #키가솔린 #keygasoline #김기범 #shineekey]]></title>
+            <link>https://www.vlive.tv/video/290769</link>
+            <guid>https://www.vlive.tv/video/290769</guid>
+            <pubDate>Sat, 03 Sep 2022 13:05:54 GMT</pubDate>
+            <content:encoded><![CDATA[mydaily]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220903_235/1662210313908cTwna_JPEG/upload_1062900300933174816afa4e31-95cb-4a03-a224-200465205bfb.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[ #채령 ] 오랜만이야💕💕]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 03 Sep 2022 10:45:02 GMT</pubDate>
             <content:encoded><![CDATA[Xdinary Heroes]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220903_170/1662198272391u7NHb_JPEG/bb7ce450-2b6c-11ed-8613-505dacfba98a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기습공격]]></title>
-            <link>https://www.vlive.tv/video/290761</link>
-            <guid>https://www.vlive.tv/video/290761</guid>
-            <pubDate>Sat, 03 Sep 2022 09:43:44 GMT</pubDate>
-            <content:encoded><![CDATA[YOUNITE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220903_193/1662196642338aC9Iu_JPEG/f79f5221-2b68-11ed-aee9-505dac8c38f5_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
