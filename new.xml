@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 07:42:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 08:49:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하이 ㅎㅎ]]></title>
+            <link>https://www.vlive.tv/video/290788</link>
+            <guid>https://www.vlive.tv/video/290788</guid>
+            <pubDate>Sun, 04 Sep 2022 08:48:02 GMT</pubDate>
+            <content:encoded><![CDATA[DRIPPIN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220904_72/1662280589195UYeJC_JPEG/42d1eb16-2c2c-11ed-8892-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA["2PM 14th Anniversary" Special Message from WOOYOUNG 💙]]></title>
             <link>https://www.vlive.tv/video/290784</link>
@@ -398,14 +406,6 @@
             <pubDate>Fri, 02 Sep 2022 15:47:08 GMT</pubDate>
             <content:encoded><![CDATA[KIM JAEHWAN(김재환)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220902_101/1662111201333SmnHW_PNG/upload_1061905348061620567e35dbc0-8b17-409e-83e3-577c9f20440f.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[버나드 박 2nd Mini Album <To whom it may concern> Highlight Medley]]></title>
-            <link>https://www.vlive.tv/video/290686</link>
-            <guid>https://www.vlive.tv/video/290686</guid>
-            <pubDate>Fri, 02 Sep 2022 15:47:08 GMT</pubDate>
-            <content:encoded><![CDATA[JYPnation]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220902_298/1662091493584WI9M2_PNG/upload_7836108321508456108723c2b-36a2-4e80-bd68-9c2bb483d937.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
