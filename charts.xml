@@ -4,17 +4,9 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 08:49:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 09:45:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[리노리방😺🐰오늘은 토끼..?]]></title>
-            <link>https://www.vlive.tv/video/290760</link>
-            <guid>https://www.vlive.tv/video/290760</guid>
-            <pubDate>Sat, 03 Sep 2022 09:44:10 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220903_142/1662194112957sG1wU_JPEG/1dc089a0-2b62-11ed-a57b-505dac8c385b_05.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[ #예지 ] 🖤#52]]></title>
             <link>https://www.vlive.tv/video/290768</link>
@@ -30,6 +22,14 @@
             <pubDate>Sat, 03 Sep 2022 13:06:22 GMT</pubDate>
             <content:encoded><![CDATA[ITZY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220903_213/1662207365801A1h0I_JPEG/db835963-2b80-11ed-aa59-d4f5ef58ac88_05.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리노리방😺🐰오늘은 토끼..?]]></title>
+            <link>https://www.vlive.tv/video/290760</link>
+            <guid>https://www.vlive.tv/video/290760</guid>
+            <pubDate>Sat, 03 Sep 2022 09:44:10 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220903_142/1662194112957sG1wU_JPEG/1dc089a0-2b62-11ed-a57b-505dac8c385b_05.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 2]]></title>
@@ -48,20 +48,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220903_27/1662200667539OFfNC_JPEG/0cb555a0-2b72-11ed-b25c-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[하이]]></title>
-            <link>https://www.vlive.tv/video/290772</link>
-            <guid>https://www.vlive.tv/video/290772</guid>
-            <pubDate>Sun, 04 Sep 2022 08:48:41 GMT</pubDate>
-            <content:encoded><![CDATA[SF9]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220903_273/1662216998437yFD51_JPEG/515c252b-2b98-11ed-b6e8-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 1]]></title>
             <link>https://www.vlive.tv/video/289368</link>
             <guid>https://www.vlive.tv/video/289368</guid>
             <pubDate>Sat, 03 Sep 2022 15:46:26 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220812_138/1660264042259WLREz_JPEG/upload_1043437541963210687545b394-698c-42fc-ade5-7c29af587fb7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA["2PM 14th Anniversary" Special Message from JUNHO 💛]]></title>
+            <link>https://www.vlive.tv/video/290785</link>
+            <guid>https://www.vlive.tv/video/290785</guid>
+            <pubDate>Sun, 04 Sep 2022 09:44:43 GMT</pubDate>
+            <content:encoded><![CDATA[2PM]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220904_289/1662259413373XccF4_PNG/upload_785288491989615563365c149-49b5-4f6e-a553-e3695d867f3a.PNG?type=f228_128_wp" length="0" type="image/PNG"/>
         </item>
     </channel>
 </rss>
