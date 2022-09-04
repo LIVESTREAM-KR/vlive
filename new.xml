@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 06:51:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 07:42:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["2PM 14th Anniversary" Special Message from WOOYOUNG 💙]]></title>
+            <link>https://www.vlive.tv/video/290784</link>
+            <guid>https://www.vlive.tv/video/290784</guid>
+            <pubDate>Sun, 04 Sep 2022 07:40:51 GMT</pubDate>
+            <content:encoded><![CDATA[2PM]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220904_27/1662259175282QvpNe_PNG/upload_7852877221249379621ee4d62-5cd1-41e7-b04c-5444f00451ef.PNG?type=f228_128_wp" length="0" type="image/PNG"/>
+        </item>
         <item>
             <title><![CDATA["2PM 14th Anniversary" Special Message from CHANSUNG 💜]]></title>
             <link>https://www.vlive.tv/video/290786</link>
@@ -398,14 +406,6 @@
             <pubDate>Fri, 02 Sep 2022 15:47:08 GMT</pubDate>
             <content:encoded><![CDATA[JYPnation]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220902_298/1662091493584WI9M2_PNG/upload_7836108321508456108723c2b-36a2-4e80-bd68-9c2bb483d937.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[<NO LIMIT> TOUR in SEOUL DAY 1]]></title>
-            <link>https://www.vlive.tv/video/290743</link>
-            <guid>https://www.vlive.tv/video/290743</guid>
-            <pubDate>Fri, 02 Sep 2022 14:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[MONSTA X]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220902_193/1662128393141YGddi_JPEG/fbbf61bf-2ac9-11ed-a57b-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
