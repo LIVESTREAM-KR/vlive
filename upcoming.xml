@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 04:50:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 05:55:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Sun, 04 Sep 2022 04:50:19 GMT</pubDate>
             <content:encoded><![CDATA[오전 4:25]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220904_289/1662259413373XccF4_PNG/upload_785288491989615563365c149-49b5-4f6e-a553-e3695d867f3a.PNG?type=f228_128" length="0" type="image/PNG"/>
+        </item>
+        <item>
+            <title><![CDATA["2PM 14th Anniversary" Special Message from CHANSUNG 💜]]></title>
+            <link>https://www.vlive.tv/video/290786</link>
+            <guid>https://www.vlive.tv/video/290786</guid>
+            <pubDate>Sun, 04 Sep 2022 05:54:40 GMT</pubDate>
+            <content:encoded><![CDATA[오전 5:11]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220904_200/1662259538634ljfEe_PNG/upload_78529136620183610399a80f9-f02b-44ab-811c-2f4a4f0bdb97.PNG?type=f228_128" length="0" type="image/PNG"/>
         </item>
     </channel>
 </rss>

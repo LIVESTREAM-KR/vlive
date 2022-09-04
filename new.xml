@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 04:50:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 05:55:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["2PM 14th Anniversary" Special Message from CHANSUNG 💜]]></title>
+            <link>https://www.vlive.tv/video/290786</link>
+            <guid>https://www.vlive.tv/video/290786</guid>
+            <pubDate>Sun, 04 Sep 2022 05:53:41 GMT</pubDate>
+            <content:encoded><![CDATA[2PM]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220904_200/1662259538634ljfEe_PNG/upload_78529136620183610399a80f9-f02b-44ab-811c-2f4a4f0bdb97.PNG?type=f228_128_wp" length="0" type="image/PNG"/>
+        </item>
         <item>
             <title><![CDATA["2PM 14th Anniversary" Special Message from JUNHO 💛]]></title>
             <link>https://www.vlive.tv/video/290785</link>
@@ -398,14 +406,6 @@
             <pubDate>Fri, 02 Sep 2022 14:42:59 GMT</pubDate>
             <content:encoded><![CDATA[MONSTA X]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220902_193/1662128393141YGddi_JPEG/fbbf61bf-2ac9-11ed-a57b-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[20220902 금요통통💛]]></title>
-            <link>https://www.vlive.tv/video/290738</link>
-            <guid>https://www.vlive.tv/video/290738</guid>
-            <pubDate>Fri, 02 Sep 2022 13:21:53 GMT</pubDate>
-            <content:encoded><![CDATA[VANNER (배너)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220902_174/16621263185989zvOU_JPEG/ae52ec5d-2ac4-11ed-999c-505dac8c3639_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 04:50:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 05:55:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA["2PM 14th Anniversary" Special Message from CHANSUNG 💜]]></title>
+            <link>https://www.vlive.tv/video/290786</link>
+            <guid>https://www.vlive.tv/video/290786</guid>
+            <pubDate>Sun, 04 Sep 2022 05:53:50 GMT</pubDate>
+            <content:encoded><![CDATA[2PM]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220904_200/1662259538634ljfEe_PNG/upload_78529136620183610399a80f9-f02b-44ab-811c-2f4a4f0bdb97.PNG?type=f228_128_wp" length="0" type="image/PNG"/>
+        </item>
         <item>
             <title><![CDATA["2PM 14th Anniversary" Special Message from JUNHO 💛]]></title>
             <link>https://www.vlive.tv/video/290785</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 03 Sep 2022 11:40:04 GMT</pubDate>
             <content:encoded><![CDATA[ITZY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220903_213/1662207365801A1h0I_JPEG/db835963-2b80-11ed-aa59-d4f5ef58ac88_05.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[선공개] 아이브 ✨ 가을X안유진을 블랙홀처럼 빨아들인 집은!? 큰 통창에 쏟아지는 뷰 💡, MBC 220904 방송]]></title>
-            <link>https://www.vlive.tv/video/290767</link>
-            <guid>https://www.vlive.tv/video/290767</guid>
-            <pubDate>Sat, 03 Sep 2022 13:05:54 GMT</pubDate>
-            <content:encoded><![CDATA[MBC 예능]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220903_214/1662205446480lwJKp_JPEG/upload_1062850552623250588b6ec9b3-af80-4267-8feb-25503a8748c6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
