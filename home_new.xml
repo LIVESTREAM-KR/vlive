@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 13:24:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 14:02:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[오예 김브로]]></title>
+            <link>https://www.vlive.tv/video/290843</link>
+            <guid>https://www.vlive.tv/video/290843</guid>
+            <pubDate>Mon, 05 Sep 2022 14:01:07 GMT</pubDate>
+            <content:encoded><![CDATA[CIX]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220905_266/1662384552690xyfKF_JPEG/ce161b3f-2d1d-11ed-bf94-d4f5ef590144_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Arirang Radio (Radio'n Us / Issac Hong 홍이삭)]]></title>
             <link>https://www.vlive.tv/video/290778</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 05 Sep 2022 08:49:38 GMT</pubDate>
             <content:encoded><![CDATA[TRENDZ (트렌드지)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220905_146/1662367231311pLeza_JPEG/175155621008463546f6cb493b-c039-4dd1-a1ef-7e54adeecd29.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Dreamcatcher's VLOG] 수아의 솨생활 : 북미 투어 1편]]></title>
-            <link>https://www.vlive.tv/video/290833</link>
-            <guid>https://www.vlive.tv/video/290833</guid>
-            <pubDate>Mon, 05 Sep 2022 09:45:29 GMT</pubDate>
-            <content:encoded><![CDATA[DREAMCATCHER]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220905_257/1662369388612rhsaB_JPEG/upload_1064491209879619429be9a7fb-4390-4968-9235-a08d4a84ee73.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
