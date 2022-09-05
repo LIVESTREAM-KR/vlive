@@ -4,7 +4,7 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 22:46:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 23:49:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,15 @@
             <guid>https://www.vlive.tv/video/290851</guid>
             <pubDate>Mon, 05 Sep 2022 22:45:24 GMT</pubDate>
             <content:encoded><![CDATA[원호 (WONHO)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220906_118/1662419133513y2lJh_JPEG/0e49a30c-2d6f-11ed-b6e8-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스페이스 안됭되요ㅠ 내가 못하나봐ㅠ]]></title>
+            <link>https://www.vlive.tv/video/290850</link>
+            <guid>https://www.vlive.tv/video/290850</guid>
+            <pubDate>Mon, 05 Sep 2022 23:48:34 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220906_141/1662416058375djDQK_JPEG/17520451437198436805d45868-c975-47ed-91c4-6185de2588c1.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[야!! 일어나 안일어나면!]]></title>
@@ -397,14 +406,6 @@
             <pubDate>Sun, 04 Sep 2022 11:40:03 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220904_6/1662296588003eDQlp_JPEG/48076315-2c51-11ed-b25c-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TEEN TOP ON AIR - 2022 RICKY’s Bucket List #1부 BEHIND🌟]]></title>
-            <link>https://www.vlive.tv/video/290798</link>
-            <guid>https://www.vlive.tv/video/290798</guid>
-            <pubDate>Sun, 04 Sep 2022 13:08:31 GMT</pubDate>
-            <content:encoded><![CDATA[TEENTOP]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220904_56/1662295848979aeIfT_JPEG/upload_1063754794466152816ca13755-9409-4438-b846-7d0f1785f394.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

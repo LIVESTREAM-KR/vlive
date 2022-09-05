@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 22:46:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 23:49:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,15 @@
             <guid>https://www.vlive.tv/video/290851</guid>
             <pubDate>Mon, 05 Sep 2022 22:45:33 GMT</pubDate>
             <content:encoded><![CDATA[원호 (WONHO)]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/290851/thumb?type=f228_128" length="0" type="image//live/290851/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220906_118/1662419133513y2lJh_JPEG/0e49a30c-2d6f-11ed-b6e8-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스페이스 안됭되요ㅠ 내가 못하나봐ㅠ]]></title>
+            <link>https://www.vlive.tv/video/290850</link>
+            <guid>https://www.vlive.tv/video/290850</guid>
+            <pubDate>Mon, 05 Sep 2022 23:48:43 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220906_141/1662416058375djDQK_JPEG/17520451437198436805d45868-c975-47ed-91c4-6185de2588c1.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[야!! 일어나 안일어나면!]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 05 Sep 2022 10:47:04 GMT</pubDate>
             <content:encoded><![CDATA[BDC]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220905_23/1662376364369LlDM4_JPEG/5c959428-2d0b-11ed-bbda-505dac8c37f3_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김재환 (KIM JAE HWAN) '그 시절 우리는' 응원법 (Cheer Guide)]]></title>
-            <link>https://www.vlive.tv/video/290838</link>
-            <guid>https://www.vlive.tv/video/290838</guid>
-            <pubDate>Mon, 05 Sep 2022 11:44:10 GMT</pubDate>
-            <content:encoded><![CDATA[KIM JAEHWAN(김재환)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220905_50/1662372636458XkM55_PNG/upload_786422250103954918835dc73-e07e-4d60-b8c4-53bd36b5b1ce.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
