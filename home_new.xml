@@ -4,16 +4,24 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 07:53:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 08:51:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안냥~~라엘등장]]></title>
+            <link>https://www.vlive.tv/video/290830</link>
+            <guid>https://www.vlive.tv/video/290830</guid>
+            <pubDate>Mon, 05 Sep 2022 08:49:38 GMT</pubDate>
+            <content:encoded><![CDATA[TRENDZ (트렌드지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220905_146/1662367231311pLeza_JPEG/175155621008463546f6cb493b-c039-4dd1-a1ef-7e54adeecd29.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[다원]다오니와🎶]]></title>
             <link>https://www.vlive.tv/video/290825</link>
             <guid>https://www.vlive.tv/video/290825</guid>
             <pubDate>Mon, 05 Sep 2022 07:51:51 GMT</pubDate>
             <content:encoded><![CDATA[우주소녀(WJSN)]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/290825/thumb?type=f228_128" length="0" type="image//live/290825/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220905_27/1662365134774ivstM_JPEG/3b9c1b22-2cf1-11ed-999c-505dac8c3639_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Arirang Radio (Sound K / CRAXY 크랙시)]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 04 Sep 2022 14:42:03 GMT</pubDate>
             <content:encoded><![CDATA[TRENDZ (트렌드지)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220904_274/1662301438124eVc2R_JPEG/175089808069798479c249d4f5-582c-4474-a6d4-ec32c6eab04c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LIVE] 함께한 2년이 우리의 인연으로]]></title>
-            <link>https://www.vlive.tv/video/290804</link>
-            <guid>https://www.vlive.tv/video/290804</guid>
-            <pubDate>Sun, 04 Sep 2022 15:46:07 GMT</pubDate>
-            <content:encoded><![CDATA[원호 (WONHO)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220905_253/1662304571762W9RP5_JPEG/57a18be6-2c64-11ed-aa59-d4f5ef58ac88_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
