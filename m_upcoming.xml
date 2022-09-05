@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 08:51:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 09:46:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[쁘걸이들의 추석맞이 송편 만들기]]></title>
-            <link>https://m.vlive.tv/video/290821</link>
-            <guid>https://m.vlive.tv/video/290821</guid>
-            <pubDate>Mon, 05 Sep 2022 05:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 9:00</span>
-										<span class="txt">브레이브걸스(Brave Girls)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220905_226/1662352900484wDBXa_JPEG/upload_106431354000466278fd66aa6c-bed2-41ab-a907-74bac3e5b109.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[LIVE] SIMPLY K-POP CON-TOUR (📍Kazakhstan)]]></title>
             <link>https://m.vlive.tv/video/290694</link>
@@ -106,6 +96,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220904_274/1662258716416SR8Fk_JPEG/upload_1063383801450726929429cf71-f980-41d2-ade4-ffd5b8c1d171.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
+            <link>https://m.vlive.tv/video/290642</link>
+            <guid>https://m.vlive.tv/video/290642</guid>
+            <pubDate>Mon, 05 Sep 2022 09:46:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220901_45/1662017325239tPkRB_JPEG/upload_78286908831736315aedac9d0-f40c-434c-aba4-b7754e678e84.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
