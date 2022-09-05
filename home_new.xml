@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 21:45:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 22:46:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[LIVE] 🌧🇬🇧]]></title>
+            <link>https://www.vlive.tv/video/290851</link>
+            <guid>https://www.vlive.tv/video/290851</guid>
+            <pubDate>Mon, 05 Sep 2022 22:45:33 GMT</pubDate>
+            <content:encoded><![CDATA[원호 (WONHO)]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/290851/thumb?type=f228_128" length="0" type="image//live/290851/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[야!! 일어나 안일어나면!]]></title>
+            <link>https://www.vlive.tv/video/290849</link>
+            <guid>https://www.vlive.tv/video/290849</guid>
+            <pubDate>Mon, 05 Sep 2022 22:45:33 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220906_67/1662414727161gO6VI_JPEG/175203121151779970bb7a4d24-6b81-42c4-b96d-af66e2aa1f67.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[잘자요 구나잇 :)]]></title>
             <link>https://www.vlive.tv/video/290848</link>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 05 Sep 2022 11:44:10 GMT</pubDate>
             <content:encoded><![CDATA[KIM JAEHWAN(김재환)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220905_50/1662372636458XkM55_PNG/upload_786422250103954918835dc73-e07e-4d60-b8c4-53bd36b5b1ce.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[YOUNITE 2ND EP 'YOUNI-Q' 음악방송 BEHIND EP.2]]></title>
-            <link>https://www.vlive.tv/video/290822</link>
-            <guid>https://www.vlive.tv/video/290822</guid>
-            <pubDate>Mon, 05 Sep 2022 11:44:10 GMT</pubDate>
-            <content:encoded><![CDATA[YOUNITE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220905_128/1662376036010ePwPa_JPEG/upload_106455764419962781d8d52204-ba60-48d3-911d-84afde8b4e91.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[태풍 조심하세요!!]]></title>
-            <link>https://www.vlive.tv/video/290834</link>
-            <guid>https://www.vlive.tv/video/290834</guid>
-            <pubDate>Mon, 05 Sep 2022 09:45:29 GMT</pubDate>
-            <content:encoded><![CDATA[HWANG CHI YEUL(황치열)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220905_110/1662374354019GTfvg_JPEG/556a58f6-2d06-11ed-aee9-505dac8c38f5_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
