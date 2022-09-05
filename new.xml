@@ -4,9 +4,16 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 07:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 07:53:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[다원]다오니와🎶]]></title>
+            <link>https://www.vlive.tv/video/290825</link>
+            <guid>https://www.vlive.tv/video/290825</guid>
+            <pubDate>Mon, 05 Sep 2022 07:51:42 GMT</pubDate>
+            <content:encoded><![CDATA[우주소녀(WJSN)]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Arirang Radio (Sound K / CRAXY 크랙시)]]></title>
             <link>https://www.vlive.tv/video/290779</link>
@@ -398,14 +405,6 @@
             <pubDate>Sat, 03 Sep 2022 11:39:54 GMT</pubDate>
             <content:encoded><![CDATA[YENA(최예나)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220902_185/1662100495122fUuq7_JPEG/upload_1061802269055856466bd56ef9-a87f-49a4-9173-647a2b8c470f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🗡용창강패🛡를 한방에 가뒀다🏠 #1]]></title>
-            <link>https://www.vlive.tv/video/290734</link>
-            <guid>https://www.vlive.tv/video/290734</guid>
-            <pubDate>Sat, 03 Sep 2022 11:39:54 GMT</pubDate>
-            <content:encoded><![CDATA[ONEWE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220902_220/1662118669571Y73Y0_JPEG/upload_106198369574877158778d8cac-ac62-47ff-89bd-be1b6daa75f1.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
