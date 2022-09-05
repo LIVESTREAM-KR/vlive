@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 09:46:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 10:48:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[LIVE] SIMPLY K-POP CON-TOUR (📍Kazakhstan)]]></title>
-            <link>https://m.vlive.tv/video/290694</link>
-            <guid>https://m.vlive.tv/video/290694</guid>
-            <pubDate>Fri, 02 Sep 2022 05:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220902_28/1662095181423pOn4c_PNG/upload_106174883137466288e912bc41-676e-4bc6-8133-6fdf1ccee63b.png?type=f274_154" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Radio'n Us / Issac Hong 홍이삭)]]></title>
             <link>https://m.vlive.tv/video/290778</link>
@@ -106,6 +96,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220901_45/1662017325239tPkRB_JPEG/upload_78286908831736315aedac9d0-f40c-434c-aba4-b7754e678e84.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
+            <link>https://m.vlive.tv/video/290643</link>
+            <guid>https://m.vlive.tv/video/290643</guid>
+            <pubDate>Mon, 05 Sep 2022 10:48:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220901_263/16620174060116oiLx_JPEG/upload_78286980329264664b187c942-b3e4-4f68-8924-517a5016cab7.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
