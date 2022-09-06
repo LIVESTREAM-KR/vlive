@@ -4,9 +4,16 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 14:03:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 14:46:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[😆😆😆]]></title>
+            <link>https://www.vlive.tv/video/290911</link>
+            <guid>https://www.vlive.tv/video/290911</guid>
+            <pubDate>Tue, 06 Sep 2022 14:45:09 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[04 blondies going live~~💜❤️✨]]></title>
             <link>https://www.vlive.tv/video/290909</link>
@@ -118,14 +125,6 @@
             <pubDate>Tue, 06 Sep 2022 09:45:20 GMT</pubDate>
             <content:encoded><![CDATA[Amoeba Culture]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220906_209/1662430535562Yic7v_JPEG/upload_106510264303799413546ba950-5dae-4f30-9609-696705ca09df.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예삐소드] 글로벌 핫 스타 💗예삐💗의 2022 K GLOBAL HEART DREAM AWARDS BEHIND]]></title>
-            <link>https://www.vlive.tv/video/290856</link>
-            <guid>https://www.vlive.tv/video/290856</guid>
-            <pubDate>Tue, 06 Sep 2022 09:45:20 GMT</pubDate>
-            <content:encoded><![CDATA[AB6IX]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220906_153/1662430172863SBIWd_JPEG/upload_1065098998659236051ebb3fa2-beea-4ecd-94c2-9f05bc526986.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

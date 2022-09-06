@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 14:03:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 14:46:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,20 +48,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220906_237/1662460293474w4QJ0_JPEG/a7bcbb2c-2dce-11ed-a57b-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[찬이의 "방" 🐺 Ep. 173]]></title>
-            <link>https://www.vlive.tv/video/290796</link>
-            <guid>https://www.vlive.tv/video/290796</guid>
-            <pubDate>Sun, 04 Sep 2022 13:09:06 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220904_6/1662296588003eDQlp_JPEG/48076315-2c51-11ed-b25c-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[LIVE] 🌧🇬🇧]]></title>
             <link>https://www.vlive.tv/video/290851</link>
             <guid>https://www.vlive.tv/video/290851</guid>
             <pubDate>Tue, 06 Sep 2022 03:26:55 GMT</pubDate>
             <content:encoded><![CDATA[원호 (WONHO)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220906_118/1662419133513y2lJh_JPEG/0e49a30c-2d6f-11ed-b6e8-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찬이의 "방" 🐺 Ep. 173]]></title>
+            <link>https://www.vlive.tv/video/290796</link>
+            <guid>https://www.vlive.tv/video/290796</guid>
+            <pubDate>Sun, 04 Sep 2022 13:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220904_6/1662296588003eDQlp_JPEG/48076315-2c51-11ed-b25c-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
