@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 03:27:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 05:22:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[ASC Live Ep.538 (CIX / 씨아이엑스)]]></title>
-            <link>https://m.vlive.tv/video/290696</link>
-            <guid>https://m.vlive.tv/video/290696</guid>
-            <pubDate>Fri, 02 Sep 2022 06:25:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 4:00</span>
-										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220902_44/1662097131702GmK07_PNG/upload_1061768431590904285d9b34ac-b41c-4093-b532-637d8bb2d31c.png?type=f274_154" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Sound K] Mystery Mix with BOiTELLO 보이텔로]]></title>
-            <link>https://m.vlive.tv/video/290644</link>
-            <guid>https://m.vlive.tv/video/290644</guid>
-            <pubDate>Thu, 01 Sep 2022 07:44:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220901_158/1662017574249YoOHj_JPEG/upload_10609728070261272623ae39df-fe4a-46b0-a575-299b75a4de65.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Super K-Pop]Oh My K-Pop with NIve #키 #KEY #SHINee]]></title>
             <link>https://m.vlive.tv/video/290647</link>
@@ -106,6 +86,26 @@
 										방송취소</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220901_199/1662017816662MYO63_JPEG/upload_782873991973910563339244e-7a79-4ee7-bd3f-30bb6ab64676.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[146회 아트엠콘서트]]></title>
+            <link>https://m.vlive.tv/video/290502</link>
+            <guid>https://m.vlive.tv/video/290502</guid>
+            <pubDate>Tue, 06 Sep 2022 05:22:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:20</span>
+										<span class="txt">ARTMCONCERT</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220830_63/1661822832647YLCnW_PNG/upload_105902478021645718062b653a-5cf1-41ff-8494-3b2761cfda09.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[mini monster Birthdaysetting 2!!!!]]></title>
+            <link>https://m.vlive.tv/video/272157</link>
+            <guid>https://m.vlive.tv/video/272157</guid>
+            <pubDate>Tue, 06 Sep 2022 05:22:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 3:00</span>
+										<span class="txt">sema</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211218_94/1639796711375GzQ8F_JPEG/upload_83876405217509231884b5a01-39a9-4367-9b92-da56781d7305.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
