@@ -4,17 +4,9 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 17:04:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 17:49:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[잘자]]></title>
-            <link>https://www.vlive.tv/video/290915</link>
-            <guid>https://www.vlive.tv/video/290915</guid>
-            <pubDate>Tue, 06 Sep 2022 17:02:53 GMT</pubDate>
-            <content:encoded><![CDATA[ASTRO]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/290915/thumb?type=f228_128" length="0" type="image//live/290915/thumb"/>
-        </item>
         <item>
             <title><![CDATA[💜 HAPPY Sumin DAY 💜]]></title>
             <link>https://www.vlive.tv/video/290914</link>
@@ -126,6 +118,14 @@
             <pubDate>Tue, 06 Sep 2022 13:23:54 GMT</pubDate>
             <content:encoded><![CDATA[Lapillus]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220906_88/1662455716021KYfYt_JPEG/upload_106535152228581560ace31e85-b2dd-4cf9-93d6-21d3948cb13f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[면🫶💕]]></title>
+            <link>https://www.vlive.tv/video/290902</link>
+            <guid>https://www.vlive.tv/video/290902</guid>
+            <pubDate>Tue, 06 Sep 2022 17:47:43 GMT</pubDate>
+            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220906_110/1662468233029GonAV_JPEG/1aa66f88-2de1-11ed-9aa2-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

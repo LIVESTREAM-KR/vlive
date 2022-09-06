@@ -4,16 +4,9 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 17:04:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 17:49:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[잘자]]></title>
-            <link>https://www.vlive.tv/video/290915</link>
-            <guid>https://www.vlive.tv/video/290915</guid>
-            <pubDate>Tue, 06 Sep 2022 17:02:42 GMT</pubDate>
-            <content:encoded><![CDATA[ASTRO]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[💜 HAPPY Sumin DAY 💜]]></title>
             <link>https://www.vlive.tv/video/290914</link>
@@ -405,6 +398,14 @@
             <pubDate>Mon, 05 Sep 2022 14:00:57 GMT</pubDate>
             <content:encoded><![CDATA[CIX]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220905_266/1662384552690xyfKF_JPEG/ce161b3f-2d1d-11ed-bf94-d4f5ef590144_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Radio'n Us / Issac Hong 홍이삭)]]></title>
+            <link>https://www.vlive.tv/video/290778</link>
+            <guid>https://www.vlive.tv/video/290778</guid>
+            <pubDate>Tue, 06 Sep 2022 17:47:33 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220904_122/166225844100381QEq_JPEG/upload_106338129776710768d0cce7d8-151c-44cc-a6c2-87a5cb739af6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
