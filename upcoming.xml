@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 15:50:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 17:04:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -336,12 +336,36 @@
             <enclosure url="https://v-phinf.pstatic.net/20220906_22/1662476355439xGwE0_JPEG/175351873393100892b6f148cb-336d-4285-a4ed-768e11e7b752.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[따아아아나아아아아잉잇]]></title>
+            <link>https://www.vlive.tv/video/290912</link>
+            <guid>https://www.vlive.tv/video/290912</guid>
+            <pubDate>Tue, 06 Sep 2022 17:03:48 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:56]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220907_131/1662479790354PUejm_JPEG/813245db-2dfb-11ed-a7c3-d4f5ef58ad5e_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[😆😆😆]]></title>
+            <link>https://www.vlive.tv/video/290911</link>
+            <guid>https://www.vlive.tv/video/290911</guid>
+            <pubDate>Tue, 06 Sep 2022 17:03:48 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:57]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220907_278/16624798601105lIKG_JPEG/a689997a-2dfb-11ed-999c-505dac8c3639_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[💜 HAPPY Sumin DAY 💜]]></title>
             <link>https://www.vlive.tv/video/290914</link>
             <guid>https://www.vlive.tv/video/290914</guid>
             <pubDate>Tue, 06 Sep 2022 15:50:09 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:14]]></content:encoded>
+            <content:encoded><![CDATA[오후 4:15]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220907_203/1662477256508L6zes_JPEG/1752656571059238690652656c-fe3c-4e9b-8066-131276f02eba.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잘자]]></title>
+            <link>https://www.vlive.tv/video/290915</link>
+            <guid>https://www.vlive.tv/video/290915</guid>
+            <pubDate>Tue, 06 Sep 2022 17:03:48 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:43]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/290915/thumb?type=f228_128" length="0" type="image//live/290915/thumb"/>
         </item>
     </channel>
 </rss>
