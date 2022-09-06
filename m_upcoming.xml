@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 23:49:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 03:27:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Welcome to Korea with Kim Min Ji]]></title>
-            <link>https://m.vlive.tv/video/290640</link>
-            <guid>https://m.vlive.tv/video/290640</guid>
-            <pubDate>Thu, 01 Sep 2022 07:44:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220901_197/1662017138657plNH4_JPEG/upload_78286719200885461441f8119-b6eb-46d4-ad5e-e01a8c07f567.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[ASC Live Ep.538 (CIX / 씨아이엑스)]]></title>
             <link>https://m.vlive.tv/video/290696</link>
@@ -93,7 +83,7 @@
             <guid>https://m.vlive.tv/video/290643</guid>
             <pubDate>Mon, 05 Sep 2022 10:48:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
+										방송취소</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220901_263/16620174060116oiLx_JPEG/upload_78286980329264664b187c942-b3e4-4f68-8924-517a5016cab7.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
@@ -103,9 +93,19 @@
             <guid>https://m.vlive.tv/video/290646</guid>
             <pubDate>Mon, 05 Sep 2022 11:45:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
+										방송취소</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220901_153/1662017649823j1Mjv_JPEG/upload_782872263362634432be83e81-732b-4ad5-a35a-6010b479c6dc.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop] Topic Song with BÉBE YANA , Jogon of 9001]]></title>
+            <link>https://m.vlive.tv/video/290649</link>
+            <guid>https://m.vlive.tv/video/290649</guid>
+            <pubDate>Tue, 06 Sep 2022 03:27:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										방송취소</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220901_199/1662017816662MYO63_JPEG/upload_782873991973910563339244e-7a79-4ee7-bd3f-30bb6ab64676.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
