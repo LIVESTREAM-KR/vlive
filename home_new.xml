@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 13:33:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 14:49:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Wed, 07 Sep 2022 13:31:51 GMT</pubDate>
             <content:encoded><![CDATA[TRENDZ (트렌드지)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220907_280/16625574180631hGlG_JPEG/1754330820221236212f2ef729-1144-4f18-82f6-556f1d119073.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[98Z]]></title>
+            <link>https://www.vlive.tv/video/291006</link>
+            <guid>https://www.vlive.tv/video/291006</guid>
+            <pubDate>Wed, 07 Sep 2022 14:48:37 GMT</pubDate>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/291006/thumb?type=f228_128" length="0" type="image//live/291006/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[은조의 조은밤🌝🎧#75]]></title>
+            <link>https://www.vlive.tv/video/290997</link>
+            <guid>https://www.vlive.tv/video/290997</guid>
+            <pubDate>Wed, 07 Sep 2022 14:48:37 GMT</pubDate>
+            <content:encoded><![CDATA[드림노트 (DreamNote)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220907_3/1662557580803EW18f_JPEG/8fa3c66f-2eb0-11ed-aee9-505dac8c38f5_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[닼둥이들과 막방기념 Coffee time ☕️]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 07 Sep 2022 11:43:10 GMT</pubDate>
             <content:encoded><![CDATA[다크비(DKB)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220907_36/1662523029468GPT3G_JPEG/upload_1066027616924900733fbd906a-24c5-4bfa-867a-c025edbd92f8.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[UZZU TAPE] EP.187 설아의날들(제주도) Seola's Moments (In Jeju)]]></title>
-            <link>https://www.vlive.tv/video/290895</link>
-            <guid>https://www.vlive.tv/video/290895</guid>
-            <pubDate>Wed, 07 Sep 2022 11:43:10 GMT</pubDate>
-            <content:encoded><![CDATA[우주소녀(WJSN)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220906_65/1662457432376nWN0r_JPEG/upload_106537087254280749b417e968-ee83-4cc9-a9a1-709b5299f262.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Ciipher] 놀이터🛝]]></title>
-            <link>https://www.vlive.tv/video/290979</link>
-            <guid>https://www.vlive.tv/video/290979</guid>
-            <pubDate>Wed, 07 Sep 2022 11:43:10 GMT</pubDate>
-            <content:encoded><![CDATA[싸이퍼(Ciipher)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220907_7/16625481724057erpt_JPEG/5af9ba0d-2e9a-11ed-b07a-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

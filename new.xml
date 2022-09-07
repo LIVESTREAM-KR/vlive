@@ -4,7 +4,7 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 13:33:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 14:49:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,21 @@
             <pubDate>Wed, 07 Sep 2022 13:31:43 GMT</pubDate>
             <content:encoded><![CDATA[TRENDZ (트렌드지)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220907_280/16625574180631hGlG_JPEG/1754330820221236212f2ef729-1144-4f18-82f6-556f1d119073.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[98Z]]></title>
+            <link>https://www.vlive.tv/video/291006</link>
+            <guid>https://www.vlive.tv/video/291006</guid>
+            <pubDate>Wed, 07 Sep 2022 14:48:28 GMT</pubDate>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[은조의 조은밤🌝🎧#75]]></title>
+            <link>https://www.vlive.tv/video/290997</link>
+            <guid>https://www.vlive.tv/video/290997</guid>
+            <pubDate>Wed, 07 Sep 2022 14:48:28 GMT</pubDate>
+            <content:encoded><![CDATA[드림노트 (DreamNote)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220907_3/1662557580803EW18f_JPEG/8fa3c66f-2eb0-11ed-aee9-505dac8c38f5_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[닼둥이들과 막방기념 Coffee time ☕️]]></title>
@@ -390,22 +405,6 @@
             <pubDate>Wed, 07 Sep 2022 03:26:14 GMT</pubDate>
             <content:encoded><![CDATA[TREASURE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220906_134/1662474569405AQrpE_JPEG/upload_106554098439897718c8f4f85d-c8d7-4b71-8303-1fc78d4a66ed.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rocking doll(록킹돌) :: Ep.1 문화정복(비빔밥 정복) 😝나물 하나 얻으려고 냅다 비보잉 하는 외계인 👽]]></title>
-            <link>https://www.vlive.tv/video/290820</link>
-            <guid>https://www.vlive.tv/video/290820</guid>
-            <pubDate>Wed, 07 Sep 2022 03:26:14 GMT</pubDate>
-            <content:encoded><![CDATA[Rocking doll]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220907_156/1662513121661wxyCI_PNG/upload_78782711424736044695df10c-444e-459c-b8a9-9fe65596f995.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthew]]></title>
-            <link>https://www.vlive.tv/video/290641</link>
-            <guid>https://www.vlive.tv/video/290641</guid>
-            <pubDate>Wed, 07 Sep 2022 03:26:14 GMT</pubDate>
-            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220901_29/1662017286379Q6W8D_JPEG/upload_1060968949409757470473ba93-c697-4289-a50f-dcc2c63ff33d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
