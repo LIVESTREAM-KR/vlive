@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Sep 2022 15:51:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 17:06:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🐰]]></title>
+            <link>https://www.vlive.tv/video/291010</link>
+            <guid>https://www.vlive.tv/video/291010</guid>
+            <pubDate>Wed, 07 Sep 2022 15:50:12 GMT</pubDate>
+            <content:encoded><![CDATA[드림노트 (DreamNote)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220908_168/1662567253220KDwx5_JPEG/76f28c91-2ec7-11ed-bf94-d4f5ef590144_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[98Z]]></title>
             <link>https://www.vlive.tv/video/291012</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 07 Sep 2022 15:50:12 GMT</pubDate>
             <content:encoded><![CDATA[E'LAST]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220907_157/1662542936559AfDvI_JPEG/upload_106531155666493545ebde7a31-2e1a-4dee-8cfd-58e902e55337.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🐰]]></title>
-            <link>https://www.vlive.tv/video/291010</link>
-            <guid>https://www.vlive.tv/video/291010</guid>
-            <pubDate>Wed, 07 Sep 2022 15:50:12 GMT</pubDate>
-            <content:encoded><![CDATA[드림노트 (DreamNote)]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/291010/thumb?type=f228_128" length="0" type="image//live/291010/thumb"/>
         </item>
         <item>
             <title><![CDATA[얍!]]></title>
