@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 07:54:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 08:53:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[🎉 ICHILLIN’ Debut 1st Anniversary 🎉]]></title>
-            <link>https://m.vlive.tv/video/291025</link>
-            <guid>https://m.vlive.tv/video/291025</guid>
-            <pubDate>Thu, 08 Sep 2022 03:23:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 8:00</span>
-										<span class="txt">ICHILLIN’</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220908_219/1662602411045Ga801_JPEG/upload_106677459179330672d23c08ae-6196-440e-829f-3b037ed42034.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[🎂MEGAMAX 1st anniversary🎂]]></title>
             <link>https://m.vlive.tv/video/291017</link>
@@ -35,7 +25,7 @@
             <content:encoded><![CDATA[<span class="time">
 										오전 10:00</span>
 										<span class="txt">INMEDIA+</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220908_169/1662570012032GW3Kq_PNG/upload_1066486595295639359531aaf9-4b25-4fe5-9dd3-8852d1dab1c6.png?type=f274_154" length="0" type="image/png"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220908_75/1662624750203D8fVc_PNG/upload_106704467540527954d5929193-2f48-45ea-b1d8-c51bc58f2c23.png?type=f274_154" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Simply K-Pop CON-TOUR (심플리케이팝 콘투어) Ep.536]]></title>
@@ -96,6 +86,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220907_11/16625327341698SpaF_JPEG/upload_1066124329523343041ec26450-e5f0-4c47-a89e-c932bd2eae87.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop] Stray Quiz]]></title>
+            <link>https://m.vlive.tv/video/290965</link>
+            <guid>https://m.vlive.tv/video/290965</guid>
+            <pubDate>Thu, 08 Sep 2022 08:53:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220907_34/1662533004746woB93_JPEG/upload_106612715398620910f120c4c5-2c52-40a7-8d2d-d92363414337.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
