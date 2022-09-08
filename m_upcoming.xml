@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 08:53:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 09:49:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220907_34/1662533004746woB93_JPEG/upload_106612715398620910f120c4c5-2c52-40a7-8d2d-d92363414337.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[146회 아트엠콘서트]]></title>
+            <link>https://m.vlive.tv/video/290502</link>
+            <guid>https://m.vlive.tv/video/290502</guid>
+            <pubDate>Thu, 08 Sep 2022 09:48:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:20</span>
+										<span class="txt">ARTMCONCERT</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220830_63/1661822832647YLCnW_PNG/upload_105902478021645718062b653a-5cf1-41ff-8494-3b2761cfda09.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
