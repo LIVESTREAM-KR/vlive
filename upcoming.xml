@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 13:53:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 14:43:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -416,14 +416,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220908_41/1662636778864LXSfI_JPEG/17551229684954143534b0c96c-35bf-462d-8cd4-d627d26f7875.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[심심행]]></title>
-            <link>https://www.vlive.tv/video/291100</link>
-            <guid>https://www.vlive.tv/video/291100</guid>
-            <pubDate>Thu, 08 Sep 2022 13:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:23]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/291100/thumb?type=f228_128" length="0" type="image//live/291100/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[부릉부릉🚙💨 엔진 막방🥲]]></title>
             <link>https://www.vlive.tv/video/291096</link>
             <guid>https://www.vlive.tv/video/291096</guid>
@@ -438,14 +430,6 @@
             <pubDate>Thu, 08 Sep 2022 13:20:16 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220908_285/1662629437965dQ2Ya_JPEG/upload_788990211733779005cc53800-3917-4a53-abb0-1227ec9c586c.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진석이의 별빛라디오⭐️]]></title>
-            <link>https://www.vlive.tv/video/291103</link>
-            <guid>https://www.vlive.tv/video/291103</guid>
-            <pubDate>Thu, 08 Sep 2022 13:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:14]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/291103/thumb?type=f228_128" length="0" type="image//live/291103/thumb"/>
         </item>
         <item>
             <title><![CDATA[💛🐝💛🐝MISS U💛🐝💛🐝]]></title>
@@ -470,6 +454,30 @@
             <pubDate>Thu, 08 Sep 2022 13:20:16 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:38]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220908_191/1662644323287tp02I_JPEG/fa48bd91-2f7a-11ed-aee9-505dac8c38f5_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뭐하나]]></title>
+            <link>https://www.vlive.tv/video/291098</link>
+            <guid>https://www.vlive.tv/video/291098</guid>
+            <pubDate>Thu, 08 Sep 2022 14:43:04 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:53]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220908_41/1662645191144lypLE_JPEG/a7fe633e-2f7c-11ed-83d6-48df379cca40_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[진석이의 별빛라디오⭐️]]></title>
+            <link>https://www.vlive.tv/video/291103</link>
+            <guid>https://www.vlive.tv/video/291103</guid>
+            <pubDate>Thu, 08 Sep 2022 13:20:16 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:04]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220908_222/16626458581904mm41_JPEG/bea8c6e6-2f7e-11ed-a7c3-d4f5ef58ad5e_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[심심행]]></title>
+            <link>https://www.vlive.tv/video/291100</link>
+            <guid>https://www.vlive.tv/video/291100</guid>
+            <pubDate>Thu, 08 Sep 2022 13:20:16 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:39]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220908_46/1662647951432bOpT1_JPEG/5b2732ef-2f83-11ed-aee9-505dac8c38f5_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
