@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 06:28:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 07:11:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,16 +48,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220907_38/1662529267395PfSNr_PNG/upload_78798849406932834d91cec5e-bcd3-4537-81ac-4c6ff8e57fbb.png?type=f274_154" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
-            <link>https://m.vlive.tv/video/290956</link>
-            <guid>https://m.vlive.tv/video/290956</guid>
-            <pubDate>Wed, 07 Sep 2022 06:44:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										방송취소</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220907_261/1662532633207slnjB_JPEG/upload_106612338154932644d2182b85-e35e-4aec-9280-6bcd489d4b0e.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[Arirang Radio / #daily K] Welcome to Korea with Kim Min Ji]]></title>
             <link>https://m.vlive.tv/video/290957</link>
             <guid>https://m.vlive.tv/video/290957</guid>
@@ -96,6 +86,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220907_3/1662532886025rkdbM_JPEG/upload_1066125881362230745294ddab-68e9-4e1f-a691-f0ebba66fc03.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] K-Patch with Jennifer Jin]]></title>
+            <link>https://m.vlive.tv/video/290959</link>
+            <guid>https://m.vlive.tv/video/290959</guid>
+            <pubDate>Thu, 08 Sep 2022 07:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220907_11/16625327341698SpaF_JPEG/upload_1066124329523343041ec26450-e5f0-4c47-a89e-c932bd2eae87.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
