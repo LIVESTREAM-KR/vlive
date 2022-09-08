@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 09:49:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 10:50:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[🎂MEGAMAX 1st anniversary🎂]]></title>
-            <link>https://m.vlive.tv/video/291017</link>
-            <guid>https://m.vlive.tv/video/291017</guid>
-            <pubDate>Wed, 07 Sep 2022 17:05:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										방송취소</span>
-										<span class="txt">INMEDIA+</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220908_249/1662568449950Inpid_PNG/upload_106648170578822912ab6db00c-45ae-4888-8761-c3bcf53bf762.png?type=f274_154" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[🎂MEGAMAX 1st anniversary🎂]]></title>
-            <link>https://m.vlive.tv/video/291019</link>
-            <guid>https://m.vlive.tv/video/291019</guid>
-            <pubDate>Wed, 07 Sep 2022 17:05:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">INMEDIA+</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220908_75/1662624750203D8fVc_PNG/upload_106704467540527954d5929193-2f48-45ea-b1d8-c51bc58f2c23.png?type=f274_154" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[Simply K-Pop CON-TOUR (심플리케이팝 콘투어) Ep.536]]></title>
             <link>https://m.vlive.tv/video/290947</link>
@@ -106,6 +86,26 @@
 										오전 10:20</span>
 										<span class="txt">ARTMCONCERT</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220830_63/1661822832647YLCnW_PNG/upload_105902478021645718062b653a-5cf1-41ff-8494-3b2761cfda09.png?type=f274_154" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
+            <link>https://m.vlive.tv/video/290960</link>
+            <guid>https://m.vlive.tv/video/290960</guid>
+            <pubDate>Thu, 08 Sep 2022 10:50:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220907_281/1662532763049X6GDe_JPEG/upload_78802351973426675ed5f98b8-12fe-4c4d-879b-cbe45af11169.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Sound K] Hey! Ladies Kode~ with Sojung&Zuny 소정 &주니]]></title>
+            <link>https://m.vlive.tv/video/290963</link>
+            <guid>https://m.vlive.tv/video/290963</guid>
+            <pubDate>Thu, 08 Sep 2022 10:50:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220907_130/1662532921937Mjpmt_JPEG/upload_10661263036494177923a0c531-7544-4cc4-8182-8b476332660f.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
