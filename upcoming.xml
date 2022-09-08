@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 13:20:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 13:53:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -416,28 +416,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20220908_41/1662636778864LXSfI_JPEG/17551229684954143534b0c96c-35bf-462d-8cd4-d627d26f7875.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뭐하나]]></title>
-            <link>https://www.vlive.tv/video/291098</link>
-            <guid>https://www.vlive.tv/video/291098</guid>
-            <pubDate>Thu, 08 Sep 2022 13:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:22]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/291098/thumb?type=f228_128" length="0" type="image//live/291098/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[심심행]]></title>
             <link>https://www.vlive.tv/video/291100</link>
             <guid>https://www.vlive.tv/video/291100</guid>
             <pubDate>Thu, 08 Sep 2022 13:20:16 GMT</pubDate>
             <content:encoded><![CDATA[오후 12:23]]></content:encoded>
             <enclosure url="https://vlive-thumb.pstatic.net/live/291100/thumb?type=f228_128" length="0" type="image//live/291100/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[한국에서 첫 추석이에요❤️]]></title>
-            <link>https://www.vlive.tv/video/291101</link>
-            <guid>https://www.vlive.tv/video/291101</guid>
-            <pubDate>Thu, 08 Sep 2022 13:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:28]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/291101/thumb?type=f228_128" length="0" type="image//live/291101/thumb"/>
         </item>
         <item>
             <title><![CDATA[부릉부릉🚙💨 엔진 막방🥲]]></title>
@@ -454,14 +438,6 @@
             <pubDate>Thu, 08 Sep 2022 13:20:16 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220908_285/1662629437965dQ2Ya_JPEG/upload_788990211733779005cc53800-3917-4a53-abb0-1227ec9c586c.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[짱드비가 왔드👏]]></title>
-            <link>https://www.vlive.tv/video/291094</link>
-            <guid>https://www.vlive.tv/video/291094</guid>
-            <pubDate>Thu, 08 Sep 2022 13:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:03]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220908_40/16626422078452osbb_JPEG/ac9c59a8-2f75-11ed-a14d-505dac8c3607_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[진석이의 별빛라디오⭐️]]></title>
@@ -486,6 +462,14 @@
             <pubDate>Thu, 08 Sep 2022 13:20:16 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:19]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220908_126/1662643154996JznfM_JPEG/56260931244738292322fd460-85f6-4795-8a93-2d05ee6adc2f.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국에서 첫 추석이에요❤️]]></title>
+            <link>https://www.vlive.tv/video/291101</link>
+            <guid>https://www.vlive.tv/video/291101</guid>
+            <pubDate>Thu, 08 Sep 2022 13:20:16 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:38]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220908_191/1662644323287tp02I_JPEG/fa48bd91-2f7a-11ed-aee9-505dac8c38f5_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
