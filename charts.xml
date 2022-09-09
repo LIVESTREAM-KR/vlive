@@ -4,17 +4,9 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 14:07:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 14:49:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[뭐하나]]></title>
-            <link>https://www.vlive.tv/video/291098</link>
-            <guid>https://www.vlive.tv/video/291098</guid>
-            <pubDate>Thu, 08 Sep 2022 14:42:42 GMT</pubDate>
-            <content:encoded><![CDATA[ASTRO]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220908_41/1662645191144lypLE_JPEG/a7fe633e-2f7c-11ed-83d6-48df379cca40_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 2]]></title>
             <link>https://www.vlive.tv/video/289928</link>
@@ -30,6 +22,14 @@
             <pubDate>Fri, 09 Sep 2022 09:48:15 GMT</pubDate>
             <content:encoded><![CDATA[MAMAMOO]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220909_215/1662711846954GkmK7_JPEG/175587364939415727ab162757-69f1-440e-9d99-ebff5656d682.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뭐하나]]></title>
+            <link>https://www.vlive.tv/video/291098</link>
+            <guid>https://www.vlive.tv/video/291098</guid>
+            <pubDate>Thu, 08 Sep 2022 14:42:42 GMT</pubDate>
+            <content:encoded><![CDATA[ASTRO]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220908_41/1662645191144lypLE_JPEG/a7fe633e-2f7c-11ed-83d6-48df379cca40_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Stray Kids(스트레이 키즈) "MAXIDENT" Trailer_Felix ver.]]></title>
@@ -56,12 +56,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20220907_37/1662554372248FU4B1_JPEG/upload_788239728009834955b2147c9-5061-4b70-8920-a1db3a630b34.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[심심행]]></title>
-            <link>https://www.vlive.tv/video/291100</link>
-            <guid>https://www.vlive.tv/video/291100</guid>
-            <pubDate>Thu, 08 Sep 2022 18:54:26 GMT</pubDate>
-            <content:encoded><![CDATA[AB6IX]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220908_46/1662647951432bOpT1_JPEG/5b2732ef-2f83-11ed-aee9-505dac8c38f5_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <title><![CDATA[ㅎㅎ..]]></title>
+            <link>https://www.vlive.tv/video/291121</link>
+            <guid>https://www.vlive.tv/video/291121</guid>
+            <pubDate>Fri, 09 Sep 2022 14:48:22 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220909_196/1662704007088tuDYV_JPEG/17557962108007298678c3c8c4-c9a8-4658-8e7a-756635aab044.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
