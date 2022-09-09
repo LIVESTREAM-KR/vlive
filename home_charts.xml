@@ -4,17 +4,9 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 09:49:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 10:51:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[심심행]]></title>
-            <link>https://www.vlive.tv/video/291100</link>
-            <guid>https://www.vlive.tv/video/291100</guid>
-            <pubDate>Thu, 08 Sep 2022 18:54:16 GMT</pubDate>
-            <content:encoded><![CDATA[AB6IX]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220908_46/1662647951432bOpT1_JPEG/5b2732ef-2f83-11ed-aee9-505dac8c38f5_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[뭐해?]]></title>
             <link>https://www.vlive.tv/video/291125</link>
@@ -22,6 +14,14 @@
             <pubDate>Fri, 09 Sep 2022 09:48:04 GMT</pubDate>
             <content:encoded><![CDATA[MAMAMOO]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220909_215/1662711846954GkmK7_JPEG/175587364939415727ab162757-69f1-440e-9d99-ebff5656d682.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[심심행]]></title>
+            <link>https://www.vlive.tv/video/291100</link>
+            <guid>https://www.vlive.tv/video/291100</guid>
+            <pubDate>Thu, 08 Sep 2022 18:54:16 GMT</pubDate>
+            <content:encoded><![CDATA[AB6IX]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220908_46/1662647951432bOpT1_JPEG/5b2732ef-2f83-11ed-aee9-505dac8c38f5_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Stray Kids(스트레이 키즈) "MAXIDENT" Trailer_HAN ver.]]></title>
