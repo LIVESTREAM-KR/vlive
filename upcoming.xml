@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 15:51:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 17:05:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -438,6 +438,14 @@
             <pubDate>Fri, 09 Sep 2022 15:51:19 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220908_111/1662644352831Jg1uv_JPEG/upload_78913956059096383903aecaa-71ad-4c91-a648-3550cd28cf20.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VANNER(배너)의 2022년 추석인사🌕]]></title>
+            <link>https://www.vlive.tv/video/291138</link>
+            <guid>https://www.vlive.tv/video/291138</guid>
+            <pubDate>Fri, 09 Sep 2022 17:05:03 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:53]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220910_9/1662742371760OOKpM_JPEG/upload_79010859913523080da37afb8-c732-47c8-a1fd-1e881aa904f0.jpeg?type=f228_128" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

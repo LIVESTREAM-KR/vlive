@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 15:51:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 17:05:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VANNER(배너)의 2022년 추석인사🌕]]></title>
+            <link>https://www.vlive.tv/video/291138</link>
+            <guid>https://www.vlive.tv/video/291138</guid>
+            <pubDate>Fri, 09 Sep 2022 17:04:10 GMT</pubDate>
+            <content:encoded><![CDATA[VANNER (배너)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220910_9/1662742371760OOKpM_JPEG/upload_79010859913523080da37afb8-c732-47c8-a1fd-1e881aa904f0.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[스포라이브 #3] 김재중(KIM JAE JOONG) - BPM]]></title>
             <link>https://www.vlive.tv/video/291066</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 09 Sep 2022 08:54:23 GMT</pubDate>
             <content:encoded><![CDATA[VAV]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220909_144/1662712560114Rcoby_JPEG/1755881740916431463381c6c5-a130-4bcf-abb7-753ea3020499.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OMEGA X(오메가엑스)가 전하는 2022 추석 인사]]></title>
-            <link>https://www.vlive.tv/video/291130</link>
-            <guid>https://www.vlive.tv/video/291130</guid>
-            <pubDate>Fri, 09 Sep 2022 09:47:48 GMT</pubDate>
-            <content:encoded><![CDATA[OMEGA X (오메가엑스)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220909_114/1662715593143hAseN_JPEG/upload_1067952533982959787d63c770-60f6-4b78-b5f8-616119a3fe38.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

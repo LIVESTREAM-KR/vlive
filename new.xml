@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 15:51:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 17:05:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VANNER(배너)의 2022년 추석인사🌕]]></title>
+            <link>https://www.vlive.tv/video/291138</link>
+            <guid>https://www.vlive.tv/video/291138</guid>
+            <pubDate>Fri, 09 Sep 2022 17:04:01 GMT</pubDate>
+            <content:encoded><![CDATA[VANNER (배너)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220910_9/1662742371760OOKpM_JPEG/upload_79010859913523080da37afb8-c732-47c8-a1fd-1e881aa904f0.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[스포라이브 #3] 김재중(KIM JAE JOONG) - BPM]]></title>
             <link>https://www.vlive.tv/video/291066</link>
@@ -398,14 +406,6 @@
             <pubDate>Fri, 09 Sep 2022 03:16:59 GMT</pubDate>
             <content:encoded><![CDATA[DKZ]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220906_269/1662460800264TplRD_JPEG/upload_106540450101838447b47c805a-9b02-494e-b571-c3b3e3f2886d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CHUNG HA 청하 2022 Chuseok Greeting 추석 인사]]></title>
-            <link>https://www.vlive.tv/video/290872</link>
-            <guid>https://www.vlive.tv/video/290872</guid>
-            <pubDate>Fri, 09 Sep 2022 03:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[CHUNG HA]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220906_247/1662450539738hSXuq_JPEG/upload_1065235652021855497d0fc9da-efbe-4a1f-a992-fbac6dbf2b38.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
