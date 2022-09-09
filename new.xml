@@ -4,9 +4,16 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 13:29:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 14:07:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[산책하러 가는 중 📞]]></title>
+            <link>https://www.vlive.tv/video/291136</link>
+            <guid>https://www.vlive.tv/video/291136</guid>
+            <pubDate>Fri, 09 Sep 2022 14:06:08 GMT</pubDate>
+            <content:encoded><![CDATA[드림노트 (DreamNote)]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤... #14]]></title>
             <link>https://www.vlive.tv/video/291135</link>
@@ -398,14 +405,6 @@
             <pubDate>Fri, 09 Sep 2022 03:16:59 GMT</pubDate>
             <content:encoded><![CDATA[BVNDIT(밴디트)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220906_98/1662433080586xf1yq_JPEG/upload_78699818127357209d85ad706-36a1-455d-a002-a48813babb92.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rocking doll (록킹돌) | 'Survive' MV]]></title>
-            <link>https://www.vlive.tv/video/290811</link>
-            <guid>https://www.vlive.tv/video/290811</guid>
-            <pubDate>Fri, 09 Sep 2022 03:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[Rocking doll]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220905_118/1662341596147Ffy0b_JPEG/upload_7861119932698895543faa3f2-53ea-486e-a220-57b756da2e04.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

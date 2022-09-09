@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 13:29:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 14:07:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[산책하러 가는 중 📞]]></title>
+            <link>https://www.vlive.tv/video/291136</link>
+            <guid>https://www.vlive.tv/video/291136</guid>
+            <pubDate>Fri, 09 Sep 2022 14:06:18 GMT</pubDate>
+            <content:encoded><![CDATA[드림노트 (DreamNote)]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/291136/thumb?type=f228_128" length="0" type="image//live/291136/thumb"/>
+        </item>
         <item>
             <title><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤... #14]]></title>
             <link>https://www.vlive.tv/video/291135</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 09 Sep 2022 09:47:48 GMT</pubDate>
             <content:encoded><![CDATA[MBC 예능]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220909_16/1662714759643TFsN6_JPEG/upload_78984277077918692e235c06a-a0eb-4f91-9a22-dbc4338bfb38.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뭐해?]]></title>
-            <link>https://www.vlive.tv/video/291125</link>
-            <guid>https://www.vlive.tv/video/291125</guid>
-            <pubDate>Fri, 09 Sep 2022 08:54:23 GMT</pubDate>
-            <content:encoded><![CDATA[MAMAMOO]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220909_215/1662711846954GkmK7_JPEG/175587364939415727ab162757-69f1-440e-9d99-ebff5656d682.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
