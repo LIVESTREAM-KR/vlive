@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 14:49:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 15:51:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -422,6 +422,22 @@
             <pubDate>Fri, 09 Sep 2022 14:07:09 GMT</pubDate>
             <content:encoded><![CDATA[오후 2:11]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220909_273/1662732693831OCLtz_JPEG/064256d1-3049-11ed-aee9-505dac8c38f5_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤... #14]]></title>
+            <link>https://www.vlive.tv/video/291135</link>
+            <guid>https://www.vlive.tv/video/291135</guid>
+            <pubDate>Fri, 09 Sep 2022 15:51:19 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:52]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220909_38/16627276446823iYsL_JPEG/17560324767841403557d9423b-316b-44ff-b405-d61d8399575a.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스포라이브 #3] 김재중(KIM JAE JOONG) - BPM]]></title>
+            <link>https://www.vlive.tv/video/291066</link>
+            <guid>https://www.vlive.tv/video/291066</guid>
+            <pubDate>Fri, 09 Sep 2022 15:51:19 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220908_111/1662644352831Jg1uv_JPEG/upload_78913956059096383903aecaa-71ad-4c91-a648-3550cd28cf20.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
