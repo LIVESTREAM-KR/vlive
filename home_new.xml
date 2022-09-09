@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 07:48:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 08:55:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[VAV] BARON 22.09.09 추석 전 방송]]></title>
+            <link>https://www.vlive.tv/video/291126</link>
+            <guid>https://www.vlive.tv/video/291126</guid>
+            <pubDate>Fri, 09 Sep 2022 08:54:23 GMT</pubDate>
+            <content:encoded><![CDATA[VAV]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220909_144/1662712560114Rcoby_JPEG/1755881740916431463381c6c5-a130-4bcf-abb7-753ea3020499.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뭐해?]]></title>
+            <link>https://www.vlive.tv/video/291125</link>
+            <guid>https://www.vlive.tv/video/291125</guid>
+            <pubDate>Fri, 09 Sep 2022 08:54:23 GMT</pubDate>
+            <content:encoded><![CDATA[MAMAMOO]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220909_215/1662711846954GkmK7_JPEG/175587364939415727ab162757-69f1-440e-9d99-ebff5656d682.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ㅎㅎ..]]></title>
             <link>https://www.vlive.tv/video/291121</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 09 Sep 2022 03:17:08 GMT</pubDate>
             <content:encoded><![CDATA[Hezz]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220909_166/1662685220452mArgx_JPEG/upload_78954809262895124ac6d5291-3aac-49db-8e7b-86e3b45a7560.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AB6IX (에이비식스), 예삐들의 2022 추석 인사가 도착했습니다 🐹🐿🐦🦦]]></title>
-            <link>https://www.vlive.tv/video/291092</link>
-            <guid>https://www.vlive.tv/video/291092</guid>
-            <pubDate>Fri, 09 Sep 2022 03:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[AB6IX]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220908_287/1662634447245gD9L7_JPEG/upload_7890402461156412419b41c59-e59a-44c7-b20b-0375e4defb84.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ONEWE(원위)가 전하는 2022 추석 인사 메시지]]></title>
-            <link>https://www.vlive.tv/video/291090</link>
-            <guid>https://www.vlive.tv/video/291090</guid>
-            <pubDate>Fri, 09 Sep 2022 03:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[ONEWE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220908_24/1662633531709kiNcY_JPEG/upload_106713094585995674dc5a7d35-416b-446f-a659-d2157ba3a047.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

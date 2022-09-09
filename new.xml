@@ -4,9 +4,25 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 07:48:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 08:55:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[VAV] BARON 22.09.09 추석 전 방송]]></title>
+            <link>https://www.vlive.tv/video/291126</link>
+            <guid>https://www.vlive.tv/video/291126</guid>
+            <pubDate>Fri, 09 Sep 2022 08:54:13 GMT</pubDate>
+            <content:encoded><![CDATA[VAV]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220909_144/1662712560114Rcoby_JPEG/1755881740916431463381c6c5-a130-4bcf-abb7-753ea3020499.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뭐해?]]></title>
+            <link>https://www.vlive.tv/video/291125</link>
+            <guid>https://www.vlive.tv/video/291125</guid>
+            <pubDate>Fri, 09 Sep 2022 08:54:13 GMT</pubDate>
+            <content:encoded><![CDATA[MAMAMOO]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220909_215/1662711846954GkmK7_JPEG/175587364939415727ab162757-69f1-440e-9d99-ebff5656d682.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ㅎㅎ..]]></title>
             <link>https://www.vlive.tv/video/291121</link>
@@ -390,22 +406,6 @@
             <pubDate>Thu, 08 Sep 2022 11:43:27 GMT</pubDate>
             <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220908_148/1662605542340MOufS_JPEG/upload_1066852740103374491d560ae2-3983-43b6-8073-6475d41ebbbc.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Behind] LUCY - 놀이 (PLAY) 음악방송 비하인드]]></title>
-            <link>https://www.vlive.tv/video/291091</link>
-            <guid>https://www.vlive.tv/video/291091</guid>
-            <pubDate>Thu, 08 Sep 2022 11:43:27 GMT</pubDate>
-            <content:encoded><![CDATA[LUCY 루시]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220908_53/1662633916675bdYz8_JPEG/upload_106713605702884659cb3be343-63bc-4be5-b1c9-280aa17ac5aa.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[선공개] 엄청난 라인업! 눈을 사로잡는 화려한 선수들✨ <2022 추석 특집 아이돌스타 선수권대회>🤾, MBC 220909 방송]]></title>
-            <link>https://www.vlive.tv/video/291060</link>
-            <guid>https://www.vlive.tv/video/291060</guid>
-            <pubDate>Thu, 08 Sep 2022 11:43:27 GMT</pubDate>
-            <content:encoded><![CDATA[MBC 예능]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220908_189/1662622516111qxh3v_JPEG/upload_788921189830577187f1a120b-7a93-433a-a8f9-92a5a1ba4a3c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

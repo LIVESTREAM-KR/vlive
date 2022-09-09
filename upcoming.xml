@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Sep 2022 07:48:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Sep 2022 08:55:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -246,6 +246,22 @@
             <pubDate>Fri, 09 Sep 2022 07:06:25 GMT</pubDate>
             <content:encoded><![CDATA[오전 6:40]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220909_196/1662704007088tuDYV_JPEG/17557962108007298678c3c8c4-c9a8-4658-8e7a-756635aab044.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뭐해?]]></title>
+            <link>https://www.vlive.tv/video/291125</link>
+            <guid>https://www.vlive.tv/video/291125</guid>
+            <pubDate>Fri, 09 Sep 2022 08:55:13 GMT</pubDate>
+            <content:encoded><![CDATA[오전 8:24]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220909_215/1662711846954GkmK7_JPEG/175587364939415727ab162757-69f1-440e-9d99-ebff5656d682.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[VAV] BARON 22.09.09 추석 전 방송]]></title>
+            <link>https://www.vlive.tv/video/291126</link>
+            <guid>https://www.vlive.tv/video/291126</guid>
+            <pubDate>Fri, 09 Sep 2022 08:55:13 GMT</pubDate>
+            <content:encoded><![CDATA[오전 8:36]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220909_144/1662712560114Rcoby_JPEG/1755881740916431463381c6c5-a130-4bcf-abb7-753ea3020499.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
