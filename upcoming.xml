@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Sep 2022 03:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Sep 2022 04:57:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -126,6 +126,13 @@
             <pubDate>Sat, 10 Sep 2022 03:20:08 GMT</pubDate>
             <content:encoded><![CDATA[오전 3:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220910_150/1662779434147dX0CS_JPEG/upload_10685836790021754091c2a4a6-648d-4638-b58b-20b89cba98dc.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LIVE IN NEW YORK🇺🇸]]></title>
+            <link>https://www.vlive.tv/video/291149</link>
+            <guid>https://www.vlive.tv/video/291149</guid>
+            <pubDate>Sat, 10 Sep 2022 04:57:29 GMT</pubDate>
+            <content:encoded><![CDATA[오전 4:57]]></content:encoded>
         </item>
     </channel>
 </rss>
