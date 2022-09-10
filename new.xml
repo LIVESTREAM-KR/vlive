@@ -4,9 +4,25 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Sep 2022 13:11:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Sep 2022 13:53:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[추석라이브]]></title>
+            <link>https://www.vlive.tv/video/291163</link>
+            <guid>https://www.vlive.tv/video/291163</guid>
+            <pubDate>Sat, 10 Sep 2022 13:52:19 GMT</pubDate>
+            <content:encoded><![CDATA[IN2IT 인투잇]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220910_139/1662816587668sk8pw_JPEG/1756050436551101189bb6605a-3354-4716-b829-47c739ee1ef4.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밤 연습실 추석라이브♥️]]></title>
+            <link>https://www.vlive.tv/video/291161</link>
+            <guid>https://www.vlive.tv/video/291161</guid>
+            <pubDate>Sat, 10 Sep 2022 13:52:19 GMT</pubDate>
+            <content:encoded><![CDATA[IN2IT 인투잇]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220910_286/1662815819815X6RbB_JPEG/13603190429719185249e2ea2-a1ce-4269-80fd-da3495bfb73c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오디오 물리고 오답이 난무하는 추석맞이 🕹예삐오락실🕹]]></title>
             <link>https://www.vlive.tv/video/291159</link>
@@ -390,22 +406,6 @@
             <pubDate>Fri, 09 Sep 2022 10:49:23 GMT</pubDate>
             <content:encoded><![CDATA[MBC 예능]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220909_122/1662717595349rAlSn_JPEG/upload_78986843058607128860d9d5d-83de-460f-b730-b53d745bda92.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[VAV] BARON 22.09.09 추석 전 방송]]></title>
-            <link>https://www.vlive.tv/video/291126</link>
-            <guid>https://www.vlive.tv/video/291126</guid>
-            <pubDate>Fri, 09 Sep 2022 08:54:13 GMT</pubDate>
-            <content:encoded><![CDATA[VAV]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220909_144/1662712560114Rcoby_JPEG/1755881740916431463381c6c5-a130-4bcf-abb7-753ea3020499.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OMEGA X(오메가엑스)가 전하는 2022 추석 인사]]></title>
-            <link>https://www.vlive.tv/video/291130</link>
-            <guid>https://www.vlive.tv/video/291130</guid>
-            <pubDate>Fri, 09 Sep 2022 09:47:39 GMT</pubDate>
-            <content:encoded><![CDATA[OMEGA X (오메가엑스)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220909_114/1662715593143hAseN_JPEG/upload_1067952533982959787d63c770-60f6-4b78-b5f8-616119a3fe38.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
