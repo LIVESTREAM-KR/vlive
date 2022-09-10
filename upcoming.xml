@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Sep 2022 04:57:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Sep 2022 06:03:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -133,6 +133,15 @@
             <guid>https://www.vlive.tv/video/291149</guid>
             <pubDate>Sat, 10 Sep 2022 04:57:29 GMT</pubDate>
             <content:encoded><![CDATA[오전 4:57]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/291149/thumb?type=f228_128" length="0" type="image//live/291149/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[[선공개] 처갓집 식구들 총출동🌟 쟈오리징의 둘째 아들 현우 백일잔치에 초대합니다~💌, MBC 220911 방송]]></title>
+            <link>https://www.vlive.tv/video/291150</link>
+            <guid>https://www.vlive.tv/video/291150</guid>
+            <pubDate>Sat, 10 Sep 2022 06:02:39 GMT</pubDate>
+            <content:encoded><![CDATA[오전 5:43]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220910_110/1662788660225N1lTJ_JPEG/upload_1068683351651753049f303144-ff83-46b1-b16d-55a35d36fda9.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
