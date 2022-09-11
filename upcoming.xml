@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Sep 2022 11:43:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Sep 2022 13:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,12 +64,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20220911_295/1662891555094dzFL5_PNG/upload_106971248926908075c7817684-314f-40d3-9e46-83b495fac473.png?type=f228_128" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[한동근 (Han Dong Geun) '너는 나의 바다 (The Sea of You)' Acoustic Ver.]]></title>
+            <link>https://www.vlive.tv/video/291040</link>
+            <guid>https://www.vlive.tv/video/291040</guid>
+            <pubDate>Sun, 11 Sep 2022 13:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[오후 12:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220908_8/16626118420351vi6W_JPEG/upload_10669149285926236737553c47-4a96-4097-baa7-b550ce67789e.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[연휴 마무리🥲(feat.그림 일기)]]></title>
             <link>https://www.vlive.tv/video/291169</link>
             <guid>https://www.vlive.tv/video/291169</guid>
             <pubDate>Sun, 11 Sep 2022 11:43:16 GMT</pubDate>
-            <content:encoded><![CDATA[오전 11:13]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/291169/thumb?type=f228_128" length="0" type="image//live/291169/thumb"/>
+            <content:encoded><![CDATA[오후 12:18]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220911_66/1662898691914mirDf_JPEG/04ffac92-31cb-11ed-bf94-d4f5ef590144_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[룸메 바다즈🌊]]></title>
+            <link>https://www.vlive.tv/video/291170</link>
+            <guid>https://www.vlive.tv/video/291170</guid>
+            <pubDate>Sun, 11 Sep 2022 13:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[오후 12:54]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220911_29/1662899018270W3S1h_JPEG/175687412267676536ffa80ae2-d8a4-42af-ada2-14f9bd536e55.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
