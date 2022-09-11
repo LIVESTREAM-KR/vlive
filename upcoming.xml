@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Sep 2022 09:47:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Sep 2022 10:48:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,12 +40,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220908_133/1662644843896PqVku_JPEG/upload_106724560874794692aea5a2c6-a796-4777-86ce-269f3ba83ae5.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[연휴의 끝에서..🫠🫠]]></title>
+            <link>https://www.vlive.tv/video/291166</link>
+            <guid>https://www.vlive.tv/video/291166</guid>
+            <pubDate>Sun, 11 Sep 2022 10:47:37 GMT</pubDate>
+            <content:encoded><![CDATA[오전 9:47]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220911_203/1662889653362DKFRe_JPEG/56a201db-31b6-11ed-b25c-505dacfbaa5c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[찬이의 "방" 🐺 Ep. 174]]></title>
             <link>https://www.vlive.tv/video/291167</link>
             <guid>https://www.vlive.tv/video/291167</guid>
             <pubDate>Sun, 11 Sep 2022 09:47:02 GMT</pubDate>
-            <content:encoded><![CDATA[오전 9:00]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/291167/thumb?type=f228_128" length="0" type="image//live/291167/thumb"/>
+            <content:encoded><![CDATA[오전 10:21]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220911_259/1662891700864OcQen_JPEG/f3a6667b-31ba-11ed-9aa2-505dac8c3721_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
