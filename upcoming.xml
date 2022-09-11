@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Sep 2022 14:45:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Sep 2022 15:49:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,11 +88,19 @@
             <enclosure url="https://v-phinf.pstatic.net/20220911_29/1662899018270W3S1h_JPEG/175687412267676536ffa80ae2-d8a4-42af-ada2-14f9bd536e55.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[스포라이브 #7] 김재중(KIM JAE JOONG) - Walking On Water]]></title>
+            <link>https://www.vlive.tv/video/291072</link>
+            <guid>https://www.vlive.tv/video/291072</guid>
+            <pubDate>Sun, 11 Sep 2022 15:49:07 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220908_93/16626446324748tWOB_JPEG/upload_1067243450360464610f3ac36b-0e2e-4e27-b686-a77d04a89067.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[추석 잘 보냈어??]]></title>
             <link>https://www.vlive.tv/video/291172</link>
             <guid>https://www.vlive.tv/video/291172</guid>
             <pubDate>Sun, 11 Sep 2022 13:53:33 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:32]]></content:encoded>
+            <content:encoded><![CDATA[오후 3:13]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220911_75/1662903120486QqBXs_JPEG/175691656428611428cafb69fa-e57f-435a-af1d-69d0460b3019.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>

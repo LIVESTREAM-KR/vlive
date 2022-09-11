@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Sep 2022 14:45:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Sep 2022 15:49:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sun, 11 Sep 2022 13:52:44 GMT</pubDate>
             <content:encoded><![CDATA[OMEGA X (오메가엑스)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220911_75/1662903120486QqBXs_JPEG/175691656428611428cafb69fa-e57f-435a-af1d-69d0460b3019.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스포라이브 #7] 김재중(KIM JAE JOONG) - Walking On Water]]></title>
+            <link>https://www.vlive.tv/video/291072</link>
+            <guid>https://www.vlive.tv/video/291072</guid>
+            <pubDate>Sun, 11 Sep 2022 15:48:18 GMT</pubDate>
+            <content:encoded><![CDATA[KIM JAEJOONG]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220908_93/16626446324748tWOB_JPEG/upload_1067243450360464610f3ac36b-0e2e-4e27-b686-a77d04a89067.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[룸메 바다즈🌊]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 10 Sep 2022 15:47:44 GMT</pubDate>
             <content:encoded><![CDATA[MisoJeong]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220910_201/16628102506754LV2y_PNG/upload_106889861425168625b18ece6c-b252-459c-afb2-68bbe2ff75b3.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[스포라이브 #5] 김재중(KIM JAE JOONG) - NOBODY LIKE YOU]]></title>
-            <link>https://www.vlive.tv/video/291070</link>
-            <guid>https://www.vlive.tv/video/291070</guid>
-            <pubDate>Sat, 10 Sep 2022 15:47:44 GMT</pubDate>
-            <content:encoded><![CDATA[KIM JAEJOONG]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220908_39/1662644532784m5Qvw_JPEG/upload_789141353554788377a450ac1-8a7b-4f0c-ae31-10e6865dcdfb.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
