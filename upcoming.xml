@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Sep 2022 08:51:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Sep 2022 09:47:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,30 @@
             <pubDate>Sun, 11 Sep 2022 03:19:01 GMT</pubDate>
             <content:encoded><![CDATA[오전 3:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220910_46/16627907498837rONc_JPEG/upload_79060348151241169f57a46be-f671-44ed-9a5b-6ba85b2fc882.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DKB(다크비) - 24/7 (넌 매일) Part Switch Ver.]]></title>
+            <link>https://www.vlive.tv/video/291015</link>
+            <guid>https://www.vlive.tv/video/291015</guid>
+            <pubDate>Sun, 11 Sep 2022 09:47:02 GMT</pubDate>
+            <content:encoded><![CDATA[오전 9:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220908_14/1662564747490BcQSp_JPEG/upload_10664444574005105451e94a7f-4026-43b7-9ea2-c6aac30938ea.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[스포라이브 #6] 김재중(KIM JAE JOONG) - 묻고 싶다 (I Want To Ask You)]]></title>
+            <link>https://www.vlive.tv/video/291071</link>
+            <guid>https://www.vlive.tv/video/291071</guid>
+            <pubDate>Sun, 11 Sep 2022 09:47:02 GMT</pubDate>
+            <content:encoded><![CDATA[오전 9:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220908_133/1662644843896PqVku_JPEG/upload_106724560874794692aea5a2c6-a796-4777-86ce-269f3ba83ae5.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찬이의 "방" 🐺 Ep. 174]]></title>
+            <link>https://www.vlive.tv/video/291167</link>
+            <guid>https://www.vlive.tv/video/291167</guid>
+            <pubDate>Sun, 11 Sep 2022 09:47:02 GMT</pubDate>
+            <content:encoded><![CDATA[오전 9:00]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/291167/thumb?type=f228_128" length="0" type="image//live/291167/thumb"/>
         </item>
     </channel>
 </rss>
