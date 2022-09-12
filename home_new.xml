@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Sep 2022 03:33:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 06:03:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / JOPH, dori, WH3N 조프, 도리, 웬)]]></title>
+            <link>https://www.vlive.tv/video/291173</link>
+            <guid>https://www.vlive.tv/video/291173</guid>
+            <pubDate>Mon, 12 Sep 2022 06:02:04 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220912_49/1662908926444h5Bfj_JPEG/upload_10698855365757469676873cd2-27fe-4bbd-a192-18bfb03561a5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Rocking doll (록킹돌) | 'Survive' Performance Video]]></title>
             <link>https://www.vlive.tv/video/290509</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 11 Sep 2022 03:18:06 GMT</pubDate>
             <content:encoded><![CDATA[넷플릭스 (Netflixkr)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220908_13/1662622866627JQIgu_JPEG/upload_106702594305214002b02a1763-f5a6-4468-ab2d-058a534ffb37.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[즐추즐추❤️]]></title>
-            <link>https://www.vlive.tv/video/291165</link>
-            <guid>https://www.vlive.tv/video/291165</guid>
-            <pubDate>Sat, 10 Sep 2022 15:47:44 GMT</pubDate>
-            <content:encoded><![CDATA[Weki Meki]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220911_176/1662824110419bQ8H7_JPEG/175699628401924230b115a4b3-6a49-4cd5-9119-37d01862aec6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

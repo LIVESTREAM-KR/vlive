@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Sep 2022 03:33:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 06:03:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Arirang Radio (Sound K / JOPH, dori, WH3N 조프, 도리, 웬)]]></title>
+            <link>https://www.vlive.tv/video/291173</link>
+            <guid>https://www.vlive.tv/video/291173</guid>
+            <pubDate>Mon, 12 Sep 2022 06:01:54 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220912_49/1662908926444h5Bfj_JPEG/upload_10698855365757469676873cd2-27fe-4bbd-a192-18bfb03561a5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Rocking doll (록킹돌) | 'Survive' Performance Video]]></title>
             <link>https://www.vlive.tv/video/290509</link>
@@ -398,14 +406,6 @@
             <pubDate>Sat, 10 Sep 2022 03:19:10 GMT</pubDate>
             <content:encoded><![CDATA[MBC 예능]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220910_171/1662741640081elM1W_JPEG/upload_106821356613147979c9893d38-8bc0-49eb-830a-f1b1b4873b63.JPG?type=f228_128_wp" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[[EN]Rocking doll (록킹돌) 'Rocking doll' 추석인사(Chuseok, Korean Thanksgiving Day)]]></title>
-            <link>https://www.vlive.tv/video/291044</link>
-            <guid>https://www.vlive.tv/video/291044</guid>
-            <pubDate>Sat, 10 Sep 2022 03:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[Rocking doll]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220908_29/1662614123177MPeSU_JPEG/upload_10669384031604596767b2428e-f038-4958-a81f-827d3d6f564b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
