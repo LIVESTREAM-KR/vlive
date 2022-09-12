@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Sep 2022 15:54:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 17:08:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,14 +152,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220912_169/16629902560632fKC5_JPEG/c0b66b8d-32a0-11ed-83d6-48df379cca40_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[안니옹💛🐝]]></title>
-            <link>https://www.vlive.tv/video/291190</link>
-            <guid>https://www.vlive.tv/video/291190</guid>
-            <pubDate>Mon, 12 Sep 2022 14:07:46 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:55]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220912_27/1662990933198TSPLN_JPEG/13778303809775586d65a3357-712e-403d-aa7a-21cb6df9d0d5.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[잠시]]></title>
             <link>https://www.vlive.tv/video/291188</link>
             <guid>https://www.vlive.tv/video/291188</guid>
@@ -182,6 +174,22 @@
             <pubDate>Mon, 12 Sep 2022 15:54:10 GMT</pubDate>
             <content:encoded><![CDATA[오후 2:52]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220912_4/1662994364319mHGKI_JPEG/1e1adfb7-32aa-11ed-a7c3-d4f5ef58ad5e_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안니옹💛🐝]]></title>
+            <link>https://www.vlive.tv/video/291190</link>
+            <guid>https://www.vlive.tv/video/291190</guid>
+            <pubDate>Mon, 12 Sep 2022 14:07:46 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:26]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220912_27/1662990933198TSPLN_JPEG/13778303809775586d65a3357-712e-403d-aa7a-21cb6df9d0d5.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잘 지냈어요?)]]></title>
+            <link>https://www.vlive.tv/video/291192</link>
+            <guid>https://www.vlive.tv/video/291192</guid>
+            <pubDate>Mon, 12 Sep 2022 17:07:57 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:02]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220913_79/1663002178327OcjHX_JPEG/1758777782993587683727409e-b7a7-4ce2-bfdb-605746978ac8.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
