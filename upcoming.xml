@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Sep 2022 14:08:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 14:50:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,14 +152,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220912_169/16629902560632fKC5_JPEG/c0b66b8d-32a0-11ed-83d6-48df379cca40_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[무슨일이일어나고있는거지]]></title>
-            <link>https://www.vlive.tv/video/291189</link>
-            <guid>https://www.vlive.tv/video/291189</guid>
-            <pubDate>Mon, 12 Sep 2022 14:07:46 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:53]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/291189/thumb?type=f228_128" length="0" type="image//live/291189/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[안니옹💛🐝]]></title>
             <link>https://www.vlive.tv/video/291190</link>
             <guid>https://www.vlive.tv/video/291190</guid>
@@ -174,6 +166,14 @@
             <pubDate>Mon, 12 Sep 2022 14:07:46 GMT</pubDate>
             <content:encoded><![CDATA[오후 2:07]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220912_71/1662991646532RUMDe_JPEG/8b780522-32a3-11ed-a14d-505dac8c3607_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세운 to me now #36]]></title>
+            <link>https://www.vlive.tv/video/291186</link>
+            <guid>https://www.vlive.tv/video/291186</guid>
+            <pubDate>Mon, 12 Sep 2022 14:49:43 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:09]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220912_282/1662991779620pGFeG_JPEG/b8157cfa-32a2-11ed-8d11-48df379ccacc_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
