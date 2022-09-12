@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Sep 2022 06:03:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 07:23:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[명이랑여니랑유후]]></title>
+            <link>https://www.vlive.tv/video/291181</link>
+            <guid>https://www.vlive.tv/video/291181</guid>
+            <pubDate>Mon, 12 Sep 2022 07:22:10 GMT</pubDate>
+            <content:encoded><![CDATA[BVNDIT(밴디트)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220912_144/1662967156807LV1bt_JPEG/17575569274468943908b3700a-1429-48e4-ae8c-2a6b51883552.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Arirang Radio (Sound K / JOPH, dori, WH3N 조프, 도리, 웬)]]></title>
             <link>https://www.vlive.tv/video/291173</link>
@@ -14,6 +22,14 @@
             <pubDate>Mon, 12 Sep 2022 06:02:04 GMT</pubDate>
             <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220912_49/1662908926444h5Bfj_JPEG/upload_10698855365757469676873cd2-27fe-4bbd-a192-18bfb03561a5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / PRITTI-G 프리티지)]]></title>
+            <link>https://www.vlive.tv/video/291174</link>
+            <guid>https://www.vlive.tv/video/291174</guid>
+            <pubDate>Mon, 12 Sep 2022 07:22:10 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220912_158/1662909030168i3hcc_JPEG/upload_79178560257775307f57839a7-7673-4964-8298-b496e712c3b7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Rocking doll (록킹돌) | 'Survive' Performance Video]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Sun, 11 Sep 2022 09:46:12 GMT</pubDate>
             <content:encoded><![CDATA[다크비(DKB)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220908_14/1662564747490BcQSp_JPEG/upload_10664444574005105451e94a7f-4026-43b7-9ea2-c6aac30938ea.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위아이(WEi) 추석맞이 '명물' 만들기 🌕 쿡방이라고 쓰고 먹방이라고 부르기 😋]]></title>
-            <link>https://www.vlive.tv/video/291155</link>
-            <guid>https://www.vlive.tv/video/291155</guid>
-            <pubDate>Sun, 11 Sep 2022 03:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[위아이 (WEi)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220910_46/16627907498837rONc_JPEG/upload_79060348151241169f57a46be-f671-44ed-9a5b-6ba85b2fc882.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 하정우와 국정원 직원 박해수의 대립 | 수리남]]></title>
-            <link>https://www.vlive.tv/video/291063</link>
-            <guid>https://www.vlive.tv/video/291063</guid>
-            <pubDate>Sun, 11 Sep 2022 03:18:06 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 (Netflixkr)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220908_13/1662622866627JQIgu_JPEG/upload_106702594305214002b02a1763-f5a6-4468-ab2d-058a534ffb37.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

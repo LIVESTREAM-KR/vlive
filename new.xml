@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Sep 2022 06:03:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Sep 2022 07:23:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[명이랑여니랑유후]]></title>
+            <link>https://www.vlive.tv/video/291181</link>
+            <guid>https://www.vlive.tv/video/291181</guid>
+            <pubDate>Mon, 12 Sep 2022 07:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[BVNDIT(밴디트)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220912_144/1662967156807LV1bt_JPEG/17575569274468943908b3700a-1429-48e4-ae8c-2a6b51883552.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Arirang Radio (Sound K / JOPH, dori, WH3N 조프, 도리, 웬)]]></title>
             <link>https://www.vlive.tv/video/291173</link>
@@ -14,6 +22,14 @@
             <pubDate>Mon, 12 Sep 2022 06:01:54 GMT</pubDate>
             <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220912_49/1662908926444h5Bfj_JPEG/upload_10698855365757469676873cd2-27fe-4bbd-a192-18bfb03561a5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / PRITTI-G 프리티지)]]></title>
+            <link>https://www.vlive.tv/video/291174</link>
+            <guid>https://www.vlive.tv/video/291174</guid>
+            <pubDate>Mon, 12 Sep 2022 07:22:00 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220912_158/1662909030168i3hcc_JPEG/upload_79178560257775307f57839a7-7673-4964-8298-b496e712c3b7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Rocking doll (록킹돌) | 'Survive' Performance Video]]></title>
@@ -390,22 +406,6 @@
             <pubDate>Sat, 10 Sep 2022 03:19:10 GMT</pubDate>
             <content:encoded><![CDATA[DREAMCATCHER]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220906_34/16624438961620NuJX_PNG/upload_106523610614058801d33f14da-e8c3-4ab5-ab69-539d7ed3546b.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 생선 팔다 위기에 처한 하정우 | 수리남]]></title>
-            <link>https://www.vlive.tv/video/291059</link>
-            <guid>https://www.vlive.tv/video/291059</guid>
-            <pubDate>Sat, 10 Sep 2022 03:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 (Netflixkr)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220908_76/16626324395309netn_JPEG/upload_10671215457116299418a97cdb-cdca-43c2-80ab-68eb3a601ebe.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[선공개] 힘줄 폭발 주우재?! 🌼 민들레 밭에 있는 모든 민들레를 부는 노상현?! "나 잡아봐라~" 🤣 별안간 발라당, MBC 220911 방송]]></title>
-            <link>https://www.vlive.tv/video/291139</link>
-            <guid>https://www.vlive.tv/video/291139</guid>
-            <pubDate>Sat, 10 Sep 2022 03:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[MBC 예능]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220910_171/1662741640081elM1W_JPEG/upload_106821356613147979c9893d38-8bc0-49eb-830a-f1b1b4873b63.JPG?type=f228_128_wp" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
