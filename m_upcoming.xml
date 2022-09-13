@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 03:27:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 05:12:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[ASC Live Ep.539 (THE ASC 100 FINAL)]]></title>
-            <link>https://m.vlive.tv/video/291119</link>
-            <guid>https://m.vlive.tv/video/291119</guid>
-            <pubDate>Fri, 09 Sep 2022 06:10:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 4:00</span>
-										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220909_11/1662702331725bUwrq_PNG/upload_78971897957846095e60e6630-d093-4937-b601-511ffd45baa2.png?type=f274_154" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Super K-Pop]Oh My K-Pop with NIve]]></title>
             <link>https://m.vlive.tv/video/290964</link>
@@ -106,6 +96,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220907_130/1662532921937Mjpmt_JPEG/upload_10661263036494177923a0c531-7544-4cc4-8182-8b476332660f.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop] Topic Song with BÉBE YANA , Jogon of 9001]]></title>
+            <link>https://m.vlive.tv/video/290966</link>
+            <guid>https://m.vlive.tv/video/290966</guid>
+            <pubDate>Tue, 13 Sep 2022 05:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220907_130/16625330689560AcYG_JPEG/upload_7880263739875823945e6e9b2-750b-4b9a-a81f-64a7cb1fe216.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
