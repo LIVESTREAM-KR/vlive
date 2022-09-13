@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 05:12:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 06:42:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,12 +64,36 @@
             <enclosure url="https://v-phinf.pstatic.net/20220907_16/1662532854677mEzfP_JPEG/upload_7880242839013143487efef38-869f-4455-9e39-c893bac34fd1.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[Arirang Radio / Super K-Pop]Oh My K-Pop with NIve]]></title>
+            <title><![CDATA[[다원] 행복한 수다 🌼]]></title>
+            <link>https://www.vlive.tv/video/291204</link>
+            <guid>https://www.vlive.tv/video/291204</guid>
+            <pubDate>Tue, 13 Sep 2022 06:41:53 GMT</pubDate>
+            <content:encoded><![CDATA[오전 5:20]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/291204/thumb?type=f228_128" length="0" type="image//live/291204/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[방탄소년단(BTS RM) '밝은 미소와 함께 귀여운 브이' #방탄소년단 #BTS #RM #김남준 #인천국제공항]]></title>
+            <link>https://www.vlive.tv/video/291205</link>
+            <guid>https://www.vlive.tv/video/291205</guid>
+            <pubDate>Tue, 13 Sep 2022 06:41:53 GMT</pubDate>
+            <content:encoded><![CDATA[오전 5:22]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220913_130/1663046566184IHAus_JPEG/upload_79316166030686193a93d5180-6d79-4028-99c6-b3500e94afd0.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트와이스 모모(TWICE MOMO) '모자도 옷도 마스크도 모두 블랙' #TWICE #MOMO #트와이스 #모모 #平井もも #もも]]></title>
+            <link>https://www.vlive.tv/video/291206</link>
+            <guid>https://www.vlive.tv/video/291206</guid>
+            <pubDate>Tue, 13 Sep 2022 06:41:53 GMT</pubDate>
+            <content:encoded><![CDATA[오전 6:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220913_265/1663048819287I2txE_JPEG/upload_79318409669270264be2d2308-1db0-4049-a82a-1bcbd57ad73d.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop]Oh My K-Pop with NIve #원어스 #ONEUS]]></title>
             <link>https://www.vlive.tv/video/290964</link>
             <guid>https://www.vlive.tv/video/290964</guid>
             <pubDate>Tue, 13 Sep 2022 03:27:14 GMT</pubDate>
             <content:encoded><![CDATA[오전 7:00]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220907_129/1662533017339SESkB_JPEG/upload_788026219952792362d25f87b-73bf-4f05-9ac8-2471c0191e98.jpg?type=f228_128" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220913_58/1663050553910vH1dH_JPEG/upload_788026219952792362d25f87b-73bf-4f05-9ac8-2471c0191e98.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
