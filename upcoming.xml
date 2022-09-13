@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 09:50:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 10:50:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -166,6 +166,46 @@
             <pubDate>Tue, 13 Sep 2022 09:49:32 GMT</pubDate>
             <content:encoded><![CDATA[오전 9:20]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220913_82/1663060372727qwoza_JPEG/upload_10714010180590332451863bd5-1cad-4f1b-b50c-81a6e41b1605.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[저녁 같이 하시죠!💙]]></title>
+            <link>https://www.vlive.tv/video/291217</link>
+            <guid>https://www.vlive.tv/video/291217</guid>
+            <pubDate>Tue, 13 Sep 2022 10:50:24 GMT</pubDate>
+            <content:encoded><![CDATA[오전 9:57]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/291217/thumb?type=f228_128" length="0" type="image//live/291217/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 바스타드: 암흑의 파괴신 | 공식 예고편 2]]></title>
+            <link>https://www.vlive.tv/video/291213</link>
+            <guid>https://www.vlive.tv/video/291213</guid>
+            <pubDate>Tue, 13 Sep 2022 10:50:24 GMT</pubDate>
+            <content:encoded><![CDATA[오전 10:49]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220913_260/16630562579131tgKg_JPEG/upload_79325861874588031738bed77-a5b3-474f-a6f8-d34cb2cd84f8.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 수상함을 눈치 챈 황정민, 박해수는 빠져나갈 수 있을까? | 수리남]]></title>
+            <link>https://www.vlive.tv/video/291218</link>
+            <guid>https://www.vlive.tv/video/291218</guid>
+            <pubDate>Tue, 13 Sep 2022 10:50:24 GMT</pubDate>
+            <content:encoded><![CDATA[오전 10:49]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220913_170/1663064679305m1JCe_JPEG/upload_10714441241217349979783a84-0402-49cd-ab2f-6b6d9fc4ed95.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 엔터갤럭틱 | 공식 예고편]]></title>
+            <link>https://www.vlive.tv/video/291221</link>
+            <guid>https://www.vlive.tv/video/291221</guid>
+            <pubDate>Tue, 13 Sep 2022 10:50:24 GMT</pubDate>
+            <content:encoded><![CDATA[오전 10:50]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220913_79/1663065478872LVCrX_JPEG/upload_793350833604915146a30532c-162a-44fe-b2db-3281607b008f.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 디 익셉션 | 공식 예고편]]></title>
+            <link>https://www.vlive.tv/video/291222</link>
+            <guid>https://www.vlive.tv/video/291222</guid>
+            <pubDate>Tue, 13 Sep 2022 10:50:24 GMT</pubDate>
+            <content:encoded><![CDATA[오전 10:50]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220913_106/1663065951833fxLNA_JPEG/upload_107145671047250084937f176e-01d2-4e12-912f-a24fd7252b99.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

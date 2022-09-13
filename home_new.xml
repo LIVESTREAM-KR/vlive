@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 09:50:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 10:50:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[저녁 같이 하시죠!💙]]></title>
+            <link>https://www.vlive.tv/video/291217</link>
+            <guid>https://www.vlive.tv/video/291217</guid>
+            <pubDate>Tue, 13 Sep 2022 10:49:35 GMT</pubDate>
+            <content:encoded><![CDATA[AB6IX]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/291217/thumb?type=f228_128" length="0" type="image//live/291217/thumb"/>
+        </item>
         <item>
             <title><![CDATA[쏠(SOLE) - [imagine club] Village Map Visualizer]]></title>
             <link>https://www.vlive.tv/video/291215</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 13 Sep 2022 06:40:55 GMT</pubDate>
             <content:encoded><![CDATA[mydaily]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220913_130/1663046566184IHAus_JPEG/upload_79316166030686193a93d5180-6d79-4028-99c6-b3500e94afd0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백아연(Baek A yeon)-진영(JIN YOUNG), 뮤지컬 영화 '첫 더빙' 도전한 소감 ('프린세스 아야' 언론시사회)]]></title>
-            <link>https://www.vlive.tv/video/291201</link>
-            <guid>https://www.vlive.tv/video/291201</guid>
-            <pubDate>Tue, 13 Sep 2022 05:11:00 GMT</pubDate>
-            <content:encoded><![CDATA[Ktimes]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220913_55/1663044302784LgqsO_JPEG/upload_1071240071907585267f93d1b6-a9b0-4b86-abef-8406d5a7ec25.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
