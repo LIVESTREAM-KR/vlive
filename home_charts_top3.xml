@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ CHARTS TOP3</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 19:43:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 20:50:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220914_179/1663155892340kvYKn_PNG/upload_1072356246931593455d53a22b-d30f-421e-a7d1-3067f081769d.png?type=f380_213_wp" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[BLACKPINK - ‘Shut Down’ M/V TEASER]]></title>
-            <link>https://www.vlive.tv/video/291226</link>
-            <guid>https://www.vlive.tv/video/291226</guid>
-            <pubDate>Tue, 13 Sep 2022 17:05:24 GMT</pubDate>
-            <content:encoded><![CDATA[BLACKPINK]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220913_14/166307084653595xa6_JPEG/upload_793404263226305854540a566-3a02-4d8c-a361-691e8ba8efc0.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[어둠의 자식]]></title>
             <link>https://www.vlive.tv/video/291285</link>
             <guid>https://www.vlive.tv/video/291285</guid>
             <pubDate>Wed, 14 Sep 2022 13:29:33 GMT</pubDate>
             <content:encoded><![CDATA[DAY6]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220914_276/1663161228300Vj56Y_JPEG/310f2740-342e-11ed-b6e8-48df37ae3dc4_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BLACKPINK - ‘Shut Down’ M/V TEASER]]></title>
+            <link>https://www.vlive.tv/video/291226</link>
+            <guid>https://www.vlive.tv/video/291226</guid>
+            <pubDate>Tue, 13 Sep 2022 17:05:24 GMT</pubDate>
+            <content:encoded><![CDATA[BLACKPINK]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220913_14/166307084653595xa6_JPEG/upload_793404263226305854540a566-3a02-4d8c-a361-691e8ba8efc0.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
