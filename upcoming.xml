@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 14:11:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 14:51:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -384,14 +384,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220914_261/1663160568115Xov1G_JPEG/7edb0951-342d-11ed-9f1e-d4f5ef5a9532_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[은조의 조은밤🌝🎧#76]]></title>
-            <link>https://www.vlive.tv/video/291288</link>
-            <guid>https://www.vlive.tv/video/291288</guid>
-            <pubDate>Wed, 14 Sep 2022 13:30:16 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:02]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/291288/thumb?type=f228_128" length="0" type="image//live/291288/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[프리티브라운(PRETTY BROWN) '문신처럼' 발매 기념 V LIVE]]></title>
             <link>https://www.vlive.tv/video/291257</link>
             <guid>https://www.vlive.tv/video/291257</guid>
@@ -424,12 +416,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20220914_84/1663156937375ldpoF_JPEG/139443079932568094878372b-ff13-478c-a89f-fb96abe3eb66.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[안녕🐥]]></title>
+            <link>https://www.vlive.tv/video/291286</link>
+            <guid>https://www.vlive.tv/video/291286</guid>
+            <pubDate>Wed, 14 Sep 2022 14:51:05 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:19]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220914_207/16631587562646Jj6j_JPEG/567765325098758220afeca8b-bd54-447a-b1fe-758f3e274b36.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[ptg in tokyo]]></title>
             <link>https://www.vlive.tv/video/291291</link>
             <guid>https://www.vlive.tv/video/291291</guid>
             <pubDate>Wed, 14 Sep 2022 14:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:01]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/291291/thumb?type=f228_128" length="0" type="image//live/291291/thumb"/>
+            <content:encoded><![CDATA[오후 2:38]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220914_217/16631667081628i33Q_JPEG/a0fe485a-343a-11ed-8892-505dac8c35ff_05.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[은조의 조은밤🌝🎧#76]]></title>
+            <link>https://www.vlive.tv/video/291288</link>
+            <guid>https://www.vlive.tv/video/291288</guid>
+            <pubDate>Wed, 14 Sep 2022 13:30:16 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:48]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220914_124/16631669344420ChCy_JPEG/336f9a24-343b-11ed-8613-505dacfba98a_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
