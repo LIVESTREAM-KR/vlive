@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 14:51:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 15:52:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[굿이브닝 🎑]]></title>
+            <link>https://www.vlive.tv/video/291292</link>
+            <guid>https://www.vlive.tv/video/291292</guid>
+            <pubDate>Wed, 14 Sep 2022 15:50:54 GMT</pubDate>
+            <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220915_231/16631696598392gCzB_JPEG/176045241820395039c1068852-88a7-4a78-aad3-bc1c94a113c6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[은조의 조은밤🌝🎧#76]]></title>
             <link>https://www.vlive.tv/video/291288</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 14 Sep 2022 10:49:05 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220914_179/1663155892340kvYKn_PNG/upload_1072356246931593455d53a22b-d30f-421e-a7d1-3067f081769d.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[💙HAPPY MU DAY💙]]></title>
-            <link>https://www.vlive.tv/video/291276</link>
-            <guid>https://www.vlive.tv/video/291276</guid>
-            <pubDate>Wed, 14 Sep 2022 10:49:05 GMT</pubDate>
-            <content:encoded><![CDATA[EPEX]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220914_109/1663149606757RGh4p_JPEG/175937998201303656e568d274-f875-47ad-9d5e-60300fb196d5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
