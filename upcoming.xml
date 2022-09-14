@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 13:30:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 14:11:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -376,14 +376,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220914_60/166315511326663kmU_JPEG/176030729226903710e5eef141-733c-4534-b956-c7fb7c3a57f5.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[안녕🐥]]></title>
-            <link>https://www.vlive.tv/video/291286</link>
-            <guid>https://www.vlive.tv/video/291286</guid>
-            <pubDate>Wed, 14 Sep 2022 13:30:16 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:32]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220914_207/16631587562646Jj6j_JPEG/567765325098758220afeca8b-bd54-447a-b1fe-758f3e274b36.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[은조의 조은밤🌝🎧#75]]></title>
             <link>https://www.vlive.tv/video/291287</link>
             <guid>https://www.vlive.tv/video/291287</guid>
@@ -430,6 +422,14 @@
             <pubDate>Wed, 14 Sep 2022 13:30:16 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:21]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220914_84/1663156937375ldpoF_JPEG/139443079932568094878372b-ff13-478c-a89f-fb96abe3eb66.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ptg in tokyo]]></title>
+            <link>https://www.vlive.tv/video/291291</link>
+            <guid>https://www.vlive.tv/video/291291</guid>
+            <pubDate>Wed, 14 Sep 2022 14:10:35 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:01]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/291291/thumb?type=f228_128" length="0" type="image//live/291291/thumb"/>
         </item>
     </channel>
 </rss>
