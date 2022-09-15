@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 15:51:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 17:04:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -432,14 +432,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220916_13/1663255417644TvjXE_JPEG/ce4528f0-3509-11ed-83d6-48df379cca40_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[🦊 Ae!SMR 게스트: 박컵밥 🍚]]></title>
-            <link>https://www.vlive.tv/video/291419</link>
-            <guid>https://www.vlive.tv/video/291419</guid>
-            <pubDate>Thu, 15 Sep 2022 15:51:27 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:32]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/291419/thumb?type=f228_128" length="0" type="image//live/291419/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[오랜만이죠🤗]]></title>
             <link>https://www.vlive.tv/video/291416</link>
             <guid>https://www.vlive.tv/video/291416</guid>
@@ -454,6 +446,14 @@
             <pubDate>Thu, 15 Sep 2022 15:51:27 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:34]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220916_163/1663256044388p5fET_JPEG/9ef9d960-350b-11ed-8bc9-d4f5ef5906a4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🦊 Ae!SMR 게스트: 박컵밥 🍚]]></title>
+            <link>https://www.vlive.tv/video/291419</link>
+            <guid>https://www.vlive.tv/video/291419</guid>
+            <pubDate>Thu, 15 Sep 2022 15:51:27 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:39]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220916_283/166325999500689yPc_JPEG/252da64e-3514-11ed-9aa2-505dac8c3721_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
