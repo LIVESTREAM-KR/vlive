@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 07:52:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 08:57:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220914_217/16631667081628i33Q_JPEG/a0fe485a-343a-11ed-8892-505dac8c35ff_05.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[스물넷]]></title>
+            <link>https://www.vlive.tv/video/291386</link>
+            <guid>https://www.vlive.tv/video/291386</guid>
+            <pubDate>Thu, 15 Sep 2022 08:56:50 GMT</pubDate>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/291386/thumb?type=f228_128" length="0" type="image//live/291386/thumb"/>
+        </item>
+        <item>
             <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 2]]></title>
             <link>https://www.vlive.tv/video/289928</link>
             <guid>https://www.vlive.tv/video/289928</guid>
             <pubDate>Wed, 14 Sep 2022 11:44:19 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220824_277/1661325776060GNHYn_JPEG/upload_105405488087786008317d78ca-7903-4ba4-975b-e9e5827f79fe.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우선 순위부터 정하라 📬📚🔮]]></title>
-            <link>https://www.vlive.tv/video/291280</link>
-            <guid>https://www.vlive.tv/video/291280</guid>
-            <pubDate>Wed, 14 Sep 2022 20:49:13 GMT</pubDate>
-            <content:encoded><![CDATA[EVERMORE ENTERTAINMENT]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220914_80/1663155757903eGKGx_JPEG/9f94af21-3421-11ed-9aa2-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
