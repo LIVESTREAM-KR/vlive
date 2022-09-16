@@ -4,17 +4,9 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 14:52:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 15:50:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[SKZ VLOG] 필릭스 : Sunshine mini Vlog]]></title>
-            <link>https://www.vlive.tv/video/291410</link>
-            <guid>https://www.vlive.tv/video/291410</guid>
-            <pubDate>Fri, 16 Sep 2022 14:51:32 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220915_145/1663246731250yT1h1_JPEG/upload_79516090416280213d20d0de5-f675-49e1-afe7-f1d5f7ed5d54.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[오랜만에 퇴근길]]></title>
             <link>https://www.vlive.tv/video/291476</link>
@@ -24,12 +16,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20220916_34/1663325398518LTwmD_JPEG/1bb16c1f-35ad-11ed-8613-505dacfba98a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[SKZ VLOG] 리노 & 필릭스 : 냥냥 Vlog]]></title>
-            <link>https://www.vlive.tv/video/291406</link>
-            <guid>https://www.vlive.tv/video/291406</guid>
-            <pubDate>Fri, 16 Sep 2022 08:52:49 GMT</pubDate>
+            <title><![CDATA[[SKZ VLOG] 필릭스 : Sunshine mini Vlog]]></title>
+            <link>https://www.vlive.tv/video/291410</link>
+            <guid>https://www.vlive.tv/video/291410</guid>
+            <pubDate>Fri, 16 Sep 2022 14:51:32 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220915_91/1663238911037w4aYd_JPEG/upload_1073183466404247040d950743-d6b9-4b70-817f-a5ad149f11c2.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220915_145/1663246731250yT1h1_JPEG/upload_79516090416280213d20d0de5-f675-49e1-afe7-f1d5f7ed5d54.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 2]]></title>
@@ -38,6 +30,14 @@
             <pubDate>Fri, 16 Sep 2022 14:51:32 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220824_277/1661325776060GNHYn_JPEG/upload_105405488087786008317d78ca-7903-4ba4-975b-e9e5827f79fe.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SKZ VLOG] 리노 & 필릭스 : 냥냥 Vlog]]></title>
+            <link>https://www.vlive.tv/video/291406</link>
+            <guid>https://www.vlive.tv/video/291406</guid>
+            <pubDate>Fri, 16 Sep 2022 08:52:49 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220915_91/1663238911037w4aYd_JPEG/upload_1073183466404247040d950743-d6b9-4b70-817f-a5ad149f11c2.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
