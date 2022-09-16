@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 14:10:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 14:52:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -446,6 +446,22 @@
             <pubDate>Fri, 16 Sep 2022 14:10:22 GMT</pubDate>
             <content:encoded><![CDATA[오후 2:03]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220916_285/1663337015211EyIAt_JPEG/58889201-35c8-11ed-a14d-505dac8c3607_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[활연]]></title>
+            <link>https://www.vlive.tv/video/291490</link>
+            <guid>https://www.vlive.tv/video/291490</guid>
+            <pubDate>Fri, 16 Sep 2022 14:52:09 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:11]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220916_180/1663336046824kTmw4_JPEG/17621171082125155621451779-0cae-4820-ae9b-c0ac373a1fec.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[해피 프라이데이 🪩💛]]></title>
+            <link>https://www.vlive.tv/video/291494</link>
+            <guid>https://www.vlive.tv/video/291494</guid>
+            <pubDate>Fri, 16 Sep 2022 14:52:09 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:48]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220916_27/1663339711822fC3Q7_JPEG/1761281015126219621c6c0d95-f430-41a2-8cee-4b0920d7416c.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
