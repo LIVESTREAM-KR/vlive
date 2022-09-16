@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 07:09:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 07:51:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하루 남았다😍]]></title>
+            <link>https://www.vlive.tv/video/291460</link>
+            <guid>https://www.vlive.tv/video/291460</guid>
+            <pubDate>Fri, 16 Sep 2022 07:49:57 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/291460/thumb?type=f228_128" length="0" type="image//live/291460/thumb"/>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Sound K] Hey! Ladies Kode~ with Sojung&Zuny 소정 &주니]]></title>
             <link>https://www.vlive.tv/video/290963</link>
@@ -93,7 +101,7 @@
             <guid>https://www.vlive.tv/video/291439</guid>
             <pubDate>Fri, 16 Sep 2022 05:52:36 GMT</pubDate>
             <content:encoded><![CDATA[KPLUS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220916_174/1663305294619DyXB5_JPEG/upload_1073849512496938862e104d81-0aa3-4e65-a1ab-a9090da01ac0.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220916_102/1663312524250YevMS_JPEG/upload_1073849512496938862e104d81-0aa3-4e65-a1ab-a9090da01ac0.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 프롬 스크래치 | 공식 예고편]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 16 Sep 2022 05:52:36 GMT</pubDate>
             <content:encoded><![CDATA[Ktimes]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220916_28/1663303341128MURkT_JPEG/upload_10738297647410144420247855-8e55-4384-83f1-d3908975d49a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT 127 태용(TAEYONG), 이수만 SM 계약 종료 소식에 "'질주' 마지막 아니길" ('질주' 기자회견)]]></title>
-            <link>https://www.vlive.tv/video/291430</link>
-            <guid>https://www.vlive.tv/video/291430</guid>
-            <pubDate>Fri, 16 Sep 2022 05:52:36 GMT</pubDate>
-            <content:encoded><![CDATA[Ktimes]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220916_160/1663301963163xNDSy_JPEG/upload_1073816333771525210ae34075-dcd0-4874-9a40-98a1e392a41f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
