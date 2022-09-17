@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Sep 2022 17:02:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2022 17:48:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[LIVE]태국]]></title>
+            <link>https://www.vlive.tv/video/291516</link>
+            <guid>https://www.vlive.tv/video/291516</guid>
+            <pubDate>Sat, 17 Sep 2022 17:47:13 GMT</pubDate>
+            <content:encoded><![CDATA[원호 (WONHO)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220918_138/1663434870409ofw7H_JPEG/0e78dcfa-36ac-11ed-b07a-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[HAPPY U-JEONG DAY]]></title>
             <link>https://www.vlive.tv/video/291396</link>
@@ -398,14 +406,6 @@
             <pubDate>Fri, 16 Sep 2022 11:43:36 GMT</pubDate>
             <content:encoded><![CDATA[앨리스 (ALICE)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220916_74/166331480081492NPb_JPEG/upload_10739362999414757761f03698-5329-44dd-a1d2-7e27f6b3e1ce.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HBD🍒🎀🥳💖]]></title>
-            <link>https://www.vlive.tv/video/291474</link>
-            <guid>https://www.vlive.tv/video/291474</guid>
-            <pubDate>Fri, 16 Sep 2022 10:51:05 GMT</pubDate>
-            <content:encoded><![CDATA[LIZ ENT]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220916_237/1663325650382DIinG_JPEG/aa564c71-35ad-11ed-bbda-505dac8c37f3_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
