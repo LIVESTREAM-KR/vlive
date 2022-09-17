@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Sep 2022 14:45:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2022 15:49:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -200,14 +200,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220917_181/1663415951494WranE_JPEG/176291550479081998fe7516c2-3e0a-445e-a42c-d1facbe16913.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[안늉]]></title>
-            <link>https://www.vlive.tv/video/291515</link>
-            <guid>https://www.vlive.tv/video/291515</guid>
-            <pubDate>Sat, 17 Sep 2022 14:45:22 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:10]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220917_119/1663423833909xak6V_JPEG/1762993629005359139ede7a13-13cf-47ee-bb92-0d5a71d28785.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[LIVE] 민희야 네 덕분에 하루를 산다]]></title>
             <link>https://www.vlive.tv/video/291514</link>
             <guid>https://www.vlive.tv/video/291514</guid>
@@ -216,11 +208,19 @@
             <enclosure url="https://v-phinf.pstatic.net/20220917_157/1663423897302RAfF9_JPEG/a9c65b59-3691-11ed-b25c-505dacfbaa5c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[안늉]]></title>
+            <link>https://www.vlive.tv/video/291515</link>
+            <guid>https://www.vlive.tv/video/291515</guid>
+            <pubDate>Sat, 17 Sep 2022 14:45:22 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:55]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220917_119/1663423833909xak6V_JPEG/1762993629005359139ede7a13-13cf-47ee-bb92-0d5a71d28785.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[HAPPY U-JEONG DAY]]></title>
             <link>https://www.vlive.tv/video/291396</link>
             <guid>https://www.vlive.tv/video/291396</guid>
             <pubDate>Sat, 17 Sep 2022 03:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:30]]></content:encoded>
+            <content:encoded><![CDATA[오후 3:18]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220915_195/1663234994150szqzE_JPEG/upload_107314615521510789044888af-29e6-421d-874b-77d6b87ed07d.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
