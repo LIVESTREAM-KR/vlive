@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Sep 2022 20:48:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2022 21:46:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,20 +48,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220917_157/1663423897302RAfF9_JPEG/a9c65b59-3691-11ed-b25c-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[템페중심😆]]></title>
-            <link>https://www.vlive.tv/video/291505</link>
-            <guid>https://www.vlive.tv/video/291505</guid>
-            <pubDate>Sat, 17 Sep 2022 17:47:48 GMT</pubDate>
-            <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220917_123/16634012824764KyCd_JPEG/d3c2c997-365d-11ed-8d11-48df379ccacc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[브이앱이지롱]]></title>
             <link>https://www.vlive.tv/video/291507</link>
             <guid>https://www.vlive.tv/video/291507</guid>
             <pubDate>Sat, 17 Sep 2022 18:52:24 GMT</pubDate>
             <content:encoded><![CDATA[KIM SO JEONG (김소정)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220917_146/1663407990187g91Bk_JPEG/eaf50f6e-366c-11ed-b6e8-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[템페중심😆]]></title>
+            <link>https://www.vlive.tv/video/291505</link>
+            <guid>https://www.vlive.tv/video/291505</guid>
+            <pubDate>Sat, 17 Sep 2022 17:47:48 GMT</pubDate>
+            <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220917_123/16634012824764KyCd_JPEG/d3c2c997-365d-11ed-8d11-48df379ccacc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
