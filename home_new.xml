@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Sep 2022 04:49:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2022 05:57:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마로니에공원 버스킹]]></title>
+            <link>https://www.vlive.tv/video/291501</link>
+            <guid>https://www.vlive.tv/video/291501</guid>
+            <pubDate>Sat, 17 Sep 2022 05:56:09 GMT</pubDate>
+            <content:encoded><![CDATA[위드에이치씨 (withHC)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220917_67/1663393732508rSxsh_JPEG/176269346504226790f70418d2-88c3-48b2-9e48-24a18237760b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[💛해피동동데이💛 셀프 화보 선물🎁이 도착했습니다!]]></title>
             <link>https://www.vlive.tv/video/291488</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 16 Sep 2022 14:51:17 GMT</pubDate>
             <content:encoded><![CDATA[멋진녀석들 (GreatGuys)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220916_180/1663336046824kTmw4_JPEG/17621171082125155621451779-0cae-4820-ae9b-c0ac373a1fec.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하소하🖤]]></title>
-            <link>https://www.vlive.tv/video/291491</link>
-            <guid>https://www.vlive.tv/video/291491</guid>
-            <pubDate>Fri, 16 Sep 2022 14:09:30 GMT</pubDate>
-            <content:encoded><![CDATA[ONEWE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220916_285/1663337015211EyIAt_JPEG/58889201-35c8-11ed-a14d-505dac8c3607_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

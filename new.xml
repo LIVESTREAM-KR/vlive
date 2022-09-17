@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Sep 2022 04:49:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2022 05:57:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마로니에공원 버스킹]]></title>
+            <link>https://www.vlive.tv/video/291501</link>
+            <guid>https://www.vlive.tv/video/291501</guid>
+            <pubDate>Sat, 17 Sep 2022 05:56:00 GMT</pubDate>
+            <content:encoded><![CDATA[위드에이치씨 (withHC)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220917_67/1663393732508rSxsh_JPEG/176269346504226790f70418d2-88c3-48b2-9e48-24a18237760b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[💛해피동동데이💛 셀프 화보 선물🎁이 도착했습니다!]]></title>
             <link>https://www.vlive.tv/video/291488</link>
@@ -398,14 +406,6 @@
             <pubDate>Fri, 16 Sep 2022 07:49:47 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220916_111/16633163859569F2fz_JPEG/a45f6daa-3595-11ed-b25c-505dacfbaa5c_05.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Sound K] Hey! Ladies Kode~ with Sojung&Zuny 소정 &주니]]></title>
-            <link>https://www.vlive.tv/video/290963</link>
-            <guid>https://www.vlive.tv/video/290963</guid>
-            <pubDate>Fri, 16 Sep 2022 05:52:25 GMT</pubDate>
-            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220907_130/1662532921937Mjpmt_JPEG/upload_10661263036494177923a0c531-7544-4cc4-8182-8b476332660f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
