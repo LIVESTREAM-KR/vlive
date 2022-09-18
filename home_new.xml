@@ -4,16 +4,24 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 15:50:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 17:02:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Attention please (⊃^-^)⊃]]></title>
+            <link>https://www.vlive.tv/video/291544</link>
+            <guid>https://www.vlive.tv/video/291544</guid>
+            <pubDate>Sun, 18 Sep 2022 17:01:37 GMT</pubDate>
+            <content:encoded><![CDATA[다크비(DKB)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220919_292/1663520339582CmHuC_JPEG/f493325d-3772-11ed-bbda-505dac8c37f3_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[찬이의 "방" 🐺 Ep. 175]]></title>
             <link>https://www.vlive.tv/video/291543</link>
             <guid>https://www.vlive.tv/video/291543</guid>
             <pubDate>Sun, 18 Sep 2022 15:49:02 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/291543/thumb?type=f228_128" length="0" type="image//live/291543/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220919_157/1663520114801tq4ns_JPEG/276ae68e-3772-11ed-b6e8-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[LIVE] 🇹🇭]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 18 Sep 2022 09:46:27 GMT</pubDate>
             <content:encoded><![CDATA[DAY6]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220917_82/1663382421758sQLxJ_PNG/upload_1074621293558193989b38960a-af33-4e2b-aa0c-a169597ae394.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[코요태 - 우리의 꿈 (Cover by 한동근)]]></title>
-            <link>https://www.vlive.tv/video/291437</link>
-            <guid>https://www.vlive.tv/video/291437</guid>
-            <pubDate>Sun, 18 Sep 2022 09:46:27 GMT</pubDate>
-            <content:encoded><![CDATA[BRANDNEW MUSIC]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220916_162/1663305210265PjyWL_JPEG/upload_79574661191506925af8752dd-c494-4bab-aa6f-7e1a23dbc0a5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
