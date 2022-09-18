@@ -4,17 +4,9 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 13:56:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 14:46:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[하루 남았다😍]]></title>
-            <link>https://www.vlive.tv/video/291460</link>
-            <guid>https://www.vlive.tv/video/291460</guid>
-            <pubDate>Sun, 18 Sep 2022 09:46:43 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220916_111/16633163859569F2fz_JPEG/a45f6daa-3595-11ed-b25c-505dacfbaa5c_05.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[BLACKPINK - ‘Shut Down’ M/V]]></title>
             <link>https://www.vlive.tv/video/291428</link>
@@ -24,12 +16,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20220916_282/1663301300571bDW4P_JPEG/upload_1073810320181819811b5bf9d9-3d8c-4058-a831-70739499980f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[LIVE] 민희야 네 덕분에 하루를 산다]]></title>
-            <link>https://www.vlive.tv/video/291514</link>
-            <guid>https://www.vlive.tv/video/291514</guid>
-            <pubDate>Sat, 17 Sep 2022 14:44:46 GMT</pubDate>
-            <content:encoded><![CDATA[CRAVITY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220917_157/1663423897302RAfF9_JPEG/a9c65b59-3691-11ed-b25c-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <title><![CDATA[하루 남았다😍]]></title>
+            <link>https://www.vlive.tv/video/291460</link>
+            <guid>https://www.vlive.tv/video/291460</guid>
+            <pubDate>Sun, 18 Sep 2022 09:46:43 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220916_111/16633163859569F2fz_JPEG/a45f6daa-3595-11ed-b25c-505dacfbaa5c_05.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아따 드브라2]]></title>
@@ -38,6 +30,14 @@
             <pubDate>Sun, 18 Sep 2022 13:55:31 GMT</pubDate>
             <content:encoded><![CDATA[DAY6]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220918_290/16635038296986KcHE_JPEG/9152d3c0-374c-11ed-8d11-48df379ccacc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[은서] 오늘의 이야기 EP.49]]></title>
+            <link>https://www.vlive.tv/video/291524</link>
+            <guid>https://www.vlive.tv/video/291524</guid>
+            <pubDate>Sun, 18 Sep 2022 14:44:54 GMT</pubDate>
+            <content:encoded><![CDATA[우주소녀(WJSN)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220918_196/1663481882389oLOPj_JPEG/e2ff5412-3718-11ed-8892-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
