@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 13:13:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 13:56:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해피활찬데이❤️]]></title>
+            <link>https://www.vlive.tv/video/291541</link>
+            <guid>https://www.vlive.tv/video/291541</guid>
+            <pubDate>Sun, 18 Sep 2022 13:55:02 GMT</pubDate>
+            <content:encoded><![CDATA[멋진녀석들 (GreatGuys)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220918_250/1663507701449N0WYb_JPEG/1763832304362355859a283487-df2d-43bb-b92d-420127f06849.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[소녀세상] 일주일의 마무리를 아라로!]]></title>
             <link>https://www.vlive.tv/video/291539</link>
@@ -396,14 +404,6 @@
             <pubDate>Fri, 16 Sep 2022 15:48:55 GMT</pubDate>
             <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220916_271/1663297618946XtqVa_PNG/upload_107377310742425675a41142a3-11d1-4878-a6d1-ce7ebd00df38.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[활연]]></title>
-            <link>https://www.vlive.tv/video/291490</link>
-            <guid>https://www.vlive.tv/video/291490</guid>
-            <pubDate>Fri, 16 Sep 2022 14:51:06 GMT</pubDate>
-            <content:encoded><![CDATA[멋진녀석들 (GreatGuys)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220916_180/1663336046824kTmw4_JPEG/17621171082125155621451779-0cae-4820-ae9b-c0ac373a1fec.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
