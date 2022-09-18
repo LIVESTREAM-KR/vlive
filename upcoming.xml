@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 10:49:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 11:44:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,6 +94,14 @@
             <pubDate>Sun, 18 Sep 2022 10:48:37 GMT</pubDate>
             <content:encoded><![CDATA[오전 10:40]]></content:encoded>
             <enclosure url="https://vlive-thumb.pstatic.net/live/291533/thumb?type=f228_128" length="0" type="image//live/291533/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[[김주헌] #빅마우스 역대급 빌런 '최도하', 안녕히 잘가세요👋]]></title>
+            <link>https://www.vlive.tv/video/291535</link>
+            <guid>https://www.vlive.tv/video/291535</guid>
+            <pubDate>Sun, 18 Sep 2022 11:43:37 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:18]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220918_201/1663499843712da2Cz_JPEG/upload_10757951088169066201ab0b4a-a034-4ad8-a412-66804b40d1da.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
