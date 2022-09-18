@@ -4,15 +4,24 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 05:32:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 06:56:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[0917 잘듣고있나요 😘]]></title>
+            <link>https://www.vlive.tv/video/291525</link>
+            <guid>https://www.vlive.tv/video/291525</guid>
+            <pubDate>Sun, 18 Sep 2022 06:55:00 GMT</pubDate>
+            <content:encoded><![CDATA[D.COY]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220918_43/1663483030810R5FPF_JPEG/d1285785-371b-11ed-999c-505dac8c3639_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[은서] 오늘의 이야기 EP.49]]></title>
             <link>https://www.vlive.tv/video/291524</link>
             <guid>https://www.vlive.tv/video/291524</guid>
             <pubDate>Sun, 18 Sep 2022 05:31:34 GMT</pubDate>
             <content:encoded><![CDATA[우주소녀(WJSN)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220918_196/1663481882389oLOPj_JPEG/e2ff5412-3718-11ed-8892-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[LIVE]태국]]></title>
@@ -397,14 +406,6 @@
             <pubDate>Fri, 16 Sep 2022 11:43:36 GMT</pubDate>
             <content:encoded><![CDATA[VIXX]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220916_64/1663309672888ItJvH_JPEG/upload_795792705878374718548f17b-035d-480e-adcc-71d21bf21f49.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YOUNITE 2022 추석특집 아이돌스타 선수권대회 BEHIND]]></title>
-            <link>https://www.vlive.tv/video/291464</link>
-            <guid>https://www.vlive.tv/video/291464</guid>
-            <pubDate>Fri, 16 Sep 2022 11:43:36 GMT</pubDate>
-            <content:encoded><![CDATA[YOUNITE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220916_279/1663317610173yGrET_JPEG/upload_10739733051430437684ffc1e5-641f-4ec7-82da-cbcbc124f7bf.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

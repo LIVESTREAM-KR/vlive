@@ -4,16 +4,24 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 05:32:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 06:56:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[0917 잘듣고있나요 😘]]></title>
+            <link>https://www.vlive.tv/video/291525</link>
+            <guid>https://www.vlive.tv/video/291525</guid>
+            <pubDate>Sun, 18 Sep 2022 06:55:10 GMT</pubDate>
+            <content:encoded><![CDATA[D.COY]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220918_43/1663483030810R5FPF_JPEG/d1285785-371b-11ed-999c-505dac8c3639_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[은서] 오늘의 이야기 EP.49]]></title>
             <link>https://www.vlive.tv/video/291524</link>
             <guid>https://www.vlive.tv/video/291524</guid>
             <pubDate>Sun, 18 Sep 2022 05:31:43 GMT</pubDate>
             <content:encoded><![CDATA[우주소녀(WJSN)]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/291524/thumb?type=f228_128" length="0" type="image//live/291524/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220918_196/1663481882389oLOPj_JPEG/e2ff5412-3718-11ed-8892-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[LIVE]태국]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 17 Sep 2022 10:47:29 GMT</pubDate>
             <content:encoded><![CDATA[BTOB]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220916_28/16633166159046dKpO_JPEG/upload_107396316670764563bf0fd6b3-279c-48ad-af5e-e4532532b072.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오늘의 구름은] EP.3 지구에 하나뿐인 사이 (The one and only relationship on earth)]]></title>
-            <link>https://www.vlive.tv/video/291448</link>
-            <guid>https://www.vlive.tv/video/291448</guid>
-            <pubDate>Sat, 17 Sep 2022 10:47:29 GMT</pubDate>
-            <content:encoded><![CDATA[하성운 (HA SUNG WOON)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220917_99/1663412165284cUPJu_JPEG/upload_1073893421502992849882dbe7-9c5f-4e8b-8e89-6645b8fd969d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
