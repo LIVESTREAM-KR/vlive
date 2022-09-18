@@ -4,9 +4,16 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Sep 2022 23:50:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 05:32:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[은서] 오늘의 이야기 EP.49]]></title>
+            <link>https://www.vlive.tv/video/291524</link>
+            <guid>https://www.vlive.tv/video/291524</guid>
+            <pubDate>Sun, 18 Sep 2022 05:31:34 GMT</pubDate>
+            <content:encoded><![CDATA[우주소녀(WJSN)]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[LIVE]태국]]></title>
             <link>https://www.vlive.tv/video/291516</link>
@@ -398,14 +405,6 @@
             <pubDate>Fri, 16 Sep 2022 11:43:36 GMT</pubDate>
             <content:encoded><![CDATA[YOUNITE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220916_279/1663317610173yGrET_JPEG/upload_10739733051430437684ffc1e5-641f-4ec7-82da-cbcbc124f7bf.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[ALHIND] 앨리스 잘했스!｜2022 추석특집 아이돌스타 선수권대회 비하인드]]></title>
-            <link>https://www.vlive.tv/video/291461</link>
-            <guid>https://www.vlive.tv/video/291461</guid>
-            <pubDate>Fri, 16 Sep 2022 11:43:36 GMT</pubDate>
-            <content:encoded><![CDATA[앨리스 (ALICE)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220916_74/166331480081492NPb_JPEG/upload_10739362999414757761f03698-5329-44dd-a1d2-7e27f6b3e1ce.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

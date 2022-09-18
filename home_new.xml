@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Sep 2022 23:50:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 05:32:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[은서] 오늘의 이야기 EP.49]]></title>
+            <link>https://www.vlive.tv/video/291524</link>
+            <guid>https://www.vlive.tv/video/291524</guid>
+            <pubDate>Sun, 18 Sep 2022 05:31:43 GMT</pubDate>
+            <content:encoded><![CDATA[우주소녀(WJSN)]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/291524/thumb?type=f228_128" length="0" type="image//live/291524/thumb"/>
+        </item>
         <item>
             <title><![CDATA[[LIVE]태국]]></title>
             <link>https://www.vlive.tv/video/291516</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 17 Sep 2022 10:47:29 GMT</pubDate>
             <content:encoded><![CDATA[하성운 (HA SUNG WOON)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220917_99/1663412165284cUPJu_JPEG/upload_1073893421502992849882dbe7-9c5f-4e8b-8e89-6645b8fd969d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브이앱이지롱]]></title>
-            <link>https://www.vlive.tv/video/291507</link>
-            <guid>https://www.vlive.tv/video/291507</guid>
-            <pubDate>Sat, 17 Sep 2022 10:47:29 GMT</pubDate>
-            <content:encoded><![CDATA[KIM SO JEONG (김소정)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220917_146/1663407990187g91Bk_JPEG/eaf50f6e-366c-11ed-b6e8-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
