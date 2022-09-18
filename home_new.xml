@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 09:47:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 10:49:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아따 드브라]]></title>
+            <link>https://www.vlive.tv/video/291533</link>
+            <guid>https://www.vlive.tv/video/291533</guid>
+            <pubDate>Sun, 18 Sep 2022 10:47:46 GMT</pubDate>
+            <content:encoded><![CDATA[DAY6]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/291533/thumb?type=f228_128" length="0" type="image//live/291533/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[러빗🖐]]></title>
+            <link>https://www.vlive.tv/video/291526</link>
+            <guid>https://www.vlive.tv/video/291526</guid>
+            <pubDate>Sun, 18 Sep 2022 08:51:07 GMT</pubDate>
+            <content:encoded><![CDATA[핑크판타지 / PINKFANTASY]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220918_295/1663487448861mOliI_JPEG/176275842868241423f26e85fb-f502-4aeb-8aa3-693f7e81a5fb.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안녕하세요 박은수 입니다]]></title>
             <link>https://www.vlive.tv/video/291532</link>
@@ -64,14 +80,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220918_132/1663489301376EQfxn_JPEG/9ff6f7fb-372a-11ed-83d6-48df379cca40_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[러빗🖐]]></title>
-            <link>https://www.vlive.tv/video/291526</link>
-            <guid>https://www.vlive.tv/video/291526</guid>
-            <pubDate>Sun, 18 Sep 2022 08:51:07 GMT</pubDate>
-            <content:encoded><![CDATA[핑크판타지 / PINKFANTASY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220918_295/1663487448861mOliI_JPEG/176275842868241423f26e85fb-f502-4aeb-8aa3-693f7e81a5fb.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[0917 잘듣고있나요 😘]]></title>
             <link>https://www.vlive.tv/video/291525</link>
             <guid>https://www.vlive.tv/video/291525</guid>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 17 Sep 2022 13:10:33 GMT</pubDate>
             <content:encoded><![CDATA[CRAVITY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220917_157/1663423897302RAfF9_JPEG/a9c65b59-3691-11ed-b25c-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[반부장🦊과 주팀장🐯의 2차 노래방🎤]]></title>
-            <link>https://www.vlive.tv/video/291513</link>
-            <guid>https://www.vlive.tv/video/291513</guid>
-            <pubDate>Sat, 17 Sep 2022 13:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[NINE.i]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220917_181/1663415951494WranE_JPEG/176291550479081998fe7516c2-3e0a-445e-a42c-d1facbe16913.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,24 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 09:47:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 10:49:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아따 드브라]]></title>
+            <link>https://www.vlive.tv/video/291533</link>
+            <guid>https://www.vlive.tv/video/291533</guid>
+            <pubDate>Sun, 18 Sep 2022 10:47:37 GMT</pubDate>
+            <content:encoded><![CDATA[DAY6]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[러빗🖐]]></title>
+            <link>https://www.vlive.tv/video/291526</link>
+            <guid>https://www.vlive.tv/video/291526</guid>
+            <pubDate>Sun, 18 Sep 2022 08:50:59 GMT</pubDate>
+            <content:encoded><![CDATA[핑크판타지 / PINKFANTASY]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220918_295/1663487448861mOliI_JPEG/176275842868241423f26e85fb-f502-4aeb-8aa3-693f7e81a5fb.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안녕하세요 박은수 입니다]]></title>
             <link>https://www.vlive.tv/video/291532</link>
@@ -62,14 +77,6 @@
             <pubDate>Sun, 18 Sep 2022 08:50:59 GMT</pubDate>
             <content:encoded><![CDATA[IVE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220918_132/1663489301376EQfxn_JPEG/9ff6f7fb-372a-11ed-83d6-48df379cca40_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러빗🖐]]></title>
-            <link>https://www.vlive.tv/video/291526</link>
-            <guid>https://www.vlive.tv/video/291526</guid>
-            <pubDate>Sun, 18 Sep 2022 08:50:59 GMT</pubDate>
-            <content:encoded><![CDATA[핑크판타지 / PINKFANTASY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220918_295/1663487448861mOliI_JPEG/176275842868241423f26e85fb-f502-4aeb-8aa3-693f7e81a5fb.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[0917 잘듣고있나요 😘]]></title>
@@ -398,14 +405,6 @@
             <pubDate>Fri, 16 Sep 2022 11:43:36 GMT</pubDate>
             <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220914_10/16631381317511MCIj_JPEG/upload_10721786471727156590c377c6-c3bd-45b2-8e10-f1a1b526cf01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[펜타곤 - 펜토리 #171 (🔥게임 지옥🔥 In 드림콘서트 PART 2)]]></title>
-            <link>https://www.vlive.tv/video/291123</link>
-            <guid>https://www.vlive.tv/video/291123</guid>
-            <pubDate>Fri, 16 Sep 2022 13:25:37 GMT</pubDate>
-            <content:encoded><![CDATA[PENTAGON]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220913_214/1663045485433C9BIN_JPEG/upload_7931508835263686378337333-8b24-40a9-afd0-04059b8a7e26.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 09:47:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 10:49:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Sun, 18 Sep 2022 06:56:02 GMT</pubDate>
             <content:encoded><![CDATA[오전 6:37]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220918_43/1663483030810R5FPF_JPEG/d1285785-371b-11ed-999c-505dac8c3639_03.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러빗🖐]]></title>
-            <link>https://www.vlive.tv/video/291526</link>
-            <guid>https://www.vlive.tv/video/291526</guid>
-            <pubDate>Sun, 18 Sep 2022 08:51:50 GMT</pubDate>
-            <content:encoded><![CDATA[오전 7:50]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220918_295/1663487448861mOliI_JPEG/176275842868241423f26e85fb-f502-4aeb-8aa3-693f7e81a5fb.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022.09.18 After LIKE 막방 🥹💚]]></title>
@@ -86,6 +78,22 @@
             <pubDate>Sun, 18 Sep 2022 09:47:17 GMT</pubDate>
             <content:encoded><![CDATA[오전 9:34]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220918_7/1663492439684Kl38x_JPEG/1762808096837674474226b0e2-30f7-47ef-b649-b853a5ed1124.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[러빗🖐]]></title>
+            <link>https://www.vlive.tv/video/291526</link>
+            <guid>https://www.vlive.tv/video/291526</guid>
+            <pubDate>Sun, 18 Sep 2022 08:51:50 GMT</pubDate>
+            <content:encoded><![CDATA[오전 10:03]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220918_295/1663487448861mOliI_JPEG/176275842868241423f26e85fb-f502-4aeb-8aa3-693f7e81a5fb.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아따 드브라]]></title>
+            <link>https://www.vlive.tv/video/291533</link>
+            <guid>https://www.vlive.tv/video/291533</guid>
+            <pubDate>Sun, 18 Sep 2022 10:48:37 GMT</pubDate>
+            <content:encoded><![CDATA[오전 10:40]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/291533/thumb?type=f228_128" length="0" type="image//live/291533/thumb"/>
         </item>
     </channel>
 </rss>
