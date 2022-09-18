@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Sep 2022 18:53:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Sep 2022 19:43:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,20 +48,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220824_277/1661325776060GNHYn_JPEG/upload_105405488087786008317d78ca-7903-4ba4-975b-e9e5827f79fe.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[하루 남았다😍]]></title>
-            <link>https://www.vlive.tv/video/291460</link>
-            <guid>https://www.vlive.tv/video/291460</guid>
-            <pubDate>Fri, 16 Sep 2022 08:52:59 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220916_111/16633163859569F2fz_JPEG/a45f6daa-3595-11ed-b25c-505dacfbaa5c_05.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Stray Kids(스트레이 키즈) <MAXIDENT> Mashup Video]]></title>
             <link>https://www.vlive.tv/video/291447</link>
             <guid>https://www.vlive.tv/video/291447</guid>
             <pubDate>Sun, 18 Sep 2022 17:48:07 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220916_195/1663309257551zgyPC_JPEG/upload_1073888153115839015ea2542d-c53b-4343-a4a7-047eee4136df.JPG?type=f228_128_wp" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[하루 남았다😍]]></title>
+            <link>https://www.vlive.tv/video/291460</link>
+            <guid>https://www.vlive.tv/video/291460</guid>
+            <pubDate>Fri, 16 Sep 2022 08:52:59 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220916_111/16633163859569F2fz_JPEG/a45f6daa-3595-11ed-b25c-505dacfbaa5c_05.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
