@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 13:31:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 14:11:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[응애!👽]]></title>
+            <link>https://www.vlive.tv/video/291590</link>
+            <guid>https://www.vlive.tv/video/291590</guid>
+            <pubDate>Mon, 19 Sep 2022 14:10:08 GMT</pubDate>
+            <content:encoded><![CDATA[ONEWE]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/291590/thumb?type=f228_128" length="0" type="image//live/291590/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[월요일🤔]]></title>
+            <link>https://www.vlive.tv/video/291585</link>
+            <guid>https://www.vlive.tv/video/291585</guid>
+            <pubDate>Mon, 19 Sep 2022 13:29:46 GMT</pubDate>
+            <content:encoded><![CDATA[Park Bo Young]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220919_163/16635919588474TV6w_JPEG/17638032984168888408d7e497-d61e-4b80-a8ce-47cecb3592a6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[ㅜㅜㅜㅜ 이번엔,,,]]></title>
             <link>https://www.vlive.tv/video/291588</link>
@@ -54,14 +70,6 @@
             <pubDate>Mon, 19 Sep 2022 13:29:46 GMT</pubDate>
             <content:encoded><![CDATA[MONSTA X]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220919_84/1663563993768LnUf3_JPEG/upload_107643711225489909ec925019-e089-4b0e-b062-f36672371b7f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[월요일🤔]]></title>
-            <link>https://www.vlive.tv/video/291585</link>
-            <guid>https://www.vlive.tv/video/291585</guid>
-            <pubDate>Mon, 19 Sep 2022 13:29:46 GMT</pubDate>
-            <content:encoded><![CDATA[Park Bo Young]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220919_163/16635919588474TV6w_JPEG/17638032984168888408d7e497-d61e-4b80-a8ce-47cecb3592a6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[🌼HAPPY Fine DAY🌼]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 19 Sep 2022 10:52:56 GMT</pubDate>
             <content:encoded><![CDATA[앨리스 (ALICE)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220919_24/1663581772907NMcfB_JPEG/17637030889937266367a7a19d-8036-4c26-8f6c-04ae51d17739.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LUCKY TV] EP.113 '시즌 썸머콘' BEHIND]]></title>
-            <link>https://www.vlive.tv/video/291445</link>
-            <guid>https://www.vlive.tv/video/291445</guid>
-            <pubDate>Mon, 19 Sep 2022 10:52:56 GMT</pubDate>
-            <content:encoded><![CDATA[정세운(Jeong Sewoon)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220916_269/1663308591434cAlMo_JPEG/upload_7957818798044500309cca9cf-5673-4526-bc0f-1d964b380696.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

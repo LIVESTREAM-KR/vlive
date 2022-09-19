@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 13:31:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 14:11:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -336,14 +336,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220916_268/1663326013407tgqv4_JPEG/upload_107405513040875435f24406ae-c0c9-4fe4-8abc-01b667c2f66e.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[월요일🤔]]></title>
-            <link>https://www.vlive.tv/video/291585</link>
-            <guid>https://www.vlive.tv/video/291585</guid>
-            <pubDate>Mon, 19 Sep 2022 13:30:35 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:52]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220919_163/16635919588474TV6w_JPEG/17638032984168888408d7e497-d61e-4b80-a8ce-47cecb3592a6.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[몬채널][B] EP.330 MINHYUK '보그싶쇼2' poster&teaser shooting + 1st episode]]></title>
             <link>https://www.vlive.tv/video/291534</link>
             <guid>https://www.vlive.tv/video/291534</guid>
@@ -390,6 +382,22 @@
             <pubDate>Mon, 19 Sep 2022 13:30:35 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:27]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220919_138/16635940274554YRGo_JPEG/176469545342694365b67a37f5-af79-4e06-a3d7-cfc46dc12751.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[월요일🤔]]></title>
+            <link>https://www.vlive.tv/video/291585</link>
+            <guid>https://www.vlive.tv/video/291585</guid>
+            <pubDate>Mon, 19 Sep 2022 13:30:35 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:49]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220919_163/16635919588474TV6w_JPEG/17638032984168888408d7e497-d61e-4b80-a8ce-47cecb3592a6.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[응애!👽]]></title>
+            <link>https://www.vlive.tv/video/291590</link>
+            <guid>https://www.vlive.tv/video/291590</guid>
+            <pubDate>Mon, 19 Sep 2022 14:10:59 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:00]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/291590/thumb?type=f228_128" length="0" type="image//live/291590/thumb"/>
         </item>
     </channel>
 </rss>
