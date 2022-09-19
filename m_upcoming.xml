@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 06:45:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 08:01:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Super K-Pop / DUSTIN 더스틴)]]></title>
-            <link>https://m.vlive.tv/video/291384</link>
-            <guid>https://m.vlive.tv/video/291384</guid>
-            <pubDate>Thu, 15 Sep 2022 07:52:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220915_78/1663228087458KC1nQ_JPEG/upload_107307759808282127e5ef4a2e-f90d-44cc-8b22-5215f238b33c.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[LIVE] SIMPLY K-POP CON-TOUR (📍Argentina)]]></title>
             <link>https://m.vlive.tv/video/291456</link>
@@ -96,6 +86,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220915_164/1663199140056NdTii_JPEG/upload_794687218562745501cc6fab0-6758-4d41-9550-be0f1a1b2220.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio/K-Poppin'] CEO Park So Hyun / '오늘의 집정리' 대표 박소현]]></title>
+            <link>https://m.vlive.tv/video/291298</link>
+            <guid>https://m.vlive.tv/video/291298</guid>
+            <pubDate>Mon, 19 Sep 2022 08:00:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220915_28/16632009213662J0oa_PNG/upload_1072806021382541786249ac8b-3e40-4728-b46a-591e15026330.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
