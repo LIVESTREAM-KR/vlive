@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 05:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Sep 2022 06:45:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[디아나 보구시펑]]></title>
+            <link>https://www.vlive.tv/video/291564</link>
+            <guid>https://www.vlive.tv/video/291564</guid>
+            <pubDate>Mon, 19 Sep 2022 06:44:13 GMT</pubDate>
+            <content:encoded><![CDATA[디크런치 (D_CRUNCH)]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/291564/thumb?type=f228_128" length="0" type="image//live/291564/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[아이브(IVE), ELEVEN(일레븐) 무대 '신나는 후렴 떼창' (2022 제6회 청년의날 콘서트)]]></title>
+            <link>https://www.vlive.tv/video/291561</link>
+            <guid>https://www.vlive.tv/video/291561</guid>
+            <pubDate>Mon, 19 Sep 2022 06:44:13 GMT</pubDate>
+            <content:encoded><![CDATA[Ktimes]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220919_66/1663565125368H6JWh_JPEG/upload_79834647273133145f2286624-901f-4f1e-9af0-254d9e2cd2fd.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio/K-Poppin'] Singlish with WE;NA 위나]]></title>
             <link>https://www.vlive.tv/video/291546</link>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 19 Sep 2022 03:31:13 GMT</pubDate>
             <content:encoded><![CDATA[Ktimes]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220919_289/1663549986934TDBLE_JPEG/upload_10762962442276867216c353df-eddd-4c88-823a-21eee21c91f4.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[투모로우바이투게더(TXT) 인천공항 입국 | TOMORROW X TOGETHER Airport Arrival]]></title>
-            <link>https://www.vlive.tv/video/291550</link>
-            <guid>https://www.vlive.tv/video/291550</guid>
-            <pubDate>Mon, 19 Sep 2022 03:31:13 GMT</pubDate>
-            <content:encoded><![CDATA[TEN Asia (텐아시아)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220919_46/1663549423633TSY1a_PNG/upload_7981897236214865040998666-5c0d-4cf1-aeb8-126d9995580b.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[🇵🇷푸에르토리코에서 저녁 먹방 Show😝]]></title>
-            <link>https://www.vlive.tv/video/291545</link>
-            <guid>https://www.vlive.tv/video/291545</guid>
-            <pubDate>Mon, 19 Sep 2022 03:31:13 GMT</pubDate>
-            <content:encoded><![CDATA[다크비(DKB)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220919_279/1663548749608u8qU7_JPEG/e40a890f-37b4-11ed-b41c-48df379cc9e4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
