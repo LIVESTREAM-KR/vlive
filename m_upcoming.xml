@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Sep 2022 23:52:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 03:21:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Welcome to Korea with Kim Min Ji]]></title>
-            <link>https://m.vlive.tv/video/291294</link>
-            <guid>https://m.vlive.tv/video/291294</guid>
-            <pubDate>Thu, 15 Sep 2022 07:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220915_256/1663199108650l27Y7_JPEG/upload_107278732844223619b61998eb-d58a-45be-a0ba-290e95102cfb.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[ASC Live Ep.540 (Rocket Punch / 로켓펀치)]]></title>
             <link>https://m.vlive.tv/video/291438</link>
@@ -96,6 +86,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220915_56/1663199168408TfCYT_JPEG/upload_7946875803839258626c17b0a-2903-4246-bc38-7f8e9b7ee672.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop] Stray Quiz]]></title>
+            <link>https://m.vlive.tv/video/291303</link>
+            <guid>https://m.vlive.tv/video/291303</guid>
+            <pubDate>Tue, 20 Sep 2022 03:21:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220915_114/1663201486497vtnuM_JPEG/upload_7947106357865892757ad45c3-f537-43db-9b0a-d3f5aa77d80b.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
