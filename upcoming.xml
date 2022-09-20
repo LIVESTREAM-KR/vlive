@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 14:12:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 14:54:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -400,20 +400,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20220920_213/1663678909853Tnvme_JPEG/acfe894a-38e2-11ed-aee9-505dac8c38f5_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[날씨 좋아(한우즈🥩)]]></title>
-            <link>https://www.vlive.tv/video/291652</link>
-            <guid>https://www.vlive.tv/video/291652</guid>
-            <pubDate>Tue, 20 Sep 2022 14:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:40]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220920_82/1663681200740tBRHJ_JPEG/1028376835798371650f4dee32-0997-4274-96b5-4579439cb8b9.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[#OMRR 라방📻😎]]></title>
             <link>https://www.vlive.tv/video/291653</link>
             <guid>https://www.vlive.tv/video/291653</guid>
             <pubDate>Tue, 20 Sep 2022 14:11:32 GMT</pubDate>
             <content:encoded><![CDATA[오후 2:07]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220920_29/1663682851197QyjuH_JPEG/1765583681409707531f48580d-b15b-46a7-a728-64fc05e80ddf.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[날씨 좋아(한우즈🥩)]]></title>
+            <link>https://www.vlive.tv/video/291652</link>
+            <guid>https://www.vlive.tv/video/291652</guid>
+            <pubDate>Tue, 20 Sep 2022 14:11:32 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:31]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220920_82/1663681200740tBRHJ_JPEG/1028376835798371650f4dee32-0997-4274-96b5-4579439cb8b9.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[호호호호 -ra.L-]]></title>
+            <link>https://www.vlive.tv/video/291654</link>
+            <guid>https://www.vlive.tv/video/291654</guid>
+            <pubDate>Tue, 20 Sep 2022 14:54:05 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:42]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220920_125/1663684968551pPtCc_JPEG/17656049954417989189c7db4e-e8f0-4ca8-8f4e-b7c49f3a29cb.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
