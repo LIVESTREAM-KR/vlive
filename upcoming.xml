@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Sep 2022 08:01:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Sep 2022 08:58:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,14 +216,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220921_126/1663743261306Le1ya_JPEG/upload_10782299287016930697687dfb-5a4e-40a5-8aaa-765d5feb8514.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Arirang Radio (Super K-Pop / PRSNT 프레젠트)]]></title>
-            <link>https://www.vlive.tv/video/291690</link>
-            <guid>https://www.vlive.tv/video/291690</guid>
-            <pubDate>Wed, 21 Sep 2022 07:27:55 GMT</pubDate>
-            <content:encoded><![CDATA[오전 7:02]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220921_151/1663743676261PXj0H_JPEG/upload_8001326514008534489b05f17-d313-4cb1-97e8-e8220e8eee5f.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[Arirang Radio / Sound K] Song Express ver.3 with Denise 데니스]]></title>
             <link>https://www.vlive.tv/video/291300</link>
             <guid>https://www.vlive.tv/video/291300</guid>
@@ -254,6 +246,38 @@
             <pubDate>Wed, 21 Sep 2022 07:27:55 GMT</pubDate>
             <content:encoded><![CDATA[오전 7:53]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220921_178/1663746835107HA8Q6_JPEG/efc283cf-3981-11ed-814e-505dac8c381b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리 얘기 좀 합시다 #157]]></title>
+            <link>https://www.vlive.tv/video/291692</link>
+            <guid>https://www.vlive.tv/video/291692</guid>
+            <pubDate>Wed, 21 Sep 2022 08:58:03 GMT</pubDate>
+            <content:encoded><![CDATA[오전 8:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220921_155/166374725227743AxI_JPEG/e95002c1-3982-11ed-9aa2-505dac8c3721_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마주치고 겹치는 공간으로 낯설게 - 건축가 이승훈 / K-Arts Rising Star]]></title>
+            <link>https://www.vlive.tv/video/291698</link>
+            <guid>https://www.vlive.tv/video/291698</guid>
+            <pubDate>Wed, 21 Sep 2022 08:58:03 GMT</pubDate>
+            <content:encoded><![CDATA[오전 8:22]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220921_286/1663748561498JImmJ_JPEG/upload_800181637236589181499a111-f4da-472b-a392-b11305e89de0.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[막내의 사생활 65 🦊]]></title>
+            <link>https://www.vlive.tv/video/291700</link>
+            <guid>https://www.vlive.tv/video/291700</guid>
+            <pubDate>Wed, 21 Sep 2022 08:58:03 GMT</pubDate>
+            <content:encoded><![CDATA[오전 8:40]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/291700/thumb?type=f228_128" length="0" type="image//live/291700/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[조곤조곤]]></title>
+            <link>https://www.vlive.tv/video/291701</link>
+            <guid>https://www.vlive.tv/video/291701</guid>
+            <pubDate>Wed, 21 Sep 2022 08:58:03 GMT</pubDate>
+            <content:encoded><![CDATA[오전 8:53]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/291701/thumb?type=f228_128" length="0" type="image//live/291701/thumb"/>
         </item>
     </channel>
 </rss>
