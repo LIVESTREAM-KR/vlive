@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Sep 2022 10:50:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Sep 2022 11:45:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -320,14 +320,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220922_12/1663837333327eobcO_JPEG/59c962db-3a53-11ed-9aa2-505dac8c3721_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[VAV] BARON 22.09.22 평일방송]]></title>
-            <link>https://www.vlive.tv/video/291778</link>
-            <guid>https://www.vlive.tv/video/291778</guid>
-            <pubDate>Thu, 22 Sep 2022 10:50:01 GMT</pubDate>
-            <content:encoded><![CDATA[오전 9:56]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220922_300/1663840606249i4KoD_JPEG/1766290622437387864a3398dc-a3e9-4b9a-b0fb-4a5da57b25b3.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[LUCKY TV] EP.114 '2022 아이돌스타 선수권대회' BEHIND]]></title>
             <link>https://www.vlive.tv/video/291471</link>
             <guid>https://www.vlive.tv/video/291471</guid>
@@ -414,6 +406,46 @@
             <pubDate>Thu, 22 Sep 2022 10:50:01 GMT</pubDate>
             <content:encoded><![CDATA[오전 10:48]]></content:encoded>
             <enclosure url="https://vlive-thumb.pstatic.net/live/291785/thumb?type=f228_128" length="0" type="image//live/291785/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[[EPEX:GO] EP.23 KPOP Maker 티저 촬영 비하인드]]></title>
+            <link>https://www.vlive.tv/video/291731</link>
+            <guid>https://www.vlive.tv/video/291731</guid>
+            <pubDate>Thu, 22 Sep 2022 11:44:44 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220922_18/1663812238486O93Wf_JPEG/upload_1078919493778663932caeb323-85ee-41ae-a03a-4617756c827d.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[룸메즈의 급라이브..😋]]></title>
+            <link>https://www.vlive.tv/video/291786</link>
+            <guid>https://www.vlive.tv/video/291786</guid>
+            <pubDate>Thu, 22 Sep 2022 11:44:44 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:04]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220922_4/1663844656267ye06M_JPEG/0e6d90aa-3a66-11ed-a7c3-d4f5ef58ad5e_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE] wenee]]></title>
+            <link>https://www.vlive.tv/video/291787</link>
+            <guid>https://www.vlive.tv/video/291787</guid>
+            <pubDate>Thu, 22 Sep 2022 11:44:44 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:08]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/291787/thumb?type=f228_128" length="0" type="image//live/291787/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[[VAV] BARON 22.09.22 평일방송]]></title>
+            <link>https://www.vlive.tv/video/291778</link>
+            <guid>https://www.vlive.tv/video/291778</guid>
+            <pubDate>Thu, 22 Sep 2022 10:50:01 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:09]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220922_300/1663840606249i4KoD_JPEG/1766290622437387864a3398dc-a3e9-4b9a-b0fb-4a5da57b25b3.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유우나왔슈~]]></title>
+            <link>https://www.vlive.tv/video/291788</link>
+            <guid>https://www.vlive.tv/video/291788</guid>
+            <pubDate>Thu, 22 Sep 2022 11:44:44 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:35]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/291788/thumb?type=f228_128" length="0" type="image//live/291788/thumb"/>
         </item>
     </channel>
 </rss>
