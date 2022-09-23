@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Sep 2022 13:27:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Sep 2022 14:14:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -400,14 +400,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220909_8/1662705217538euSNb_JPEG/upload_1029709418061243463031a460-66f6-426b-8a3b-c615f30cdf9d.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[금요일에 찾아온 금주의 브이앱]]></title>
-            <link>https://www.vlive.tv/video/291873</link>
-            <guid>https://www.vlive.tv/video/291873</guid>
-            <pubDate>Fri, 23 Sep 2022 13:27:20 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:10]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/291873/thumb?type=f228_128" length="0" type="image//live/291873/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[✨HAPPY BDC DAY✨]]></title>
             <link>https://www.vlive.tv/video/291821</link>
             <guid>https://www.vlive.tv/video/291821</guid>
@@ -437,7 +429,30 @@
             <guid>https://www.vlive.tv/video/291875</guid>
             <pubDate>Fri, 23 Sep 2022 13:27:20 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:26]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/291875/thumb?type=f228_128" length="0" type="image//live/291875/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[자기전에 잠깐 !🐰]]></title>
+            <link>https://www.vlive.tv/video/291876</link>
+            <guid>https://www.vlive.tv/video/291876</guid>
+            <pubDate>Fri, 23 Sep 2022 14:14:06 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:48]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220923_152/1663940893718VVbA6_JPEG/1768164926579153917d329fd7-2856-4f6a-8eb8-6e79f7156d8f.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[금요일에 찾아온 금주의 브이앱]]></title>
+            <link>https://www.vlive.tv/video/291873</link>
+            <guid>https://www.vlive.tv/video/291873</guid>
+            <pubDate>Fri, 23 Sep 2022 13:27:20 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:01]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220923_228/16639417046634bHQG_JPEG/886f5e0d-3b47-11ed-999c-505dac8c3639_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오?!]]></title>
+            <link>https://www.vlive.tv/video/291877</link>
+            <guid>https://www.vlive.tv/video/291877</guid>
+            <pubDate>Fri, 23 Sep 2022 14:14:06 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:10]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220923_244/1663942240332e1Fzw_JPEG/17673063430632660685d5b79e-92a0-449c-a16e-a17695391b6f.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
