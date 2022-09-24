@@ -4,9 +4,17 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Sep 2022 17:48:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Sep 2022 18:54:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[호텔임둥 누굴까요?]]></title>
+            <link>https://www.vlive.tv/video/291912</link>
+            <guid>https://www.vlive.tv/video/291912</guid>
+            <pubDate>Sat, 24 Sep 2022 18:53:22 GMT</pubDate>
+            <content:encoded><![CDATA[MONSTA X]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220925_247/1664037997767MAgMs_JPEG/176826367722800024f3039de8-7e8b-4d57-a89a-de8ff35bc39f.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[220924 🐿 HAPPY GAEUL DAY 🐿]]></title>
             <link>https://www.vlive.tv/video/291886</link>
@@ -29,7 +37,7 @@
             <guid>https://www.vlive.tv/video/291907</guid>
             <pubDate>Sat, 24 Sep 2022 15:48:59 GMT</pubDate>
             <content:encoded><![CDATA[ITZY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220924_141/16640297067454aocE_JPEG/e3b7a8da-3c14-11ed-aa59-d4f5ef58ac88_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220924_141/16640297067454aocE_JPEG/e3b7a8da-3c14-11ed-aa59-d4f5ef58ac88_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Goodnight💋]]></title>
@@ -54,15 +62,6 @@
             <pubDate>Sat, 24 Sep 2022 11:43:33 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220924_240/1664011543593P21S0_JPEG/ad4576a9-3bea-11ed-a14d-505dac8c3607_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stray Kids(스트레이 키즈) <MAXIDENT> UNVEIL : TRACK 1 "SUPER
-BOARD"]]></title>
-            <link>https://www.vlive.tv/video/291774</link>
-            <guid>https://www.vlive.tv/video/291774</guid>
-            <pubDate>Sat, 24 Sep 2022 07:45:01 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220922_178/1663838536661dsd1N_JPEG/upload_10791822088094836146081e56-02ad-48f6-8d16-d0b78d101a3d.JPG?type=f228_128_wp" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
