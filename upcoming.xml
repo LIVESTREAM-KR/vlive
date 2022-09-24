@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Sep 2022 13:55:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Sep 2022 14:45:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -213,6 +213,7 @@
             <guid>https://www.vlive.tv/video/291905</guid>
             <pubDate>Sat, 24 Sep 2022 13:13:04 GMT</pubDate>
             <content:encoded><![CDATA[오후 12:54]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/291905/thumb?type=f228_128" length="0" type="image//live/291905/thumb"/>
         </item>
         <item>
             <title><![CDATA[불토 이 시간에 윤우 브이앱을 온다? 사랑해요🖤]]></title>
@@ -237,6 +238,38 @@
             <pubDate>Sat, 24 Sep 2022 13:13:04 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:10]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220924_63/1664019915303KpMT4_JPEG/1768955312958987245da5124f-55db-4c8a-985c-3cf80ff3c208.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미니 솔로 라이브방송☺]]></title>
+            <link>https://www.vlive.tv/video/291906</link>
+            <guid>https://www.vlive.tv/video/291906</guid>
+            <pubDate>Sat, 24 Sep 2022 14:44:55 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:07]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220924_110/166402845763969Jam_JPEG/1031849404925787000eb1fff1-1027-436f-b672-2e8080ca51da.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[채리니랑 소통하구 놀아요🌸🐰🫧🐥]]></title>
+            <link>https://www.vlive.tv/video/291908</link>
+            <guid>https://www.vlive.tv/video/291908</guid>
+            <pubDate>Sat, 24 Sep 2022 14:44:55 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:22]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220924_6/16640293254988elcB_JPEG/176904989427221117ddeeb60c-42b4-43f0-b004-c79a30f2ef67.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🖤#53(다시)]]></title>
+            <link>https://www.vlive.tv/video/291909</link>
+            <guid>https://www.vlive.tv/video/291909</guid>
+            <pubDate>Sat, 24 Sep 2022 14:44:55 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:27]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/291909/thumb?type=f228_128" length="0" type="image//live/291909/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[🖤#53]]></title>
+            <link>https://www.vlive.tv/video/291907</link>
+            <guid>https://www.vlive.tv/video/291907</guid>
+            <pubDate>Sat, 24 Sep 2022 14:44:55 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:28]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220924_141/16640297067454aocE_JPEG/e3b7a8da-3c14-11ed-aa59-d4f5ef58ac88_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
