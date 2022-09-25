@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Sep 2022 08:52:41 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Sep 2022 09:48:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Sun, 25 Sep 2022 03:21:08 GMT</pubDate>
             <content:encoded><![CDATA[오전 3:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220925_115/1664070777327SeCiK_JPEG/upload_803398981043784921adb3ecc-3353-46a4-8c31-87dacc8fcdd2.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[찬이의 “방” 🐺 Ep. 176]]></title>
-            <link>https://www.vlive.tv/video/291920</link>
-            <guid>https://www.vlive.tv/video/291920</guid>
-            <pubDate>Sun, 25 Sep 2022 08:52:16 GMT</pubDate>
-            <content:encoded><![CDATA[오전 8:01]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/291920/thumb?type=f228_128" length="0" type="image//live/291920/thumb"/>
         </item>
         <item>
             <title><![CDATA[[김선호] 평생 간직하고 싶은 순간 ⎮ #터칭더보이드 마지막 공연 소감💙]]></title>
@@ -54,6 +46,30 @@
             <pubDate>Sun, 25 Sep 2022 03:21:08 GMT</pubDate>
             <content:encoded><![CDATA[오전 9:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220924_235/1664018033993q1zez_JPEG/upload_108097764062716066b0f3d113-2df7-4010-ae9c-999f41e7a3f8.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안녕하세요 볼륨업입니다]]></title>
+            <link>https://www.vlive.tv/video/291922</link>
+            <guid>https://www.vlive.tv/video/291922</guid>
+            <pubDate>Sun, 25 Sep 2022 09:47:51 GMT</pubDate>
+            <content:encoded><![CDATA[오전 9:26]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220925_86/1664097974454EtJdX_JPEG/dbfe6c39-3cb3-11ed-aee9-505dac8c38f5_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찬이의 “방” 🐺 Ep. 176]]></title>
+            <link>https://www.vlive.tv/video/291920</link>
+            <guid>https://www.vlive.tv/video/291920</guid>
+            <pubDate>Sun, 25 Sep 2022 08:52:16 GMT</pubDate>
+            <content:encoded><![CDATA[오전 9:31]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220925_130/1664098283152X5rY2_JPEG/253ae59b-3cb4-11ed-8613-505dacfba98a_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE] 저녁은 먹었어요?]]></title>
+            <link>https://www.vlive.tv/video/291923</link>
+            <guid>https://www.vlive.tv/video/291923</guid>
+            <pubDate>Sun, 25 Sep 2022 09:47:51 GMT</pubDate>
+            <content:encoded><![CDATA[오전 9:41]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220925_113/1664098906991KK9xS_JPEG/1b0ee9e7-3cb6-11ed-999c-505dac8c3639_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
