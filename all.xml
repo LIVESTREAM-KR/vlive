@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Sep 2022 13:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Sep 2022 13:55:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20220925_247/1664037997767MAgMs_JPEG/176826367722800024f3039de8-7e8b-4d57-a89a-de8ff35bc39f.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[220924 🐿 HAPPY GAEUL DAY 🐿 (V LIVE ─ CHARTS)]]></title>
-            <link>https://www.vlive.tv/video/291886</link>
-            <guid>https://www.vlive.tv/video/291886</guid>
-            <pubDate>Sun, 25 Sep 2022 06:55:51 GMT</pubDate>
-            <content:encoded><![CDATA[IVE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220924_33/1663984803918i3Kr0_JPEG/upload_108063981007211963440a43ed-157a-457b-ac3d-780f4a912313.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[🖤#53 (V LIVE ─ CHARTS)]]></title>
             <link>https://www.vlive.tv/video/291907</link>
             <guid>https://www.vlive.tv/video/291907</guid>
             <pubDate>Sun, 25 Sep 2022 06:55:51 GMT</pubDate>
             <content:encoded><![CDATA[ITZY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220924_141/16640297067454aocE_JPEG/e3b7a8da-3c14-11ed-aa59-d4f5ef58ac88_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220924_141/16640297067454aocE_JPEG/e3b7a8da-3c14-11ed-aa59-d4f5ef58ac88_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Goodnight💋 (V LIVE ─ CHARTS)]]></title>
@@ -62,6 +54,14 @@
             <pubDate>Sun, 25 Sep 2022 06:55:51 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220824_277/1661325776060GNHYn_JPEG/upload_105405488087786008317d78ca-7903-4ba4-975b-e9e5827f79fe.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리노리방😺안녕나는이리노 (V LIVE ─ CHARTS)]]></title>
+            <link>https://www.vlive.tv/video/291898</link>
+            <guid>https://www.vlive.tv/video/291898</guid>
+            <pubDate>Sun, 25 Sep 2022 13:54:31 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220924_240/1664011543593P21S0_JPEG/ad4576a9-3bea-11ed-a14d-505dac8c3607_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[WE:Log] WEi CAM l 요코하마🎡 l 편의점 쇼핑🏪 l 쇼핑🛒 l 룸서비스🍽 (V LIVE ─ 일정표)]]></title>
@@ -174,6 +174,22 @@
             <pubDate>Sun, 25 Sep 2022 13:12:50 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:03]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220925_117/1664110280749EIHiX_JPEG/17689868137858658389684bcc-5cb4-4b4a-90be-7c743f1448f8.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아룡😝 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/291932</link>
+            <guid>https://www.vlive.tv/video/291932</guid>
+            <pubDate>Sun, 25 Sep 2022 13:54:50 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:29]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220925_42/1664111766789BJb9V_JPEG/176987296774257012be9689be-93f8-439e-98bd-aa8e0fbe7c8d.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신원군 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/291933</link>
+            <guid>https://www.vlive.tv/video/291933</guid>
+            <pubDate>Sun, 25 Sep 2022 13:54:50 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:38]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/291933/thumb?type=f228_128" length="0" type="image//live/291933/thumb"/>
         </item>
     </channel>
 </rss>
