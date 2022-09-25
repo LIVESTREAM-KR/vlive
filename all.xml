@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Sep 2022 10:49:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Sep 2022 11:44:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,14 +40,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220924_141/16640297067454aocE_JPEG/e3b7a8da-3c14-11ed-aa59-d4f5ef58ac88_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 2 (V LIVE ─ CHARTS)]]></title>
-            <link>https://www.vlive.tv/video/289928</link>
-            <guid>https://www.vlive.tv/video/289928</guid>
-            <pubDate>Sun, 25 Sep 2022 06:55:51 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220824_277/1661325776060GNHYn_JPEG/upload_105405488087786008317d78ca-7903-4ba4-975b-e9e5827f79fe.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Goodnight💋 (V LIVE ─ CHARTS)]]></title>
             <link>https://www.vlive.tv/video/291910</link>
             <guid>https://www.vlive.tv/video/291910</guid>
@@ -62,6 +54,14 @@
             <pubDate>Sun, 25 Sep 2022 06:55:51 GMT</pubDate>
             <content:encoded><![CDATA[ITZY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220925_197/16640317007791GsYh_JPEG/5c522714-3c19-11ed-9f1e-d4f5ef5a9532_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 2 (V LIVE ─ CHARTS)]]></title>
+            <link>https://www.vlive.tv/video/289928</link>
+            <guid>https://www.vlive.tv/video/289928</guid>
+            <pubDate>Sun, 25 Sep 2022 06:55:51 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220824_277/1661325776060GNHYn_JPEG/upload_105405488087786008317d78ca-7903-4ba4-975b-e9e5827f79fe.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[WE:Log] WEi CAM l 요코하마🎡 l 편의점 쇼핑🏪 l 쇼핑🛒 l 룸서비스🍽 (V LIVE ─ 일정표)]]></title>
@@ -128,11 +128,19 @@
             <enclosure url="https://v-phinf.pstatic.net/20220925_113/1664098906991KK9xS_JPEG/1b0ee9e7-3cb6-11ed-999c-505dac8c3639_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[막빵😭 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/291925</link>
+            <guid>https://www.vlive.tv/video/291925</guid>
+            <pubDate>Sun, 25 Sep 2022 11:43:59 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:02]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220925_102/1664103735918fEoeK_JPEG/2240a5c9-3cc1-11ed-aee9-505dac8c38f5_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Vteven 🔥#19 (V LIVE ─ 일정표)]]></title>
             <link>https://www.vlive.tv/video/291924</link>
             <guid>https://www.vlive.tv/video/291924</guid>
             <pubDate>Sun, 25 Sep 2022 10:48:36 GMT</pubDate>
-            <content:encoded><![CDATA[오전 10:03]]></content:encoded>
+            <content:encoded><![CDATA[오전 11:05]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220925_97/1664100184246w00hy_JPEG/1769757132329700366990ca28-d232-4fed-b73e-91f384aacb72.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
