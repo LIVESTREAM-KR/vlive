@@ -1,8 +1,411 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.vlive.tv/home/video/more?pageNo=1&amp;pageSize=50&amp;viewType=recent&amp;lang=ko</id>
-    <title>V LIVE ─ NEW</title>
-    <updated>2022-09-26T17:07:46.490Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.vlive.tv/home/video/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>V LIVE ─ NEW</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 26 Sep 2022 17:58:25 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[!!]]></title>
+            <link>https://www.vlive.tv/video/292045</link>
+            <guid>https://www.vlive.tv/video/292045</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[CRAXY]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220927_150/1664209892921bsnrr_JPEG/67536aa6-3db8-11ed-b07a-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새수!!!! (새벽수안😚😚]]></title>
+            <link>https://www.vlive.tv/video/292043</link>
+            <guid>https://www.vlive.tv/video/292043</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[CRAXY]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220927_13/1664209758067yyLHY_JPEG/e0d4fc19-3db6-11ed-bf94-d4f5ef590144_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AB6IX (에이비식스) 'Sugarcoat' M/V TEASER #1]]></title>
+            <link>https://www.vlive.tv/video/292042</link>
+            <guid>https://www.vlive.tv/video/292042</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[AB6IX]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_188/1664202200846j5FPe_JPEG/upload_108281908798616398ab20df1b-eb6d-4893-bbc9-1fb6fd0f993d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[😏]]></title>
+            <link>https://www.vlive.tv/video/292041</link>
+            <guid>https://www.vlive.tv/video/292041</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_229/1664201458603s09hV_JPEG/176989850036568703c7c2f0c2-699e-47df-a819-153aef0c882f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠깐 !]]></title>
+            <link>https://www.vlive.tv/video/292040</link>
+            <guid>https://www.vlive.tv/video/292040</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[유주 (YUJU)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_88/1664201038900RTgGr_JPEG/004b5036-3da4-11ed-8bc9-d4f5ef5906a4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가나다라마바사]]></title>
+            <link>https://www.vlive.tv/video/292031</link>
+            <guid>https://www.vlive.tv/video/292031</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[루미너스 (LUMINOUS)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_298/1664199076497BSYqH_JPEG/d755ba46-3d9e-11ed-8892-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[월요일 좋아~🥰]]></title>
+            <link>https://www.vlive.tv/video/292035</link>
+            <guid>https://www.vlive.tv/video/292035</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_205/1664199029181n2s0w_JPEG/1e69add6-3d9f-11ed-814e-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[누구게💓 나랑 얘기 할 사람🫧]]></title>
+            <link>https://www.vlive.tv/video/292030</link>
+            <guid>https://www.vlive.tv/video/292030</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[IRRIS (아이리스)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_55/1664193607697tCLuO_JPEG/177069136655808447ca9de23c-ad30-4973-b41f-235c80ca290b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이제훈·정우성 '여유가 넘치는 미소' #정우성 #이제훈 #jungwoosung #leejehoon #인생은아름다워]]></title>
+            <link>https://www.vlive.tv/video/292037</link>
+            <guid>https://www.vlive.tv/video/292037</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[mydaily]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_43/1664198529265IVGjF_JPEG/upload_108278246781696657edc5c9d6-0817-488d-99b6-6ce356cc847d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DKZ 재찬-더보이즈 영훈·현재 '등장만으로 극장이 들썩~' #동키즈 #DKZ #재찬 #THEBOYZ #영훈 #현재 #더보이즈 #인생은아름다워]]></title>
+            <link>https://www.vlive.tv/video/292036</link>
+            <guid>https://www.vlive.tv/video/292036</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[mydaily]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_216/1664198520829R3Amz_JPEG/upload_108278237174814858b0c7c1e3-09d1-4c44-8a7c-4a6262ed4401.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전소민·설인아·신예은·청하 '인생은 아름다워 파이팅!' #전소민 #설인아 #신예은 #청하 #인생은아름다어 #jeonsomin #seolinah #shinyeeun #chungha]]></title>
+            <link>https://www.vlive.tv/video/292038</link>
+            <guid>https://www.vlive.tv/video/292038</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[mydaily]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_229/1664198536405mEAnY_JPEG/upload_804681131073671122c239c48-cb05-47e6-8632-a0defd4e627f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠깐 라이브!!]]></title>
+            <link>https://www.vlive.tv/video/292028</link>
+            <guid>https://www.vlive.tv/video/292028</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[디크런치 (D_CRUNCH)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_55/1664197675210qfItD_JPEG/7b6dc54f-3d9b-11ed-8bc9-d4f5ef5906a4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Radio'n Us / MINDU 마인드유)]]></title>
+            <link>https://www.vlive.tv/video/291926</link>
+            <guid>https://www.vlive.tv/video/291926</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220925_5/1664104287384RPu6P_JPEG/upload_108183973049788730a16902b0-5495-4b50-af50-2fbc50993d1a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(여자)아이들((G)I-DLE) - I-LOG #11 HAPPY DAY IN BANGKOK 🥰]]></title>
+            <link>https://www.vlive.tv/video/291967</link>
+            <guid>https://www.vlive.tv/video/291967</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_291/1664166211638HgPqD_JPEG/upload_108245927266685612d1eb9349-7781-47fb-a1d1-3cd98b13e825.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안녕😘]]></title>
+            <link>https://www.vlive.tv/video/292029</link>
+            <guid>https://www.vlive.tv/video/292029</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_80/1664197454979SP7Jr_JPEG/upload_804670592929965255a7dbc2a-b207-4ede-a695-3799c2aa6d7d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Happy birthday to me 🎂]]></title>
+            <link>https://www.vlive.tv/video/292033</link>
+            <guid>https://www.vlive.tv/video/292033</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[IN2IT 인투잇]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_203/16641948218043XiRv_JPEG/177070358761800595e695d879-24a1-46f6-9ab8-6941ce427606.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Special Clip] MONSTA X 몬스타엑스 - MONBEBE 7th Anniversary Message]]></title>
+            <link>https://www.vlive.tv/video/291968</link>
+            <guid>https://www.vlive.tv/video/291968</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[MONSTA X]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_128/1664166440394Xp22E_JPEG/upload_804360381364763538f60d5ba-53d4-4d8d-a616-1e9b1d57bee4.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Happy birthday to me 🎂]]></title>
+            <link>https://www.vlive.tv/video/292032</link>
+            <guid>https://www.vlive.tv/video/292032</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[IN2IT 인투잇]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_178/16641941027355CGAK_JPEG/8549054272033251c6929ce7-a4aa-4fe2-8503-69384a9ac908.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나랑 같이 쉬자🐹💛]]></title>
+            <link>https://www.vlive.tv/video/292027</link>
+            <guid>https://www.vlive.tv/video/292027</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[E'LAST]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_248/1664194893561erm60_JPEG/0fedfe57-3d95-11ed-8bc9-d4f5ef5906a4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LET'S DRIPPIN] EP.12 화려한 혹캉스 #2 | 물만 맞다 끝나는 물놀이 토론 시간🔫💦]]></title>
+            <link>https://www.vlive.tv/video/292015</link>
+            <guid>https://www.vlive.tv/video/292015</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[DRIPPIN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_199/1664179702237YcmBj_PNG/upload_1082594043656492369ab163ce-1c79-437e-a2af-8af889548aca.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Vteven 🔥#20]]></title>
+            <link>https://www.vlive.tv/video/292019</link>
+            <guid>https://www.vlive.tv/video/292019</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[루미너스 (LUMINOUS)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_50/1664185595660O0cyb_JPEG/176973906618228325715a7895-9c8d-45e5-95d1-5c3074c43eb3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[휘서의 흥미로운 취미생활🦭]]></title>
+            <link>https://www.vlive.tv/video/292022</link>
+            <guid>https://www.vlive.tv/video/292022</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[H1-KEY]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_106/1664191188454QvBzy_JPEG/66032015-3d8c-11ed-a7c3-d4f5ef58ad5e_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[와 여러분 안녕하세요 즐거운 월요일 보내고 계신가요? 아 저는 캐슬제이입니다🦊]]></title>
+            <link>https://www.vlive.tv/video/292020</link>
+            <guid>https://www.vlive.tv/video/292020</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[MCND]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_286/1664185669683LVyYt_JPEG/176974043659507195265e5cc1-787d-47e8-b7ac-084a2cc640f6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[bugAboo(버가부) | boobooTV EP.37 TOKYO CONCERT BEHIND]]></title>
+            <link>https://www.vlive.tv/video/292026</link>
+            <guid>https://www.vlive.tv/video/292026</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[bugAboo]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_7/1664188594971rMoly_JPEG/upload_108268322055821974b8fa3bd4-62d1-419f-a539-3af5fb7fdf94.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Behind] 'ISAC' Dancesport Practice✨]]></title>
+            <link>https://www.vlive.tv/video/292009</link>
+            <guid>https://www.vlive.tv/video/292009</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[KWON EUN BI]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_294/166417834087373z4A_PNG/upload_1082580644977851484efd6455-6fff-42fc-90ac-7bdaccd1c1d8.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[ㅠㅠ]]></title>
+            <link>https://www.vlive.tv/video/292017</link>
+            <guid>https://www.vlive.tv/video/292017</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[온앤오프 (ONF)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_231/1664189885695chnTp_JPEG/99a38e4b-3d89-11ed-bbda-505dac8c37f3_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[월요일엔 승훈]]></title>
+            <link>https://www.vlive.tv/video/292023</link>
+            <guid>https://www.vlive.tv/video/292023</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[CIX]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_94/1664187332433nUGwy_JPEG/1770628494197434827de8902e-a23a-424f-9d2c-e4b32ca96c70.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리리❤️나유와 퇴근길 함께해요🎶]]></title>
+            <link>https://www.vlive.tv/video/291998</link>
+            <guid>https://www.vlive.tv/video/291998</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[ILY:1]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_11/1664176546789UgC1m_PNG/upload_1082561615683834205765ba25-87ce-4ca4-b75f-8732c7b8ed17.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[YOU! 우나?]]></title>
+            <link>https://www.vlive.tv/video/292018</link>
+            <guid>https://www.vlive.tv/video/292018</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[bugAboo]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_167/1664188380142xSvQD_JPEG/23587e94-3d85-11ed-b07a-48df37ae3fca_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Dreamcatcher's VLOG] 수아의 솨생활 : 북미 투어 2편]]></title>
+            <link>https://www.vlive.tv/video/291696</link>
+            <guid>https://www.vlive.tv/video/291696</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[DREAMCATCHER]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_257/1664180892601yYpMS_JPEG/upload_108260611430947624b5066e74-de2d-4802-a83f-6c34557d47eb.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새로운 요리 도전👨🏻‍🍳!]]></title>
+            <link>https://www.vlive.tv/video/292016</link>
+            <guid>https://www.vlive.tv/video/292016</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[온앤오프 (ONF)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_33/1664184837898BYrMs_JPEG/0291da86-3d7e-11ed-814e-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[살랑살랑🐿🦝]]></title>
+            <link>https://www.vlive.tv/video/292013</link>
+            <guid>https://www.vlive.tv/video/292013</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_13/1664184490659UhTnu_JPEG/7cac7789-3d7c-11ed-83d6-48df379cca40_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / Q6ix 큐빅스)]]></title>
+            <link>https://www.vlive.tv/video/291927</link>
+            <guid>https://www.vlive.tv/video/291927</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220925_236/1664104373296jo7JO_JPEG/upload_108184051692984330777d8146-928d-4b89-bbec-2dc8b31d0f4a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LA POEM 'The War' MV]]></title>
+            <link>https://www.vlive.tv/video/291969</link>
+            <guid>https://www.vlive.tv/video/291969</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[LAPOEM]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_248/1664184465658Iy7kn_JPEG/upload_8045406255757666924e5f646-e1dd-4173-a3b6-09c44a1abbb3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[치즈볶이🧀]]></title>
+            <link>https://www.vlive.tv/video/292002</link>
+            <guid>https://www.vlive.tv/video/292002</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[루미너스 (LUMINOUS)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_286/1664176641012l8D5S_JPEG/177052158963331445115cfc2f-8fcb-4fdb-b67d-04cea624d360.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🍬🍭🍫🍦🍰]]></title>
+            <link>https://www.vlive.tv/video/292011</link>
+            <guid>https://www.vlive.tv/video/292011</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[AB6IX]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_249/1664180785479MfaaH_JPEG/a59f622b-3d74-11ed-b41c-48df379cc9e4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE] Hi]]></title>
+            <link>https://www.vlive.tv/video/291989</link>
+            <guid>https://www.vlive.tv/video/291989</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[CRAVITY]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_286/1664180750606qu8iE_JPEG/1e6fa5c1-3d73-11ed-b41c-48df379cc9e4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙핑크(BLACKPINK) 로제 팬사인회 이벤트 | BLACKPINK ROSE FAN SIGNING EVENT]]></title>
+            <link>https://www.vlive.tv/video/292012</link>
+            <guid>https://www.vlive.tv/video/292012</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[TEN Asia (텐아시아)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_199/1664178565126dKFcN_PNG/upload_108258282470730460bb417bd7-091c-42f1-9202-06a94434d8e5.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[🍬🍭🍫🍦🍰]]></title>
+            <link>https://www.vlive.tv/video/292010</link>
+            <guid>https://www.vlive.tv/video/292010</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[AB6IX]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_137/166417852265429HrT_JPEG/9dbdf790-3d6f-11ed-8bc9-d4f5ef5906a4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[블랙핑크(BLACKPINK) 제니 팬사인회 이벤트 | BLACKPINK JENNIE FAN SIGNING EVENT]]></title>
+            <link>https://www.vlive.tv/video/292008</link>
+            <guid>https://www.vlive.tv/video/292008</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[TEN Asia (텐아시아)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_27/1664178140062yUiik_PNG/upload_804477428074240706c4760a1-8936-47ee-bbd0-9f79be4d59fb.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA["좋은 기억 남겨야죠" 데프트, 아직 이른 '라스트 댄스']]></title>
+            <link>https://www.vlive.tv/video/292007</link>
+            <guid>https://www.vlive.tv/video/292007</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[Ktimes]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_79/1664178027941Ff2yF_JPEG/upload_80447627933584396c05f30fb-445f-4f6e-9439-7a52267913bc.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 섀도우 앤 본 | 새로운 출연진 의상 공개]]></title>
+            <link>https://www.vlive.tv/video/292006</link>
+            <guid>https://www.vlive.tv/video/292006</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스 (Netflixkr)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_76/1664177293580c5kui_JPEG/upload_1082570119755669824068abc9-21e8-4591-a6d3-e13ea790b16c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 퍼스트 러브 하츠코이 | 슈퍼 티저 예고편]]></title>
+            <link>https://www.vlive.tv/video/292005</link>
+            <guid>https://www.vlive.tv/video/292005</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스 (Netflixkr)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_297/1664177259016QJMzi_JPEG/upload_1082569775059589342796102b-7abd-4994-98e9-6b7b4aa4bdf9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 마이코네 행복한 밥상 | 메이킹 영상: 논 크레딧 오프닝]]></title>
+            <link>https://www.vlive.tv/video/292003</link>
+            <guid>https://www.vlive.tv/video/292003</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스 (Netflixkr)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_277/1664176648198nirDE_JPEG/upload_80446251978189339f7d420cb-a899-431d-86d3-457a4079de26.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 구데타마: 엄마 찾아 뒹굴뒹굴 | 공식 예고편]]></title>
+            <link>https://www.vlive.tv/video/292001</link>
+            <guid>https://www.vlive.tv/video/292001</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스 (Netflixkr)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_27/1664176620585Yc8pu_JPEG/upload_1082563530078973591fe15111-1fdb-4d35-a972-c389826b7596.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 외모지상주의 | 공식 티저 예고편]]></title>
+            <link>https://www.vlive.tv/video/292000</link>
+            <guid>https://www.vlive.tv/video/292000</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스 (Netflixkr)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_73/1664176592384spQv7_JPEG/upload_1082563237870778199cc1dae0-76bd-4527-987b-cb0eddff193b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 디 익셉션 | 오프닝 / 음악: 사카모토 류이치]]></title>
+            <link>https://www.vlive.tv/video/291999</link>
+            <guid>https://www.vlive.tv/video/291999</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스 (Netflixkr)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_229/1664176560074WvP52_JPEG/upload_80446163394589183dbabaf96-d7df-4671-bf89-f95f6a33d187.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 《스루 마이 윈도: 우리 사이의 바다》 새로운 출연진 소개]]></title>
+            <link>https://www.vlive.tv/video/291996</link>
+            <guid>https://www.vlive.tv/video/291996</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스 (Netflixkr)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_94/1664176442088RsBtE_JPEG/upload_108256174098890285a1a2089f-aa41-4968-8717-81848027b3b1.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 문라이즈 | 공식 티저 예고편 #1]]></title>
+            <link>https://www.vlive.tv/video/291997</link>
+            <guid>https://www.vlive.tv/video/291997</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스 (Netflixkr)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_247/1664176498878YPBd9_JPEG/upload_80446101391452629ed59a33d-b689-4397-ac78-74477f299c51.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 아리스 인 보더랜드 시즌 2 | 슈퍼 티저 예고편]]></title>
+            <link>https://www.vlive.tv/video/291995</link>
+            <guid>https://www.vlive.tv/video/291995</guid>
+            <pubDate>Mon, 26 Sep 2022 17:57:01 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스 (Netflixkr)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220926_165/1664176413158GtW8R_JPEG/upload_108256131307133321dde0c12d-b02f-48b7-9e65-1124e73dffcc.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
