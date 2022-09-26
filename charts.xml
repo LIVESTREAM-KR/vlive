@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Sep 2022 03:31:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Sep 2022 05:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,14 +40,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220924_171/1664019816923JnINA_JPEG/upload_108099425420016427a5445846-a154-4ca2-b8ae-a3f3d69959ce.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[리노리방😺안녕나는이리노]]></title>
-            <link>https://www.vlive.tv/video/291898</link>
-            <guid>https://www.vlive.tv/video/291898</guid>
-            <pubDate>Sun, 25 Sep 2022 13:54:31 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220924_240/1664011543593P21S0_JPEG/ad4576a9-3bea-11ed-a14d-505dac8c3607_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[민성🎂]]></title>
             <link>https://www.vlive.tv/video/291934</link>
             <guid>https://www.vlive.tv/video/291934</guid>
@@ -62,6 +54,14 @@
             <pubDate>Mon, 26 Sep 2022 03:31:05 GMT</pubDate>
             <content:encoded><![CDATA[Kim Seon Ho (김선호)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220925_92/16640937037196u5fW_PNG/upload_803633017767562710cac1fda-5fe8-40bd-abfb-b8bbc43738ee.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[리노리방😺안녕나는이리노]]></title>
+            <link>https://www.vlive.tv/video/291898</link>
+            <guid>https://www.vlive.tv/video/291898</guid>
+            <pubDate>Sun, 25 Sep 2022 13:54:31 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220924_240/1664011543593P21S0_JPEG/ad4576a9-3bea-11ed-a14d-505dac8c3607_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
