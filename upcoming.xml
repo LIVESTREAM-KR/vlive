@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Sep 2022 10:53:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Sep 2022 11:47:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -232,28 +232,44 @@
             <enclosure url="https://v-phinf.pstatic.net/20220927_218/1664247966654KFv5e_JPEG/upload_1083274705725164745186b3a4-4417-43ab-b6ba-df721947a437.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Ciipher] 토크방🗣]]></title>
+            <link>https://www.vlive.tv/video/292078</link>
+            <guid>https://www.vlive.tv/video/292078</guid>
+            <pubDate>Tue, 27 Sep 2022 11:46:44 GMT</pubDate>
+            <content:encoded><![CDATA[오전 10:57]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220927_30/1664276258274aGprA_JPEG/f1a6b26e-3e51-11ed-8613-505dacfba98a_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[즐거운실험실]]></title>
+            <link>https://www.vlive.tv/video/292084</link>
+            <guid>https://www.vlive.tv/video/292084</guid>
+            <pubDate>Tue, 27 Sep 2022 11:46:44 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:02]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220927_139/1664276543318DGhLW_JPEG/177152207144938473a08d5b9e-017b-40da-9f0e-a8e69274888e.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아인이의 생일을 축하합니다🎂]]></title>
             <link>https://www.vlive.tv/video/292044</link>
             <guid>https://www.vlive.tv/video/292044</guid>
             <pubDate>Tue, 27 Sep 2022 03:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[오전 10:02]]></content:encoded>
+            <content:encoded><![CDATA[오전 11:03]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220927_129/1664206139538pSFY9_JPEG/upload_1082855286483592004cd0cfe2-7151-4be6-855d-b2b5c11b4a29.jpeg?type=f228_128" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[미리 해피 은기데이]]></title>
-            <link>https://www.vlive.tv/video/292082</link>
-            <guid>https://www.vlive.tv/video/292082</guid>
-            <pubDate>Tue, 27 Sep 2022 10:53:28 GMT</pubDate>
-            <content:encoded><![CDATA[오전 10:31]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220927_207/1664274683227kPvwD_JPEG/17706305720855620127273f70-db52-4dac-853a-f31cef92aef8.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나롱먹방]]></title>
             <link>https://www.vlive.tv/video/292083</link>
             <guid>https://www.vlive.tv/video/292083</guid>
             <pubDate>Tue, 27 Sep 2022 10:53:28 GMT</pubDate>
-            <content:encoded><![CDATA[오전 10:45]]></content:encoded>
+            <content:encoded><![CDATA[오전 11:35]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220927_235/1664275523451lj9X6_JPEG/1770639148897143528e349916-2366-4290-921f-29e25ea3f17d.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미리 해피 은기데이]]></title>
+            <link>https://www.vlive.tv/video/292082</link>
+            <guid>https://www.vlive.tv/video/292082</guid>
+            <pubDate>Tue, 27 Sep 2022 10:53:28 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:39]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220927_207/1664274683227kPvwD_JPEG/17706305720855620127273f70-db52-4dac-853a-f31cef92aef8.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
