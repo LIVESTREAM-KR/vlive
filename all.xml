@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Sep 2022 19:02:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Sep 2022 19:46:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,20 +40,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20220927_295/1664247116135jPoPa_JPEG/upload_108326833656293148a0968a36-69a4-4bce-9b89-4d86a7c89316.JPG?type=f228_128_wp" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[찬이의 “방” 🐺 Ep. 176 (V LIVE ─ CHARTS)]]></title>
-            <link>https://www.vlive.tv/video/291920</link>
-            <guid>https://www.vlive.tv/video/291920</guid>
-            <pubDate>Tue, 27 Sep 2022 19:02:17 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220925_107/1664102150690tewtV_JPEG/253ae59b-3cb4-11ed-8613-505dacfba98a_02.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[(루다)나랑놀쟈 (V LIVE ─ CHARTS)]]></title>
             <link>https://www.vlive.tv/video/292097</link>
             <guid>https://www.vlive.tv/video/292097</guid>
             <pubDate>Tue, 27 Sep 2022 15:54:49 GMT</pubDate>
             <content:encoded><![CDATA[우주소녀(WJSN)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220928_208/1664293918835GUnha_JPEG/1f37c9df-3e7c-11ed-aee9-505dac8c38f5_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찬이의 “방” 🐺 Ep. 176 (V LIVE ─ CHARTS)]]></title>
+            <link>https://www.vlive.tv/video/291920</link>
+            <guid>https://www.vlive.tv/video/291920</guid>
+            <pubDate>Tue, 27 Sep 2022 19:02:17 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220925_107/1664102150690tewtV_JPEG/253ae59b-3cb4-11ed-8613-505dacfba98a_02.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TREASURE - ‘THE SECOND STEP : CHAPTER TWO’ VISUAL FILM UNIT #1 (V LIVE ─ CHARTS)]]></title>
@@ -436,8 +436,8 @@
             <link>https://www.vlive.tv/video/292098</link>
             <guid>https://www.vlive.tv/video/292098</guid>
             <pubDate>Tue, 27 Sep 2022 19:02:35 GMT</pubDate>
-            <content:encoded><![CDATA[오후 6:32]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/292098/thumb?type=f228_128" length="0" type="image//live/292098/thumb"/>
+            <content:encoded><![CDATA[오후 7:04]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220928_93/1664305499295dgI8C_JPEG/1a845fa6-3e97-11ed-a57b-505dac8c385b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
