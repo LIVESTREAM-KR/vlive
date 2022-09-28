@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Sep 2022 06:37:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Sep 2022 07:58:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,14 +96,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220928_217/1664326301993HSX8d_PNG/upload_108406033447729076ba68e88a-e2c7-4a8e-a628-63669c56bafb.png?type=f228_128" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[Arirang Radio / Radio’ Clock] KoreaPedia with GHOST9 SON JUNHYUNG & PRINCE (고스트나인 준형&프린스)]]></title>
-            <link>https://www.vlive.tv/video/291848</link>
-            <guid>https://www.vlive.tv/video/291848</guid>
-            <pubDate>Wed, 28 Sep 2022 03:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[오전 5:55]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220923_169/1663916948911K0Rnw_JPEG/upload_801865338081744747ac9be8d-88ca-42d1-a2a0-856a629bc679.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[Arirang Radio/K-Poppin'] It's MZ TIME! with TRENDZ Ra.L & Eunil (트렌드지 라엘&은일)]]></title>
             <link>https://www.vlive.tv/video/291850</link>
             <guid>https://www.vlive.tv/video/291850</guid>
@@ -116,8 +108,24 @@
             <link>https://www.vlive.tv/video/291928</link>
             <guid>https://www.vlive.tv/video/291928</guid>
             <pubDate>Wed, 28 Sep 2022 03:22:11 GMT</pubDate>
-            <content:encoded><![CDATA[오전 7:00]]></content:encoded>
+            <content:encoded><![CDATA[오전 6:58]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220925_31/1664104544420PThn5_JPEG/upload_1081842112932124989715b16d-9b6a-474d-9254-238e5c63afa5.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Radio’ Clock] KoreaPedia with GHOST9 SON JUNHYUNG & PRINCE (고스트나인 준형&프린스)]]></title>
+            <link>https://www.vlive.tv/video/291848</link>
+            <guid>https://www.vlive.tv/video/291848</guid>
+            <pubDate>Wed, 28 Sep 2022 03:22:11 GMT</pubDate>
+            <content:encoded><![CDATA[오전 7:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220923_169/1663916948911K0Rnw_JPEG/upload_801865338081744747ac9be8d-88ca-42d1-a2a0-856a629bc679.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[선공개] 사랑꾼😍 하희라 부부와 사랑조작꾼(?) 도경완 부부의 사랑 넘치는 이야기💞!, MBC 220928 방송]]></title>
+            <link>https://www.vlive.tv/video/292120</link>
+            <guid>https://www.vlive.tv/video/292120</guid>
+            <pubDate>Wed, 28 Sep 2022 07:58:00 GMT</pubDate>
+            <content:encoded><![CDATA[오전 7:10]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220928_82/1664349015268WJDGk_JPEG/upload_108428732404052385b70f4e1e-4f2b-41ec-8de8-e798b3725964.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
