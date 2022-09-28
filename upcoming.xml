@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Sep 2022 13:31:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Sep 2022 14:21:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -264,14 +264,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220928_227/1664369922690ubxkL_JPEG/d7d7fadb-3f2c-11ed-a14d-505dac8c3607_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[은조의 조은밤🌝🎧#78]]></title>
-            <link>https://www.vlive.tv/video/292143</link>
-            <guid>https://www.vlive.tv/video/292143</guid>
-            <pubDate>Wed, 28 Sep 2022 13:31:07 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:09]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220928_141/1664370553806uDIq3_JPEG/10352703663952253936627bc6-d31f-4168-8803-452ac7759bab.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Talk 할 사람😃💕]]></title>
             <link>https://www.vlive.tv/video/292136</link>
             <guid>https://www.vlive.tv/video/292136</guid>
@@ -286,6 +278,22 @@
             <pubDate>Wed, 28 Sep 2022 13:31:07 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:28]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220928_53/1664371250338o2tv6_JPEG/15158620910291668d4affd91-acff-4a06-adae-cdcf8609a30d.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[심야 라디오🚨on-온🚨4]]></title>
+            <link>https://www.vlive.tv/video/292145</link>
+            <guid>https://www.vlive.tv/video/292145</guid>
+            <pubDate>Wed, 28 Sep 2022 14:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220928_191/1664373624286788tR_JPEG/177249223282434669b5a452cd-74b6-454b-8655-999fe64e430a.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[은조의 조은밤🌝🎧#78]]></title>
+            <link>https://www.vlive.tv/video/292143</link>
+            <guid>https://www.vlive.tv/video/292143</guid>
+            <pubDate>Wed, 28 Sep 2022 13:31:07 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:04]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220928_141/1664370553806uDIq3_JPEG/10352703663952253936627bc6-d31f-4168-8803-452ac7759bab.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
