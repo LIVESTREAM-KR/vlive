@@ -1,67 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>V LIVE ─ CHARTS</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 29 Sep 2022 22:50:45 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[월간 5️⃣☀️1️⃣ #4]]></title>
-            <link>https://www.vlive.tv/video/292199</link>
-            <guid>https://www.vlive.tv/video/292199</guid>
-            <pubDate>Thu, 29 Sep 2022 13:31:45 GMT</pubDate>
-            <content:encoded><![CDATA[NMIXX]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220929_204/1664450231631rFhBt_JPEG/e5ca5148-3fe7-11ed-999c-505dac8c3639_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stray Kids(스트레이 키즈) <MAXIDENT> UNVEIL : TRACK 3-1 "3RACHA (방찬, 창빈, 한)"]]></title>
-            <link>https://www.vlive.tv/video/292140</link>
-            <guid>https://www.vlive.tv/video/292140</guid>
-            <pubDate>Wed, 28 Sep 2022 17:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220928_10/1664369650933KvKwm_JPEG/upload_108449252294763640fd302208-ca81-4c90-ba48-04390535232b.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[💛🐥HAPPY YENA DAY🐥💛]]></title>
-            <link>https://www.vlive.tv/video/291769</link>
-            <guid>https://www.vlive.tv/video/291769</guid>
-            <pubDate>Thu, 29 Sep 2022 09:53:35 GMT</pubDate>
-            <content:encoded><![CDATA[YENA(최예나)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220922_285/1663833879891L5ePW_JPEG/upload_8010324249293470078a62359-a747-42fc-856d-45393ba1b9cb.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안녕😘]]></title>
-            <link>https://www.vlive.tv/video/292029</link>
-            <guid>https://www.vlive.tv/video/292029</guid>
-            <pubDate>Tue, 27 Sep 2022 19:02:17 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220926_80/1664197454979SP7Jr_JPEG/upload_804670592929965255a7dbc2a-b207-4ede-a695-3799c2aa6d7d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stray Kids(스트레이 키즈) <MAXIDENT> UNVEIL : TRACK 3-3 "나 너 좋아하나봐 (승민, 아이엔)"]]></title>
-            <link>https://www.vlive.tv/video/292142</link>
-            <guid>https://www.vlive.tv/video/292142</guid>
-            <pubDate>Wed, 28 Sep 2022 17:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220928_153/1664370079733oWUoj_JPEG/upload_10844975293470441549e97874-b7dd-4762-8044-cf579611f945.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stray Kids(스트레이 키즈) <MAXIDENT> UNVEIL : TRACK 3-2 "TASTE (리노, 현진, 필릭스)"]]></title>
-            <link>https://www.vlive.tv/video/292141</link>
-            <guid>https://www.vlive.tv/video/292141</guid>
-            <pubDate>Wed, 28 Sep 2022 17:19:57 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220928_248/1664369801314Ezdgg_JPEG/upload_108449499754879910426b255e-2fd8-4256-8155-6a33863595ee.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 2]]></title>
-            <link>https://www.vlive.tv/video/289928</link>
-            <guid>https://www.vlive.tv/video/289928</guid>
-            <pubDate>Tue, 27 Sep 2022 19:02:17 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220824_277/1661325776060GNHYn_JPEG/upload_105405488087786008317d78ca-7903-4ba4-975b-e9e5827f79fe.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.vlive.tv/home/chart/more?pageNo=1&amp;pageSize=50&amp;viewType=recent&amp;lang=ko</id>
+    <title>V LIVE ─ CHARTS</title>
+    <updated>2022-09-29T23:57:27.105Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.vlive.tv/home/chart/favicon.ico</icon>
+</feed>
