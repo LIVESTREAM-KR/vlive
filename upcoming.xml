@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Sep 2022 15:55:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Sep 2022 17:16:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,14 +280,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220929_92/1664456761611MEdru_JPEG/b6342a0e-3ff6-11ed-9f1e-d4f5ef5a9532_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[레이크 랑 놀쟈아아🥰]]></title>
-            <link>https://www.vlive.tv/video/292209</link>
-            <guid>https://www.vlive.tv/video/292209</guid>
-            <pubDate>Thu, 29 Sep 2022 13:32:05 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:28]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220929_234/1664458116121zzabj_JPEG/17724650582183245026b6842a-f2b2-4d98-b02e-9c10924f5ed4.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[안 자는 사람🙌🏻]]></title>
             <link>https://www.vlive.tv/video/292211</link>
             <guid>https://www.vlive.tv/video/292211</guid>
@@ -310,14 +302,6 @@
             <pubDate>Thu, 29 Sep 2022 13:32:05 GMT</pubDate>
             <content:encoded><![CDATA[오후 2:05]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220929_250/166446030803930LXB_JPEG/5c10abdc-3fff-11ed-8d11-48df379ccacc_03.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리맏즈 🐰🐧]]></title>
-            <link>https://www.vlive.tv/video/292213</link>
-            <guid>https://www.vlive.tv/video/292213</guid>
-            <pubDate>Thu, 29 Sep 2022 14:53:49 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:17]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/292213/thumb?type=f228_128" length="0" type="image//live/292213/thumb"/>
         </item>
         <item>
             <title><![CDATA[오랜만에 진이랑 헤즈랑]]></title>
@@ -374,6 +358,22 @@
             <pubDate>Thu, 29 Sep 2022 15:54:56 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:03]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220930_261/16644643029368mMVC_JPEG/upload_807257788428681554130fe6a-38e6-48e4-9f1d-4248f52b7bf3.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리맏즈 🐰🐧]]></title>
+            <link>https://www.vlive.tv/video/292213</link>
+            <guid>https://www.vlive.tv/video/292213</guid>
+            <pubDate>Thu, 29 Sep 2022 14:53:49 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:13]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220930_71/1664468005896j2DBh_JPEG/d4105df6-4010-11ed-b6e8-48df37ae3dc4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레이크 랑 놀쟈아아🥰]]></title>
+            <link>https://www.vlive.tv/video/292209</link>
+            <guid>https://www.vlive.tv/video/292209</guid>
+            <pubDate>Thu, 29 Sep 2022 13:32:05 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:10]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220929_234/1664458116121zzabj_JPEG/17724650582183245026b6842a-f2b2-4d98-b02e-9c10924f5ed4.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
