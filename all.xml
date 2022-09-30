@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Sep 2022 13:34:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Sep 2022 14:59:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -382,6 +382,22 @@
             <pubDate>Fri, 30 Sep 2022 11:46:13 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:08]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220930_251/1664535301938vVLID_JPEG/upload_808048809537849131bd96be0-a409-42b2-b358-3291a611d164.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[진호 - MAGAZINE HO #49 '한번 더 이별 / 성시경' (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/292186</link>
+            <guid>https://www.vlive.tv/video/292186</guid>
+            <pubDate>Fri, 30 Sep 2022 14:59:01 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220929_17/1664437681820N9NwU_JPEG/upload_80707284075281230792a88be-13ba-4078-90b5-3b394d609251.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피하지마 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/292263</link>
+            <guid>https://www.vlive.tv/video/292263</guid>
+            <pubDate>Fri, 30 Sep 2022 14:59:01 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:15]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220930_102/1664547302298CY2f9_JPEG/0ffc55c6-40ca-11ed-bf94-d4f5ef590144_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
