@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Sep 2022 09:06:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Sep 2022 09:55:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -166,6 +166,14 @@
             <pubDate>Fri, 30 Sep 2022 03:43:49 GMT</pubDate>
             <content:encoded><![CDATA[오전 9:04]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220926_299/1664150456916WsDoL_JPEG/upload_804200476521634813e1f05a5-3303-49ae-9624-3874394973a0.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레이니 공주✨👸🏼]]></title>
+            <link>https://www.vlive.tv/video/292242</link>
+            <guid>https://www.vlive.tv/video/292242</guid>
+            <pubDate>Fri, 30 Sep 2022 09:55:07 GMT</pubDate>
+            <content:encoded><![CDATA[오전 9:16]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/292242/thumb?type=f228_128" length="0" type="image//live/292242/thumb"/>
         </item>
     </channel>
 </rss>
