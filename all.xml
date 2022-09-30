@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Sep 2022 14:59:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Sep 2022 15:57:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,14 +368,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220930_257/1664539060908VOcKt_JPEG/upload_80808664519562162a5acb43e-0095-4a57-8877-8b7c1b64ee00.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[9월의 끝💌 (V LIVE ─ 일정표)]]></title>
-            <link>https://www.vlive.tv/video/292260</link>
-            <guid>https://www.vlive.tv/video/292260</guid>
-            <pubDate>Fri, 30 Sep 2022 13:34:16 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:01]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220930_101/1664542903776t7zpW_JPEG/177331277774107209bc2decc2-c41f-47c5-ad80-77cb00741759.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Arirang Radio (Radio'n Us / Sae Bom Oh 오새봄) (V LIVE ─ 일정표)]]></title>
             <link>https://www.vlive.tv/video/292249</link>
             <guid>https://www.vlive.tv/video/292249</guid>
@@ -398,6 +390,37 @@
             <pubDate>Fri, 30 Sep 2022 14:59:01 GMT</pubDate>
             <content:encoded><![CDATA[오후 2:15]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220930_102/1664547302298CY2f9_JPEG/0ffc55c6-40ca-11ed-bf94-d4f5ef590144_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[마마무] MOON BYUL 'MIC ON' (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/292261</link>
+            <guid>https://www.vlive.tv/video/292261</guid>
+            <pubDate>Fri, 30 Sep 2022 15:56:40 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220930_192/1664543079343IIhAl_JPEG/upload_108622778105453421b4fb8944-61fe-4a9d-af99-82edd6e3dffd.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[금요일 ,,토요일밤🤭 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/292266</link>
+            <guid>https://www.vlive.tv/video/292266</guid>
+            <pubDate>Fri, 30 Sep 2022 15:56:40 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:12]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221001_245/16645507334923NxAp_JPEG/177426270481562110855fe590-8a44-4d71-8466-1ddf0fb3dbe3.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자기 전 짧게~🌙 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/292267</link>
+            <guid>https://www.vlive.tv/video/292267</guid>
+            <pubDate>Fri, 30 Sep 2022 15:56:40 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:22]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[9월의 끝💌 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/292260</link>
+            <guid>https://www.vlive.tv/video/292260</guid>
+            <pubDate>Fri, 30 Sep 2022 13:34:16 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:38]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220930_101/1664542903776t7zpW_JPEG/177331277774107209bc2decc2-c41f-47c5-ad80-77cb00741759.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
