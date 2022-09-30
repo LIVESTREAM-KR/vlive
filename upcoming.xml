@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Sep 2022 15:57:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Sep 2022 17:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -344,27 +344,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20220930_192/1664543079343IIhAl_JPEG/upload_108622778105453421b4fb8944-61fe-4a9d-af99-82edd6e3dffd.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[금요일 ,,토요일밤🤭]]></title>
-            <link>https://www.vlive.tv/video/292266</link>
-            <guid>https://www.vlive.tv/video/292266</guid>
-            <pubDate>Fri, 30 Sep 2022 15:56:40 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:12]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221001_245/16645507334923NxAp_JPEG/177426270481562110855fe590-8a44-4d71-8466-1ddf0fb3dbe3.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자기 전 짧게~🌙]]></title>
-            <link>https://www.vlive.tv/video/292267</link>
-            <guid>https://www.vlive.tv/video/292267</guid>
-            <pubDate>Fri, 30 Sep 2022 15:56:40 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:22]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[9월의 끝💌]]></title>
             <link>https://www.vlive.tv/video/292260</link>
             <guid>https://www.vlive.tv/video/292260</guid>
             <pubDate>Fri, 30 Sep 2022 13:34:16 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:38]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220930_101/1664542903776t7zpW_JPEG/177331277774107209bc2decc2-c41f-47c5-ad80-77cb00741759.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자기 전 짧게~🌙]]></title>
+            <link>https://www.vlive.tv/video/292267</link>
+            <guid>https://www.vlive.tv/video/292267</guid>
+            <pubDate>Fri, 30 Sep 2022 15:56:40 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:03]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221001_2/1664553831553SfnKC_JPEG/e05a219d-40d8-11ed-a14d-505dac8c3607_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[금요일 ,,토요일밤🤭]]></title>
+            <link>https://www.vlive.tv/video/292266</link>
+            <guid>https://www.vlive.tv/video/292266</guid>
+            <pubDate>Fri, 30 Sep 2022 15:56:40 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:13]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221001_245/16645507334923NxAp_JPEG/177426270481562110855fe590-8a44-4d71-8466-1ddf0fb3dbe3.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
