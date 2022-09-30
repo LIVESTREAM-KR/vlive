@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Sep 2022 05:56:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Sep 2022 07:23:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,20 +88,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20220930_148/16645167762505sWFW_JPEG/upload_80786377960024045f7a41015-f74d-415b-a354-25239fb36673.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[Arirang Radio / Radio’ Clock] INSSA Party with prettylittleiris & BOiTELLO아이리스&보이텔로]]></title>
-            <link>https://www.vlive.tv/video/291849</link>
-            <guid>https://www.vlive.tv/video/291849</guid>
-            <pubDate>Fri, 30 Sep 2022 03:43:49 GMT</pubDate>
-            <content:encoded><![CDATA[오전 5:55]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220923_228/1663916991379scQ0R_JPEG/upload_10799670089972129522b80944-3b03-4f55-9c29-85396065795c.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[Arirang Radio / Super K-Pop] Music Dive with Yuni Lim]]></title>
             <link>https://www.vlive.tv/video/291943</link>
             <guid>https://www.vlive.tv/video/291943</guid>
             <pubDate>Fri, 30 Sep 2022 03:43:49 GMT</pubDate>
-            <content:encoded><![CDATA[오전 7:00]]></content:encoded>
+            <content:encoded><![CDATA[오전 6:55]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220926_299/1664150456916WsDoL_JPEG/upload_804200476521634813e1f05a5-3303-49ae-9624-3874394973a0.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Radio’ Clock] INSSA Party with prettylittleiris & BOiTELLO아이리스&보이텔로]]></title>
+            <link>https://www.vlive.tv/video/291849</link>
+            <guid>https://www.vlive.tv/video/291849</guid>
+            <pubDate>Fri, 30 Sep 2022 03:43:49 GMT</pubDate>
+            <content:encoded><![CDATA[오전 7:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220923_228/1663916991379scQ0R_JPEG/upload_10799670089972129522b80944-3b03-4f55-9c29-85396065795c.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[키키키 뎨헤헷]]></title>
+            <link>https://www.vlive.tv/video/292238</link>
+            <guid>https://www.vlive.tv/video/292238</guid>
+            <pubDate>Fri, 30 Sep 2022 07:23:02 GMT</pubDate>
+            <content:encoded><![CDATA[오전 7:18]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220930_176/1664522307979tJyxL_JPEG/17731068193566014408f0486f-0e83-410c-9034-3a3179f432f2.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
