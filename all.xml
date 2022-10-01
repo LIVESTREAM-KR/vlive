@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Oct 2022 14:02:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Oct 2022 14:48:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,14 +192,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221001_147/1664630709076YfomS_JPEG/f8281781-418b-11ed-a14d-505dac8c3607_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[띠링 띠링~~데이의 고민상담소 :)☕️☕️ (V LIVE ─ 일정표)]]></title>
-            <link>https://www.vlive.tv/video/292284</link>
-            <guid>https://www.vlive.tv/video/292284</guid>
-            <pubDate>Sat, 01 Oct 2022 14:01:55 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:34]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/292284/thumb?type=f228_128" length="0" type="image//live/292284/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[What's up Bangkok + 300일 축하 (V LIVE ─ 일정표)]]></title>
             <link>https://www.vlive.tv/video/292283</link>
             <guid>https://www.vlive.tv/video/292283</guid>
@@ -214,6 +206,22 @@
             <pubDate>Sat, 01 Oct 2022 14:01:55 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:52]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221001_284/16646323320435lvCe_JPEG/177420702032628976eb12f426-7158-43a5-9886-b5a73660d642.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어서와이요 비즈~ (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/292288</link>
+            <guid>https://www.vlive.tv/video/292288</guid>
+            <pubDate>Sat, 01 Oct 2022 14:47:36 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:07]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221001_258/1664633278340Pvzyy_JPEG/58251054575541533159edf07-c40e-466e-a958-c83654b1f034.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[띠링 띠링~~데이의 고민상담소 :)☕️☕️ (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/292284</link>
+            <guid>https://www.vlive.tv/video/292284</guid>
+            <pubDate>Sat, 01 Oct 2022 14:01:55 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:34]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221001_169/1664634898819i4HLi_JPEG/782f1fcc-4195-11ed-b25c-505dacfbaa5c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
