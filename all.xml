@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Oct 2022 07:49:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Oct 2022 08:57:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,6 +102,22 @@
             <pubDate>Sat, 01 Oct 2022 05:48:28 GMT</pubDate>
             <content:encoded><![CDATA[오전 6:12]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221001_203/16646023809021wWb4_JPEG/177390781536829091e45bc63d-5eb4-4fd5-bb91-16126703fabc.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리노리방😺교복리노 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/292273</link>
+            <guid>https://www.vlive.tv/video/292273</guid>
+            <pubDate>Sat, 01 Oct 2022 08:57:08 GMT</pubDate>
+            <content:encoded><![CDATA[오전 8:37]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221001_102/16646134641773r93s_JPEG/049ee29b-4164-11ed-b25c-505dacfbaa5c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잉크콘서트 전 승훈이 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/292274</link>
+            <guid>https://www.vlive.tv/video/292274</guid>
+            <pubDate>Sat, 01 Oct 2022 08:57:08 GMT</pubDate>
+            <content:encoded><![CDATA[오전 8:52]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221001_201/1664613254382Ket53_JPEG/17748891837872939565ebea7e-ded2-467c-b156-072aa32ba27a.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
