@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Oct 2022 09:51:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Oct 2022 10:50:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,6 +134,22 @@
             <pubDate>Sat, 01 Oct 2022 09:50:55 GMT</pubDate>
             <content:encoded><![CDATA[오전 9:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220929_294/1664431672534kJBvO_JPEG/upload_108511382746287695675877d4-4ee6-4767-bc62-5be4e2680478.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[오늘의 구름은] EP.4 오직 영원할 우리만 빛나 (Only we who will be forever shine) (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/292229</link>
+            <guid>https://www.vlive.tv/video/292229</guid>
+            <pubDate>Sat, 01 Oct 2022 10:50:34 GMT</pubDate>
+            <content:encoded><![CDATA[오전 10:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220930_14/1664508680426ztWJr_JPEG/upload_10858841112640912042890289-4580-46b0-b3d8-b8c533f32e2f.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠깐 멈춰봐 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/292278</link>
+            <guid>https://www.vlive.tv/video/292278</guid>
+            <pubDate>Sat, 01 Oct 2022 10:50:34 GMT</pubDate>
+            <content:encoded><![CDATA[오전 10:38]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/292278/thumb?type=f228_128" length="0" type="image//live/292278/thumb"/>
         </item>
     </channel>
 </rss>
