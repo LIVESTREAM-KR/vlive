@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Oct 2022 11:45:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Oct 2022 13:23:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,20 +88,52 @@
             <enclosure url="https://v-phinf.pstatic.net/20220930_14/1664508680426ztWJr_JPEG/upload_10858841112640912042890289-4580-46b0-b3d8-b8c533f32e2f.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[잠깐 멈춰봐]]></title>
-            <link>https://www.vlive.tv/video/292278</link>
-            <guid>https://www.vlive.tv/video/292278</guid>
-            <pubDate>Sat, 01 Oct 2022 10:50:34 GMT</pubDate>
-            <content:encoded><![CDATA[오전 10:38]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/292278/thumb?type=f228_128" length="0" type="image//live/292278/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[화찬한 날씨☀️]]></title>
             <link>https://www.vlive.tv/video/292277</link>
             <guid>https://www.vlive.tv/video/292277</guid>
             <pubDate>Sat, 01 Oct 2022 11:45:33 GMT</pubDate>
             <content:encoded><![CDATA[오전 10:52]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221001_238/1664620661293cdPdY_JPEG/177409032281650948a447025c-9035-431d-84c0-908f77ad8003.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠깐 멈춰봐]]></title>
+            <link>https://www.vlive.tv/video/292278</link>
+            <guid>https://www.vlive.tv/video/292278</guid>
+            <pubDate>Sat, 01 Oct 2022 10:50:34 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:52]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221001_159/1664625175640lBpyM_JPEG/1db2c3af-417f-11ed-aa59-d4f5ef58ac88_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[CLEAN CAM] ep.45 '오늘의 웹툰' 마지막 촬영 비하인드]]></title>
+            <link>https://www.vlive.tv/video/292080</link>
+            <guid>https://www.vlive.tv/video/292080</guid>
+            <pubDate>Sat, 01 Oct 2022 13:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[오후 12:01]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220927_252/1664271872582TjkhP_JPEG/upload_108351600394473838de9b615d-ef3c-4981-a207-01e3aee99b22.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여러분 이건 진ㅉ ㅏ로...]]></title>
+            <link>https://www.vlive.tv/video/292282</link>
+            <guid>https://www.vlive.tv/video/292282</guid>
+            <pubDate>Sat, 01 Oct 2022 13:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[오후 12:52]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/292282/thumb?type=f228_128" length="0" type="image//live/292282/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[[몬채널][B] EP.331 KIHYUN AQOSTUDIOSPACE F/W]]></title>
+            <link>https://www.vlive.tv/video/292124</link>
+            <guid>https://www.vlive.tv/video/292124</guid>
+            <pubDate>Sat, 01 Oct 2022 13:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220928_145/1664357230756OgyAt_JPEG/upload_10843694867777064289f35f4c-0ed8-4507-ab2e-5f31fd752814.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🍿]]></title>
+            <link>https://www.vlive.tv/video/292280</link>
+            <guid>https://www.vlive.tv/video/292280</guid>
+            <pubDate>Sat, 01 Oct 2022 13:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:06]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221001_274/1664626111803HLWum_JPEG/5824388803945002997cf21b9-bd2c-4fa7-a786-902c869ca3dd.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
