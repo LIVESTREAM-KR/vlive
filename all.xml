@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Oct 2022 10:50:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Oct 2022 11:45:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -150,6 +150,14 @@
             <pubDate>Sat, 01 Oct 2022 10:50:34 GMT</pubDate>
             <content:encoded><![CDATA[오전 10:38]]></content:encoded>
             <enclosure url="https://vlive-thumb.pstatic.net/live/292278/thumb?type=f228_128" length="0" type="image//live/292278/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[화찬한 날씨☀️ (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/292277</link>
+            <guid>https://www.vlive.tv/video/292277</guid>
+            <pubDate>Sat, 01 Oct 2022 11:45:33 GMT</pubDate>
+            <content:encoded><![CDATA[오전 10:52]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221001_238/1664620661293cdPdY_JPEG/177409032281650948a447025c-9035-431d-84c0-908f77ad8003.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
