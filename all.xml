@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Oct 2022 15:52:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Oct 2022 17:04:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -184,14 +184,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221002_139/1664718084755ma0nB_JPEG/3b095a30-4257-11ed-83d6-48df379cca40_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[기욱이 또ㅋㅋ (V LIVE ─ 일정표)]]></title>
-            <link>https://www.vlive.tv/video/292316</link>
-            <guid>https://www.vlive.tv/video/292316</guid>
-            <pubDate>Sun, 02 Oct 2022 14:47:03 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:17]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/292316/thumb?type=f228_128" length="0" type="image//live/292316/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[Stray Kids(스트레이 키즈) "CASE 143" M/V Teaser 1 (V LIVE ─ 일정표)]]></title>
             <link>https://www.vlive.tv/video/292305</link>
             <guid>https://www.vlive.tv/video/292305</guid>
@@ -230,6 +222,14 @@
             <pubDate>Sun, 02 Oct 2022 14:47:03 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:12]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221002_245/1664719546316gThQJ_JPEG/1775079172729114493ad554db-7032-4bf1-81d7-4b2154f5df07.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기욱이 또ㅋㅋ (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/292316</link>
+            <guid>https://www.vlive.tv/video/292316</guid>
+            <pubDate>Sun, 02 Oct 2022 14:47:03 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:09]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221003_4/1664726996778uD2p9_JPEG/5ddbc056-426b-11ed-8d11-48df379ccacc_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
