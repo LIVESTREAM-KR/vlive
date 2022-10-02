@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Oct 2022 10:50:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Oct 2022 11:45:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,6 +134,22 @@
             <pubDate>Sun, 02 Oct 2022 10:49:56 GMT</pubDate>
             <content:encoded><![CDATA[오전 10:41]]></content:encoded>
             <enclosure url="https://vlive-thumb.pstatic.net/live/292308/thumb?type=f228_128" length="0" type="image//live/292308/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[WONHO 원호 'Bittersweet' Concept Film #1 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/292304</link>
+            <guid>https://www.vlive.tv/video/292304</guid>
+            <pubDate>Sun, 02 Oct 2022 11:45:20 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221002_114/1664692188909uI8OP_JPEG/upload_1087718990379271347325853e-01d5-4803-ab41-c2e90bf1826a.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vteven 🔥#23 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/292310</link>
+            <guid>https://www.vlive.tv/video/292310</guid>
+            <pubDate>Sun, 02 Oct 2022 11:45:20 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:28]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221002_125/1664710098249HFGQA_JPEG/177498469229681513b6b64404-33fe-4cf7-8128-c52d487cb2b5.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
