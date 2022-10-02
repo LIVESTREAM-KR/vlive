@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Oct 2022 07:47:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Oct 2022 08:55:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,14 +96,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221002_182/1664681562028h5ezU_JPEG/upload_1087612585449336039898fe09-5634-496d-bedf-338e4a42cb6b.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[7 0 0 (V LIVE ─ 일정표)]]></title>
-            <link>https://www.vlive.tv/video/292301</link>
-            <guid>https://www.vlive.tv/video/292301</guid>
-            <pubDate>Sun, 02 Oct 2022 04:56:29 GMT</pubDate>
-            <content:encoded><![CDATA[오전 5:50]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221002_84/1664689846823CeLhn_JPEG/9af8a979-4214-11ed-8bc9-d4f5ef5906a4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Extremely short one (V LIVE ─ 일정표)]]></title>
             <link>https://www.vlive.tv/video/292303</link>
             <guid>https://www.vlive.tv/video/292303</guid>
@@ -118,6 +110,14 @@
             <pubDate>Sun, 02 Oct 2022 06:03:04 GMT</pubDate>
             <content:encoded><![CDATA[오전 7:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221002_209/1664689047221waqBe_JPEG/upload_1087687662427845654618fa54-b0c9-4100-a38f-0ffa4937a3ea.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Extremely short one 2 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/292306</link>
+            <guid>https://www.vlive.tv/video/292306</guid>
+            <pubDate>Sun, 02 Oct 2022 08:55:13 GMT</pubDate>
+            <content:encoded><![CDATA[오전 8:52]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221002_94/1664700732166jpcxg_JPEG/177489103120275262cdb0d8c9-3404-4900-a6f1-0ed2039821b6.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
