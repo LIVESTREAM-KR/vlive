@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Oct 2022 09:50:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Oct 2022 10:50:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Sun, 02 Oct 2022 09:50:05 GMT</pubDate>
             <content:encoded><![CDATA[오전 9:48]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221002_160/1664703539678SReOv_JPEG/177491910602388557282869e8-ce65-4a17-bfb0-214b3f3a897f.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찬이의 “방" 🐺 Ep. 177]]></title>
+            <link>https://www.vlive.tv/video/292308</link>
+            <guid>https://www.vlive.tv/video/292308</guid>
+            <pubDate>Sun, 02 Oct 2022 10:49:56 GMT</pubDate>
+            <content:encoded><![CDATA[오전 10:41]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/292308/thumb?type=f228_128" length="0" type="image//live/292308/thumb"/>
         </item>
     </channel>
 </rss>
