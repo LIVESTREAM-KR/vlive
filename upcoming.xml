@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Oct 2022 13:34:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Oct 2022 14:59:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,6 +102,22 @@
             <pubDate>Mon, 03 Oct 2022 13:34:27 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:15]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221001_262/1664550665459wxlyG_JPEG/upload_1086303808211868570b3ff94e-efa4-435e-ab5f-4e972345b027.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IRRIS (아이리스) 'BYE BYE' Teaser]]></title>
+            <link>https://www.vlive.tv/video/292275</link>
+            <guid>https://www.vlive.tv/video/292275</guid>
+            <pubDate>Mon, 03 Oct 2022 14:58:43 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221003_183/1664794741759YjHbf_JPEG/upload_10887444724849342115d16b0e-d6de-4a32-a254-40946d82eced.jpeg?type=f228_128" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠시]]></title>
+            <link>https://www.vlive.tv/video/292329</link>
+            <guid>https://www.vlive.tv/video/292329</guid>
+            <pubDate>Mon, 03 Oct 2022 14:58:43 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:27]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/292329/thumb?type=f228_128" length="0" type="image//live/292329/thumb"/>
         </item>
     </channel>
 </rss>
