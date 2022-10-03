@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Oct 2022 04:33:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Oct 2022 06:04:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,11 +72,19 @@
             <enclosure url="https://v-phinf.pstatic.net/20220930_1/1664520626219xTzRH_PNG/upload_80790221524672842c3348f0b-ffe9-405a-8ea4-5c1f2046c1d6.png?type=f228_128" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[첫 공연 끝🇵🇷 (💜&💛) (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/292322</link>
+            <guid>https://www.vlive.tv/video/292322</guid>
+            <pubDate>Mon, 03 Oct 2022 06:03:59 GMT</pubDate>
+            <content:encoded><![CDATA[오전 5:00]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/292322/thumb?type=f228_128" length="0" type="image//live/292322/thumb"/>
+        </item>
+        <item>
             <title><![CDATA[Arirang Radio (KPOPPIN' / MIRAE 미래소년) (V LIVE ─ 일정표)]]></title>
             <link>https://www.vlive.tv/video/292155</link>
             <guid>https://www.vlive.tv/video/292155</guid>
             <pubDate>Mon, 03 Oct 2022 02:42:18 GMT</pubDate>
-            <content:encoded><![CDATA[오전 5:00]]></content:encoded>
+            <content:encoded><![CDATA[오전 6:01]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220929_251/16644146600749iRQ2_JPEG/upload_108494348741271451a6774e54-3a5b-47ba-9b2e-b59671441eb0.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
