@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Oct 2022 10:53:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Oct 2022 11:46:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,14 +104,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221003_26/1664791017147anxY9_JPEG/84fb8e98-4301-11ed-83d6-48df379cca40_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[LIVE] SIMPLY K-POP CON-TOUR (📍India) | MIRAE, Lapillus, ADORA, RoaD-B, KISU (V LIVE ─ 일정표)]]></title>
-            <link>https://www.vlive.tv/video/292232</link>
-            <guid>https://www.vlive.tv/video/292232</guid>
-            <pubDate>Mon, 03 Oct 2022 02:42:18 GMT</pubDate>
-            <content:encoded><![CDATA[오전 9:59]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220930_271/1664516203553Ym7rk_PNG/upload_1085958685405225537cb1fa6b-0a10-4648-bd77-52d497fae0e2.png?type=f228_128" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[Dreamcatcher's Note] 2022 K 글로벌 하트 드림 어워즈 시상식 비하인드 (V LIVE ─ 일정표)]]></title>
             <link>https://www.vlive.tv/video/292279</link>
             <guid>https://www.vlive.tv/video/292279</guid>
@@ -126,6 +118,30 @@
             <pubDate>Mon, 03 Oct 2022 02:42:18 GMT</pubDate>
             <content:encoded><![CDATA[오전 10:50]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220930_154/16645355788326TDen_JPEG/upload_108615206292533770f563eff8-e0aa-49ce-99c2-ac3da9d8e5cb.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CRAVITY (크래비티) MV 'PARTY ROCK' - Behind The Scenes (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/292320</link>
+            <guid>https://www.vlive.tv/video/292320</guid>
+            <pubDate>Mon, 03 Oct 2022 11:46:30 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221003_231/1664740266173CeVWr_JPEG/upload_8100986290960923653086780-44a0-4293-bf63-e777a63c3664.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE] SIMPLY K-POP CON-TOUR (📍India) | MIRAE, Lapillus, ADORA, RoaD-B, KISU (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/292232</link>
+            <guid>https://www.vlive.tv/video/292232</guid>
+            <pubDate>Mon, 03 Oct 2022 02:42:18 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:10]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220930_271/1664516203553Ym7rk_PNG/upload_1085958685405225537cb1fa6b-0a10-4648-bd77-52d497fae0e2.png?type=f228_128" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[가을인가~🍁 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/292326</link>
+            <guid>https://www.vlive.tv/video/292326</guid>
+            <pubDate>Mon, 03 Oct 2022 11:46:30 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:27]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/292326/thumb?type=f228_128" length="0" type="image//live/292326/thumb"/>
         </item>
     </channel>
 </rss>
