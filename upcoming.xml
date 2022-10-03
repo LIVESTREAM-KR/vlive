@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Oct 2022 11:46:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Oct 2022 13:34:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,14 +56,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221001_300/1664623086971EjojE_JPEG/upload_80892690528169007168f825b-64fe-4f76-89fd-56c16ba0007a.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Arirang Radio (Radio'n Us / The Stray 스트레이)]]></title>
-            <link>https://www.vlive.tv/video/292250</link>
-            <guid>https://www.vlive.tv/video/292250</guid>
-            <pubDate>Mon, 03 Oct 2022 02:42:18 GMT</pubDate>
-            <content:encoded><![CDATA[오전 10:50]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220930_154/16645355788326TDen_JPEG/upload_108615206292533770f563eff8-e0aa-49ce-99c2-ac3da9d8e5cb.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[CRAVITY (크래비티) MV 'PARTY ROCK' - Behind The Scenes]]></title>
             <link>https://www.vlive.tv/video/292320</link>
             <guid>https://www.vlive.tv/video/292320</guid>
@@ -84,8 +76,32 @@
             <link>https://www.vlive.tv/video/292326</link>
             <guid>https://www.vlive.tv/video/292326</guid>
             <pubDate>Mon, 03 Oct 2022 11:46:30 GMT</pubDate>
-            <content:encoded><![CDATA[오전 11:27]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/292326/thumb?type=f228_128" length="0" type="image//live/292326/thumb"/>
+            <content:encoded><![CDATA[오후 12:40]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221003_288/1664800848269rVxXV_JPEG/02f59c24-4318-11ed-83d6-48df379cca40_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비 오는 날엔 파전에 묭😎]]></title>
+            <link>https://www.vlive.tv/video/292327</link>
+            <guid>https://www.vlive.tv/video/292327</guid>
+            <pubDate>Mon, 03 Oct 2022 13:34:26 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:04]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221003_73/1664802247319WfFuz_JPEG/5eb9185b-431b-11ed-a57b-505dac8c385b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Radio'n Us / The Stray 스트레이)]]></title>
+            <link>https://www.vlive.tv/video/292250</link>
+            <guid>https://www.vlive.tv/video/292250</guid>
+            <pubDate>Mon, 03 Oct 2022 02:42:18 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:08]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220930_154/16645355788326TDen_JPEG/upload_108615206292533770f563eff8-e0aa-49ce-99c2-ac3da9d8e5cb.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KIHYUN 'YOUTH' Mood Teaser]]></title>
+            <link>https://www.vlive.tv/video/292265</link>
+            <guid>https://www.vlive.tv/video/292265</guid>
+            <pubDate>Mon, 03 Oct 2022 13:34:27 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:15]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221001_262/1664550665459wxlyG_JPEG/upload_1086303808211868570b3ff94e-efa4-435e-ab5f-4e972345b027.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
