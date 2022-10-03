@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Oct 2022 14:59:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Oct 2022 15:58:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,12 +112,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20221003_183/1664794741759YjHbf_JPEG/upload_10887444724849342115d16b0e-d6de-4a32-a254-40946d82eced.jpeg?type=f228_128" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[Stray Kids(스트레이 키즈) "CASE 143" M/V Teaser 2]]></title>
+            <link>https://www.vlive.tv/video/292323</link>
+            <guid>https://www.vlive.tv/video/292323</guid>
+            <pubDate>Mon, 03 Oct 2022 15:58:20 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221003_289/16647795032493pept_JPEG/upload_10885845487046923889c0a9ab-fc0f-4279-877e-912ff0a47310.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AB6IX (에이비식스) 6TH EP 'TAKE A CHANCE' JACKET MAKING FILM]]></title>
+            <link>https://www.vlive.tv/video/292324</link>
+            <guid>https://www.vlive.tv/video/292324</guid>
+            <pubDate>Mon, 03 Oct 2022 15:58:20 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221003_116/1664785303505RkMli_JPEG/upload_8105490113142750931f895cc-7f14-4279-93ef-eca4b1eb093c.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[잠시]]></title>
             <link>https://www.vlive.tv/video/292329</link>
             <guid>https://www.vlive.tv/video/292329</guid>
             <pubDate>Mon, 03 Oct 2022 14:58:43 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:27]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/292329/thumb?type=f228_128" length="0" type="image//live/292329/thumb"/>
+            <content:encoded><![CDATA[오후 3:22]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221004_165/1664810526533OX5M7_JPEG/c977a024-432e-11ed-bbda-505dac8c37f3_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
