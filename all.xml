@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Oct 2022 15:55:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Oct 2022 17:20:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -400,14 +400,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221005_136/1664895603695XU3SD_JPEG/55ca2364-43dc-11ed-8bc9-d4f5ef5906a4_08.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[ #류진 ] WAWN (V LIVE ─ 일정표)]]></title>
-            <link>https://www.vlive.tv/video/292378</link>
-            <guid>https://www.vlive.tv/video/292378</guid>
-            <pubDate>Tue, 04 Oct 2022 11:46:17 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:06]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221005_197/1664895619353eCSjV_JPEG/4b8e0ca0-43dc-11ed-b6e8-48df37ae3dc4_01.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[CRAVITY (크래비티) 'Knock Knock' Dance Practice (Fix ver.) (V LIVE ─ 일정표)]]></title>
             <link>https://www.vlive.tv/video/292360</link>
             <guid>https://www.vlive.tv/video/292360</guid>
@@ -462,6 +454,14 @@
             <pubDate>Tue, 04 Oct 2022 15:01:47 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221004_2/1664891404860nwBFf_JPEG/upload_81160595529011961fd962e7b-89c8-44a0-a948-1f826e808673.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[무당벌레 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/292387</link>
+            <guid>https://www.vlive.tv/video/292387</guid>
+            <pubDate>Tue, 04 Oct 2022 17:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:57]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221005_232/1664899793417yGU6S_JPEG/17777532440926254516faa7cd-9681-4883-afc6-296a405d2e67.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
