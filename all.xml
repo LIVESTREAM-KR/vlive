@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Oct 2022 14:59:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Oct 2022 15:56:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -446,6 +446,30 @@
             <pubDate>Wed, 05 Oct 2022 13:49:59 GMT</pubDate>
             <content:encoded><![CDATA[오후 2:37]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221005_229/1664976154846tC3dv_JPEG/177851691832351012b115487c-ac13-433c-870c-40c4d6832391.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[TEASER] 마마무 - ILLELLA(일낼라) #1 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/292440</link>
+            <guid>https://www.vlive.tv/video/292440</guid>
+            <pubDate>Wed, 05 Oct 2022 15:55:41 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221005_114/1664976809198yLiUF_JPEG/upload_109056515230398173bef7328d-b22d-4eda-8bb5-8b8ba7384c08.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[BEHIND] ALEX #HBD #렉스생축 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/292410</link>
+            <guid>https://www.vlive.tv/video/292410</guid>
+            <pubDate>Wed, 05 Oct 2022 15:55:41 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:15]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221005_74/1664955082423sSjKi_PNG/upload_109034749308697462b94c999b-a3a4-44ae-9b09-e45f1c1da6cd.png?type=f228_128" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Birthday To Me (with.zin) (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/292443</link>
+            <guid>https://www.vlive.tv/video/292443</guid>
+            <pubDate>Wed, 05 Oct 2022 15:55:41 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:53]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/292443/thumb?type=f228_128" length="0" type="image//live/292443/thumb"/>
         </item>
     </channel>
 </rss>
