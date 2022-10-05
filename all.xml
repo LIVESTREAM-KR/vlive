@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Oct 2022 05:30:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Oct 2022 06:11:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,14 +120,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221005_300/16649444904921t0kV_JPEG/upload_109024040217177002c82120ad-7748-4fd0-976f-1a0e8dd0ec08.jpeg?type=f228_128" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[Arirang Radio/K-Poppin'] It's MZ TIME! with TRENDZ Ra.L & Eunil (트렌드지 라엘&은일) (V LIVE ─ 일정표)]]></title>
-            <link>https://www.vlive.tv/video/292163</link>
-            <guid>https://www.vlive.tv/video/292163</guid>
-            <pubDate>Wed, 05 Oct 2022 02:56:50 GMT</pubDate>
-            <content:encoded><![CDATA[오전 4:50]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220929_106/1664415153817C7HWI_JPEG/upload_806847045541891510e0d5656-6644-48ee-a6bb-45477c63b3e4.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[CRAVITY Challenge 'GIRIBOY - 100°C (Feat. YUNHWAY)' (Jib ver.) (V LIVE ─ 일정표)]]></title>
             <link>https://www.vlive.tv/video/292391</link>
             <guid>https://www.vlive.tv/video/292391</guid>
@@ -180,8 +172,16 @@
             <link>https://www.vlive.tv/video/292161</link>
             <guid>https://www.vlive.tv/video/292161</guid>
             <pubDate>Wed, 05 Oct 2022 02:56:50 GMT</pubDate>
-            <content:encoded><![CDATA[오전 6:00]]></content:encoded>
+            <content:encoded><![CDATA[오전 5:53]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220929_231/1664415031190BPU2p_JPEG/upload_108494717497068202729e3797-9654-4027-9b6b-4eda1e454b83.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio/K-Poppin'] It's MZ TIME! with TRENDZ Ra.L & Eunil (트렌드지 라엘&은일) (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/292163</link>
+            <guid>https://www.vlive.tv/video/292163</guid>
+            <pubDate>Wed, 05 Oct 2022 02:56:50 GMT</pubDate>
+            <content:encoded><![CDATA[오전 5:59]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220929_106/1664415153817C7HWI_JPEG/upload_806847045541891510e0d5656-6644-48ee-a6bb-45477c63b3e4.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Arirang Radio (Super K-Pop / Seomoon Tak 서문탁) (V LIVE ─ 일정표)]]></title>
