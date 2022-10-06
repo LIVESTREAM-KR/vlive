@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Oct 2022 07:02:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Oct 2022 07:50:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,20 +40,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20221006_169/1665025776674NRzP1_JPEG/f30b4f82-4523-11ed-a7c3-d4f5ef58ad5e_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[💚HAPPY BAEKSEUNG DAY💚 (V LIVE ─ CHARTS)]]></title>
-            <link>https://www.vlive.tv/video/292420</link>
-            <guid>https://www.vlive.tv/video/292420</guid>
-            <pubDate>Wed, 05 Oct 2022 10:53:29 GMT</pubDate>
-            <content:encoded><![CDATA[EPEX]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221005_131/1664964094678wh2d4_JPEG/177839612663102323184cec4b-73ad-4e01-ab37-85ebfadf078d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[KIHYUN 'YOUTH' Album Film | Dear. YOUTH (V LIVE ─ CHARTS)]]></title>
             <link>https://www.vlive.tv/video/292417</link>
             <guid>https://www.vlive.tv/video/292417</guid>
             <pubDate>Thu, 06 Oct 2022 04:24:53 GMT</pubDate>
             <content:encoded><![CDATA[MONSTA X]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221006_243/1665018726856Bx0qa_JPEG/upload_8123180623348956366d09ec8-7ebf-41b3-ac06-8bd140d6e618.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[💚HAPPY BAEKSEUNG DAY💚 (V LIVE ─ CHARTS)]]></title>
+            <link>https://www.vlive.tv/video/292420</link>
+            <guid>https://www.vlive.tv/video/292420</guid>
+            <pubDate>Wed, 05 Oct 2022 10:53:29 GMT</pubDate>
+            <content:encoded><![CDATA[EPEX]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221005_131/1664964094678wh2d4_JPEG/177839612663102323184cec4b-73ad-4e01-ab37-85ebfadf078d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 1 (V LIVE ─ CHARTS)]]></title>
@@ -190,6 +190,14 @@
             <pubDate>Thu, 06 Oct 2022 02:54:10 GMT</pubDate>
             <content:encoded><![CDATA[오전 6:59]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220929_192/1664415326006gWT3X_JPEG/upload_108494985074263438d3cf11df-f21e-4922-8d8e-064375885aee.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Radio’ Clock] Eom tae woo (엄태우) (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/292388</link>
+            <guid>https://www.vlive.tv/video/292388</guid>
+            <pubDate>Thu, 06 Oct 2022 07:50:02 GMT</pubDate>
+            <content:encoded><![CDATA[오전 7:04]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221005_291/1664901779848LCsNM_PNG/upload_108981439767863724bc5dd006-2f9e-4a72-8231-4cb104b12086.png?type=f228_128" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
