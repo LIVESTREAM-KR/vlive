@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Oct 2022 15:56:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Oct 2022 17:11:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,14 +368,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221006_117/1665066677130hhX4T_JPEG/177942280088141994fa470980-0ed2-406d-b5a8-103df3f98858.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[낫고 있어요 😵‍💫💊]]></title>
-            <link>https://www.vlive.tv/video/292513</link>
-            <guid>https://www.vlive.tv/video/292513</guid>
-            <pubDate>Thu, 06 Oct 2022 15:55:42 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:58]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/292513/thumb?type=f228_128" length="0" type="image//live/292513/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[Stray Kids(스트레이 키즈) [INTRO "MAXIDENT"]]]></title>
             <link>https://www.vlive.tv/video/292501</link>
             <guid>https://www.vlive.tv/video/292501</guid>
@@ -406,6 +398,22 @@
             <pubDate>Thu, 06 Oct 2022 14:57:54 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:53]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221006_280/16650669714476AkxR_JPEG/1778555073891716061cc5c684-91b1-4a01-b451-5533583c3f6d.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[낫고 있어요 😵‍💫💊]]></title>
+            <link>https://www.vlive.tv/video/292513</link>
+            <guid>https://www.vlive.tv/video/292513</guid>
+            <pubDate>Thu, 06 Oct 2022 15:55:42 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:15]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221007_29/1665072956483gppQc_JPEG/67737eca-4591-11ed-999c-505dac8c3639_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🧐엥]]></title>
+            <link>https://www.vlive.tv/video/292514</link>
+            <guid>https://www.vlive.tv/video/292514</guid>
+            <pubDate>Thu, 06 Oct 2022 17:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221007_289/1665075610890PVtXc_JPEG/1c48ec04-4598-11ed-b07a-48df37ae3fca_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
