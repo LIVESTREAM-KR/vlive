@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Oct 2022 06:03:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Oct 2022 07:02:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,14 +96,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221006_111/1665029788484j0NAm_PNG/upload_81299388354646650faf9f5c0-5b4e-42d4-9a14-ab48b61d547b.png?type=f228_128" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[Arirang Radio / Radio’ Clock] Eom tae woo (엄태우)]]></title>
-            <link>https://www.vlive.tv/video/292388</link>
-            <guid>https://www.vlive.tv/video/292388</guid>
-            <pubDate>Thu, 06 Oct 2022 02:54:10 GMT</pubDate>
-            <content:encoded><![CDATA[오전 5:54]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221005_291/1664901779848LCsNM_PNG/upload_108981439767863724bc5dd006-2f9e-4a72-8231-4cb104b12086.png?type=f228_128" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[Arirang Radio (KPOPPIN' / GB9 길구봉구)]]></title>
             <link>https://www.vlive.tv/video/292169</link>
             <guid>https://www.vlive.tv/video/292169</guid>
@@ -124,15 +116,23 @@
             <link>https://www.vlive.tv/video/292460</link>
             <guid>https://www.vlive.tv/video/292460</guid>
             <pubDate>Thu, 06 Oct 2022 06:03:10 GMT</pubDate>
-            <content:encoded><![CDATA[오전 6:03]]></content:encoded>
+            <content:encoded><![CDATA[오전 6:21]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221006_212/166503618055096Dly_JPEG/1778245719964980866e581fe0-d19e-4e3e-a735-e54827222150.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Simply K-Pop CON-TOUR] Preview with MIRAE(미래소년) | 📍India _ Ep.540]]></title>
+            <link>https://www.vlive.tv/video/292459</link>
+            <guid>https://www.vlive.tv/video/292459</guid>
+            <pubDate>Thu, 06 Oct 2022 07:02:05 GMT</pubDate>
+            <content:encoded><![CDATA[오전 6:32]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221006_290/1665037899752w941w_PNG/upload_81307502697922442b2bfe3a9-043e-4cee-9edb-ceeb054bf51a.png?type=f228_128" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio / Super K-Pop] Stray Quiz]]></title>
             <link>https://www.vlive.tv/video/292165</link>
             <guid>https://www.vlive.tv/video/292165</guid>
             <pubDate>Thu, 06 Oct 2022 02:54:10 GMT</pubDate>
-            <content:encoded><![CDATA[오전 7:00]]></content:encoded>
+            <content:encoded><![CDATA[오전 6:59]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220929_192/1664415326006gWT3X_JPEG/upload_108494985074263438d3cf11df-f21e-4922-8d8e-064375885aee.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
