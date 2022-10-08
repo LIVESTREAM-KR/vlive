@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Oct 2022 09:50:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Oct 2022 10:51:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,14 +72,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221008_153/1665216149778wrgG0_JPEG/98547848-46de-11ed-9aa2-505dac8c3721_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Vteven 🔥#24]]></title>
-            <link>https://www.vlive.tv/video/292595</link>
-            <guid>https://www.vlive.tv/video/292595</guid>
-            <pubDate>Sat, 08 Oct 2022 08:56:03 GMT</pubDate>
-            <content:encoded><![CDATA[오전 8:06]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221008_38/1665216385447YXE9I_JPEG/1780919883763797164d7a3671-45d6-40a8-ba64-acc97bfae8b5.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[IRRIS (아이리스) 'STAY WITH ME' + 'BYE BYE' MV Behind]]></title>
             <link>https://www.vlive.tv/video/292560</link>
             <guid>https://www.vlive.tv/video/292560</guid>
@@ -110,6 +102,14 @@
             <pubDate>Sat, 08 Oct 2022 09:49:39 GMT</pubDate>
             <content:encoded><![CDATA[오전 9:20]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221008_291/1665220814103p6vWM_JPEG/87273252630226809d24459b4-6b2d-4c48-bc7a-efd496307150.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vteven 🔥#24]]></title>
+            <link>https://www.vlive.tv/video/292595</link>
+            <guid>https://www.vlive.tv/video/292595</guid>
+            <pubDate>Sat, 08 Oct 2022 08:56:03 GMT</pubDate>
+            <content:encoded><![CDATA[오전 10:06]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221008_38/1665216385447YXE9I_JPEG/1780919883763797164d7a3671-45d6-40a8-ba64-acc97bfae8b5.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
