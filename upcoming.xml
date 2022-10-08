@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Oct 2022 15:51:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Oct 2022 17:04:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,13 +168,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221008_21/1665238073962g6SOK_JPEG/46ee28f0-4712-11ed-8613-505dacfba98a_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[🐣토욜 라방📻]]></title>
-            <link>https://www.vlive.tv/video/292608</link>
-            <guid>https://www.vlive.tv/video/292608</guid>
-            <pubDate>Sat, 08 Oct 2022 14:49:35 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:13]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[TEASER] 마마무 - ILLELLA (일낼라) #2]]></title>
             <link>https://www.vlive.tv/video/292606</link>
             <guid>https://www.vlive.tv/video/292606</guid>
@@ -215,12 +208,36 @@
             <enclosure url="https://v-phinf.pstatic.net/20221009_95/1665243427781C74sn_JPEG/d9dc554d-471e-11ed-aa59-d4f5ef58ac88_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[🐣토욜 라방📻]]></title>
+            <link>https://www.vlive.tv/video/292608</link>
+            <guid>https://www.vlive.tv/video/292608</guid>
+            <pubDate>Sat, 08 Oct 2022 14:49:35 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:55]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221009_22/1665244531170MbWws_JPEG/37d6cc89-4721-11ed-aee9-505dac8c38f5_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🐰]]></title>
+            <link>https://www.vlive.tv/video/292605</link>
+            <guid>https://www.vlive.tv/video/292605</guid>
+            <pubDate>Sat, 08 Oct 2022 17:04:22 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:56]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221008_275/1665236052270Y1bLw_JPEG/1602342288939696836b5097b-a6ad-4de4-930d-ea7449e77f30.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[와이파이 정신차려 😵]]></title>
+            <link>https://www.vlive.tv/video/292614</link>
+            <guid>https://www.vlive.tv/video/292614</guid>
+            <pubDate>Sat, 08 Oct 2022 17:04:22 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:21]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221009_52/1665246110994sWTbO_JPEG/2260459f-4725-11ed-b41c-48df379cc9e4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[띠브무니의 척척박사 브이앱 ✌️]]></title>
             <link>https://www.vlive.tv/video/292612</link>
             <guid>https://www.vlive.tv/video/292612</guid>
             <pubDate>Sat, 08 Oct 2022 15:51:10 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:44]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/292612/thumb?type=f228_128" length="0" type="image//live/292612/thumb"/>
+            <content:encoded><![CDATA[오후 4:40]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221009_250/1665247234201H0C57_JPEG/81ce9791-4727-11ed-a7c3-d4f5ef58ad5e_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
