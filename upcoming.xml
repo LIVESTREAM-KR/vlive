@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Oct 2022 14:03:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Oct 2022 14:49:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,20 +160,44 @@
             <enclosure url="https://v-phinf.pstatic.net/20221008_292/1665231421188VsQDx_JPEG/17810702116044099967bfe3f6-7ce5-4932-99f6-b1f8d92e6fdf.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[LIVE] 마지막여행]]></title>
-            <link>https://www.vlive.tv/video/292604</link>
-            <guid>https://www.vlive.tv/video/292604</guid>
-            <pubDate>Sat, 08 Oct 2022 14:02:36 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:32]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/292604/thumb?type=f228_128" length="0" type="image//live/292604/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[🐰]]></title>
             <link>https://www.vlive.tv/video/292605</link>
             <guid>https://www.vlive.tv/video/292605</guid>
             <pubDate>Sat, 08 Oct 2022 14:02:36 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:34]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221008_275/1665236052270Y1bLw_JPEG/1602342288939696836b5097b-a6ad-4de4-930d-ea7449e77f30.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE] 마지막여행]]></title>
+            <link>https://www.vlive.tv/video/292604</link>
+            <guid>https://www.vlive.tv/video/292604</guid>
+            <pubDate>Sat, 08 Oct 2022 14:02:36 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:07]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221008_21/1665238073962g6SOK_JPEG/46ee28f0-4712-11ed-8613-505dacfba98a_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sewoon to me now #37]]></title>
+            <link>https://www.vlive.tv/video/292607</link>
+            <guid>https://www.vlive.tv/video/292607</guid>
+            <pubDate>Sat, 08 Oct 2022 14:49:35 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:09]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/292607/thumb?type=f228_128" length="0" type="image//live/292607/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[🐣토욜 라방📻]]></title>
+            <link>https://www.vlive.tv/video/292608</link>
+            <guid>https://www.vlive.tv/video/292608</guid>
+            <pubDate>Sat, 08 Oct 2022 14:49:35 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:13]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/292608/thumb?type=f228_128" length="0" type="image//live/292608/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[토요일 밤이에요:)]]></title>
+            <link>https://www.vlive.tv/video/292609</link>
+            <guid>https://www.vlive.tv/video/292609</guid>
+            <pubDate>Sat, 08 Oct 2022 14:49:35 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:21]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221008_248/1665238866268kWtjK_JPEG/9593817791283370f6da52e4-f07f-4429-abdb-d9de6f66d4f4.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
