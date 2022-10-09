@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 09 Oct 2022 13:20:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Oct 2022 14:00:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,14 +192,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221007_52/1665127418789RpBLN_JPEG/upload_10920715039120347478207cb0-4ac5-40ee-a73c-be4c804b8bae.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[후 쉽지않네 (V LIVE ─ 일정표)]]></title>
-            <link>https://www.vlive.tv/video/292635</link>
-            <guid>https://www.vlive.tv/video/292635</guid>
-            <pubDate>Sun, 09 Oct 2022 13:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:32]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221009_246/1665318723650ksMR8_JPEG/87371162179717559740022b3-15fb-4bd4-afdc-b40886868521.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[나 왔다여☁️ (V LIVE ─ 일정표)]]></title>
             <link>https://www.vlive.tv/video/292634</link>
             <guid>https://www.vlive.tv/video/292634</guid>
@@ -214,6 +206,30 @@
             <pubDate>Sun, 09 Oct 2022 03:16:07 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:05]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221008_155/1665228602702C0snW_JPEG/upload_109307697083717332318df1a2-99f6-45f9-979f-1e9aa3d7e23c.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후 쉽지않네 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/292635</link>
+            <guid>https://www.vlive.tv/video/292635</guid>
+            <pubDate>Sun, 09 Oct 2022 13:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:26]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221009_246/1665318723650ksMR8_JPEG/87371162179717559740022b3-15fb-4bd4-afdc-b40886868521.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제가 대신 와쪄영🐶 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/292636</link>
+            <guid>https://www.vlive.tv/video/292636</guid>
+            <pubDate>Sun, 09 Oct 2022 13:59:45 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:30]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/292636/thumb?type=f228_128" length="0" type="image//live/292636/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[퇴근😎🌰 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/292637</link>
+            <guid>https://www.vlive.tv/video/292637</guid>
+            <pubDate>Sun, 09 Oct 2022 13:59:45 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:35]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/292637/thumb?type=f228_128" length="0" type="image//live/292637/thumb"/>
         </item>
     </channel>
 </rss>
