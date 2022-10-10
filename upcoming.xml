@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Oct 2022 06:30:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Oct 2022 07:21:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,14 +64,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221010_232/1665377840021PGL3X_JPEG/973279157444905674275c0e-d5e1-4dad-9413-94b53dbc521e.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[Arirang Radio / Radio’ Clock] (Radio' Clock / TAEWOO 태우)]]></title>
-            <link>https://www.vlive.tv/video/292564</link>
-            <guid>https://www.vlive.tv/video/292564</guid>
-            <pubDate>Mon, 10 Oct 2022 03:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[오전 5:56]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221007_108/16651390286874fV6B_PNG/upload_814085880245445050b67d08c-2b51-45c8-9a13-cbe58fd2e5a3.png?type=f228_128" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[Arirang Radio (KPOPPIN' / MUSTB 머스트비)]]></title>
             <link>https://www.vlive.tv/video/292478</link>
             <guid>https://www.vlive.tv/video/292478</guid>
@@ -84,8 +76,16 @@
             <link>https://www.vlive.tv/video/292464</link>
             <guid>https://www.vlive.tv/video/292464</guid>
             <pubDate>Mon, 10 Oct 2022 03:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[오전 7:00]]></content:encoded>
+            <content:encoded><![CDATA[오전 6:57]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221006_47/1665040892745YSDzm_JPEG/upload_81310449902190762681c3fe4-8114-462c-8c8d-560fe57c8932.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Radio’ Clock] (Radio' Clock / TAEWOO 태우)]]></title>
+            <link>https://www.vlive.tv/video/292564</link>
+            <guid>https://www.vlive.tv/video/292564</guid>
+            <pubDate>Mon, 10 Oct 2022 03:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[오전 7:02]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221007_108/16651390286874fV6B_PNG/upload_814085880245445050b67d08c-2b51-45c8-9a13-cbe58fd2e5a3.png?type=f228_128" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Arirang Radio (Radio'n Us / KINGDOM 킹덤)]]></title>
