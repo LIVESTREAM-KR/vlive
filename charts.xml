@@ -1,8 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.vlive.tv/home/chart/more?pageNo=1&amp;pageSize=50&amp;viewType=recent&amp;lang=ko</id>
-    <title>V LIVE ─ CHARTS</title>
-    <updated>2022-10-10T05:09:21.090Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.vlive.tv/home/chart/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>V LIVE ─ CHARTS</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 10 Oct 2022 06:30:28 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[찬이의 "방" 🐺 Ep. 178]]></title>
+            <link>https://www.vlive.tv/video/292631</link>
+            <guid>https://www.vlive.tv/video/292631</guid>
+            <pubDate>Mon, 10 Oct 2022 06:29:42 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221009_225/1665313447448DBcdT_JPEG/bc6fd858-47c1-11ed-8892-505dac8c35ff_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🦎🦎🦎]]></title>
+            <link>https://www.vlive.tv/video/292633</link>
+            <guid>https://www.vlive.tv/video/292633</guid>
+            <pubDate>Mon, 10 Oct 2022 06:29:42 GMT</pubDate>
+            <content:encoded><![CDATA[TWICE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221009_187/1665316616587zT2PC_JPEG/48462ba7-47c9-11ed-b6e8-48df37ae3dc4_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[💜🌸]]></title>
+            <link>https://www.vlive.tv/video/292632</link>
+            <guid>https://www.vlive.tv/video/292632</guid>
+            <pubDate>Mon, 10 Oct 2022 06:29:42 GMT</pubDate>
+            <content:encoded><![CDATA[TWICE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221009_19/16653158839958xW4q_JPEG/bd024535-47c7-11ed-9aa2-505dac8c3721_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(여자)아이들((G)I-DLE) - 5th Mini Album "I love" Audio Snippet]]></title>
+            <link>https://www.vlive.tv/video/292641</link>
+            <guid>https://www.vlive.tv/video/292641</guid>
+            <pubDate>Mon, 10 Oct 2022 06:29:42 GMT</pubDate>
+            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221009_149/1665326103684PXIsN_JPEG/upload_1094057827228880403d676ddf-9b18-43b8-aeab-42bf71600ac9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 2]]></title>
+            <link>https://www.vlive.tv/video/289928</link>
+            <guid>https://www.vlive.tv/video/289928</guid>
+            <pubDate>Mon, 10 Oct 2022 06:29:42 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220824_277/1661325776060GNHYn_JPEG/upload_105405488087786008317d78ca-7903-4ba4-975b-e9e5827f79fe.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dinner Date with ChanYue💚💜]]></title>
+            <link>https://www.vlive.tv/video/292629</link>
+            <guid>https://www.vlive.tv/video/292629</guid>
+            <pubDate>Mon, 10 Oct 2022 06:29:42 GMT</pubDate>
+            <content:encoded><![CDATA[Lapillus]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221009_86/16653093051119UkNf_JPEG/1781848341086136575265d2a3-16b6-483e-b38c-e67c66e8496a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stray Kids(스트레이 키즈) "CASE 143" M/V Reaction]]></title>
+            <link>https://www.vlive.tv/video/292586</link>
+            <guid>https://www.vlive.tv/video/292586</guid>
+            <pubDate>Mon, 10 Oct 2022 06:29:42 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221008_153/1665196467011dT8q5_JPEG/upload_8146389771135925973b15f4f-12fd-4459-a5ba-51c31d84d6c3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
