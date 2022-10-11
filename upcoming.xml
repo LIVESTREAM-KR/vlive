@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Oct 2022 07:19:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Oct 2022 08:03:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,13 +40,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221007_112/1665121679470s92V2_PNG/upload_10920134765368289138f600e6-7f8d-470a-8689-7048bc077013.png?type=f228_128" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[LIVE] Runtime 23🐧]]></title>
-            <link>https://www.vlive.tv/video/292677</link>
-            <guid>https://www.vlive.tv/video/292677</guid>
-            <pubDate>Tue, 11 Oct 2022 07:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[오전 6:45]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[Arirang Radio / Super K-Pop]Oh My K-Pop with NIve #AB6IX #에이비식스]]></title>
             <link>https://www.vlive.tv/video/292475</link>
             <guid>https://www.vlive.tv/video/292475</guid>
@@ -63,11 +56,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20221006_83/1665042026383jaVmR_JPEG/upload_10912173435766272692fdfce3-0608-4fe0-a134-bcd1e182219f.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[LIVE] Runtime 23🐧]]></title>
+            <link>https://www.vlive.tv/video/292677</link>
+            <guid>https://www.vlive.tv/video/292677</guid>
+            <pubDate>Tue, 11 Oct 2022 07:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[오전 7:31]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221011_71/1665473504279MVbMm_JPEG/2d5378f4-4936-11ed-8bc9-d4f5ef5906a4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[송도]]></title>
             <link>https://www.vlive.tv/video/292678</link>
             <guid>https://www.vlive.tv/video/292678</guid>
             <pubDate>Tue, 11 Oct 2022 07:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[오전 7:03]]></content:encoded>
+            <content:encoded><![CDATA[오전 7:38]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221011_37/1665473929705dvvlE_JPEG/6de70995-4937-11ed-a57b-505dac8c385b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
