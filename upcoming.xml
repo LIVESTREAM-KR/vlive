@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Oct 2022 11:47:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Oct 2022 13:34:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -244,15 +244,15 @@
             <link>https://www.vlive.tv/video/292697</link>
             <guid>https://www.vlive.tv/video/292697</guid>
             <pubDate>Tue, 11 Oct 2022 11:46:42 GMT</pubDate>
-            <content:encoded><![CDATA[오전 11:13]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/292697/thumb?type=f228_128" length="0" type="image//live/292697/thumb"/>
+            <content:encoded><![CDATA[오후 12:05]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221011_18/1665489939594IFPwE_JPEG/51823511-495c-11ed-bbda-505dac8c37f3_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[노래방 브이앱 🎤]]></title>
             <link>https://www.vlive.tv/video/292698</link>
             <guid>https://www.vlive.tv/video/292698</guid>
             <pubDate>Tue, 11 Oct 2022 11:46:42 GMT</pubDate>
-            <content:encoded><![CDATA[오전 11:18]]></content:encoded>
+            <content:encoded><![CDATA[오후 1:03]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221011_59/1665487099770mrn9Q_JPEG/1046435826201255843b721875-393b-4bc3-a5c0-cb9b003838ec.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
