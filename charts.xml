@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Oct 2022 18:59:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Oct 2022 19:46:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,14 +40,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221011_3/1665476706587ciD8F_JPEG/178265017542409665332c7488-b098-4970-a2cf-010969cabca0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Stray Kids(스트레이 키즈) "CASE 143" M/V MAKING FILM]]></title>
-            <link>https://www.vlive.tv/video/292663</link>
-            <guid>https://www.vlive.tv/video/292663</guid>
-            <pubDate>Tue, 11 Oct 2022 06:28:17 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221010_212/1665399178267HOVpb_JPEG/upload_109478456149855604e038993b-4703-400a-94a3-30e464d756d9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 1]]></title>
             <link>https://www.vlive.tv/video/289368</link>
             <guid>https://www.vlive.tv/video/289368</guid>
@@ -62,6 +54,14 @@
             <pubDate>Tue, 11 Oct 2022 15:56:38 GMT</pubDate>
             <content:encoded><![CDATA[VIVIZ (비비지)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221011_194/1665498814333b76cw_JPEG/44f173f6-4971-11ed-a14d-505dac8c3607_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stray Kids(스트레이 키즈) "CASE 143" M/V MAKING FILM]]></title>
+            <link>https://www.vlive.tv/video/292663</link>
+            <guid>https://www.vlive.tv/video/292663</guid>
+            <pubDate>Tue, 11 Oct 2022 06:28:17 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221010_212/1665399178267HOVpb_JPEG/upload_109478456149855604e038993b-4703-400a-94a3-30e464d756d9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
