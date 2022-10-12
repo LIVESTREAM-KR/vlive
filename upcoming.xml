@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Oct 2022 17:26:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Oct 2022 18:04:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -398,6 +398,14 @@
             <pubDate>Wed, 12 Oct 2022 14:59:15 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:31]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221013_188/1665588711013paAD0_JPEG/87b02c6c-4a42-11ed-8892-505dac8c35ff_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[덴버 대기실에서]]></title>
+            <link>https://www.vlive.tv/video/292763</link>
+            <guid>https://www.vlive.tv/video/292763</guid>
+            <pubDate>Wed, 12 Oct 2022 18:04:09 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:48]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221013_4/1665596913448jhulL_JPEG/db75a805-4a55-11ed-b6e8-48df37ae3dc4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
