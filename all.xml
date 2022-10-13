@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Oct 2022 21:49:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Oct 2022 22:53:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -390,14 +390,6 @@
             <pubDate>Thu, 13 Oct 2022 15:54:38 GMT</pubDate>
             <content:encoded><![CDATA[오후 4:42]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221014_92/1665679339015qyFKN_JPEG/7a00001b-4b15-11ed-9aa2-505dac8c3721_03.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영생의 잠못드는 밤에 (V LIVE ─ 일정표)]]></title>
-            <link>https://www.vlive.tv/video/292827</link>
-            <guid>https://www.vlive.tv/video/292827</guid>
-            <pubDate>Thu, 13 Oct 2022 19:46:55 GMT</pubDate>
-            <content:encoded><![CDATA[오후 7:08]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221014_130/1665685246854CeSSo_JPEG/10040198400545837e82eb6ef-f908-4baa-82c9-58ee02af8014.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
