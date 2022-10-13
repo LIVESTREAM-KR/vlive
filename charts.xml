@@ -1,67 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>V LIVE ─ CHARTS</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 13 Oct 2022 10:54:28 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Jimin Enters]]></title>
-            <link>https://www.vlive.tv/video/265730</link>
-            <guid>https://www.vlive.tv/video/265730</guid>
-            <pubDate>Wed, 12 Oct 2022 09:54:23 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211013_144/1634122553955eHKox_JPEG/upload_78202275760730696931ec09d-bfa2-4361-8b27-5b66010714b3.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 2]]></title>
-            <link>https://www.vlive.tv/video/289928</link>
-            <guid>https://www.vlive.tv/video/289928</guid>
-            <pubDate>Tue, 11 Oct 2022 06:28:17 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220824_277/1661325776060GNHYn_JPEG/upload_105405488087786008317d78ca-7903-4ba4-975b-e9e5827f79fe.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BLACKPINK WORLD TOUR [BORN PINK] BAND PRACTICE SKETCH]]></title>
-            <link>https://www.vlive.tv/video/292789</link>
-            <guid>https://www.vlive.tv/video/292789</guid>
-            <pubDate>Thu, 13 Oct 2022 08:58:16 GMT</pubDate>
-            <content:encoded><![CDATA[BLACKPINK]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221013_292/1665637329440MEaLW_JPEG/upload_109716782859222269f3f751f1-f611-450e-8c60-48482616076a.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stray Kids(스트레이 키즈) "CASE 143" Dance Practice Video]]></title>
-            <link>https://www.vlive.tv/video/292699</link>
-            <guid>https://www.vlive.tv/video/292699</guid>
-            <pubDate>Wed, 12 Oct 2022 16:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221012_217/1665559139863W1DFK_JPEG/upload_81828739320466143be638d0c-957e-4cec-80bf-8b992bb2b846.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 1]]></title>
-            <link>https://www.vlive.tv/video/289368</link>
-            <guid>https://www.vlive.tv/video/289368</guid>
-            <pubDate>Tue, 11 Oct 2022 17:56:57 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220812_138/1660264042259WLREz_JPEG/upload_1043437541963210687545b394-698c-42fc-ade5-7c29af587fb7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TREASURE - ‘THE SECOND STEP : CHAPTER TWO’ DOCUMENTARY FILM EP.1]]></title>
-            <link>https://www.vlive.tv/video/292757</link>
-            <guid>https://www.vlive.tv/video/292757</guid>
-            <pubDate>Thu, 13 Oct 2022 05:10:52 GMT</pubDate>
-            <content:encoded><![CDATA[TREASURE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221013_260/1665623955909N8sik_JPEG/upload_10965767972822878113f9368d-9c58-4427-adab-135c82a3c48c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Stray Kids : SKZ-TALKER] Ep.49]]></title>
-            <link>https://www.vlive.tv/video/292695</link>
-            <guid>https://www.vlive.tv/video/292695</guid>
-            <pubDate>Thu, 13 Oct 2022 10:53:39 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221011_274/1665485615872emAX3_JPEG/upload_1095645071673206831fc3fd68-0077-4ce7-9383-8699f74caabb.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.vlive.tv/home/chart/more?pageNo=1&amp;pageSize=50&amp;viewType=recent&amp;lang=ko</id>
+    <title>V LIVE ─ CHARTS</title>
+    <updated>2022-10-13T11:47:32.088Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.vlive.tv/home/chart/favicon.ico</icon>
+</feed>
