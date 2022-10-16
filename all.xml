@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Oct 2022 07:48:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Oct 2022 08:55:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Sun, 16 Oct 2022 06:03:26 GMT</pubDate>
             <content:encoded><![CDATA[오전 5:08]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221016_70/1665896919385dPKlH_JPEG/716d306d-4d10-11ed-b07a-48df37ae3fca_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🍁 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/292909</link>
+            <guid>https://www.vlive.tv/video/292909</guid>
+            <pubDate>Sun, 16 Oct 2022 08:55:30 GMT</pubDate>
+            <content:encoded><![CDATA[오전 8:40]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221016_242/16659091770896zuHe_JPEG/17878479306155015829abf27f-56d0-497c-9c7c-6a042159e083.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
