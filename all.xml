@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Oct 2022 14:56:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Oct 2022 15:59:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,14 +272,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221018_71/1666103294406tuMTO_JPEG/17897882437220394289c2f770-96a4-461b-b0d8-d0c7380d9bf4.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아쉽잖아 30분은 (V LIVE ─ 일정표)]]></title>
-            <link>https://www.vlive.tv/video/293012</link>
-            <guid>https://www.vlive.tv/video/293012</guid>
-            <pubDate>Tue, 18 Oct 2022 14:56:10 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:39]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221018_240/1666103983540CNNWh_JPEG/178979500507551082859f605a-7d8f-4763-a673-ea4daa0971cf.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[헤이걸스 왔다아~!!💛✨🧡🐰 (V LIVE ─ 일정표)]]></title>
             <link>https://www.vlive.tv/video/293008</link>
             <guid>https://www.vlive.tv/video/293008</guid>
@@ -302,6 +294,22 @@
             <pubDate>Tue, 18 Oct 2022 03:25:28 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221016_129/1665916831304kB6eD_PNG/upload_109996564453671379c2cfeb23-f1ae-4bdb-9004-8701fa887de9.png?type=f228_128" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[오랜만에 브이라이브✌️ (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/293013</link>
+            <guid>https://www.vlive.tv/video/293013</guid>
+            <pubDate>Tue, 18 Oct 2022 15:58:35 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:25]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221019_224/1666106708957cVDl0_JPEG/b07448fe-4ef8-11ed-bf94-d4f5ef590144_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아쉽잖아 30분은 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/293012</link>
+            <guid>https://www.vlive.tv/video/293012</guid>
+            <pubDate>Tue, 18 Oct 2022 14:56:10 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:44]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221018_240/1666103983540CNNWh_JPEG/178979500507551082859f605a-7d8f-4763-a673-ea4daa0971cf.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
