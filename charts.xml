@@ -1,8 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.vlive.tv/home/chart/more?pageNo=1&amp;pageSize=50&amp;viewType=recent&amp;lang=ko</id>
-    <title>V LIVE ─ CHARTS</title>
-    <updated>2022-10-18T15:59:00.231Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.vlive.tv/home/chart/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>V LIVE ─ CHARTS</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 18 Oct 2022 17:21:07 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#1 on Billboard 200 AGAIN🏆 STAY, 143💗]]></title>
+            <link>https://www.vlive.tv/video/292975</link>
+            <guid>https://www.vlive.tv/video/292975</guid>
+            <pubDate>Tue, 18 Oct 2022 17:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221018_128/16660676545019bm7t_JPEG/0502765d-4e9e-11ed-a14d-505dac8c3607_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Stray Kids(스트레이 키즈) : SKZ-TALKER(슼즈토커)] Ep.50]]></title>
+            <link>https://www.vlive.tv/video/292995</link>
+            <guid>https://www.vlive.tv/video/292995</guid>
+            <pubDate>Tue, 18 Oct 2022 17:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221018_164/1666090223921f7N56_JPEG/upload_8235863258206740089d4f4f8-d20e-461e-b6f0-2f022a5da6be.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[월간 5️⃣☀️1️⃣ #5]]></title>
+            <link>https://www.vlive.tv/video/292996</link>
+            <guid>https://www.vlive.tv/video/292996</guid>
+            <pubDate>Tue, 18 Oct 2022 17:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[NMIXX]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221018_253/1666098618448iRbrI_JPEG/95f625b9-4ee4-11ed-bbda-505dac8c37f3_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 2]]></title>
+            <link>https://www.vlive.tv/video/289928</link>
+            <guid>https://www.vlive.tv/video/289928</guid>
+            <pubDate>Tue, 18 Oct 2022 17:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220824_277/1661325776060GNHYn_JPEG/upload_105405488087786008317d78ca-7903-4ba4-975b-e9e5827f79fe.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stray Kids(스트레이 키즈) "SUPER BOARD" Video]]></title>
+            <link>https://www.vlive.tv/video/292929</link>
+            <guid>https://www.vlive.tv/video/292929</guid>
+            <pubDate>Tue, 18 Oct 2022 17:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221016_149/1665931277282jRrTi_JPEG/upload_110010998358454520dc35ef93-393a-4949-b00c-b277d0849a05.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[찬이의 “방” 🐺 Ep. 179]]></title>
+            <link>https://www.vlive.tv/video/292895</link>
+            <guid>https://www.vlive.tv/video/292895</guid>
+            <pubDate>Tue, 18 Oct 2022 17:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221015_254/1665843143210grpvM_JPEG/b657ffc2-4c92-11ed-8bc9-d4f5ef5906a4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 1]]></title>
+            <link>https://www.vlive.tv/video/289368</link>
+            <guid>https://www.vlive.tv/video/289368</guid>
+            <pubDate>Tue, 18 Oct 2022 17:20:23 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220812_138/1660264042259WLREz_JPEG/upload_1043437541963210687545b394-698c-42fc-ade5-7c29af587fb7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
