@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Oct 2022 14:59:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Oct 2022 16:00:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -456,12 +456,36 @@
             <enclosure url="https://vlive-thumb.pstatic.net/live/293079/thumb?type=f228_128" length="0" type="image//live/293079/thumb"/>
         </item>
         <item>
+            <title><![CDATA[ONCE & TWICE 7TH ANNIVERSARY : The Promise of Everlasting Path of US (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/293045</link>
+            <guid>https://www.vlive.tv/video/293045</guid>
+            <pubDate>Wed, 19 Oct 2022 15:59:33 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221019_145/1666168865401XVOrf_JPEG/upload_1102430401159779719ae72f12-7aa0-4a86-9bdb-6f3e980fafd9.JPG?type=f228_128" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[ITZY(있지) “Boys Like You” M/V Teaser 2 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/293063</link>
+            <guid>https://www.vlive.tv/video/293063</guid>
+            <pubDate>Wed, 19 Oct 2022 15:59:33 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221019_164/16661703078399lKqc_JPEG/upload_110249968903931600929c18b6-1c76-40b2-99e9-01c67e165de2.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[???? (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/293081</link>
+            <guid>https://www.vlive.tv/video/293081</guid>
+            <pubDate>Wed, 19 Oct 2022 15:59:33 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:44]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/293081/thumb?type=f228_128" length="0" type="image//live/293081/thumb"/>
+        </item>
+        <item>
             <title><![CDATA[1- (V LIVE ─ 일정표)]]></title>
             <link>https://www.vlive.tv/video/293080</link>
             <guid>https://www.vlive.tv/video/293080</guid>
             <pubDate>Wed, 19 Oct 2022 14:59:11 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:58]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/293080/thumb?type=f228_128" length="0" type="image//live/293080/thumb"/>
+            <content:encoded><![CDATA[오후 3:48]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221020_58/1666194492419O920K_JPEG/edcc0ba7-4fc4-11ed-bf94-d4f5ef590144_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
