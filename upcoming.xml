@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Oct 2022 13:36:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Oct 2022 14:59:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,14 +256,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221020_172/16662712219307XYcn_JPEG/bdadfd32-5077-11ed-b41c-48df379cc9e4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[진석이의 별빛라디오⭐️]]></title>
-            <link>https://www.vlive.tv/video/293118</link>
-            <guid>https://www.vlive.tv/video/293118</guid>
-            <pubDate>Thu, 20 Oct 2022 13:36:13 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:15]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/293118/thumb?type=f228_128" length="0" type="image//live/293118/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[승현댄스 커밍]]></title>
             <link>https://www.vlive.tv/video/293116</link>
             <guid>https://www.vlive.tv/video/293116</guid>
@@ -280,12 +272,36 @@
             <enclosure url="https://v-phinf.pstatic.net/20221020_249/1666263602602WX1Ta_JPEG/upload_82532541475322547386e6962-6075-49e4-bf68-253a96fb0888.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[진석이의 별빛라디오⭐️]]></title>
+            <link>https://www.vlive.tv/video/293118</link>
+            <guid>https://www.vlive.tv/video/293118</guid>
+            <pubDate>Thu, 20 Oct 2022 13:36:13 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:09]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221020_235/1666274969954QgQ1n_JPEG/1f6daa52-5080-11ed-b41c-48df379cc9e4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[식사는 잡쉈어?]]></title>
+            <link>https://www.vlive.tv/video/293120</link>
+            <guid>https://www.vlive.tv/video/293120</guid>
+            <pubDate>Thu, 20 Oct 2022 14:59:09 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:18]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221020_170/1666273263304eaOz8_JPEG/1791488452999920990480aa77-9f87-4b65-bd19-00154e200038.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[은태찬래 ❤️]]></title>
+            <link>https://www.vlive.tv/video/293122</link>
+            <guid>https://www.vlive.tv/video/293122</guid>
+            <pubDate>Thu, 20 Oct 2022 14:59:09 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:37]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221020_182/1666276659078kRY6C_JPEG/179152188026915195a39baff0-a2f4-47ff-b47b-67d7e90ed4ba.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[💙🙃]]></title>
             <link>https://www.vlive.tv/video/293119</link>
             <guid>https://www.vlive.tv/video/293119</guid>
             <pubDate>Thu, 20 Oct 2022 13:36:13 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:32]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/293119/thumb?type=f228_128" length="0" type="image//live/293119/thumb"/>
+            <content:encoded><![CDATA[오후 2:40]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221020_154/1666276822554xeTIO_JPEG/9809882f-5084-11ed-9f1e-d4f5ef5a9532_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
