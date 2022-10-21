@@ -1,8 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.vlive.tv/home/chart/more?pageNo=1&amp;pageSize=50&amp;viewType=recent&amp;lang=ko</id>
-    <title>V LIVE ─ CHARTS</title>
-    <updated>2022-10-21T22:52:27.847Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.vlive.tv/home/chart/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>V LIVE ─ CHARTS</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 21 Oct 2022 23:54:59 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Mabuhay~!!! Villains!!!]]></title>
+            <link>https://www.vlive.tv/video/293192</link>
+            <guid>https://www.vlive.tv/video/293192</guid>
+            <pubDate>Fri, 21 Oct 2022 23:54:12 GMT</pubDate>
+            <content:encoded><![CDATA[Xdinary Heroes]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221022_79/16663646553066xrpD_JPEG/683d6c62-5151-11ed-8bc9-d4f5ef5906a4_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 2]]></title>
+            <link>https://www.vlive.tv/video/289928</link>
+            <guid>https://www.vlive.tv/video/289928</guid>
+            <pubDate>Fri, 21 Oct 2022 23:54:12 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220824_277/1661325776060GNHYn_JPEG/upload_105405488087786008317d78ca-7903-4ba4-975b-e9e5827f79fe.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ITZY(있지) “Boys Like You” M/V]]></title>
+            <link>https://www.vlive.tv/video/293130</link>
+            <guid>https://www.vlive.tv/video/293130</guid>
+            <pubDate>Fri, 21 Oct 2022 23:54:12 GMT</pubDate>
+            <content:encoded><![CDATA[ITZY]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221021_89/1666307432620s4tVR_JPEG/upload_1103871420326203076170f4c9-b575-459f-bb3b-8e9ecd908fc0.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[살살하네 이제]]></title>
+            <link>https://www.vlive.tv/video/293174</link>
+            <guid>https://www.vlive.tv/video/293174</guid>
+            <pubDate>Fri, 21 Oct 2022 23:54:12 GMT</pubDate>
+            <content:encoded><![CDATA[DAY6]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221021_88/1666349242017VIIAY_JPEG/58ce0c28-512d-11ed-b25c-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#Happy_Chilland7Day MINI ONLINE LIVE🍭]]></title>
+            <link>https://www.vlive.tv/video/293115</link>
+            <guid>https://www.vlive.tv/video/293115</guid>
+            <pubDate>Fri, 21 Oct 2022 23:54:12 GMT</pubDate>
+            <content:encoded><![CDATA[TWICE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221020_249/1666263602602WX1Ta_JPEG/upload_82532541475322547386e6962-6075-49e4-bf68-253a96fb0888.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stray Kids(스트레이 키즈) "식혀" Video]]></title>
+            <link>https://www.vlive.tv/video/292997</link>
+            <guid>https://www.vlive.tv/video/292997</guid>
+            <pubDate>Fri, 21 Oct 2022 23:54:12 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221018_55/1666090757208b8PwH_JPEG/upload_110170437186508192e398efa8-2d2d-414d-8f8f-1c9ca3dc07cc.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TWICE 7TH ANNIVERSARY "Together 1&2" MD Behind the Scenes]]></title>
+            <link>https://www.vlive.tv/video/293160</link>
+            <guid>https://www.vlive.tv/video/293160</guid>
+            <pubDate>Fri, 21 Oct 2022 23:54:12 GMT</pubDate>
+            <content:encoded><![CDATA[TWICE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221021_134/1666332298653UwnPT_JPEG/upload_110412026453160894ba1a0035-8f17-43e8-96a9-5ce16b794324.JPG?type=f228_128_wp" length="0" type="image/JPG"/>
+        </item>
+    </channel>
+</rss>
