@@ -1,8 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.vlive.tv/home/chart/more?pageNo=1&amp;pageSize=50&amp;viewType=recent&amp;lang=ko</id>
-    <title>V LIVE ─ CHARTS</title>
-    <updated>2022-10-22T13:23:36.149Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.vlive.tv/home/chart/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>V LIVE ─ CHARTS</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 22 Oct 2022 14:01:58 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Mabuhay~!!! Villains!!!]]></title>
+            <link>https://www.vlive.tv/video/293192</link>
+            <guid>https://www.vlive.tv/video/293192</guid>
+            <pubDate>Sat, 22 Oct 2022 14:01:15 GMT</pubDate>
+            <content:encoded><![CDATA[Xdinary Heroes]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221022_79/16663646553066xrpD_JPEG/683d6c62-5151-11ed-8bc9-d4f5ef5906a4_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 2]]></title>
+            <link>https://www.vlive.tv/video/289928</link>
+            <guid>https://www.vlive.tv/video/289928</guid>
+            <pubDate>Sat, 22 Oct 2022 14:01:15 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220824_277/1661325776060GNHYn_JPEG/upload_105405488087786008317d78ca-7903-4ba4-975b-e9e5827f79fe.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘은 닭이당 with STAY💙🍗 #먹방 #용복 #felix]]></title>
+            <link>https://www.vlive.tv/video/293074</link>
+            <guid>https://www.vlive.tv/video/293074</guid>
+            <pubDate>Sat, 22 Oct 2022 14:01:15 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221019_1/16661875255681QQLg_JPEG/upload_82457130329503239756bbd96-77db-4819-ab7a-b92740380625.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE] 오사카 셂송]]></title>
+            <link>https://www.vlive.tv/video/293193</link>
+            <guid>https://www.vlive.tv/video/293193</guid>
+            <pubDate>Sat, 22 Oct 2022 14:01:15 GMT</pubDate>
+            <content:encoded><![CDATA[CRAVITY]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221022_297/1666406814754vMF7b_JPEG/ad07fd9e-5157-11ed-bf94-d4f5ef590144_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[#Happy_Chilland7Day MINI ONLINE LIVE🍭]]></title>
+            <link>https://www.vlive.tv/video/293115</link>
+            <guid>https://www.vlive.tv/video/293115</guid>
+            <pubDate>Sat, 22 Oct 2022 14:01:15 GMT</pubDate>
+            <content:encoded><![CDATA[TWICE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221020_249/1666263602602WX1Ta_JPEG/upload_82532541475322547386e6962-6075-49e4-bf68-253a96fb0888.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KIHYUN 기현 'YOUTH' Preview]]></title>
+            <link>https://www.vlive.tv/video/293110</link>
+            <guid>https://www.vlive.tv/video/293110</guid>
+            <pubDate>Sat, 22 Oct 2022 14:01:15 GMT</pubDate>
+            <content:encoded><![CDATA[MONSTA X]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221020_21/1666258288696FKKaV_JPEG/upload_110338016715590647ff70db2b-bb58-4352-8250-1e40c7147623.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Xdinary Heroes <Overload> Instrumental Live Sampler]]></title>
+            <link>https://www.vlive.tv/video/293189</link>
+            <guid>https://www.vlive.tv/video/293189</guid>
+            <pubDate>Sat, 22 Oct 2022 14:01:15 GMT</pubDate>
+            <content:encoded><![CDATA[Xdinary Heroes]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221022_222/1666365541478xeswc_PNG/upload_826307881454567423cd54967-fccb-4252-b4ea-704f9bf1f7e9.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
