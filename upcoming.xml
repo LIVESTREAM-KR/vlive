@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Oct 2022 08:58:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Oct 2022 09:51:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,19 +48,44 @@
             <enclosure url="https://v-phinf.pstatic.net/20221018_93/1666081657505G1xvw_JPEG/upload_823381505744807753939d61f-449b-4d77-9094-95d9b362d4b9.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[주말 연남동 카페 (Weekend Yeonnam-dong Cafe)]]></title>
-            <link>https://www.vlive.tv/video/293207</link>
-            <guid>https://www.vlive.tv/video/293207</guid>
-            <pubDate>Sat, 22 Oct 2022 08:57:48 GMT</pubDate>
-            <content:encoded><![CDATA[오전 8:09]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221022_181/1666426195728XzsRK_JPEG/1793017247079242921ceaf7a3-5e14-4fe0-8750-b39c4ed7efb8.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[즐거운주말 ㅎ]]></title>
             <link>https://www.vlive.tv/video/293208</link>
             <guid>https://www.vlive.tv/video/293208</guid>
             <pubDate>Sat, 22 Oct 2022 08:57:48 GMT</pubDate>
             <content:encoded><![CDATA[오전 8:55]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/293208/thumb?type=f228_128" length="0" type="image//live/293208/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[비투비 (BTOB) - 비트콤 168화 (구공탄의 공포영화 리액션👻)]]></title>
+            <link>https://www.vlive.tv/video/293091</link>
+            <guid>https://www.vlive.tv/video/293091</guid>
+            <pubDate>Sat, 22 Oct 2022 09:51:30 GMT</pubDate>
+            <content:encoded><![CDATA[오전 9:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221021_128/1666344589191l8meR_JPEG/upload_1104243218985910354f433959-cfe3-4465-82b8-e90b24b02602.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[농구판으로 돌아온 허재, 입이 문제야 | 허재 '유린타민' 광고 비하인드]]></title>
+            <link>https://www.vlive.tv/video/293139</link>
+            <guid>https://www.vlive.tv/video/293139</guid>
+            <pubDate>Sat, 22 Oct 2022 09:51:30 GMT</pubDate>
+            <content:encoded><![CDATA[오전 9:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221021_55/1666315257847wv18v_JPEG/upload_11039498750381132284f6f4d4-d8e4-4ec4-9d9b-989a13e94f88.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주말 연남동 카페 (Weekend Yeonnam-dong Cafe)]]></title>
+            <link>https://www.vlive.tv/video/293207</link>
+            <guid>https://www.vlive.tv/video/293207</guid>
+            <pubDate>Sat, 22 Oct 2022 08:57:48 GMT</pubDate>
+            <content:encoded><![CDATA[오전 9:13]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221022_181/1666426195728XzsRK_JPEG/1793017247079242921ceaf7a3-5e14-4fe0-8750-b39c4ed7efb8.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[케이시여라 vol.2 마지막]]></title>
+            <link>https://www.vlive.tv/video/293209</link>
+            <guid>https://www.vlive.tv/video/293209</guid>
+            <pubDate>Sat, 22 Oct 2022 09:51:30 GMT</pubDate>
+            <content:encoded><![CDATA[오전 9:26]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221022_239/1666429206462FpHNi_JPEG/179304788453572269a6aafbf5-7532-4dc1-a433-372b0e847761.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
