@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Oct 2022 07:48:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Oct 2022 08:58:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,6 +102,21 @@
             <pubDate>Sat, 22 Oct 2022 03:08:32 GMT</pubDate>
             <content:encoded><![CDATA[오전 7:14]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221018_93/1666081657505G1xvw_JPEG/upload_823381505744807753939d61f-449b-4d77-9094-95d9b362d4b9.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주말 연남동 카페 (Weekend Yeonnam-dong Cafe) (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/293207</link>
+            <guid>https://www.vlive.tv/video/293207</guid>
+            <pubDate>Sat, 22 Oct 2022 08:57:48 GMT</pubDate>
+            <content:encoded><![CDATA[오전 8:09]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221022_181/1666426195728XzsRK_JPEG/1793017247079242921ceaf7a3-5e14-4fe0-8750-b39c4ed7efb8.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[즐거운주말 ㅎ (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/293208</link>
+            <guid>https://www.vlive.tv/video/293208</guid>
+            <pubDate>Sat, 22 Oct 2022 08:57:48 GMT</pubDate>
+            <content:encoded><![CDATA[오전 8:55]]></content:encoded>
         </item>
     </channel>
 </rss>
