@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Oct 2022 10:52:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Oct 2022 11:46:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,12 +48,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20221020_249/1666263602602WX1Ta_JPEG/upload_82532541475322547386e6962-6075-49e4-bf68-253a96fb0888.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[살살하네 이제 (V LIVE ─ CHARTS)]]></title>
-            <link>https://www.vlive.tv/video/293174</link>
-            <guid>https://www.vlive.tv/video/293174</guid>
-            <pubDate>Sat, 22 Oct 2022 10:51:54 GMT</pubDate>
-            <content:encoded><![CDATA[DAY6]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221021_88/1666349242017VIIAY_JPEG/58ce0c28-512d-11ed-b25c-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <title><![CDATA[[LIVE] 오사카 셂송 (V LIVE ─ CHARTS)]]></title>
+            <link>https://www.vlive.tv/video/293193</link>
+            <guid>https://www.vlive.tv/video/293193</guid>
+            <pubDate>Sat, 22 Oct 2022 11:45:20 GMT</pubDate>
+            <content:encoded><![CDATA[CRAVITY]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221022_297/1666406814754vMF7b_JPEG/ad07fd9e-5157-11ed-bf94-d4f5ef590144_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Stray Kids(스트레이 키즈) "식혀" Video (V LIVE ─ CHARTS)]]></title>
@@ -161,19 +161,26 @@
         </item>
         <item>
             <title><![CDATA[뿌이앱 (V LIVE ─ 일정표)]]></title>
-            <link>https://www.vlive.tv/video/293213</link>
-            <guid>https://www.vlive.tv/video/293213</guid>
-            <pubDate>Sat, 22 Oct 2022 10:52:16 GMT</pubDate>
-            <content:encoded><![CDATA[오전 10:30]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221022_288/1666434652627ohq8J_JPEG/1793101895748993020dbf90ae-8256-4b4c-93c8-606cba8bafe6.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뿌이앱 (V LIVE ─ 일정표)]]></title>
             <link>https://www.vlive.tv/video/293212</link>
             <guid>https://www.vlive.tv/video/293212</guid>
             <pubDate>Sat, 22 Oct 2022 10:52:16 GMT</pubDate>
             <content:encoded><![CDATA[오전 10:31]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221022_43/1666434438779B7voS_JPEG/1793100377720158448b7d3ea3-0d4c-43f2-99f7-39c09337df43.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[It's Xiwoo Time❣#67 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/293214</link>
+            <guid>https://www.vlive.tv/video/293214</guid>
+            <pubDate>Sat, 22 Oct 2022 11:45:38 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:19]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뿌이앱 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/293213</link>
+            <guid>https://www.vlive.tv/video/293213</guid>
+            <pubDate>Sat, 22 Oct 2022 10:52:16 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:26]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221022_288/1666434652627ohq8J_JPEG/1793101895748993020dbf90ae-8256-4b4c-93c8-606cba8bafe6.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

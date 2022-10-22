@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Oct 2022 10:52:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Oct 2022 11:46:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -105,19 +105,26 @@
         </item>
         <item>
             <title><![CDATA[뿌이앱]]></title>
-            <link>https://www.vlive.tv/video/293213</link>
-            <guid>https://www.vlive.tv/video/293213</guid>
-            <pubDate>Sat, 22 Oct 2022 10:52:16 GMT</pubDate>
-            <content:encoded><![CDATA[오전 10:30]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221022_288/1666434652627ohq8J_JPEG/1793101895748993020dbf90ae-8256-4b4c-93c8-606cba8bafe6.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뿌이앱]]></title>
             <link>https://www.vlive.tv/video/293212</link>
             <guid>https://www.vlive.tv/video/293212</guid>
             <pubDate>Sat, 22 Oct 2022 10:52:16 GMT</pubDate>
             <content:encoded><![CDATA[오전 10:31]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221022_43/1666434438779B7voS_JPEG/1793100377720158448b7d3ea3-0d4c-43f2-99f7-39c09337df43.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[It's Xiwoo Time❣#67]]></title>
+            <link>https://www.vlive.tv/video/293214</link>
+            <guid>https://www.vlive.tv/video/293214</guid>
+            <pubDate>Sat, 22 Oct 2022 11:45:38 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:19]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[뿌이앱]]></title>
+            <link>https://www.vlive.tv/video/293213</link>
+            <guid>https://www.vlive.tv/video/293213</guid>
+            <pubDate>Sat, 22 Oct 2022 10:52:16 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:26]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221022_288/1666434652627ohq8J_JPEG/1793101895748993020dbf90ae-8256-4b4c-93c8-606cba8bafe6.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
