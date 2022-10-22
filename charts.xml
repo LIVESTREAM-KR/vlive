@@ -4,17 +4,9 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Oct 2022 14:49:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Oct 2022 15:52:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Mabuhay~!!! Villains!!!]]></title>
-            <link>https://www.vlive.tv/video/293192</link>
-            <guid>https://www.vlive.tv/video/293192</guid>
-            <pubDate>Sat, 22 Oct 2022 14:01:15 GMT</pubDate>
-            <content:encoded><![CDATA[Xdinary Heroes]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221022_79/16663646553066xrpD_JPEG/683d6c62-5151-11ed-8bc9-d4f5ef5906a4_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 2]]></title>
             <link>https://www.vlive.tv/video/289928</link>
@@ -30,6 +22,14 @@
             <pubDate>Sat, 22 Oct 2022 14:01:15 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221019_1/16661875255681QQLg_JPEG/upload_82457130329503239756bbd96-77db-4819-ab7a-b92740380625.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뿌이앱]]></title>
+            <link>https://www.vlive.tv/video/293213</link>
+            <guid>https://www.vlive.tv/video/293213</guid>
+            <pubDate>Sat, 22 Oct 2022 14:48:55 GMT</pubDate>
+            <content:encoded><![CDATA[MAJORS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221022_288/1666434652627ohq8J_JPEG/1793101895748993020dbf90ae-8256-4b4c-93c8-606cba8bafe6.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[LIVE] 오사카 셂송]]></title>
@@ -56,12 +56,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20221022_222/1666365541478xeswc_PNG/upload_826307881454567423cd54967-fccb-4252-b4ea-704f9bf1f7e9.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[뿌이앱]]></title>
-            <link>https://www.vlive.tv/video/293213</link>
-            <guid>https://www.vlive.tv/video/293213</guid>
-            <pubDate>Sat, 22 Oct 2022 14:48:55 GMT</pubDate>
-            <content:encoded><![CDATA[MAJORS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221022_288/1666434652627ohq8J_JPEG/1793101895748993020dbf90ae-8256-4b4c-93c8-606cba8bafe6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <title><![CDATA[Mabuhay~!!! Villains!!!]]></title>
+            <link>https://www.vlive.tv/video/293192</link>
+            <guid>https://www.vlive.tv/video/293192</guid>
+            <pubDate>Sat, 22 Oct 2022 14:01:15 GMT</pubDate>
+            <content:encoded><![CDATA[Xdinary Heroes]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221022_79/16663646553066xrpD_JPEG/683d6c62-5151-11ed-8bc9-d4f5ef5906a4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
