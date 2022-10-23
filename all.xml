@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Oct 2022 07:49:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Oct 2022 08:56:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,30 @@
             <pubDate>Sun, 23 Oct 2022 06:04:42 GMT</pubDate>
             <content:encoded><![CDATA[오전 6:21]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221023_51/1666503078249bgzFV_JPEG/17937859523875994943b84987-b641-4c67-8f30-2666338b43a8.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나랑 놀자 😝 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/293224</link>
+            <guid>https://www.vlive.tv/video/293224</guid>
+            <pubDate>Sun, 23 Oct 2022 08:55:49 GMT</pubDate>
+            <content:encoded><![CDATA[오전 8:15]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/293224/thumb?type=f228_128" length="0" type="image//live/293224/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[큰거온다.... (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/293226</link>
+            <guid>https://www.vlive.tv/video/293226</guid>
+            <pubDate>Sun, 23 Oct 2022 08:55:49 GMT</pubDate>
+            <content:encoded><![CDATA[오전 8:50]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/293226/thumb?type=f228_128" length="0" type="image//live/293226/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[[MV] 이루리(Luli Lee) - 불꽃(Flame) (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/293225</link>
+            <guid>https://www.vlive.tv/video/293225</guid>
+            <pubDate>Sun, 23 Oct 2022 08:55:49 GMT</pubDate>
+            <content:encoded><![CDATA[오전 9:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221023_65/1666513666672Ca0PY_JPEG/upload_82783267493564983a7bbeafd-c83f-4ab0-a774-14e45d1f2c5c.jpeg?type=f228_128" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
