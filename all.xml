@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Oct 2022 11:45:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Oct 2022 13:24:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 2 (V LIVE ─ CHARTS)]]></title>
-            <link>https://www.vlive.tv/video/289928</link>
-            <guid>https://www.vlive.tv/video/289928</guid>
-            <pubDate>Sun, 23 Oct 2022 04:53:57 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220824_277/1661325776060GNHYn_JPEG/upload_105405488087786008317d78ca-7903-4ba4-975b-e9e5827f79fe.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[KIHYUN 'YOUTH' COMEBACK LIVE Sub Ver. (V LIVE ─ CHARTS)]]></title>
             <link>https://www.vlive.tv/video/293229</link>
@@ -22,6 +14,14 @@
             <pubDate>Sun, 23 Oct 2022 10:52:42 GMT</pubDate>
             <content:encoded><![CDATA[MONSTA X]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221023_36/1666521002576If0FU_JPEG/179396519558769953d4f4ae70-7968-4732-bd3e-a0a1652b1707.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 2 (V LIVE ─ CHARTS)]]></title>
+            <link>https://www.vlive.tv/video/289928</link>
+            <guid>https://www.vlive.tv/video/289928</guid>
+            <pubDate>Sun, 23 Oct 2022 04:53:57 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220824_277/1661325776060GNHYn_JPEG/upload_105405488087786008317d78ca-7903-4ba4-975b-e9e5827f79fe.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[후쿠비 마타네🫶 (V LIVE ─ CHARTS)]]></title>
@@ -128,19 +128,59 @@
             <enclosure url="https://v-phinf.pstatic.net/20221023_36/1666521002576If0FU_JPEG/179396519558769953d4f4ae70-7968-4732-bd3e-a0a1652b1707.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[하위 (V LIVE ─ 일정표)]]></title>
-            <link>https://www.vlive.tv/video/293233</link>
-            <guid>https://www.vlive.tv/video/293233</guid>
-            <pubDate>Sun, 23 Oct 2022 11:45:30 GMT</pubDate>
-            <content:encoded><![CDATA[오전 11:32]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[5랜만야 (V LIVE ─ 일정표)]]></title>
             <link>https://www.vlive.tv/video/293232</link>
             <guid>https://www.vlive.tv/video/293232</guid>
             <pubDate>Sun, 23 Oct 2022 11:45:30 GMT</pubDate>
             <content:encoded><![CDATA[오전 11:32]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221023_63/1666524768305TX1iP_JPEG/61e87580-52c6-11ed-8613-505dacfba98a_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE] 오직 위니여야 행복해 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/293236</link>
+            <guid>https://www.vlive.tv/video/293236</guid>
+            <pubDate>Sun, 23 Oct 2022 13:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[오후 12:23]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[하위 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/293233</link>
+            <guid>https://www.vlive.tv/video/293233</guid>
+            <pubDate>Sun, 23 Oct 2022 11:45:30 GMT</pubDate>
+            <content:encoded><![CDATA[오후 12:42]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221023_134/1666528939659J2l7Y_JPEG/556f9fdd-52cf-11ed-b41c-48df379cc9e4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[와우! (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/293235</link>
+            <guid>https://www.vlive.tv/video/293235</guid>
+            <pubDate>Sun, 23 Oct 2022 13:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[오후 12:46]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221023_27/1666527783042POuOH_JPEG/179403312024324892919305d8-9257-4c33-8eb5-f53a7714253a.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KIHYUN 기현 'Youth' Teaser #2 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/293092</link>
+            <guid>https://www.vlive.tv/video/293092</guid>
+            <pubDate>Sun, 23 Oct 2022 13:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221020_294/1666241731555QdP2u_JPEG/upload_110321444818692870ddf65317-b09c-4f91-b45f-af68ce260fbc.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[소녀세상] 아라이브❤️ (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/293234</link>
+            <guid>https://www.vlive.tv/video/293234</guid>
+            <pubDate>Sun, 23 Oct 2022 13:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:05]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221023_66/1666530302298FiNfr_JPEG/8bbf8e89-52d2-11ed-8d11-48df379ccacc_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모건이 본 2022 롤드컵 "개인적으로 DRX 응원해요" [사.사.사 인터뷰 ①] (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/293237</link>
+            <guid>https://www.vlive.tv/video/293237</guid>
+            <pubDate>Sun, 23 Oct 2022 13:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:22]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221023_6/1666531318486UafWi_JPEG/upload_110610809949686008a95af262-e74a-4a8d-abe5-a84ce7cbe627.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
