@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Oct 2022 13:24:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Oct 2022 14:03:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,13 +80,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221023_63/1666524768305TX1iP_JPEG/61e87580-52c6-11ed-8613-505dacfba98a_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[LIVE] 오직 위니여야 행복해]]></title>
-            <link>https://www.vlive.tv/video/293236</link>
-            <guid>https://www.vlive.tv/video/293236</guid>
-            <pubDate>Sun, 23 Oct 2022 13:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:23]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[하위]]></title>
             <link>https://www.vlive.tv/video/293233</link>
             <guid>https://www.vlive.tv/video/293233</guid>
@@ -111,20 +104,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20221020_294/1666241731555QdP2u_JPEG/upload_110321444818692870ddf65317-b09c-4f91-b45f-af68ce260fbc.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[소녀세상] 아라이브❤️]]></title>
-            <link>https://www.vlive.tv/video/293234</link>
-            <guid>https://www.vlive.tv/video/293234</guid>
-            <pubDate>Sun, 23 Oct 2022 13:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:05]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221023_66/1666530302298FiNfr_JPEG/8bbf8e89-52d2-11ed-8d11-48df379ccacc_03.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[모건이 본 2022 롤드컵 "개인적으로 DRX 응원해요" [사.사.사 인터뷰 ①]]]></title>
             <link>https://www.vlive.tv/video/293237</link>
             <guid>https://www.vlive.tv/video/293237</guid>
             <pubDate>Sun, 23 Oct 2022 13:24:23 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:22]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221023_6/1666531318486UafWi_JPEG/upload_110610809949686008a95af262-e74a-4a8d-abe5-a84ce7cbe627.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE] 오직 위니여야 행복해]]></title>
+            <link>https://www.vlive.tv/video/293236</link>
+            <guid>https://www.vlive.tv/video/293236</guid>
+            <pubDate>Sun, 23 Oct 2022 13:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:30]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221023_140/1666531801507zGvOb_JPEG/4fdf32ef-52d6-11ed-8613-505dacfba98a_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(여자)아이들((G)I-DLE) - 'Nxde' (Choreography Practice Video)]]></title>
+            <link>https://www.vlive.tv/video/293230</link>
+            <guid>https://www.vlive.tv/video/293230</guid>
+            <pubDate>Sun, 23 Oct 2022 14:03:25 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221023_244/1666521906991iPPVF_JPEG/upload_827914979688144280164e293-9f12-4ce9-a72e-0ffe7ca53050.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
