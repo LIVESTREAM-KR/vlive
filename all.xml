@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Oct 2022 04:54:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Oct 2022 06:05:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -68,8 +68,16 @@
             <link>https://www.vlive.tv/video/293221</link>
             <guid>https://www.vlive.tv/video/293221</guid>
             <pubDate>Sun, 23 Oct 2022 04:54:16 GMT</pubDate>
-            <content:encoded><![CDATA[오전 3:37]]></content:encoded>
+            <content:encoded><![CDATA[오전 4:59]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221023_252/16664962545103zQcX_JPEG/17937178449517953656095e48-0131-4aa0-84d2-478ad6356f48.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[똥현 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/293222</link>
+            <guid>https://www.vlive.tv/video/293222</guid>
+            <pubDate>Sun, 23 Oct 2022 06:04:42 GMT</pubDate>
+            <content:encoded><![CDATA[오전 5:31]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221023_51/1666503078249bgzFV_JPEG/17937859523875994943b84987-b641-4c67-8f30-2666338b43a8.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
