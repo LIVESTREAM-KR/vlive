@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Oct 2022 03:37:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Oct 2022 06:05:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,20 +48,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20221019_1/16661875255681QQLg_JPEG/upload_82457130329503239756bbd96-77db-4819-ab7a-b92740380625.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[뿌이앱]]></title>
-            <link>https://www.vlive.tv/video/293213</link>
-            <guid>https://www.vlive.tv/video/293213</guid>
-            <pubDate>Sun, 23 Oct 2022 17:06:23 GMT</pubDate>
-            <content:encoded><![CDATA[MAJORS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221022_288/1666434652627ohq8J_JPEG/1793101895748993020dbf90ae-8256-4b4c-93c8-606cba8bafe6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[(여자)아이들((G)I-DLE) - 'Nxde' (Choreography Practice Video)]]></title>
             <link>https://www.vlive.tv/video/293230</link>
             <guid>https://www.vlive.tv/video/293230</guid>
             <pubDate>Mon, 24 Oct 2022 03:36:48 GMT</pubDate>
             <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221023_244/1666521906991iPPVF_JPEG/upload_827914979688144280164e293-9f12-4ce9-a72e-0ffe7ca53050.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뿌이앱]]></title>
+            <link>https://www.vlive.tv/video/293213</link>
+            <guid>https://www.vlive.tv/video/293213</guid>
+            <pubDate>Sun, 23 Oct 2022 17:06:23 GMT</pubDate>
+            <content:encoded><![CDATA[MAJORS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221022_288/1666434652627ohq8J_JPEG/1793101895748993020dbf90ae-8256-4b4c-93c8-606cba8bafe6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
