@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Oct 2022 09:06:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Oct 2022 10:00:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,14 +112,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221024_256/1666597521489Fkch8_JPEG/6d0061ce-536f-11ed-b41c-48df379cc9e4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[핑크판타지(PinkFantasy) 싱글 앨범 '기괴한 이야기(Bizarre Story)' Showcase]]></title>
-            <link>https://www.vlive.tv/video/293240</link>
-            <guid>https://www.vlive.tv/video/293240</guid>
-            <pubDate>Mon, 24 Oct 2022 03:37:06 GMT</pubDate>
-            <content:encoded><![CDATA[오전 8:15]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221024_18/1666561192021cHJ8b_JPEG/upload_110640649915799763c5de786b-36b0-46f5-8ea1-6514f794b5ac.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[KIHYUN 기현 'Youth' MV]]></title>
             <link>https://www.vlive.tv/video/293113</link>
             <guid>https://www.vlive.tv/video/293113</guid>
@@ -166,6 +158,22 @@
             <pubDate>Mon, 24 Oct 2022 03:37:06 GMT</pubDate>
             <content:encoded><![CDATA[오전 9:04]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221021_243/1666348750937k3vk8_JPEG/upload_82618304513257574df26568d-ff36-4c46-958c-36373177fb7d.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[월요병 퇴치 얍얍👊]]></title>
+            <link>https://www.vlive.tv/video/293265</link>
+            <guid>https://www.vlive.tv/video/293265</guid>
+            <pubDate>Mon, 24 Oct 2022 09:59:50 GMT</pubDate>
+            <content:encoded><![CDATA[오전 9:12]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/293265/thumb?type=f228_128" length="0" type="image//live/293265/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[핑크판타지(PinkFantasy) 싱글 앨범 '기괴한 이야기(Bizarre Story)' Showcase]]></title>
+            <link>https://www.vlive.tv/video/293240</link>
+            <guid>https://www.vlive.tv/video/293240</guid>
+            <pubDate>Mon, 24 Oct 2022 03:37:06 GMT</pubDate>
+            <content:encoded><![CDATA[오전 9:48]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221024_18/1666561192021cHJ8b_JPEG/upload_110640649915799763c5de786b-36b0-46f5-8ea1-6514f794b5ac.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
