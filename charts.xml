@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Oct 2022 13:36:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Oct 2022 15:01:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,6 +32,14 @@
             <enclosure url="https://v-phinf.pstatic.net/20221024_10/1666607535411JG6ME_JPEG/upload_110686038505552664f0e6905e-0eb4-45ca-9086-583b2cf59266.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[시간있나요?]]></title>
+            <link>https://www.vlive.tv/video/293280</link>
+            <guid>https://www.vlive.tv/video/293280</guid>
+            <pubDate>Mon, 24 Oct 2022 15:00:22 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221024_96/1666619428654NiA10_JPEG/24cdaedb-53a2-11ed-814e-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 2]]></title>
             <link>https://www.vlive.tv/video/289928</link>
             <guid>https://www.vlive.tv/video/289928</guid>
@@ -54,14 +62,6 @@
             <pubDate>Sun, 23 Oct 2022 17:06:23 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221019_1/16661875255681QQLg_JPEG/upload_82457130329503239756bbd96-77db-4819-ab7a-b92740380625.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KIHYUN 기현 'Youth' MV]]></title>
-            <link>https://www.vlive.tv/video/293113</link>
-            <guid>https://www.vlive.tv/video/293113</guid>
-            <pubDate>Mon, 24 Oct 2022 11:48:41 GMT</pubDate>
-            <content:encoded><![CDATA[MONSTA X]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221021_139/16663422134676Pb80_JPEG/upload_82611817594555406ff75573b-d6b4-40e1-90ae-f094609e095a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

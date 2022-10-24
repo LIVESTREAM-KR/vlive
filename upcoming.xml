@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Oct 2022 13:36:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Oct 2022 15:01:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -240,14 +240,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221024_201/16666114994171awxz_JPEG/17948702940528381497735b95-c958-48d7-8c98-7ee4b25d8686.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[시간있나요?]]></title>
-            <link>https://www.vlive.tv/video/293280</link>
-            <guid>https://www.vlive.tv/video/293280</guid>
-            <pubDate>Mon, 24 Oct 2022 13:35:52 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:51]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/293280/thumb?type=f228_128" length="0" type="image//live/293280/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[Arirang Radio (Radio'n Us / MGFF 맥거핀)]]></title>
             <link>https://www.vlive.tv/video/293269</link>
             <guid>https://www.vlive.tv/video/293269</guid>
@@ -294,6 +286,38 @@
             <pubDate>Mon, 24 Oct 2022 13:35:52 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:26]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221024_77/166661795927549k3s_JPEG/upload_1106976774243975280a688c05-cc49-41b2-b75c-55ddab30bc66.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시간있나요?]]></title>
+            <link>https://www.vlive.tv/video/293280</link>
+            <guid>https://www.vlive.tv/video/293280</guid>
+            <pubDate>Mon, 24 Oct 2022 13:35:52 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:50]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221024_96/1666619428654NiA10_JPEG/24cdaedb-53a2-11ed-814e-505dac8c381b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[💜 HAPPY MISO DAY 💜]]></title>
+            <link>https://www.vlive.tv/video/293285</link>
+            <guid>https://www.vlive.tv/video/293285</guid>
+            <pubDate>Mon, 24 Oct 2022 15:00:41 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:30]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221024_72/1666621814764DebkF_JPEG/6023959104962271517d7da98-3093-4b43-8d34-b7f0ec29eb3a.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[월요일🍂]]></title>
+            <link>https://www.vlive.tv/video/293286</link>
+            <guid>https://www.vlive.tv/video/293286</guid>
+            <pubDate>Mon, 24 Oct 2022 15:00:41 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:43]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/293286/thumb?type=f228_128" length="0" type="image//live/293286/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[월요일 마무리🍁]]></title>
+            <link>https://www.vlive.tv/video/293284</link>
+            <guid>https://www.vlive.tv/video/293284</guid>
+            <pubDate>Mon, 24 Oct 2022 15:00:41 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:44]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221024_16/1666620035972fMnjP_JPEG/179495566895450287cbd5cd9c-828d-4531-af83-feb8b9228b17.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
