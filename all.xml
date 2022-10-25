@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Oct 2022 06:42:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Oct 2022 08:01:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,6 +32,14 @@
             <enclosure url="https://v-phinf.pstatic.net/20221024_256/1666597521489Fkch8_JPEG/6d0061ce-536f-11ed-b41c-48df379cc9e4_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[오랜만이야👩‍🎤(Leisure With Lily #4) (V LIVE ─ CHARTS)]]></title>
+            <link>https://www.vlive.tv/video/293299</link>
+            <guid>https://www.vlive.tv/video/293299</guid>
+            <pubDate>Tue, 25 Oct 2022 05:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[NMIXX]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221025_297/16666800186195mUo7_JPEG/d0879b38-542e-11ed-b25c-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[시간있나요? (V LIVE ─ CHARTS)]]></title>
             <link>https://www.vlive.tv/video/293280</link>
             <guid>https://www.vlive.tv/video/293280</guid>
@@ -54,14 +62,6 @@
             <pubDate>Tue, 25 Oct 2022 03:31:26 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220824_277/1661325776060GNHYn_JPEG/upload_105405488087786008317d78ca-7903-4ba4-975b-e9e5827f79fe.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[💜 HAPPY MISO DAY 💜 (V LIVE ─ CHARTS)]]></title>
-            <link>https://www.vlive.tv/video/293285</link>
-            <guid>https://www.vlive.tv/video/293285</guid>
-            <pubDate>Mon, 24 Oct 2022 15:00:41 GMT</pubDate>
-            <content:encoded><![CDATA[드림노트 (DreamNote)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221024_72/1666621814764DebkF_JPEG/6023959104962271517d7da98-3093-4b43-8d34-b7f0ec29eb3a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 1899 | 공식 예고편 (V LIVE ─ 일정표)]]></title>
@@ -128,14 +128,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221021_47/1666330961865z2i0m_PNG/upload_1104105328541836926119fe62-b25a-4ee8-b08d-bf553ce2cdac.png?type=f228_128" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[Arirang Radio / Radio’ Clock] Who’s Scene it? with prettylittleiris 아이리스 (V LIVE ─ 일정표)]]></title>
-            <link>https://www.vlive.tv/video/293025</link>
-            <guid>https://www.vlive.tv/video/293025</guid>
-            <pubDate>Tue, 25 Oct 2022 03:31:43 GMT</pubDate>
-            <content:encoded><![CDATA[오전 5:55]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221019_119/1666142589811AO38n_JPEG/upload_82412063406959697947b9603-0b7d-4252-b582-2df05df30719.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[오랜만이야👩‍🎤(Leisure With Lily #4) (V LIVE ─ 일정표)]]></title>
             <link>https://www.vlive.tv/video/293299</link>
             <guid>https://www.vlive.tv/video/293299</guid>
@@ -144,12 +136,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20221025_297/16666800186195mUo7_JPEG/d0879b38-542e-11ed-b25c-505dacfbaa5c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[Arirang Radio / Super K-Pop]Oh My K-Pop with NIve (V LIVE ─ 일정표)]]></title>
+            <title><![CDATA[[Arirang Radio / Radio’ Clock] Who’s Scene it? with prettylittleiris 아이리스 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/293025</link>
+            <guid>https://www.vlive.tv/video/293025</guid>
+            <pubDate>Tue, 25 Oct 2022 03:31:43 GMT</pubDate>
+            <content:encoded><![CDATA[오전 7:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221019_119/1666142589811AO38n_JPEG/upload_82412063406959697947b9603-0b7d-4252-b582-2df05df30719.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop]Oh My K-Pop with NIve (여자아이들/(G)I-DLE) (V LIVE ─ 일정표)]]></title>
             <link>https://www.vlive.tv/video/293031</link>
             <guid>https://www.vlive.tv/video/293031</guid>
             <pubDate>Tue, 25 Oct 2022 03:31:43 GMT</pubDate>
-            <content:encoded><![CDATA[오전 7:00]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221019_85/1666143870491V3sbl_JPEG/upload_1102235325921580302390d344-2362-4392-8a50-ebbac45a5237.jpg?type=f228_128" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[오전 8:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221025_94/1666681180375Ibwf0_JPEG/upload_1102235325921580302390d344-2362-4392-8a50-ebbac45a5237.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[청순 데일리 반전 성형 메이크업👍🏻 (성형 없이 눈 2배 커지는 눈화장) (V LIVE ─ 일정표)]]></title>
