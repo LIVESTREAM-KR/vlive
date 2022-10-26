@@ -1,67 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>V LIVE ─ CHARTS</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Wed, 26 Oct 2022 09:47:28 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[리노리방😺리탄일🥳🥳🥳🥳]]></title>
-            <link>https://www.vlive.tv/video/293309</link>
-            <guid>https://www.vlive.tv/video/293309</guid>
-            <pubDate>Wed, 26 Oct 2022 06:57:19 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221025_78/1666697455901w6Wq3_PNG/upload_11077718873199929166a413f3-ac3f-439d-afb9-203fed3d3ebd.png?type=f380_213_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Stray Kids(스트레이 키즈) "Give Me Your TMI" Video]]></title>
-            <link>https://www.vlive.tv/video/293300</link>
-            <guid>https://www.vlive.tv/video/293300</guid>
-            <pubDate>Wed, 26 Oct 2022 06:57:19 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221025_243/1666678069205k8wp2_JPEG/upload_110757776381935652548379e9-d6e9-40d7-a43e-ce9ce2e9da17.JPG?type=f380_213_wp" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[[Stray Kids(스트레이 키즈) : SKZ-TALKER(슼즈토커)] Ep.51]]></title>
-            <link>https://www.vlive.tv/video/293311</link>
-            <guid>https://www.vlive.tv/video/293311</guid>
-            <pubDate>Wed, 26 Oct 2022 06:57:19 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221025_197/1666698978582V6Fad_JPEG/4fe5f1db-545b-11ed-b07a-48df37ae3fca_01.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[221026 IVE ANYUJIN GAEUL 안유진과 김가을]]></title>
-            <link>https://www.vlive.tv/video/293344</link>
-            <guid>https://www.vlive.tv/video/293344</guid>
-            <pubDate>Wed, 26 Oct 2022 08:51:08 GMT</pubDate>
-            <content:encoded><![CDATA[IVE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221026_129/1666772645782iljn6_JPEG/ecdf116e-5506-11ed-814e-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[👋🏻]]></title>
-            <link>https://www.vlive.tv/video/293315</link>
-            <guid>https://www.vlive.tv/video/293315</guid>
-            <pubDate>Wed, 26 Oct 2022 06:57:19 GMT</pubDate>
-            <content:encoded><![CDATA[DKZ]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221026_131/1666710668575vS7I7_JPEG/c117584c-5476-11ed-9aa2-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[케플러는 대기중 ...💬]]></title>
-            <link>https://www.vlive.tv/video/293338</link>
-            <guid>https://www.vlive.tv/video/293338</guid>
-            <pubDate>Wed, 26 Oct 2022 07:44:49 GMT</pubDate>
-            <content:encoded><![CDATA[Kep1er]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221026_293/1666764338091Ultuo_JPEG/17963995203474684551fef7e1-a5f3-4b1b-a00a-5d0af08aa7f8.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 2]]></title>
-            <link>https://www.vlive.tv/video/289928</link>
-            <guid>https://www.vlive.tv/video/289928</guid>
-            <pubDate>Wed, 26 Oct 2022 06:57:19 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220824_277/1661325776060GNHYn_JPEG/upload_105405488087786008317d78ca-7903-4ba4-975b-e9e5827f79fe.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.vlive.tv/home/chart/more?pageNo=1&amp;pageSize=50&amp;viewType=recent&amp;lang=ko</id>
+    <title>V LIVE ─ CHARTS</title>
+    <updated>2022-10-26T10:49:55.758Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.vlive.tv/home/chart/favicon.ico</icon>
+</feed>
