@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Oct 2022 14:50:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Oct 2022 15:49:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -360,14 +360,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221026_113/1666789270010uIL9S_JPEG/179664787002262133402b3af9-cad0-4bb7-a5f6-ec28ad0e398b.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[엔플 팝업스토어 우리도 왔다 (V LIVE ─ 일정표)]]></title>
-            <link>https://www.vlive.tv/video/293365</link>
-            <guid>https://www.vlive.tv/video/293365</guid>
-            <pubDate>Wed, 26 Oct 2022 14:49:52 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:23]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/293365/thumb?type=f228_128" length="0" type="image//live/293365/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[혁모저모 #12 (투어 잘 다녀왔어용🦊💜) (V LIVE ─ 일정표)]]></title>
             <link>https://www.vlive.tv/video/293362</link>
             <guid>https://www.vlive.tv/video/293362</guid>
@@ -382,6 +374,22 @@
             <pubDate>Wed, 26 Oct 2022 14:49:52 GMT</pubDate>
             <content:encoded><![CDATA[오후 2:44]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221026_17/1666795439741WMgIe_JPEG/6c648945-553c-11ed-a57b-505dac8c385b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔플 팝업스토어 우리도 왔다 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/293365</link>
+            <guid>https://www.vlive.tv/video/293365</guid>
+            <pubDate>Wed, 26 Oct 2022 14:49:52 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:55]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221026_299/1666796156210H6mH7_JPEG/d3029116-553d-11ed-b25c-505dacfbaa5c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Xdinary Heroes <Overload> O.de Visual Sampler (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/293200</link>
+            <guid>https://www.vlive.tv/video/293200</guid>
+            <pubDate>Wed, 26 Oct 2022 15:49:26 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:06]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221022_139/1666420874363eHvEJ_PNG/upload_826904781205402108992d31a-34ca-47e0-af93-4f72b149920c.png?type=f228_128" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
