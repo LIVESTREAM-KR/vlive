@@ -1,8 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.vlive.tv/home/chart/more?pageNo=1&amp;pageSize=50&amp;viewType=recent&amp;lang=ko</id>
-    <title>V LIVE ─ CHARTS</title>
-    <updated>2022-10-26T11:44:05.150Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.vlive.tv/home/chart/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>V LIVE ─ CHARTS</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 26 Oct 2022 13:33:10 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[그냥 오랜만에]]></title>
+            <link>https://www.vlive.tv/video/293348</link>
+            <guid>https://www.vlive.tv/video/293348</guid>
+            <pubDate>Wed, 26 Oct 2022 13:32:27 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221026_22/1666778313755OlUm0_JPEG/789c00f1-5514-11ed-8d11-48df379ccacc_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[굿바이 쇼챔😢]]></title>
+            <link>https://www.vlive.tv/video/293355</link>
+            <guid>https://www.vlive.tv/video/293355</guid>
+            <pubDate>Wed, 26 Oct 2022 13:32:27 GMT</pubDate>
+            <content:encoded><![CDATA[ASTRO]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221026_267/1666781218413oiUMw_JPEG/52556778-551b-11ed-8d11-48df379ccacc_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리노리방😺리탄일🥳🥳🥳🥳]]></title>
+            <link>https://www.vlive.tv/video/293309</link>
+            <guid>https://www.vlive.tv/video/293309</guid>
+            <pubDate>Wed, 26 Oct 2022 13:32:27 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221025_78/1666697455901w6Wq3_PNG/upload_11077718873199929166a413f3-ac3f-439d-afb9-203fed3d3ebd.png?type=f380_213_wp" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Stray Kids(스트레이 키즈) "Give Me Your TMI" Video]]></title>
+            <link>https://www.vlive.tv/video/293300</link>
+            <guid>https://www.vlive.tv/video/293300</guid>
+            <pubDate>Wed, 26 Oct 2022 13:32:27 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221025_243/1666678069205k8wp2_JPEG/upload_110757776381935652548379e9-d6e9-40d7-a43e-ce9ce2e9da17.JPG?type=f228_128_wp" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[221026 IVE ANYUJIN GAEUL 안유진과 김가을]]></title>
+            <link>https://www.vlive.tv/video/293344</link>
+            <guid>https://www.vlive.tv/video/293344</guid>
+            <pubDate>Wed, 26 Oct 2022 13:32:27 GMT</pubDate>
+            <content:encoded><![CDATA[IVE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221026_129/1666772645782iljn6_JPEG/ecdf116e-5506-11ed-814e-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[설윤아 풀 먹는 모습 최초 공개합니다.. (With 설콩이) 🐰🌿]]></title>
+            <link>https://www.vlive.tv/video/293347</link>
+            <guid>https://www.vlive.tv/video/293347</guid>
+            <pubDate>Wed, 26 Oct 2022 13:32:27 GMT</pubDate>
+            <content:encoded><![CDATA[NMIXX]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221026_206/16667801254112yTb3_JPEG/3e97b8d6-5518-11ed-9f1e-d4f5ef5a9532_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Stray Kids(스트레이 키즈) : SKZ-TALKER(슼즈토커)] Ep.51]]></title>
+            <link>https://www.vlive.tv/video/293311</link>
+            <guid>https://www.vlive.tv/video/293311</guid>
+            <pubDate>Wed, 26 Oct 2022 13:32:27 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221025_197/1666698978582V6Fad_JPEG/4fe5f1db-545b-11ed-b07a-48df37ae3fca_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
