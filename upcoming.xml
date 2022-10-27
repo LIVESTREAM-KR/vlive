@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Oct 2022 14:11:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Oct 2022 14:52:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,20 +328,20 @@
             <enclosure url="https://vlive-thumb.pstatic.net/live/293415/thumb?type=f228_128" length="0" type="image//live/293415/thumb"/>
         </item>
         <item>
-            <title><![CDATA[우리 얘기 좀 합시다 #158]]></title>
-            <link>https://www.vlive.tv/video/293416</link>
-            <guid>https://www.vlive.tv/video/293416</guid>
-            <pubDate>Thu, 27 Oct 2022 14:10:56 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:55]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/293416/thumb?type=f228_128" length="0" type="image//live/293416/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[진석이의 별빛라디오⭐️]]></title>
             <link>https://www.vlive.tv/video/293414</link>
             <guid>https://www.vlive.tv/video/293414</guid>
             <pubDate>Thu, 27 Oct 2022 13:27:15 GMT</pubDate>
             <content:encoded><![CDATA[오후 2:04]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221027_158/16668794966022IaJR_JPEG/ffb7569e-55ff-11ed-8613-505dacfba98a_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리 얘기 좀 합시다 #158]]></title>
+            <link>https://www.vlive.tv/video/293416</link>
+            <guid>https://www.vlive.tv/video/293416</guid>
+            <pubDate>Thu, 27 Oct 2022 14:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:13]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221027_178/1666880019910rvmeJ_JPEG/65c998a7-5601-11ed-8d11-48df379ccacc_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
