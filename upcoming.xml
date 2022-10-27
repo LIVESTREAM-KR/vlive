@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Oct 2022 14:52:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Oct 2022 15:49:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -320,14 +320,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221027_9/1666874341756OOjsj_JPEG/1797498707023743836038fb16-6358-4b19-9e7b-da9c9f4259e5.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Hi 나는 예준]]></title>
-            <link>https://www.vlive.tv/video/293415</link>
-            <guid>https://www.vlive.tv/video/293415</guid>
-            <pubDate>Thu, 27 Oct 2022 13:27:15 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:21]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/293415/thumb?type=f228_128" length="0" type="image//live/293415/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[진석이의 별빛라디오⭐️]]></title>
             <link>https://www.vlive.tv/video/293414</link>
             <guid>https://www.vlive.tv/video/293414</guid>
@@ -342,6 +334,38 @@
             <pubDate>Thu, 27 Oct 2022 14:10:56 GMT</pubDate>
             <content:encoded><![CDATA[오후 2:13]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221027_178/1666880019910rvmeJ_JPEG/65c998a7-5601-11ed-8d11-48df379ccacc_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[YOUNITE 'Bad Cupid' M/V TEASER]]></title>
+            <link>https://www.vlive.tv/video/293378</link>
+            <guid>https://www.vlive.tv/video/293378</guid>
+            <pubDate>Thu, 27 Oct 2022 15:49:07 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221027_282/1666872265913ppqUf_JPEG/upload_831418589425613568e844e98-85b2-409b-ac96-9a05a12020fe.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Xdinary Heroes <Overload> Jun Han Visual Sampler]]></title>
+            <link>https://www.vlive.tv/video/293201</link>
+            <guid>https://www.vlive.tv/video/293201</guid>
+            <pubDate>Thu, 27 Oct 2022 15:49:07 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:06]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221022_276/1666421049542G1zIt_PNG/upload_1105007796071623170caeee09-e919-4c7c-91b4-03b260534fd0.png?type=f228_128" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Hi 나는 예준]]></title>
+            <link>https://www.vlive.tv/video/293415</link>
+            <guid>https://www.vlive.tv/video/293415</guid>
+            <pubDate>Thu, 27 Oct 2022 13:27:15 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:30]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221028_102/1666884633393zyVzA_JPEG/524ab498-560b-11ed-a14d-505dac8c3607_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Me:)]]></title>
+            <link>https://www.vlive.tv/video/293417</link>
+            <guid>https://www.vlive.tv/video/293417</guid>
+            <pubDate>Thu, 27 Oct 2022 15:49:07 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:38]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/293417/thumb?type=f228_128" length="0" type="image//live/293417/thumb"/>
         </item>
     </channel>
 </rss>
