@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Oct 2022 05:52:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Oct 2022 06:55:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,20 +48,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20221027_233/16668423653801PoC8_JPEG/upload_110922077074448143aa2ded25-7084-4366-a7bf-3006ecc340e2.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[그냥 오랜만에]]></title>
-            <link>https://www.vlive.tv/video/293348</link>
-            <guid>https://www.vlive.tv/video/293348</guid>
-            <pubDate>Thu, 27 Oct 2022 22:46:32 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221026_22/1666778313755OlUm0_JPEG/789c00f1-5514-11ed-8d11-48df379ccacc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[김선호] 2022 김선호 팬미팅 '하나, 둘, 셋, 스마일' 티저(teaser)]]></title>
             <link>https://www.vlive.tv/video/293387</link>
             <guid>https://www.vlive.tv/video/293387</guid>
             <pubDate>Fri, 28 Oct 2022 04:30:43 GMT</pubDate>
             <content:encoded><![CDATA[Kim Seon Ho (김선호)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221027_272/1666849819487Qxzoq_JPEG/upload_110929159793519476687b8b87-dc8d-488c-9de6-5b60aede7f94.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그냥 오랜만에]]></title>
+            <link>https://www.vlive.tv/video/293348</link>
+            <guid>https://www.vlive.tv/video/293348</guid>
+            <pubDate>Thu, 27 Oct 2022 22:46:32 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221026_22/1666778313755OlUm0_JPEG/789c00f1-5514-11ed-8d11-48df379ccacc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
