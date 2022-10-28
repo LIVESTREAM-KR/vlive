@@ -1,8 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.vlive.tv/home/chart/more?pageNo=1&amp;pageSize=50&amp;viewType=recent&amp;lang=ko</id>
-    <title>V LIVE ─ CHARTS</title>
-    <updated>2022-10-28T18:52:24.927Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.vlive.tv/home/chart/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>V LIVE ─ CHARTS</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 28 Oct 2022 19:41:53 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이또아승 🦊🐶 Ep.10]]></title>
+            <link>https://www.vlive.tv/video/293462</link>
+            <guid>https://www.vlive.tv/video/293462</guid>
+            <pubDate>Fri, 28 Oct 2022 19:41:03 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221028_71/1666961494505l2cPF_JPEG/upload_832310975507668660bf2a33e-da0d-4cae-9be0-67e2e128de2c.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[들어오면 배진솔 있음]]></title>
+            <link>https://www.vlive.tv/video/293455</link>
+            <guid>https://www.vlive.tv/video/293455</guid>
+            <pubDate>Fri, 28 Oct 2022 19:41:03 GMT</pubDate>
+            <content:encoded><![CDATA[NMIXX]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221028_257/1666956550892nv3Vw_JPEG/4bbe82c2-56b1-11ed-b25c-505dacfbaa5c_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stray Kids(스트레이 키즈) "Give Me Your TMI" Video MAKING FILM]]></title>
+            <link>https://www.vlive.tv/video/293465</link>
+            <guid>https://www.vlive.tv/video/293465</guid>
+            <pubDate>Fri, 28 Oct 2022 19:41:03 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221028_168/16669535894324hdoD_JPEG/upload_1110326346286253037d1e3f7b-f688-46be-90d5-5492a93836e4.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 2]]></title>
+            <link>https://www.vlive.tv/video/289928</link>
+            <guid>https://www.vlive.tv/video/289928</guid>
+            <pubDate>Fri, 28 Oct 2022 19:41:03 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220824_277/1661325776060GNHYn_JPEG/upload_105405488087786008317d78ca-7903-4ba4-975b-e9e5827f79fe.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TWICE REALITY "TIME TO TWICE" Y2K TDOONG SHOW TEASER]]></title>
+            <link>https://www.vlive.tv/video/293431</link>
+            <guid>https://www.vlive.tv/video/293431</guid>
+            <pubDate>Fri, 28 Oct 2022 19:41:03 GMT</pubDate>
+            <content:encoded><![CDATA[TWICE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221028_37/1666931969930MBF9V_JPEG/upload_83201322220126632e0a2085e-3000-4ebc-b614-94cb00e90213.JPG?type=f228_128_wp" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[[루다]늦어서 미안…🤍]]></title>
+            <link>https://www.vlive.tv/video/293473</link>
+            <guid>https://www.vlive.tv/video/293473</guid>
+            <pubDate>Fri, 28 Oct 2022 19:41:03 GMT</pubDate>
+            <content:encoded><![CDATA[우주소녀(WJSN)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221028_195/1666963069413UhuSM_JPEG/9d0a8606-56c2-11ed-8d11-48df379ccacc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Happy Halloween~🍷]]></title>
+            <link>https://www.vlive.tv/video/293456</link>
+            <guid>https://www.vlive.tv/video/293456</guid>
+            <pubDate>Fri, 28 Oct 2022 19:41:03 GMT</pubDate>
+            <content:encoded><![CDATA[MOMOLAND]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221028_258/16669480525004j5Vj_JPEG/upload_11102750640120329146f14c02-2f32-4634-95e8-aad23efb32d6.jpeg?type=f228_128_wp" length="0" type="image/jpeg"/>
+        </item>
+    </channel>
+</rss>
