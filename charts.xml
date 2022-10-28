@@ -1,8 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.vlive.tv/home/chart/more?pageNo=1&amp;pageSize=50&amp;viewType=recent&amp;lang=ko</id>
-    <title>V LIVE ─ CHARTS</title>
-    <updated>2022-10-28T07:43:47.877Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.vlive.tv/home/chart/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>V LIVE ─ CHARTS</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 28 Oct 2022 08:56:52 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 2]]></title>
+            <link>https://www.vlive.tv/video/289928</link>
+            <guid>https://www.vlive.tv/video/289928</guid>
+            <pubDate>Fri, 28 Oct 2022 08:56:08 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220824_277/1661325776060GNHYn_JPEG/upload_105405488087786008317d78ca-7903-4ba4-975b-e9e5827f79fe.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Me:)]]></title>
+            <link>https://www.vlive.tv/video/293417</link>
+            <guid>https://www.vlive.tv/video/293417</guid>
+            <pubDate>Fri, 28 Oct 2022 08:56:08 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221028_178/1666887694537Lycgx_JPEG/246f6260-5613-11ed-83d6-48df379cca40_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[10월 말]]></title>
+            <link>https://www.vlive.tv/video/293402</link>
+            <guid>https://www.vlive.tv/video/293402</guid>
+            <pubDate>Fri, 28 Oct 2022 08:56:08 GMT</pubDate>
+            <content:encoded><![CDATA[HA HYUN SANG]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221027_128/166686729612234vfq_JPEG/8083ed1e-55e3-11ed-aa59-d4f5ef58ac88_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KIHYUN 기현 'Youth' Music Video Reaction]]></title>
+            <link>https://www.vlive.tv/video/293380</link>
+            <guid>https://www.vlive.tv/video/293380</guid>
+            <pubDate>Fri, 28 Oct 2022 08:56:08 GMT</pubDate>
+            <content:encoded><![CDATA[MONSTA X]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221027_233/16668423653801PoC8_JPEG/upload_110922077074448143aa2ded25-7084-4366-a7bf-3006ecc340e2.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[김선호] 2022 김선호 팬미팅 '하나, 둘, 셋, 스마일' 티저(teaser)]]></title>
+            <link>https://www.vlive.tv/video/293387</link>
+            <guid>https://www.vlive.tv/video/293387</guid>
+            <pubDate>Fri, 28 Oct 2022 08:56:08 GMT</pubDate>
+            <content:encoded><![CDATA[Kim Seon Ho (김선호)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221027_272/1666849819487Qxzoq_JPEG/upload_110929159793519476687b8b87-dc8d-488c-9de6-5b60aede7f94.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그냥 오랜만에]]></title>
+            <link>https://www.vlive.tv/video/293348</link>
+            <guid>https://www.vlive.tv/video/293348</guid>
+            <pubDate>Fri, 28 Oct 2022 08:56:08 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221026_22/1666778313755OlUm0_JPEG/789c00f1-5514-11ed-8d11-48df379ccacc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(여자)아이들((G)I-DLE) - I-TALK #106 : 'Nxde' 뮤비 촬영 현장 비하인드 Part 2]]></title>
+            <link>https://www.vlive.tv/video/293386</link>
+            <guid>https://www.vlive.tv/video/293386</guid>
+            <pubDate>Fri, 28 Oct 2022 08:56:08 GMT</pubDate>
+            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221027_235/1666856869867LzQVs_JPEG/upload_110936588117965569f309ce68-f039-4237-b4db-9ba544a46296.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
