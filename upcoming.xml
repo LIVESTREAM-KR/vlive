@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Oct 2022 15:47:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Oct 2022 16:58:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -232,14 +232,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221029_108/1667050650815yCIMT_JPEG/upload_111130382903169816d89f2895-4159-427b-b5fd-01bf5589d461.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[💜 HAPPY BoNi DAY 💜]]></title>
-            <link>https://www.vlive.tv/video/293513</link>
-            <guid>https://www.vlive.tv/video/293513</guid>
-            <pubDate>Sat, 29 Oct 2022 14:44:26 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:00]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221029_222/1667052011538hb8MC_JPEG/17992762552698473952a982b7-34c2-4c45-b76e-0e4778f72b95.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[HAPPY HALLOWEEN💛🎃🐝]]></title>
             <link>https://www.vlive.tv/video/293502</link>
             <guid>https://www.vlive.tv/video/293502</guid>
@@ -294,6 +286,14 @@
             <pubDate>Sat, 29 Oct 2022 15:47:21 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:21]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221030_87/1667055846234rePqR_JPEG/17843216841818296ae134636-ba2e-4d19-86d1-60790a73a22c.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[💜 HAPPY BoNi DAY 💜]]></title>
+            <link>https://www.vlive.tv/video/293513</link>
+            <guid>https://www.vlive.tv/video/293513</guid>
+            <pubDate>Sat, 29 Oct 2022 14:44:26 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:05]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221029_222/1667052011538hb8MC_JPEG/17992762552698473952a982b7-34c2-4c45-b76e-0e4778f72b95.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
