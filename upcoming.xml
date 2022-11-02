@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Nov 2022 13:32:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Nov 2022 14:51:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,21 @@
             <pubDate>Wed, 02 Nov 2022 03:05:58 GMT</pubDate>
             <content:encoded><![CDATA[오전 9:04]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221028_293/1666941997757wE9KM_JPEG/upload_83211582145016860012c84e5-bc60-4408-8b68-43e9fc2002e6.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[밤산책🏃NIGHT WALKING]]></title>
+            <link>https://www.vlive.tv/video/293555</link>
+            <guid>https://www.vlive.tv/video/293555</guid>
+            <pubDate>Wed, 02 Nov 2022 14:50:42 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:32]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221102_198/1667399569562CWlRO_JPEG/e998b7d8-5aba-11ed-8d11-48df379ccacc_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신곡 깜짝 발매 하루 전]]></title>
+            <link>https://www.vlive.tv/video/293556</link>
+            <guid>https://www.vlive.tv/video/293556</guid>
+            <pubDate>Wed, 02 Nov 2022 14:50:42 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:45]]></content:encoded>
         </item>
     </channel>
 </rss>
