@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Nov 2022 06:53:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Nov 2022 07:42:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,14 +88,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221103_131/1667441307996mBn31_JPEG/upload_111521026405970809b67056dd-6f52-4f0f-b8be-da0233a54eeb.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[Arirang Radio / Radio’ Clock] Cranverry (크랜베리) (V LIVE ─ 일정표)]]></title>
-            <link>https://www.vlive.tv/video/293550</link>
-            <guid>https://www.vlive.tv/video/293550</guid>
-            <pubDate>Thu, 03 Nov 2022 02:40:56 GMT</pubDate>
-            <content:encoded><![CDATA[오전 5:52]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221102_207/1667364148280eeyz9_PNG/upload_1114438216760616826fcd618d-41b5-45f6-b73d-092103ddd9dc.png?type=f228_128" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[Arirang Radio (KPOPPIN' / 이예준 Lee Ye Joon ) (V LIVE ─ 일정표)]]></title>
             <link>https://www.vlive.tv/video/293533</link>
             <guid>https://www.vlive.tv/video/293533</guid>
@@ -124,8 +116,16 @@
             <link>https://www.vlive.tv/video/293531</link>
             <guid>https://www.vlive.tv/video/293531</guid>
             <pubDate>Thu, 03 Nov 2022 02:40:56 GMT</pubDate>
-            <content:encoded><![CDATA[오전 7:00]]></content:encoded>
+            <content:encoded><![CDATA[오전 6:55]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221031_201/1667178585034WsgKA_JPEG/upload_83448168247057539ad7526d1-524f-4e23-b6a6-8e15ac2d92cf.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Radio’ Clock] Cranverry (크랜베리) (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/293550</link>
+            <guid>https://www.vlive.tv/video/293550</guid>
+            <pubDate>Thu, 03 Nov 2022 02:40:56 GMT</pubDate>
+            <content:encoded><![CDATA[오전 7:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221102_207/1667364148280eeyz9_PNG/upload_1114438216760616826fcd618d-41b5-45f6-b73d-092103ddd9dc.png?type=f228_128" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
