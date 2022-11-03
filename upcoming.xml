@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Nov 2022 08:54:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Nov 2022 09:45:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,14 +56,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221103_201/1667458005385DhWbM_JPEG/upload_837275867070873160ef17bd1-6451-49d8-889e-8f52d228e78b.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[Arirang Radio / Super K-Pop] Stray Quiz]]></title>
-            <link>https://www.vlive.tv/video/293531</link>
-            <guid>https://www.vlive.tv/video/293531</guid>
-            <pubDate>Thu, 03 Nov 2022 02:40:56 GMT</pubDate>
-            <content:encoded><![CDATA[오전 6:55]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221031_201/1667178585034WsgKA_JPEG/upload_83448168247057539ad7526d1-524f-4e23-b6a6-8e15ac2d92cf.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[Arirang Radio / Radio’ Clock] Cranverry (크랜베리)]]></title>
             <link>https://www.vlive.tv/video/293550</link>
             <guid>https://www.vlive.tv/video/293550</guid>
@@ -72,11 +64,19 @@
             <enclosure url="https://v-phinf.pstatic.net/20221102_207/1667364148280eeyz9_PNG/upload_1114438216760616826fcd618d-41b5-45f6-b73d-092103ddd9dc.png?type=f228_128" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop] Stray Quiz]]></title>
+            <link>https://www.vlive.tv/video/293531</link>
+            <guid>https://www.vlive.tv/video/293531</guid>
+            <pubDate>Thu, 03 Nov 2022 02:40:56 GMT</pubDate>
+            <content:encoded><![CDATA[오전 9:04]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221031_201/1667178585034WsgKA_JPEG/upload_83448168247057539ad7526d1-524f-4e23-b6a6-8e15ac2d92cf.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[방준혁 입니다 다니입 혁준방]]></title>
             <link>https://www.vlive.tv/video/293579</link>
             <guid>https://www.vlive.tv/video/293579</guid>
             <pubDate>Thu, 03 Nov 2022 08:54:21 GMT</pubDate>
-            <content:encoded><![CDATA[오전 8:05]]></content:encoded>
+            <content:encoded><![CDATA[오전 9:11]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221103_269/16674627371142zUGE_JPEG/1803382660875344889e2a462c-8511-48bf-88df-08cf87fef603.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
