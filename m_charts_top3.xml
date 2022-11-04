@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://m.vlive.tv/chart?sub=VIDEO&amp;period=HOUR_24&amp;country=ALL&amp;lang=ko</id>
-    <title>V LIVE 모바일 ─ CHARTS </title>
-    <updated>2022-11-03T23:46:11.927Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ssl.pstatic.net/static/m/vlive/mobile/2020/09/16/android_96x96_xhdpi.png</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>V LIVE 모바일 ─ CHARTS </title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 04 Nov 2022 02:53:48 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 2]]></title>
+            <link>https://m.vlive.tv/video/289928</link>
+            <guid>https://m.vlive.tv/video/289928</guid>
+            <pubDate>Fri, 04 Nov 2022 02:53:09 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220824_277/1661325776060GNHYn_JPEG/upload_105405488087786008317d78ca-7903-4ba4-975b-e9e5827f79fe.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stray Kids(스트레이 키즈) "MAXIDENT" Trailer MAKING FILM]]></title>
+            <link>https://m.vlive.tv/video/293497</link>
+            <guid>https://m.vlive.tv/video/293497</guid>
+            <pubDate>Fri, 04 Nov 2022 02:53:09 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221029_272/1667040819819Xmy4s_JPEG/upload_111120121647900958ddba909e-82c9-49bd-9906-f893ad713176.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지민씨 등장]]></title>
+            <link>https://m.vlive.tv/video/265730</link>
+            <guid>https://m.vlive.tv/video/265730</guid>
+            <pubDate>Fri, 04 Nov 2022 02:53:09 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211013_144/1634122553955eHKox_JPEG/upload_78202275760730696931ec09d-bfa2-4361-8b27-5b66010714b3.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
