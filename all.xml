@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Nov 2022 14:43:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Nov 2022 15:49:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,6 +102,14 @@
             <pubDate>Fri, 04 Nov 2022 02:53:22 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:06]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221102_133/1667373174052FXad0_JPEG/upload_111452841782595539c095ff42-2dc8-4bcf-b887-d3316b9eb31b.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Teaser] 하이라이트(HIGHLIGHT) - Alone (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/293610</link>
+            <guid>https://www.vlive.tv/video/293610</guid>
+            <pubDate>Fri, 04 Nov 2022 15:48:44 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221104_105/16675677346999zFRo_JPEG/upload_11164746636949921599a0de72-169e-44b5-9e88-86c32ed7cd5a.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
