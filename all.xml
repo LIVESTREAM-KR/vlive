@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Nov 2022 14:42:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Nov 2022 15:44:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Sat, 05 Nov 2022 10:45:35 GMT</pubDate>
             <content:encoded><![CDATA[오후 2:19]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221105_185/1667641477335epACa_JPEG/3892cd40-5cee-11ed-b41c-48df379cc9e4_06.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(여자)아이들((G)I-DLE) - 'LOVE' Music Clip (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/293615</link>
+            <guid>https://www.vlive.tv/video/293615</guid>
+            <pubDate>Sat, 05 Nov 2022 15:44:30 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221105_203/1667659615538LUEhI_JPEG/upload_111739326777086636b0400c51-f980-4068-a1d2-d43f07535223.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
