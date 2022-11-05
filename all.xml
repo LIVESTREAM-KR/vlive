@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Nov 2022 09:43:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Nov 2022 10:46:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Sat, 05 Nov 2022 09:43:13 GMT</pubDate>
             <content:encoded><![CDATA[오전 9:40]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221105_183/1667641241785yMMm5_JPEG/b410879b-5ced-11ed-814e-505dac8c381b_08.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[티저] 조빈 - 퍼즐조각 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/293613</link>
+            <guid>https://www.vlive.tv/video/293613</guid>
+            <pubDate>Sat, 05 Nov 2022 10:45:35 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:19]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221105_185/1667641477335epACa_JPEG/3892cd40-5cee-11ed-b41c-48df379cc9e4_06.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
