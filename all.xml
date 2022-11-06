@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Nov 2022 15:46:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Nov 2022 16:56:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20221106_52/1667734187441QJ3DA_JPEG/180609769409084282f1220c5d-0eff-430f-90ac-088a47c8d1d0.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[(여자)아이들((G)I-DLE) - 'LOVE' Music Clip (V LIVE ─ CHARTS)]]></title>
-            <link>https://www.vlive.tv/video/293615</link>
-            <guid>https://www.vlive.tv/video/293615</guid>
-            <pubDate>Sat, 05 Nov 2022 15:44:30 GMT</pubDate>
-            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221105_203/1667659615538LUEhI_JPEG/upload_111739326777086636b0400c51-f980-4068-a1d2-d43f07535223.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 2 (V LIVE ─ CHARTS)]]></title>
             <link>https://www.vlive.tv/video/289928</link>
             <guid>https://www.vlive.tv/video/289928</guid>
             <pubDate>Sat, 05 Nov 2022 19:39:52 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220824_277/1661325776060GNHYn_JPEG/upload_105405488087786008317d78ca-7903-4ba4-975b-e9e5827f79fe.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220824_277/1661325776060GNHYn_JPEG/upload_105405488087786008317d78ca-7903-4ba4-975b-e9e5827f79fe.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Stray Kids(스트레이 키즈) "MAXIDENT" Trailer MAKING FILM (V LIVE ─ CHARTS)]]></title>
@@ -46,6 +38,14 @@
             <pubDate>Sat, 05 Nov 2022 19:39:52 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221029_272/1667040819819Xmy4s_JPEG/upload_111120121647900958ddba909e-82c9-49bd-9906-f893ad713176.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(여자)아이들((G)I-DLE) - 'LOVE' Music Clip (V LIVE ─ CHARTS)]]></title>
+            <link>https://www.vlive.tv/video/293615</link>
+            <guid>https://www.vlive.tv/video/293615</guid>
+            <pubDate>Sat, 05 Nov 2022 15:44:30 GMT</pubDate>
+            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221105_203/1667659615538LUEhI_JPEG/upload_111739326777086636b0400c51-f980-4068-a1d2-d43f07535223.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TWICE REALITY "TIME TO TWICE" Y2K TDOONG SHOW TEASER (V LIVE ─ CHARTS)]]></title>
@@ -304,20 +304,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20221106_100/1667699590523yH0oA_JPEG/upload_83969146918709406f448e6c5-4ef8-42ba-b7d2-dc8e9c22e5c6.jpeg?type=f228_128" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[일요일밤🐝 (V LIVE ─ 일정표)]]></title>
-            <link>https://www.vlive.tv/video/293629</link>
-            <guid>https://www.vlive.tv/video/293629</guid>
-            <pubDate>Sun, 06 Nov 2022 15:45:51 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:45]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221106_133/1667745910168e46CV_JPEG/180621526143268050fb888c11-a1b5-4056-92ff-c1cb6c2105d3.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[💌] Kim Sung Kyu Solo Debut 10 Anniversary Special Single Album [Dear my fan] (V LIVE ─ 일정표)]]></title>
             <link>https://www.vlive.tv/video/293630</link>
             <guid>https://www.vlive.tv/video/293630</guid>
             <pubDate>Sun, 06 Nov 2022 15:45:51 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:02]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221107_110/1667746973278BqLMt_JPEG/upload_111826690504080463f7eaa5f2-1103-45d0-8ec1-6b42f7b3f5a1.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일요일밤🐝 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/293629</link>
+            <guid>https://www.vlive.tv/video/293629</guid>
+            <pubDate>Sun, 06 Nov 2022 15:45:51 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:45]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221106_133/1667745910168e46CV_JPEG/180621526143268050fb888c11-a1b5-4056-92ff-c1cb6c2105d3.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
