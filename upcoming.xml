@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Nov 2022 13:25:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Nov 2022 14:05:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -246,6 +246,22 @@
             <pubDate>Mon, 07 Nov 2022 13:24:48 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:24]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221107_51/1667827458684I9hyN_JPEG/1807029956798498716a06e94f-334c-47a8-9944-135b0f030302.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[It's Xiwoo Time❣#68]]></title>
+            <link>https://www.vlive.tv/video/293656</link>
+            <guid>https://www.vlive.tv/video/293656</guid>
+            <pubDate>Mon, 07 Nov 2022 14:05:16 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:24]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221107_127/1667827488341mKwoR_JPEG/60895f61-5e9f-11ed-8892-505dac8c35ff_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오늘이닷]]></title>
+            <link>https://www.vlive.tv/video/293659</link>
+            <guid>https://www.vlive.tv/video/293659</guid>
+            <pubDate>Mon, 07 Nov 2022 14:05:16 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:45]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/293659/thumb?type=f228_128" length="0" type="image//live/293659/thumb"/>
         </item>
     </channel>
 </rss>
