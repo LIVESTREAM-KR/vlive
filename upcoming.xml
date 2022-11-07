@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Nov 2022 15:47:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Nov 2022 17:02:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,14 +272,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221101_285/1667266165555EUo6H_PNG/upload_111345889926854179db4b6df2-e876-416a-8e41-674a770127e4.png?type=f228_128" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[12시??]]></title>
-            <link>https://www.vlive.tv/video/293661</link>
-            <guid>https://www.vlive.tv/video/293661</guid>
-            <pubDate>Mon, 07 Nov 2022 15:46:40 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:14]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/293661/thumb?type=f228_128" length="0" type="image//live/293661/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[Short]]></title>
             <link>https://www.vlive.tv/video/293662</link>
             <guid>https://www.vlive.tv/video/293662</guid>
@@ -294,6 +286,22 @@
             <pubDate>Mon, 07 Nov 2022 14:05:16 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:39]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221108_228/1667835550737OHMGW_JPEG/8a4b5b89-5eb1-11ed-9f1e-d4f5ef5a9532_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[12시??]]></title>
+            <link>https://www.vlive.tv/video/293661</link>
+            <guid>https://www.vlive.tv/video/293661</guid>
+            <pubDate>Mon, 07 Nov 2022 15:46:40 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:46]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221108_257/1667839591685o12vl_JPEG/c4201bd2-5eba-11ed-b07a-48df37ae3fca_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안녕..?♥️]]></title>
+            <link>https://www.vlive.tv/video/293664</link>
+            <guid>https://www.vlive.tv/video/293664</guid>
+            <pubDate>Mon, 07 Nov 2022 17:02:01 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221108_252/1667840435554rG5uw_JPEG/18071595254670727537329d2e-fd92-464d-86d0-31d8a808d510.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
