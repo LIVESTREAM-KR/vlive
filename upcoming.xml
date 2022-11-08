@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Nov 2022 14:03:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Nov 2022 14:47:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -264,13 +264,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221108_239/1667889746272eIzX2_JPEG/upload_1119694643247594952152a296-71e4-422f-8450-d08ebff9893d.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[겨울이오는중~⛄️🎹]]></title>
-            <link>https://www.vlive.tv/video/293712</link>
-            <guid>https://www.vlive.tv/video/293712</guid>
-            <pubDate>Tue, 08 Nov 2022 14:02:46 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:43]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[월간 5️⃣☀️1️⃣ #6]]></title>
             <link>https://www.vlive.tv/video/293709</link>
             <guid>https://www.vlive.tv/video/293709</guid>
@@ -293,6 +286,30 @@
             <pubDate>Tue, 08 Nov 2022 13:23:31 GMT</pubDate>
             <content:encoded><![CDATA[오후 2:01]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221108_98/1667916077922VDJz8_JPEG/05f35403-5f6d-11ed-83d6-48df379cca40_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[겨울이오는중~⛄️🎹]]></title>
+            <link>https://www.vlive.tv/video/293712</link>
+            <guid>https://www.vlive.tv/video/293712</guid>
+            <pubDate>Tue, 08 Nov 2022 14:02:46 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:12]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221108_123/1667916725136eMnHy_JPEG/f898d4b1-5f6e-11ed-a14d-505dac8c3607_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[돌아온 형제Z🫂]]></title>
+            <link>https://www.vlive.tv/video/293714</link>
+            <guid>https://www.vlive.tv/video/293714</guid>
+            <pubDate>Tue, 08 Nov 2022 14:47:06 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:21]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/293714/thumb?type=f228_128" length="0" type="image//live/293714/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[다시--..]]></title>
+            <link>https://www.vlive.tv/video/293713</link>
+            <guid>https://www.vlive.tv/video/293713</guid>
+            <pubDate>Tue, 08 Nov 2022 14:47:06 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:31]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221108_123/1667917861428SiUV5_JPEG/c2d279bf-5f71-11ed-83d6-48df379cca40_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
