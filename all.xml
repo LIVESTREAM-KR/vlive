@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Nov 2022 17:06:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Nov 2022 17:48:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,12 +24,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20221108_240/1667915486179lvTA3_JPEG/f22caf43-5f6a-11ed-a7c3-d4f5ef58ad5e_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뿌엥 ㅜㅠ (V LIVE ─ CHARTS)]]></title>
+            <link>https://www.vlive.tv/video/293715</link>
+            <guid>https://www.vlive.tv/video/293715</guid>
+            <pubDate>Tue, 08 Nov 2022 17:06:16 GMT</pubDate>
+            <content:encoded><![CDATA[MAMAMOO]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221109_231/1667923812615XsUxF_JPEG/1807994286155296768b225af9-6b16-4406-b207-d91cffc27d33.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[LIVE] 연습실 라이브 (V LIVE ─ CHARTS)]]></title>
             <link>https://www.vlive.tv/video/293711</link>
             <guid>https://www.vlive.tv/video/293711</guid>
             <pubDate>Tue, 08 Nov 2022 13:23:31 GMT</pubDate>
             <content:encoded><![CDATA[CRAVITY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221108_98/1667916077922VDJz8_JPEG/05f35403-5f6d-11ed-83d6-48df379cca40_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20221108_98/1667916077922VDJz8_JPEG/05f35403-5f6d-11ed-83d6-48df379cca40_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 2 (V LIVE ─ CHARTS)]]></title>
@@ -54,14 +62,6 @@
             <pubDate>Tue, 08 Nov 2022 15:47:11 GMT</pubDate>
             <content:encoded><![CDATA[ITZY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221108_97/16679024588650cElj_JPEG/upload_84171991237522385865d3d31-790c-409b-9c1d-6fee20ce48f1.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Happy 7TH ANNIVERSARY Cakes For ONCE & TWICE (V LIVE ─ CHARTS)]]></title>
-            <link>https://www.vlive.tv/video/293638</link>
-            <guid>https://www.vlive.tv/video/293638</guid>
-            <pubDate>Mon, 07 Nov 2022 09:45:41 GMT</pubDate>
-            <content:encoded><![CDATA[TWICE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221107_139/16677992226150U4aS_JPEG/upload_840688151292054823dc5e2fb-158f-46b2-946b-d2a8b6d0683c.JPG?type=f228_128_wp" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Welcome to Korea with Kim Min Ji (V LIVE ─ 일정표)]]></title>
@@ -390,6 +390,14 @@
             <pubDate>Tue, 08 Nov 2022 17:06:16 GMT</pubDate>
             <content:encoded><![CDATA[오후 4:42]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221109_55/1667925751430pSK8C_JPEG/104c6fed-5f84-11ed-bf94-d4f5ef590144_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엑시]끝나지 않은 생파😌🎂 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/293717</link>
+            <guid>https://www.vlive.tv/video/293717</guid>
+            <pubDate>Tue, 08 Nov 2022 17:47:59 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:08]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221109_244/1667927295330kpxMP_JPEG/b1634521-5f87-11ed-b07a-48df37ae3fca_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
