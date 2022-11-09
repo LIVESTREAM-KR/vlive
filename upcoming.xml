@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Nov 2022 09:46:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Nov 2022 10:47:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -208,30 +208,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221109_67/1667979686911chlmk_JPEG/upload_842492845839151518ec2322c-d7e6-4e6f-93a5-f0b1084c5888.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[마른 우빈]]></title>
-            <link>https://www.vlive.tv/video/293750</link>
-            <guid>https://www.vlive.tv/video/293750</guid>
-            <pubDate>Wed, 09 Nov 2022 08:50:48 GMT</pubDate>
-            <content:encoded><![CDATA[오전 8:44]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/293750/thumb?type=f228_128" length="0" type="image//live/293750/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[갑자기 키고 싶어서! (Leisure With Lily #5)]]></title>
-            <link>https://www.vlive.tv/video/293751</link>
-            <guid>https://www.vlive.tv/video/293751</guid>
-            <pubDate>Wed, 09 Nov 2022 09:45:37 GMT</pubDate>
-            <content:encoded><![CDATA[오전 8:55]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/293751/thumb?type=f228_128" length="0" type="image//live/293751/thumb"/>
-        </item>
-        <item>
-            <title><![CDATA[[LIVE] 밤톨이 왔어요🌰]]></title>
-            <link>https://www.vlive.tv/video/293752</link>
-            <guid>https://www.vlive.tv/video/293752</guid>
-            <pubDate>Wed, 09 Nov 2022 09:45:37 GMT</pubDate>
-            <content:encoded><![CDATA[오전 8:59]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/293752/thumb?type=f228_128" length="0" type="image//live/293752/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[이석훈(LEESEOKHOON) - '사람, 틈' M/V BEHIND]]></title>
             <link>https://www.vlive.tv/video/293738</link>
             <guid>https://www.vlive.tv/video/293738</guid>
@@ -264,14 +240,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221109_247/1667962806285WlgfB_JPEG/upload_112037495270260081ff5b13c4-b1d1-41f6-a995-97f358cb1acb.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[쌩얼승훈 브이앱]]></title>
-            <link>https://www.vlive.tv/video/293753</link>
-            <guid>https://www.vlive.tv/video/293753</guid>
-            <pubDate>Wed, 09 Nov 2022 09:45:37 GMT</pubDate>
-            <content:encoded><![CDATA[오전 9:05]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221109_158/16679847345060vkLj_JPEG/180860265503933626b82eefaa-0bc9-45a0-905c-76e6e7166ed8.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Arirang Radio (Super K-Pop / TE.O 테오)]]></title>
             <link>https://www.vlive.tv/video/293606</link>
             <guid>https://www.vlive.tv/video/293606</guid>
@@ -280,12 +248,60 @@
             <enclosure url="https://v-phinf.pstatic.net/20221104_147/1667561799885EmLi5_JPEG/upload_11164116185751387054f8114d-a15b-4d1f-8b18-98adedb45377.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[쌩얼승훈 브이앱]]></title>
+            <link>https://www.vlive.tv/video/293753</link>
+            <guid>https://www.vlive.tv/video/293753</guid>
+            <pubDate>Wed, 09 Nov 2022 09:45:37 GMT</pubDate>
+            <content:encoded><![CDATA[오전 9:53]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221109_158/16679847345060vkLj_JPEG/180860265503933626b82eefaa-0bc9-45a0-905c-76e6e7166ed8.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마른 우빈]]></title>
+            <link>https://www.vlive.tv/video/293750</link>
+            <guid>https://www.vlive.tv/video/293750</guid>
+            <pubDate>Wed, 09 Nov 2022 08:50:48 GMT</pubDate>
+            <content:encoded><![CDATA[오전 9:53]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221109_143/1667987595485dk7DU_JPEG/d07580a9-6013-11ed-9aa2-505dac8c3721_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(여자)아이들((G)I-DLE) - I-TALK #108: 'Nxde' 첫방 비하인드]]></title>
+            <link>https://www.vlive.tv/video/293739</link>
+            <guid>https://www.vlive.tv/video/293739</guid>
+            <pubDate>Wed, 09 Nov 2022 10:46:45 GMT</pubDate>
+            <content:encoded><![CDATA[오전 10:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221109_156/1667972418354a6ozf_JPEG/upload_1120521202995831789763beee-6282-49b5-afb9-8af890e09a5f.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE] 밤톨이 왔어요🌰]]></title>
+            <link>https://www.vlive.tv/video/293752</link>
+            <guid>https://www.vlive.tv/video/293752</guid>
+            <pubDate>Wed, 09 Nov 2022 09:45:37 GMT</pubDate>
+            <content:encoded><![CDATA[오전 10:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221109_263/1667988048623thmzk_JPEG/840cb13e-6014-11ed-bbda-505dac8c37f3_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[withus]다시 수요일!!!!!!]]></title>
+            <link>https://www.vlive.tv/video/293759</link>
+            <guid>https://www.vlive.tv/video/293759</guid>
+            <pubDate>Wed, 09 Nov 2022 10:46:45 GMT</pubDate>
+            <content:encoded><![CDATA[오전 10:09]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/293759/thumb?type=f228_128" length="0" type="image//live/293759/thumb"/>
+        </item>
+        <item>
             <title><![CDATA[칠린이들의 스포 TIME V LIVE✨]]></title>
             <link>https://www.vlive.tv/video/293754</link>
             <guid>https://www.vlive.tv/video/293754</guid>
             <pubDate>Wed, 09 Nov 2022 09:45:37 GMT</pubDate>
-            <content:encoded><![CDATA[오전 9:10]]></content:encoded>
+            <content:encoded><![CDATA[오전 10:11]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221109_54/1667984786354aYG60_JPEG/upload_1120644979033344585be926fb-c166-42de-a00b-32de729e90f0.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[갑자기 키고 싶어서! (Leisure With Lily #5)]]></title>
+            <link>https://www.vlive.tv/video/293751</link>
+            <guid>https://www.vlive.tv/video/293751</guid>
+            <pubDate>Wed, 09 Nov 2022 09:45:37 GMT</pubDate>
+            <content:encoded><![CDATA[오전 10:13]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221109_104/1667988839071MCYgN_JPEG/325e4803-6016-11ed-b6e8-48df37ae3dc4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[🤎HAPPY WOOJIN DAY🤎]]></title>
