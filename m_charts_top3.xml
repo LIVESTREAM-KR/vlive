@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://m.vlive.tv/chart?sub=VIDEO&amp;period=HOUR_24&amp;country=ALL&amp;lang=ko</id>
-    <title>V LIVE 모바일 ─ CHARTS </title>
-    <updated>2022-11-08T23:48:49.067Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://ssl.pstatic.net/static/m/vlive/mobile/2020/09/16/android_96x96_xhdpi.png</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>V LIVE 모바일 ─ CHARTS </title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 09 Nov 2022 02:52:29 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[SKZ VLOG] 창빈 : 돼끼의 꿀로그 5]]></title>
+            <link>https://m.vlive.tv/video/293702</link>
+            <guid>https://m.vlive.tv/video/293702</guid>
+            <pubDate>Wed, 09 Nov 2022 02:51:49 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221108_274/1667898852171GpPPJ_JPEG/upload_8416774957238034046af6f2a-662e-4d41-8efa-f6151a2d5230.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[월간 5️⃣☀️1️⃣ #6]]></title>
+            <link>https://m.vlive.tv/video/293709</link>
+            <guid>https://m.vlive.tv/video/293709</guid>
+            <pubDate>Wed, 09 Nov 2022 02:51:49 GMT</pubDate>
+            <content:encoded><![CDATA[NMIXX]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221108_240/1667915486179lvTA3_JPEG/f22caf43-5f6a-11ed-a7c3-d4f5ef58ad5e_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[뿌엥 ㅜㅠ]]></title>
+            <link>https://m.vlive.tv/video/293715</link>
+            <guid>https://m.vlive.tv/video/293715</guid>
+            <pubDate>Wed, 09 Nov 2022 02:51:49 GMT</pubDate>
+            <content:encoded><![CDATA[MAMAMOO]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221109_231/1667923812615XsUxF_JPEG/1807994286155296768b225af9-6b16-4406-b207-d91cffc27d33.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
