@@ -1,8 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.vlive.tv/home/chart/more?pageNo=1&amp;pageSize=50&amp;viewType=recent&amp;lang=ko</id>
-    <title>V LIVE ─ CHARTS</title>
-    <updated>2022-11-10T10:47:44.492Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.vlive.tv/home/chart/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>V LIVE ─ CHARTS</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 10 Nov 2022 11:42:38 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 2]]></title>
+            <link>https://www.vlive.tv/video/289928</link>
+            <guid>https://www.vlive.tv/video/289928</guid>
+            <pubDate>Thu, 10 Nov 2022 11:41:58 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220824_277/1661325776060GNHYn_JPEG/upload_105405488087786008317d78ca-7903-4ba4-975b-e9e5827f79fe.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SKZ VLOG] 창빈 : 돼끼의 꿀로그 5]]></title>
+            <link>https://www.vlive.tv/video/293702</link>
+            <guid>https://www.vlive.tv/video/293702</guid>
+            <pubDate>Thu, 10 Nov 2022 11:41:58 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221108_274/1667898852171GpPPJ_JPEG/upload_8416774957238034046af6f2a-662e-4d41-8efa-f6151a2d5230.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[갑자기 키고 싶어서! (Leisure With Lily #5)]]></title>
+            <link>https://www.vlive.tv/video/293751</link>
+            <guid>https://www.vlive.tv/video/293751</guid>
+            <pubDate>Thu, 10 Nov 2022 11:41:58 GMT</pubDate>
+            <content:encoded><![CDATA[NMIXX]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221109_104/1667988839071MCYgN_JPEG/325e4803-6016-11ed-b6e8-48df37ae3dc4_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🤎HAPPY WOOJIN DAY🤎]]></title>
+            <link>https://www.vlive.tv/video/293676</link>
+            <guid>https://www.vlive.tv/video/293676</guid>
+            <pubDate>Thu, 10 Nov 2022 11:41:58 GMT</pubDate>
+            <content:encoded><![CDATA[AB6IX]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221108_24/16678851793950lqPT_JPEG/upload_84154627134048535652a09c6-6dca-441f-9980-db5ea3e73f33.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Origin of Xdinary Heroes | S3]]></title>
+            <link>https://www.vlive.tv/video/293760</link>
+            <guid>https://www.vlive.tv/video/293760</guid>
+            <pubDate>Thu, 10 Nov 2022 11:41:58 GMT</pubDate>
+            <content:encoded><![CDATA[Xdinary Heroes]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221110_102/166804565237599Fp7_PNG/upload_1121253816321971113d811b85-d8d3-4724-9806-672569ef1f7a.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[MINHYUK 민혁 OFFICIAL MD '멍꼬']]></title>
+            <link>https://www.vlive.tv/video/293762</link>
+            <guid>https://www.vlive.tv/video/293762</guid>
+            <pubDate>Thu, 10 Nov 2022 11:41:58 GMT</pubDate>
+            <content:encoded><![CDATA[MONSTA X]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221109_71/1667995880746v9Ee7_JPEG/upload_8426548072448457299928cfb-a584-4703-82f0-a33e39f2788d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[UZZU TAPE] EP.191 보나 X 엠포리오 아르마니 워치&주얼리]]></title>
+            <link>https://www.vlive.tv/video/293667</link>
+            <guid>https://www.vlive.tv/video/293667</guid>
+            <pubDate>Thu, 10 Nov 2022 11:41:58 GMT</pubDate>
+            <content:encoded><![CDATA[우주소녀(WJSN)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221108_53/1667873384949Gn5Pw_JPEG/upload_111953087357178740aed4abe7-577e-4c3c-9200-0843abdbb244.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
