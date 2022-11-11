@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Nov 2022 14:44:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Nov 2022 15:48:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -400,14 +400,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221108_169/1667893752403GNo30_JPEG/upload_111973442114692839199fa976-d991-4898-a7ea-2f367234cc85.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[MELBOURNE🇦🇺]]></title>
-            <link>https://www.vlive.tv/video/293895</link>
-            <guid>https://www.vlive.tv/video/293895</guid>
-            <pubDate>Fri, 11 Nov 2022 14:01:16 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:59]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/293895/thumb?type=f228_128" length="0" type="image//live/293895/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[딸기야 🍓]]></title>
             <link>https://www.vlive.tv/video/293894</link>
             <guid>https://www.vlive.tv/video/293894</guid>
@@ -416,20 +408,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20221111_211/1668174322021F8FRu_JPEG/61792098301250355fa1702fe-6813-44fc-ac7d-00d8eb4d6e60.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[💙보온 들어오세요]]></title>
-            <link>https://www.vlive.tv/video/293897</link>
-            <guid>https://www.vlive.tv/video/293897</guid>
-            <pubDate>Fri, 11 Nov 2022 14:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:35]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/293897/thumb?type=f228_128" length="0" type="image//live/293897/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[11월11일 11시 11분 빼빼로데이🥰]]></title>
             <link>https://www.vlive.tv/video/293896</link>
             <guid>https://www.vlive.tv/video/293896</guid>
             <pubDate>Fri, 11 Nov 2022 14:44:12 GMT</pubDate>
             <content:encoded><![CDATA[오후 2:39]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221111_145/16681775617296XDfj_JPEG/3cbe38e7-61ce-11ed-b25c-505dacfbaa5c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MELBOURNE🇦🇺]]></title>
+            <link>https://www.vlive.tv/video/293895</link>
+            <guid>https://www.vlive.tv/video/293895</guid>
+            <pubDate>Fri, 11 Nov 2022 14:01:16 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:09]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221112_242/1668179379516GwO7E_JPEG/757547d0-61d2-11ed-b41c-48df379cc9e4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[💙보온 들어오세요]]></title>
+            <link>https://www.vlive.tv/video/293897</link>
+            <guid>https://www.vlive.tv/video/293897</guid>
+            <pubDate>Fri, 11 Nov 2022 14:44:12 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:34]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221112_208/1668180880573MQDMz_JPEG/0dd34ad1-61d6-11ed-b25c-505dacfbaa5c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
