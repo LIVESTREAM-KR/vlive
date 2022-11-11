@@ -1,8 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.vlive.tv/home/chart/more?pageNo=1&amp;pageSize=50&amp;viewType=recent&amp;lang=ko</id>
-    <title>V LIVE ─ CHARTS</title>
-    <updated>2022-11-11T16:59:10.946Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.vlive.tv/home/chart/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>V LIVE ─ CHARTS</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 11 Nov 2022 17:46:11 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이또아승 🦊🐶Ep.11]]></title>
+            <link>https://www.vlive.tv/video/293830</link>
+            <guid>https://www.vlive.tv/video/293830</guid>
+            <pubDate>Fri, 11 Nov 2022 17:45:27 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221111_27/1668099608152gywaj_JPEG/b1b1c47c-6118-11ed-a57b-505dac8c385b_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Xdinary Heroes 2nd Mini Album 〈Overload〉 Comeback Showcase]]></title>
+            <link>https://www.vlive.tv/video/293811</link>
+            <guid>https://www.vlive.tv/video/293811</guid>
+            <pubDate>Fri, 11 Nov 2022 17:45:27 GMT</pubDate>
+            <content:encoded><![CDATA[Xdinary Heroes]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221110_75/1668070335583Ehg80_JPEG/upload_11215002524369549962ee0c08-42d2-414e-a72a-f13388266dfd.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Click 금지]]></title>
+            <link>https://www.vlive.tv/video/293883</link>
+            <guid>https://www.vlive.tv/video/293883</guid>
+            <pubDate>Fri, 11 Nov 2022 17:45:27 GMT</pubDate>
+            <content:encoded><![CDATA[NMIXX]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221111_150/16681660834718n807_JPEG/465aa8a8-61b3-11ed-bbda-505dac8c37f3_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Xdinary Heroes <Overload> COMEBACK SPECIAL LIVE]]></title>
+            <link>https://www.vlive.tv/video/293871</link>
+            <guid>https://www.vlive.tv/video/293871</guid>
+            <pubDate>Fri, 11 Nov 2022 17:45:27 GMT</pubDate>
+            <content:encoded><![CDATA[Xdinary Heroes]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221111_242/1668154478620Khqxf_JPEG/upload_11223413163619718327525ece-a922-4793-ba80-6a75c7e39401.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여진곰주생일파티🐻🎂]]></title>
+            <link>https://www.vlive.tv/video/293869</link>
+            <guid>https://www.vlive.tv/video/293869</guid>
+            <pubDate>Fri, 11 Nov 2022 17:45:27 GMT</pubDate>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221111_143/1668174588576JyMFE_JPEG/upload_11225430412657863520bd818a-ce36-408d-b64e-66f0a4a7863b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여러분 우리 와써요~~~💕]]></title>
+            <link>https://www.vlive.tv/video/293876</link>
+            <guid>https://www.vlive.tv/video/293876</guid>
+            <pubDate>Fri, 11 Nov 2022 17:45:27 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221111_9/1668164139302g5aUL_JPEG/cddd2821-61ae-11ed-b07a-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어머 실수]]></title>
+            <link>https://www.vlive.tv/video/293890</link>
+            <guid>https://www.vlive.tv/video/293890</guid>
+            <pubDate>Fri, 11 Nov 2022 17:45:27 GMT</pubDate>
+            <content:encoded><![CDATA[NMIXX]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221111_126/1668166580296fBLF5_JPEG/cf098ba2-61b4-11ed-a14d-505dac8c3607_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
