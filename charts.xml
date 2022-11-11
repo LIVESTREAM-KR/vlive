@@ -1,8 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.vlive.tv/home/chart/more?pageNo=1&amp;pageSize=50&amp;viewType=recent&amp;lang=ko</id>
-    <title>V LIVE ─ CHARTS</title>
-    <updated>2022-11-11T05:46:37.366Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.vlive.tv/home/chart/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>V LIVE ─ CHARTS</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 11 Nov 2022 06:56:46 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이또아승 🦊🐶Ep.11]]></title>
+            <link>https://www.vlive.tv/video/293830</link>
+            <guid>https://www.vlive.tv/video/293830</guid>
+            <pubDate>Fri, 11 Nov 2022 06:56:03 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221111_27/1668099608152gywaj_JPEG/b1b1c47c-6118-11ed-a57b-505dac8c385b_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Xdinary Heroes 2nd Mini Album 〈Overload〉 Comeback Showcase]]></title>
+            <link>https://www.vlive.tv/video/293811</link>
+            <guid>https://www.vlive.tv/video/293811</guid>
+            <pubDate>Fri, 11 Nov 2022 06:56:03 GMT</pubDate>
+            <content:encoded><![CDATA[Xdinary Heroes]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221110_75/1668070335583Ehg80_JPEG/upload_11215002524369549962ee0c08-42d2-414e-a72a-f13388266dfd.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 2]]></title>
+            <link>https://www.vlive.tv/video/289928</link>
+            <guid>https://www.vlive.tv/video/289928</guid>
+            <pubDate>Fri, 11 Nov 2022 06:56:03 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220824_277/1661325776060GNHYn_JPEG/upload_105405488087786008317d78ca-7903-4ba4-975b-e9e5827f79fe.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(여자)아이들((G)I-DLE) - 'Change' LIVE CLIP]]></title>
+            <link>https://www.vlive.tv/video/293829</link>
+            <guid>https://www.vlive.tv/video/293829</guid>
+            <pubDate>Fri, 11 Nov 2022 06:56:03 GMT</pubDate>
+            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221110_49/1668089226340RK4as_JPEG/upload_84358823487979092aaaa7137-2165-4b28-85af-a36646eb5448.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Xdinary Heroes "Hair Cut" M/V]]></title>
+            <link>https://www.vlive.tv/video/293422</link>
+            <guid>https://www.vlive.tv/video/293422</guid>
+            <pubDate>Fri, 11 Nov 2022 06:56:03 GMT</pubDate>
+            <content:encoded><![CDATA[Xdinary Heroes]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221104_101/1667525388901LSzXA_PNG/upload_83794992778586920db6f4593-a94d-4656-b96a-da723577bb36.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[SKZ VLOG] 창빈 : 돼끼의 꿀로그 5]]></title>
+            <link>https://www.vlive.tv/video/293702</link>
+            <guid>https://www.vlive.tv/video/293702</guid>
+            <pubDate>Fri, 11 Nov 2022 06:56:03 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221108_274/1667898852171GpPPJ_JPEG/upload_8416774957238034046af6f2a-662e-4d41-8efa-f6151a2d5230.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TWICE 7TH ANNIVERSARY "Together 1&2" EXHIBITION & POP-UP STORE Behind the Scenes]]></title>
+            <link>https://www.vlive.tv/video/293697</link>
+            <guid>https://www.vlive.tv/video/293697</guid>
+            <pubDate>Fri, 11 Nov 2022 06:56:03 GMT</pubDate>
+            <content:encoded><![CDATA[TWICE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221108_12/1667897945847eKii6_JPEG/upload_111977659172638972ca53afa2-6420-4829-9a15-43a3cee3bcac.JPG?type=f228_128_wp" length="0" type="image/JPG"/>
+        </item>
+    </channel>
+</rss>
