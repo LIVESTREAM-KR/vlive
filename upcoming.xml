@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Nov 2022 14:42:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Nov 2022 15:46:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,13 +160,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221112_9/1668260964470HJrc6_JPEG/18113662841018883943580c4f-26e2-49e6-8c51-04c85988ffde.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[소녀세상] 나랑 하루 마무리하자!]]></title>
-            <link>https://www.vlive.tv/video/293913</link>
-            <guid>https://www.vlive.tv/video/293913</guid>
-            <pubDate>Sat, 12 Nov 2022 14:42:18 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:59]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[01 듀오]]></title>
             <link>https://www.vlive.tv/video/293911</link>
             <guid>https://www.vlive.tv/video/293911</guid>
@@ -175,11 +168,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20221112_200/1668261769678A5LJJ_JPEG/17ed0540-6292-11ed-b41c-48df379cc9e4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[ASMR] 🐹 "너무 많은데 하나만 더 먹어볼까?"｜보기만 해도 달달한 원준이의 별사탕&머랭쿠키 Eating Sound]]></title>
+            <link>https://www.vlive.tv/video/293906</link>
+            <guid>https://www.vlive.tv/video/293906</guid>
+            <pubDate>Sat, 12 Nov 2022 15:46:11 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221112_115/1668243490306Y32vo_JPEG/upload_84513095837745993ded6fdd0-4bc8-4665-b864-840d4a9802a3.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[LIVE]800days]]></title>
             <link>https://www.vlive.tv/video/293915</link>
             <guid>https://www.vlive.tv/video/293915</guid>
             <pubDate>Sat, 12 Nov 2022 14:42:18 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:28]]></content:encoded>
+            <content:encoded><![CDATA[오후 3:01]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221113_46/1668265300386H9Lg2_JPEG/9d2b4e71-629a-11ed-9f1e-d4f5ef5a9532_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
