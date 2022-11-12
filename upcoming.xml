@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Nov 2022 15:46:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Nov 2022 16:57:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,14 +152,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221111_275/1668151353775xGbmU_JPEG/upload_1122310728221091527e649e9e-b03b-4295-a079-76f8ab52436b.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[다함께 페어리즈🐢🐢]]></title>
-            <link>https://www.vlive.tv/video/293912</link>
-            <guid>https://www.vlive.tv/video/293912</guid>
-            <pubDate>Sat, 12 Nov 2022 14:42:18 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:49]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221112_9/1668260964470HJrc6_JPEG/18113662841018883943580c4f-26e2-49e6-8c51-04c85988ffde.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[01 듀오]]></title>
             <link>https://www.vlive.tv/video/293911</link>
             <guid>https://www.vlive.tv/video/293911</guid>
@@ -182,6 +174,22 @@
             <pubDate>Sat, 12 Nov 2022 14:42:18 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:01]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221113_46/1668265300386H9Lg2_JPEG/9d2b4e71-629a-11ed-9f1e-d4f5ef5a9532_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[소녀세상] 나랑 하루 마무리하자!]]></title>
+            <link>https://www.vlive.tv/video/293913</link>
+            <guid>https://www.vlive.tv/video/293913</guid>
+            <pubDate>Sat, 12 Nov 2022 16:56:47 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:48]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221113_4/1668268119912KPbr0_JPEG/5bcf3924-62a0-11ed-b6e8-48df37ae3dc4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다함께 페어리즈🐢🐢]]></title>
+            <link>https://www.vlive.tv/video/293912</link>
+            <guid>https://www.vlive.tv/video/293912</guid>
+            <pubDate>Sat, 12 Nov 2022 14:42:18 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:39]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221112_9/1668260964470HJrc6_JPEG/18113662841018883943580c4f-26e2-49e6-8c51-04c85988ffde.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
