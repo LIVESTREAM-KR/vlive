@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Nov 2022 10:45:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Nov 2022 11:41:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,20 +104,36 @@
             <enclosure url="https://vlive-thumb.pstatic.net/live/293909/thumb?type=f228_128" length="0" type="image//live/293909/thumb"/>
         </item>
         <item>
-            <title><![CDATA[저녁에 모해?🧐]]></title>
-            <link>https://www.vlive.tv/video/293910</link>
-            <guid>https://www.vlive.tv/video/293910</guid>
-            <pubDate>Sat, 12 Nov 2022 10:45:20 GMT</pubDate>
-            <content:encoded><![CDATA[오전 10:19]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/293910/thumb?type=f228_128" length="0" type="image//live/293910/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[오랜만에 단체✌️‼️]]></title>
             <link>https://www.vlive.tv/video/293907</link>
             <guid>https://www.vlive.tv/video/293907</guid>
             <pubDate>Sat, 12 Nov 2022 09:43:31 GMT</pubDate>
             <content:encoded><![CDATA[오전 10:28]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221112_233/1668248890723nuvwd_JPEG/3227a26e-6274-11ed-bbda-505dac8c37f3_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[𝘄𝗶𝘁𝗵𝘂𝘀 준엽이가 왔어요!!]]></title>
+            <link>https://www.vlive.tv/video/293905</link>
+            <guid>https://www.vlive.tv/video/293905</guid>
+            <pubDate>Sat, 12 Nov 2022 11:40:45 GMT</pubDate>
+            <content:encoded><![CDATA[오전 10:50]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221112_200/1668243234961J5lq0_JPEG/1811188379575908494970c9df-579f-461b-be07-eeb2d00e2829.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[CIX-tory] STORY.104 BEAUTY+ 9월호 화보 비하인드]]></title>
+            <link>https://www.vlive.tv/video/293818</link>
+            <guid>https://www.vlive.tv/video/293818</guid>
+            <pubDate>Sat, 12 Nov 2022 11:40:45 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221110_118/1668075129516DiXCy_JPEG/upload_112154861296975603bcb10926-86a1-4380-8c4a-df0b5ea7e5fa.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[저녁에 모해?🧐]]></title>
+            <link>https://www.vlive.tv/video/293910</link>
+            <guid>https://www.vlive.tv/video/293910</guid>
+            <pubDate>Sat, 12 Nov 2022 10:45:20 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:06]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221112_113/1668251166097j2fNF_JPEG/5e92d7cf-6279-11ed-bbda-505dac8c37f3_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
