@@ -1,8 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.vlive.tv/home/chart/more?pageNo=1&amp;pageSize=50&amp;viewType=recent&amp;lang=ko</id>
-    <title>V LIVE ─ CHARTS</title>
-    <updated>2022-11-13T11:40:58.290Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.vlive.tv/home/chart/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>V LIVE ─ CHARTS</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 13 Nov 2022 13:08:18 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리노리방😺빼빼로데이🤲]]></title>
+            <link>https://www.vlive.tv/video/293870</link>
+            <guid>https://www.vlive.tv/video/293870</guid>
+            <pubDate>Sun, 13 Nov 2022 13:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221112_291/16681937520509eDoD_JPEG/upload_844633560971054374999be50-5e85-4aed-95b4-ee2aecb8d688.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 2]]></title>
+            <link>https://www.vlive.tv/video/289928</link>
+            <guid>https://www.vlive.tv/video/289928</guid>
+            <pubDate>Sun, 13 Nov 2022 13:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220824_277/1661325776060GNHYn_JPEG/upload_105405488087786008317d78ca-7903-4ba4-975b-e9e5827f79fe.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE]800days]]></title>
+            <link>https://www.vlive.tv/video/293915</link>
+            <guid>https://www.vlive.tv/video/293915</guid>
+            <pubDate>Sun, 13 Nov 2022 13:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[원호 (WONHO)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221113_46/1668265300386H9Lg2_JPEG/9d2b4e71-629a-11ed-9f1e-d4f5ef5a9532_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TWICE REALITY "TIME TO TWICE" Y2K TDOONG SHOW EP.01]]></title>
+            <link>https://www.vlive.tv/video/293859</link>
+            <guid>https://www.vlive.tv/video/293859</guid>
+            <pubDate>Sun, 13 Nov 2022 13:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[TWICE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221111_212/1668146791810qj2hE_JPEG/upload_112226504460945710a926712f-9009-41f9-a2fe-c3f771f6c919.JPG?type=f228_128_wp" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[01 듀오]]></title>
+            <link>https://www.vlive.tv/video/293911</link>
+            <guid>https://www.vlive.tv/video/293911</guid>
+            <pubDate>Sun, 13 Nov 2022 13:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221112_200/1668261769678A5LJJ_JPEG/17ed0540-6292-11ed-b41c-48df379cc9e4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[몬채널][S] KIHYUN 기현 'Where Is This Love']]></title>
+            <link>https://www.vlive.tv/video/293858</link>
+            <guid>https://www.vlive.tv/video/293858</guid>
+            <pubDate>Sun, 13 Nov 2022 13:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[MONSTA X]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221111_275/1668151353775xGbmU_JPEG/upload_1122310728221091527e649e9e-b03b-4295-a079-76f8ab52436b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HAPPY XIAOTING DAY🎉]]></title>
+            <link>https://www.vlive.tv/video/293902</link>
+            <guid>https://www.vlive.tv/video/293902</guid>
+            <pubDate>Sun, 13 Nov 2022 13:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[Kep1er]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221112_116/16682331778822k7ee_JPEG/181108707869656988810272bd-e06f-4e37-988f-aa52cad77c0a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
