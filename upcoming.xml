@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Nov 2022 14:43:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Nov 2022 15:45:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,20 +120,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20221113_27/1668346259156UDktb_JPEG/1812218731093549367de06258-9338-4c82-ac90-0400ad03c5fa.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[✨]]></title>
-            <link>https://www.vlive.tv/video/293933</link>
-            <guid>https://www.vlive.tv/video/293933</guid>
-            <pubDate>Sun, 13 Nov 2022 14:42:51 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:24]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/293933/thumb?type=f228_128" length="0" type="image//live/293933/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[[Dance Practice]  하이라이트(HIGHLIGHT) - Alone 안무 연습 영상]]></title>
             <link>https://www.vlive.tv/video/293932</link>
             <guid>https://www.vlive.tv/video/293932</guid>
             <pubDate>Sun, 13 Nov 2022 14:42:51 GMT</pubDate>
             <content:encoded><![CDATA[오후 2:30]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221113_287/1668348418110vhLvN_JPEG/upload_846179742928102885f6c9715-ad0f-4dc6-ba7d-1bae7f76d5cb.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[✨]]></title>
+            <link>https://www.vlive.tv/video/293933</link>
+            <guid>https://www.vlive.tv/video/293933</guid>
+            <pubDate>Sun, 13 Nov 2022 14:42:51 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:24]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221114_53/1668353051062nVTwt_JPEG/d9b5d5f3-6366-11ed-8613-505dacfba98a_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
