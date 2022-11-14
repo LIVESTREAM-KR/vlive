@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Nov 2022 13:30:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Nov 2022 14:06:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -176,14 +176,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221114_134/1668420575096N6BUM_JPEG/upload_1125002779765014752561ae38-7f4a-4c30-b9ca-4b11552f429d.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[안녕!! -라엘-]]></title>
-            <link>https://www.vlive.tv/video/293976</link>
-            <guid>https://www.vlive.tv/video/293976</guid>
-            <pubDate>Mon, 14 Nov 2022 13:29:56 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:07]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221114_286/1668431234732AUOtF_JPEG/1813067716681756248813e58e-5e87-43de-babe-3fb02c805b14.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[안늉]]></title>
             <link>https://www.vlive.tv/video/293975</link>
             <guid>https://www.vlive.tv/video/293975</guid>
@@ -198,6 +190,22 @@
             <pubDate>Mon, 14 Nov 2022 13:29:56 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:25]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221114_147/1668432344043NySsk_JPEG/4184f6ed-641f-11ed-bf94-d4f5ef590144_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[반갑시우 👋]]></title>
+            <link>https://www.vlive.tv/video/293977</link>
+            <guid>https://www.vlive.tv/video/293977</guid>
+            <pubDate>Mon, 14 Nov 2022 14:06:13 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:31]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221114_62/1668432708489QGCeU_JPEG/18130831147619148925c4742b-3bb9-4aff-82c2-31636e9087c1.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안녕!! -라엘-]]></title>
+            <link>https://www.vlive.tv/video/293976</link>
+            <guid>https://www.vlive.tv/video/293976</guid>
+            <pubDate>Mon, 14 Nov 2022 13:29:56 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:43]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221114_286/1668431234732AUOtF_JPEG/1813067716681756248813e58e-5e87-43de-babe-3fb02c805b14.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
