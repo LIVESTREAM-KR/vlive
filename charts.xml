@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Nov 2022 19:40:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Nov 2022 20:45:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,14 +40,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20220812_138/1660264042259WLREz_JPEG/upload_1043437541963210687545b394-698c-42fc-ade5-7c29af587fb7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이또아승 🦊🐶Ep.11]]></title>
-            <link>https://www.vlive.tv/video/293830</link>
-            <guid>https://www.vlive.tv/video/293830</guid>
-            <pubDate>Mon, 14 Nov 2022 19:40:15 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221111_27/1668099608152gywaj_JPEG/b1b1c47c-6118-11ed-a57b-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[몬채널][B] EP.332 'Youth' Recording]]></title>
             <link>https://www.vlive.tv/video/293797</link>
             <guid>https://www.vlive.tv/video/293797</guid>
@@ -56,12 +48,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20221110_126/1668068425271oa8Yj_JPEG/upload_112148144144924174f852bf54-a97d-42ae-b3bb-55f278a157c6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[지민씨 등장]]></title>
-            <link>https://www.vlive.tv/video/265730</link>
-            <guid>https://www.vlive.tv/video/265730</guid>
+            <title><![CDATA[이또아승 🦊🐶Ep.11]]></title>
+            <link>https://www.vlive.tv/video/293830</link>
+            <guid>https://www.vlive.tv/video/293830</guid>
             <pubDate>Mon, 14 Nov 2022 19:40:15 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211013_144/1634122553955eHKox_JPEG/upload_78202275760730696931ec09d-bfa2-4361-8b27-5b66010714b3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221111_27/1668099608152gywaj_JPEG/b1b1c47c-6118-11ed-a57b-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어머 실수]]></title>
+            <link>https://www.vlive.tv/video/293890</link>
+            <guid>https://www.vlive.tv/video/293890</guid>
+            <pubDate>Mon, 14 Nov 2022 20:45:07 GMT</pubDate>
+            <content:encoded><![CDATA[NMIXX]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221111_126/1668166580296fBLF5_JPEG/cf098ba2-61b4-11ed-a14d-505dac8c3607_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
