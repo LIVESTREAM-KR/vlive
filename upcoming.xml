@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Nov 2022 09:45:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Nov 2022 10:49:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -116,8 +116,16 @@
             <link>https://www.vlive.tv/video/293854</link>
             <guid>https://www.vlive.tv/video/293854</guid>
             <pubDate>Mon, 14 Nov 2022 02:35:32 GMT</pubDate>
-            <content:encoded><![CDATA[오전 10:00]]></content:encoded>
+            <content:encoded><![CDATA[오전 9:59]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221111_68/1668144486325rf8Fd_PNG/upload_1122241826705442633e0caeb8-4f7d-40ea-81f3-19e0fd33bf04.png?type=f228_128" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Radio'n Us / ARO 정아로)]]></title>
+            <link>https://www.vlive.tv/video/293971</link>
+            <guid>https://www.vlive.tv/video/293971</guid>
+            <pubDate>Mon, 14 Nov 2022 10:48:34 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221114_134/1668420575096N6BUM_JPEG/upload_1125002779765014752561ae38-7f4a-4c30-b9ca-4b11552f429d.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
