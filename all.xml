@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Nov 2022 14:46:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Nov 2022 15:46:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,14 +32,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221111_212/1668146791810qj2hE_JPEG/upload_112226504460945710a926712f-9009-41f9-a2fe-c3f771f6c919.JPG?type=f380_213_wp" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[✨ (V LIVE ─ CHARTS)]]></title>
-            <link>https://www.vlive.tv/video/293933</link>
-            <guid>https://www.vlive.tv/video/293933</guid>
-            <pubDate>Sun, 13 Nov 2022 14:42:51 GMT</pubDate>
-            <content:encoded><![CDATA[KIM SO JEONG (김소정)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221114_53/1668353051062nVTwt_JPEG/d9b5d5f3-6366-11ed-8613-505dacfba98a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 1 (V LIVE ─ CHARTS)]]></title>
             <link>https://www.vlive.tv/video/289368</link>
             <guid>https://www.vlive.tv/video/289368</guid>
@@ -56,12 +48,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20221111_27/1668099608152gywaj_JPEG/b1b1c47c-6118-11ed-a57b-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[Special Clip] MINHYUK 민혁 - HAPPY MINHYUK DAY♡ (V LIVE ─ CHARTS)]]></title>
-            <link>https://www.vlive.tv/video/293868</link>
-            <guid>https://www.vlive.tv/video/293868</guid>
-            <pubDate>Sun, 13 Nov 2022 13:07:55 GMT</pubDate>
-            <content:encoded><![CDATA[MONSTA X]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221111_197/1668154018562glAXg_JPEG/upload_112233736772107010170eb0c2-a115-4f73-a610-00798899f55a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <title><![CDATA[지민씨 등장 (V LIVE ─ CHARTS)]]></title>
+            <link>https://www.vlive.tv/video/265730</link>
+            <guid>https://www.vlive.tv/video/265730</guid>
+            <pubDate>Mon, 14 Nov 2022 15:46:13 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211013_144/1634122553955eHKox_JPEG/upload_78202275760730696931ec09d-bfa2-4361-8b27-5b66010714b3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[✨ (V LIVE ─ CHARTS)]]></title>
+            <link>https://www.vlive.tv/video/293933</link>
+            <guid>https://www.vlive.tv/video/293933</guid>
+            <pubDate>Sun, 13 Nov 2022 14:42:51 GMT</pubDate>
+            <content:encoded><![CDATA[KIM SO JEONG (김소정)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221114_53/1668353051062nVTwt_JPEG/d9b5d5f3-6366-11ed-8613-505dacfba98a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 썸바디 | 무드 티저 (V LIVE ─ 일정표)]]></title>
@@ -248,20 +248,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20221114_147/1668432344043NySsk_JPEG/4184f6ed-641f-11ed-bf94-d4f5ef590144_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[반갑시우 👋 (V LIVE ─ 일정표)]]></title>
-            <link>https://www.vlive.tv/video/293977</link>
-            <guid>https://www.vlive.tv/video/293977</guid>
-            <pubDate>Mon, 14 Nov 2022 14:06:13 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:31]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221114_62/1668432708489QGCeU_JPEG/18130831147619148925c4742b-3bb9-4aff-82c2-31636e9087c1.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[안녕!! -라엘- (V LIVE ─ 일정표)]]></title>
             <link>https://www.vlive.tv/video/293976</link>
             <guid>https://www.vlive.tv/video/293976</guid>
             <pubDate>Mon, 14 Nov 2022 13:29:56 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:43]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221114_286/1668431234732AUOtF_JPEG/1813067716681756248813e58e-5e87-43de-babe-3fb02c805b14.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[반갑시우 👋 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/293977</link>
+            <guid>https://www.vlive.tv/video/293977</guid>
+            <pubDate>Mon, 14 Nov 2022 14:06:13 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:53]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221114_62/1668432708489QGCeU_JPEG/18130831147619148925c4742b-3bb9-4aff-82c2-31636e9087c1.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[withus] 'Barricade' Official Fan Meeting Invitation (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/293940</link>
+            <guid>https://www.vlive.tv/video/293940</guid>
+            <pubDate>Mon, 14 Nov 2022 15:46:32 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221114_43/1668395590587wvIUF_JPEG/3700db27-63ca-11ed-9f1e-d4f5ef5a9532_08.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

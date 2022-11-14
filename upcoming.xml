@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Nov 2022 14:46:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Nov 2022 15:46:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,20 +192,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20221114_147/1668432344043NySsk_JPEG/4184f6ed-641f-11ed-bf94-d4f5ef590144_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[반갑시우 👋]]></title>
-            <link>https://www.vlive.tv/video/293977</link>
-            <guid>https://www.vlive.tv/video/293977</guid>
-            <pubDate>Mon, 14 Nov 2022 14:06:13 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:31]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221114_62/1668432708489QGCeU_JPEG/18130831147619148925c4742b-3bb9-4aff-82c2-31636e9087c1.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[안녕!! -라엘-]]></title>
             <link>https://www.vlive.tv/video/293976</link>
             <guid>https://www.vlive.tv/video/293976</guid>
             <pubDate>Mon, 14 Nov 2022 13:29:56 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:43]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221114_286/1668431234732AUOtF_JPEG/1813067716681756248813e58e-5e87-43de-babe-3fb02c805b14.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[반갑시우 👋]]></title>
+            <link>https://www.vlive.tv/video/293977</link>
+            <guid>https://www.vlive.tv/video/293977</guid>
+            <pubDate>Mon, 14 Nov 2022 14:06:13 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:53]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221114_62/1668432708489QGCeU_JPEG/18130831147619148925c4742b-3bb9-4aff-82c2-31636e9087c1.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[withus] 'Barricade' Official Fan Meeting Invitation]]></title>
+            <link>https://www.vlive.tv/video/293940</link>
+            <guid>https://www.vlive.tv/video/293940</guid>
+            <pubDate>Mon, 14 Nov 2022 15:46:32 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221114_43/1668395590587wvIUF_JPEG/3700db27-63ca-11ed-9f1e-d4f5ef5a9532_08.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

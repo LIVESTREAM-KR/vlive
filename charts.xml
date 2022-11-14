@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Nov 2022 14:46:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Nov 2022 15:46:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,14 +32,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221111_212/1668146791810qj2hE_JPEG/upload_112226504460945710a926712f-9009-41f9-a2fe-c3f771f6c919.JPG?type=f380_213_wp" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[✨]]></title>
-            <link>https://www.vlive.tv/video/293933</link>
-            <guid>https://www.vlive.tv/video/293933</guid>
-            <pubDate>Sun, 13 Nov 2022 17:44:01 GMT</pubDate>
-            <content:encoded><![CDATA[KIM SO JEONG (김소정)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221114_53/1668353051062nVTwt_JPEG/d9b5d5f3-6366-11ed-8613-505dacfba98a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 1]]></title>
             <link>https://www.vlive.tv/video/289368</link>
             <guid>https://www.vlive.tv/video/289368</guid>
@@ -56,12 +48,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20221111_27/1668099608152gywaj_JPEG/b1b1c47c-6118-11ed-a57b-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[Special Clip] MINHYUK 민혁 - HAPPY MINHYUK DAY♡]]></title>
-            <link>https://www.vlive.tv/video/293868</link>
-            <guid>https://www.vlive.tv/video/293868</guid>
-            <pubDate>Sun, 13 Nov 2022 14:42:34 GMT</pubDate>
-            <content:encoded><![CDATA[MONSTA X]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221111_197/1668154018562glAXg_JPEG/upload_112233736772107010170eb0c2-a115-4f73-a610-00798899f55a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <title><![CDATA[지민씨 등장]]></title>
+            <link>https://www.vlive.tv/video/265730</link>
+            <guid>https://www.vlive.tv/video/265730</guid>
+            <pubDate>Mon, 14 Nov 2022 15:46:13 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211013_144/1634122553955eHKox_JPEG/upload_78202275760730696931ec09d-bfa2-4361-8b27-5b66010714b3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[✨]]></title>
+            <link>https://www.vlive.tv/video/293933</link>
+            <guid>https://www.vlive.tv/video/293933</guid>
+            <pubDate>Sun, 13 Nov 2022 17:44:01 GMT</pubDate>
+            <content:encoded><![CDATA[KIM SO JEONG (김소정)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221114_53/1668353051062nVTwt_JPEG/d9b5d5f3-6366-11ed-8613-505dacfba98a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
