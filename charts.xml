@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Nov 2022 20:44:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Nov 2022 21:42:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,14 +40,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221112_291/16681937520509eDoD_JPEG/upload_844633560971054374999be50-5e85-4aed-95b4-ee2aecb8d688.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[TWICE REALITY "TIME TO TWICE" Y2K TDOONG SHOW EP.01]]></title>
-            <link>https://www.vlive.tv/video/293859</link>
-            <guid>https://www.vlive.tv/video/293859</guid>
-            <pubDate>Tue, 15 Nov 2022 19:40:28 GMT</pubDate>
-            <content:encoded><![CDATA[TWICE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221111_212/1668146791810qj2hE_JPEG/upload_112226504460945710a926712f-9009-41f9-a2fe-c3f771f6c919.JPG?type=f228_128_wp" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[ITZY(있지) "CHESHIRE" CONCEPT FILM #2]]></title>
             <link>https://www.vlive.tv/video/293998</link>
             <guid>https://www.vlive.tv/video/293998</guid>
@@ -62,6 +54,14 @@
             <pubDate>Tue, 15 Nov 2022 19:40:28 GMT</pubDate>
             <content:encoded><![CDATA[SF9]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221115_158/1668523996545oTDEn_JPEG/1813996125413031309d01b8c9-ec6d-4b07-a4f1-20210a82a0b3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TWICE REALITY "TIME TO TWICE" Y2K TDOONG SHOW EP.01]]></title>
+            <link>https://www.vlive.tv/video/293859</link>
+            <guid>https://www.vlive.tv/video/293859</guid>
+            <pubDate>Tue, 15 Nov 2022 19:40:28 GMT</pubDate>
+            <content:encoded><![CDATA[TWICE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221111_212/1668146791810qj2hE_JPEG/upload_112226504460945710a926712f-9009-41f9-a2fe-c3f771f6c919.JPG?type=f228_128_wp" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
