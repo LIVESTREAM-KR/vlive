@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Nov 2022 13:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Nov 2022 13:53:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,20 +288,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20221115_293/1668504529833vChGn_JPEG/upload_11258278187069540404c25e42-8639-4195-9f53-060b446ba2c7.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[withus 화락데이 (V LIVE ─ 일정표)]]></title>
-            <link>https://www.vlive.tv/video/294017</link>
-            <guid>https://www.vlive.tv/video/294017</guid>
-            <pubDate>Tue, 15 Nov 2022 13:20:28 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:32]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221115_10/1668515551300JD4f7_JPEG/9056798983558711127d10fc4-6b02-4f7a-aaea-6adfcbc374ed.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[오랜만에🥹🫶 (V LIVE ─ 일정표)]]></title>
             <link>https://www.vlive.tv/video/294020</link>
             <guid>https://www.vlive.tv/video/294020</guid>
             <pubDate>Tue, 15 Nov 2022 13:20:28 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:13]]></content:encoded>
             <enclosure url="https://vlive-thumb.pstatic.net/live/294020/thumb?type=f228_128" length="0" type="image//live/294020/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[withus 화락데이 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/294017</link>
+            <guid>https://www.vlive.tv/video/294017</guid>
+            <pubDate>Tue, 15 Nov 2022 13:20:28 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:30]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221115_10/1668515551300JD4f7_JPEG/9056798983558711127d10fc4-6b02-4f7a-aaea-6adfcbc374ed.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
