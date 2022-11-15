@@ -1,67 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>V LIVE ─ CHARTS</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Tue, 15 Nov 2022 17:43:28 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Stray Kids(스트레이 키즈) : SKZ-TALKER GO! Season 3 (슼즈토커 고! 시즌 3)] Ep.08 SEOUL]]></title>
-            <link>https://www.vlive.tv/video/294013</link>
-            <guid>https://www.vlive.tv/video/294013</guid>
-            <pubDate>Tue, 15 Nov 2022 13:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221115_293/1668504529833vChGn_JPEG/upload_11258278187069540404c25e42-8639-4195-9f53-060b446ba2c7.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오늘 생일자🐱]]></title>
-            <link>https://www.vlive.tv/video/293988</link>
-            <guid>https://www.vlive.tv/video/293988</guid>
-            <pubDate>Tue, 15 Nov 2022 05:41:19 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221115_201/1668485638370WcX6W_JPEG/08c8f744-649b-11ed-b6e8-48df37ae3dc4_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 2]]></title>
-            <link>https://www.vlive.tv/video/289928</link>
-            <guid>https://www.vlive.tv/video/289928</guid>
-            <pubDate>Tue, 15 Nov 2022 05:41:19 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220824_277/1661325776060GNHYn_JPEG/upload_105405488087786008317d78ca-7903-4ba4-975b-e9e5827f79fe.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리노리방😺빼빼로데이🤲]]></title>
-            <link>https://www.vlive.tv/video/293870</link>
-            <guid>https://www.vlive.tv/video/293870</guid>
-            <pubDate>Tue, 15 Nov 2022 05:41:19 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221112_291/16681937520509eDoD_JPEG/upload_844633560971054374999be50-5e85-4aed-95b4-ee2aecb8d688.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TWICE REALITY "TIME TO TWICE" Y2K TDOONG SHOW EP.01]]></title>
-            <link>https://www.vlive.tv/video/293859</link>
-            <guid>https://www.vlive.tv/video/293859</guid>
-            <pubDate>Tue, 15 Nov 2022 05:41:19 GMT</pubDate>
-            <content:encoded><![CDATA[TWICE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221111_212/1668146791810qj2hE_JPEG/upload_112226504460945710a926712f-9009-41f9-a2fe-c3f771f6c919.JPG?type=f228_128_wp" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[오랜만에🥹🫶]]></title>
-            <link>https://www.vlive.tv/video/294020</link>
-            <guid>https://www.vlive.tv/video/294020</guid>
-            <pubDate>Tue, 15 Nov 2022 14:42:25 GMT</pubDate>
-            <content:encoded><![CDATA[위아이 (WEi)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221115_110/1668521001030zzUYa_JPEG/bafa3599-64ed-11ed-bf94-d4f5ef590144_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[:)]]></title>
-            <link>https://www.vlive.tv/video/294023</link>
-            <guid>https://www.vlive.tv/video/294023</guid>
-            <pubDate>Tue, 15 Nov 2022 16:57:07 GMT</pubDate>
-            <content:encoded><![CDATA[SF9]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221115_158/1668523996545oTDEn_JPEG/1813996125413031309d01b8c9-ec6d-4b07-a4f1-20210a82a0b3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.vlive.tv/home/chart/more?pageNo=1&amp;pageSize=50&amp;viewType=recent&amp;lang=ko</id>
+    <title>V LIVE ─ CHARTS</title>
+    <updated>2022-11-15T18:48:24.931Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.vlive.tv/home/chart/favicon.ico</icon>
+</feed>
