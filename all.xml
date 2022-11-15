@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Nov 2022 09:44:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Nov 2022 10:45:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,14 +192,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221115_293/1668491957779aPGQT_PNG/upload_112571684867316335080218c7-82a5-4123-9064-404c98267b66.png?type=f228_128" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[팝콘들 뭐해..? (V LIVE ─ 일정표)]]></title>
-            <link>https://www.vlive.tv/video/294010</link>
-            <guid>https://www.vlive.tv/video/294010</guid>
-            <pubDate>Tue, 15 Nov 2022 09:43:39 GMT</pubDate>
-            <content:encoded><![CDATA[오전 8:53]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/294010/thumb?type=f228_128" length="0" type="image//live/294010/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[Xdinary Heroes 〈Overload〉 Jacket Making Film 2 (V LIVE ─ 일정표)]]></title>
             <link>https://www.vlive.tv/video/293823</link>
             <guid>https://www.vlive.tv/video/293823</guid>
@@ -256,12 +248,36 @@
             <enclosure url="https://v-phinf.pstatic.net/20221111_162/1668142274606ULB86_JPEG/upload_1122219808741051244277fcd0-28d5-42fc-b285-ae7eee26123e.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[팝콘들 뭐해..? (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/294010</link>
+            <guid>https://www.vlive.tv/video/294010</guid>
+            <pubDate>Tue, 15 Nov 2022 09:43:39 GMT</pubDate>
+            <content:encoded><![CDATA[오전 9:58]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221115_200/1668506308607iPHTj_JPEG/f60f1b75-64ca-11ed-8892-505dac8c35ff_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Special Clip] MONSTA X 몬스타엑스 - 2023 수능 응원영상 (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/294011</link>
+            <guid>https://www.vlive.tv/video/294011</guid>
+            <pubDate>Tue, 15 Nov 2022 10:45:17 GMT</pubDate>
+            <content:encoded><![CDATA[오전 10:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221115_202/1668504319884y7fjy_JPEG/upload_11258405170749963320725449-f335-468d-83f6-4bea6e5e6cb3.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[안녕 (V LIVE ─ 일정표)]]></title>
             <link>https://www.vlive.tv/video/294014</link>
             <guid>https://www.vlive.tv/video/294014</guid>
             <pubDate>Tue, 15 Nov 2022 09:43:39 GMT</pubDate>
-            <content:encoded><![CDATA[오전 9:37]]></content:encoded>
+            <content:encoded><![CDATA[오전 10:17]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221115_74/16685050263854SHOi_JPEG/181380642327255352b7a3c431-9ac3-434f-9e23-70857dc01e63.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서기><♡♡ (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/294015</link>
+            <guid>https://www.vlive.tv/video/294015</guid>
+            <pubDate>Tue, 15 Nov 2022 10:45:17 GMT</pubDate>
+            <content:encoded><![CDATA[오전 10:34]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221115_161/1668508457352elxJC_JPEG/8be81067-64d0-11ed-814e-505dac8c381b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
