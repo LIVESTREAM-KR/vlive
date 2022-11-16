@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.vlive.tv/home/chart?sub=VIDEO&amp;period=HOUR_24&amp;country=ALL&amp;lang=ko</id>
-    <title>V LIVE ─ 홈 ─ CHARTS TOP3</title>
-    <updated>2022-11-16T16:58:29.976Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.vlive.tv/home/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>V LIVE ─ 홈 ─ CHARTS TOP3</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:51:26 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2023학년도 수능 응원 메시지 도착🍀💌 From. Stray Kids(스트레이 키즈)]]></title>
+            <link>https://www.vlive.tv/video/294040</link>
+            <guid>https://www.vlive.tv/video/294040</guid>
+            <pubDate>Wed, 16 Nov 2022 17:50:12 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221116_190/1668567204763XWS11_JPEG/upload_1126440465860449070dbd157c-79f7-4d5e-a9b0-fd98f96f8847.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 2]]></title>
+            <link>https://www.vlive.tv/video/289928</link>
+            <guid>https://www.vlive.tv/video/289928</guid>
+            <pubDate>Wed, 16 Nov 2022 17:50:12 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220824_277/1661325776060GNHYn_JPEG/upload_105405488087786008317d78ca-7903-4ba4-975b-e9e5827f79fe.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Stray Kids(스트레이 키즈) : SKZ-TALKER GO! Season 3 (슼즈토커 고! 시즌 3)] Ep.08 SEOUL]]></title>
+            <link>https://www.vlive.tv/video/294013</link>
+            <guid>https://www.vlive.tv/video/294013</guid>
+            <pubDate>Wed, 16 Nov 2022 17:50:12 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221115_293/1668504529833vChGn_JPEG/upload_11258278187069540404c25e42-8639-4195-9f53-060b446ba2c7.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

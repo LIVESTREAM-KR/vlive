@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.vlive.tv/vstore/membership?lang=ko</id>
-    <title>V LIVE ─ STORE ─ MEMBERSHIP</title>
-    <updated>2022-11-16T16:58:29.969Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.vlive.tv/vstore/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>V LIVE ─ STORE ─ MEMBERSHIP</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:51:26 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AB6IX 1ST ABIVERSARY FANMEETING & AB4U]]></title>
+            <link>https://www.vlive.tv/membership/93</link>
+            <guid>https://www.vlive.tv/membership/93</guid>
+            <pubDate>Wed, 16 Nov 2022 17:51:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/membership/93" class="store_fanship_card"><div class="thumb_area"><img src="https://v-phinf.pstatic.net/20200423_81/1587611791173MpzVT_JPEG/upload_1125x564_ED8CACEC89BDEC8381ED9288ECBBA4EBB284.jpg?type=f389_195" alt="AB6IX 1ST ABIVERSARY FANMEETING &amp; AB4U" width="389" height="195"></div><div class="info_area"><div class="profile_thumb -no_default_img"><img src="https://v-phinf.pstatic.net/20220927_286/1664248070217JM111_PNG/profile1174_98767.png?type=f65_65" alt="AB6IX" width="64" height="64"></div><strong class="title">AB6IX 1ST ABIVERSARY FANMEETING &amp; AB4U</strong></div></a>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20200423_81/1587611791173MpzVT_JPEG/upload_1125x564_ED8CACEC89BDEC8381ED9288ECBBA4EBB284.jpg?type=f389_195" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SJ Returns 3 V Fanship]]></title>
+            <link>https://www.vlive.tv/membership/55</link>
+            <guid>https://www.vlive.tv/membership/55</guid>
+            <pubDate>Wed, 16 Nov 2022 17:51:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/membership/55" class="store_fanship_card"><div class="thumb_area"><img src="https://v-phinf.pstatic.net/20200722_147/1595403257897T367i_JPEG/upload_5BE18491E185A2E186ABE18489E185B5E186B85DE18489E1.jpg?type=f389_195" alt="SJ Returns 3 V Fanship" width="389" height="195"></div><div class="info_area"><div class="profile_thumb -no_default_img"><img src="https://v-phinf.pstatic.net/20201127_3/16064550436994cLJY_PNG/profile639_85864.png?type=f65_65" alt="슈주 리턴즈 (SJ returns) by SM C&amp;C STUDIO A" width="64" height="64"></div><strong class="title">SJ Returns 3 V Fanship</strong></div></a>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20200722_147/1595403257897T367i_JPEG/upload_5BE18491E185A2E186ABE18489E185B5E186B85DE18489E1.jpg?type=f389_195" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
