@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 08:50:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 09:44:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[withus] 'Barricade' ONLINE MEET&GREET]]></title>
-            <link>https://m.vlive.tv/video/294039</link>
-            <guid>https://m.vlive.tv/video/294039</guid>
-            <pubDate>Wed, 16 Nov 2022 17:51:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 9:30</span>
-										<span class="txt">위드에이치씨 (withHC)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221116_33/16685671847918vC7p_JPEG/upload_1126468610739034702c397c35-1257-4fd5-8d6a-694039da5cd3.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[🎁 HAPPY JACKIE DAY 🎁]]></title>
             <link>https://m.vlive.tv/video/294090</link>
@@ -68,6 +58,16 @@
             <enclosure url="https://v-phinf.pstatic.net/20221111_137/1668142344182FfwtA_JPEG/upload_112222053305540760db64b1c1-e941-4d7c-bdf5-947020e4ca77.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[🎂 HAPPY HAMIN DAY 🎂]]></title>
+            <link>https://m.vlive.tv/video/294110</link>
+            <guid>https://m.vlive.tv/video/294110</guid>
+            <pubDate>Thu, 17 Nov 2022 09:43:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 9:00</span>
+										<span class="txt">청공소년 (Bz_Boys)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221117_29/1668676546152yeSRk_JPEG/upload_84946095412644044e994db67-7b5a-4fe6-bb02-3fa44225396e.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Arirang Radio (Radio'n Us / Singa 심가원)]]></title>
             <link>https://m.vlive.tv/video/293973</link>
             <guid>https://m.vlive.tv/video/293973</guid>
@@ -76,6 +76,16 @@
 										오전 11:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221114_80/1668424389617mNuwh_JPEG/upload_8469395129048781212d46538-bd7d-4c60-bd1b-190d6ca734c6.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
+            <link>https://m.vlive.tv/video/294105</link>
+            <guid>https://m.vlive.tv/video/294105</guid>
+            <pubDate>Thu, 17 Nov 2022 09:43:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221117_132/1668675175815BSKGk_JPEG/upload_112754894834337502f4e33bbc-a3c0-487d-8cfc-2ff63aa9b706.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio / Radio’ Clock] Junhyeok SEO (서준혁) & 렘마 (Lemma)]]></title>
@@ -96,16 +106,6 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221117_189/16686701443788cgN3_JPEG/upload_1127498054466244257de62962-40b5-4615-8dc4-d6bf45cf299a.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arirang Radio (Super K-Pop / xoxo project 소소한 프로젝트)]]></title>
-            <link>https://m.vlive.tv/video/294101</link>
-            <guid>https://m.vlive.tv/video/294101</guid>
-            <pubDate>Thu, 17 Nov 2022 07:40:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221117_175/1668670215416HfioK_JPEG/upload_112749871782332816a2ef316d-26af-4480-a671-22af4635e1b8.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
