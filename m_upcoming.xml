@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 04:49:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 05:42:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (KPOPPIN' / 임윤성 Im Yoon Seong)]]></title>
-            <link>https://m.vlive.tv/video/293943</link>
-            <guid>https://m.vlive.tv/video/293943</guid>
-            <pubDate>Wed, 16 Nov 2022 17:51:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221114_249/166839897714160rPW_JPEG/upload_846685380881151787e5f3795-32f1-4896-a299-79aa60f5ec71.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Radio’ Clock] Plastic Kid (플라스틱 키드)]]></title>
             <link>https://m.vlive.tv/video/294008</link>
@@ -106,6 +96,16 @@
 										오전 11:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221114_80/1668424389617mNuwh_JPEG/upload_8469395129048781212d46538-bd7d-4c60-bd1b-190d6ca734c6.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[mini monster Birthdaysetting 2!!!!]]></title>
+            <link>https://m.vlive.tv/video/272157</link>
+            <guid>https://m.vlive.tv/video/272157</guid>
+            <pubDate>Thu, 17 Nov 2022 05:42:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 3:00</span>
+										<span class="txt">sema</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211218_94/1639796711375GzQ8F_JPEG/upload_83876405217509231884b5a01-39a9-4367-9b92-da56781d7305.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
