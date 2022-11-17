@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 03:32:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 04:49:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[EPEX's Event for ZENITH]]></title>
+            <link>https://www.vlive.tv/video/294089</link>
+            <guid>https://www.vlive.tv/video/294089</guid>
+            <pubDate>Thu, 17 Nov 2022 04:48:16 GMT</pubDate>
+            <content:encoded><![CDATA[After School Club │ 애프터스쿨클럽]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221117_264/1668651804897nHHbJ_JPEG/upload_849214075422847538ee545c3-038a-4526-88d3-4fca910e8b7d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MV] withus(위더스) - Barricade]]></title>
             <link>https://www.vlive.tv/video/294066</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 16 Nov 2022 17:50:03 GMT</pubDate>
             <content:encoded><![CDATA[PENTAGON]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221116_38/1668608394930HaVBD_JPEG/fa9af88c-65a6-11ed-bfc6-505dac8c3639_05.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[승훈💛]]></title>
-            <link>https://www.vlive.tv/video/294067</link>
-            <guid>https://www.vlive.tv/video/294067</guid>
-            <pubDate>Wed, 16 Nov 2022 17:50:03 GMT</pubDate>
-            <content:encoded><![CDATA[CIX]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221116_174/1668596514450hON9s_JPEG/6221429073532778946e7a83c-2cc5-478c-b9c0-415b5dec8b52.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

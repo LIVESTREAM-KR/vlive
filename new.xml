@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 03:32:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 04:49:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[EPEX's Event for ZENITH]]></title>
+            <link>https://www.vlive.tv/video/294089</link>
+            <guid>https://www.vlive.tv/video/294089</guid>
+            <pubDate>Thu, 17 Nov 2022 04:48:06 GMT</pubDate>
+            <content:encoded><![CDATA[After School Club │ 애프터스쿨클럽]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221117_264/1668651804897nHHbJ_JPEG/upload_849214075422847538ee545c3-038a-4526-88d3-4fca910e8b7d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[MV] withus(위더스) - Barricade]]></title>
             <link>https://www.vlive.tv/video/294066</link>
@@ -399,14 +407,6 @@
             <pubDate>Wed, 16 Nov 2022 17:49:52 GMT</pubDate>
             <content:encoded><![CDATA[OUI ENTERTAINMENT]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221116_91/1668564212081btxHG_JPEG/upload_848338153729465232f11864a-f2c2-4a21-a1db-095c1be7eba9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위아이가 전하는 2023학년도 수능 응원 메시지]]></title>
-            <link>https://www.vlive.tv/video/294031</link>
-            <guid>https://www.vlive.tv/video/294031</guid>
-            <pubDate>Wed, 16 Nov 2022 17:49:52 GMT</pubDate>
-            <content:encoded><![CDATA[OUI ENTERTAINMENT]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221116_91/1668559867336brgnT_JPEG/upload_11263957544538791147d85498-8d07-4fb8-9dc8-6ae234e9e025.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
