@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 04:50:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 05:43:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 18 Nov 2022 04:49:00 GMT</pubDate>
             <content:encoded><![CDATA[ARIRANG K Pop │ 아리랑케이팝]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221116_44/1668576273177l4q2P_PNG/upload_84845824627897575204dbfe7-ea10-4942-959c-c1d4b07ad28b.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[WJSN 2023 Fan-Con 'CODENAME:UJUNG' Greeting Message]]></title>
+            <link>https://www.vlive.tv/video/294064</link>
+            <guid>https://www.vlive.tv/video/294064</guid>
+            <pubDate>Fri, 18 Nov 2022 05:41:49 GMT</pubDate>
+            <content:encoded><![CDATA[우주소녀(WJSN)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221116_13/1668593504935AOu2l_JPEG/upload_8486294517673488055767f1b-a1d6-4271-9157-ae8e45ee3b37.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[찬열(CHANYEOL), 비주얼+비율 모두 완벽 ('아쿠아 디 파르마' 포토월)]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 17 Nov 2022 13:51:55 GMT</pubDate>
             <content:encoded><![CDATA[지진석 (Ji jin seok)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221117_203/1668693956123tzHLr_JPEG/9da4e595-6680-11ed-9ff0-505dac8c38f5_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[7살]]></title>
-            <link>https://www.vlive.tv/video/294124</link>
-            <guid>https://www.vlive.tv/video/294124</guid>
-            <pubDate>Thu, 17 Nov 2022 13:13:39 GMT</pubDate>
-            <content:encoded><![CDATA[스누퍼(SNUPER)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221117_221/1668688482413aCOgM_JPEG/1815640194094642624deec28b-1c53-4b9b-b4b9-5eb8f32d8ee7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
