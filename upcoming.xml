@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Nov 2022 08:49:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Nov 2022 09:42:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,8 +44,16 @@
             <link>https://www.vlive.tv/video/294172</link>
             <guid>https://www.vlive.tv/video/294172</guid>
             <pubDate>Sat, 19 Nov 2022 08:49:26 GMT</pubDate>
-            <content:encoded><![CDATA[오전 8:43]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/294172/thumb?type=f228_128" length="0" type="image//live/294172/thumb"/>
+            <content:encoded><![CDATA[오전 9:02]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221119_272/16688485771988vPdF_JPEG/c2a489e6-67e8-11ed-a645-505dacfbaa5c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BAE173 두 번째 생일파티에 초대합니다]]></title>
+            <link>https://www.vlive.tv/video/294173</link>
+            <guid>https://www.vlive.tv/video/294173</guid>
+            <pubDate>Sat, 19 Nov 2022 09:42:06 GMT</pubDate>
+            <content:encoded><![CDATA[오전 9:14]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221119_88/1668849247083xWiNY_JPEG/181724776067509902ceb416d8-b069-444b-a131-4431923f0c57.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,16 +4,24 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Nov 2022 08:49:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Nov 2022 09:42:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BAE173 두 번째 생일파티에 초대합니다]]></title>
+            <link>https://www.vlive.tv/video/294173</link>
+            <guid>https://www.vlive.tv/video/294173</guid>
+            <pubDate>Sat, 19 Nov 2022 09:41:16 GMT</pubDate>
+            <content:encoded><![CDATA[BAE173]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221119_88/1668849247083xWiNY_JPEG/181724776067509902ceb416d8-b069-444b-a131-4431923f0c57.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[WeAreYoung(위아영) - K Music 평창]]></title>
             <link>https://www.vlive.tv/video/294172</link>
             <guid>https://www.vlive.tv/video/294172</guid>
             <pubDate>Sat, 19 Nov 2022 08:48:34 GMT</pubDate>
             <content:encoded><![CDATA[MYmusic ent.]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/294172/thumb?type=f228_128" length="0" type="image//live/294172/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20221119_272/16688485771988vPdF_JPEG/c2a489e6-67e8-11ed-a645-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['동감' 여진구·조이현·김혜윤·나인우·배인혁, 즐거운 무대인사 나들이 #동감 #여진구 #조이현 #나인우 #김혜윤 #배인혁]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 18 Nov 2022 07:39:44 GMT</pubDate>
             <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221111_137/1668142344182FfwtA_JPEG/upload_112222053305540760db64b1c1-e941-4d7c-bdf5-947020e4ca77.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[withusㅡ끔요일]]></title>
-            <link>https://www.vlive.tv/video/294156</link>
-            <guid>https://www.vlive.tv/video/294156</guid>
-            <pubDate>Fri, 18 Nov 2022 11:39:31 GMT</pubDate>
-            <content:encoded><![CDATA[위드에이치씨 (withHC)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221118_154/1668766181795eEtjc_JPEG/181641784790449360c7460162-0465-4586-aab7-d3dc4088cf6a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

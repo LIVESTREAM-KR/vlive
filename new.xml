@@ -4,15 +4,24 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Nov 2022 08:49:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Nov 2022 09:42:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BAE173 두 번째 생일파티에 초대합니다]]></title>
+            <link>https://www.vlive.tv/video/294173</link>
+            <guid>https://www.vlive.tv/video/294173</guid>
+            <pubDate>Sat, 19 Nov 2022 09:41:06 GMT</pubDate>
+            <content:encoded><![CDATA[BAE173]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221119_88/1668849247083xWiNY_JPEG/181724776067509902ceb416d8-b069-444b-a131-4431923f0c57.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[WeAreYoung(위아영) - K Music 평창]]></title>
             <link>https://www.vlive.tv/video/294172</link>
             <guid>https://www.vlive.tv/video/294172</guid>
             <pubDate>Sat, 19 Nov 2022 08:48:24 GMT</pubDate>
             <content:encoded><![CDATA[MYmusic ent.]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221119_272/16688485771988vPdF_JPEG/c2a489e6-67e8-11ed-a645-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA['동감' 여진구·조이현·김혜윤·나인우·배인혁, 즐거운 무대인사 나들이 #동감 #여진구 #조이현 #나인우 #김혜윤 #배인혁]]></title>
@@ -397,14 +406,6 @@
             <pubDate>Thu, 17 Nov 2022 13:51:45 GMT</pubDate>
             <content:encoded><![CDATA[24K]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221117_201/1668692882500oc5ma_JPEG/3de8e962-667e-11ed-9ff0-505dac8c38f5_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김선호] 2022 김선호 팬미팅 '하나, 둘, 셋, 스마일' 티저2 (2nd teaser)]]></title>
-            <link>https://www.vlive.tv/video/294126</link>
-            <guid>https://www.vlive.tv/video/294126</guid>
-            <pubDate>Thu, 17 Nov 2022 13:51:45 GMT</pubDate>
-            <content:encoded><![CDATA[Kim Seon Ho (김선호)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221117_298/1668690847134KYPno_JPEG/upload_1127705488253308700bcb2af4-cf6e-4ca6-ad60-1512cd37463d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
