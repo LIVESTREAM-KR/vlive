@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Nov 2022 07:40:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Nov 2022 08:49:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Sat, 19 Nov 2022 07:39:58 GMT</pubDate>
             <content:encoded><![CDATA[오전 7:07]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221119_215/1668841625268QwwrD_JPEG/upload_851112200644140559c349996-44f1-47bb-9015-bf3774e9e067.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WeAreYoung(위아영) - K Music 평창]]></title>
+            <link>https://www.vlive.tv/video/294172</link>
+            <guid>https://www.vlive.tv/video/294172</guid>
+            <pubDate>Sat, 19 Nov 2022 08:49:26 GMT</pubDate>
+            <content:encoded><![CDATA[오전 8:43]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/294172/thumb?type=f228_128" length="0" type="image//live/294172/thumb"/>
         </item>
     </channel>
 </rss>
