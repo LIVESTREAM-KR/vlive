@@ -4,9 +4,16 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Nov 2022 03:56:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Nov 2022 04:49:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고원이 생일파티에 다시 초대합니다]]></title>
+            <link>https://www.vlive.tv/video/294168</link>
+            <guid>https://www.vlive.tv/video/294168</guid>
+            <pubDate>Sat, 19 Nov 2022 04:47:35 GMT</pubDate>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤... #19]]></title>
             <link>https://www.vlive.tv/video/294164</link>
@@ -398,14 +405,6 @@
             <pubDate>Thu, 17 Nov 2022 10:44:09 GMT</pubDate>
             <content:encoded><![CDATA[Weki Meki]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221117_184/16686803458460oIlm_JPEG/90732784312466879e612d552-af36-4481-bd6a-01471e5c600d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LIGHTSUM's RELAY UNIT V LIVE #1]]></title>
-            <link>https://www.vlive.tv/video/294116</link>
-            <guid>https://www.vlive.tv/video/294116</guid>
-            <pubDate>Thu, 17 Nov 2022 10:44:09 GMT</pubDate>
-            <content:encoded><![CDATA[LIGHTSUM]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221117_210/1668686671914uMQFy_JPEG/upload_1127664037684073592d0fe16b-9c70-42d6-af4b-baa77a43cd9c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Nov 2022 03:56:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Nov 2022 04:49:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고원이 생일파티에 다시 초대합니다]]></title>
+            <link>https://www.vlive.tv/video/294168</link>
+            <guid>https://www.vlive.tv/video/294168</guid>
+            <pubDate>Sat, 19 Nov 2022 04:47:46 GMT</pubDate>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/294168/thumb?type=f228_128" length="0" type="image//live/294168/thumb"/>
+        </item>
         <item>
             <title><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤... #19]]></title>
             <link>https://www.vlive.tv/video/294164</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 18 Nov 2022 09:42:38 GMT</pubDate>
             <content:encoded><![CDATA[청공소년 (Bz_Boys)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221117_29/1668676546152yeSRk_JPEG/upload_84946095412644044e994db67-7b5a-4fe6-bb02-3fa44225396e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뀨]]></title>
-            <link>https://www.vlive.tv/video/294153</link>
-            <guid>https://www.vlive.tv/video/294153</guid>
-            <pubDate>Fri, 18 Nov 2022 09:42:38 GMT</pubDate>
-            <content:encoded><![CDATA[HEYGIRLS (헤이걸스)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221118_230/1668762510445sjmJq_JPEG/19549881062755027f6c431bc-83bc-48e3-abfd-6c669e2b2aff.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
