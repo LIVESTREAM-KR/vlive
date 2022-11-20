@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 09:45:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 10:44:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[TEMPEST 3RD MINI ALBUM [ON and ON] SPOILER LIVE]]></title>
-            <link>https://m.vlive.tv/video/294169</link>
-            <guid>https://m.vlive.tv/video/294169</guid>
-            <pubDate>Sat, 19 Nov 2022 06:47:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 10:00</span>
-										<span class="txt">TEMPEST (템페스트)</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221119_184/1668839273438DiPSg_JPEG/upload_1129189494432570537cc39302-d33d-40b1-ac05-16dd8bb56eb7.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
             <link>https://m.vlive.tv/video/294105</link>
@@ -96,6 +86,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221117_175/1668670215416HfioK_JPEG/upload_112749871782332816a2ef316d-26af-4480-a671-22af4635e1b8.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
+            <link>https://m.vlive.tv/video/294108</link>
+            <guid>https://m.vlive.tv/video/294108</guid>
+            <pubDate>Sun, 20 Nov 2022 10:44:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221117_57/1668675257459EQ4yx_JPEG/upload_8494484617037762614b97e64-0a48-47ad-b532-0fdfcc29637a.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
