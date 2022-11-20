@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 13:04:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 13:45:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[회의]]></title>
+            <link>https://www.vlive.tv/video/294204</link>
+            <guid>https://www.vlive.tv/video/294204</guid>
+            <pubDate>Sun, 20 Nov 2022 13:44:16 GMT</pubDate>
+            <content:encoded><![CDATA[PENTAGON]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/294204/thumb?type=f228_128" length="0" type="image//live/294204/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[🤍 20221120 HAPPY JUNSEO DAY 🤍]]></title>
+            <link>https://www.vlive.tv/video/294203</link>
+            <guid>https://www.vlive.tv/video/294203</guid>
+            <pubDate>Sun, 20 Nov 2022 13:44:16 GMT</pubDate>
+            <content:encoded><![CDATA[위아이 (WEi)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221120_234/1668950023207b1u3g_JPEG/18182562319799565339b05c42-e207-407c-8146-d6bf84e53e07.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[몬채널][B] EP.335 'Youth' - COMEBACK WEEK part.2]]></title>
             <link>https://www.vlive.tv/video/294166</link>
@@ -110,22 +126,6 @@
             <pubDate>Sat, 19 Nov 2022 13:03:32 GMT</pubDate>
             <content:encoded><![CDATA[PIXY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221119_9/1668860871255U2iAq_JPEG/19648241877046791990be694-7674-4c9b-8068-922c3fb10fa6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소녀세상 막내 하리 혼자 왔어용]]></title>
-            <link>https://www.vlive.tv/video/294174</link>
-            <guid>https://www.vlive.tv/video/294174</guid>
-            <pubDate>Sat, 19 Nov 2022 14:40:19 GMT</pubDate>
-            <content:encoded><![CDATA[LIZ ENT]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221119_72/1668852330499SyWci_JPEG/90904769037845132dbbd3913-26e2-4b4c-8cc6-a14b757b5454.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['인형 아니야?' 장원영(IVE JANG WONYOUNG), 어둠속에서도 빛나는 비주얼 #아이브 #IVE #장원영 #jangwonyoung #張員瑛 #チャン・ウォニョン]]></title>
-            <link>https://www.vlive.tv/video/294181</link>
-            <guid>https://www.vlive.tv/video/294181</guid>
-            <pubDate>Sat, 19 Nov 2022 13:03:32 GMT</pubDate>
-            <content:encoded><![CDATA[mydaily]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221119_281/1668861923234nHWr6_JPEG/upload_8513151739458240194ff8e96-3d19-4991-ad7e-01c83a1f819d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

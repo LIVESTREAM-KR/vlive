@@ -4,9 +4,24 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 13:04:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 13:45:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[회의]]></title>
+            <link>https://www.vlive.tv/video/294204</link>
+            <guid>https://www.vlive.tv/video/294204</guid>
+            <pubDate>Sun, 20 Nov 2022 13:44:03 GMT</pubDate>
+            <content:encoded><![CDATA[PENTAGON]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🤍 20221120 HAPPY JUNSEO DAY 🤍]]></title>
+            <link>https://www.vlive.tv/video/294203</link>
+            <guid>https://www.vlive.tv/video/294203</guid>
+            <pubDate>Sun, 20 Nov 2022 13:44:03 GMT</pubDate>
+            <content:encoded><![CDATA[위아이 (WEi)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221120_234/1668950023207b1u3g_JPEG/18182562319799565339b05c42-e207-407c-8146-d6bf84e53e07.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[몬채널][B] EP.335 'Youth' - COMEBACK WEEK part.2]]></title>
             <link>https://www.vlive.tv/video/294166</link>
@@ -390,22 +405,6 @@
             <pubDate>Fri, 18 Nov 2022 09:42:27 GMT</pubDate>
             <content:encoded><![CDATA[YOUNHA]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221117_209/1668686636238isIcM_JPEG/upload_112765022531960247274d099e-9ee4-49f4-b7b5-418085684684.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YOUNITE 'Bad Cupid' SPECIAL PERFORMANCE VIDEO]]></title>
-            <link>https://www.vlive.tv/video/293980</link>
-            <guid>https://www.vlive.tv/video/293980</guid>
-            <pubDate>Fri, 18 Nov 2022 09:42:27 GMT</pubDate>
-            <content:encoded><![CDATA[YOUNITE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221117_226/1668668496740KIcg6_JPEG/upload_8493810032887634852954db0-527e-4deb-8ad1-84f691f0226f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[째니타임즈] 김재환(KIM JAE HWAN)_EP.90 2022 SOMEDAY PLEROMA 비하인드]]></title>
-            <link>https://www.vlive.tv/video/294133</link>
-            <guid>https://www.vlive.tv/video/294133</guid>
-            <pubDate>Fri, 18 Nov 2022 08:46:07 GMT</pubDate>
-            <content:encoded><![CDATA[KIM JAEHWAN(김재환)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221117_128/1668695680516Q8OGQ_JPEG/upload_112775078366345414c38f950b-0950-49ff-975f-7a093f5a3f19.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
