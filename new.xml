@@ -4,9 +4,25 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 14:47:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 15:44:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[회의]]></title>
+            <link>https://www.vlive.tv/video/294204</link>
+            <guid>https://www.vlive.tv/video/294204</guid>
+            <pubDate>Sun, 20 Nov 2022 13:44:03 GMT</pubDate>
+            <content:encoded><![CDATA[PENTAGON]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221121_129/1668957836024G4AmY_JPEG/e5472d41-68e5-11ed-bf7a-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[TEASER] 강다니엘(KANGDANIEL) - Nirvana (Feat. pH-1, WDBZ) M/V #1]]></title>
+            <link>https://www.vlive.tv/video/294198</link>
+            <guid>https://www.vlive.tv/video/294198</guid>
+            <pubDate>Sun, 20 Nov 2022 15:42:52 GMT</pubDate>
+            <content:encoded><![CDATA[강다니엘 (KANGDANIEL)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221120_181/1668933403414oCHfn_JPEG/upload_113012995248269607a71564df-6151-4439-9e33-39be8614bf3e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[🤍 20221120 HAPPY JUNSEO DAY 🤍]]></title>
             <link>https://www.vlive.tv/video/294203</link>
@@ -22,13 +38,6 @@
             <pubDate>Sun, 20 Nov 2022 14:45:39 GMT</pubDate>
             <content:encoded><![CDATA[HIGHLIGHT]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221120_176/1668951952230kdxmW_JPEG/upload_8522155301596077296eac094-731c-4ca8-a880-5ae76d4d10b8.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[회의]]></title>
-            <link>https://www.vlive.tv/video/294204</link>
-            <guid>https://www.vlive.tv/video/294204</guid>
-            <pubDate>Sun, 20 Nov 2022 13:44:03 GMT</pubDate>
-            <content:encoded><![CDATA[PENTAGON]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[몬채널][B] EP.335 'Youth' - COMEBACK WEEK part.2]]></title>
@@ -397,14 +406,6 @@
             <pubDate>Fri, 18 Nov 2022 09:42:27 GMT</pubDate>
             <content:encoded><![CDATA[TWICE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221118_56/1668751614352XIrkA_JPEG/upload_85021216614439474c4e82156-623d-415e-a728-433e47530b8e.JPG?type=f228_128_wp" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Hezz (홍의진) Profile Behind Film (black.ver)]]></title>
-            <link>https://www.vlive.tv/video/294145</link>
-            <guid>https://www.vlive.tv/video/294145</guid>
-            <pubDate>Fri, 18 Nov 2022 09:42:27 GMT</pubDate>
-            <content:encoded><![CDATA[Hezz]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221118_197/1668751017296z0szA_JPEG/upload_11283074778960206506f814d0-aad6-47f1-984b-92aaebe4470a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
