@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 19:40:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 20:46:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Dinner time babyyy]]></title>
+            <link>https://www.vlive.tv/video/294205</link>
+            <guid>https://www.vlive.tv/video/294205</guid>
+            <pubDate>Sun, 20 Nov 2022 20:45:38 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221121_20/1668975080831cJpjh_JPEG/181850680785952888d1413331-970b-4d9c-aa82-4104b997f4cd.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[회의]]></title>
             <link>https://www.vlive.tv/video/294204</link>
@@ -398,14 +406,6 @@
             <pubDate>Fri, 18 Nov 2022 09:42:27 GMT</pubDate>
             <content:encoded><![CDATA[Xdinary Heroes]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221118_284/1668760397932jo26j_PNG/upload_1128401241947130086bc4dd28-ce32-42d7-8c26-b7c377c7ba66.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[TWICE REALITY "TIME TO TWICE" Y2K TDOONG SHOW EP.02]]></title>
-            <link>https://www.vlive.tv/video/294147</link>
-            <guid>https://www.vlive.tv/video/294147</guid>
-            <pubDate>Fri, 18 Nov 2022 09:42:27 GMT</pubDate>
-            <content:encoded><![CDATA[TWICE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221118_56/1668751614352XIrkA_JPEG/upload_85021216614439474c4e82156-623d-415e-a728-433e47530b8e.JPG?type=f228_128_wp" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>

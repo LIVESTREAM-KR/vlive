@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 19:40:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 20:46:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Dinner time babyyy]]></title>
+            <link>https://www.vlive.tv/video/294205</link>
+            <guid>https://www.vlive.tv/video/294205</guid>
+            <pubDate>Sun, 20 Nov 2022 20:45:46 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221121_20/1668975080831cJpjh_JPEG/181850680785952888d1413331-970b-4d9c-aa82-4104b997f4cd.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[회의]]></title>
             <link>https://www.vlive.tv/video/294204</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 19 Nov 2022 15:43:09 GMT</pubDate>
             <content:encoded><![CDATA[NINE.i]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221119_109/1668865640550bFyd3_JPEG/181741177532462647f51a144f-a0af-4e5a-98b7-2758385120d2.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쭈보쭈보🎙️(쭈니보이스라는 뜻)]]></title>
-            <link>https://www.vlive.tv/video/294183</link>
-            <guid>https://www.vlive.tv/video/294183</guid>
-            <pubDate>Sat, 19 Nov 2022 13:03:32 GMT</pubDate>
-            <content:encoded><![CDATA[E'LAST]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221119_284/1668868481714jS5qP_JPEG/dc68d3a9-6816-11ed-87eb-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
