@@ -4,16 +4,9 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 13:45:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 14:47:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[회의]]></title>
-            <link>https://www.vlive.tv/video/294204</link>
-            <guid>https://www.vlive.tv/video/294204</guid>
-            <pubDate>Sun, 20 Nov 2022 13:44:03 GMT</pubDate>
-            <content:encoded><![CDATA[PENTAGON]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[🤍 20221120 HAPPY JUNSEO DAY 🤍]]></title>
             <link>https://www.vlive.tv/video/294203</link>
@@ -21,6 +14,21 @@
             <pubDate>Sun, 20 Nov 2022 13:44:03 GMT</pubDate>
             <content:encoded><![CDATA[위아이 (WEi)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221120_234/1668950023207b1u3g_JPEG/18182562319799565339b05c42-e207-407c-8146-d6bf84e53e07.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Dance Practice] 하이라이트(HIGHLIGHT) - S.I.L.Y (Say I Love You) 안무 연습 영상]]></title>
+            <link>https://www.vlive.tv/video/294202</link>
+            <guid>https://www.vlive.tv/video/294202</guid>
+            <pubDate>Sun, 20 Nov 2022 14:45:39 GMT</pubDate>
+            <content:encoded><![CDATA[HIGHLIGHT]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221120_176/1668951952230kdxmW_JPEG/upload_8522155301596077296eac094-731c-4ca8-a880-5ae76d4d10b8.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[회의]]></title>
+            <link>https://www.vlive.tv/video/294204</link>
+            <guid>https://www.vlive.tv/video/294204</guid>
+            <pubDate>Sun, 20 Nov 2022 13:44:03 GMT</pubDate>
+            <content:encoded><![CDATA[PENTAGON]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[몬채널][B] EP.335 'Youth' - COMEBACK WEEK part.2]]></title>
@@ -397,14 +405,6 @@
             <pubDate>Fri, 18 Nov 2022 09:42:27 GMT</pubDate>
             <content:encoded><![CDATA[Hezz]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221118_197/1668751017296z0szA_JPEG/upload_11283074778960206506f814d0-aad6-47f1-984b-92aaebe4470a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤하 - 고마워 한글, 한글주간 전야제]]></title>
-            <link>https://www.vlive.tv/video/294120</link>
-            <guid>https://www.vlive.tv/video/294120</guid>
-            <pubDate>Fri, 18 Nov 2022 09:42:27 GMT</pubDate>
-            <content:encoded><![CDATA[YOUNHA]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221117_209/1668686636238isIcM_JPEG/upload_112765022531960247274d099e-9ee4-49f4-b7b5-418085684684.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 13:45:49 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 14:47:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20221119_67/16688611566567e0UU_JPEG/d1c30eff-6805-11ed-bcd3-48df379cca40_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[회의]]></title>
+            <link>https://www.vlive.tv/video/294204</link>
+            <guid>https://www.vlive.tv/video/294204</guid>
+            <pubDate>Sun, 20 Nov 2022 14:46:04 GMT</pubDate>
+            <content:encoded><![CDATA[PENTAGON]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/294204/thumb?type=f228_128" length="0" type="image//live/294204/thumb"/>
+        </item>
+        <item>
             <title><![CDATA[리노리방😺빼빼로데이🤲]]></title>
             <link>https://www.vlive.tv/video/293870</link>
             <guid>https://www.vlive.tv/video/293870</guid>
             <pubDate>Sun, 20 Nov 2022 10:43:42 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221112_291/16681937520509eDoD_JPEG/upload_844633560971054374999be50-5e85-4aed-95b4-ee2aecb8d688.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[(여자)아이들((G)I-DLE) - I-TALK #111 : 2022 TMA & GMA 비하인드]]></title>
-            <link>https://www.vlive.tv/video/294197</link>
-            <guid>https://www.vlive.tv/video/294197</guid>
-            <pubDate>Sun, 20 Nov 2022 13:44:33 GMT</pubDate>
-            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221120_100/1668921445924fJuYL_JPEG/upload_11300117669095900965d77ba7-81b0-4a95-a25c-a2771b50e252.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
