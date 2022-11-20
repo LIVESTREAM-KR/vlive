@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Nov 2022 10:44:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 13:04:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221117_57/1668675257459EQ4yx_JPEG/upload_8494484617037762614b97e64-0a48-47ad-b532-0fdfcc29637a.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] What's Up in Jeju with Eunice Kim]]></title>
+            <link>https://m.vlive.tv/video/294109</link>
+            <guid>https://m.vlive.tv/video/294109</guid>
+            <pubDate>Sun, 20 Nov 2022 13:04:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221117_94/1668675328035bLAm1_JPEG/upload_112755027655119356263b29b2-21e9-4dc1-aceb-15f48c280fd9.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
