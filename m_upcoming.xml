@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 03:38:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 04:52:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (KPOPPIN' / 저스트비 JUST B)]]></title>
-            <link>https://m.vlive.tv/video/294214</link>
-            <guid>https://m.vlive.tv/video/294214</guid>
-            <pubDate>Mon, 21 Nov 2022 03:37:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221121_151/1668990643295vz17T_JPEG/upload_852602158402986131aa96acb-5a6d-490f-ad3c-faead4815332.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Radio’ Clock] Junhyeok SEO (서준혁) & 렘마 (Lemma)]]></title>
             <link>https://m.vlive.tv/video/294099</link>
@@ -106,6 +96,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221117_205/1668675230065SNcJY_JPEG/upload_11275494763114436503e5346c-54fc-439b-8ff3-e94d5a42f3ab.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio/K-Poppin'] It's MZ TIME! with Luminous]]></title>
+            <link>https://m.vlive.tv/video/294210</link>
+            <guid>https://m.vlive.tv/video/294210</guid>
+            <pubDate>Mon, 21 Nov 2022 04:52:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221121_111/16689896926719vpNy_JPEG/upload_85259279510767977d0849882-4217-44e7-b776-200e19e71927.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
