@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 06:50:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 07:41:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Super K-Pop / TRENDZ 트렌드지)]]></title>
-            <link>https://m.vlive.tv/video/294100</link>
-            <guid>https://m.vlive.tv/video/294100</guid>
-            <pubDate>Thu, 17 Nov 2022 07:40:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221117_189/16686701443788cgN3_JPEG/upload_1127498054466244257de62962-40b5-4615-8dc4-d6bf45cf299a.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[221121 🍊 HAPPY LIZ DAY 🍊]]></title>
             <link>https://m.vlive.tv/video/294227</link>
@@ -106,6 +96,16 @@
 										오전 6:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221121_265/1668989543655H1kXw_JPEG/upload_11306923383092320502382f78-8ab4-49f6-b4dd-8a778349a78b.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / xoxo project 소소한 프로젝트)]]></title>
+            <link>https://m.vlive.tv/video/294101</link>
+            <guid>https://m.vlive.tv/video/294101</guid>
+            <pubDate>Mon, 21 Nov 2022 07:40:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221117_175/1668670215416HfioK_JPEG/upload_112749871782332816a2ef316d-26af-4480-a671-22af4635e1b8.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
