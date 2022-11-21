@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 18:50:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 20:46:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -358,6 +358,22 @@
             <pubDate>Mon, 21 Nov 2022 18:49:39 GMT</pubDate>
             <content:encoded><![CDATA[오후 5:51]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221122_297/16690520235535kEsq_JPEG/15323905019228809d958340-ed91-4fab-a181-80d280de9cf5.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카타르 라이브]]></title>
+            <link>https://www.vlive.tv/video/294265</link>
+            <guid>https://www.vlive.tv/video/294265</guid>
+            <pubDate>Mon, 21 Nov 2022 20:46:01 GMT</pubDate>
+            <content:encoded><![CDATA[오후 7:14]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221122_25/1669056805652pYYzp_JPEG/181932405645580516a07c1804-ffe3-4a60-a34b-d8ce1319a157.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[qatar live]]></title>
+            <link>https://www.vlive.tv/video/294266</link>
+            <guid>https://www.vlive.tv/video/294266</guid>
+            <pubDate>Mon, 21 Nov 2022 20:46:01 GMT</pubDate>
+            <content:encoded><![CDATA[오후 7:43]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221122_62/1669059803065Mqtlj_JPEG/829cf12a-69d4-11ed-93f8-505dac8c35ff_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
