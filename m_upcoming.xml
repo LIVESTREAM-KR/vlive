@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 07:41:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 08:48:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[221121 🍊 HAPPY LIZ DAY 🍊]]></title>
-            <link>https://m.vlive.tv/video/294227</link>
-            <guid>https://m.vlive.tv/video/294227</guid>
-            <pubDate>Mon, 21 Nov 2022 03:37:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 8:00</span>
-										<span class="txt">IVE</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221121_72/1668996005575LlQJl_JPEG/upload_1130738523764542705d22c559-0c76-4dc5-963b-caf5a882deed.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Radio'n Us / JUNE 준)]]></title>
             <link>https://m.vlive.tv/video/294159</link>
@@ -106,6 +96,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221117_175/1668670215416HfioK_JPEG/upload_112749871782332816a2ef316d-26af-4480-a671-22af4635e1b8.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
+            <link>https://m.vlive.tv/video/294108</link>
+            <guid>https://m.vlive.tv/video/294108</guid>
+            <pubDate>Mon, 21 Nov 2022 08:48:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221117_57/1668675257459EQ4yx_JPEG/upload_8494484617037762614b97e64-0a48-47ad-b532-0fdfcc29637a.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
