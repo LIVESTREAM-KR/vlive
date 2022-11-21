@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 05:42:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 06:50:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[LIVE] 지나가는 나그네요 10 🤠]]></title>
+            <link>https://www.vlive.tv/video/294239</link>
+            <guid>https://www.vlive.tv/video/294239</guid>
+            <pubDate>Mon, 21 Nov 2022 06:49:28 GMT</pubDate>
+            <content:encoded><![CDATA[CRAVITY]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/294239/thumb?type=f228_128" length="0" type="image//live/294239/thumb"/>
+        </item>
         <item>
             <title><![CDATA[Arirang Radio (KPOPPIN' / 저스트비 JUST B)]]></title>
             <link>https://www.vlive.tv/video/294214</link>
@@ -14,6 +22,14 @@
             <pubDate>Mon, 21 Nov 2022 04:51:27 GMT</pubDate>
             <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221121_151/1668990643295vz17T_JPEG/upload_852602158402986131aa96acb-5a6d-490f-ad3c-faead4815332.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Radio’ Clock] Junhyeok SEO (서준혁) & 렘마 (Lemma)]]></title>
+            <link>https://www.vlive.tv/video/294099</link>
+            <guid>https://www.vlive.tv/video/294099</guid>
+            <pubDate>Mon, 21 Nov 2022 06:49:28 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221117_20/1668669626423NxPs5_PNG/upload_112749279975323334924a2664-cd1b-4720-94d8-15519dafdd7b.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA["이렇게 뜰 줄 몰랐다" 예능 접수한 박진주(Park Jin joo), 본업 배우로 컴백 ('영웅' 제작보고회)]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 21 Nov 2022 03:36:51 GMT</pubDate>
             <content:encoded><![CDATA[넷플릭스 (Netflixkr)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221121_122/1668994647327mqWuY_JPEG/upload_113074362928174499373cd807-1ee4-42cf-94fb-f39e8e2b3e6c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[《Preview》ATBO is coming to ASC with their album [The Beginning: 始作] !_ Ep.549]]></title>
-            <link>https://www.vlive.tv/video/294144</link>
-            <guid>https://www.vlive.tv/video/294144</guid>
-            <pubDate>Mon, 21 Nov 2022 03:36:51 GMT</pubDate>
-            <content:encoded><![CDATA[After School Club │ 애프터스쿨클럽]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221118_89/1668748724668PyKnl_JPEG/upload_11282843881170905397e0699c-5e41-4642-84b0-92e9482b2091.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NCT드림(NCT DREAM), 귀여운 연두색 트레이닝복 맞춰 입고 '나고야 출발' #NCT드림 #NCTDREAM #마크 #런쥔 #제노 #해찬 #재민 #천러 #지성]]></title>
-            <link>https://www.vlive.tv/video/294206</link>
-            <guid>https://www.vlive.tv/video/294206</guid>
-            <pubDate>Sun, 20 Nov 2022 23:42:59 GMT</pubDate>
-            <content:encoded><![CDATA[mydaily]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221121_60/16689873353034wQrC_JPEG/upload_85256937490321745f7d80cb5-a3be-4bab-9b3c-30e98494501f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
