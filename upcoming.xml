@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 17:49:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 18:50:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -350,6 +350,14 @@
             <pubDate>Mon, 21 Nov 2022 15:45:43 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221121_209/1669038606360fhrxX_JPEG/upload_113095328738647702ad4502e3-6965-408c-86e4-8ba7bab72483.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I love Qatar]]></title>
+            <link>https://www.vlive.tv/video/294264</link>
+            <guid>https://www.vlive.tv/video/294264</guid>
+            <pubDate>Mon, 21 Nov 2022 18:49:39 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:51]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221122_297/16690520235535kEsq_JPEG/15323905019228809d958340-ed91-4fab-a181-80d280de9cf5.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

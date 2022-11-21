@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 17:49:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 18:50:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[I love Qatar]]></title>
+            <link>https://www.vlive.tv/video/294264</link>
+            <guid>https://www.vlive.tv/video/294264</guid>
+            <pubDate>Mon, 21 Nov 2022 18:48:43 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221122_297/16690520235535kEsq_JPEG/15323905019228809d958340-ed91-4fab-a181-80d280de9cf5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[ASMR] 이것은 키보드 청소인가 귀청소인가.. ｜어쩌면 세레나데일지도 모르는 혁이의 Keyboard Sound]]></title>
             <link>https://www.vlive.tv/video/294241</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 21 Nov 2022 11:39:37 GMT</pubDate>
             <content:encoded><![CDATA[원호 (WONHO)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221121_79/1669021898053LbF94_JPEG/upload_1131016304701459148b9b0eac-3b11-4b1d-a006-9e1ec2eafd86.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[UZZU TAPE] EP.193 EUNSEO FILM_은서 나빠 커버 비하인드]]></title>
-            <link>https://www.vlive.tv/video/294218</link>
-            <guid>https://www.vlive.tv/video/294218</guid>
-            <pubDate>Mon, 21 Nov 2022 11:39:37 GMT</pubDate>
-            <content:encoded><![CDATA[우주소녀(WJSN)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221121_14/1668994165427sKTa6_JPEG/upload_852637602639602973bcf7bbb-e4f8-45ad-92c5-0bd7b28c2f63.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
