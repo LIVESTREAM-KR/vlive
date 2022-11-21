@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 09:44:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 11:40:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Radio'n Us / JUNE 준)]]></title>
-            <link>https://m.vlive.tv/video/294159</link>
-            <guid>https://m.vlive.tv/video/294159</guid>
-            <pubDate>Fri, 18 Nov 2022 11:40:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221118_183/1668770529597bfoNt_JPEG/upload_112850206950204434e2b28e3f-c83b-43ca-85a9-580f54f6660f.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Welcome to Korea with Kim Min Ji]]></title>
             <link>https://m.vlive.tv/video/294106</link>
@@ -96,6 +86,26 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221117_175/1668670215416HfioK_JPEG/upload_112749871782332816a2ef316d-26af-4480-a671-22af4635e1b8.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
+            <link>https://m.vlive.tv/video/294108</link>
+            <guid>https://m.vlive.tv/video/294108</guid>
+            <pubDate>Mon, 21 Nov 2022 11:40:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221117_57/1668675257459EQ4yx_JPEG/upload_8494484617037762614b97e64-0a48-47ad-b532-0fdfcc29637a.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (KPOPPIN' / 박예찬 PARK YAE CHAN )]]></title>
+            <link>https://m.vlive.tv/video/294215</link>
+            <guid>https://m.vlive.tv/video/294215</guid>
+            <pubDate>Mon, 21 Nov 2022 11:40:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221121_283/1668990786101NiYIh_JPEG/upload_85260356858813007e08fd989-ba60-46b7-9d85-cb7d3519265a.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

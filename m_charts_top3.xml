@@ -4,17 +4,9 @@
         <title>V LIVE 모바일 ─ CHARTS </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 09:44:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 11:40:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[럿디🐁#8]]></title>
-            <link>https://m.vlive.tv/video/294199</link>
-            <guid>https://m.vlive.tv/video/294199</guid>
-            <pubDate>Sun, 20 Nov 2022 09:45:01 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221120_200/1668938093743F6pMI_JPEG/0d179177-68b9-11ed-9ff0-505dac8c38f5_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[럿디🐁#9]]></title>
             <link>https://m.vlive.tv/video/294244</link>
@@ -30,6 +22,14 @@
             <pubDate>Mon, 21 Nov 2022 09:43:49 GMT</pubDate>
             <content:encoded><![CDATA[TWICE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221121_92/166901988863040GhA_JPEG/782c315e-6977-11ed-ac76-505dacfba98a_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[럿디🐁#8]]></title>
+            <link>https://m.vlive.tv/video/294199</link>
+            <guid>https://m.vlive.tv/video/294199</guid>
+            <pubDate>Sun, 20 Nov 2022 09:45:01 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221120_200/1668938093743F6pMI_JPEG/0d179177-68b9-11ed-9ff0-505dac8c38f5_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
