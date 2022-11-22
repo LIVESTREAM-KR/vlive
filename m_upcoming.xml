@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 06:52:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 07:42:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / Super K-Pop]Oh My K-Pop with NIve]]></title>
-            <link>https://m.vlive.tv/video/294211</link>
-            <guid>https://m.vlive.tv/video/294211</guid>
-            <pubDate>Mon, 21 Nov 2022 03:37:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221121_162/1668989760121MEKuN_JPEG/upload_113069454911080215f35e3ba3-257a-4028-8780-504cce810f7d.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[#VLIVE] 천일동안 사랑한 MCND💎]]></title>
             <link>https://m.vlive.tv/video/294277</link>
@@ -96,6 +86,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221121_299/1668989835288XYXQK_JPEG/upload_85259409737231231d9363ce2-2e08-4c70-8916-62ca264114c7.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] What's Up in Jeju with Eunice Kim]]></title>
+            <link>https://m.vlive.tv/video/294109</link>
+            <guid>https://m.vlive.tv/video/294109</guid>
+            <pubDate>Tue, 22 Nov 2022 07:41:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221117_94/1668675328035bLAm1_JPEG/upload_112755027655119356263b29b2-21e9-4dc1-aceb-15f48c280fd9.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
