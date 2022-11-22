@@ -4,9 +4,16 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 15:46:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 16:59:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[또유주]]></title>
+            <link>https://www.vlive.tv/video/294313</link>
+            <guid>https://www.vlive.tv/video/294313</guid>
+            <pubDate>Tue, 22 Nov 2022 16:58:22 GMT</pubDate>
+            <content:encoded><![CDATA[유주 (YUJU)]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[화요일👌🏼]]></title>
             <link>https://www.vlive.tv/video/294312</link>
@@ -398,14 +405,6 @@
             <pubDate>Mon, 21 Nov 2022 13:20:31 GMT</pubDate>
             <content:encoded><![CDATA[Ktimes]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221121_130/1669031343346JrF3S_PNG/upload_1131110597109212417112a389-3e66-456e-b0d3-46b322152c22.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[LIVE] 월요일 저녁🌙]]></title>
-            <link>https://www.vlive.tv/video/294256</link>
-            <guid>https://www.vlive.tv/video/294256</guid>
-            <pubDate>Mon, 21 Nov 2022 11:39:26 GMT</pubDate>
-            <content:encoded><![CDATA[CRAVITY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221121_129/1669040015617zQrMi_JPEG/95ee7309-6991-11ed-bdf3-d4f5ef5906a4_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
