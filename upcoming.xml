@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 02:30:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 03:30:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Tue, 22 Nov 2022 02:30:27 GMT</pubDate>
             <content:encoded><![CDATA[오전 8:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221122_32/166907655238101mCW_JPEG/upload_85346120238452176e3d6a86f-1f95-4629-971e-f21b971e6dad.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#VLIVE] 천일동안 사랑한 MCND💎]]></title>
+            <link>https://www.vlive.tv/video/294277</link>
+            <guid>https://www.vlive.tv/video/294277</guid>
+            <pubDate>Tue, 22 Nov 2022 03:29:46 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221122_244/1669086006042rcJwU_JPEG/upload_85350798122637680aa9172e2-2754-4a9d-9a4a-d494060cfa39.jpeg?type=f228_128" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

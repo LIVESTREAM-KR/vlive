@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 02:30:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 03:30:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,6 +36,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221121_162/1668989760121MEKuN_JPEG/upload_113069454911080215f35e3ba3-257a-4028-8780-504cce810f7d.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[#VLIVE] 천일동안 사랑한 MCND💎]]></title>
+            <link>https://m.vlive.tv/video/294277</link>
+            <guid>https://m.vlive.tv/video/294277</guid>
+            <pubDate>Tue, 22 Nov 2022 03:29:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">MCND</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221122_244/1669086006042rcJwU_JPEG/upload_85350798122637680aa9172e2-2754-4a9d-9a4a-d494060cfa39.jpeg?type=f274_154" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthew]]></title>
@@ -86,16 +96,6 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221117_57/1668675257459EQ4yx_JPEG/upload_8494484617037762614b97e64-0a48-47ad-b532-0fdfcc29637a.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arirang Radio (KPOPPIN' / 박예찬 PARK YAE CHAN )]]></title>
-            <link>https://m.vlive.tv/video/294215</link>
-            <guid>https://m.vlive.tv/video/294215</guid>
-            <pubDate>Mon, 21 Nov 2022 11:40:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221121_283/1668990786101NiYIh_JPEG/upload_85260356858813007e08fd989-ba60-46b7-9d85-cb7d3519265a.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
