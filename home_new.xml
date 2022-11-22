@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 07:42:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 08:51:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,23 @@
             <guid>https://www.vlive.tv/video/294288</guid>
             <pubDate>Tue, 22 Nov 2022 07:40:37 GMT</pubDate>
             <content:encoded><![CDATA[CRAVITY]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/294288/thumb?type=f228_128" length="0" type="image//live/294288/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20221122_88/16691055534017KW2W_JPEG/8bf5513e-6a3e-11ed-a645-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop]Oh My K-Pop with NIve #SEOJIEUM #서지음]]></title>
+            <link>https://www.vlive.tv/video/294211</link>
+            <guid>https://www.vlive.tv/video/294211</guid>
+            <pubDate>Tue, 22 Nov 2022 07:40:37 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221122_186/1669100100401paGX9_JPEG/upload_113069454911080215f35e3ba3-257a-4028-8780-504cce810f7d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[당신이 알지 못했던 윤시윤의 진짜 모습 #윤시윤 #웨스트우드 #YOONSIYOON #앳스타일]]></title>
+            <link>https://www.vlive.tv/video/294268</link>
+            <guid>https://www.vlive.tv/video/294268</guid>
+            <pubDate>Tue, 22 Nov 2022 08:49:56 GMT</pubDate>
+            <content:encoded><![CDATA[atstar1]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221122_32/166907655238101mCW_JPEG/upload_85346120238452176e3d6a86f-1f95-4629-971e-f21b971e6dad.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[TEASER] 하이라이트(HIGHLIGHT) - HIGHLIGHT 2023 SEASON'S GREETINGS]]></title>
@@ -30,14 +46,6 @@
             <pubDate>Tue, 22 Nov 2022 06:51:26 GMT</pubDate>
             <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221121_143/1668988251007Y5TJn_JPEG/upload_852578138720326715ae71fb9-b4ad-45b2-beaf-030f70787561.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Super K-Pop]Oh My K-Pop with NIve #SEOJIEUM #서지음]]></title>
-            <link>https://www.vlive.tv/video/294211</link>
-            <guid>https://www.vlive.tv/video/294211</guid>
-            <pubDate>Tue, 22 Nov 2022 07:40:37 GMT</pubDate>
-            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221122_186/1669100100401paGX9_JPEG/upload_113069454911080215f35e3ba3-257a-4028-8780-504cce810f7d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나는 가면을 벗었다 (Leisure With Lily #6)]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 22 Nov 2022 02:29:36 GMT</pubDate>
             <content:encoded><![CDATA[Ktimes]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221122_65/1669075152648Q3Sd0_PNG/upload_113154828243102071f8a84567-afa0-4447-9b6a-85a2fdb77e63.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[qatar live]]></title>
-            <link>https://www.vlive.tv/video/294266</link>
-            <guid>https://www.vlive.tv/video/294266</guid>
-            <pubDate>Mon, 21 Nov 2022 20:45:07 GMT</pubDate>
-            <content:encoded><![CDATA[sema]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221122_62/1669059803065Mqtlj_JPEG/829cf12a-69d4-11ed-93f8-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
