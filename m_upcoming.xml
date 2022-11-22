@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 10:47:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 11:41:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[#VLIVE] 천일동안 사랑한 MCND💎]]></title>
-            <link>https://m.vlive.tv/video/294277</link>
-            <guid>https://m.vlive.tv/video/294277</guid>
-            <pubDate>Tue, 22 Nov 2022 03:29:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">MCND</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221122_244/1669086006042rcJwU_JPEG/upload_85350798122637680aa9172e2-2754-4a9d-9a4a-d494060cfa39.jpeg?type=f274_154" length="0" type="image/jpeg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthew]]></title>
             <link>https://m.vlive.tv/video/294107</link>
@@ -106,6 +96,16 @@
 										오전 6:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221121_70/1668989584142WtoM5_JPEG/upload_11306929006456363980a8ebeb-513e-4b94-bfab-dfcf945d0460.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop] Music Dive with Yuni Lim]]></title>
+            <link>https://m.vlive.tv/video/294213</link>
+            <guid>https://m.vlive.tv/video/294213</guid>
+            <pubDate>Tue, 22 Nov 2022 11:41:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221121_128/1668989905601QRetV_JPEG/upload_113069602277911062182681f7-0f82-4a53-ad3e-b72e6eadf2ba.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
