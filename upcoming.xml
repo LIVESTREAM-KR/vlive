@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 11:41:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 13:16:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -208,28 +208,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20221122_270/1669112631191yLKQW_JPEG/upload_85381401713326342d2e002cc-22b1-47e7-9bd3-0511fea36e18.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[#VLIVE] 천일동안 사랑한 MCND💎]]></title>
-            <link>https://www.vlive.tv/video/294277</link>
-            <guid>https://www.vlive.tv/video/294277</guid>
-            <pubDate>Tue, 22 Nov 2022 03:29:46 GMT</pubDate>
-            <content:encoded><![CDATA[오전 11:00]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221122_244/1669086006042rcJwU_JPEG/upload_85350798122637680aa9172e2-2754-4a9d-9a4a-d494060cfa39.jpeg?type=f228_128" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[[HIGHLOG] 하이라이트(HIGHLIGHT) in TOKYO (a.k.a. 출장 시부야) -1-]]></title>
             <link>https://www.vlive.tv/video/294301</link>
             <guid>https://www.vlive.tv/video/294301</guid>
             <pubDate>Tue, 22 Nov 2022 11:40:52 GMT</pubDate>
             <content:encoded><![CDATA[오전 11:01]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221122_28/16691145071588Wdh8_JPEG/upload_8538406831327069549a1259b-9049-4611-89a4-906ab056fe71.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤... #20]]></title>
-            <link>https://www.vlive.tv/video/294302</link>
-            <guid>https://www.vlive.tv/video/294302</guid>
-            <pubDate>Tue, 22 Nov 2022 11:40:52 GMT</pubDate>
-            <content:encoded><![CDATA[오전 11:03]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221122_255/16691150370825f84y_JPEG/1819906530752244940882dd80-4933-4f55-98f8-faf9ee29eddd.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[221122 빛나는 YOOth 특별한 기현데이🐹❤]]></title>
@@ -256,12 +240,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20221122_22/1669116222887Ukd4F_JPEG/d0721652-6a57-11ed-a645-505dacfbaa5c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[비디씨로그] 성준이의 나홀로 캠프닉🏕 | 감성 가득 담은 홍-LOG🌟]]></title>
+            <link>https://www.vlive.tv/video/294251</link>
+            <guid>https://www.vlive.tv/video/294251</guid>
+            <pubDate>Tue, 22 Nov 2022 13:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[오후 12:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221121_9/16690242696643UNtK_JPEG/upload_11310396487499248788492558-df95-4b08-81c0-488a75a50674.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🦙와 형석이와 토크타임]]></title>
+            <link>https://www.vlive.tv/video/294308</link>
+            <guid>https://www.vlive.tv/video/294308</guid>
+            <pubDate>Tue, 22 Nov 2022 13:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[오후 12:18]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/294308/thumb?type=f228_128" length="0" type="image//live/294308/thumb"/>
+        </item>
+        <item>
             <title><![CDATA[동현입니다~~~~~🫠]]></title>
             <link>https://www.vlive.tv/video/294305</link>
             <guid>https://www.vlive.tv/video/294305</guid>
             <pubDate>Tue, 22 Nov 2022 11:40:52 GMT</pubDate>
-            <content:encoded><![CDATA[오전 11:25]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/294305/thumb?type=f228_128" length="0" type="image//live/294305/thumb"/>
+            <content:encoded><![CDATA[오후 12:27]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221122_243/1669120046032ul2mn_JPEG/11fd974a-6a60-11ed-87eb-505dac8c3721_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
