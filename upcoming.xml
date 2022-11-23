@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 10:44:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 11:40:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -249,21 +249,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221123_110/166919759438642MKN_JPEG/3edb54fa-6b15-11ed-b0f2-d4f5ef58ad5e_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이지 지원이의 고민 상담소💕]]></title>
-            <link>https://www.vlive.tv/video/294344</link>
-            <guid>https://www.vlive.tv/video/294344</guid>
-            <pubDate>Wed, 23 Nov 2022 10:43:41 GMT</pubDate>
-            <content:encoded><![CDATA[오전 10:00]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221123_44/1669194009754plSsH_JPEG/upload_113272159512569439177b520e-7520-4dc7-8ff2-54b293a5a5c8.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안녕]]></title>
-            <link>https://www.vlive.tv/video/294348</link>
-            <guid>https://www.vlive.tv/video/294348</guid>
-            <pubDate>Wed, 23 Nov 2022 10:43:41 GMT</pubDate>
-            <content:encoded><![CDATA[오전 10:09]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[오랜만에🖤]]></title>
             <link>https://www.vlive.tv/video/294347</link>
             <guid>https://www.vlive.tv/video/294347</guid>
@@ -277,6 +262,22 @@
             <guid>https://www.vlive.tv/video/294349</guid>
             <pubDate>Wed, 23 Nov 2022 10:43:41 GMT</pubDate>
             <content:encoded><![CDATA[오전 10:39]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이지 지원이의 고민 상담소💕]]></title>
+            <link>https://www.vlive.tv/video/294344</link>
+            <guid>https://www.vlive.tv/video/294344</guid>
+            <pubDate>Wed, 23 Nov 2022 10:43:41 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:20]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221123_44/1669194009754plSsH_JPEG/upload_113272159512569439177b520e-7520-4dc7-8ff2-54b293a5a5c8.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안녕]]></title>
+            <link>https://www.vlive.tv/video/294348</link>
+            <guid>https://www.vlive.tv/video/294348</guid>
+            <pubDate>Wed, 23 Nov 2022 10:43:41 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:36]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221123_96/1669203387692D5roY_JPEG/6137f2f6-6b22-11ed-93f8-505dac8c35ff_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
