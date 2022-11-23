@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 15:44:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 16:53:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -359,6 +359,14 @@
             <pubDate>Wed, 23 Nov 2022 15:44:12 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:24]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221123_187/1669194635007t0Mzm_JPEG/upload_113274340513441913468cf38d-245d-428d-8dd8-c45ddc18c8cf.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조한국의 심리]]></title>
+            <link>https://www.vlive.tv/video/294359</link>
+            <guid>https://www.vlive.tv/video/294359</guid>
+            <pubDate>Wed, 23 Nov 2022 16:53:19 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:15]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221124_176/1669220103423wvVe1_JPEG/1820956323706053610222d284-88e1-4d31-b50a-aa987ba5a39a.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
