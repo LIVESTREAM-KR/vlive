@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 13:49:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 14:41:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보고싶어 빨리와💙🤍]]></title>
+            <link>https://www.vlive.tv/video/294402</link>
+            <guid>https://www.vlive.tv/video/294402</guid>
+            <pubDate>Thu, 24 Nov 2022 14:40:03 GMT</pubDate>
+            <content:encoded><![CDATA[EPEX]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/294402/thumb?type=f228_128" length="0" type="image//live/294402/thumb"/>
+        </item>
         <item>
             <title><![CDATA[진석이의 별빛라디요⭐️]]></title>
             <link>https://www.vlive.tv/video/294400</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 24 Nov 2022 10:43:25 GMT</pubDate>
             <content:encoded><![CDATA[2PM]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221124_12/1669273292417EKMEM_JPEG/upload_113353017654138530f3e5319f-6267-4dbd-8237-e9002a95b660.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤하 (YOUNHA) - 사건의 지평선 (Cover by 한동근)]]></title>
-            <link>https://www.vlive.tv/video/294379</link>
-            <guid>https://www.vlive.tv/video/294379</guid>
-            <pubDate>Thu, 24 Nov 2022 10:43:25 GMT</pubDate>
-            <content:encoded><![CDATA[BRANDNEW MUSIC]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221124_261/1669270386194uAPi5_JPEG/upload_113350111605674127986467ca-930f-4a6c-b27c-592c7a96c440.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
