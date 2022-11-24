@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 03:48:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 04:47:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시드니🇦🇺]]></title>
+            <link>https://www.vlive.tv/video/294368</link>
+            <guid>https://www.vlive.tv/video/294368</guid>
+            <pubDate>Thu, 24 Nov 2022 04:46:03 GMT</pubDate>
+            <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221124_262/1669264291827GP0N3_JPEG/9c0654b3-6bb0-11ed-bfc6-505dac8c3639_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ATBO's Event for BOAT]]></title>
+            <link>https://www.vlive.tv/video/294361</link>
+            <guid>https://www.vlive.tv/video/294361</guid>
+            <pubDate>Thu, 24 Nov 2022 04:46:03 GMT</pubDate>
+            <content:encoded><![CDATA[After School Club │ 애프터스쿨클럽]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221124_144/16692548979398Mrf4_JPEG/upload_113334630997167652454460b5-07b4-43b8-8946-031a1bef1d85.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Skin laser recommendation]]></title>
             <link>https://www.vlive.tv/video/294367</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 23 Nov 2022 10:42:49 GMT</pubDate>
             <content:encoded><![CDATA[CRAVITY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221123_187/1669206911985r0zI4_JPEG/3d7e4540-6b29-11ed-a94b-d4f5ef58ac88_02.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[양다일 (Yang Da Il) ‘괴로워’ LYRIC TEASER]]></title>
-            <link>https://www.vlive.tv/video/294350</link>
-            <guid>https://www.vlive.tv/video/294350</guid>
-            <pubDate>Wed, 23 Nov 2022 14:40:27 GMT</pubDate>
-            <content:encoded><![CDATA[BRANDNEW MUSIC]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221123_199/1669201936863Avc3S_JPEG/847212b8-6b1f-11ed-acf8-48df37ae3dc4_06.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안녕]]></title>
-            <link>https://www.vlive.tv/video/294348</link>
-            <guid>https://www.vlive.tv/video/294348</guid>
-            <pubDate>Wed, 23 Nov 2022 10:42:49 GMT</pubDate>
-            <content:encoded><![CDATA[E'LAST]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221123_96/1669203387692D5roY_JPEG/6137f2f6-6b22-11ed-93f8-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

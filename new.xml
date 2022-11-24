@@ -4,9 +4,25 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 03:48:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 04:47:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시드니🇦🇺]]></title>
+            <link>https://www.vlive.tv/video/294368</link>
+            <guid>https://www.vlive.tv/video/294368</guid>
+            <pubDate>Thu, 24 Nov 2022 04:45:52 GMT</pubDate>
+            <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221124_262/1669264291827GP0N3_JPEG/9c0654b3-6bb0-11ed-bfc6-505dac8c3639_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ATBO's Event for BOAT]]></title>
+            <link>https://www.vlive.tv/video/294361</link>
+            <guid>https://www.vlive.tv/video/294361</guid>
+            <pubDate>Thu, 24 Nov 2022 04:45:52 GMT</pubDate>
+            <content:encoded><![CDATA[After School Club │ 애프터스쿨클럽]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221124_144/16692548979398Mrf4_JPEG/upload_113334630997167652454460b5-07b4-43b8-8946-031a1bef1d85.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Skin laser recommendation]]></title>
             <link>https://www.vlive.tv/video/294367</link>
@@ -391,22 +407,6 @@
             <pubDate>Tue, 22 Nov 2022 16:58:22 GMT</pubDate>
             <content:encoded><![CDATA[유주 (YUJU)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221123_186/1669136666888yw4rP_JPEG/72a1f8c2-6a87-11ed-acf8-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화요일👌🏼]]></title>
-            <link>https://www.vlive.tv/video/294312</link>
-            <guid>https://www.vlive.tv/video/294312</guid>
-            <pubDate>Tue, 22 Nov 2022 14:42:21 GMT</pubDate>
-            <content:encoded><![CDATA[F.able (페이블)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221122_24/1669125378039jB3hq_JPEG/627431543214048624e13f233-6c0d-4dbf-9c76-e6bcfb15c883.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[💛 또 와써]]></title>
-            <link>https://www.vlive.tv/video/294311</link>
-            <guid>https://www.vlive.tv/video/294311</guid>
-            <pubDate>Tue, 22 Nov 2022 13:48:19 GMT</pubDate>
-            <content:encoded><![CDATA[PIXY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221122_18/16691242438543vMVp_JPEG/18199985780412178731e6f55e-319b-4fba-86c4-bfcf97924dc0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
