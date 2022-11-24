@@ -4,17 +4,9 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 02:16:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 03:09:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[내 눈에 콩깍지 38회 예고 (KBS20221124방송)]]></title>
-            <link>https://www.vlive.tv/video/294365</link>
-            <guid>https://www.vlive.tv/video/294365</guid>
-            <pubDate>Thu, 24 Nov 2022 02:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[KBS드라마]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221124_95/1669255918997gzBs1_JPEG/upload_11333509121336603711b0def1-1c95-41f4-b82b-212face40afa.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
             <link>https://www.vlive.tv/video/294108</link>
@@ -407,6 +399,14 @@
             <pubDate>Tue, 22 Nov 2022 13:48:19 GMT</pubDate>
             <content:encoded><![CDATA[PIXY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221122_18/16691242438543vMVp_JPEG/18199985780412178731e6f55e-319b-4fba-86c4-bfcf97924dc0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[TEASER] 강다니엘(KANGDANIEL) - Nirvana (Feat. pH-1, WDBZ) M/V #2]]></title>
+            <link>https://www.vlive.tv/video/294293</link>
+            <guid>https://www.vlive.tv/video/294293</guid>
+            <pubDate>Thu, 24 Nov 2022 03:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[강다니엘 (KANGDANIEL)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221122_263/1669107298718qwOIp_JPEG/upload_85376872894480087bdd01eaf-750a-41fc-8273-57155c4cbdaa.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
