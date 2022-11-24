@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Nov 2022 16:52:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 17:40:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[생일을 축하랍니다! (V LIVE ─ NEW)]]></title>
+            <link>https://www.vlive.tv/video/294405</link>
+            <guid>https://www.vlive.tv/video/294405</guid>
+            <pubDate>Thu, 24 Nov 2022 15:42:30 GMT</pubDate>
+            <content:encoded><![CDATA[F.able (페이블)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221125_181/1669302635054sujwV_JPEG/200900056489781181d193ccf-ff81-44ec-98b4-23df0b03cddc.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보고싶어 빨리와💙🤍 (V LIVE ─ NEW)]]></title>
             <link>https://www.vlive.tv/video/294402</link>
@@ -22,14 +30,6 @@
             <pubDate>Thu, 24 Nov 2022 15:42:30 GMT</pubDate>
             <content:encoded><![CDATA[F.able (페이블)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221124_26/1669301589231HGaa5_JPEG/178195617686817492fac789-ee98-403e-9231-916111ed527b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생일을 축하랍니다! (V LIVE ─ NEW)]]></title>
-            <link>https://www.vlive.tv/video/294405</link>
-            <guid>https://www.vlive.tv/video/294405</guid>
-            <pubDate>Thu, 24 Nov 2022 15:42:30 GMT</pubDate>
-            <content:encoded><![CDATA[F.able (페이블)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221125_181/1669302635054sujwV_JPEG/200900056489781181d193ccf-ff81-44ec-98b4-23df0b03cddc.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ITZY(있지) "CHESHIRE" Track Spoiler (V LIVE ─ NEW)]]></title>
@@ -408,10 +408,18 @@
             <enclosure url="https://v-phinf.pstatic.net/20221123_96/1669203387692D5roY_JPEG/6137f2f6-6b22-11ed-93f8-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[생일을 축하랍니다! (V LIVE ─ 홈 ─ NEW)]]></title>
+            <link>https://www.vlive.tv/video/294405</link>
+            <guid>https://www.vlive.tv/video/294405</guid>
+            <pubDate>Thu, 24 Nov 2022 15:42:30 GMT</pubDate>
+            <content:encoded><![CDATA[F.able (페이블)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221125_181/1669302635054sujwV_JPEG/200900056489781181d193ccf-ff81-44ec-98b4-23df0b03cddc.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[보고싶어 빨리와💙🤍 (V LIVE ─ 홈 ─ NEW)]]></title>
             <link>https://www.vlive.tv/video/294402</link>
             <guid>https://www.vlive.tv/video/294402</guid>
-            <pubDate>Thu, 24 Nov 2022 16:51:30 GMT</pubDate>
+            <pubDate>Thu, 24 Nov 2022 16:51:16 GMT</pubDate>
             <content:encoded><![CDATA[EPEX]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221125_274/1669304769243uVC4n_JPEG/0eb10edb-6c0e-11ed-b0f2-d4f5ef58ad5e_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
@@ -422,14 +430,6 @@
             <pubDate>Thu, 24 Nov 2022 15:42:30 GMT</pubDate>
             <content:encoded><![CDATA[F.able (페이블)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221124_26/1669301589231HGaa5_JPEG/178195617686817492fac789-ee98-403e-9231-916111ed527b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[생일을 축하랍니다! (V LIVE ─ 홈 ─ NEW)]]></title>
-            <link>https://www.vlive.tv/video/294405</link>
-            <guid>https://www.vlive.tv/video/294405</guid>
-            <pubDate>Thu, 24 Nov 2022 15:42:30 GMT</pubDate>
-            <content:encoded><![CDATA[F.able (페이블)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221125_181/1669302635054sujwV_JPEG/200900056489781181d193ccf-ff81-44ec-98b4-23df0b03cddc.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ITZY(있지) "CHESHIRE" Track Spoiler (V LIVE ─ 홈 ─ NEW)]]></title>
@@ -576,15 +576,15 @@
             <enclosure url="https://v-phinf.pstatic.net/20221124_160/1669278073047NA672_JPEG/1821536020451848968b28058e-5b69-4188-bf06-c6cd60c5037f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[🫢 (V LIVE ─ 홈 ─ CHARTS)]]></title>
-            <link>https://www.vlive.tv/video/294356</link>
-            <guid>https://www.vlive.tv/video/294356</guid>
-            <pubDate>Wed, 23 Nov 2022 14:40:17 GMT</pubDate>
-            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221123_15/1669209270515xNltg_JPEG/7d61b13f-6b30-11ed-a2f9-d4f5ef5a9532_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <title><![CDATA[서원선생님의 한국어 수업(feat.샨티,유에) (V LIVE ─ 홈 ─ CHARTS)]]></title>
+            <link>https://www.vlive.tv/video/294394</link>
+            <guid>https://www.vlive.tv/video/294394</guid>
+            <pubDate>Thu, 24 Nov 2022 10:43:15 GMT</pubDate>
+            <content:encoded><![CDATA[Lapillus]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221124_32/1669286426956zRd3W_JPEG/4f6a7b8f-6be3-11ed-bfc6-505dac8c3639_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[SKZ VLOG] 리노 : LEE KNOW LOG 9 (V LIVE ─ CHARTS)]]></title>
+            <title><![CDATA[[SKZ VLOG] Lee Know : LEE KNOW LOG 9 (V LIVE ─ CHARTS)]]></title>
             <link>https://www.vlive.tv/video/294396</link>
             <guid>https://www.vlive.tv/video/294396</guid>
             <pubDate>Thu, 24 Nov 2022 11:39:34 GMT</pubDate>
@@ -608,7 +608,7 @@
             <enclosure url="https://v-phinf.pstatic.net/20221124_264/16692823402470ndDz_JPEG/182157943234169853cb604c22-9762-4295-8c4d-c486a4c6110f.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ITZY(있지) "CHESHIRE" Track Spoiler (V LIVE ─ CHARTS)]]></title>
+            <title><![CDATA[ITZY "CHESHIRE" Track Spoiler (V LIVE ─ CHARTS)]]></title>
             <link>https://www.vlive.tv/video/294401</link>
             <guid>https://www.vlive.tv/video/294401</guid>
             <pubDate>Thu, 24 Nov 2022 15:42:30 GMT</pubDate>
@@ -616,7 +616,7 @@
             <enclosure url="https://v-phinf.pstatic.net/20221124_216/1669296623885IWm94_JPEG/upload_85566146492646050a46253fa-d1cf-4cbf-9d80-14ddae3ac6f7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[Stray Kids(스트레이 키즈) : SKZ-TALKER GO! Season 3 (슼즈토커 고! 시즌 3)] Ep.09 SEOUL (V LIVE ─ CHARTS)]]></title>
+            <title><![CDATA[[Stray Kids : SKZ-TALKER GO! Season 3] Ep.09 SEOUL (V LIVE ─ CHARTS)]]></title>
             <link>https://www.vlive.tv/video/294300</link>
             <guid>https://www.vlive.tv/video/294300</guid>
             <pubDate>Tue, 22 Nov 2022 11:39:44 GMT</pubDate>
@@ -632,12 +632,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20221124_160/1669278073047NA672_JPEG/1821536020451848968b28058e-5b69-4188-bf06-c6cd60c5037f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[🫢 (V LIVE ─ CHARTS)]]></title>
-            <link>https://www.vlive.tv/video/294356</link>
-            <guid>https://www.vlive.tv/video/294356</guid>
-            <pubDate>Wed, 23 Nov 2022 14:40:17 GMT</pubDate>
-            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221123_15/1669209270515xNltg_JPEG/7d61b13f-6b30-11ed-a2f9-d4f5ef5a9532_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <title><![CDATA[서원선생님의 한국어 수업(feat.샨티,유에) (V LIVE ─ CHARTS)]]></title>
+            <link>https://www.vlive.tv/video/294394</link>
+            <guid>https://www.vlive.tv/video/294394</guid>
+            <pubDate>Thu, 24 Nov 2022 10:43:15 GMT</pubDate>
+            <content:encoded><![CDATA[Lapillus]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221124_32/1669286426956zRd3W_JPEG/4f6a7b8f-6be3-11ed-bfc6-505dac8c3639_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[SKZ VLOG] 리노 : LEE KNOW LOG 9 (V LIVE 모바일 ─ CHARTS )]]></title>
@@ -667,7 +667,7 @@
             <title><![CDATA[Charting4 ITZY(있지) "CHESHIRE" Track Spoiler (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Thu, 24 Nov 2022 16:52:18 GMT</pubDate>
+            <pubDate>Thu, 24 Nov 2022 17:40:21 GMT</pubDate>
             <content:encoded><![CDATA[ITZY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221124_216/1669296623885IWm94_JPEG/upload_85566146492646050a46253fa-d1cf-4cbf-9d80-14ddae3ac6f7.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
@@ -675,7 +675,7 @@
             <title><![CDATA[Charting5 [Stray Kids(스트레이 키즈) : SKZ-TALKER GO! Season 3 (슼즈토커 고! 시즌 3)] Ep.09 SEOUL (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Thu, 24 Nov 2022 16:52:18 GMT</pubDate>
+            <pubDate>Thu, 24 Nov 2022 17:40:21 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221122_270/1669112631191yLKQW_JPEG/upload_85381401713326342d2e002cc-22b1-47e7-9bd3-0511fea36e18.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
@@ -683,63 +683,63 @@
             <title><![CDATA[Charting6 withus_모기요일^^ (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Thu, 24 Nov 2022 16:52:18 GMT</pubDate>
+            <pubDate>Thu, 24 Nov 2022 17:40:21 GMT</pubDate>
             <content:encoded><![CDATA[위드에이치씨 (withHC)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221124_160/1669278073047NA672_JPEG/1821536020451848968b28058e-5b69-4188-bf06-c6cd60c5037f.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Charting7 🫢 (V LIVE 모바일 ─ CHARTS)]]></title>
+            <title><![CDATA[Charting7 서원선생님의 한국어 수업(feat.샨티,유에) (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Thu, 24 Nov 2022 16:52:18 GMT</pubDate>
-            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221123_15/1669209270515xNltg_JPEG/7d61b13f-6b30-11ed-a2f9-d4f5ef5a9532_03.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Charting8 서원선생님의 한국어 수업(feat.샨티,유에) (V LIVE 모바일 ─ CHARTS)]]></title>
-            <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
-            <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Thu, 24 Nov 2022 16:52:18 GMT</pubDate>
+            <pubDate>Thu, 24 Nov 2022 17:40:21 GMT</pubDate>
             <content:encoded><![CDATA[Lapillus]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221124_32/1669286426956zRd3W_JPEG/4f6a7b8f-6be3-11ed-bfc6-505dac8c3639_03.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Charting9 🐷🐷 (V LIVE 모바일 ─ CHARTS)]]></title>
+            <title><![CDATA[Charting8 🫢 (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Thu, 24 Nov 2022 16:52:18 GMT</pubDate>
-            <content:encoded><![CDATA[TWICE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221121_92/166901988863040GhA_JPEG/782c315e-6977-11ed-ac76-505dacfba98a_03.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
+            <pubDate>Thu, 24 Nov 2022 17:40:21 GMT</pubDate>
+            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221123_15/1669209270515xNltg_JPEG/7d61b13f-6b30-11ed-a2f9-d4f5ef5a9532_03.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Charting10 보고싶어 빨리와💙🤍 (V LIVE 모바일 ─ CHARTS)]]></title>
+            <title><![CDATA[Charting9 보고싶어 빨리와💙🤍 (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Thu, 24 Nov 2022 16:52:18 GMT</pubDate>
+            <pubDate>Thu, 24 Nov 2022 17:40:21 GMT</pubDate>
             <content:encoded><![CDATA[EPEX]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221125_274/1669304769243uVC4n_JPEG/0eb10edb-6c0e-11ed-b0f2-d4f5ef58ad5e_03.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Charting11 🐶 (V LIVE 모바일 ─ CHARTS)]]></title>
+            <title><![CDATA[Charting10 🐷🐷 (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Thu, 24 Nov 2022 16:52:18 GMT</pubDate>
-            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221123_165/16692088081606WRgi_JPEG/5f50a91d-6b2f-11ed-bcd3-48df379cca40_03.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
+            <pubDate>Thu, 24 Nov 2022 17:40:21 GMT</pubDate>
+            <content:encoded><![CDATA[TWICE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221121_92/166901988863040GhA_JPEG/782c315e-6977-11ed-ac76-505dacfba98a_03.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Charting12 TWICE 7TH ANNIVERSARY SECRET BOX with ONCE (V LIVE 모바일 ─ CHARTS)]]></title>
+            <title><![CDATA[Charting11 TWICE 7TH ANNIVERSARY SECRET BOX with ONCE (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Thu, 24 Nov 2022 16:52:18 GMT</pubDate>
+            <pubDate>Thu, 24 Nov 2022 17:40:21 GMT</pubDate>
             <content:encoded><![CDATA[TWICE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221116_89/1668578641113egiVt_JPEG/upload_1126583497657474927fa82a47-9ec2-4355-9ca3-eda49f43c7db.JPG?type=f256_144_wp" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Charting12 🐶 (V LIVE 모바일 ─ CHARTS)]]></title>
+            <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
+            <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
+            <pubDate>Thu, 24 Nov 2022 17:40:21 GMT</pubDate>
+            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221123_165/16692088081606WRgi_JPEG/5f50a91d-6b2f-11ed-bcd3-48df379cca40_03.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Charting13 Run BTS! 2022 Special Episode - Telepathy Part 1 (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Thu, 24 Nov 2022 16:52:18 GMT</pubDate>
+            <pubDate>Thu, 24 Nov 2022 17:40:21 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220812_138/1660264042259WLREz_JPEG/upload_1043437541963210687545b394-698c-42fc-ade5-7c29af587fb7.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
@@ -747,7 +747,7 @@
             <title><![CDATA[Charting14 강다니엘(KANGDANIEL) - Nirvana (Feat. pH-1, WDBZ) M/V (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Thu, 24 Nov 2022 16:52:18 GMT</pubDate>
+            <pubDate>Thu, 24 Nov 2022 17:40:21 GMT</pubDate>
             <content:encoded><![CDATA[강다니엘 (KANGDANIEL)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221124_122/1669273551393beios_JPEG/upload_85543057129209571c93653dc-6a95-4f2d-bddc-3d16dc22a130.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
@@ -755,49 +755,49 @@
             <title><![CDATA[Charting15 지민씨 등장 (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Thu, 24 Nov 2022 16:52:18 GMT</pubDate>
+            <pubDate>Thu, 24 Nov 2022 17:40:21 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211013_144/1634122553955eHKox_JPEG/upload_78202275760730696931ec09d-bfa2-4361-8b27-5b66010714b3.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Charting16 [LIVE] 케이크가 춤을 춘다 (V LIVE 모바일 ─ CHARTS)]]></title>
+            <title><![CDATA[Charting16 LIGHTSUM's RELAY UNIT V LIVE #2 (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Thu, 24 Nov 2022 16:52:18 GMT</pubDate>
-            <content:encoded><![CDATA[CRAVITY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221123_187/1669206911985r0zI4_JPEG/3d7e4540-6b29-11ed-a94b-d4f5ef58ac88_02.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
+            <pubDate>Thu, 24 Nov 2022 17:40:21 GMT</pubDate>
+            <content:encoded><![CDATA[LIGHTSUM]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221124_130/1669290860617J1902_JPEG/upload_1133705731958225487902401c-8fe9-408e-85b9-c46d8c5aa79f.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Charting17 221121 🍊 HAPPY LIZ DAY 🍊 (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Thu, 24 Nov 2022 16:52:18 GMT</pubDate>
+            <pubDate>Thu, 24 Nov 2022 17:40:21 GMT</pubDate>
             <content:encoded><![CDATA[IVE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221121_72/1668996005575LlQJl_JPEG/upload_1130738523764542705d22c559-0c76-4dc5-963b-caf5a882deed.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Charting18 LIGHTSUM's RELAY UNIT V LIVE #2 (V LIVE 모바일 ─ CHARTS)]]></title>
+            <title><![CDATA[Charting18 [LIVE] 케이크가 춤을 춘다 (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Thu, 24 Nov 2022 16:52:18 GMT</pubDate>
-            <content:encoded><![CDATA[LIGHTSUM]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221124_130/1669290860617J1902_JPEG/upload_1133705731958225487902401c-8fe9-408e-85b9-c46d8c5aa79f.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
+            <pubDate>Thu, 24 Nov 2022 17:40:21 GMT</pubDate>
+            <content:encoded><![CDATA[CRAVITY]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221123_187/1669206911985r0zI4_JPEG/3d7e4540-6b29-11ed-a94b-d4f5ef58ac88_02.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Charting19 BLACKPINK WORLD TOUR [BORN PINK] BAND PRACTICE SKETCH (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Thu, 24 Nov 2022 16:52:18 GMT</pubDate>
+            <pubDate>Thu, 24 Nov 2022 17:40:21 GMT</pubDate>
             <content:encoded><![CDATA[BLACKPINK]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221013_292/1665637329440MEaLW_JPEG/upload_109716782859222269f3f751f1-f611-450e-8c60-48482616076a.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Charting20 럿디🐁#9 (V LIVE 모바일 ─ CHARTS)]]></title>
+            <title><![CDATA[Charting20 겨울엔 불러줘야지🎤(feat.천지의 겨울 준비기☃️) (V LIVE 모바일 ─ CHARTS)]]></title>
             <link>https://LIVESTREAM-KR.github.io/vlive/all.xml</link>
             <guid>https://LIVESTREAM-KR.github.io/vlive/all.xml</guid>
-            <pubDate>Thu, 24 Nov 2022 16:52:18 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221121_112/1669023185947oTeCh_JPEG/25b7f7d3-697f-11ed-b417-505dac8c381b_03.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
+            <pubDate>Thu, 24 Nov 2022 17:40:21 GMT</pubDate>
+            <content:encoded><![CDATA[TEENTOP]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221123_281/16692090869988v3Sq_JPEG/upload_113282860092938142239edd82-181b-4a1e-9d68-4c96da73c8dd.jpg?type=f256_144_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan (V LIVE ─ 일정표)]]></title>
@@ -1072,14 +1072,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221124_216/1669296623885IWm94_JPEG/upload_85566146492646050a46253fa-d1cf-4cbf-9d80-14ddae3ac6f7.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[생일을 축하랍니다! (V LIVE ─ 일정표)]]></title>
-            <link>https://www.vlive.tv/video/294405</link>
-            <guid>https://www.vlive.tv/video/294405</guid>
-            <pubDate>Thu, 24 Nov 2022 15:42:30 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:10]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221125_181/1669302635054sujwV_JPEG/200900056489781181d193ccf-ff81-44ec-98b4-23df0b03cddc.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[제 생일축하랍니다🎉 (V LIVE ─ 일정표)]]></title>
             <link>https://www.vlive.tv/video/294404</link>
             <guid>https://www.vlive.tv/video/294404</guid>
@@ -1091,9 +1083,17 @@
             <title><![CDATA[보고싶어 빨리와💙🤍 (V LIVE ─ 일정표)]]></title>
             <link>https://www.vlive.tv/video/294402</link>
             <guid>https://www.vlive.tv/video/294402</guid>
-            <pubDate>Thu, 24 Nov 2022 16:52:25 GMT</pubDate>
+            <pubDate>Thu, 24 Nov 2022 16:51:16 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:46]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221125_274/1669304769243uVC4n_JPEG/0eb10edb-6c0e-11ed-b0f2-d4f5ef58ad5e_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[생일을 축하랍니다! (V LIVE ─ 일정표)]]></title>
+            <link>https://www.vlive.tv/video/294405</link>
+            <guid>https://www.vlive.tv/video/294405</guid>
+            <pubDate>Thu, 24 Nov 2022 15:42:30 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:06]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221125_181/1669302635054sujwV_JPEG/200900056489781181d193ccf-ff81-44ec-98b4-23df0b03cddc.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] What's Up in Jeju with Eunice Kim (V LIVE 모바일 ─ 일정표)]]></title>
