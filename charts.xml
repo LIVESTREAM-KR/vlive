@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 11:46:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 13:04:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,20 +48,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20221124_264/16692823402470ndDz_JPEG/182157943234169853cb604c22-9762-4295-8c4d-c486a4c6110f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 1]]></title>
-            <link>https://www.vlive.tv/video/289368</link>
-            <guid>https://www.vlive.tv/video/289368</guid>
-            <pubDate>Fri, 25 Nov 2022 10:43:36 GMT</pubDate>
-            <content:encoded><![CDATA[BTS]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220812_138/1660264042259WLREz_JPEG/upload_1043437541963210687545b394-698c-42fc-ade5-7c29af587fb7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[TWICE REALITY "TIME TO TWICE" Y2K TDOONG SHOW EP.03]]></title>
             <link>https://www.vlive.tv/video/294423</link>
             <guid>https://www.vlive.tv/video/294423</guid>
             <pubDate>Fri, 25 Nov 2022 11:45:08 GMT</pubDate>
             <content:encoded><![CDATA[TWICE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221125_124/1669354264627f9o9I_JPEG/upload_1134339957834276153b747bac-7122-453e-90c2-0b09fb7c9031.JPG?type=f228_128_wp" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 1]]></title>
+            <link>https://www.vlive.tv/video/289368</link>
+            <guid>https://www.vlive.tv/video/289368</guid>
+            <pubDate>Fri, 25 Nov 2022 10:43:36 GMT</pubDate>
+            <content:encoded><![CDATA[BTS]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220812_138/1660264042259WLREz_JPEG/upload_1043437541963210687545b394-698c-42fc-ade5-7c29af587fb7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
