@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 13:04:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 13:44:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -240,13 +240,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221124_90/1669271569180KhDaF_JPEG/upload_85533721050921356b0fc70d4-f302-4892-9d9e-7dbb3d8c1cff.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[900만큼 사랑해❤️]]></title>
-            <link>https://www.vlive.tv/video/294436</link>
-            <guid>https://www.vlive.tv/video/294436</guid>
-            <pubDate>Fri, 25 Nov 2022 13:03:52 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:02]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[오랜만에 ㅋ̆̈ㅋ̆̈]]></title>
             <link>https://www.vlive.tv/video/294435</link>
             <guid>https://www.vlive.tv/video/294435</guid>
@@ -276,6 +269,23 @@
             <guid>https://www.vlive.tv/video/294438</guid>
             <pubDate>Fri, 25 Nov 2022 13:03:52 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:01]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/294438/thumb?type=f228_128" length="0" type="image//live/294438/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Radio'n Us / Isaac 아이젝)]]></title>
+            <link>https://www.vlive.tv/video/294433</link>
+            <guid>https://www.vlive.tv/video/294433</guid>
+            <pubDate>Fri, 25 Nov 2022 13:43:40 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:06]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221125_214/1669373932359L2Jxx_JPEG/upload_85643490456525631b6afde45-db8c-4f0e-82b6-ce47786b81cd.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[900만큼 사랑해❤️]]></title>
+            <link>https://www.vlive.tv/video/294436</link>
+            <guid>https://www.vlive.tv/video/294436</guid>
+            <pubDate>Fri, 25 Nov 2022 13:03:52 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:27]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221125_296/16693828438624bJv1_JPEG/ce6b3c6f-6cc3-11ed-be03-505dac8c37f3_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
