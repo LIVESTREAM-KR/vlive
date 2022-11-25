@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 13:44:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 14:41:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -264,14 +264,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221125_41/1669352389010km57H_JPEG/upload_113432121306623632d60e506d-cb4d-46bf-ae2c-fe30b2812c8f.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Hi~!]]></title>
-            <link>https://www.vlive.tv/video/294438</link>
-            <guid>https://www.vlive.tv/video/294438</guid>
-            <pubDate>Fri, 25 Nov 2022 13:03:52 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:01]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/294438/thumb?type=f228_128" length="0" type="image//live/294438/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[Arirang Radio (Radio'n Us / Isaac 아이젝)]]></title>
             <link>https://www.vlive.tv/video/294433</link>
             <guid>https://www.vlive.tv/video/294433</guid>
@@ -286,6 +278,38 @@
             <pubDate>Fri, 25 Nov 2022 13:03:52 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:27]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221125_296/16693828438624bJv1_JPEG/ce6b3c6f-6cc3-11ed-be03-505dac8c37f3_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리 얘기 좀 합시다 #162]]></title>
+            <link>https://www.vlive.tv/video/294440</link>
+            <guid>https://www.vlive.tv/video/294440</guid>
+            <pubDate>Fri, 25 Nov 2022 14:41:21 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:08]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221125_131/1669385279926APy0F_JPEG/5ce1836d-6cca-11ed-bf7a-505dac8c385b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hi~!]]></title>
+            <link>https://www.vlive.tv/video/294438</link>
+            <guid>https://www.vlive.tv/video/294438</guid>
+            <pubDate>Fri, 25 Nov 2022 13:03:52 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:19]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221125_296/1669385955319In3um_JPEG/7b7a0b5b-6ccb-11ed-ac76-505dacfba98a_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Never do it at the dermatologist]]></title>
+            <link>https://www.vlive.tv/video/294442</link>
+            <guid>https://www.vlive.tv/video/294442</guid>
+            <pubDate>Fri, 25 Nov 2022 14:41:21 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:21]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221125_254/1669386090475AnwfN_JPEG/upload_1134657685189419092e8c9ce7-73ab-46b4-8e1b-8100c0dc1447.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위니이이이]]></title>
+            <link>https://www.vlive.tv/video/294443</link>
+            <guid>https://www.vlive.tv/video/294443</guid>
+            <pubDate>Fri, 25 Nov 2022 14:41:21 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:40]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/294443/thumb?type=f228_128" length="0" type="image//live/294443/thumb"/>
         </item>
     </channel>
 </rss>
