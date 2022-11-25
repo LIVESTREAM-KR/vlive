@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 15:43:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 16:53:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -240,20 +240,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20221124_90/1669271569180KhDaF_JPEG/upload_85533721050921356b0fc70d4-f302-4892-9d9e-7dbb3d8c1cff.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[미수강]월드컵학 1주차]]></title>
+            <link>https://www.vlive.tv/video/294437</link>
+            <guid>https://www.vlive.tv/video/294437</guid>
+            <pubDate>Fri, 25 Nov 2022 13:03:52 GMT</pubDate>
+            <content:encoded><![CDATA[오후 12:50]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221126_95/1669391265518g418i_JPEG/5305dd9c-6cbf-11ed-bdf3-d4f5ef5906a4_05.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오랜만에 ㅋ̆̈ㅋ̆̈]]></title>
             <link>https://www.vlive.tv/video/294435</link>
             <guid>https://www.vlive.tv/video/294435</guid>
             <pubDate>Fri, 25 Nov 2022 13:03:52 GMT</pubDate>
             <content:encoded><![CDATA[오후 12:50]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221125_33/1669380624120Ucikk_JPEG/0e0b53d2-6cbf-11ed-a6e4-d4f5ef590144_03.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[미수강]월드컵학 1주차]]></title>
-            <link>https://www.vlive.tv/video/294437</link>
-            <guid>https://www.vlive.tv/video/294437</guid>
-            <pubDate>Fri, 25 Nov 2022 13:03:52 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:50]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221125_141/1669380646240RP7he_JPEG/5305dd9c-6cbf-11ed-bdf3-d4f5ef5906a4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[몬채널][B] EP.337 MINHYUK floun.]]></title>
@@ -316,8 +316,8 @@
             <link>https://www.vlive.tv/video/294445</link>
             <guid>https://www.vlive.tv/video/294445</guid>
             <pubDate>Fri, 25 Nov 2022 15:42:33 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:19]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/294445/thumb?type=f228_128" length="0" type="image//live/294445/thumb"/>
+            <content:encoded><![CDATA[오후 4:05]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221126_42/1669392354392jKknV_JPEG/b47a7dd9-6cda-11ed-b0f2-d4f5ef58ad5e_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
