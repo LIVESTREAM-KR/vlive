@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Nov 2022 10:42:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Nov 2022 11:40:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 WONHO CONCERT 'Everyday Christmas' Greeting Message]]></title>
+            <link>https://www.vlive.tv/video/294447</link>
+            <guid>https://www.vlive.tv/video/294447</guid>
+            <pubDate>Sat, 26 Nov 2022 11:39:19 GMT</pubDate>
+            <content:encoded><![CDATA[원호 (WONHO)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221126_69/16694430690679JPOE_JPEG/upload_85712674313358447cf24d1c1-c2db-48d2-b916-35eb7687b1e4.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이리스랑 Stay W!th Me 시작-ෆ]]></title>
             <link>https://www.vlive.tv/video/294452</link>
@@ -14,6 +22,14 @@
             <pubDate>Sat, 26 Nov 2022 10:41:05 GMT</pubDate>
             <content:encoded><![CDATA[IRRIS (아이리스)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221126_72/1669456825465eQTeK_JPEG/182332439426988399e9c25fff-e105-49e8-9c47-58b8f9b211e5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엑시]쥬말이닷]]></title>
+            <link>https://www.vlive.tv/video/294451</link>
+            <guid>https://www.vlive.tv/video/294451</guid>
+            <pubDate>Sat, 26 Nov 2022 11:39:19 GMT</pubDate>
+            <content:encoded><![CDATA[우주소녀(WJSN)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221126_204/1669459223650sYAcl_JPEG/328d415e-6d76-11ed-a6e4-d4f5ef590144_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[양다일 (Yang Da Il) ‘괴로워 (Wish I could tell you)’ M/V TEASER]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 25 Nov 2022 13:03:03 GMT</pubDate>
             <content:encoded><![CDATA[E'LAST]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221125_296/16693828438624bJv1_JPEG/ce6b3c6f-6cc3-11ed-be03-505dac8c37f3_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arirang Radio (Radio'n Us / Isaac 아이젝)]]></title>
-            <link>https://www.vlive.tv/video/294433</link>
-            <guid>https://www.vlive.tv/video/294433</guid>
-            <pubDate>Fri, 25 Nov 2022 13:42:51 GMT</pubDate>
-            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221125_214/1669373932359L2Jxx_JPEG/upload_85643490456525631b6afde45-db8c-4f0e-82b6-ce47786b81cd.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[몬채널][B] EP.337 MINHYUK floun.]]></title>
-            <link>https://www.vlive.tv/video/294420</link>
-            <guid>https://www.vlive.tv/video/294420</guid>
-            <pubDate>Fri, 25 Nov 2022 13:03:03 GMT</pubDate>
-            <content:encoded><![CDATA[MONSTA X]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221125_41/1669352389010km57H_JPEG/upload_113432121306623632d60e506d-cb4d-46bf-ae2c-fe30b2812c8f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

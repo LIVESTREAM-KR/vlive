@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Nov 2022 10:42:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Nov 2022 11:40:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,20 +56,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20221126_300/1669444570984fAW9U_JPEG/upload_1135243021576573449e215d4d-5104-4451-af73-3f37ee547c62.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아이리스랑 Stay W!th Me 시작-ෆ]]></title>
-            <link>https://www.vlive.tv/video/294452</link>
-            <guid>https://www.vlive.tv/video/294452</guid>
-            <pubDate>Sat, 26 Nov 2022 10:41:54 GMT</pubDate>
-            <content:encoded><![CDATA[오전 10:00]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221126_72/1669456825465eQTeK_JPEG/182332439426988399e9c25fff-e105-49e8-9c47-58b8f9b211e5.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[엑시]쥬말이닷]]></title>
             <link>https://www.vlive.tv/video/294451</link>
             <guid>https://www.vlive.tv/video/294451</guid>
             <pubDate>Sat, 26 Nov 2022 09:40:24 GMT</pubDate>
             <content:encoded><![CDATA[오전 10:40]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221126_204/1669459223650sYAcl_JPEG/328d415e-6d76-11ed-a6e4-d4f5ef590144_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이리스랑 Stay W!th Me 시작-ෆ]]></title>
+            <link>https://www.vlive.tv/video/294452</link>
+            <guid>https://www.vlive.tv/video/294452</guid>
+            <pubDate>Sat, 26 Nov 2022 10:41:54 GMT</pubDate>
+            <content:encoded><![CDATA[오전 10:57]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221126_72/1669456825465eQTeK_JPEG/182332439426988399e9c25fff-e105-49e8-9c47-58b8f9b211e5.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022 WONHO CONCERT 'Everyday Christmas' Greeting Message]]></title>
+            <link>https://www.vlive.tv/video/294447</link>
+            <guid>https://www.vlive.tv/video/294447</guid>
+            <pubDate>Sat, 26 Nov 2022 11:40:00 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221126_69/16694430690679JPOE_JPEG/upload_85712674313358447cf24d1c1-c2db-48d2-b916-35eb7687b1e4.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

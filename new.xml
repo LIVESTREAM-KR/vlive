@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Nov 2022 10:42:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Nov 2022 11:40:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022 WONHO CONCERT 'Everyday Christmas' Greeting Message]]></title>
+            <link>https://www.vlive.tv/video/294447</link>
+            <guid>https://www.vlive.tv/video/294447</guid>
+            <pubDate>Sat, 26 Nov 2022 11:39:10 GMT</pubDate>
+            <content:encoded><![CDATA[원호 (WONHO)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221126_69/16694430690679JPOE_JPEG/upload_85712674313358447cf24d1c1-c2db-48d2-b916-35eb7687b1e4.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이리스랑 Stay W!th Me 시작-ෆ]]></title>
             <link>https://www.vlive.tv/video/294452</link>
@@ -14,6 +22,14 @@
             <pubDate>Sat, 26 Nov 2022 10:40:55 GMT</pubDate>
             <content:encoded><![CDATA[IRRIS (아이리스)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221126_72/1669456825465eQTeK_JPEG/182332439426988399e9c25fff-e105-49e8-9c47-58b8f9b211e5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[엑시]쥬말이닷]]></title>
+            <link>https://www.vlive.tv/video/294451</link>
+            <guid>https://www.vlive.tv/video/294451</guid>
+            <pubDate>Sat, 26 Nov 2022 11:39:10 GMT</pubDate>
+            <content:encoded><![CDATA[우주소녀(WJSN)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221126_204/1669459223650sYAcl_JPEG/328d415e-6d76-11ed-a6e4-d4f5ef590144_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[양다일 (Yang Da Il) ‘괴로워 (Wish I could tell you)’ M/V TEASER]]></title>
@@ -390,22 +406,6 @@
             <pubDate>Thu, 24 Nov 2022 16:51:16 GMT</pubDate>
             <content:encoded><![CDATA[EPEX]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221125_274/1669304769243uVC4n_JPEG/0eb10edb-6c0e-11ed-b0f2-d4f5ef58ad5e_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제 생일축하랍니다🎉]]></title>
-            <link>https://www.vlive.tv/video/294404</link>
-            <guid>https://www.vlive.tv/video/294404</guid>
-            <pubDate>Thu, 24 Nov 2022 15:42:30 GMT</pubDate>
-            <content:encoded><![CDATA[F.able (페이블)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221124_26/1669301589231HGaa5_JPEG/178195617686817492fac789-ee98-403e-9231-916111ed527b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ITZY(있지) "CHESHIRE" Track Spoiler]]></title>
-            <link>https://www.vlive.tv/video/294401</link>
-            <guid>https://www.vlive.tv/video/294401</guid>
-            <pubDate>Thu, 24 Nov 2022 15:42:30 GMT</pubDate>
-            <content:encoded><![CDATA[ITZY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221124_216/1669296623885IWm94_JPEG/upload_85566146492646050a46253fa-d1cf-4cbf-9d80-14ddae3ac6f7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
