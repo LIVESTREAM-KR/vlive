@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Nov 2022 17:40:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Nov 2022 18:45:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[굿나잇하러..><]]></title>
+            <link>https://www.vlive.tv/video/294459</link>
+            <guid>https://www.vlive.tv/video/294459</guid>
+            <pubDate>Sat, 26 Nov 2022 18:43:58 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/294459/thumb?type=f228_128" length="0" type="image//live/294459/thumb"/>
+        </item>
         <item>
             <title><![CDATA[리뷰]]></title>
             <link>https://www.vlive.tv/video/294458</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 26 Nov 2022 09:39:43 GMT</pubDate>
             <content:encoded><![CDATA[쇼파르엔터테인먼트]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221125_11/1669354023276nxuQz_JPEG/upload_113433749719798201128ecee0-391b-4e0b-9ec3-4128fbdfcfb7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[bugAboo(버가부) | 초연 (CHOYEON) '한 페이지가 될 수 있게' COVER (Original Song by DAY6)]]></title>
-            <link>https://www.vlive.tv/video/294446</link>
-            <guid>https://www.vlive.tv/video/294446</guid>
-            <pubDate>Sat, 26 Nov 2022 03:05:35 GMT</pubDate>
-            <content:encoded><![CDATA[bugAboo]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221126_219/1669396433291LAa19_JPEG/upload_856660312298585456f1bd576-f6d6-4588-b21e-a53fc99c1b5b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
