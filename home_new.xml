@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Nov 2022 15:41:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Nov 2022 16:51:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리뷰]]></title>
+            <link>https://www.vlive.tv/video/294458</link>
+            <guid>https://www.vlive.tv/video/294458</guid>
+            <pubDate>Sat, 26 Nov 2022 16:49:51 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/294458/thumb?type=f228_128" length="0" type="image//live/294458/thumb"/>
+        </item>
         <item>
             <title><![CDATA[PANDA SATURDAYS🇦🇺]]></title>
             <link>https://www.vlive.tv/video/294457</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 26 Nov 2022 03:05:35 GMT</pubDate>
             <content:encoded><![CDATA[bugAboo]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221126_219/1669396433291LAa19_JPEG/upload_856660312298585456f1bd576-f6d6-4588-b21e-a53fc99c1b5b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[IMERA] EP.160 5집 활동기 비하인드 #1]]></title>
-            <link>https://www.vlive.tv/video/294434</link>
-            <guid>https://www.vlive.tv/video/294434</guid>
-            <pubDate>Sat, 26 Nov 2022 03:05:35 GMT</pubDate>
-            <content:encoded><![CDATA[위아이 (WEi)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221125_109/1669374487252Vvj7K_JPEG/upload_1134542072186897414b18409d-5379-40eb-864f-0aeb41185e9f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
