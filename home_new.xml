@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Nov 2022 13:00:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Nov 2022 13:41:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,31 @@
             <guid>https://www.vlive.tv/video/294453</guid>
             <pubDate>Sat, 26 Nov 2022 12:59:28 GMT</pubDate>
             <content:encoded><![CDATA[EPEX]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/294453/thumb?type=f228_128" length="0" type="image//live/294453/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20221126_198/1669469106512PIo98_JPEG/b13e1c24-6d8c-11ed-87eb-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유태양입니다]]></title>
+            <link>https://www.vlive.tv/video/294456</link>
+            <guid>https://www.vlive.tv/video/294456</guid>
+            <pubDate>Sat, 26 Nov 2022 13:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/294456/thumb?type=f228_128" length="0" type="image//live/294456/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[혁모저모 #15 (녹음실 관찰캠📹🎤)]]></title>
+            <link>https://www.vlive.tv/video/294455</link>
+            <guid>https://www.vlive.tv/video/294455</guid>
+            <pubDate>Sat, 26 Nov 2022 13:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[E'LAST]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/294455/thumb?type=f228_128" length="0" type="image//live/294455/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[🤗안뇽🤗]]></title>
+            <link>https://www.vlive.tv/video/294454</link>
+            <guid>https://www.vlive.tv/video/294454</guid>
+            <pubDate>Sat, 26 Nov 2022 13:40:13 GMT</pubDate>
+            <content:encoded><![CDATA[Kep1er]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/294454/thumb?type=f228_128" length="0" type="image//live/294454/thumb"/>
         </item>
         <item>
             <title><![CDATA[2022 WONHO CONCERT 'Everyday Christmas' Greeting Message]]></title>
@@ -102,30 +126,6 @@
             <pubDate>Fri, 25 Nov 2022 15:41:39 GMT</pubDate>
             <content:encoded><![CDATA[원호 (WONHO)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221126_243/1669442886135IYYcX_JPEG/84388fa3-6cd0-11ed-8977-505dac8c3607_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Never do it at the dermatologist]]></title>
-            <link>https://www.vlive.tv/video/294442</link>
-            <guid>https://www.vlive.tv/video/294442</guid>
-            <pubDate>Fri, 25 Nov 2022 15:41:39 GMT</pubDate>
-            <content:encoded><![CDATA[Berryato (베리아또)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221125_254/1669386090475AnwfN_JPEG/upload_1134657685189419092e8c9ce7-73ab-46b4-8e1b-8100c0dc1447.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hi~!]]></title>
-            <link>https://www.vlive.tv/video/294438</link>
-            <guid>https://www.vlive.tv/video/294438</guid>
-            <pubDate>Fri, 25 Nov 2022 13:03:03 GMT</pubDate>
-            <content:encoded><![CDATA[M.O.N.T (몬트)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221125_296/1669385955319In3um_JPEG/7b7a0b5b-6ccb-11ed-ac76-505dacfba98a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 얘기 좀 합시다 #162]]></title>
-            <link>https://www.vlive.tv/video/294440</link>
-            <guid>https://www.vlive.tv/video/294440</guid>
-            <pubDate>Fri, 25 Nov 2022 15:41:39 GMT</pubDate>
-            <content:encoded><![CDATA[N.Flying]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221125_131/1669385279926APy0F_JPEG/5ce1836d-6cca-11ed-bf7a-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
