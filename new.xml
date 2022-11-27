@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Nov 2022 09:41:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Nov 2022 10:42:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뿅! 하고 나타난 아이리스🤍]]></title>
+            <link>https://www.vlive.tv/video/294465</link>
+            <guid>https://www.vlive.tv/video/294465</guid>
+            <pubDate>Sun, 27 Nov 2022 10:40:52 GMT</pubDate>
+            <content:encoded><![CDATA[IRRIS (아이리스)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221127_93/1669542197357jKr8y_JPEG/6315997364201946354c9b537-63c1-46af-8c69-bcc64beaae57.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일요일요일]]></title>
             <link>https://www.vlive.tv/video/294462</link>
@@ -398,14 +406,6 @@
             <pubDate>Fri, 25 Nov 2022 04:46:02 GMT</pubDate>
             <content:encoded><![CDATA[ARIRANG K Pop │ 아리랑케이팝]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221124_172/1669267519184hkfpt_PNG/upload_85537123854077761aa257019-9017-4903-8e32-550f28020c54.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[withus] 'Barricade' MV Behind (ENG SUB)]]></title>
-            <link>https://www.vlive.tv/video/294370</link>
-            <guid>https://www.vlive.tv/video/294370</guid>
-            <pubDate>Fri, 25 Nov 2022 03:29:59 GMT</pubDate>
-            <content:encoded><![CDATA[위드에이치씨 (withHC)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221125_210/16693780549431kjAI_JPEG/upload_85532396650159838c2aeeb90-04a4-4142-8795-9c0c8b81d601.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
