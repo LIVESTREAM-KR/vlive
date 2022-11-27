@@ -4,17 +4,9 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Nov 2022 15:42:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Nov 2022 16:51:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[리뷰]]></title>
-            <link>https://www.vlive.tv/video/294458</link>
-            <guid>https://www.vlive.tv/video/294458</guid>
-            <pubDate>Sat, 26 Nov 2022 18:44:14 GMT</pubDate>
-            <content:encoded><![CDATA[SF9]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221127_226/1669482711103FCtiR_JPEG/f4577c94-6dac-11ed-a007-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[일요일요일]]></title>
             <link>https://www.vlive.tv/video/294462</link>
@@ -32,12 +24,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20221127_185/1669488643425Js371_JPEG/ec0e7b3f-6dba-11ed-a645-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[신1후2우3]]></title>
-            <link>https://www.vlive.tv/video/294470</link>
-            <guid>https://www.vlive.tv/video/294470</guid>
-            <pubDate>Sun, 27 Nov 2022 15:41:07 GMT</pubDate>
-            <content:encoded><![CDATA[PENTAGON]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221127_99/1669559640291Sf3NO_JPEG/f5d2f355-6e5d-11ed-ac76-505dacfba98a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <title><![CDATA[ITZY(있지) "Cheshire" M/V Teaser 1]]></title>
+            <link>https://www.vlive.tv/video/294444</link>
+            <guid>https://www.vlive.tv/video/294444</guid>
+            <pubDate>Sun, 27 Nov 2022 16:50:07 GMT</pubDate>
+            <content:encoded><![CDATA[ITZY]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221125_100/1669388260766lqg3z_JPEG/upload_11346788822999892489320b0a-0a8f-478f-9520-f6aa94a10be0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ITZY(있지) "CHESHIRE" JACKET BEHIND]]></title>
+            <link>https://www.vlive.tv/video/294439</link>
+            <guid>https://www.vlive.tv/video/294439</guid>
+            <pubDate>Sun, 27 Nov 2022 16:50:07 GMT</pubDate>
+            <content:encoded><![CDATA[ITZY]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221125_108/1669381964288PL3PB_JPEG/upload_113461627480849155c3d28541-c2cb-4faf-a3ae-59d499eebb51.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
