@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 16:49:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 17:42:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안녕!!!]]></title>
+            <link>https://www.vlive.tv/video/294532</link>
+            <guid>https://www.vlive.tv/video/294532</guid>
+            <pubDate>Mon, 28 Nov 2022 17:40:53 GMT</pubDate>
+            <content:encoded><![CDATA[TRENDZ (트렌드지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221129_223/1669651259887TI3Oe_JPEG/182526859879128782350c7914-24e4-4b7b-a14d-0bf95464021a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[네 오랜만이네요]]></title>
             <link>https://www.vlive.tv/video/294531</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 28 Nov 2022 08:45:02 GMT</pubDate>
             <content:encoded><![CDATA[Kep1er]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221128_117/1669623687662syyw6_JPEG/182499224648664740d27ba6df-731a-4862-a87b-dc4586a26efd.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지금 퇴근시간 맞지!?]]></title>
-            <link>https://www.vlive.tv/video/294522</link>
-            <guid>https://www.vlive.tv/video/294522</guid>
-            <pubDate>Mon, 28 Nov 2022 09:41:05 GMT</pubDate>
-            <content:encoded><![CDATA[Weki Meki]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221128_175/1669626049486U8fz7_JPEG/1825016634753050329c7844d4-a40d-4e35-a613-3a256eb06406.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
