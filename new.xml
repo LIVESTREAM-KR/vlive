@@ -4,7 +4,7 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 13:05:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 13:45:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,23 @@
             <guid>https://www.vlive.tv/video/294530</guid>
             <pubDate>Mon, 28 Nov 2022 13:04:04 GMT</pubDate>
             <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221128_204/1669641310828Bxjzc_JPEG/50f3563c-6f1e-11ed-bfc6-505dac8c3639_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[👋😁]]></title>
+            <link>https://www.vlive.tv/video/294529</link>
+            <guid>https://www.vlive.tv/video/294529</guid>
+            <pubDate>Mon, 28 Nov 2022 13:04:04 GMT</pubDate>
+            <content:encoded><![CDATA[윤서빈 (Yoon Seobin)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221128_68/16696411789527H4Ev_JPEG/c264482a-6f1d-11ed-bf7a-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Radio'n Us / DRIPPIN 드리핀)]]></title>
+            <link>https://www.vlive.tv/video/294473</link>
+            <guid>https://www.vlive.tv/video/294473</guid>
+            <pubDate>Mon, 28 Nov 2022 13:44:43 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221127_59/1669559638552VM9F2_JPEG/upload_85829201059889504be4c9ab1-b46d-4f7b-8a4f-be136d87e86d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[잠깐~~💙💙]]></title>
@@ -21,13 +38,6 @@
             <pubDate>Mon, 28 Nov 2022 13:04:04 GMT</pubDate>
             <content:encoded><![CDATA[BDC]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221128_207/1669638310426fXYTu_JPEG/c6c55c2e-6f16-11ed-93f8-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[👋😁]]></title>
-            <link>https://www.vlive.tv/video/294529</link>
-            <guid>https://www.vlive.tv/video/294529</guid>
-            <pubDate>Mon, 28 Nov 2022 13:04:04 GMT</pubDate>
-            <content:encoded><![CDATA[윤서빈 (Yoon Seobin)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[💛🎉 HAPPY BIRTHDAY to JE WON 🎂💛]]></title>
@@ -396,14 +406,6 @@
             <pubDate>Sun, 27 Nov 2022 03:31:14 GMT</pubDate>
             <content:encoded><![CDATA[위아이 (WEi)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221125_127/166938541730111M4U_JPEG/upload_856550162854032096e98af3a-090c-4bd6-b6dc-13cdab12b1ba.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[굿나잇하러..><]]></title>
-            <link>https://www.vlive.tv/video/294459</link>
-            <guid>https://www.vlive.tv/video/294459</guid>
-            <pubDate>Sat, 26 Nov 2022 18:43:36 GMT</pubDate>
-            <content:encoded><![CDATA[SF9]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221127_185/1669488643425Js371_JPEG/ec0e7b3f-6dba-11ed-a645-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

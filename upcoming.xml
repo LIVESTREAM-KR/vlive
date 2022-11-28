@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Nov 2022 13:05:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Nov 2022 13:45:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -264,14 +264,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221128_76/1669629073729JLvJN_JPEG/18250460472516337025c99bac-4cf4-45c2-87d6-ba528f4d988e.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[👋😁]]></title>
-            <link>https://www.vlive.tv/video/294529</link>
-            <guid>https://www.vlive.tv/video/294529</guid>
-            <pubDate>Mon, 28 Nov 2022 13:04:56 GMT</pubDate>
-            <content:encoded><![CDATA[오전 11:56]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/294529/thumb?type=f228_128" length="0" type="image//live/294529/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[잠깐~~💙💙]]></title>
             <link>https://www.vlive.tv/video/294528</link>
             <guid>https://www.vlive.tv/video/294528</guid>
@@ -280,20 +272,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20221128_207/1669638310426fXYTu_JPEG/c6c55c2e-6f16-11ed-93f8-505dac8c35ff_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[잠깐만~✋🏻]]></title>
-            <link>https://www.vlive.tv/video/294530</link>
-            <guid>https://www.vlive.tv/video/294530</guid>
-            <pubDate>Mon, 28 Nov 2022 13:04:56 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:42]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/294530/thumb?type=f228_128" length="0" type="image//live/294530/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[Arirang Radio (Radio'n Us / DRIPPIN 드리핀)]]></title>
             <link>https://www.vlive.tv/video/294473</link>
             <guid>https://www.vlive.tv/video/294473</guid>
             <pubDate>Mon, 28 Nov 2022 02:20:46 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:04]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221127_59/1669559638552VM9F2_JPEG/upload_85829201059889504be4c9ab1-b46d-4f7b-8a4f-be136d87e86d.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[👋😁]]></title>
+            <link>https://www.vlive.tv/video/294529</link>
+            <guid>https://www.vlive.tv/video/294529</guid>
+            <pubDate>Mon, 28 Nov 2022 13:04:56 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:12]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221128_68/16696411789527H4Ev_JPEG/c264482a-6f1d-11ed-bf7a-505dac8c385b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠깐만~✋🏻]]></title>
+            <link>https://www.vlive.tv/video/294530</link>
+            <guid>https://www.vlive.tv/video/294530</guid>
+            <pubDate>Mon, 28 Nov 2022 13:04:56 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:15]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221128_204/1669641310828Bxjzc_JPEG/50f3563c-6f1e-11ed-bfc6-505dac8c3639_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
