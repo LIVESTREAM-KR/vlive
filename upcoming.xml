@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 13:04:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 13:53:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -198,6 +198,22 @@
             <pubDate>Tue, 29 Nov 2022 13:04:29 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:04]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221129_134/1669722220516cajko_JPEG/182597836444168247e3838c19-eb9c-45d4-bb96-ed959367972d.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤... #21]]></title>
+            <link>https://www.vlive.tv/video/294555</link>
+            <guid>https://www.vlive.tv/video/294555</guid>
+            <pubDate>Tue, 29 Nov 2022 13:52:29 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:24]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221129_281/1669728271455HsIKu_JPEG/182603871444311457342d3128-bd36-464a-869e-183937c32edb.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이제 진짜 겨울시작이여❄]]></title>
+            <link>https://www.vlive.tv/video/294557</link>
+            <guid>https://www.vlive.tv/video/294557</guid>
+            <pubDate>Tue, 29 Nov 2022 13:52:29 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:49]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/294557/thumb?type=f228_128" length="0" type="image//live/294557/thumb"/>
         </item>
     </channel>
 </rss>
