@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 14:44:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 15:44:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -192,14 +192,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221129_134/1669722220516cajko_JPEG/182597836444168247e3838c19-eb9c-45d4-bb96-ed959367972d.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤... #21]]></title>
-            <link>https://www.vlive.tv/video/294555</link>
-            <guid>https://www.vlive.tv/video/294555</guid>
-            <pubDate>Tue, 29 Nov 2022 13:52:29 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:24]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221129_281/1669728271455HsIKu_JPEG/182603871444311457342d3128-bd36-464a-869e-183937c32edb.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[솔메즈 호텔 브이앱✌️]]></title>
             <link>https://www.vlive.tv/video/294554</link>
             <guid>https://www.vlive.tv/video/294554</guid>
@@ -229,13 +221,15 @@
             <guid>https://www.vlive.tv/video/294559</guid>
             <pubDate>Tue, 29 Nov 2022 14:44:15 GMT</pubDate>
             <content:encoded><![CDATA[오후 2:32]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/294559/thumb?type=f228_128" length="0" type="image//live/294559/thumb"/>
         </item>
         <item>
             <title><![CDATA[1129]]></title>
             <link>https://www.vlive.tv/video/294560</link>
             <guid>https://www.vlive.tv/video/294560</guid>
             <pubDate>Tue, 29 Nov 2022 14:44:15 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:36]]></content:encoded>
+            <content:encoded><![CDATA[오후 3:04]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221130_78/1669734242769F4Vd0_JPEG/d9173d0d-6ff6-11ed-bfc6-505dac8c3639_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
