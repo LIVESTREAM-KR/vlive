@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 07:43:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 08:46:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,15 +40,7 @@
             <enclosure url="https://v-phinf.pstatic.net/20221128_185/1669626852392KRCte_JPEG/1825024523873084623c641d1e-45bb-40e6-b941-f4520b76ad96.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[리노리방😺저녁 뭐먹을거야!!!]]></title>
-            <link>https://www.vlive.tv/video/294449</link>
-            <guid>https://www.vlive.tv/video/294449</guid>
-            <pubDate>Sat, 26 Nov 2022 09:40:06 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221126_252/16694535597173FFXp_JPEG/3338d6d4-6d69-11ed-9d68-48df379ccacc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ITZY(있지) "Cheshire" M/V Teaser 2]]></title>
+            <title><![CDATA[ITZY "Cheshire" M/V Teaser 2]]></title>
             <link>https://www.vlive.tv/video/294512</link>
             <guid>https://www.vlive.tv/video/294512</guid>
             <pubDate>Mon, 28 Nov 2022 16:48:56 GMT</pubDate>
@@ -62,6 +54,14 @@
             <pubDate>Mon, 28 Nov 2022 13:45:14 GMT</pubDate>
             <content:encoded><![CDATA[TWICE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221125_216/1669362515988DYpdB_JPEG/upload_113442232406907835f12a34bf-ff5e-489d-acb0-a5ae4370f7ba.JPG?type=f228_128_wp" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[리노리방😺저녁 뭐먹을거야!!!]]></title>
+            <link>https://www.vlive.tv/video/294449</link>
+            <guid>https://www.vlive.tv/video/294449</guid>
+            <pubDate>Sat, 26 Nov 2022 09:40:06 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221126_252/16694535597173FFXp_JPEG/3338d6d4-6d69-11ed-9d68-48df379ccacc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
