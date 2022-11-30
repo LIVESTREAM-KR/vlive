@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 03:47:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 04:48:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[withus_방송 가기전😁]]></title>
+            <link>https://www.vlive.tv/video/294572</link>
+            <guid>https://www.vlive.tv/video/294572</guid>
+            <pubDate>Wed, 30 Nov 2022 04:46:38 GMT</pubDate>
+            <content:encoded><![CDATA[위드에이치씨 (withHC)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221130_256/1669781275446fu8eN_JPEG/1826568754398974364e54e2d3-eeb9-4c4d-9aff-53cbf08af77a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유태양입니다]]></title>
             <link>https://www.vlive.tv/video/294568</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 29 Nov 2022 10:43:27 GMT</pubDate>
             <content:encoded><![CDATA[YOUNITE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221129_35/1669719048245DTCLC_JPEG/cf3781ad-6fd2-11ed-ac76-505dacfba98a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[HIGHLOG] 하이라이트(HIGHLIGHT) in TOKYO (a.k.a. 출장 시부야) - 2 -]]></title>
-            <link>https://www.vlive.tv/video/294549</link>
-            <guid>https://www.vlive.tv/video/294549</guid>
-            <pubDate>Tue, 29 Nov 2022 10:43:27 GMT</pubDate>
-            <content:encoded><![CDATA[HIGHLIGHT]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221129_264/1669711668513Re9pY_JPEG/upload_113791379355730606678a5f59-dea8-45d4-b826-415ec13c25d6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
