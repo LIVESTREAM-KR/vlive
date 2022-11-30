@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 23:42:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 02:12:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthew]]></title>
-            <link>https://m.vlive.tv/video/294480</link>
-            <guid>https://m.vlive.tv/video/294480</guid>
-            <pubDate>Mon, 28 Nov 2022 02:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221128_219/1669594724193F5AOU_JPEG/upload_11367421890207588491e14163-86ae-47bf-8a97-d253c4a3682f.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Radio’ Clock] KoreaPedia with GHOST9 SON JUNHYUNG & PRINCE (고스트나인 준형&프린스)]]></title>
-            <link>https://m.vlive.tv/video/294484</link>
-            <guid>https://m.vlive.tv/video/294484</guid>
-            <pubDate>Mon, 28 Nov 2022 02:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221128_41/1669594981153FT1g4_JPEG/upload_113674601872280994b4507fd1-77a8-4d46-8e73-da4a6ed70430.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio/K-Poppin'] It's MZ TIME! with Luminous]]></title>
             <link>https://m.vlive.tv/video/294487</link>
@@ -36,6 +16,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221128_257/1669595367437YukYn_JPEG/upload_113675081624857345fb3d1928-6b68-4937-99a8-093e7bedfe8c.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Radio’ Clock] KoreaPedia with GHOST9 SON JUNHYUNG & PRINCE (고스트나인 준형&프린스)]]></title>
+            <link>https://m.vlive.tv/video/294484</link>
+            <guid>https://m.vlive.tv/video/294484</guid>
+            <pubDate>Mon, 28 Nov 2022 02:20:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 6:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221128_41/1669594981153FT1g4_JPEG/upload_113674601872280994b4507fd1-77a8-4d46-8e73-da4a6ed70430.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Arirang Radio (Super K-Pop / FIL 필)]]></title>
@@ -106,6 +96,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221128_204/1669595022230aUKwS_JPEG/upload_8586460231847591390b0be9b-1cad-45c2-9f3d-017c3d296820.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop] Music Dive with Yuni Lim]]></title>
+            <link>https://m.vlive.tv/video/294491</link>
+            <guid>https://m.vlive.tv/video/294491</guid>
+            <pubDate>Wed, 30 Nov 2022 02:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221128_31/16695959524054vt1y_JPEG/upload_1136756506670475290fce1cd8-c120-4862-a8ba-5cc5fe8cf106.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
