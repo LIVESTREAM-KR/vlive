@@ -4,9 +4,25 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 02:12:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 03:07:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[유태양입니다]]></title>
+            <link>https://www.vlive.tv/video/294568</link>
+            <guid>https://www.vlive.tv/video/294568</guid>
+            <pubDate>Wed, 30 Nov 2022 03:06:21 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221130_231/1669777534433kWThW_JPEG/9fc954eb-705b-11ed-bf7a-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rocking doll(록킹돌) :: NOVA!! 파자마 파티 같이 즐겨볼까요!?]]></title>
+            <link>https://www.vlive.tv/video/292021</link>
+            <guid>https://www.vlive.tv/video/292021</guid>
+            <pubDate>Wed, 30 Nov 2022 03:06:21 GMT</pubDate>
+            <content:encoded><![CDATA[Rocking doll]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221129_28/16697120124961LhQF_JPEG/upload_108265744125482433a1a9eca7-758d-4b3e-b850-f498543b6fe0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthew]]></title>
             <link>https://www.vlive.tv/video/294480</link>
@@ -390,22 +406,6 @@
             <pubDate>Mon, 28 Nov 2022 08:44:52 GMT</pubDate>
             <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221127_16/1669559801740lt39b_JPEG/upload_113639460362512857e3aa9cac-1014-4e08-8f98-74b70cca75b9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TEMPEST - Dragon(飛上)｜M/V Reaction]]></title>
-            <link>https://www.vlive.tv/video/294495</link>
-            <guid>https://www.vlive.tv/video/294495</guid>
-            <pubDate>Mon, 28 Nov 2022 09:40:51 GMT</pubDate>
-            <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221128_69/1669600696995PgQmX_JPEG/upload_11368041432515026683ecb278-8a6a-4dda-a7b6-ed6a67a86cf6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Teaser] 최유리 - '흔적']]></title>
-            <link>https://www.vlive.tv/video/294515</link>
-            <guid>https://www.vlive.tv/video/294515</guid>
-            <pubDate>Mon, 28 Nov 2022 09:40:51 GMT</pubDate>
-            <content:encoded><![CDATA[쇼파르엔터테인먼트]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221128_171/16696135957866NcSz_JPEG/upload_11369330436775132125a6c0c1-3ac4-4034-bebe-500234b9e805.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
