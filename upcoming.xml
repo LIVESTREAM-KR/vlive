@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 13:48:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 14:42:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -257,12 +257,20 @@
             <enclosure url="https://vlive-thumb.pstatic.net/live/294604/thumb?type=f228_128" length="0" type="image//live/294604/thumb"/>
         </item>
         <item>
+            <title><![CDATA[진호 - MAGAZINE HO #51 'Santa Claus Is Coming To Town / Michael Buble']]></title>
+            <link>https://www.vlive.tv/video/294590</link>
+            <guid>https://www.vlive.tv/video/294590</guid>
+            <pubDate>Wed, 30 Nov 2022 14:42:00 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221130_16/1669803673718dPbJq_JPEG/upload_113883405641322039c25ed4fa-dc2c-4ef6-b85e-f03624d96b3d.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[혁모저모 #16 (◡̈)]]></title>
             <link>https://www.vlive.tv/video/294605</link>
             <guid>https://www.vlive.tv/video/294605</guid>
             <pubDate>Wed, 30 Nov 2022 13:47:51 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:01]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/294605/thumb?type=f228_128" length="0" type="image//live/294605/thumb"/>
+            <content:encoded><![CDATA[오후 2:26]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221130_80/1669818370890yi93S_JPEG/90bd3473-70ba-11ed-a94b-d4f5ef58ac88_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 13:48:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 14:42:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,15 @@
             <guid>https://www.vlive.tv/video/294605</guid>
             <pubDate>Wed, 30 Nov 2022 13:46:49 GMT</pubDate>
             <content:encoded><![CDATA[E'LAST]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221130_80/1669818370890yi93S_JPEG/90bd3473-70ba-11ed-a94b-d4f5ef58ac88_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[진호 - MAGAZINE HO #51 'Santa Claus Is Coming To Town / Michael Buble']]></title>
+            <link>https://www.vlive.tv/video/294590</link>
+            <guid>https://www.vlive.tv/video/294590</guid>
+            <pubDate>Wed, 30 Nov 2022 14:40:57 GMT</pubDate>
+            <content:encoded><![CDATA[PENTAGON]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221130_16/1669803673718dPbJq_JPEG/upload_113883405641322039c25ed4fa-dc2c-4ef6-b85e-f03624d96b3d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[은조의 조은밤🌝🎧#84]]></title>
@@ -397,14 +406,6 @@
             <pubDate>Tue, 29 Nov 2022 10:43:16 GMT</pubDate>
             <content:encoded><![CDATA[콬TV (WHYNOT)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221128_234/1669633629087Wspi0_JPEG/upload_85875074029257877aa151b8d-6664-4c41-8c64-0692e2b449b4.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SANA-log : Milan Fashion week]]></title>
-            <link>https://www.vlive.tv/video/294427</link>
-            <guid>https://www.vlive.tv/video/294427</guid>
-            <pubDate>Tue, 29 Nov 2022 10:43:16 GMT</pubDate>
-            <content:encoded><![CDATA[TWICE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221125_145/1669362598080XUi5w_JPEG/upload_1134423137787147708390fa10-33c9-4108-8c1e-0b44285f9505.JPG?type=f228_128_wp" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
