@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 14:42:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 15:44:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -249,14 +249,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221130_292/1669811127239g3CeH_JPEG/4008dd47-70a9-11ed-87eb-505dac8c3721_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[은조의 조은밤🌝🎧#84]]></title>
-            <link>https://www.vlive.tv/video/294604</link>
-            <guid>https://www.vlive.tv/video/294604</guid>
-            <pubDate>Wed, 30 Nov 2022 13:47:51 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:00]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/294604/thumb?type=f228_128" length="0" type="image//live/294604/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[진호 - MAGAZINE HO #51 'Santa Claus Is Coming To Town / Michael Buble']]></title>
             <link>https://www.vlive.tv/video/294590</link>
             <guid>https://www.vlive.tv/video/294590</guid>
@@ -271,6 +263,38 @@
             <pubDate>Wed, 30 Nov 2022 13:47:51 GMT</pubDate>
             <content:encoded><![CDATA[오후 2:26]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221130_80/1669818370890yi93S_JPEG/90bd3473-70ba-11ed-a94b-d4f5ef58ac88_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ITZY(있지) "Cheshire" Dance Practice]]></title>
+            <link>https://www.vlive.tv/video/294556</link>
+            <guid>https://www.vlive.tv/video/294556</guid>
+            <pubDate>Wed, 30 Nov 2022 15:44:23 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221129_242/1669729126757uXgBn_JPEG/upload_11380877725311537057744482-6ef9-470e-b2e2-89578cb0d46a.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[회의]]></title>
+            <link>https://www.vlive.tv/video/294607</link>
+            <guid>https://www.vlive.tv/video/294607</guid>
+            <pubDate>Wed, 30 Nov 2022 15:44:23 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:08]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/294607/thumb?type=f228_128" length="0" type="image//live/294607/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[은조의 조은밤🌝🎧#84]]></title>
+            <link>https://www.vlive.tv/video/294604</link>
+            <guid>https://www.vlive.tv/video/294604</guid>
+            <pubDate>Wed, 30 Nov 2022 13:47:51 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:22]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221201_184/1669821725820whF0B_JPEG/0219610d-70c1-11ed-a007-48df37ae3fca_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[12:30]]></title>
+            <link>https://www.vlive.tv/video/294608</link>
+            <guid>https://www.vlive.tv/video/294608</guid>
+            <pubDate>Wed, 30 Nov 2022 15:44:23 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:29]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/294608/thumb?type=f228_128" length="0" type="image//live/294608/thumb"/>
         </item>
     </channel>
 </rss>
