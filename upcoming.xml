@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 07:40:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 08:46:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -119,6 +119,14 @@
             <pubDate>Wed, 30 Nov 2022 07:40:00 GMT</pubDate>
             <content:encoded><![CDATA[오전 7:08]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221130_64/1669792087575CbyDW_JPEG/upload_86061671916538262c62dee86-1e8c-447f-b7c5-5d34658edc4f.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ep.42 | SOLE & THAMA Concert Story | SOLE (쏠)]]></title>
+            <link>https://www.vlive.tv/video/294580</link>
+            <guid>https://www.vlive.tv/video/294580</guid>
+            <pubDate>Wed, 30 Nov 2022 08:45:57 GMT</pubDate>
+            <content:encoded><![CDATA[오전 8:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221130_216/16697935577308uCvq_JPEG/upload_113873036745479557dd8d6767-1ea9-4ff2-b6a5-be608e57b7a4.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
