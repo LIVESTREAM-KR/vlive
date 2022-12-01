@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 10:45:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 11:40:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,14 +248,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221201_182/1669887137100OKn2l_JPEG/cd3b6361-715a-11ed-a2f9-d4f5ef5a9532_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[특별 게스트 있습니다 빨리 come on]]></title>
-            <link>https://www.vlive.tv/video/294644</link>
-            <guid>https://www.vlive.tv/video/294644</guid>
-            <pubDate>Thu, 01 Dec 2022 10:44:34 GMT</pubDate>
-            <content:encoded><![CDATA[오전 9:49]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/294644/thumb?type=f228_128" length="0" type="image//live/294644/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[Xdinary Heroes "X-MAS" Band Performance Video]]></title>
             <link>https://www.vlive.tv/video/294606</link>
             <guid>https://www.vlive.tv/video/294606</guid>
@@ -272,28 +264,36 @@
             <enclosure url="https://v-phinf.pstatic.net/20221201_233/1669865774214b8Vqw_JPEG/upload_86135365214811243cef00b3c-282e-468c-83be-9e2ea27a29e6.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[LIGHTSUM's RELAY UNIT V LIVE #3]]></title>
-            <link>https://www.vlive.tv/video/294647</link>
-            <guid>https://www.vlive.tv/video/294647</guid>
-            <pubDate>Thu, 01 Dec 2022 10:44:34 GMT</pubDate>
-            <content:encoded><![CDATA[오전 10:00]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221201_76/1669888815711mNBMY_JPEG/1827644156903007354b49d2c5-e76e-4951-adfa-96d8555230dc.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[12월의 시작은 결이와 함께❤️]]></title>
-            <link>https://www.vlive.tv/video/294648</link>
-            <guid>https://www.vlive.tv/video/294648</guid>
-            <pubDate>Thu, 01 Dec 2022 10:44:34 GMT</pubDate>
-            <content:encoded><![CDATA[오전 10:01]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/294648/thumb?type=f228_128" length="0" type="image//live/294648/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[루비 생일인데 ? 🎂]]></title>
             <link>https://www.vlive.tv/video/294645</link>
             <guid>https://www.vlive.tv/video/294645</guid>
             <pubDate>Thu, 01 Dec 2022 10:44:34 GMT</pubDate>
             <content:encoded><![CDATA[오전 10:18]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221201_272/1669888593372qTCwG_JPEG/20675963988572891164cc4ce-ece9-48c9-b10e-52ba7c65ddf7.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SKZ VLOG] 필릭스 : Sunshine Vlog 5 in Australia]]></title>
+            <link>https://www.vlive.tv/video/294649</link>
+            <guid>https://www.vlive.tv/video/294649</guid>
+            <pubDate>Thu, 01 Dec 2022 11:40:11 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221201_1/1669889319410Bqom8_JPEG/upload_86158106235112457296d5986-1301-441c-8a49-248514380e34.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[12월의 시작은 결이와 함께❤️]]></title>
+            <link>https://www.vlive.tv/video/294648</link>
+            <guid>https://www.vlive.tv/video/294648</guid>
+            <pubDate>Thu, 01 Dec 2022 10:44:34 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:25]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221201_63/1669893914990XlQIn_JPEG/9e74e91a-7169-11ed-a94b-d4f5ef58ac88_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[특별 게스트 있습니다 빨리 come on]]></title>
+            <link>https://www.vlive.tv/video/294644</link>
+            <guid>https://www.vlive.tv/video/294644</guid>
+            <pubDate>Thu, 01 Dec 2022 10:44:34 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:27]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221201_53/1669894020926ANzhx_JPEG/9e816c3b-7169-11ed-a94b-d4f5ef58ac88_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
