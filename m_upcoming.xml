@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 23:42:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 02:29:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
-            <link>https://m.vlive.tv/video/294481</link>
-            <guid>https://m.vlive.tv/video/294481</guid>
-            <pubDate>Mon, 28 Nov 2022 05:40:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221128_238/1669594765508wa7XU_JPEG/upload_85864347932712947b8777b66-157e-4e89-8663-681e9f753304.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (KPOPPIN' / 신다정 Shin Da Jung)]]></title>
             <link>https://m.vlive.tv/video/294488</link>
@@ -106,6 +96,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221130_210/1669792859660bmcr5_JPEG/upload_11387257276277875428cd2298-4d7e-4ec3-97d3-359ce45fb255.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[mini monster Birthdaysetting 2!!!!]]></title>
+            <link>https://m.vlive.tv/video/272157</link>
+            <guid>https://m.vlive.tv/video/272157</guid>
+            <pubDate>Thu, 01 Dec 2022 02:29:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 3:00</span>
+										<span class="txt">sema</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211218_94/1639796711375GzQ8F_JPEG/upload_83876405217509231884b5a01-39a9-4367-9b92-da56781d7305.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
