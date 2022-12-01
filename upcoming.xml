@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 06:48:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 07:41:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,14 +144,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221201_293/1669872815542tDkat_JPEG/upload_1139525454338613969138b009-1e4d-4e1b-aa45-60b0d4e1d046.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Arirang Radio (Radio' Clock / Dolbae 돌배)]]></title>
-            <link>https://www.vlive.tv/video/294574</link>
-            <guid>https://www.vlive.tv/video/294574</guid>
-            <pubDate>Thu, 01 Dec 2022 02:28:53 GMT</pubDate>
-            <content:encoded><![CDATA[오전 5:54]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221130_150/1669783848999ChqFO_PNG/upload_860534245326490292ff71208-749e-4fe3-9c60-a0169de998a1.png?type=f228_128" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[Simply K-Pop CON-TOUR] Preview with DRIPPIN(드리핀) | 📍Colombia _ Ep.548]]></title>
             <link>https://www.vlive.tv/video/294615</link>
             <guid>https://www.vlive.tv/video/294615</guid>
@@ -176,20 +168,28 @@
             <enclosure url="https://v-phinf.pstatic.net/20221201_27/16698769187079F2Eh_JPEG/e8de34a3-7142-11ed-8977-505dac8c3607_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[Arirang Radio / Super K-Pop] Stray Quiz]]></title>
-            <link>https://www.vlive.tv/video/294490</link>
-            <guid>https://www.vlive.tv/video/294490</guid>
-            <pubDate>Thu, 01 Dec 2022 02:28:53 GMT</pubDate>
-            <content:encoded><![CDATA[오전 7:00]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221128_215/1669595914267y8rw3_JPEG/upload_1136755492157038981a29271f-85c1-41d7-a0b9-f41591400469.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Arirang Radio (Super K-Pop / SECRET NUMBER 시크릿넘버)]]></title>
             <link>https://www.vlive.tv/video/294546</link>
             <guid>https://www.vlive.tv/video/294546</guid>
             <pubDate>Thu, 01 Dec 2022 02:28:53 GMT</pubDate>
-            <content:encoded><![CDATA[오전 7:00]]></content:encoded>
+            <content:encoded><![CDATA[오전 6:57]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221129_274/1669706244937xyQz6_JPEG/upload_11378589114936779571b9c1c0-58b2-4d89-8843-3b3f8ee11f5c.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Radio' Clock / Dolbae 돌배)]]></title>
+            <link>https://www.vlive.tv/video/294574</link>
+            <guid>https://www.vlive.tv/video/294574</guid>
+            <pubDate>Thu, 01 Dec 2022 02:28:53 GMT</pubDate>
+            <content:encoded><![CDATA[오전 7:01]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221130_150/1669783848999ChqFO_PNG/upload_860534245326490292ff71208-749e-4fe3-9c60-a0169de998a1.png?type=f228_128" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[🫡⭐️]]></title>
+            <link>https://www.vlive.tv/video/294636</link>
+            <guid>https://www.vlive.tv/video/294636</guid>
+            <pubDate>Thu, 01 Dec 2022 07:40:34 GMT</pubDate>
+            <content:encoded><![CDATA[오전 7:22]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221201_16/1669877792633PwwHJ_JPEG/18275332362341102325e88ed4-89cf-4630-a03d-d00e060408bb.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
