@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 10:42:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 13:00:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Radio'n Us / ByeolEun 별은)]]></title>
-            <link>https://m.vlive.tv/video/294474</link>
-            <guid>https://m.vlive.tv/video/294474</guid>
-            <pubDate>Wed, 30 Nov 2022 06:47:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221127_25/1669559720247VP190_JPEG/upload_858292901883900963c4c78e2-2eee-48ff-aa55-d1109a373197.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
             <link>https://m.vlive.tv/video/294659</link>
@@ -36,6 +26,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221202_138/1669942751015yoC4Q_JPEG/upload_11402240553190064428bf93cd-1ae1-4810-af9a-4e3028dde48e.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Radio' Clock / Chill Como 칠코모)]]></title>
+            <link>https://m.vlive.tv/video/294699</link>
+            <guid>https://m.vlive.tv/video/294699</guid>
+            <pubDate>Fri, 02 Dec 2022 12:59:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 6:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221202_242/1669978923348LeBS8_PNG/upload_11405861798682254626ac5f10-ccf4-452e-a79b-7044c1880b54.png?type=f274_154" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Arirang Radio (Super K-Pop / DRIPPIN 드리핀)]]></title>
