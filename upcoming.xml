@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 13:00:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 13:47:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -278,6 +278,30 @@
             <pubDate>Fri, 02 Dec 2022 12:59:52 GMT</pubDate>
             <content:encoded><![CDATA[오후 12:17]]></content:encoded>
             <enclosure url="https://vlive-thumb.pstatic.net/live/294706/thumb?type=f228_128" length="0" type="image//live/294706/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[[몬채널][B] EP.339 K-Culture Festival THE-K Concert]]></title>
+            <link>https://www.vlive.tv/video/294579</link>
+            <guid>https://www.vlive.tv/video/294579</guid>
+            <pubDate>Fri, 02 Dec 2022 13:46:45 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221130_78/1669793405514QigLn_JPEG/upload_113873123646299165cedd8bfe-91dd-4eeb-a9bb-9ee8effde918.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[N lives!]]></title>
+            <link>https://www.vlive.tv/video/294708</link>
+            <guid>https://www.vlive.tv/video/294708</guid>
+            <pubDate>Fri, 02 Dec 2022 13:46:45 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:01]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/294708/thumb?type=f228_128" length="0" type="image//live/294708/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Radio'n Us / ByeolEun 별은)]]></title>
+            <link>https://www.vlive.tv/video/294474</link>
+            <guid>https://www.vlive.tv/video/294474</guid>
+            <pubDate>Fri, 02 Dec 2022 13:46:45 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:05]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221127_25/1669559720247VP190_JPEG/upload_858292901883900963c4c78e2-2eee-48ff-aa55-d1109a373197.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
