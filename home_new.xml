@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 14:40:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 15:41:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대~한민국! 가즈아~!!]]></title>
+            <link>https://www.vlive.tv/video/294713</link>
+            <guid>https://www.vlive.tv/video/294713</guid>
+            <pubDate>Fri, 02 Dec 2022 15:40:04 GMT</pubDate>
+            <content:encoded><![CDATA[AB6IX]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/294713/thumb?type=f228_128" length="0" type="image//live/294713/thumb"/>
+        </item>
         <item>
             <title><![CDATA[ITZY(있지) "Cheshire" M/V BEHIND]]></title>
             <link>https://www.vlive.tv/video/294696</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 02 Dec 2022 12:59:00 GMT</pubDate>
             <content:encoded><![CDATA[EPEX]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221128_298/1669600605479EmMyo_JPEG/upload_11368032809033649999fb9e91-e18f-4791-9d80-30be4ac8360c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[잠깐 이야기 나누다 가요🍃]]></title>
-            <link>https://www.vlive.tv/video/294697</link>
-            <guid>https://www.vlive.tv/video/294697</guid>
-            <pubDate>Fri, 02 Dec 2022 10:41:32 GMT</pubDate>
-            <content:encoded><![CDATA[YOUNITE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221202_267/1669976982521Fdwv2_JPEG/108e92ca-722c-11ed-a6e4-d4f5ef590144_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
