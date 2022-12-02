@@ -4,16 +4,24 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 16:50:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 17:40:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[축구같이보자!!]]></title>
+            <link>https://www.vlive.tv/video/294711</link>
+            <guid>https://www.vlive.tv/video/294711</guid>
+            <pubDate>Fri, 02 Dec 2022 14:39:00 GMT</pubDate>
+            <content:encoded><![CDATA[CIX]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221203_101/1670002182217uf0H3_JPEG/ab0152f6-7264-11ed-87eb-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대~한민국! 가즈아~!!]]></title>
             <link>https://www.vlive.tv/video/294713</link>
             <guid>https://www.vlive.tv/video/294713</guid>
             <pubDate>Fri, 02 Dec 2022 15:40:04 GMT</pubDate>
             <content:encoded><![CDATA[AB6IX]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/294713/thumb?type=f228_128" length="0" type="image//live/294713/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20221203_162/1670002016921WRNEB_JPEG/36874020-7265-11ed-a645-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ITZY(있지) "Cheshire" M/V BEHIND]]></title>
@@ -22,22 +30,6 @@
             <pubDate>Fri, 02 Dec 2022 14:39:00 GMT</pubDate>
             <content:encoded><![CDATA[ITZY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221202_216/1669975127527E5m4e_JPEG/upload_86244711313152384b85240e7-5933-4236-ad8c-b87071bdf253.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대한민국 vs 포르투갈!!!! 대한민국 태극전사들 파이팅🔥🔥🔥🔥🔥]]></title>
-            <link>https://www.vlive.tv/video/294712</link>
-            <guid>https://www.vlive.tv/video/294712</guid>
-            <pubDate>Fri, 02 Dec 2022 14:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[DUSTIN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221202_182/1669991339663JAt9e_JPEG/24717066524210122efc4256-6a91-41f7-99e9-c2db2802fb4c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[축구같이보자!!]]></title>
-            <link>https://www.vlive.tv/video/294711</link>
-            <guid>https://www.vlive.tv/video/294711</guid>
-            <pubDate>Fri, 02 Dec 2022 14:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[CIX]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/294711/thumb?type=f228_128" length="0" type="image//live/294711/thumb"/>
         </item>
         <item>
             <title><![CDATA[N lives!]]></title>
@@ -126,6 +118,14 @@
             <pubDate>Fri, 02 Dec 2022 12:59:00 GMT</pubDate>
             <content:encoded><![CDATA[EPEX]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221128_298/1669600605479EmMyo_JPEG/upload_11368032809033649999fb9e91-e18f-4791-9d80-30be4ac8360c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[잠깐 이야기 나누다 가요🍃]]></title>
+            <link>https://www.vlive.tv/video/294697</link>
+            <guid>https://www.vlive.tv/video/294697</guid>
+            <pubDate>Fri, 02 Dec 2022 17:39:14 GMT</pubDate>
+            <content:encoded><![CDATA[YOUNITE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221202_267/1669976982521Fdwv2_JPEG/108e92ca-722c-11ed-a6e4-d4f5ef590144_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
