@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 04:45:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 05:40:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -23,7 +23,7 @@
             <guid>https://m.vlive.tv/video/294491</guid>
             <pubDate>Wed, 30 Nov 2022 02:12:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
+										방송취소</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221128_31/16695959524054vt1y_JPEG/upload_1136756506670475290fce1cd8-c120-4862-a8ba-5cc5fe8cf106.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
@@ -86,6 +86,26 @@
 										오전 4:00</span>
 										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221202_85/1669947044957iECBX_JPEG/upload_114026688891367033e34e2bae-8a26-40a8-9a97-2929d4cd76c2.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Radio’ Clock] Who’s Scene it? with prettylittleiris 아이리스]]></title>
+            <link>https://m.vlive.tv/video/294664</link>
+            <guid>https://m.vlive.tv/video/294664</guid>
+            <pubDate>Fri, 02 Dec 2022 05:39:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 6:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221202_207/1669942551743h3o1B_JPEG/upload_114022267648932147d3b56aea-eab5-4f17-b362-9dd1dc1fab1b.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop]Oh My K-Pop with NIve]]></title>
+            <link>https://m.vlive.tv/video/294670</link>
+            <guid>https://m.vlive.tv/video/294670</guid>
+            <pubDate>Fri, 02 Dec 2022 05:39:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221202_255/1669942997515TlAKL_JPEG/upload_114022700546043645617be947-7737-44b8-95e9-d3b921541e19.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
