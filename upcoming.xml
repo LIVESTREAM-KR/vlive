@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Dec 2022 12:57:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2022 13:40:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,14 @@
             <pubDate>Sat, 03 Dec 2022 09:39:44 GMT</pubDate>
             <content:encoded><![CDATA[오후 12:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221203_228/16700574403565GpEP_PNG/upload_1141371103396200024c6f60fd-fbe7-42be-820c-f07f625650d8.png?type=f228_128" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE] 위니와 함께하는 매일이  크리스마스🎄]]></title>
+            <link>https://www.vlive.tv/video/294728</link>
+            <guid>https://www.vlive.tv/video/294728</guid>
+            <pubDate>Sat, 03 Dec 2022 13:39:33 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:34]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221203_159/1670074467209HxuOR_JPEG/f0382178-730e-11ed-acf8-48df37ae3dc4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
