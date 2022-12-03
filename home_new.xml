@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Dec 2022 09:40:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2022 10:41:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세운 to me now #40 잠깐]]></title>
+            <link>https://www.vlive.tv/video/294723</link>
+            <guid>https://www.vlive.tv/video/294723</guid>
+            <pubDate>Sat, 03 Dec 2022 10:39:42 GMT</pubDate>
+            <content:encoded><![CDATA[정세운(Jeong Sewoon)]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/294723/thumb?type=f228_128" length="0" type="image//live/294723/thumb"/>
+        </item>
         <item>
             <title><![CDATA[[미수강] 16강학 1주차]]></title>
             <link>https://www.vlive.tv/video/294721</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 02 Dec 2022 12:59:00 GMT</pubDate>
             <content:encoded><![CDATA[LIZ ENT]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221202_265/1669982810547I91kK_JPEG/c1a8f0db-7239-11ed-acf8-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이씨유 채이 미쿠❤️💙]]></title>
-            <link>https://www.vlive.tv/video/294702</link>
-            <guid>https://www.vlive.tv/video/294702</guid>
-            <pubDate>Fri, 02 Dec 2022 12:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[LIZ ENT]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221202_37/1669982635264lh3B3_JPEG/55c9e361-7239-11ed-a645-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

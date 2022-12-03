@@ -4,9 +4,16 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Dec 2022 09:40:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2022 10:41:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세운 to me now #40 잠깐]]></title>
+            <link>https://www.vlive.tv/video/294723</link>
+            <guid>https://www.vlive.tv/video/294723</guid>
+            <pubDate>Sat, 03 Dec 2022 10:39:27 GMT</pubDate>
+            <content:encoded><![CDATA[정세운(Jeong Sewoon)]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[미수강] 16강학 1주차]]></title>
             <link>https://www.vlive.tv/video/294721</link>
@@ -398,14 +405,6 @@
             <pubDate>Thu, 01 Dec 2022 13:09:36 GMT</pubDate>
             <content:encoded><![CDATA[HEYGIRLS (헤이걸스)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221201_178/1669900080230avD9y_JPEG/182775609173025199c0f02452-4a6f-45d4-a1b9-2a9c6c628174.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진석이의 별빛라디오⭐️]]></title>
-            <link>https://www.vlive.tv/video/294656</link>
-            <guid>https://www.vlive.tv/video/294656</guid>
-            <pubDate>Thu, 01 Dec 2022 13:50:11 GMT</pubDate>
-            <content:encoded><![CDATA[지진석 (Ji jin seok)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221201_280/1669903547917fXLi5_JPEG/efa9d2b4-7180-11ed-a007-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
