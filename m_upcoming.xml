@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Dec 2022 11:39:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2022 12:57:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221202_232/1669942447853LUhdJ_JPEG/upload_11402216230049746514b719d0-f602-48ee-acf1-c1b106b679c1.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Radio’ Clock] KoreaPedia with GHOST9 SON JUNHYUNG & PRINCE (고스트나인 준형&프린스)]]></title>
+            <link>https://m.vlive.tv/video/294665</link>
+            <guid>https://m.vlive.tv/video/294665</guid>
+            <pubDate>Sat, 03 Dec 2022 12:57:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 6:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221202_285/1669942581059Mtttu_JPEG/upload_8621216881495637563104738-afbd-4209-b7f2-3c64fcc1271f.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
