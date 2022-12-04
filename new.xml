@@ -4,9 +4,16 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Dec 2022 07:40:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Dec 2022 08:47:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[령퇴근길💟]]></title>
+            <link>https://www.vlive.tv/video/294734</link>
+            <guid>https://www.vlive.tv/video/294734</guid>
+            <pubDate>Sun, 04 Dec 2022 08:46:37 GMT</pubDate>
+            <content:encoded><![CDATA[ITZY]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[IMERA] EP.164 5집 활동기 비하인드 #2]]></title>
             <link>https://www.vlive.tv/video/294709</link>
@@ -398,14 +405,6 @@
             <pubDate>Fri, 02 Dec 2022 03:03:26 GMT</pubDate>
             <content:encoded><![CDATA[E'LAST]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221202_58/1669949792300Ap9pB_JPEG/upload_1140290576598219344f04a30e-86f6-4aed-b6ce-000953460c20.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[위아이(WEi) - HAPPY BIRTHDAY KANG SEOK HWA]]></title>
-            <link>https://www.vlive.tv/video/294551</link>
-            <guid>https://www.vlive.tv/video/294551</guid>
-            <pubDate>Fri, 02 Dec 2022 03:03:26 GMT</pubDate>
-            <content:encoded><![CDATA[위아이 (WEi)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221129_255/1669717422497vUehs_JPEG/upload_859869331734538049c45d39f-b7f1-4958-bfaa-e90aa49c20a1.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
