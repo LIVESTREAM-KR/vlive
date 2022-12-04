@@ -4,7 +4,7 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Dec 2022 10:40:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Dec 2022 11:40:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sun, 04 Dec 2022 10:39:26 GMT</pubDate>
             <content:encoded><![CDATA[Weki Meki]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221204_267/1670149823503Dyy5z_JPEG/1830253604930545607ac894f6-7a3a-46ee-90f0-480ed86e69a8.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🖤#54]]></title>
+            <link>https://www.vlive.tv/video/294737</link>
+            <guid>https://www.vlive.tv/video/294737</guid>
+            <pubDate>Sun, 04 Dec 2022 11:38:38 GMT</pubDate>
+            <content:encoded><![CDATA[ITZY]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221204_167/1670150686275l5Ops_JPEG/cd16e248-73bf-11ed-87eb-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[선재(snzae) - 'Chain (Feat. Claire Hau)' M/V Teaser]]></title>
@@ -398,14 +406,6 @@
             <pubDate>Fri, 02 Dec 2022 06:43:56 GMT</pubDate>
             <content:encoded><![CDATA[Ktimes]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221202_97/1669961671745uLOqV_JPEG/upload_114041346399573968d189a808-aad0-412f-a1d1-b689303558f9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Simply K-Pop CON-TOUR] SECRET NUMBER(시크릿넘버) - ‘TAP’ _Ep.548 [4K]]]></title>
-            <link>https://www.vlive.tv/video/294674</link>
-            <guid>https://www.vlive.tv/video/294674</guid>
-            <pubDate>Fri, 02 Dec 2022 05:38:48 GMT</pubDate>
-            <content:encoded><![CDATA[ARIRANG K Pop │ 아리랑케이팝]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221202_4/16699459800892vKWK_JPEG/upload_86215510096873535b4d621ba-0e20-4e09-8e26-a7ceea811e7c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
