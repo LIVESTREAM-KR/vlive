@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 13:42:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 14:41:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -206,6 +206,22 @@
             <pubDate>Mon, 05 Dec 2022 13:42:18 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:05]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221205_52/1670236161020sqEua_JPEG/upload_865057107527643889a3757be-18fc-4292-a734-36b8751bcd1f.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기욱기욱기욱기욱기욱기욱기욱이]]></title>
+            <link>https://www.vlive.tv/video/294784</link>
+            <guid>https://www.vlive.tv/video/294784</guid>
+            <pubDate>Mon, 05 Dec 2022 14:40:56 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:16]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/294784/thumb?type=f228_128" length="0" type="image//live/294784/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[왔다여!]]></title>
+            <link>https://www.vlive.tv/video/294785</link>
+            <guid>https://www.vlive.tv/video/294785</guid>
+            <pubDate>Mon, 05 Dec 2022 14:40:56 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:32]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221205_163/1670250733114MB2HV_JPEG/92303171644726794e8cf7786-078e-49aa-a1cb-b3e88db99b72.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 13:42:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 14:41:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[왔다여!]]></title>
+            <link>https://www.vlive.tv/video/294785</link>
+            <guid>https://www.vlive.tv/video/294785</guid>
+            <pubDate>Mon, 05 Dec 2022 14:40:02 GMT</pubDate>
+            <content:encoded><![CDATA[Weki Meki]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221205_163/1670250733114MB2HV_JPEG/92303171644726794e8cf7786-078e-49aa-a1cb-b3e88db99b72.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기욱기욱기욱기욱기욱기욱기욱이]]></title>
+            <link>https://www.vlive.tv/video/294784</link>
+            <guid>https://www.vlive.tv/video/294784</guid>
+            <pubDate>Mon, 05 Dec 2022 14:40:02 GMT</pubDate>
+            <content:encoded><![CDATA[ONEWE]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/294784/thumb?type=f228_128" length="0" type="image//live/294784/thumb"/>
+        </item>
         <item>
             <title><![CDATA[Arirang Radio (Radio'n Us / g1nger&Western Kite 진저&웨스턴 카잇)]]></title>
             <link>https://www.vlive.tv/video/294782</link>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 05 Dec 2022 08:44:12 GMT</pubDate>
             <content:encoded><![CDATA[TEENTOP]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221203_163/1670036744025Nwsv3_JPEG/upload_114115559680887251566b2eec-d189-4efc-81c5-259a5c7f9a35.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TEEN TOP ON AIR - 틴탑 전역N일차 셀프 촬영기 (feat. 10개월차🫡 5개월차🫡 2주차🫡)]]></title>
-            <link>https://www.vlive.tv/video/294599</link>
-            <guid>https://www.vlive.tv/video/294599</guid>
-            <pubDate>Mon, 05 Dec 2022 08:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[TEENTOP]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221130_177/1669803071985TFstD_JPEG/upload_86072675169716872bd0fe508-3406-4c4c-aab1-395ef474527c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arirang Radio (Radio' Clock / Chill Como 칠코모)]]></title>
-            <link>https://www.vlive.tv/video/294699</link>
-            <guid>https://www.vlive.tv/video/294699</guid>
-            <pubDate>Mon, 05 Dec 2022 06:43:59 GMT</pubDate>
-            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221202_242/1669978923348LeBS8_PNG/upload_11405861798682254626ac5f10-ccf4-452e-a79b-7044c1880b54.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
