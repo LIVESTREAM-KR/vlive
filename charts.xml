@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 09:40:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 10:43:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20221204_25/16701594896084Vzot_JPEG/1830350265967163048712dc0e-93cb-42f1-9c59-48a819998989.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[령퇴근길💟]]></title>
-            <link>https://www.vlive.tv/video/294734</link>
-            <guid>https://www.vlive.tv/video/294734</guid>
-            <pubDate>Sun, 04 Dec 2022 09:39:56 GMT</pubDate>
-            <content:encoded><![CDATA[ITZY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221204_293/1670144143617fPnoB_JPEG/fd0d5177-73b0-11ed-87eb-505dac8c3721_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[SKZ VLOG] 필릭스 : Sunshine Vlog 5 in Australia]]></title>
             <link>https://www.vlive.tv/video/294649</link>
             <guid>https://www.vlive.tv/video/294649</guid>
             <pubDate>Thu, 01 Dec 2022 13:10:15 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221201_1/1669889319410Bqom8_JPEG/upload_86158106235112457296d5986-1301-441c-8a49-248514380e34.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20221201_1/1669889319410Bqom8_JPEG/upload_86158106235112457296d5986-1301-441c-8a49-248514380e34.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Run BTS! 2022 Special Episode - Telepathy Part 2]]></title>
@@ -62,6 +54,14 @@
             <pubDate>Sun, 04 Dec 2022 23:39:58 GMT</pubDate>
             <content:encoded><![CDATA[SF9]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221205_36/1670167080097H6DQL_JPEG/aa1fdab4-73e6-11ed-bcd3-48df379cca40_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[령퇴근길💟]]></title>
+            <link>https://www.vlive.tv/video/294734</link>
+            <guid>https://www.vlive.tv/video/294734</guid>
+            <pubDate>Sun, 04 Dec 2022 09:39:56 GMT</pubDate>
+            <content:encoded><![CDATA[ITZY]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221204_293/1670144143617fPnoB_JPEG/fd0d5177-73b0-11ed-87eb-505dac8c3721_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
