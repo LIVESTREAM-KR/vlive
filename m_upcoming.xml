@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 05:40:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 06:45:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Radio' Clock / Chill Como 칠코모)]]></title>
-            <link>https://m.vlive.tv/video/294699</link>
-            <guid>https://m.vlive.tv/video/294699</guid>
-            <pubDate>Fri, 02 Dec 2022 12:59:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 6:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221202_242/1669978923348LeBS8_PNG/upload_11405861798682254626ac5f10-ccf4-452e-a79b-7044c1880b54.png?type=f274_154" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Super K-Pop / DRIPPIN 드리핀)]]></title>
             <link>https://m.vlive.tv/video/294578</link>
@@ -106,6 +96,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221202_268/1669979176492AoEQs_JPEG/upload_862486975901690403583acc9-9897-4320-82de-d443ecccb013.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
+            <link>https://m.vlive.tv/video/294662</link>
+            <guid>https://m.vlive.tv/video/294662</guid>
+            <pubDate>Mon, 05 Dec 2022 06:44:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221202_265/1669942475259mvCmX_JPEG/upload_11402219102037034177f5f892-ee1b-472e-8af8-04a52ff5c70c.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
