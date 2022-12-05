@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Dec 2022 03:42:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 04:45:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정해인(Jung Hae in), 시크함과 부드러움 사이('커넥트' 언론시사회)]]></title>
+            <link>https://www.vlive.tv/video/294756</link>
+            <guid>https://www.vlive.tv/video/294756</guid>
+            <pubDate>Mon, 05 Dec 2022 04:43:55 GMT</pubDate>
+            <content:encoded><![CDATA[Ktimes]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221205_274/1670215098146R7vRy_JPEG/upload_11429481599648704147fbc776-d41d-4b24-a14a-8e39db96ad64.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
             <link>https://www.vlive.tv/video/294659</link>
@@ -398,14 +406,6 @@
             <pubDate>Fri, 02 Dec 2022 08:42:16 GMT</pubDate>
             <content:encoded><![CDATA[정예인 (YEIN)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221202_247/1669964704413LCN2j_JPEG/upload_114044262651537613606b4216-c42d-411c-aadd-a6ac89924c91.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[TEMPESTart!] EP 10. 널 위해 준비한 Wonderland]]></title>
-            <link>https://www.vlive.tv/video/294678</link>
-            <guid>https://www.vlive.tv/video/294678</guid>
-            <pubDate>Fri, 02 Dec 2022 09:39:13 GMT</pubDate>
-            <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221202_36/1669947460606MwqtX_JPEG/upload_1140271891038798234b40af31-0428-4b93-bdec-f2df80db0b7a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
