@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 07:40:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 08:48:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Tue, 06 Dec 2022 07:39:45 GMT</pubDate>
             <content:encoded><![CDATA[TRENDZ (트렌드지)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221206_25/1670311366087lSAvF_JPEG/923638046087031894caa684e-b4cb-4578-9948-20cb01852a9d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(어제는)월요일의 채솔^^]]></title>
+            <link>https://www.vlive.tv/video/294809</link>
+            <guid>https://www.vlive.tv/video/294809</guid>
+            <pubDate>Tue, 06 Dec 2022 08:46:35 GMT</pubDate>
+            <content:encoded><![CDATA[시그니처(cignature)]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/294809/thumb?type=f228_128" length="0" type="image//live/294809/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[하이]]></title>
+            <link>https://www.vlive.tv/video/294804</link>
+            <guid>https://www.vlive.tv/video/294804</guid>
+            <pubDate>Tue, 06 Dec 2022 08:46:35 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221206_207/1670308433650QoSMk_JPEG/183184036636850455236f88c4-bc0c-49e7-9c6a-82e8c623de70.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio / Radio’ Clock] Who’s Scene it? with prettylittleiris 아이리스]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 05 Dec 2022 20:39:55 GMT</pubDate>
             <content:encoded><![CDATA[DUSTIN]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221206_187/1670270612140cxVCf_JPEG/92323050677710543faf245e1-ec35-4455-9947-eccda16678ff.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올림픽 화이팅!!!!!]]></title>
-            <link>https://www.vlive.tv/video/294787</link>
-            <guid>https://www.vlive.tv/video/294787</guid>
-            <pubDate>Mon, 05 Dec 2022 17:39:12 GMT</pubDate>
-            <content:encoded><![CDATA[DUSTIN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221206_72/1670260583433CEzOh_JPEG/183136197416568640fd687f14-db31-4eed-b02d-42c94e5044d5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라아아아에엘와아아았다아아]]></title>
-            <link>https://www.vlive.tv/video/294786</link>
-            <guid>https://www.vlive.tv/video/294786</guid>
-            <pubDate>Mon, 05 Dec 2022 15:41:19 GMT</pubDate>
-            <content:encoded><![CDATA[TRENDZ (트렌드지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221206_116/1670256223624jXP3M_JPEG/15db599b-74b6-11ed-9ff0-505dac8c38f5_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

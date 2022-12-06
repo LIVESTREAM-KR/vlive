@@ -4,7 +4,7 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 07:40:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 08:48:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,21 @@
             <pubDate>Tue, 06 Dec 2022 07:39:37 GMT</pubDate>
             <content:encoded><![CDATA[TRENDZ (트렌드지)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221206_25/1670311366087lSAvF_JPEG/923638046087031894caa684e-b4cb-4578-9948-20cb01852a9d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(어제는)월요일의 채솔^^]]></title>
+            <link>https://www.vlive.tv/video/294809</link>
+            <guid>https://www.vlive.tv/video/294809</guid>
+            <pubDate>Tue, 06 Dec 2022 08:46:25 GMT</pubDate>
+            <content:encoded><![CDATA[시그니처(cignature)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[하이]]></title>
+            <link>https://www.vlive.tv/video/294804</link>
+            <guid>https://www.vlive.tv/video/294804</guid>
+            <pubDate>Tue, 06 Dec 2022 08:46:25 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221206_207/1670308433650QoSMk_JPEG/183184036636850455236f88c4-bc0c-49e7-9c6a-82e8c623de70.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio / Radio’ Clock] Who’s Scene it? with prettylittleiris 아이리스]]></title>
@@ -390,22 +405,6 @@
             <pubDate>Sun, 04 Dec 2022 12:57:46 GMT</pubDate>
             <content:encoded><![CDATA[E'LAST]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221204_141/1670162630152gw5JG_JPEG/bd63ce94-73db-11ed-a007-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[휴바와 함께하는 시간🍌]]></title>
-            <link>https://www.vlive.tv/video/294742</link>
-            <guid>https://www.vlive.tv/video/294742</guid>
-            <pubDate>Sun, 04 Dec 2022 13:38:27 GMT</pubDate>
-            <content:encoded><![CDATA[Kep1er]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221204_25/16701594896084Vzot_JPEG/1830350265967163048712dc0e-93cb-42f1-9c59-48a819998989.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나랑 수다 떨자🤍]]></title>
-            <link>https://www.vlive.tv/video/294739</link>
-            <guid>https://www.vlive.tv/video/294739</guid>
-            <pubDate>Sun, 04 Dec 2022 12:57:46 GMT</pubDate>
-            <content:encoded><![CDATA[IRRIS (아이리스)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221204_258/1670156103205Xw5CV_JPEG/183031634199459447fef8ef2b-e5ea-4101-ba50-a3140ebcf816.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
