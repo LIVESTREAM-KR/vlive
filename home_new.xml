@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 05:40:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 06:45:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하이]]></title>
+            <link>https://www.vlive.tv/video/294804</link>
+            <guid>https://www.vlive.tv/video/294804</guid>
+            <pubDate>Tue, 06 Dec 2022 06:44:15 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221206_207/1670308433650QoSMk_JPEG/183184036636850455236f88c4-bc0c-49e7-9c6a-82e8c623de70.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Radio’ Clock] Who’s Scene it? with prettylittleiris 아이리스]]></title>
+            <link>https://www.vlive.tv/video/294664</link>
+            <guid>https://www.vlive.tv/video/294664</guid>
+            <pubDate>Tue, 06 Dec 2022 06:44:15 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221202_207/1669942551743h3o1B_JPEG/upload_114022267648932147d3b56aea-eab5-4f17-b362-9dd1dc1fab1b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자기전 잠깐]]></title>
             <link>https://www.vlive.tv/video/294800</link>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 05 Dec 2022 14:40:02 GMT</pubDate>
             <content:encoded><![CDATA[ONEWE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221206_270/1670254658467owWQc_JPEG/c4c45d30-74b1-11ed-be03-505dac8c37f3_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arirang Radio (Radio'n Us / g1nger&Western Kite 진저&웨스턴 카잇)]]></title>
-            <link>https://www.vlive.tv/video/294782</link>
-            <guid>https://www.vlive.tv/video/294782</guid>
-            <pubDate>Mon, 05 Dec 2022 13:41:25 GMT</pubDate>
-            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221205_52/1670236161020sqEua_JPEG/upload_865057107527643889a3757be-18fc-4292-a734-36b8751bcd1f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[몬채널][B] EP.340 HYUNGWON Lee X W]]></title>
-            <link>https://www.vlive.tv/video/294753</link>
-            <guid>https://www.vlive.tv/video/294753</guid>
-            <pubDate>Mon, 05 Dec 2022 13:00:57 GMT</pubDate>
-            <content:encoded><![CDATA[MONSTA X]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221205_248/16702067543299lmDM_JPEG/upload_114286481682282521d37b936d-cd24-403e-baa3-ade41cf735ba.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
