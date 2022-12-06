@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Dec 2022 03:42:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 04:47:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[ASC Live Ep.551 (TEMPEST/템페스트)]]></title>
-            <link>https://m.vlive.tv/video/294677</link>
-            <guid>https://m.vlive.tv/video/294677</guid>
-            <pubDate>Fri, 02 Dec 2022 04:44:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 4:00</span>
-										<span class="txt">After School Club │ 애프터스쿨클럽</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221202_85/1669947044957iECBX_JPEG/upload_114026688891367033e34e2bae-8a26-40a8-9a97-2929d4cd76c2.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Radio’ Clock] Who’s Scene it? with prettylittleiris 아이리스]]></title>
             <link>https://m.vlive.tv/video/294664</link>
@@ -106,6 +96,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221202_77/1669943052143B78KT_JPEG/upload_1140227678438876052577e19d-cbf5-4d23-8f50-5471b35aa63e.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE] SIMPLY K-POP CON-TOUR (📍USA) | woo!ah!, EPEX, DRIPPIN, TEMPEST, Lapillus, NTX, CSR, TRENDZ]]></title>
+            <link>https://m.vlive.tv/video/294781</link>
+            <guid>https://m.vlive.tv/video/294781</guid>
+            <pubDate>Tue, 06 Dec 2022 04:47:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221205_127/1670234978302sCWLd_PNG/upload_114314651104525488d8d21d6c-b1b1-4039-a0c1-b26b5fee59e9.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
