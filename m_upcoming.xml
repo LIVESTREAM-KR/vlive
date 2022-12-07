@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 06:45:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 07:41:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Super K-Pop / gil gun 길건)]]></title>
-            <link>https://m.vlive.tv/video/294700</link>
-            <guid>https://m.vlive.tv/video/294700</guid>
-            <pubDate>Mon, 05 Dec 2022 05:39:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221202_268/1669979176492AoEQs_JPEG/upload_862486975901690403583acc9-9897-4320-82de-d443ecccb013.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
             <link>https://m.vlive.tv/video/294662</link>
@@ -55,7 +45,7 @@
             <content:encoded><![CDATA[<span class="time">
 										오전 10:00</span>
 										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221205_127/1670234978302sCWLd_PNG/upload_114314651104525488d8d21d6c-b1b1-4039-a0c1-b26b5fee59e9.png?type=f274_154" length="0" type="image/png"/>
+            <enclosure url="https://v-phinf.pstatic.net/20221207_62/1670398098177YxYLx_PNG/upload_8666770177955949972fc10d2-a3e7-4aed-89c2-d75e862d97ec.png?type=f274_154" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] What's Up in Jeju with Eunice Kim]]></title>
@@ -66,6 +56,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221202_260/1669942516936cXYc8_JPEG/upload_114022223041212158147a59fb-baf7-4a4a-bdd8-a82a585ae7d4.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Simply K-Pop CON-TOUR (심플리케이팝 콘투어) Ep.549]]></title>
+            <link>https://m.vlive.tv/video/294840</link>
+            <guid>https://m.vlive.tv/video/294840</guid>
+            <pubDate>Wed, 07 Dec 2022 07:40:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:00</span>
+										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221207_207/16703966788094YWo8_PNG/upload_1144763776901272505e6656e3-ba0b-4cc9-ba04-90d08cc39f72.png?type=f274_154" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio / Radio’ Clock] INSSA Party with prettylittleiris & BOiTELLO아이리스&보이텔로]]></title>
@@ -98,14 +98,14 @@
             <enclosure url="https://v-phinf.pstatic.net/20221205_161/1670236209586fMSLi_JPEG/upload_1143158911608022613276b344-cf86-452f-9918-246e2209e828.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[mini monster Birthdaysetting 2!!!!]]></title>
-            <link>https://m.vlive.tv/video/272157</link>
-            <guid>https://m.vlive.tv/video/272157</guid>
-            <pubDate>Wed, 07 Dec 2022 06:45:29 GMT</pubDate>
+            <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
+            <link>https://m.vlive.tv/video/294843</link>
+            <guid>https://m.vlive.tv/video/294843</guid>
+            <pubDate>Wed, 07 Dec 2022 07:40:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="time">
-										오전 3:00</span>
-										<span class="txt">sema</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211218_94/1639796711375GzQ8F_JPEG/upload_83876405217509231884b5a01-39a9-4367-9b92-da56781d7305.jpg?type=f274_154" length="0" type="image/jpg"/>
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221207_53/1670397320896Fw2yW_JPEG/upload_1144769021294689610fd45040-c3b2-4a31-8fb9-d56251ef3586.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
