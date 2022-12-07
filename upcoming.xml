@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 10:45:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 11:40:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -153,14 +153,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221207_283/1670384506166UzvNB_JPEG/upload_114464230544467043057b0854-7065-42e2-862c-bb5c9ce33709.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[💜 20221207 HAPPY SOWON DAY 💜]]></title>
-            <link>https://www.vlive.tv/video/294866</link>
-            <guid>https://www.vlive.tv/video/294866</guid>
-            <pubDate>Wed, 07 Dec 2022 10:44:42 GMT</pubDate>
-            <content:encoded><![CDATA[오전 10:03]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221207_174/1670407413347fehoD_JPEG/183283027337741674fd590e1f-5a30-4d71-bc02-75803e02dc36.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[HAPPY HANGYUL DAY 😍💖]]></title>
             <link>https://www.vlive.tv/video/294860</link>
             <guid>https://www.vlive.tv/video/294860</guid>
@@ -174,7 +166,30 @@
             <guid>https://www.vlive.tv/video/294867</guid>
             <pubDate>Wed, 07 Dec 2022 10:44:42 GMT</pubDate>
             <content:encoded><![CDATA[오전 10:41]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/294867/thumb?type=f228_128" length="0" type="image//live/294867/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[💜 20221207 HAPPY SOWON DAY 💜]]></title>
+            <link>https://www.vlive.tv/video/294866</link>
+            <guid>https://www.vlive.tv/video/294866</guid>
+            <pubDate>Wed, 07 Dec 2022 10:44:42 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:02]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221207_174/1670407413347fehoD_JPEG/183283027337741674fd590e1f-5a30-4d71-bc02-75803e02dc36.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[혁모저모 #17 (Talk 토크으~❄☃️)]]></title>
+            <link>https://www.vlive.tv/video/294869</link>
+            <guid>https://www.vlive.tv/video/294869</guid>
+            <pubDate>Wed, 07 Dec 2022 11:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:05]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221207_155/1670411135591sHcFu_JPEG/21198506215520391a8525c79-ada6-4909-ba51-f4846e95aee1.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[혁모저모 #17 (Talk 토크으~❄☃️)]]></title>
+            <link>https://www.vlive.tv/video/294868</link>
+            <guid>https://www.vlive.tv/video/294868</guid>
+            <pubDate>Wed, 07 Dec 2022 11:39:48 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:05]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221207_184/1670411012202exOCv_JPEG/1832866261875749693b371690-ad84-447f-9c69-7e0bfb801735.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
