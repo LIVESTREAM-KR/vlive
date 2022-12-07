@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 03:08:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 03:44:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고경표(Ko Kyung pyo), 손하트도 훈훈 ('최파타' 출근길)]]></title>
+            <link>https://www.vlive.tv/video/294831</link>
+            <guid>https://www.vlive.tv/video/294831</guid>
+            <pubDate>Wed, 07 Dec 2022 03:42:50 GMT</pubDate>
+            <content:encoded><![CDATA[Ktimes]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221207_35/1670383885469LS0Rw_JPEG/upload_114463611090814771bf2c472a-547a-42c5-8412-b06a39d4b1bb.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthew]]></title>
             <link>https://www.vlive.tv/video/294661</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 06 Dec 2022 13:03:45 GMT</pubDate>
             <content:encoded><![CDATA[DKZ]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221206_137/167032274601989enr_JPEG/upload_1144024452234424629ac2283a-f18f-4a63-96fd-9ea3e302cbc9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[CIX-tory] STORY.107 제13회 INK 콘서트 비하인드]]></title>
-            <link>https://www.vlive.tv/video/294802</link>
-            <guid>https://www.vlive.tv/video/294802</guid>
-            <pubDate>Tue, 06 Dec 2022 13:03:45 GMT</pubDate>
-            <content:encoded><![CDATA[CIX]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221206_89/1670305248943dIx5X_JPEG/upload_11438496651885385843861604-1fee-49b8-9bb6-5b1ddd2d8b8c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
