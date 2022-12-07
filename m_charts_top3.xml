@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ CHARTS </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 03:44:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 04:45:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20221206_87/1670324202699EjatE_JPEG/upload_8659305335430516281d4452e-42bd-466d-9a3e-3cdf198a020f.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[🥳생일🥳]]></title>
-            <link>https://m.vlive.tv/video/294798</link>
-            <guid>https://m.vlive.tv/video/294798</guid>
-            <pubDate>Tue, 06 Dec 2022 05:39:23 GMT</pubDate>
-            <content:encoded><![CDATA[DKZ]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221206_285/1670303793398uSP6X_JPEG/9f2fd363-7523-11ed-8977-505dac8c3607_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[ #예지 ]🖤#55]]></title>
             <link>https://m.vlive.tv/video/294821</link>
             <guid>https://m.vlive.tv/video/294821</guid>
             <pubDate>Tue, 06 Dec 2022 16:51:15 GMT</pubDate>
             <content:encoded><![CDATA[ITZY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221207_115/1670341672135PSVMv_PNG/upload_86611272105637277883587ca-b145-41cd-8e3e-8e346e4b13b7.png?type=f640_360_wp" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[🥳생일🥳]]></title>
+            <link>https://m.vlive.tv/video/294798</link>
+            <guid>https://m.vlive.tv/video/294798</guid>
+            <pubDate>Tue, 06 Dec 2022 05:39:23 GMT</pubDate>
+            <content:encoded><![CDATA[DKZ]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221206_285/1670303793398uSP6X_JPEG/9f2fd363-7523-11ed-8977-505dac8c3607_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
