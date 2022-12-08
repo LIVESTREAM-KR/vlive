@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 16:50:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 17:43:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -246,6 +246,14 @@
             <pubDate>Thu, 08 Dec 2022 15:48:05 GMT</pubDate>
             <content:encoded><![CDATA[오후 4:10]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221209_60/1670515811712Xk0EN_JPEG/02647cf0-7712-11ed-a6e4-d4f5ef590144_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[선재(snzae) - 'Chain (Feat. Claire Hau)' M/V]]></title>
+            <link>https://www.vlive.tv/video/294903</link>
+            <guid>https://www.vlive.tv/video/294903</guid>
+            <pubDate>Thu, 08 Dec 2022 17:42:44 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:24]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221209_200/1670520208725VaoeM_JPEG/upload_114599834160144548d317897f-7237-4bd2-95b6-82008b1dcdc8.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
