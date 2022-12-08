@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 02:08:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 03:01:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20221207_86/1670418043601F5jKK_JPEG/640358198460820646a67cd8a-5769-4f93-aa34-e9ef2153e556.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[ #예지 ]🖤#55]]></title>
-            <link>https://www.vlive.tv/video/294821</link>
-            <guid>https://www.vlive.tv/video/294821</guid>
-            <pubDate>Wed, 07 Dec 2022 16:50:34 GMT</pubDate>
-            <content:encoded><![CDATA[ITZY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221207_115/1670341672135PSVMv_PNG/upload_86611272105637277883587ca-b145-41cd-8e3e-8e346e4b13b7.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[ITZY(있지) "Cheshire" BEHIND #3]]></title>
             <link>https://www.vlive.tv/video/294857</link>
             <guid>https://www.vlive.tv/video/294857</guid>
             <pubDate>Thu, 08 Dec 2022 02:06:54 GMT</pubDate>
             <content:encoded><![CDATA[ITZY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221207_57/1670402397717MEoLy_JPEG/upload_114482124442507884ce7f83a8-d212-40a1-b980-f6af0d7cc7a0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[ #예지 ]🖤#55]]></title>
+            <link>https://www.vlive.tv/video/294821</link>
+            <guid>https://www.vlive.tv/video/294821</guid>
+            <pubDate>Wed, 07 Dec 2022 16:50:34 GMT</pubDate>
+            <content:encoded><![CDATA[ITZY]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221207_115/1670341672135PSVMv_PNG/upload_86611272105637277883587ca-b145-41cd-8e3e-8e346e4b13b7.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
