@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 03:01:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 03:42:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김소원(KIM SO WON) - HAPPY BIRTHDAY KIM SO WON]]></title>
+            <link>https://www.vlive.tv/video/294635</link>
+            <guid>https://www.vlive.tv/video/294635</guid>
+            <pubDate>Thu, 08 Dec 2022 03:41:18 GMT</pubDate>
+            <content:encoded><![CDATA[OUI ENTERTAINMENT]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221201_267/1669877555657afRfV_JPEG/upload_1139572154032038627cabda3d-046d-44a4-8fac-a9daff853785.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
             <link>https://www.vlive.tv/video/294662</link>
@@ -399,14 +407,6 @@
             <pubDate>Tue, 06 Dec 2022 09:39:27 GMT</pubDate>
             <content:encoded><![CDATA[ITZY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221206_162/1670314342364NJ0U5_JPEG/upload_865839311339797358a1bafc4-42eb-4612-8c9d-c233709634f9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[불닭까지 마스터 해버린(?) X선비 안타 [차트를 달리는 선비] EP05]]></title>
-            <link>https://www.vlive.tv/video/294754</link>
-            <guid>https://www.vlive.tv/video/294754</guid>
-            <pubDate>Tue, 06 Dec 2022 09:39:27 GMT</pubDate>
-            <content:encoded><![CDATA[콬TV (WHYNOT)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221205_194/1670210785788P3KKb_JPEG/upload_11429031179872474810c0ac4f-af8b-488d-a511-f990b637ec72.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
