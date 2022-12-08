@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 03:42:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 05:40:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (KPOPPIN' / 니엘 NIEL)]]></title>
-            <link>https://m.vlive.tv/video/294669</link>
-            <guid>https://m.vlive.tv/video/294669</guid>
-            <pubDate>Mon, 05 Dec 2022 11:39:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221202_152/1669942940285pMHE9_JPEG/upload_114022643731987603aac10284-7778-46b9-b836-71eb6259344f.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Super K-Pop] Stray Quiz]]></title>
             <link>https://m.vlive.tv/video/294671</link>
@@ -35,7 +25,7 @@
             <content:encoded><![CDATA[<span class="time">
 										오전 10:00</span>
 										<span class="txt">ARIRANG K Pop │ 아리랑케이팝</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221207_62/1670398098177YxYLx_PNG/upload_8666770177955949972fc10d2-a3e7-4aed-89c2-d75e862d97ec.png?type=f274_154" length="0" type="image/png"/>
+            <enclosure url="https://v-phinf.pstatic.net/20221208_37/16704726794372hQVc_PNG/upload_114552410772354505a5d9d709-8541-47fe-a830-7a3b04891913.png?type=f274_154" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Happy Birthday CHAN 🎂🎉]]></title>
@@ -96,6 +86,26 @@
 										오전 11:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221205_161/1670236209586fMSLi_JPEG/upload_1143158911608022613276b344-cf86-452f-9918-246e2209e828.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
+            <link>https://m.vlive.tv/video/294843</link>
+            <guid>https://m.vlive.tv/video/294843</guid>
+            <pubDate>Thu, 08 Dec 2022 05:39:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221207_53/1670397320896Fw2yW_JPEG/upload_1144769021294689610fd45040-c3b2-4a31-8fb9-d56251ef3586.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Radio' Clock / PERC%NT 퍼센트)]]></title>
+            <link>https://m.vlive.tv/video/294862</link>
+            <guid>https://m.vlive.tv/video/294862</guid>
+            <pubDate>Thu, 08 Dec 2022 05:39:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 6:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221207_277/1670405653859S6nQa_PNG/upload_1144849613422165185f88abff-33b6-4e9f-9619-d5a4a7f801a5.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
