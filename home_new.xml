@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 19:40:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 20:43:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,6 +64,14 @@
             <enclosure url="https://v-phinf.pstatic.net/20221210_155/1670599605137Jz9qR_JPEG/09550786-77d5-11ed-9d68-48df379ccacc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[삐.삐.삐.❤️]]></title>
+            <link>https://www.vlive.tv/video/294933</link>
+            <guid>https://www.vlive.tv/video/294933</guid>
+            <pubDate>Fri, 09 Dec 2022 20:42:05 GMT</pubDate>
+            <content:encoded><![CDATA[이달의 소녀(LOONA)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221210_12/1670615024863vLWEb_JPEG/19511720-77f9-11ed-bf7a-505dac8c385b_05.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Hi-ris] IRRIS (아이리스) 'Stay W!th Me' Performance Video Behind]]></title>
             <link>https://www.vlive.tv/video/294899</link>
             <guid>https://www.vlive.tv/video/294899</guid>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 09 Dec 2022 14:43:57 GMT</pubDate>
             <content:encoded><![CDATA[AB6IX]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221209_260/1670565834682YBeWF_JPEG/upload_114645529834733141267dbe4a-271c-4c12-98de-3d3ee66628df.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🐍]]></title>
-            <link>https://www.vlive.tv/video/294930</link>
-            <guid>https://www.vlive.tv/video/294930</guid>
-            <pubDate>Fri, 09 Dec 2022 10:41:34 GMT</pubDate>
-            <content:encoded><![CDATA[TWICE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221209_250/1670583473302xtlBh_JPEG/01b3e6a8-77b0-11ed-a6e4-d4f5ef590144_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
