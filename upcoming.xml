@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Dec 2022 12:58:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Dec 2022 14:40:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -102,6 +102,28 @@
             <pubDate>Sat, 10 Dec 2022 10:40:42 GMT</pubDate>
             <content:encoded><![CDATA[오후 12:18]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221210_9/1670674726354JdgW5_JPEG/5f8da316-7883-11ed-a6e4-d4f5ef590144_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[몬채널][B] EP.342 MINHYUK NFL X DAZED]]></title>
+            <link>https://www.vlive.tv/video/294915</link>
+            <guid>https://www.vlive.tv/video/294915</guid>
+            <pubDate>Sat, 10 Dec 2022 14:39:37 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221209_79/16705624902654Qcyh_JPEG/upload_868320846519100056a234544-1ee5-4bce-bddf-d6a44f3dd50e.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오사카 셂]]></title>
+            <link>https://www.vlive.tv/video/294955</link>
+            <guid>https://www.vlive.tv/video/294955</guid>
+            <pubDate>Sat, 10 Dec 2022 14:39:37 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:08]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🌚]]></title>
+            <link>https://www.vlive.tv/video/294956</link>
+            <guid>https://www.vlive.tv/video/294956</guid>
+            <pubDate>Sat, 10 Dec 2022 14:39:37 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:10]]></content:encoded>
         </item>
     </channel>
 </rss>
