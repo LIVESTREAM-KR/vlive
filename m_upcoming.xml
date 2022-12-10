@@ -4,9 +4,19 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 23:41:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Dec 2022 02:00:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🎂Happy Daniel Day🎂]]></title>
+            <link>https://m.vlive.tv/video/294943</link>
+            <guid>https://m.vlive.tv/video/294943</guid>
+            <pubDate>Sat, 10 Dec 2022 01:59:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 8:30</span>
+										<span class="txt">강다니엘 (KANGDANIEL)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221210_34/1670634007906c2mT6_JPEG/upload_114712466381385212476b743f-aba1-4798-af26-332790a0d69c.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
             <link>https://m.vlive.tv/video/294843</link>
@@ -86,16 +96,6 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221207_36/1670398044964ULQD8_JPEG/upload_11447763449744764424e03347-f606-42fa-9e87-e8d04e985f1a.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthew]]></title>
-            <link>https://m.vlive.tv/video/294845</link>
-            <guid>https://m.vlive.tv/video/294845</guid>
-            <pubDate>Fri, 09 Dec 2022 07:39:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221207_36/1670397473731uTXmC_JPEG/upload_114477154204913068e3a105f1-14d6-4bd6-8b38-89fb494962ce.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
