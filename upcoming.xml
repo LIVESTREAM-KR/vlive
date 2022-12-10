@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Dec 2022 11:43:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Dec 2022 12:58:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,13 +72,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221210_34/1670634007906c2mT6_JPEG/upload_114712466381385212476b743f-aba1-4798-af26-332790a0d69c.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[🎂12.10 RANO DAY🎂]]></title>
-            <link>https://www.vlive.tv/video/294954</link>
-            <guid>https://www.vlive.tv/video/294954</guid>
-            <pubDate>Sat, 10 Dec 2022 10:40:42 GMT</pubDate>
-            <content:encoded><![CDATA[오전 10:38]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[EPEX:GO] EP.26 MAPS 11월호 화보 비하인드]]></title>
             <link>https://www.vlive.tv/video/294901</link>
             <guid>https://www.vlive.tv/video/294901</guid>
@@ -101,6 +94,14 @@
             <pubDate>Sat, 10 Dec 2022 11:42:53 GMT</pubDate>
             <content:encoded><![CDATA[오전 11:01]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221210_86/16706661015779rcBU_JPEG/upload_869354677004349487745b256-3357-491a-a945-a6f4854feddc.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🎂12.10 RANO DAY🎂]]></title>
+            <link>https://www.vlive.tv/video/294954</link>
+            <guid>https://www.vlive.tv/video/294954</guid>
+            <pubDate>Sat, 10 Dec 2022 10:40:42 GMT</pubDate>
+            <content:encoded><![CDATA[오후 12:18]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221210_9/1670674726354JdgW5_JPEG/5f8da316-7883-11ed-a6e4-d4f5ef590144_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
