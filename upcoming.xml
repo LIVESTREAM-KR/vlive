@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Dec 2022 09:40:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Dec 2022 10:41:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,6 +70,14 @@
             <pubDate>Sat, 10 Dec 2022 01:59:43 GMT</pubDate>
             <content:encoded><![CDATA[오전 9:18]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221210_34/1670634007906c2mT6_JPEG/upload_114712466381385212476b743f-aba1-4798-af26-332790a0d69c.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🎂12.10 RANO DAY🎂]]></title>
+            <link>https://www.vlive.tv/video/294954</link>
+            <guid>https://www.vlive.tv/video/294954</guid>
+            <pubDate>Sat, 10 Dec 2022 10:40:42 GMT</pubDate>
+            <content:encoded><![CDATA[오전 10:38]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/294954/thumb?type=f228_128" length="0" type="image//live/294954/thumb"/>
         </item>
     </channel>
 </rss>
