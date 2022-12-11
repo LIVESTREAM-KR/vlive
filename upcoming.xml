@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.vlive.tv/upcoming?lang=ko</id>
-    <title>V LIVE ─ 일정표</title>
-    <updated>2022-12-11T03:43:22.205Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.vlive.tv/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Good morning shu coming]]></title>
-        <id>https://www.vlive.tv/video/294961</id>
-        <link href="https://www.vlive.tv/video/294961"/>
-        <updated>2022-12-11T03:05:35.926Z</updated>
-        <content type="html"><![CDATA[오전 2:50]]></content>
-    </entry>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>V LIVE ─ 일정표</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sun, 11 Dec 2022 04:50:03 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Good morning shu coming]]></title>
+            <link>https://www.vlive.tv/video/294961</link>
+            <guid>https://www.vlive.tv/video/294961</guid>
+            <pubDate>Sun, 11 Dec 2022 03:05:35 GMT</pubDate>
+            <content:encoded><![CDATA[오전 4:06]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221211_136/1670733554233Rka1q_JPEG/158d3c12-7908-11ed-87eb-505dac8c3721_01.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
