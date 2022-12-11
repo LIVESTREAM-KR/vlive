@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Dec 2022 12:59:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Dec 2022 14:42:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,37 @@
             <pubDate>Sun, 11 Dec 2022 11:39:34 GMT</pubDate>
             <content:encoded><![CDATA[오후 12:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221211_214/1670757813565gUL70_PNG/upload_114837351283037800fef2f361-6f5e-4248-a486-ade8f91b66eb.png?type=f228_128" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[여기는 바로!!!!]]></title>
+            <link>https://www.vlive.tv/video/294983</link>
+            <guid>https://www.vlive.tv/video/294983</guid>
+            <pubDate>Sun, 11 Dec 2022 14:42:24 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:14]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221211_50/1670768083240HJ9nW_JPEG/1836436972344568697639ea67-99e0-4d6a-a659-79f6fa691467.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[여기가 어디!!???🤔]]></title>
+            <link>https://www.vlive.tv/video/294982</link>
+            <guid>https://www.vlive.tv/video/294982</guid>
+            <pubDate>Sun, 11 Dec 2022 14:42:24 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:16]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221211_219/1670767759423ctGU7_JPEG/92820197960855295f345d49e-8035-472c-8aea-6c479e167eef.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[LIVE] 우빈&민희]]></title>
+            <link>https://www.vlive.tv/video/294984</link>
+            <guid>https://www.vlive.tv/video/294984</guid>
+            <pubDate>Sun, 11 Dec 2022 14:42:24 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:22]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[월요일 이겨내는 방송🐢]]></title>
+            <link>https://www.vlive.tv/video/294985</link>
+            <guid>https://www.vlive.tv/video/294985</guid>
+            <pubDate>Sun, 11 Dec 2022 14:42:24 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:39]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221211_27/1670769546086Usl5W_JPEG/18364507504505990438f1a50e-ec8c-4e26-8060-14fe6082811e.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
