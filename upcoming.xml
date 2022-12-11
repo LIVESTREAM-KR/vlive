@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Dec 2022 16:49:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Dec 2022 17:40:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,13 +64,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221211_161/1670738226935KbR9g_JPEG/upload_87007775074669350a5491b92-9923-49d5-852f-df44ef6dceee.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오랜만이야~👋🎸🎶🎤]]></title>
-            <link>https://www.vlive.tv/video/294987</link>
-            <guid>https://www.vlive.tv/video/294987</guid>
-            <pubDate>Sun, 11 Dec 2022 15:42:48 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:10]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[LIVE] 우빈&민희]]></title>
             <link>https://www.vlive.tv/video/294984</link>
             <guid>https://www.vlive.tv/video/294984</guid>
@@ -101,6 +94,14 @@
             <pubDate>Sun, 11 Dec 2022 16:48:33 GMT</pubDate>
             <content:encoded><![CDATA[오후 4:31]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221212_152/1670776303363z219P_JPEG/fd9a288f-7970-11ed-bf7a-505dac8c385b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오랜만이야~👋🎸🎶🎤]]></title>
+            <link>https://www.vlive.tv/video/294987</link>
+            <guid>https://www.vlive.tv/video/294987</guid>
+            <pubDate>Sun, 11 Dec 2022 15:42:48 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:29]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221212_207/1670779794907r4QTG_JPEG/fcb78cd6-7977-11ed-87eb-505dac8c3721_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
