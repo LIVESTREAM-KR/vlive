@@ -4,9 +4,24 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 11 Dec 2022 09:40:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Dec 2022 10:41:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[얼마만이야🥹]]></title>
+            <link>https://www.vlive.tv/video/294980</link>
+            <guid>https://www.vlive.tv/video/294980</guid>
+            <pubDate>Sun, 11 Dec 2022 10:39:42 GMT</pubDate>
+            <content:encoded><![CDATA[AB6IX]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[잠들기전에!!!]]></title>
+            <link>https://www.vlive.tv/video/294979</link>
+            <guid>https://www.vlive.tv/video/294979</guid>
+            <pubDate>Sun, 11 Dec 2022 10:39:42 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221211_62/1670751797021r3dqz_JPEG/cdef0834-7937-11ed-9f92-48df379cc9e4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Good morning shu coming]]></title>
             <link>https://www.vlive.tv/video/294961</link>
@@ -390,22 +405,6 @@
             <pubDate>Fri, 09 Dec 2022 09:39:28 GMT</pubDate>
             <content:encoded><![CDATA[C9 Entertainment]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221208_218/1670496983408cAPdd_JPEG/upload_1145766764626037562c1b40aa-0d2a-4317-94fd-3ad2ffbb0ff6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Radio’ Clock] INSSA Party with prettylittleiris & BOiTELLO아이리스&보이텔로]]></title>
-            <link>https://www.vlive.tv/video/294666</link>
-            <guid>https://www.vlive.tv/video/294666</guid>
-            <pubDate>Fri, 09 Dec 2022 06:43:48 GMT</pubDate>
-            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221202_77/1669942608364pia78_JPEG/upload_114022325317414968078e3800-bedf-4f9f-a6c7-50848c3b3d8f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쀼]]></title>
-            <link>https://www.vlive.tv/video/294920</link>
-            <guid>https://www.vlive.tv/video/294920</guid>
-            <pubDate>Fri, 09 Dec 2022 06:43:48 GMT</pubDate>
-            <content:encoded><![CDATA[KIM SO WON (김소원)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221209_77/16705658482622nJ6u_JPEG/108a90f9-7787-11ed-acf8-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
