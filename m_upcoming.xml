@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 10:43:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 13:02:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Radio'n Us / homzone 홈존)]]></title>
-            <link>https://m.vlive.tv/video/294931</link>
-            <guid>https://m.vlive.tv/video/294931</guid>
-            <pubDate>Fri, 09 Dec 2022 14:44:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221209_97/1670582948856RjQDl_JPEG/upload_868524873106813272a13900d-7001-414b-8e0d-58478ef6ab03.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Welcome to Korea with Kim Min Ji]]></title>
             <link>https://m.vlive.tv/video/294844</link>
@@ -106,6 +96,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221212_207/16708046582639tclr_JPEG/upload_87074231038559043f52ea6b0-a174-42be-a240-a346c28f92a0.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Radio' Clock / LeeWonil 이원일)]]></title>
+            <link>https://m.vlive.tv/video/294865</link>
+            <guid>https://m.vlive.tv/video/294865</guid>
+            <pubDate>Mon, 12 Dec 2022 13:02:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 6:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221207_300/1670405636239oT63D_PNG/upload_86675193942408781d8f7b375-b03e-48db-9240-e6c18fb1378d.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
