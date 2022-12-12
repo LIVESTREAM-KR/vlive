@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 04:44:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 05:40:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (KPOPPIN' / 첫사랑 CSR)]]></title>
-            <link>https://m.vlive.tv/video/294989</link>
-            <guid>https://m.vlive.tv/video/294989</guid>
-            <pubDate>Mon, 12 Dec 2022 02:07:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221212_163/1670804158908jQlXX_JPEG/upload_1148838507103585769d206007-1dab-40ce-8972-bf76a737db8c.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (Radio' Clock / PERC%NT 퍼센트)]]></title>
             <link>https://m.vlive.tv/video/294862</link>
@@ -106,6 +96,16 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221207_289/1670397886180U4PYN_JPEG/upload_114477568853437585467d76cc-fd1d-4b9a-9d8b-656b2ebecab4.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Radio’ Clock] KoreaPedia with GHOST9 SON JUNHYUNG & PRINCE (고스트나인 준형&프린스)]]></title>
+            <link>https://m.vlive.tv/video/294849</link>
+            <guid>https://m.vlive.tv/video/294849</guid>
+            <pubDate>Mon, 12 Dec 2022 05:39:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 6:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221207_5/1670397784038nARel_JPEG/upload_11447748183344182645606c80-83fe-4ee0-85c7-2e2aa243757d.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
