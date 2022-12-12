@@ -4,7 +4,7 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 05:40:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 06:45:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 12 Dec 2022 05:38:47 GMT</pubDate>
             <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221212_163/1670804158908jQlXX_JPEG/upload_1148838507103585769d206007-1dab-40ce-8972-bf76a737db8c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Radio' Clock / PERC%NT 퍼센트)]]></title>
+            <link>https://www.vlive.tv/video/294862</link>
+            <guid>https://www.vlive.tv/video/294862</guid>
+            <pubDate>Mon, 12 Dec 2022 06:44:32 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221207_277/1670405653859S6nQa_PNG/upload_1144849613422165185f88abff-33b6-4e9f-9619-d5a4a7f801a5.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 고무탄으로 경비를 뚫고 아이를 구해야한다 | 종이의 집: 공동경제구역 파트2]]></title>
@@ -398,14 +406,6 @@
             <pubDate>Fri, 09 Dec 2022 14:43:49 GMT</pubDate>
             <content:encoded><![CDATA[AB6IX]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221209_260/1670565834682YBeWF_JPEG/upload_114645529834733141267dbe4a-271c-4c12-98de-3d3ee66628df.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🐍]]></title>
-            <link>https://www.vlive.tv/video/294930</link>
-            <guid>https://www.vlive.tv/video/294930</guid>
-            <pubDate>Fri, 09 Dec 2022 10:41:26 GMT</pubDate>
-            <content:encoded><![CDATA[TWICE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221209_250/1670583473302xtlBh_JPEG/01b3e6a8-77b0-11ed-a6e4-d4f5ef590144_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
