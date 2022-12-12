@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 06:45:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 07:40:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,14 +24,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221212_81/1670807652343c9XK2_JPEG/upload_114887328004237590d44e3a52-7321-4221-9224-5a9f10420e9e.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Arirang Radio (Radio' Clock / PERC%NT 퍼센트)]]></title>
-            <link>https://www.vlive.tv/video/294862</link>
-            <guid>https://www.vlive.tv/video/294862</guid>
-            <pubDate>Mon, 12 Dec 2022 02:07:27 GMT</pubDate>
-            <content:encoded><![CDATA[오전 5:56]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221207_277/1670405653859S6nQa_PNG/upload_1144849613422165185f88abff-33b6-4e9f-9619-d5a4a7f801a5.png?type=f228_128" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[Arirang Radio (KPOPPIN' / 첫사랑 CSR)]]></title>
             <link>https://www.vlive.tv/video/294989</link>
             <guid>https://www.vlive.tv/video/294989</guid>
@@ -44,8 +36,16 @@
             <link>https://www.vlive.tv/video/294863</link>
             <guid>https://www.vlive.tv/video/294863</guid>
             <pubDate>Mon, 12 Dec 2022 02:07:27 GMT</pubDate>
-            <content:encoded><![CDATA[오전 7:00]]></content:encoded>
+            <content:encoded><![CDATA[오전 6:56]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221207_87/1670405445418QtVFD_JPEG/upload_86675013111276383ba046235-66ed-4c25-8282-afda447f9425.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Radio' Clock / PERC%NT 퍼센트)]]></title>
+            <link>https://www.vlive.tv/video/294862</link>
+            <guid>https://www.vlive.tv/video/294862</guid>
+            <pubDate>Mon, 12 Dec 2022 02:07:27 GMT</pubDate>
+            <content:encoded><![CDATA[오전 7:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221207_277/1670405653859S6nQa_PNG/upload_1144849613422165185f88abff-33b6-4e9f-9619-d5a4a7f801a5.png?type=f228_128" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Arirang Radio (Radio'n Us / homzone 홈존)]]></title>
