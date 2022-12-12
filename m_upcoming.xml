@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 17:40:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 18:45:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,6 +78,16 @@
             <enclosure url="https://v-phinf.pstatic.net/20221207_5/1670397784038nARel_JPEG/upload_11447748183344182645606c80-83fe-4ee0-85c7-2e2aa243757d.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[1214 Happy SEOBIN Day!!🎂💛]]></title>
+            <link>https://m.vlive.tv/video/295020</link>
+            <guid>https://m.vlive.tv/video/295020</guid>
+            <pubDate>Mon, 12 Dec 2022 18:45:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오후 12:00</span>
+										<span class="txt">윤서빈 (Yoon Seobin)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221213_25/1670868252209Qhvpo_JPEG/upload_1149473646718976115da15a5e-4f25-4740-96bb-57b89979c354.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
             <link>https://m.vlive.tv/video/294846</link>
             <guid>https://m.vlive.tv/video/294846</guid>
@@ -96,16 +106,6 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221212_207/16708046582639tclr_JPEG/upload_87074231038559043f52ea6b0-a174-42be-a240-a346c28f92a0.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arirang Radio (Radio' Clock / LeeWonil 이원일)]]></title>
-            <link>https://m.vlive.tv/video/294865</link>
-            <guid>https://m.vlive.tv/video/294865</guid>
-            <pubDate>Mon, 12 Dec 2022 13:02:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 6:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221207_300/1670405636239oT63D_PNG/upload_86675193942408781d8f7b375-b03e-48db-9240-e6c18fb1378d.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
