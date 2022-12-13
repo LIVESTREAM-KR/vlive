@@ -4,7 +4,7 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 06:46:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 07:42:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 13 Dec 2022 06:45:04 GMT</pubDate>
             <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221207_176/1670397750496vF2bY_JPEG/upload_114477424855533550289a340d-b53a-4c4b-ba28-4d5622a0d515.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop]Oh My K-Pop with NIve #존박 #JohnPark]]></title>
+            <link>https://www.vlive.tv/video/294852</link>
+            <guid>https://www.vlive.tv/video/294852</guid>
+            <pubDate>Tue, 13 Dec 2022 07:41:12 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221213_129/1670914549529K4ydQ_JPEG/upload_11447763449744764424e03347-f606-42fa-9e87-e8d04e985f1a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ASC Live Ep.552 (DRIPPIN/드리핀)]]></title>
@@ -398,14 +406,6 @@
             <pubDate>Sat, 10 Dec 2022 15:39:02 GMT</pubDate>
             <content:encoded><![CDATA[PENTAGON]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221211_67/16706891311848AB2Q_JPEG/1e91e962-78a1-11ed-9d68-48df379ccacc_06.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LIVE] 오사카 셂]]></title>
-            <link>https://www.vlive.tv/video/294955</link>
-            <guid>https://www.vlive.tv/video/294955</guid>
-            <pubDate>Sat, 10 Dec 2022 16:50:38 GMT</pubDate>
-            <content:encoded><![CDATA[CRAVITY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221211_216/1670686612231C6pnE_JPEG/25955f0b-78a0-11ed-bf7a-505dac8c385b_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
