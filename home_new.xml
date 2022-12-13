@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 23:41:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 02:12:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Welcome to Korea with Kim Min Ji]]></title>
+            <link>https://www.vlive.tv/video/295023</link>
+            <guid>https://www.vlive.tv/video/295023</guid>
+            <pubDate>Tue, 13 Dec 2022 02:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221213_199/1670894726299poDQH_JPEG/upload_1149744343370993351bc10db1-a71e-4b10-8a3e-1d4684d847e5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 이전에는 없던 피노키오를 만들다 | 기예르모 델토로의 피노키오]]></title>
+            <link>https://www.vlive.tv/video/295017</link>
+            <guid>https://www.vlive.tv/video/295017</guid>
+            <pubDate>Tue, 13 Dec 2022 02:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[넷플릭스 (Netflixkr)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221212_7/1670856768658gWxBd_JPEG/upload_87126187968898999a948129b-f492-48f4-81d7-a47ec34af385.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[💛🐝MISS YOU]]></title>
             <link>https://www.vlive.tv/video/295019</link>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 12 Dec 2022 13:01:40 GMT</pubDate>
             <content:encoded><![CDATA[DKZ]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221212_142/1670839892463UcSGq_JPEG/f88fe13b-7a04-11ed-b417-505dac8c381b_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] 돌아온 도쿄, 그리고 미선 | 종이의 집: 공동경제구역 파트2]]></title>
-            <link>https://www.vlive.tv/video/295010</link>
-            <guid>https://www.vlive.tv/video/295010</guid>
-            <pubDate>Mon, 12 Dec 2022 10:41:59 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 (Netflixkr)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221212_162/1670841131294951IG_JPEG/upload_114920823127920570ae5fc501-8bc6-4fee-8f8a-2e326a7d1c56.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Xdinary Heroes Stage ♭ : Overture | Villains Time Guide]]></title>
-            <link>https://www.vlive.tv/video/295001</link>
-            <guid>https://www.vlive.tv/video/295001</guid>
-            <pubDate>Mon, 12 Dec 2022 10:41:59 GMT</pubDate>
-            <content:encoded><![CDATA[Xdinary Heroes]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221212_245/1670835185978m2Y9f_PNG/upload_87104660546021994df32ac02-39a0-497c-9858-cf70cace9955.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
