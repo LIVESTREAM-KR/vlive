@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 14:43:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 15:44:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -157,7 +157,22 @@
             <guid>https://www.vlive.tv/video/295041</guid>
             <pubDate>Tue, 13 Dec 2022 14:42:40 GMT</pubDate>
             <content:encoded><![CDATA[오후 2:34]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/295041/thumb?type=f228_128" length="0" type="image//live/295041/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[[Hi-ris] IRRIS (아이리스) 월드컵 광화문광장 거리응원 행사 Behind]]></title>
+            <link>https://www.vlive.tv/video/295003</link>
+            <guid>https://www.vlive.tv/video/295003</guid>
+            <pubDate>Tue, 13 Dec 2022 15:43:56 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:22]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221214_245/1670944926567eXpgv_PNG/upload_114978208824501528a83f29bc-c3e6-4b23-948b-90b66cfb9665.png?type=f228_128" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[라필루스 첫 시상식!! 축하해〜✨💕]]></title>
+            <link>https://www.vlive.tv/video/295042</link>
+            <guid>https://www.vlive.tv/video/295042</guid>
+            <pubDate>Tue, 13 Dec 2022 15:43:56 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:28]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221214_165/1670944007177I7XJ8_JPEG/1838196211363580561185b077-4dfa-4f67-968e-e56bb0d3a672.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
