@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 09:46:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 10:43:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,22 @@
             <pubDate>Tue, 13 Dec 2022 09:45:31 GMT</pubDate>
             <content:encoded><![CDATA[오전 9:17]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221213_266/16709231286243q9Vt_JPEG/upload_115002860345777178e5354b46-19ff-41cd-b3ec-f4d6cae1db3a.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위아영(WeAreYoung) Japan]]></title>
+            <link>https://www.vlive.tv/video/295034</link>
+            <guid>https://www.vlive.tv/video/295034</guid>
+            <pubDate>Tue, 13 Dec 2022 10:42:51 GMT</pubDate>
+            <content:encoded><![CDATA[오전 9:51]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221213_34/1670925067973wd5eq_JPEG/07c2a622-7acb-11ed-bf7a-505dac8c385b_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[HIGHLOG] 하이라이트(HIGHLIGHT) in TOKYO (a.k.a. 출장 시부야) - 4 -]]></title>
+            <link>https://www.vlive.tv/video/295028</link>
+            <guid>https://www.vlive.tv/video/295028</guid>
+            <pubDate>Tue, 13 Dec 2022 10:42:51 GMT</pubDate>
+            <content:encoded><![CDATA[오전 10:01]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221213_42/1670907542916GI9vy_JPEG/upload_8717713364975834772ce38f4-23b9-431f-b271-f86ba862f7eb.JPG?type=f228_128" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
