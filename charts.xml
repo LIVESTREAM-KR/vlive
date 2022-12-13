@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 11:40:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 13:01:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,14 +40,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221209_28/1670572816360UqqtV_JPEG/upload_1146513870584968615b928a93-29cd-4d63-9f1b-7ae4b4844433.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[라피스 모여라 하은 서원이가 이따아 🤍]]></title>
-            <link>https://www.vlive.tv/video/295014</link>
-            <guid>https://www.vlive.tv/video/295014</guid>
-            <pubDate>Mon, 12 Dec 2022 22:40:59 GMT</pubDate>
-            <content:encoded><![CDATA[Lapillus]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221212_192/1670850938490OLRiC_JPEG/14c1dc04-7a1e-11ed-93f8-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[CRAVITY PARK (크래비티 파크) EP.66 프로덕션 특집 1 l SEASON 6 (시즌 6)]]></title>
             <link>https://www.vlive.tv/video/295004</link>
             <guid>https://www.vlive.tv/video/295004</guid>
@@ -62,6 +54,14 @@
             <pubDate>Tue, 13 Dec 2022 11:39:23 GMT</pubDate>
             <content:encoded><![CDATA[BTS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20220824_277/1661325776060GNHYn_JPEG/upload_105405488087786008317d78ca-7903-4ba4-975b-e9e5827f79fe.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라피스 모여라 하은 서원이가 이따아 🤍]]></title>
+            <link>https://www.vlive.tv/video/295014</link>
+            <guid>https://www.vlive.tv/video/295014</guid>
+            <pubDate>Mon, 12 Dec 2022 22:40:59 GMT</pubDate>
+            <content:encoded><![CDATA[Lapillus]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221212_192/1670850938490OLRiC_JPEG/14c1dc04-7a1e-11ed-93f8-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

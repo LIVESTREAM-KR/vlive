@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 11:40:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 13:01:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,18 +120,19 @@
             <enclosure url="https://v-phinf.pstatic.net/20221213_139/167089941691568vI9_JPEG/upload_114979141190431031e4f22a41-a699-448d-b6a2-3f803d55e745.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[크랙실버(CraXilver)]]></title>
-            <link>https://www.vlive.tv/video/295036</link>
-            <guid>https://www.vlive.tv/video/295036</guid>
-            <pubDate>Tue, 13 Dec 2022 11:39:47 GMT</pubDate>
-            <content:encoded><![CDATA[오전 11:31]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[눈 왔다!! 세미도 왔다!!💙]]></title>
             <link>https://www.vlive.tv/video/295037</link>
             <guid>https://www.vlive.tv/video/295037</guid>
             <pubDate>Tue, 13 Dec 2022 11:39:47 GMT</pubDate>
             <content:encoded><![CDATA[오전 11:33]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[크랙실버(CraXilver)]]></title>
+            <link>https://www.vlive.tv/video/295036</link>
+            <guid>https://www.vlive.tv/video/295036</guid>
+            <pubDate>Tue, 13 Dec 2022 11:39:47 GMT</pubDate>
+            <content:encoded><![CDATA[오후 12:41]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221213_146/1670935283762TGkRg_JPEG/7f7fc227-7ae2-11ed-be03-505dac8c37f3_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
