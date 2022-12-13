@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 17:40:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 18:45:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LATE NIGHT😴]]></title>
+            <link>https://www.vlive.tv/video/295044</link>
+            <guid>https://www.vlive.tv/video/295044</guid>
+            <pubDate>Tue, 13 Dec 2022 18:43:43 GMT</pubDate>
+            <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/295044/thumb?type=f228_128" length="0" type="image//live/295044/thumb"/>
+        </item>
         <item>
             <title><![CDATA[애젼해 🐰🦊]]></title>
             <link>https://www.vlive.tv/video/295041</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 13 Dec 2022 09:44:47 GMT</pubDate>
             <content:encoded><![CDATA[ITZY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221213_110/1670912260788rJQHT_JPEG/upload_114991841386132476d7d188ef-6d33-4641-8206-c10bdf99d57e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑은 타이밍이라고 했다 [차트를 달리는 선비] EP06, 마지막회]]></title>
-            <link>https://www.vlive.tv/video/294907</link>
-            <guid>https://www.vlive.tv/video/294907</guid>
-            <pubDate>Tue, 13 Dec 2022 09:44:47 GMT</pubDate>
-            <content:encoded><![CDATA[콬TV (WHYNOT)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221209_86/1670548647563mMI5H_JPEG/upload_11462831296583479995e68bde-7e2d-47e5-8999-d99d47c938e2.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

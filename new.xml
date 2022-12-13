@@ -4,9 +4,16 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 17:40:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 18:45:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LATE NIGHT😴]]></title>
+            <link>https://www.vlive.tv/video/295044</link>
+            <guid>https://www.vlive.tv/video/295044</guid>
+            <pubDate>Tue, 13 Dec 2022 18:43:32 GMT</pubDate>
+            <content:encoded><![CDATA[REVERSE PRIME]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[애젼해 🐰🦊]]></title>
             <link>https://www.vlive.tv/video/295041</link>
@@ -398,14 +405,6 @@
             <pubDate>Sun, 11 Dec 2022 16:47:32 GMT</pubDate>
             <content:encoded><![CDATA[CRAVITY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221212_152/1670776303363z219P_JPEG/fd9a288f-7970-11ed-bf7a-505dac8c385b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[월요일 이겨내는 방송🐢]]></title>
-            <link>https://www.vlive.tv/video/294985</link>
-            <guid>https://www.vlive.tv/video/294985</guid>
-            <pubDate>Sun, 11 Dec 2022 14:41:25 GMT</pubDate>
-            <content:encoded><![CDATA[F.able (페이블)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221211_27/1670769546086Usl5W_JPEG/18364507504505990438f1a50e-ec8c-4e26-8060-14fe6082811e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
