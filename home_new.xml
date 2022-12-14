@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 15:42:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 16:51:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프롬 주홍]]></title>
+            <link>https://www.vlive.tv/video/295090</link>
+            <guid>https://www.vlive.tv/video/295090</guid>
+            <pubDate>Wed, 14 Dec 2022 16:50:09 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221215_255/1671035686872BW2lW_JPEG/e7865ac1-7bcc-11ed-ac76-505dacfba98a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[큰거온다🐰🐶]]></title>
+            <link>https://www.vlive.tv/video/295087</link>
+            <guid>https://www.vlive.tv/video/295087</guid>
+            <pubDate>Wed, 14 Dec 2022 15:41:18 GMT</pubDate>
+            <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221215_202/1671032884228tJGBb_JPEG/ed98c827-7bc5-11ed-be03-505dac8c37f3_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[(여자)아이들, Steve Aoki - 'Nxde (Steve Aoki Remix)' Visualizer Teaser]]></title>
             <link>https://www.vlive.tv/video/295070</link>
@@ -30,14 +46,6 @@
             <pubDate>Wed, 14 Dec 2022 15:41:18 GMT</pubDate>
             <content:encoded><![CDATA[드림노트 (DreamNote)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221214_199/1671022951513knT1h_JPEG/35033184982865449d9a7f8e-37e8-4f69-b51e-00f72be35cba.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[큰거온다🐰🐶]]></title>
-            <link>https://www.vlive.tv/video/295087</link>
-            <guid>https://www.vlive.tv/video/295087</guid>
-            <pubDate>Wed, 14 Dec 2022 15:41:18 GMT</pubDate>
-            <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/295087/thumb?type=f228_128" length="0" type="image//live/295087/thumb"/>
         </item>
         <item>
             <title><![CDATA[나야나 실험실]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 14 Dec 2022 09:39:22 GMT</pubDate>
             <content:encoded><![CDATA[Xdinary Heroes]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221214_28/1670990275096gC9j0_PNG/upload_115069986997431996a41a6cb4-2e82-47b9-a8f3-bdfc13fa0b22.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[ITZY(있지) "Cheshire" BEHIND #8]]></title>
-            <link>https://www.vlive.tv/video/295062</link>
-            <guid>https://www.vlive.tv/video/295062</guid>
-            <pubDate>Wed, 14 Dec 2022 09:39:22 GMT</pubDate>
-            <content:encoded><![CDATA[ITZY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221214_187/1670988953111KMTo0_JPEG/upload_87258518063917949c60953a5-5e8a-44c2-8180-a9360157deae.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
