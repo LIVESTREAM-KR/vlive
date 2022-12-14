@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 17:40:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 18:44:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,14 +248,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221214_199/1671022951513knT1h_JPEG/35033184982865449d9a7f8e-37e8-4f69-b51e-00f72be35cba.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[혁모저모 #18 (아돌라 끝나고 🎤🍽🗣)]]></title>
-            <link>https://www.vlive.tv/video/295088</link>
-            <guid>https://www.vlive.tv/video/295088</guid>
-            <pubDate>Wed, 14 Dec 2022 15:42:07 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:58]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221214_221/1671029880127CewCK_JPEG/1839054171054688018361730a-4cc6-4f6c-ab3c-f903ce219043.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[(여자)아이들, Steve Aoki - 'Nxde (Steve Aoki Remix)' Visualizer Teaser]]></title>
             <link>https://www.vlive.tv/video/295070</link>
             <guid>https://www.vlive.tv/video/295070</guid>
@@ -278,6 +270,14 @@
             <pubDate>Wed, 14 Dec 2022 16:50:57 GMT</pubDate>
             <content:encoded><![CDATA[오후 4:34]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221215_255/1671035686872BW2lW_JPEG/e7865ac1-7bcc-11ed-ac76-505dacfba98a_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[혁모저모 #18 (아돌라 끝나고 🎤🍽🗣)]]></title>
+            <link>https://www.vlive.tv/video/295088</link>
+            <guid>https://www.vlive.tv/video/295088</guid>
+            <pubDate>Wed, 14 Dec 2022 15:42:07 GMT</pubDate>
+            <content:encoded><![CDATA[오후 6:09]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221214_221/1671029880127CewCK_JPEG/1839054171054688018361730a-4cc6-4f6c-ab3c-f903ce219043.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

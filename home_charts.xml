@@ -4,17 +4,9 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 17:40:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 18:44:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[오랜민🤭]]></title>
-            <link>https://www.vlive.tv/video/295012</link>
-            <guid>https://www.vlive.tv/video/295012</guid>
-            <pubDate>Wed, 14 Dec 2022 09:39:37 GMT</pubDate>
-            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221212_92/1670849275757NA3a3_JPEG/e57cb613-7a19-11ed-a94b-d4f5ef58ac88_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[은조의 조은밤🌝🎧#86]]></title>
             <link>https://www.vlive.tv/video/295083</link>
@@ -24,12 +16,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20221214_199/1671022951513knT1h_JPEG/35033184982865449d9a7f8e-37e8-4f69-b51e-00f72be35cba.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[SKZ VLOG] 아이엔 : I.N의 퐁당로그 6]]></title>
-            <link>https://www.vlive.tv/video/294925</link>
-            <guid>https://www.vlive.tv/video/294925</guid>
-            <pubDate>Tue, 13 Dec 2022 16:51:04 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221209_28/1670572816360UqqtV_JPEG/upload_1146513870584968615b928a93-29cd-4d63-9f1b-7ae4b4844433.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+            <title><![CDATA[오랜민🤭]]></title>
+            <link>https://www.vlive.tv/video/295012</link>
+            <guid>https://www.vlive.tv/video/295012</guid>
+            <pubDate>Wed, 14 Dec 2022 09:39:37 GMT</pubDate>
+            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221212_92/1670849275757NA3a3_JPEG/e57cb613-7a19-11ed-a94b-d4f5ef58ac88_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[프롬 주홍]]></title>
@@ -38,6 +30,14 @@
             <pubDate>Wed, 14 Dec 2022 17:39:28 GMT</pubDate>
             <content:encoded><![CDATA[SF9]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221215_255/1671035686872BW2lW_JPEG/e7865ac1-7bcc-11ed-ac76-505dacfba98a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SKZ VLOG] 아이엔 : I.N의 퐁당로그 6]]></title>
+            <link>https://www.vlive.tv/video/294925</link>
+            <guid>https://www.vlive.tv/video/294925</guid>
+            <pubDate>Tue, 13 Dec 2022 16:51:04 GMT</pubDate>
+            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221209_28/1670572816360UqqtV_JPEG/upload_1146513870584968615b928a93-29cd-4d63-9f1b-7ae4b4844433.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
