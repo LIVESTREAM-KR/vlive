@@ -4,7 +4,7 @@
         <title>V LIVE 모바일 ─ CHARTS </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 05:40:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 06:45:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20221214_256/1670950895155JtM8o_JPEG/6531dcd0-7b06-11ed-ac76-505dacfba98a_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오랜민🤭]]></title>
-            <link>https://m.vlive.tv/video/295012</link>
-            <guid>https://m.vlive.tv/video/295012</guid>
-            <pubDate>Mon, 12 Dec 2022 13:02:10 GMT</pubDate>
-            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221212_92/1670849275757NA3a3_JPEG/e57cb613-7a19-11ed-a94b-d4f5ef58ac88_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Good morning shu coming]]></title>
             <link>https://m.vlive.tv/video/294961</link>
             <guid>https://m.vlive.tv/video/294961</guid>
             <pubDate>Sun, 11 Dec 2022 03:42:40 GMT</pubDate>
             <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221211_136/1670733554233Rka1q_JPEG/158d3c12-7908-11ed-87eb-505dac8c3721_01.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오랜민🤭]]></title>
+            <link>https://m.vlive.tv/video/295012</link>
+            <guid>https://m.vlive.tv/video/295012</guid>
+            <pubDate>Mon, 12 Dec 2022 13:02:10 GMT</pubDate>
+            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221212_92/1670849275757NA3a3_JPEG/e57cb613-7a19-11ed-a94b-d4f5ef58ac88_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
