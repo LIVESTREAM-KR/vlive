@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 04:45:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 05:40:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio/K-Poppin'] It's MZ TIME! with DKB]]></title>
-            <link>https://m.vlive.tv/video/294851</link>
-            <guid>https://m.vlive.tv/video/294851</guid>
-            <pubDate>Mon, 12 Dec 2022 02:07:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 5:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221207_289/1670397886180U4PYN_JPEG/upload_114477568853437585467d76cc-fd1d-4b9a-9d8b-656b2ebecab4.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Radio’ Clock] KoreaPedia with GHOST9 SON JUNHYUNG & PRINCE (고스트나인 준형&프린스)]]></title>
             <link>https://m.vlive.tv/video/294849</link>
@@ -106,6 +96,16 @@
 										오전 6:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221207_14/1670397822292A34kK_JPEG/upload_8666740603098413876998884-c5f7-4cdf-8a79-63c92fdc7eb5.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Super K-Pop] Music Dive with Yuni Lim]]></title>
+            <link>https://m.vlive.tv/video/294854</link>
+            <guid>https://m.vlive.tv/video/294854</guid>
+            <pubDate>Wed, 14 Dec 2022 05:39:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221207_130/1670398118499nqqmA_JPEG/upload_11447781391402487123732f13-6e19-4020-beaa-84540bcb336a.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
