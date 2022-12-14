@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 23:41:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 02:11:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthew]]></title>
-            <link>https://m.vlive.tv/video/294845</link>
-            <guid>https://m.vlive.tv/video/294845</guid>
-            <pubDate>Sun, 11 Dec 2022 12:58:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221207_36/1670397473731uTXmC_JPEG/upload_114477154204913068e3a105f1-14d6-4bd6-8b38-89fb494962ce.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio/K-Poppin'] It's MZ TIME! with DKB]]></title>
             <link>https://m.vlive.tv/video/294851</link>
@@ -106,6 +96,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221207_88/1670397683370epqAv_JPEG/upload_11447736209463310151473fe8-0b07-41d0-8479-dcb2f671bcdb.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Radio’ Clock] INSSA Party with prettylittleiris & BOiTELLO아이리스&보이텔로]]></title>
+            <link>https://m.vlive.tv/video/294850</link>
+            <guid>https://m.vlive.tv/video/294850</guid>
+            <pubDate>Wed, 14 Dec 2022 02:11:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 6:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221207_14/1670397822292A34kK_JPEG/upload_8666740603098413876998884-c5f7-4cdf-8a79-63c92fdc7eb5.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
