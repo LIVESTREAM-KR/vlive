@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 06:45:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 07:40:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Super K-Pop / TRADE L 트레이드 엘)]]></title>
-            <link>https://m.vlive.tv/video/295029</link>
-            <guid>https://m.vlive.tv/video/295029</guid>
-            <pubDate>Tue, 13 Dec 2022 05:39:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221213_264/1670907999836yhq9T_JPEG/upload_114987705568769798d34611bd-2258-421c-a6a7-10d34881467d.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[1214 Happy SEOBIN Day!!🎂💛]]></title>
             <link>https://m.vlive.tv/video/295020</link>
@@ -106,6 +96,16 @@
 										오후 2:00</span>
 										<span class="txt">DKZ</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221212_50/16708410537484Efhl_JPEG/upload_114920416173395923d1831109-1dc6-4063-ba82-5eb805a6a455.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[mini monster Birthdaysetting 2!!!!]]></title>
+            <link>https://m.vlive.tv/video/272157</link>
+            <guid>https://m.vlive.tv/video/272157</guid>
+            <pubDate>Wed, 14 Dec 2022 07:40:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 3:00</span>
+										<span class="txt">sema</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211218_94/1639796711375GzQ8F_JPEG/upload_83876405217509231884b5a01-39a9-4367-9b92-da56781d7305.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
