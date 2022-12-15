@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 04:45:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 05:40:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Arirang Radio (KPOPPIN' / 알리아 Aalia)]]></title>
+            <link>https://www.vlive.tv/video/294990</link>
+            <guid>https://www.vlive.tv/video/294990</guid>
+            <pubDate>Thu, 15 Dec 2022 05:38:55 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221214_31/16709927103896xEGQ_JPEG/upload_87074231038559043f52ea6b0-a174-42be-a240-a346c28f92a0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[DRIPPIN's Event for DREAMIN]]></title>
             <link>https://www.vlive.tv/video/295114</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 14 Dec 2022 15:41:18 GMT</pubDate>
             <content:encoded><![CDATA[윤서빈 (Yoon Seobin)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221215_105/16710314459597t9B3_JPEG/upload_115111175177870574e8e8a39b-080d-479c-910a-1b71666eb4af.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[𝘄𝗶𝘁𝗵𝘂𝘀] 수락데이!!!!!]]></title>
-            <link>https://www.vlive.tv/video/295080</link>
-            <guid>https://www.vlive.tv/video/295080</guid>
-            <pubDate>Wed, 14 Dec 2022 13:41:06 GMT</pubDate>
-            <content:encoded><![CDATA[위드에이치씨 (withHC)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221215_53/1671066458733hd9J1_JPEG/183890619968280688430e738e-96ab-49fb-b078-3c765570d500.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
