@@ -4,16 +4,40 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 11:40:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 13:02:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Very short one]]></title>
+            <link>https://www.vlive.tv/video/295134</link>
+            <guid>https://www.vlive.tv/video/295134</guid>
+            <pubDate>Thu, 15 Dec 2022 13:01:06 GMT</pubDate>
+            <content:encoded><![CDATA[sema]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221215_299/1671108884083qbC0v_JPEG/9316132261119743235ee9492-22dc-4bf2-a67d-b1b976fa0851.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🥭🐥🦄]]></title>
+            <link>https://www.vlive.tv/video/295133</link>
+            <guid>https://www.vlive.tv/video/295133</guid>
+            <pubDate>Thu, 15 Dec 2022 13:01:06 GMT</pubDate>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221215_297/1671106825485HMzcA_JPEG/bb050e91-7c72-11ed-bd7c-a0369ffac018_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🥭🐥🦄]]></title>
+            <link>https://www.vlive.tv/video/295132</link>
+            <guid>https://www.vlive.tv/video/295132</guid>
+            <pubDate>Thu, 15 Dec 2022 13:01:06 GMT</pubDate>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221215_218/1671106137325Kziav_JPEG/30fe3c35-7c71-11ed-9a00-a0369ffabb2c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[🆕🐿️]]></title>
             <link>https://www.vlive.tv/video/295131</link>
             <guid>https://www.vlive.tv/video/295131</guid>
             <pubDate>Thu, 15 Dec 2022 11:39:07 GMT</pubDate>
             <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/295131/thumb?type=f228_128" length="0" type="image//live/295131/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20221215_66/1671105157061USWvA_JPEG/89e4233a-7c6e-11ed-98ee-a0369ffac1dc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AB6IX (에이비식스) : DISK #27 | 괜찮겠어? 우린 노래 멈추는 법을 모르는 캔들즈인데.]]></title>
@@ -102,30 +126,6 @@
             <pubDate>Thu, 15 Dec 2022 10:44:35 GMT</pubDate>
             <content:encoded><![CDATA[ITZY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221215_149/1671088823507WJKmD_JPEG/upload_1151684641081515606fb667a2-d8f5-4cde-8da9-707cab881bb6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이석훈 (원곡: 박명수) - 바보에게 바보가 (Cover by 한동근)]]></title>
-            <link>https://www.vlive.tv/video/295116</link>
-            <guid>https://www.vlive.tv/video/295116</guid>
-            <pubDate>Thu, 15 Dec 2022 10:44:35 GMT</pubDate>
-            <content:encoded><![CDATA[BRANDNEW MUSIC]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221215_179/1671081315318a0VTS_JPEG/upload_11516097471192273879a65201-d042-4bb9-a012-baa34a377787.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[엑디즈's 락 더 월드] Ep.26 하드 털이 제4탄📁]]></title>
-            <link>https://www.vlive.tv/video/295065</link>
-            <guid>https://www.vlive.tv/video/295065</guid>
-            <pubDate>Thu, 15 Dec 2022 10:44:35 GMT</pubDate>
-            <content:encoded><![CDATA[Xdinary Heroes]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221214_237/1670997594357u46Hy_PNG/upload_115077318201401998c384f851-feba-474e-a2a3-fa41331d481a.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[LIVE] 들어왔다❄️]]></title>
-            <link>https://www.vlive.tv/video/295125</link>
-            <guid>https://www.vlive.tv/video/295125</guid>
-            <pubDate>Thu, 15 Dec 2022 08:44:19 GMT</pubDate>
-            <content:encoded><![CDATA[CRAVITY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221215_33/1671091962995f6L7L_JPEG/f298bd62-7c4f-11ed-9332-80615f0bccd4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

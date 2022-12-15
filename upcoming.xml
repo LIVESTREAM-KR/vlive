@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 11:40:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 13:02:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -212,8 +212,32 @@
             <link>https://www.vlive.tv/video/295131</link>
             <guid>https://www.vlive.tv/video/295131</guid>
             <pubDate>Thu, 15 Dec 2022 11:39:56 GMT</pubDate>
-            <content:encoded><![CDATA[오전 11:37]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/295131/thumb?type=f228_128" length="0" type="image//live/295131/thumb"/>
+            <content:encoded><![CDATA[오전 11:52]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221215_66/1671105157061USWvA_JPEG/89e4233a-7c6e-11ed-98ee-a0369ffac1dc_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🥭🐥🦄]]></title>
+            <link>https://www.vlive.tv/video/295132</link>
+            <guid>https://www.vlive.tv/video/295132</guid>
+            <pubDate>Thu, 15 Dec 2022 13:01:57 GMT</pubDate>
+            <content:encoded><![CDATA[오후 12:08]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221215_218/1671106137325Kziav_JPEG/30fe3c35-7c71-11ed-9a00-a0369ffabb2c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🥭🐥🦄]]></title>
+            <link>https://www.vlive.tv/video/295133</link>
+            <guid>https://www.vlive.tv/video/295133</guid>
+            <pubDate>Thu, 15 Dec 2022 13:01:57 GMT</pubDate>
+            <content:encoded><![CDATA[오후 12:20]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221215_297/1671106825485HMzcA_JPEG/bb050e91-7c72-11ed-bd7c-a0369ffac018_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Very short one]]></title>
+            <link>https://www.vlive.tv/video/295134</link>
+            <guid>https://www.vlive.tv/video/295134</guid>
+            <pubDate>Thu, 15 Dec 2022 13:01:57 GMT</pubDate>
+            <content:encoded><![CDATA[오후 12:54]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221215_299/1671108884083qbC0v_JPEG/9316132261119743235ee9492-22dc-4bf2-a67d-b1b976fa0851.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
