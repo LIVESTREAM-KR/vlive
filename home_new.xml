@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 13:42:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 14:41:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,15 @@
             <guid>https://www.vlive.tv/video/295136</guid>
             <pubDate>Thu, 15 Dec 2022 13:41:33 GMT</pubDate>
             <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/295136/thumb?type=f228_128" length="0" type="image//live/295136/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20221215_5/1671114625812keVbJ_JPEG/792c31fe-7c84-11ed-ad27-505dac8c38f5_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[☃️]]></title>
+            <link>https://www.vlive.tv/video/295137</link>
+            <guid>https://www.vlive.tv/video/295137</guid>
+            <pubDate>Thu, 15 Dec 2022 14:40:28 GMT</pubDate>
+            <content:encoded><![CDATA[EPEX]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/295137/thumb?type=f228_128" length="0" type="image//live/295137/thumb"/>
         </item>
         <item>
             <title><![CDATA[진석이의 별빛라디요⭐️]]></title>
@@ -21,7 +29,7 @@
             <guid>https://www.vlive.tv/video/295135</guid>
             <pubDate>Thu, 15 Dec 2022 13:41:33 GMT</pubDate>
             <content:encoded><![CDATA[지진석 (Ji jin seok)]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/295135/thumb?type=f228_128" length="0" type="image//live/295135/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20221215_227/1671113146068FiKcU_JPEG/1d70a49d-7c81-11ed-8aca-a0369ffab9fc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Very short one]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 15 Dec 2022 08:44:19 GMT</pubDate>
             <content:encoded><![CDATA[CRAVITY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221215_3/1671095240133WEFMx_JPEG/1cc2db73-7c55-11ed-90ce-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LIVE] 눈 온다❄️]]></title>
-            <link>https://www.vlive.tv/video/295123</link>
-            <guid>https://www.vlive.tv/video/295123</guid>
-            <pubDate>Thu, 15 Dec 2022 10:44:35 GMT</pubDate>
-            <content:encoded><![CDATA[CRAVITY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221215_137/1671095214388gIhHX_JPEG/d3d7ec88-7c4e-11ed-9b52-48df37e3569a_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
