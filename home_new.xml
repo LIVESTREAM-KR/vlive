@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 13:02:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 13:42:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🥭망ㄱ]]></title>
+            <link>https://www.vlive.tv/video/295136</link>
+            <guid>https://www.vlive.tv/video/295136</guid>
+            <pubDate>Thu, 15 Dec 2022 13:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/295136/thumb?type=f228_128" length="0" type="image//live/295136/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[진석이의 별빛라디요⭐️]]></title>
+            <link>https://www.vlive.tv/video/295135</link>
+            <guid>https://www.vlive.tv/video/295135</guid>
+            <pubDate>Thu, 15 Dec 2022 13:41:33 GMT</pubDate>
+            <content:encoded><![CDATA[지진석 (Ji jin seok)]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/295135/thumb?type=f228_128" length="0" type="image//live/295135/thumb"/>
+        </item>
         <item>
             <title><![CDATA[Very short one]]></title>
             <link>https://www.vlive.tv/video/295134</link>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 15 Dec 2022 10:44:35 GMT</pubDate>
             <content:encoded><![CDATA[CRAVITY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221215_137/1671095214388gIhHX_JPEG/d3d7ec88-7c4e-11ed-9b52-48df37e3569a_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BRANDNEW YEAR 2022 'BRANDNEW V1S1ON' HIGHLIGHT MEDLEY]]></title>
-            <link>https://www.vlive.tv/video/295128</link>
-            <guid>https://www.vlive.tv/video/295128</guid>
-            <pubDate>Thu, 15 Dec 2022 10:44:35 GMT</pubDate>
-            <content:encoded><![CDATA[BRANDNEW MUSIC]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221215_193/1671093858452XL4YE_JPEG/upload_1151735881105196235ff20809-07d9-4f1f-b34d-6030c7bbc02f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ITZY(있지) "Cheshire" BEHIND #9]]></title>
-            <link>https://www.vlive.tv/video/295121</link>
-            <guid>https://www.vlive.tv/video/295121</guid>
-            <pubDate>Thu, 15 Dec 2022 10:44:35 GMT</pubDate>
-            <content:encoded><![CDATA[ITZY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221215_149/1671088823507WJKmD_JPEG/upload_1151684641081515606fb667a2-d8f5-4cde-8da9-707cab881bb6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
