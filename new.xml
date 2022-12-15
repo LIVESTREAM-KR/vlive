@@ -4,7 +4,7 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 05:40:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 06:45:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 15 Dec 2022 05:38:43 GMT</pubDate>
             <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221214_31/16709927103896xEGQ_JPEG/upload_87074231038559043f52ea6b0-a174-42be-a240-a346c28f92a0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Radio' Clock / LeeWonil 이원일)]]></title>
+            <link>https://www.vlive.tv/video/294865</link>
+            <guid>https://www.vlive.tv/video/294865</guid>
+            <pubDate>Thu, 15 Dec 2022 06:44:11 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221207_300/1670405636239oT63D_PNG/upload_86675193942408781d8f7b375-b03e-48db-9240-e6c18fb1378d.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[DRIPPIN's Event for DREAMIN]]></title>
@@ -398,14 +406,6 @@
             <pubDate>Tue, 13 Dec 2022 11:38:43 GMT</pubDate>
             <content:encoded><![CDATA[OUI ENTERTAINMENT]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221213_146/1670935283762TGkRg_JPEG/7f7fc227-7ae2-11ed-be03-505dac8c37f3_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AB6IX (에이비식스) : DISK #26 | 연기 잘하는거. 그거 어떻게 하는건데.]]></title>
-            <link>https://www.vlive.tv/video/295024</link>
-            <guid>https://www.vlive.tv/video/295024</guid>
-            <pubDate>Tue, 13 Dec 2022 11:38:43 GMT</pubDate>
-            <content:encoded><![CDATA[AB6IX]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221213_139/167089941691568vI9_JPEG/upload_114979141190431031e4f22a41-a699-448d-b6a2-3f803d55e745.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
