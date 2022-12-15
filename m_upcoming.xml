@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 23:41:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 02:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
-            <link>https://m.vlive.tv/video/294846</link>
-            <guid>https://m.vlive.tv/video/294846</guid>
-            <pubDate>Mon, 12 Dec 2022 06:45:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221207_186/1670397533465xYxi7_JPEG/upload_114477212694778653e9426193-243f-423b-ac8b-629d7c51d5f8.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Arirang Radio (KPOPPIN' / 알리아 Aalia)]]></title>
             <link>https://m.vlive.tv/video/294990</link>
@@ -106,6 +96,16 @@
 										오전 3:00</span>
 										<span class="txt">sema</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20211218_94/1639796711375GzQ8F_JPEG/upload_83876405217509231884b5a01-39a9-4367-9b92-da56781d7305.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
+            <link>https://m.vlive.tv/video/295098</link>
+            <guid>https://m.vlive.tv/video/295098</guid>
+            <pubDate>Thu, 15 Dec 2022 02:12:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221215_222/16710663597495LfVg_JPEG/upload_11514600261818486351e57675-311e-4660-9870-6ca3579ccc83.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
