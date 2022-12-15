@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 07:40:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 08:45:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[프롬 주홍]]></title>
+            <link>https://www.vlive.tv/video/295090</link>
+            <guid>https://www.vlive.tv/video/295090</guid>
+            <pubDate>Thu, 15 Dec 2022 08:44:36 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221215_255/1671035686872BW2lW_JPEG/e7865ac1-7bcc-11ed-ac76-505dacfba98a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[은조의 조은밤🌝🎧#86]]></title>
             <link>https://www.vlive.tv/video/295083</link>
@@ -30,14 +38,6 @@
             <pubDate>Thu, 15 Dec 2022 04:44:43 GMT</pubDate>
             <content:encoded><![CDATA[위드에이치씨 (withHC)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221215_53/1671066458733hd9J1_JPEG/183890619968280688430e738e-96ab-49fb-b078-3c765570d500.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[(여자)아이들, Steve Aoki - 'Nxde (Steve Aoki Remix)' Visualizer Teaser]]></title>
-            <link>https://www.vlive.tv/video/295070</link>
-            <guid>https://www.vlive.tv/video/295070</guid>
-            <pubDate>Thu, 15 Dec 2022 07:39:13 GMT</pubDate>
-            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221214_172/1671018424841Fw5I4_PNG/upload_1150981540612976232085c415-344e-4ab0-a895-cb3e1f6bbed9.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
