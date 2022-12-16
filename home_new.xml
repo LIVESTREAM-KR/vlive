@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 11:40:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 12:57:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,23 @@
             <guid>https://www.vlive.tv/video/295156</guid>
             <pubDate>Fri, 16 Dec 2022 11:38:44 GMT</pubDate>
             <content:encoded><![CDATA[LAPOEM]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/295156/thumb?type=f228_128" length="0" type="image//live/295156/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20221216_199/1671194459616sCejr_JPEG/94697704-7d3d-11ed-a502-48df37e2c058_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안녕:)]]></title>
+            <link>https://www.vlive.tv/video/295159</link>
+            <guid>https://www.vlive.tv/video/295159</guid>
+            <pubDate>Fri, 16 Dec 2022 12:56:11 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/295159/thumb?type=f228_128" length="0" type="image//live/295159/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[[Special Clip] CRAVITY (크래비티) - 쉿! 러비티만 봐! ﻿( •͈ᴗ-)ᓂ-ෆ (Shh! Just look at LUVITY!)]]></title>
+            <link>https://www.vlive.tv/video/295149</link>
+            <guid>https://www.vlive.tv/video/295149</guid>
+            <pubDate>Fri, 16 Dec 2022 12:56:11 GMT</pubDate>
+            <content:encoded><![CDATA[CRAVITY]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221216_27/16711755618464p379_JPEG/upload_874451576065895607d8d2cfd-112f-40ab-a1b7-342945fecaeb.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ONEWE(원위) 용훈 '달빛 그림자' Special Clip]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 16 Dec 2022 10:39:34 GMT</pubDate>
             <content:encoded><![CDATA[E'LAST]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221216_152/1671188957636fgIMk_JPEG/upload_115256348128938043cec13c3e-26b6-448a-8590-cc969a1e5194.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Radio’ Clock] INSSA Party with prettylittleiris & BOiTELLO아이리스&보이텔로]]></title>
-            <link>https://www.vlive.tv/video/294850</link>
-            <guid>https://www.vlive.tv/video/294850</guid>
-            <pubDate>Fri, 16 Dec 2022 06:41:59 GMT</pubDate>
-            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221207_14/1670397822292A34kK_JPEG/upload_8666740603098413876998884-c5f7-4cdf-8a79-63c92fdc7eb5.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Simply K-Pop CON-TOUR (심플리케이팝 콘투어) Ep.550]]></title>
-            <link>https://www.vlive.tv/video/295118</link>
-            <guid>https://www.vlive.tv/video/295118</guid>
-            <pubDate>Fri, 16 Dec 2022 04:42:13 GMT</pubDate>
-            <content:encoded><![CDATA[ARIRANG K Pop │ 아리랑케이팝]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221215_139/16710846391662fTxb_PNG/upload_1151643194054292948e984cba-0c5f-44b3-83bf-0d19a475c762.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
