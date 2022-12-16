@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 06:43:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 08:42:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[LIVE] Runtime 26 🐧]]></title>
+            <link>https://www.vlive.tv/video/295152</link>
+            <guid>https://www.vlive.tv/video/295152</guid>
+            <pubDate>Fri, 16 Dec 2022 08:40:44 GMT</pubDate>
+            <content:encoded><![CDATA[CRAVITY]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/295152/thumb?type=f228_128" length="0" type="image//live/295152/thumb"/>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Radio’ Clock] INSSA Party with prettylittleiris & BOiTELLO아이리스&보이텔로]]></title>
             <link>https://www.vlive.tv/video/294850</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 15 Dec 2022 11:39:07 GMT</pubDate>
             <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221215_66/1671105157061USWvA_JPEG/89e4233a-7c6e-11ed-98ee-a0369ffac1dc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AB6IX (에이비식스) : DISK #27 | 괜찮겠어? 우린 노래 멈추는 법을 모르는 캔들즈인데.]]></title>
-            <link>https://www.vlive.tv/video/295117</link>
-            <guid>https://www.vlive.tv/video/295117</guid>
-            <pubDate>Thu, 15 Dec 2022 11:39:07 GMT</pubDate>
-            <content:encoded><![CDATA[AB6IX]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221215_203/1671083565003DUj5z_JPEG/upload_873531586093635884165ce84-2b03-423d-8e13-63311d3b325e.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
