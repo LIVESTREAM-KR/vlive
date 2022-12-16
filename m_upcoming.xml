@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 13:45:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 14:43:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[1위 공약! DKZ의 24시간 릴레이 V LIVE🏃‍♂]]></title>
-            <link>https://m.vlive.tv/video/295009</link>
-            <guid>https://m.vlive.tv/video/295009</guid>
-            <pubDate>Wed, 14 Dec 2022 06:45:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 2:00</span>
-										<span class="txt">DKZ</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221212_50/16708410537484Efhl_JPEG/upload_114920416173395923d1831109-1dc6-4063-ba82-5eb805a6a455.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[mini monster Birthdaysetting 2!!!!]]></title>
             <link>https://m.vlive.tv/video/272157</link>
@@ -106,6 +96,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221215_259/16710664330917VCjF_JPEG/upload_11514615038188642844a33ada-6ec5-4feb-a928-a50c4ac344a6.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio/K-Poppin'] It's MZ TIME! with DKB]]></title>
+            <link>https://m.vlive.tv/video/295106</link>
+            <guid>https://m.vlive.tv/video/295106</guid>
+            <pubDate>Fri, 16 Dec 2022 14:42:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221215_198/1671066789653c6UUy_JPEG/upload_115146495951757480c594e06d-c812-482d-a9ba-66855298681a.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
