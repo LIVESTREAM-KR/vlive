@@ -4,7 +4,7 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Dec 2022 07:40:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 08:41:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,13 @@
             <pubDate>Sat, 17 Dec 2022 07:39:01 GMT</pubDate>
             <content:encoded><![CDATA[TRENDZ (트렌드지)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221217_269/1671261519225VKQ2P_JPEG/93313957749415807fb5a18d4-5b56-40f6-84da-f7f309dc9f6d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[소녀세상] 미리메리클쮸아쮸❤️‍🔥]]></title>
+            <link>https://www.vlive.tv/video/295173</link>
+            <guid>https://www.vlive.tv/video/295173</guid>
+            <pubDate>Sat, 17 Dec 2022 08:40:04 GMT</pubDate>
+            <content:encoded><![CDATA[LIZ ENT]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[LIVE] 잠깐~]]></title>
@@ -398,14 +405,6 @@
             <pubDate>Thu, 15 Dec 2022 08:44:07 GMT</pubDate>
             <content:encoded><![CDATA[CRAVITY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221215_3/1671095240133WEFMx_JPEG/1cc2db73-7c55-11ed-90ce-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LIVE] 눈 온다❄️]]></title>
-            <link>https://www.vlive.tv/video/295123</link>
-            <guid>https://www.vlive.tv/video/295123</guid>
-            <pubDate>Thu, 15 Dec 2022 10:44:26 GMT</pubDate>
-            <content:encoded><![CDATA[CRAVITY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221215_137/1671095214388gIhHX_JPEG/d3d7ec88-7c4e-11ed-9b52-48df37e3569a_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
