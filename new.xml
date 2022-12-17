@@ -4,9 +4,16 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Dec 2022 05:40:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 06:42:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[LIVE] 잠깐~]]></title>
+            <link>https://www.vlive.tv/video/295169</link>
+            <guid>https://www.vlive.tv/video/295169</guid>
+            <pubDate>Sat, 17 Dec 2022 06:40:35 GMT</pubDate>
+            <content:encoded><![CDATA[CRAVITY]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[🐻🐶🐱]]></title>
             <link>https://www.vlive.tv/video/295168</link>
@@ -398,14 +405,6 @@
             <pubDate>Thu, 15 Dec 2022 10:44:26 GMT</pubDate>
             <content:encoded><![CDATA[BRANDNEW MUSIC]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221215_193/1671093858452XL4YE_JPEG/upload_1151735881105196235ff20809-07d9-4f1f-b34d-6030c7bbc02f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ITZY(있지) "Cheshire" BEHIND #9]]></title>
-            <link>https://www.vlive.tv/video/295121</link>
-            <guid>https://www.vlive.tv/video/295121</guid>
-            <pubDate>Thu, 15 Dec 2022 10:44:26 GMT</pubDate>
-            <content:encoded><![CDATA[ITZY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221215_149/1671088823507WJKmD_JPEG/upload_1151684641081515606fb667a2-d8f5-4cde-8da9-707cab881bb6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
