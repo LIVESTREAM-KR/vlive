@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Dec 2022 09:40:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 10:40:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🧸Hi im HARi🧸]]></title>
+            <link>https://www.vlive.tv/video/295175</link>
+            <guid>https://www.vlive.tv/video/295175</guid>
+            <pubDate>Sat, 17 Dec 2022 10:38:35 GMT</pubDate>
+            <content:encoded><![CDATA[LIZ ENT]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221217_252/1671271212054FMz7h_JPEG/184146748994640529fcc5bad5-6091-425f-8f63-72d4a63f71b6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Come back home!!⛺️]]></title>
             <link>https://www.vlive.tv/video/295174</link>
@@ -398,14 +406,6 @@
             <pubDate>Thu, 15 Dec 2022 11:38:56 GMT</pubDate>
             <content:encoded><![CDATA[YOUNITE]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221215_260/1671071196550NU8x6_PNG/upload_114285534156221744de257f18-9ab4-4fa1-88a8-a811e669a30d.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[흰눈이 내려와요~☃️]]></title>
-            <link>https://www.vlive.tv/video/295130</link>
-            <guid>https://www.vlive.tv/video/295130</guid>
-            <pubDate>Thu, 15 Dec 2022 11:38:56 GMT</pubDate>
-            <content:encoded><![CDATA[24K]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221215_142/1671101336923i5xQ4_JPEG/742e35c9-7c65-11ed-9b52-48df37e3569a_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

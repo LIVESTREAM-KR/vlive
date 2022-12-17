@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Dec 2022 09:40:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 10:40:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🧸Hi im HARi🧸]]></title>
+            <link>https://www.vlive.tv/video/295175</link>
+            <guid>https://www.vlive.tv/video/295175</guid>
+            <pubDate>Sat, 17 Dec 2022 10:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[LIZ ENT]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221217_252/1671271212054FMz7h_JPEG/184146748994640529fcc5bad5-6091-425f-8f63-72d4a63f71b6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Come back home!!⛺️]]></title>
             <link>https://www.vlive.tv/video/295174</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 16 Dec 2022 14:41:45 GMT</pubDate>
             <content:encoded><![CDATA[TRENDZ (트렌드지)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221216_23/1671200804081qTjg2_JPEG/18407640407231160380e31406-fc47-41cf-a4ec-23f77e8f04c7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[もしもし☎️]]></title>
-            <link>https://www.vlive.tv/video/295160</link>
-            <guid>https://www.vlive.tv/video/295160</guid>
-            <pubDate>Fri, 16 Dec 2022 13:43:50 GMT</pubDate>
-            <content:encoded><![CDATA[H1-KEY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221216_106/1671199662798c6H8H_JPEG/6c47094d-7d4a-11ed-a8b6-48df379ccacc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

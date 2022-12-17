@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Dec 2022 09:40:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 10:40:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,6 +62,14 @@
             <pubDate>Sat, 17 Dec 2022 09:40:23 GMT</pubDate>
             <content:encoded><![CDATA[오전 9:26]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221217_176/1671269183693IvgKJ_JPEG/78facf26-7dec-11ed-90ce-505dac8c35ff_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🧸Hi im HARi🧸]]></title>
+            <link>https://www.vlive.tv/video/295175</link>
+            <guid>https://www.vlive.tv/video/295175</guid>
+            <pubDate>Sat, 17 Dec 2022 10:39:36 GMT</pubDate>
+            <content:encoded><![CDATA[오전 10:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221217_252/1671271212054FMz7h_JPEG/184146748994640529fcc5bad5-6091-425f-8f63-72d4a63f71b6.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
