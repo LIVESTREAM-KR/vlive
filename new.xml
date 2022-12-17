@@ -4,15 +4,24 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Dec 2022 06:42:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 07:40:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트렌드지 놀러왔어여~😎]]></title>
+            <link>https://www.vlive.tv/video/295171</link>
+            <guid>https://www.vlive.tv/video/295171</guid>
+            <pubDate>Sat, 17 Dec 2022 07:39:01 GMT</pubDate>
+            <content:encoded><![CDATA[TRENDZ (트렌드지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221217_269/1671261519225VKQ2P_JPEG/93313957749415807fb5a18d4-5b56-40f6-84da-f7f309dc9f6d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[LIVE] 잠깐~]]></title>
             <link>https://www.vlive.tv/video/295169</link>
             <guid>https://www.vlive.tv/video/295169</guid>
             <pubDate>Sat, 17 Dec 2022 06:40:35 GMT</pubDate>
             <content:encoded><![CDATA[CRAVITY]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221217_222/1671260799281vQRCs_JPEG/c70c8e37-7dd8-11ed-a129-505dac8c381b_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[🐻🐶🐱]]></title>
@@ -397,14 +406,6 @@
             <pubDate>Thu, 15 Dec 2022 10:44:26 GMT</pubDate>
             <content:encoded><![CDATA[CRAVITY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221215_137/1671095214388gIhHX_JPEG/d3d7ec88-7c4e-11ed-9b52-48df37e3569a_01.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BRANDNEW YEAR 2022 'BRANDNEW V1S1ON' HIGHLIGHT MEDLEY]]></title>
-            <link>https://www.vlive.tv/video/295128</link>
-            <guid>https://www.vlive.tv/video/295128</guid>
-            <pubDate>Thu, 15 Dec 2022 10:44:26 GMT</pubDate>
-            <content:encoded><![CDATA[BRANDNEW MUSIC]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221215_193/1671093858452XL4YE_JPEG/upload_1151735881105196235ff20809-07d9-4f1f-b34d-6030c7bbc02f.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
