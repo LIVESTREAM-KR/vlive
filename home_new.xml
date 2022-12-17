@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 23:40:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 01:57:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🐻🐶🐱]]></title>
+            <link>https://www.vlive.tv/video/295168</link>
+            <guid>https://www.vlive.tv/video/295168</guid>
+            <pubDate>Sat, 17 Dec 2022 01:56:01 GMT</pubDate>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/295168/thumb?type=f228_128" length="0" type="image//live/295168/thumb"/>
+        </item>
         <item>
             <title><![CDATA[미안해요 승승라이브]]></title>
             <link>https://www.vlive.tv/video/295167</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 16 Dec 2022 11:38:44 GMT</pubDate>
             <content:encoded><![CDATA[EPEX]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221216_150/1671121741447GzPnn_JPEG/upload_1152014354227230506fcfc8cf-7d6d-49b3-9736-7aba70db8f80.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캐슬 추위 대피소 with 채현]]></title>
-            <link>https://www.vlive.tv/video/295085</link>
-            <guid>https://www.vlive.tv/video/295085</guid>
-            <pubDate>Fri, 16 Dec 2022 10:39:34 GMT</pubDate>
-            <content:encoded><![CDATA[SKYLE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221214_280/1671023151977t26rm_JPEG/upload_87292675052643450d3b40943-ac20-45da-b902-6e885b69c71a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

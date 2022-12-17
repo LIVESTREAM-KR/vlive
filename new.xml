@@ -4,9 +4,16 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 23:40:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 01:57:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🐻🐶🐱]]></title>
+            <link>https://www.vlive.tv/video/295168</link>
+            <guid>https://www.vlive.tv/video/295168</guid>
+            <pubDate>Sat, 17 Dec 2022 01:55:52 GMT</pubDate>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[미안해요 승승라이브]]></title>
             <link>https://www.vlive.tv/video/295167</link>
@@ -398,14 +405,6 @@
             <pubDate>Thu, 15 Dec 2022 10:44:26 GMT</pubDate>
             <content:encoded><![CDATA[ITZY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221215_149/1671088823507WJKmD_JPEG/upload_1151684641081515606fb667a2-d8f5-4cde-8da9-707cab881bb6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이석훈 (원곡: 박명수) - 바보에게 바보가 (Cover by 한동근)]]></title>
-            <link>https://www.vlive.tv/video/295116</link>
-            <guid>https://www.vlive.tv/video/295116</guid>
-            <pubDate>Thu, 15 Dec 2022 10:44:26 GMT</pubDate>
-            <content:encoded><![CDATA[BRANDNEW MUSIC]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221215_179/1671081315318a0VTS_JPEG/upload_11516097471192273879a65201-d042-4bb9-a012-baa34a377787.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
