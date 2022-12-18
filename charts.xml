@@ -4,7 +4,7 @@
         <title>V LIVE ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Dec 2022 10:40:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 11:40:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,14 +32,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221217_53/16712857897855V4y7_JPEG/502df1a5-7e13-11ed-b4ec-d4f5ef58ac88_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[🧸Hi im HARi🧸]]></title>
-            <link>https://www.vlive.tv/video/295175</link>
-            <guid>https://www.vlive.tv/video/295175</guid>
-            <pubDate>Sat, 17 Dec 2022 13:39:31 GMT</pubDate>
-            <content:encoded><![CDATA[LIZ ENT]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221217_252/1671271212054FMz7h_JPEG/184146748994640529fcc5bad5-6091-425f-8f63-72d4a63f71b6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[(여자)아이들 - I-LOG #13 비 오는 오사카에서 분금치 💖💚 | (여자)아이들 in MAMA]]></title>
             <link>https://www.vlive.tv/video/295158</link>
             <guid>https://www.vlive.tv/video/295158</guid>
@@ -62,6 +54,14 @@
             <pubDate>Sun, 18 Dec 2022 09:39:23 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221209_28/1670572816360UqqtV_JPEG/upload_1146513870584968615b928a93-29cd-4d63-9f1b-7ae4b4844433.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🧸Hi im HARi🧸]]></title>
+            <link>https://www.vlive.tv/video/295175</link>
+            <guid>https://www.vlive.tv/video/295175</guid>
+            <pubDate>Sat, 17 Dec 2022 13:39:31 GMT</pubDate>
+            <content:encoded><![CDATA[LIZ ENT]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221217_252/1671271212054FMz7h_JPEG/184146748994640529fcc5bad5-6091-425f-8f63-72d4a63f71b6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
