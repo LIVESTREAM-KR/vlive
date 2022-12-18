@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Dec 2022 19:40:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 20:40:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비공식적 잠못드는밤에 마지막 프리]]></title>
+            <link>https://www.vlive.tv/video/295201</link>
+            <guid>https://www.vlive.tv/video/295201</guid>
+            <pubDate>Sun, 18 Dec 2022 20:38:58 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221219_169/1671395440845X5rzD_JPEG/184270977835614433d630cb00-8aed-410b-b96c-d7f4e939142c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[콩나물FM🌱]]></title>
             <link>https://www.vlive.tv/video/295200</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 17 Dec 2022 13:39:04 GMT</pubDate>
             <content:encoded><![CDATA[EPEX]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221217_10/16712869790013ivR0_JPEG/8c7f290d-7e15-11ed-a016-48df379cca40_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1위 공약! DKZ의 24시간 릴레이 V LIVE 🏃‍♂️]]></title>
-            <link>https://www.vlive.tv/video/295179</link>
-            <guid>https://www.vlive.tv/video/295179</guid>
-            <pubDate>Sat, 17 Dec 2022 12:53:21 GMT</pubDate>
-            <content:encoded><![CDATA[DKZ]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221217_128/1671286470403lYmTC_JPEG/04e2a01f-7e14-11ed-b284-a0369ffde060_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

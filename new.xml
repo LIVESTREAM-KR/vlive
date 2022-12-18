@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Dec 2022 19:40:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 20:40:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비공식적 잠못드는밤에 마지막 프리]]></title>
+            <link>https://www.vlive.tv/video/295201</link>
+            <guid>https://www.vlive.tv/video/295201</guid>
+            <pubDate>Sun, 18 Dec 2022 20:38:47 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221219_169/1671395440845X5rzD_JPEG/184270977835614433d630cb00-8aed-410b-b96c-d7f4e939142c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[콩나물FM🌱]]></title>
             <link>https://www.vlive.tv/video/295200</link>
@@ -398,14 +406,6 @@
             <pubDate>Fri, 16 Dec 2022 08:40:33 GMT</pubDate>
             <content:encoded><![CDATA[CRAVITY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221216_2/1671182524126IctT3_JPEG/0e8524f4-7d22-11ed-b4fc-a0369ffbde10_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[TEMPESTart!] EP 12. 그 모습 그대로 그렇게 웃어줘]]></title>
-            <link>https://www.vlive.tv/video/295141</link>
-            <guid>https://www.vlive.tv/video/295141</guid>
-            <pubDate>Fri, 16 Dec 2022 10:39:23 GMT</pubDate>
-            <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221216_237/1671153782484tSg7G_JPEG/upload_115233513569491168113e402f-adf0-437e-98b4-ec99fba2ab1a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
