@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Dec 2022 11:40:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 12:55:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,13 @@
             <pubDate>Sun, 18 Dec 2022 09:39:44 GMT</pubDate>
             <content:encoded><![CDATA[오후 12:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221218_19/1671359829247k5Uql_PNG/upload_87629369676231893e8eabd57-dd47-49ee-8e1f-bc72994dcde3.png?type=f228_128" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[민원접수❄]]></title>
+            <link>https://www.vlive.tv/video/295193</link>
+            <guid>https://www.vlive.tv/video/295193</guid>
+            <pubDate>Sun, 18 Dec 2022 12:54:36 GMT</pubDate>
+            <content:encoded><![CDATA[오후 12:32]]></content:encoded>
         </item>
     </channel>
 </rss>
