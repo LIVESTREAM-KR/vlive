@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 13:46:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 14:45:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하하..]]></title>
+            <link>https://www.vlive.tv/video/295223</link>
+            <guid>https://www.vlive.tv/video/295223</guid>
+            <pubDate>Mon, 19 Dec 2022 14:44:39 GMT</pubDate>
+            <content:encoded><![CDATA[DRIPPIN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221219_21/1671459108681EiwSJ_JPEG/c202b830-7fa6-11ed-b8de-b4055da548a1_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오랜만!]]></title>
+            <link>https://www.vlive.tv/video/295222</link>
+            <guid>https://www.vlive.tv/video/295222</guid>
+            <pubDate>Mon, 19 Dec 2022 14:44:39 GMT</pubDate>
+            <content:encoded><![CDATA[DRIPPIN]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221219_211/1671458585117oFuMA_JPEG/811e2063-7fa5-11ed-8f42-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Arirang Radio (Radio'n Us / KINGDOM 킹덤)]]></title>
             <link>https://www.vlive.tv/video/295211</link>
@@ -22,14 +38,6 @@
             <pubDate>Mon, 19 Dec 2022 11:41:29 GMT</pubDate>
             <content:encoded><![CDATA[24K]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221219_47/1671454678497TttGG_JPEG/a3516ec1-7f99-11ed-93c0-505dac8c37f3_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보라를 보라❄️]]></title>
-            <link>https://www.vlive.tv/video/295220</link>
-            <guid>https://www.vlive.tv/video/295220</guid>
-            <pubDate>Mon, 19 Dec 2022 13:44:52 GMT</pubDate>
-            <content:encoded><![CDATA[드림노트 (DreamNote)]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/295220/thumb?type=f228_128" length="0" type="image//live/295220/thumb"/>
         </item>
         <item>
             <title><![CDATA[윈이의 10대 마지막 생일 🎉💖]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 19 Dec 2022 05:38:38 GMT</pubDate>
             <content:encoded><![CDATA[Ktimes]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221219_124/1671427161666IpUhq_PNG/upload_876967185002507055f67512a-1035-4592-94a6-764e50809942.png?type=f228_128_wp" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[갑상선 유두암 이겨낸 박소담(Park So dam) "너무 죄송했다" ('유령' 제작보고회)]]></title>
-            <link>https://www.vlive.tv/video/295209</link>
-            <guid>https://www.vlive.tv/video/295209</guid>
-            <pubDate>Mon, 19 Dec 2022 05:38:38 GMT</pubDate>
-            <content:encoded><![CDATA[Ktimes]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221219_72/1671425652320L5dqA_PNG/upload_115505369432576444a5e49c3f-ff24-451a-bfcf-6ed7925ed756.png?type=f228_128_wp" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
