@@ -4,39 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 05:39:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 07:40:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Radio' Clock / Fromm 프롬)]]></title>
-            <link>https://m.vlive.tv/video/295079</link>
-            <guid>https://m.vlive.tv/video/295079</guid>
-            <pubDate>Thu, 15 Dec 2022 07:39:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 6:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221214_279/16710117784176wn9P_PNG/upload_87281336315864221916d1926-c370-4c8f-82be-5f1c953c4a4a.png?type=f274_154" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Arirang Radio (Radio' Clock / fromm 프롬)]]></title>
-            <link>https://m.vlive.tv/video/295210</link>
-            <guid>https://m.vlive.tv/video/295210</guid>
-            <pubDate>Mon, 19 Dec 2022 05:39:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										방송취소</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221219_220/16714261185961vwQM_PNG/upload_8769562426683665495122a4e-4a1c-4e14-a3de-2ca8a53287db.png?type=f274_154" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Arirang Radio (Super K-Pop / ARTBEAT 아트비트)]]></title>
-            <link>https://m.vlive.tv/video/295078</link>
-            <guid>https://m.vlive.tv/video/295078</guid>
-            <pubDate>Fri, 16 Dec 2022 02:50:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221214_296/1671011694014G05u7_JPEG/upload_872812699672843279a26daa4-4385-4564-ae51-58b080fad0d4.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[윈이의 10대 마지막 생일 🎉💖]]></title>
             <link>https://m.vlive.tv/video/295203</link>
@@ -106,6 +76,36 @@
 										오전 5:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221215_198/1671066789653c6UUy_JPEG/upload_115146495951757480c594e06d-c812-482d-a9ba-66855298681a.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Radio’ Clock] KoreaPedia with GHOST9 SON JUNHYUNG & PRINCE (고스트나인 준형&프린스)]]></title>
+            <link>https://m.vlive.tv/video/295104</link>
+            <guid>https://m.vlive.tv/video/295104</guid>
+            <pubDate>Mon, 19 Dec 2022 07:39:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 6:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221215_46/1671066641381OWFJ4_JPEG/upload_1151463387975540222492d64d-4f97-496e-9e99-64380681eb50.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / BUMJIN 범진)]]></title>
+            <link>https://m.vlive.tv/video/295077</link>
+            <guid>https://m.vlive.tv/video/295077</guid>
+            <pubDate>Mon, 19 Dec 2022 07:39:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221214_61/1671011656982C5fFi_JPEG/upload_115091334037876742b4ee5520-ff3a-4258-8c0a-c04e3570fd91.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
+            <link>https://m.vlive.tv/video/295101</link>
+            <guid>https://m.vlive.tv/video/295101</guid>
+            <pubDate>Mon, 19 Dec 2022 07:39:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221215_230/1671066475258Xd1ll_JPEG/upload_11514619613482880732e919d7-2e61-4e72-aeac-d2bc5ff44b7c.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
