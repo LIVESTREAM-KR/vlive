@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 10:42:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 11:42:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,14 @@
             <enclosure url="https://v-phinf.pstatic.net/20221219_147/1671443470440oufsI_JPEG/28ab156d-7f82-11ed-a016-48df379cca40_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Arirang Radio (Radio'n Us / KINGDOM 킹덤)]]></title>
+            <link>https://www.vlive.tv/video/295211</link>
+            <guid>https://www.vlive.tv/video/295211</guid>
+            <pubDate>Mon, 19 Dec 2022 05:39:24 GMT</pubDate>
+            <content:encoded><![CDATA[오전 10:50]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221219_292/1671426296503XUSXl_JPEG/upload_11550601353844485973fc4b73-54a9-4e12-90cc-c416059ac190.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[윈이의 10대 마지막 생일 🎉💖]]></title>
             <link>https://www.vlive.tv/video/295203</link>
             <guid>https://www.vlive.tv/video/295203</guid>
@@ -144,12 +152,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20221219_137/1671415420222JpFXr_PNG/upload_8768484894088289782554518-ed62-48e6-9b4a-51714182c48c.png?type=f228_128" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Arirang Radio (Radio'n Us / KINGDOM 킹덤)]]></title>
-            <link>https://www.vlive.tv/video/295211</link>
-            <guid>https://www.vlive.tv/video/295211</guid>
-            <pubDate>Mon, 19 Dec 2022 05:39:24 GMT</pubDate>
-            <content:encoded><![CDATA[오전 11:00]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221219_292/1671426296503XUSXl_JPEG/upload_11550601353844485973fc4b73-54a9-4e12-90cc-c416059ac190.jpg?type=f228_128" length="0" type="image/jpg"/>
+            <title><![CDATA[🎄🎅🏻christmas painting]]></title>
+            <link>https://www.vlive.tv/video/295219</link>
+            <guid>https://www.vlive.tv/video/295219</guid>
+            <pubDate>Mon, 19 Dec 2022 11:42:14 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:09]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/295219/thumb?type=f228_128" length="0" type="image//live/295219/thumb"/>
         </item>
     </channel>
 </rss>
