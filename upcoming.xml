@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 03:40:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 04:43:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,11 +16,12 @@
             <enclosure url="https://v-phinf.pstatic.net/20221215_3/1671066394042oOEvS_JPEG/upload_115146095227606220893f7104-bef0-48f3-a9c8-3edb8b74eb01.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[안녕]]></title>
-            <link>https://www.vlive.tv/video/295228</link>
-            <guid>https://www.vlive.tv/video/295228</guid>
-            <pubDate>Tue, 20 Dec 2022 03:39:58 GMT</pubDate>
-            <content:encoded><![CDATA[오전 3:23]]></content:encoded>
+            <title><![CDATA[새벽 라방😴]]></title>
+            <link>https://www.vlive.tv/video/295225</link>
+            <guid>https://www.vlive.tv/video/295225</guid>
+            <pubDate>Tue, 20 Dec 2022 04:43:01 GMT</pubDate>
+            <content:encoded><![CDATA[오전 3:47]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221220_275/1671508271212jK3Jz_JPEG/588d344f-8019-11ed-87f9-a0369ffda7e4_04.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ASC Live Ep.553 (LUCY/루시)]]></title>
@@ -29,6 +30,14 @@
             <pubDate>Tue, 20 Dec 2022 01:59:15 GMT</pubDate>
             <content:encoded><![CDATA[오전 4:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221219_201/1671444111774IDgVY_JPEG/upload_877136909044571686c902f27-3729-4056-9a32-8e13929d3b1f.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안녕]]></title>
+            <link>https://www.vlive.tv/video/295228</link>
+            <guid>https://www.vlive.tv/video/295228</guid>
+            <pubDate>Tue, 20 Dec 2022 03:39:58 GMT</pubDate>
+            <content:encoded><![CDATA[오전 4:29]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221220_27/1671510589482Cs97B_JPEG/34909cb2-801e-11ed-b03a-48df379cc9e4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio / Radio’ Clock] Who’s Scene it? with prettylittleiris 아이리스]]></title>
@@ -53,6 +62,14 @@
             <pubDate>Tue, 20 Dec 2022 01:59:15 GMT</pubDate>
             <content:encoded><![CDATA[오전 7:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221215_260/1671066837058P3KS9_JPEG/upload_11514652984048741030a5a926-a906-4228-b74d-7e7daf573c2d.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[태풍의 신부] 살인자에게 가족을 모두 뺏기자 증거를 모으기 시작한 지수원 | 드라마 비하인드 | KBS2 드라마 '태풍의 신부']]></title>
+            <link>https://www.vlive.tv/video/295229</link>
+            <guid>https://www.vlive.tv/video/295229</guid>
+            <pubDate>Tue, 20 Dec 2022 04:43:01 GMT</pubDate>
+            <content:encoded><![CDATA[오후 12:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221220_245/1671508562488hNjF8_JPEG/upload_87778150390570449c25ef1e8-adc1-4202-97b0-c84d32b27fe8.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
