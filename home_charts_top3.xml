@@ -4,17 +4,9 @@
         <title>V LIVE ─ 홈 ─ CHARTS TOP3</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 09:40:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 10:43:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[221219 IVE ANYUJIN GAEUL LEESEO 댄스신고식🥑🍳🥨]]></title>
-            <link>https://www.vlive.tv/video/295216</link>
-            <guid>https://www.vlive.tv/video/295216</guid>
-            <pubDate>Mon, 19 Dec 2022 10:41:42 GMT</pubDate>
-            <content:encoded><![CDATA[IVE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221219_147/1671443470440oufsI_JPEG/28ab156d-7f82-11ed-a016-48df379cca40_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[안녕]]></title>
             <link>https://www.vlive.tv/video/295228</link>
@@ -30,6 +22,14 @@
             <pubDate>Tue, 20 Dec 2022 09:39:28 GMT</pubDate>
             <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221220_238/167152293470550hAy_JPEG/4266001d-803b-11ed-9a00-a0369ffabb2c_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[221219 IVE ANYUJIN GAEUL LEESEO 댄스신고식🥑🍳🥨]]></title>
+            <link>https://www.vlive.tv/video/295216</link>
+            <guid>https://www.vlive.tv/video/295216</guid>
+            <pubDate>Mon, 19 Dec 2022 10:41:42 GMT</pubDate>
+            <content:encoded><![CDATA[IVE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221219_147/1671443470440oufsI_JPEG/28ab156d-7f82-11ed-a016-48df379cca40_03.jpg?type=f380_213_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
