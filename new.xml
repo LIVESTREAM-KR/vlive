@@ -4,9 +4,16 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 02:53:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 03:40:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안녕]]></title>
+            <link>https://www.vlive.tv/video/295228</link>
+            <guid>https://www.vlive.tv/video/295228</guid>
+            <pubDate>Tue, 20 Dec 2022 03:38:59 GMT</pubDate>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Welcome to Korea with Kim Min Ji]]></title>
             <link>https://www.vlive.tv/video/295099</link>
@@ -398,14 +405,6 @@
             <pubDate>Sat, 17 Dec 2022 12:53:10 GMT</pubDate>
             <content:encoded><![CDATA[PENTAGON]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221215_8/1671031813346A8IO6_JPEG/upload_1151115287527671120e2c0cf6-4955-4cef-9a6e-dad9a80a36a6.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['STAY' Covered by 우주소녀 다영 (WJSN DAYOUNG)]]></title>
-            <link>https://www.vlive.tv/video/295155</link>
-            <guid>https://www.vlive.tv/video/295155</guid>
-            <pubDate>Sat, 17 Dec 2022 11:38:46 GMT</pubDate>
-            <content:encoded><![CDATA[우주소녀(WJSN)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221216_169/1671186526950GgceC_JPEG/upload_115266246336225366faf35ea0-e63a-4f1b-885c-9b643e94d7f9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
