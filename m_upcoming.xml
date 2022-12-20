@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 23:40:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 01:59:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Welcome to Korea with Kim Min Ji]]></title>
-            <link>https://m.vlive.tv/video/295099</link>
-            <guid>https://m.vlive.tv/video/295099</guid>
-            <pubDate>Fri, 16 Dec 2022 04:43:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221215_3/1671066394042oOEvS_JPEG/upload_115146095227606220893f7104-bef0-48f3-a9c8-3edb8b74eb01.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[ASC Live Ep.553 (LUCY/루시)]]></title>
             <link>https://m.vlive.tv/video/295217</link>
@@ -106,6 +96,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221215_230/1671066475258Xd1ll_JPEG/upload_11514619613482880732e919d7-2e61-4e72-aeac-d2bc5ff44b7c.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (KPOPPIN' / 준, 가호 JUNE, Gaho )]]></title>
+            <link>https://m.vlive.tv/video/295110</link>
+            <guid>https://m.vlive.tv/video/295110</guid>
+            <pubDate>Tue, 20 Dec 2022 01:59:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 5:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221215_48/1671067281749syiue_JPEG/upload_8733686441035720832b8e940-3b68-42a5-a612-57220882f23b.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
