@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 12:58:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 13:40:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,23 @@
             <guid>https://www.vlive.tv/video/295323</guid>
             <pubDate>Wed, 21 Dec 2022 12:57:47 GMT</pubDate>
             <content:encoded><![CDATA[AB6IX]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/295323/thumb?type=f228_128" length="0" type="image//live/295323/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20221221_178/1671628438218o7fW3_JPEG/92c83165-8130-11ed-89d2-a0369ffab09c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[은조의 조은밤🌝🎧#87]]></title>
+            <link>https://www.vlive.tv/video/295324</link>
+            <guid>https://www.vlive.tv/video/295324</guid>
+            <pubDate>Wed, 21 Dec 2022 13:39:03 GMT</pubDate>
+            <content:encoded><![CDATA[드림노트 (DreamNote)]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/295324/thumb?type=f228_128" length="0" type="image//live/295324/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[[#HASHTALK] EP.18  멤버들이 바라보는 소연이는 ❓ㅣ(여자)아이들]]></title>
+            <link>https://www.vlive.tv/video/295237</link>
+            <guid>https://www.vlive.tv/video/295237</guid>
+            <pubDate>Wed, 21 Dec 2022 13:39:03 GMT</pubDate>
+            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221220_58/16715160753589vEry_JPEG/upload_11559571298722909716bfb72c-1169-462c-a0f8-76a2c2bce47a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[합천 스케줄 끝~!!!!!]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 21 Dec 2022 10:40:09 GMT</pubDate>
             <content:encoded><![CDATA[BRANDNEW MUSIC]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221221_166/1671615379390xgDaf_JPEG/upload_1156951114091590475f5c5b5c-a2c3-4723-a77b-7e67929d812d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arirang Radio (Super K-Pop / BUMJIN 범진)]]></title>
-            <link>https://www.vlive.tv/video/295077</link>
-            <guid>https://www.vlive.tv/video/295077</guid>
-            <pubDate>Wed, 21 Dec 2022 07:38:47 GMT</pubDate>
-            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221214_61/1671011656982C5fFi_JPEG/upload_115091334037876742b4ee5520-ff3a-4258-8c0a-c04e3570fd91.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stray Kids(스트레이 키즈) "FAM (Korean Ver.)" M/V]]></title>
-            <link>https://www.vlive.tv/video/295295</link>
-            <guid>https://www.vlive.tv/video/295295</guid>
-            <pubDate>Wed, 21 Dec 2022 09:44:33 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221221_246/16715911504821bosz_JPEG/upload_115670395212302023371b77e0-c5cc-41ec-a362-315590677503.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
