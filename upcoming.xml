@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 05:40:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 06:43:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Wed, 21 Dec 2022 03:40:15 GMT</pubDate>
             <content:encoded><![CDATA[오전 3:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221221_278/1671585117024kaVwc_PNG/upload_115664758655590924d95d9b32-53e6-4ab0-b728-8db8978cdf11.png?type=f228_128" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio/K-Poppin'] It's MZ TIME! with DKB]]></title>
-            <link>https://www.vlive.tv/video/295106</link>
-            <guid>https://www.vlive.tv/video/295106</guid>
-            <pubDate>Wed, 21 Dec 2022 01:55:02 GMT</pubDate>
-            <content:encoded><![CDATA[오전 4:50]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221215_198/1671066789653c6UUy_JPEG/upload_115146495951757480c594e06d-c812-482d-a9ba-66855298681a.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LUCY - HERO (루시-HERO)]]></title>
@@ -100,8 +92,16 @@
             <link>https://www.vlive.tv/video/295104</link>
             <guid>https://www.vlive.tv/video/295104</guid>
             <pubDate>Wed, 21 Dec 2022 01:55:02 GMT</pubDate>
-            <content:encoded><![CDATA[오전 6:00]]></content:encoded>
+            <content:encoded><![CDATA[오전 5:55]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221215_46/1671066641381OWFJ4_JPEG/upload_1151463387975540222492d64d-4f97-496e-9e99-64380681eb50.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio/K-Poppin'] It's MZ TIME! with DKB]]></title>
+            <link>https://www.vlive.tv/video/295106</link>
+            <guid>https://www.vlive.tv/video/295106</guid>
+            <pubDate>Wed, 21 Dec 2022 01:55:02 GMT</pubDate>
+            <content:encoded><![CDATA[오전 6:01]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221215_198/1671066789653c6UUy_JPEG/upload_115146495951757480c594e06d-c812-482d-a9ba-66855298681a.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Arirang Radio (Super K-Pop / BUMJIN 범진)]]></title>
