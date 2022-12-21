@@ -4,17 +4,9 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 04:44:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 05:40:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[안녕]]></title>
-            <link>https://www.vlive.tv/video/295228</link>
-            <guid>https://www.vlive.tv/video/295228</guid>
-            <pubDate>Wed, 21 Dec 2022 04:43:04 GMT</pubDate>
-            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221220_27/1671510589482Cs97B_JPEG/34909cb2-801e-11ed-b03a-48df379cc9e4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[바톤터치]]></title>
             <link>https://www.vlive.tv/video/295253</link>
@@ -30,6 +22,14 @@
             <pubDate>Tue, 20 Dec 2022 17:42:00 GMT</pubDate>
             <content:encoded><![CDATA[CRAVITY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221221_231/16715574981898g0Ua_JPEG/fd946aab-8073-11ed-90ce-505dac8c35ff_07.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안녕]]></title>
+            <link>https://www.vlive.tv/video/295228</link>
+            <guid>https://www.vlive.tv/video/295228</guid>
+            <pubDate>Wed, 21 Dec 2022 04:43:04 GMT</pubDate>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221220_27/1671510589482Cs97B_JPEG/34909cb2-801e-11ed-b03a-48df379cc9e4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TWICE TV "Peach Sisters' Banana Bread Making"]]></title>
