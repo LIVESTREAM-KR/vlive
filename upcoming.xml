@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 14:41:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 15:43:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,14 +280,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221220_58/16715160753589vEry_JPEG/upload_11559571298722909716bfb72c-1169-462c-a0f8-76a2c2bce47a.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[은조의 조은밤🌝🎧#87]]></title>
-            <link>https://www.vlive.tv/video/295324</link>
-            <guid>https://www.vlive.tv/video/295324</guid>
-            <pubDate>Wed, 21 Dec 2022 13:39:57 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:06]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/295324/thumb?type=f228_128" length="0" type="image//live/295324/thumb"/>
-        </item>
-        <item>
             <title><![CDATA[모여라 에비뉴💙]]></title>
             <link>https://www.vlive.tv/video/295323</link>
             <guid>https://www.vlive.tv/video/295323</guid>
@@ -302,6 +294,14 @@
             <pubDate>Wed, 21 Dec 2022 14:40:36 GMT</pubDate>
             <content:encoded><![CDATA[오후 2:02]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221221_174/1671631354556nBaJH_JPEG/1845068854957839331f7a5627-ad8d-494b-b347-9f517176a9a7.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[은조의 조은밤🌝🎧#87]]></title>
+            <link>https://www.vlive.tv/video/295324</link>
+            <guid>https://www.vlive.tv/video/295324</guid>
+            <pubDate>Wed, 21 Dec 2022 13:39:57 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221222_6/1671634815520odW4a_JPEG/45954836-813e-11ed-b33d-80615f0c4788_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
