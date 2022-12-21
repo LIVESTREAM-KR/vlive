@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 06:43:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 07:40:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Super K-Pop / BUMJIN 범진)]]></title>
-            <link>https://m.vlive.tv/video/295077</link>
-            <guid>https://m.vlive.tv/video/295077</guid>
-            <pubDate>Mon, 19 Dec 2022 07:39:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 7:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221214_61/1671011656982C5fFi_JPEG/upload_115091334037876742b4ee5520-ff3a-4258-8c0a-c04e3570fd91.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
             <link>https://m.vlive.tv/video/295101</link>
@@ -86,6 +76,16 @@
 										오전 11:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221219_163/1671447352902OTOx7_JPEG/upload_115527002773603612dbfc0bf4-8458-4c93-a6c0-c694f8d263a8.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하이키의 Merry Christmas :-) 🎄]]></title>
+            <link>https://m.vlive.tv/video/295243</link>
+            <guid>https://m.vlive.tv/video/295243</guid>
+            <pubDate>Wed, 21 Dec 2022 07:39:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 10:00</span>
+										<span class="txt">H1-KEY</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221220_230/1671521212706lbVhT_JPEG/upload_1156005183368606858a0cac60-8020-4ea1-8080-563e4ec91004.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
