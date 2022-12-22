@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 13:41:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 14:40:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,14 +168,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221222_268/1671703358222xjaTc_JPEG/18457897216558047976b13f64-b7f1-48a4-bed5-7056aaea2bb2.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[상아의 네일 샵 오픈 💅]]></title>
-            <link>https://www.vlive.tv/video/295358</link>
-            <guid>https://www.vlive.tv/video/295358</guid>
-            <pubDate>Thu, 22 Dec 2022 11:39:52 GMT</pubDate>
-            <content:encoded><![CDATA[오전 11:33]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221222_113/1671708830368kfaq0_JPEG/9376126890558083340f2ebce-1517-4e7f-a98a-c87517fb6f8a.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[D-2🫶🏻🎄🧣☃️💚💛💙]]></title>
             <link>https://www.vlive.tv/video/295355</link>
             <guid>https://www.vlive.tv/video/295355</guid>
@@ -216,12 +208,19 @@
             <enclosure url="https://v-phinf.pstatic.net/20221222_42/1671714053360yuTou_JPEG/c8f09a70-81f7-11ed-bda9-505dacfbaa5c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[조금춤출곽?]]></title>
+            <link>https://www.vlive.tv/video/295362</link>
+            <guid>https://www.vlive.tv/video/295362</guid>
+            <pubDate>Thu, 22 Dec 2022 14:39:37 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:05]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[진석이의 별빛라디오⭐️]]></title>
             <link>https://www.vlive.tv/video/295361</link>
             <guid>https://www.vlive.tv/video/295361</guid>
             <pubDate>Thu, 22 Dec 2022 13:40:39 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:15]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/295361/thumb?type=f228_128" length="0" type="image//live/295361/thumb"/>
+            <content:encoded><![CDATA[오후 2:05]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221222_63/1671717958265XH30s_JPEG/46700d46-8201-11ed-9eb0-48df377036d6_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
