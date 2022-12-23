@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 09:40:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 11:40:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Radio'n Us / Yun Seong&EruhWa 윤성&에루화)]]></title>
-            <link>https://m.vlive.tv/video/295218</link>
-            <guid>https://m.vlive.tv/video/295218</guid>
-            <pubDate>Wed, 21 Dec 2022 06:43:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221219_163/1671447352902OTOx7_JPEG/upload_115527002773603612dbfc0bf4-8458-4c93-a6c0-c694f8d263a8.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[하이키의 Merry Christmas :-) 🎄]]></title>
             <link>https://m.vlive.tv/video/295243</link>
@@ -96,6 +86,26 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221221_278/1671593856765EV78D_JPEG/upload_1156672160298964034a993c64-c163-46c7-a711-48c0be2e635f.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthew]]></title>
+            <link>https://m.vlive.tv/video/295286</link>
+            <guid>https://m.vlive.tv/video/295286</guid>
+            <pubDate>Fri, 23 Dec 2022 11:39:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221221_253/1671586740485RH4LW_JPEG/upload_115666444699602053e4a372ea-c386-44eb-9b75-aa22d0090c30.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (KPOPPIN' / 엔티엑스, NTX )]]></title>
+            <link>https://m.vlive.tv/video/295233</link>
+            <guid>https://m.vlive.tv/video/295233</guid>
+            <pubDate>Fri, 23 Dec 2022 11:39:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:30</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221220_69/1671513384794DiGuE_JPEG/upload_87782936341821984145d085f-9b30-4851-a755-99d1b1c4e1a1.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
