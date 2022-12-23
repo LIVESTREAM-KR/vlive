@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 13:40:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 14:40:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,6 +230,22 @@
             <pubDate>Fri, 23 Dec 2022 01:57:17 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:06]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221219_163/1671447352902OTOx7_JPEG/upload_115527002773603612dbfc0bf4-8458-4c93-a6c0-c694f8d263a8.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🎄Merry Christmas🎄]]></title>
+            <link>https://www.vlive.tv/video/295403</link>
+            <guid>https://www.vlive.tv/video/295403</guid>
+            <pubDate>Fri, 23 Dec 2022 14:39:37 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:52]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221223_2/16718035650340H6fC_JPEG/1846791020204870997f72ee99-b4e9-4833-adb5-8c10ed30b914.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lets watting for eve! Together!]]></title>
+            <link>https://www.vlive.tv/video/295405</link>
+            <guid>https://www.vlive.tv/video/295405</guid>
+            <pubDate>Fri, 23 Dec 2022 14:39:37 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:05]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/295405/thumb?type=f228_128" length="0" type="image//live/295405/thumb"/>
         </item>
     </channel>
 </rss>

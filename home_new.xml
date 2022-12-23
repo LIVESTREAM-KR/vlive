@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 13:40:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 14:40:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Lets watting for eve! Together!]]></title>
+            <link>https://www.vlive.tv/video/295405</link>
+            <guid>https://www.vlive.tv/video/295405</guid>
+            <pubDate>Fri, 23 Dec 2022 14:38:46 GMT</pubDate>
+            <content:encoded><![CDATA[M.O.N.T (몬트)]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/295405/thumb?type=f228_128" length="0" type="image//live/295405/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[🎄Merry Christmas🎄]]></title>
+            <link>https://www.vlive.tv/video/295403</link>
+            <guid>https://www.vlive.tv/video/295403</guid>
+            <pubDate>Fri, 23 Dec 2022 14:38:46 GMT</pubDate>
+            <content:encoded><![CDATA[EPEX]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221223_2/16718035650340H6fC_JPEG/1846791020204870997f72ee99-b4e9-4833-adb5-8c10ed30b914.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Arirang Radio (Radio'n Us / Yun Seong&EruhWa 윤성&에루화)]]></title>
             <link>https://www.vlive.tv/video/295218</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 23 Dec 2022 09:38:59 GMT</pubDate>
             <content:encoded><![CDATA[E'LAST]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221223_16/167176618576280xUy_JPEG/upload_115845903801067642b14884e3-e07a-45ff-8019-2d335a25b634.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TWICE REALITY "TIME TO TWICE" Healing December EP.03]]></title>
-            <link>https://www.vlive.tv/video/295372</link>
-            <guid>https://www.vlive.tv/video/295372</guid>
-            <pubDate>Fri, 23 Dec 2022 09:38:59 GMT</pubDate>
-            <content:encoded><![CDATA[TWICE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221223_44/1671761231968JdDRs_JPEG/upload_11584095117183840950e21c77-b33a-4cbc-be78-e0ce9bd13d7d.JPG?type=f228_128_wp" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[채채즈 is back😎]]></title>
-            <link>https://www.vlive.tv/video/295388</link>
-            <guid>https://www.vlive.tv/video/295388</guid>
-            <pubDate>Fri, 23 Dec 2022 08:41:52 GMT</pubDate>
-            <content:encoded><![CDATA[ICHILLIN’]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221223_234/1671785685516lrRP8_JPEG/b8c4c419-829e-11ed-aba2-80615f0bce14_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

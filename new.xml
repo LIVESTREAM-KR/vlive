@@ -4,9 +4,24 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 13:40:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 14:40:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Lets watting for eve! Together!]]></title>
+            <link>https://www.vlive.tv/video/295405</link>
+            <guid>https://www.vlive.tv/video/295405</guid>
+            <pubDate>Fri, 23 Dec 2022 14:38:35 GMT</pubDate>
+            <content:encoded><![CDATA[M.O.N.T (몬트)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[🎄Merry Christmas🎄]]></title>
+            <link>https://www.vlive.tv/video/295403</link>
+            <guid>https://www.vlive.tv/video/295403</guid>
+            <pubDate>Fri, 23 Dec 2022 14:38:35 GMT</pubDate>
+            <content:encoded><![CDATA[EPEX]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221223_2/16718035650340H6fC_JPEG/1846791020204870997f72ee99-b4e9-4833-adb5-8c10ed30b914.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Arirang Radio (Radio'n Us / Yun Seong&EruhWa 윤성&에루화)]]></title>
             <link>https://www.vlive.tv/video/295218</link>
@@ -390,22 +405,6 @@
             <pubDate>Thu, 22 Dec 2022 07:38:52 GMT</pubDate>
             <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221222_82/1671693450990M06mt_JPEG/970a680f-81c7-11ed-8112-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[넷플릭스] [선공개] 바람 피운 친구의 애인 참교육 한 채수빈 | 더 패뷸러스]]></title>
-            <link>https://www.vlive.tv/video/295343</link>
-            <guid>https://www.vlive.tv/video/295343</guid>
-            <pubDate>Thu, 22 Dec 2022 07:38:52 GMT</pubDate>
-            <content:encoded><![CDATA[넷플릭스 (Netflixkr)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221222_97/1671690625846HeVbw_JPEG/upload_115770358465693129cff6b65a-5263-40db-bd1d-fe96593503c2.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arirang Radio (KPOPPIN' / 준, 가호 JUNE, Gaho )]]></title>
-            <link>https://www.vlive.tv/video/295110</link>
-            <guid>https://www.vlive.tv/video/295110</guid>
-            <pubDate>Thu, 22 Dec 2022 05:38:53 GMT</pubDate>
-            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221215_48/1671067281749syiue_JPEG/upload_8733686441035720832b8e940-3b68-42a5-a612-57220882f23b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
