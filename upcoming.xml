@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 15:40:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 16:53:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,20 +272,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20221224_73/1671809125643Cy5FC_JPEG/a776514a-82d4-11ed-b33d-80615f0c4788_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[크리스마스 이브니까 24분 브이보이스 🎄]]></title>
-            <link>https://www.vlive.tv/video/295407</link>
-            <guid>https://www.vlive.tv/video/295407</guid>
-            <pubDate>Fri, 23 Dec 2022 15:39:51 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:27]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221224_215/1671809236484DPU9y_JPEG/1846848524183969662363894c-65c4-4d49-8bc7-c36467195ca3.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[세운 to me now #41 뉴 기타들 이름 짓기]]></title>
             <link>https://www.vlive.tv/video/295408</link>
             <guid>https://www.vlive.tv/video/295408</guid>
             <pubDate>Fri, 23 Dec 2022 15:39:51 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:38]]></content:encoded>
             <enclosure url="https://vlive-thumb.pstatic.net/live/295408/thumb?type=f228_128" length="0" type="image//live/295408/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[크리스마스 이브니까 24분 브이보이스 🎄]]></title>
+            <link>https://www.vlive.tv/video/295407</link>
+            <guid>https://www.vlive.tv/video/295407</guid>
+            <pubDate>Fri, 23 Dec 2022 15:39:51 GMT</pubDate>
+            <content:encoded><![CDATA[오후 4:15]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221224_215/1671809236484DPU9y_JPEG/1846848524183969662363894c-65c4-4d49-8bc7-c36467195ca3.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
