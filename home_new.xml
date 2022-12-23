@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 16:53:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 17:40:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Fri, 23 Dec 2022 15:39:01 GMT</pubDate>
             <content:encoded><![CDATA[Weki Meki]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221224_215/1671809236484DPU9y_JPEG/1846848524183969662363894c-65c4-4d49-8bc7-c36467195ca3.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세운 to me now #41 뉴 기타들 이름 짓기]]></title>
-            <link>https://www.vlive.tv/video/295408</link>
-            <guid>https://www.vlive.tv/video/295408</guid>
-            <pubDate>Fri, 23 Dec 2022 15:39:01 GMT</pubDate>
-            <content:encoded><![CDATA[정세운(Jeong Sewoon)]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/295408/thumb?type=f228_128" length="0" type="image//live/295408/thumb"/>
         </item>
         <item>
             <title><![CDATA[Lets watting for eve! Together!]]></title>
@@ -126,6 +118,14 @@
             <pubDate>Fri, 23 Dec 2022 11:38:48 GMT</pubDate>
             <content:encoded><![CDATA[2PM]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221223_189/16717783638306gjtr_PNG/upload_11585805288542687106383224-1059-4c11-b913-dd4fc92388c1.png?type=f228_128_wp" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[Special Clip] All I Want For Christmas Is You]]></title>
+            <link>https://www.vlive.tv/video/295261</link>
+            <guid>https://www.vlive.tv/video/295261</guid>
+            <pubDate>Fri, 23 Dec 2022 17:38:59 GMT</pubDate>
+            <content:encoded><![CDATA[정세운(Jeong Sewoon)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221220_10/1671531525769VVHr2_JPEG/upload_11561125613224197350fe5b8c-1084-485c-bf9f-21084e3cbbfe.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
