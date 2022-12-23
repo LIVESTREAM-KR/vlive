@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 05:40:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 06:44:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / Radio’ Clock] INSSA Party with prettylittleiris & BOiTELLO아이리스&보이텔로]]></title>
-            <link>https://m.vlive.tv/video/295105</link>
-            <guid>https://m.vlive.tv/video/295105</guid>
-            <pubDate>Tue, 20 Dec 2022 09:40:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 6:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221215_240/16710667006852KWCW_JPEG/upload_873362716457775070380d831-538f-4d19-9f4d-f2759a51dd0b.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Super K-Pop] Music Dive with Yuni Lim]]></title>
             <link>https://m.vlive.tv/video/295108</link>
@@ -76,6 +66,16 @@
 										오전 4:30</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221220_159/1671513247701OL5u6_JPEG/upload_87782821921905598c8760cf3-7b95-4e2d-820a-2bccda92e7e0.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Welcome to Korea with Kim Min Ji]]></title>
+            <link>https://m.vlive.tv/video/295285</link>
+            <guid>https://m.vlive.tv/video/295285</guid>
+            <pubDate>Fri, 23 Dec 2022 06:43:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 1:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221221_203/1671586685372daRoK_JPEG/upload_8785626638034178370b47b99-32bd-4a3a-8f36-d05642d265b2.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
