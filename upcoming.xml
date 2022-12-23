@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 11:40:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 13:40:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -176,14 +176,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221223_189/16717783638306gjtr_PNG/upload_11585805288542687106383224-1059-4c11-b913-dd4fc92388c1.png?type=f228_128" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Arirang Radio (Radio'n Us / Yun Seong&EruhWa 윤성&에루화)]]></title>
-            <link>https://www.vlive.tv/video/295218</link>
-            <guid>https://www.vlive.tv/video/295218</guid>
-            <pubDate>Fri, 23 Dec 2022 01:57:17 GMT</pubDate>
-            <content:encoded><![CDATA[오전 10:57]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221219_163/1671447352902OTOx7_JPEG/upload_115527002773603612dbfc0bf4-8458-4c93-a6c0-c694f8d263a8.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예삐소드] AB6IX (에이비식스) 넷플릭스 '더 패뷸러스' OST 'Life is beautiful' BEHIND]]></title>
             <link>https://www.vlive.tv/video/295373</link>
             <guid>https://www.vlive.tv/video/295373</guid>
@@ -200,12 +192,44 @@
             <enclosure url="https://v-phinf.pstatic.net/20221223_251/1671788374768iJf1l_JPEG/93840813305776567b8e49c6b-6e85-42fb-a5ac-c2cac8ac99a7.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[펜타곤 - 펜토리 #179 (마닐라에서의 이야기 🙌 PART 2)]]></title>
+            <link>https://www.vlive.tv/video/295348</link>
+            <guid>https://www.vlive.tv/video/295348</guid>
+            <pubDate>Fri, 23 Dec 2022 13:39:36 GMT</pubDate>
+            <content:encoded><![CDATA[오후 12:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221222_11/1671697667252x6lnG_JPEG/upload_879672699901161005f5a8fdf-51d5-4fca-a41b-f43dda2b9044.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Special Clip] 유승우 (Yu Seung Woo) - 2022 크리스마스 메시지 (2022 Christmas Message)]]></title>
+            <link>https://www.vlive.tv/video/295378</link>
+            <guid>https://www.vlive.tv/video/295378</guid>
+            <pubDate>Fri, 23 Dec 2022 13:39:36 GMT</pubDate>
+            <content:encoded><![CDATA[오후 12:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221223_290/16717717987368KKNw_JPEG/upload_115851484233089112e80df7d0-7d0b-45b4-b7cd-58e61040e602.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[withus_금요일day]]></title>
             <link>https://www.vlive.tv/video/295399</link>
             <guid>https://www.vlive.tv/video/295399</guid>
             <pubDate>Fri, 23 Dec 2022 11:39:42 GMT</pubDate>
-            <content:encoded><![CDATA[오전 11:03]]></content:encoded>
+            <content:encoded><![CDATA[오후 12:19]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221223_224/1671793389696MhKel_JPEG/18466892068010323795fb2159-36d0-4b13-ac67-7a447b2959ca.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[(여자)아이들 - 'Nxde' Recording Behind]]></title>
+            <link>https://www.vlive.tv/video/295360</link>
+            <guid>https://www.vlive.tv/video/295360</guid>
+            <pubDate>Fri, 23 Dec 2022 13:39:36 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221223_156/1671789124266Wx3yI_JPEG/upload_87981292370486620ed4248bb-9ddc-4eb0-a444-8d969f0a7aeb.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Radio'n Us / Yun Seong&EruhWa 윤성&에루화)]]></title>
+            <link>https://www.vlive.tv/video/295218</link>
+            <guid>https://www.vlive.tv/video/295218</guid>
+            <pubDate>Fri, 23 Dec 2022 01:57:17 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:06]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221219_163/1671447352902OTOx7_JPEG/upload_115527002773603612dbfc0bf4-8458-4c93-a6c0-c694f8d263a8.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
