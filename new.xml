@@ -4,9 +4,16 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Dec 2022 12:55:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Dec 2022 13:40:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멜크🎄]]></title>
+            <link>https://www.vlive.tv/video/295429</link>
+            <guid>https://www.vlive.tv/video/295429</guid>
+            <pubDate>Sat, 24 Dec 2022 13:38:48 GMT</pubDate>
+            <content:encoded><![CDATA[EPEX]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[🎄Merry Christmas mas LUMINI❤️]]></title>
             <link>https://www.vlive.tv/video/295426</link>
@@ -398,14 +405,6 @@
             <pubDate>Fri, 23 Dec 2022 08:41:41 GMT</pubDate>
             <content:encoded><![CDATA[ICHILLIN’]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221223_234/1671785685516lrRP8_JPEG/b8c4c419-829e-11ed-aba2-80615f0bce14_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우리 얘기 좀 합시다 #163]]></title>
-            <link>https://www.vlive.tv/video/295389</link>
-            <guid>https://www.vlive.tv/video/295389</guid>
-            <pubDate>Fri, 23 Dec 2022 08:41:41 GMT</pubDate>
-            <content:encoded><![CDATA[N.Flying]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221223_125/1671784816113EVW5u_JPEG/e724f094-829c-11ed-b02b-a0369ffb35dc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
