@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Dec 2022 13:40:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Dec 2022 14:40:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -230,6 +230,30 @@
             <pubDate>Sat, 24 Dec 2022 13:39:40 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:28]]></content:encoded>
             <enclosure url="https://vlive-thumb.pstatic.net/live/295429/thumb?type=f228_128" length="0" type="image//live/295429/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[🎄CHRISTMAS PARTY🎅🏻🎁]]></title>
+            <link>https://www.vlive.tv/video/295430</link>
+            <guid>https://www.vlive.tv/video/295430</guid>
+            <pubDate>Sat, 24 Dec 2022 14:39:59 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:55]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/295430/thumb?type=f228_128" length="0" type="image//live/295430/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[🎄]]></title>
+            <link>https://www.vlive.tv/video/295431</link>
+            <guid>https://www.vlive.tv/video/295431</guid>
+            <pubDate>Sat, 24 Dec 2022 14:39:59 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:30]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/295431/thumb?type=f228_128" length="0" type="image//live/295431/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[크리스마스 25분 전🎄❤️💚]]></title>
+            <link>https://www.vlive.tv/video/295432</link>
+            <guid>https://www.vlive.tv/video/295432</guid>
+            <pubDate>Sat, 24 Dec 2022 14:39:59 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:35]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/295432/thumb?type=f228_128" length="0" type="image//live/295432/thumb"/>
         </item>
     </channel>
 </rss>
