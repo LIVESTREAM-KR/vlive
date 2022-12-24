@@ -4,9 +4,19 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Dec 2022 01:51:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Dec 2022 03:40:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🎄 Merry Christmas mas LUMINI❤]]></title>
+            <link>https://m.vlive.tv/video/295411</link>
+            <guid>https://m.vlive.tv/video/295411</guid>
+            <pubDate>Sat, 24 Dec 2022 03:39:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 9:00</span>
+										<span class="txt">루미너스 (LUMINOUS)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221224_222/1671851076468Ichwg_JPEG/upload_115930697232961116276bbab6-6b90-4ceb-a664-3cc02d65d817.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[🎄Fine Merry Christmas🎄]]></title>
             <link>https://m.vlive.tv/video/295404</link>
@@ -96,16 +106,6 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221221_278/1671593856765EV78D_JPEG/upload_1156672160298964034a993c64-c163-46c7-a711-48c0be2e635f.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthew]]></title>
-            <link>https://m.vlive.tv/video/295286</link>
-            <guid>https://m.vlive.tv/video/295286</guid>
-            <pubDate>Fri, 23 Dec 2022 11:39:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 1:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221221_253/1671586740485RH4LW_JPEG/upload_115666444699602053e4a372ea-c386-44eb-9b75-aa22d0090c30.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
