@@ -4,7 +4,7 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Dec 2022 05:40:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Dec 2022 06:42:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,6 +13,15 @@
             <guid>https://www.vlive.tv/video/295414</guid>
             <pubDate>Sat, 24 Dec 2022 05:38:41 GMT</pubDate>
             <content:encoded><![CDATA[Kep1er]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221224_215/1671862089395T3tLn_JPEG/b1f4b543-8350-11ed-b8af-48df37e2c3b0_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Special Clip] CRAVITY (크래비티) - 2022 Christmas Message]]></title>
+            <link>https://www.vlive.tv/video/295387</link>
+            <guid>https://www.vlive.tv/video/295387</guid>
+            <pubDate>Sat, 24 Dec 2022 06:40:44 GMT</pubDate>
+            <content:encoded><![CDATA[CRAVITY]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221223_177/1671780790564ANFLH_JPEG/upload_1158602159858025187ac15429-bf5e-4973-a6cc-ec5bcbfacbab.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[설아 생일파티에 놀러와]]></title>
@@ -397,14 +406,6 @@
             <pubDate>Thu, 22 Dec 2022 13:39:37 GMT</pubDate>
             <content:encoded><![CDATA[n.CH ENTERTAINMENT]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221222_42/1671714053360yuTou_JPEG/c8f09a70-81f7-11ed-bda9-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🎄메리크리스마수🎄]]></title>
-            <link>https://www.vlive.tv/video/295357</link>
-            <guid>https://www.vlive.tv/video/295357</guid>
-            <pubDate>Thu, 22 Dec 2022 11:38:48 GMT</pubDate>
-            <content:encoded><![CDATA[EARLYBIRD Entertainment [얼리버드 엔터테인먼트]]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221222_196/1671708226583Id7n8_JPEG/9376066509719101618fb208c-6c76-4813-8be8-090b9d491759.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

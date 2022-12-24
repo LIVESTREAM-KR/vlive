@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Dec 2022 05:40:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Dec 2022 06:42:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,15 @@
             <guid>https://www.vlive.tv/video/295414</guid>
             <pubDate>Sat, 24 Dec 2022 05:38:51 GMT</pubDate>
             <content:encoded><![CDATA[Kep1er]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/295414/thumb?type=f228_128" length="0" type="image//live/295414/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20221224_215/1671862089395T3tLn_JPEG/b1f4b543-8350-11ed-b8af-48df37e2c3b0_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Special Clip] CRAVITY (크래비티) - 2022 Christmas Message]]></title>
+            <link>https://www.vlive.tv/video/295387</link>
+            <guid>https://www.vlive.tv/video/295387</guid>
+            <pubDate>Sat, 24 Dec 2022 06:40:54 GMT</pubDate>
+            <content:encoded><![CDATA[CRAVITY]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221223_177/1671780790564ANFLH_JPEG/upload_1158602159858025187ac15429-bf5e-4973-a6cc-ec5bcbfacbab.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[설아 생일파티에 놀러와]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 23 Dec 2022 14:38:46 GMT</pubDate>
             <content:encoded><![CDATA[M.O.N.T (몬트)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221224_73/1671809125643Cy5FC_JPEG/a776514a-82d4-11ed-b33d-80615f0c4788_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🎄Merry Christmas🎄]]></title>
-            <link>https://www.vlive.tv/video/295403</link>
-            <guid>https://www.vlive.tv/video/295403</guid>
-            <pubDate>Fri, 23 Dec 2022 14:38:46 GMT</pubDate>
-            <content:encoded><![CDATA[EPEX]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221223_2/16718035650340H6fC_JPEG/1846791020204870997f72ee99-b4e9-4833-adb5-8c10ed30b914.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
