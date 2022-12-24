@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Dec 2022 16:52:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Dec 2022 17:40:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -264,14 +264,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221225_128/1671894561579HMPDt_JPEG/db821bcf-839b-11ed-b2ec-48df37ae3fca_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[루돌프 사슴은 코만 반짝임]]></title>
-            <link>https://www.vlive.tv/video/295434</link>
-            <guid>https://www.vlive.tv/video/295434</guid>
-            <pubDate>Sat, 24 Dec 2022 15:39:31 GMT</pubDate>
-            <content:encoded><![CDATA[오후 3:19]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221225_274/1671895160947DBPIn_JPEG/22682531564337615700bf244-b23a-4090-bc72-7a57b8c5a7c1.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[멜크🎄]]></title>
             <link>https://www.vlive.tv/video/295429</link>
             <guid>https://www.vlive.tv/video/295429</guid>
@@ -285,7 +277,7 @@
             <guid>https://www.vlive.tv/video/295431</guid>
             <pubDate>Sat, 24 Dec 2022 16:51:33 GMT</pubDate>
             <content:encoded><![CDATA[오후 3:43]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221225_53/1671896615143mAKzf_JPEG/05915fb6-83a1-11ed-9791-a0369ffdecf8_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20221225_81/16719012340867I1a7_JPEG/05915fb6-83a1-11ed-9791-a0369ffdecf8_08.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크리스마스 5분 전🎄💚❤️]]></title>
@@ -302,6 +294,14 @@
             <pubDate>Sat, 24 Dec 2022 16:51:33 GMT</pubDate>
             <content:encoded><![CDATA[오후 4:48]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221225_226/1671900512088kYtyb_JPEG/6350c4e8-83aa-11ed-b07f-80615f0bce8c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[루돌프 사슴은 코만 반짝임]]></title>
+            <link>https://www.vlive.tv/video/295434</link>
+            <guid>https://www.vlive.tv/video/295434</guid>
+            <pubDate>Sat, 24 Dec 2022 15:39:31 GMT</pubDate>
+            <content:encoded><![CDATA[오후 5:03]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221225_274/1671895160947DBPIn_JPEG/22682531564337615700bf244-b23a-4090-bc72-7a57b8c5a7c1.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
