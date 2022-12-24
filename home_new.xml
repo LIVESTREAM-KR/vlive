@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Dec 2022 03:40:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Dec 2022 04:43:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[설아 생일파티에 놀러와]]></title>
+            <link>https://www.vlive.tv/video/295413</link>
+            <guid>https://www.vlive.tv/video/295413</guid>
+            <pubDate>Sat, 24 Dec 2022 04:41:56 GMT</pubDate>
+            <content:encoded><![CDATA[우주소녀(WJSN)]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/295413/thumb?type=f228_128" length="0" type="image//live/295413/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[Sweet Christmas With FromA🎄]]></title>
+            <link>https://www.vlive.tv/video/295412</link>
+            <guid>https://www.vlive.tv/video/295412</guid>
+            <pubDate>Sat, 24 Dec 2022 04:41:56 GMT</pubDate>
+            <content:encoded><![CDATA[2Z]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/295412/thumb?type=f228_128" length="0" type="image//live/295412/thumb"/>
+        </item>
         <item>
             <title><![CDATA[[VAV]ayno🎄]]></title>
             <link>https://www.vlive.tv/video/295410</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 23 Dec 2022 15:39:01 GMT</pubDate>
             <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221223_70/1671773150376Gp7g1_JPEG/upload_1158528689489962869c29c474-1c95-4718-b29a-5bf1cd0d6e67.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YENA(최예나) - 미리 메리 크리스마스 🎄🎁💖 | COVER - 원곡 : 아이유(IU)]]></title>
-            <link>https://www.vlive.tv/video/295368</link>
-            <guid>https://www.vlive.tv/video/295368</guid>
-            <pubDate>Fri, 23 Dec 2022 15:39:01 GMT</pubDate>
-            <content:encoded><![CDATA[YENA(최예나)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221223_25/1671758534708E2x16_JPEG/upload_1158382645696938691fedd927-18a2-4672-b44d-08c920bb2f7c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ONEWE(원위)가 전하는 2022 크리스마스 인사 메시지]]></title>
-            <link>https://www.vlive.tv/video/295400</link>
-            <guid>https://www.vlive.tv/video/295400</guid>
-            <pubDate>Fri, 23 Dec 2022 15:39:01 GMT</pubDate>
-            <content:encoded><![CDATA[ONEWE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221223_41/16717974611503UDiq_JPEG/upload_11587706316381892964138c19-840e-4be1-9475-5487851f1a92.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
