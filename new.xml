@@ -4,15 +4,23 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Dec 2022 04:43:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Dec 2022 05:40:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[앙뇽🐰]]></title>
+            <link>https://www.vlive.tv/video/295414</link>
+            <guid>https://www.vlive.tv/video/295414</guid>
+            <pubDate>Sat, 24 Dec 2022 05:38:41 GMT</pubDate>
+            <content:encoded><![CDATA[Kep1er]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[설아 생일파티에 놀러와]]></title>
             <link>https://www.vlive.tv/video/295413</link>
             <guid>https://www.vlive.tv/video/295413</guid>
             <pubDate>Sat, 24 Dec 2022 04:41:45 GMT</pubDate>
             <content:encoded><![CDATA[우주소녀(WJSN)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221224_165/1671859298971WXhyG_JPEG/235624f2-834a-11ed-9eb0-48df377036d6_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sweet Christmas With FromA🎄]]></title>
@@ -20,6 +28,7 @@
             <guid>https://www.vlive.tv/video/295412</guid>
             <pubDate>Sat, 24 Dec 2022 04:41:45 GMT</pubDate>
             <content:encoded><![CDATA[2Z]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221224_77/16718575481671MVIB_JPEG/143fad03-8346-11ed-b91a-80615f085cce_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[VAV]ayno🎄]]></title>
@@ -396,14 +405,6 @@
             <pubDate>Thu, 22 Dec 2022 11:38:48 GMT</pubDate>
             <content:encoded><![CDATA[EARLYBIRD Entertainment [얼리버드 엔터테인먼트]]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221222_196/1671708226583Id7n8_JPEG/9376066509719101618fb208c-6c76-4813-8be8-090b9d491759.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HAPPY YOOJUN DAY 🎉]]></title>
-            <link>https://www.vlive.tv/video/295356</link>
-            <guid>https://www.vlive.tv/video/295356</guid>
-            <pubDate>Thu, 22 Dec 2022 11:38:48 GMT</pubDate>
-            <content:encoded><![CDATA[BAE173]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221222_100/1671708027241qfEMe_JPEG/9376046575916746138f7ec69-5125-4c31-b97d-dfdcc214cebb.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
