@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 25 Dec 2022 14:42:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Dec 2022 16:52:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Happy Ginny Day]]></title>
-            <link>https://m.vlive.tv/video/295462</link>
-            <guid>https://m.vlive.tv/video/295462</guid>
-            <pubDate>Sun, 25 Dec 2022 14:42:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오후 2:43</span>
-										<span class="txt">SKYLE</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221225_262/1671979332519Du0Oq_JPEG/upload_116059024190933070c77b0866-8444-495d-8ddd-17daaf180126.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
             <link>https://m.vlive.tv/video/295284</link>
@@ -36,6 +26,26 @@
 										오전 4:30</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221220_159/1671513247701OL5u6_JPEG/upload_87782821921905598c8760cf3-7b95-4e2d-820a-2bccda92e7e0.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Super K-Pop / Queenz Eye 퀸즈아이)]]></title>
+            <link>https://m.vlive.tv/video/295466</link>
+            <guid>https://m.vlive.tv/video/295466</guid>
+            <pubDate>Sun, 25 Dec 2022 16:52:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 7:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221225_167/167197998075814Qvw_JPEG/upload_8824955177692196305074e50-efad-4392-bf21-fc6cd1d108bb.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Radio'n Us / UBARE 유발이)]]></title>
+            <link>https://m.vlive.tv/video/295464</link>
+            <guid>https://m.vlive.tv/video/295464</guid>
+            <pubDate>Sun, 25 Dec 2022 16:52:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221225_149/1671979826148fFBbk_JPEG/upload_116059490036303287d3995fa3-6d4a-49ae-9c80-478f90c503c4.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Welcome to Korea with Kim Min Ji]]></title>
@@ -96,16 +106,6 @@
 										오전 4:30</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221220_69/1671513384794DiGuE_JPEG/upload_87782936341821984145d085f-9b30-4851-a755-99d1b1c4e1a1.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / Radio’ Clock] KoreaPedia with GHOST9 SON JUNHYUNG & PRINCE (고스트나인 준형&프린스)]]></title>
-            <link>https://m.vlive.tv/video/295290</link>
-            <guid>https://m.vlive.tv/video/295290</guid>
-            <pubDate>Sun, 25 Dec 2022 12:55:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 6:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221221_27/1671587149478xhRX7_JPEG/upload_115666848830359734c2842645-e667-4229-a0f8-3666a1eba13e.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
