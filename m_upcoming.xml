@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Dec 2022 10:40:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Dec 2022 11:40:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (Radio'n Us / UBARE 유발이)]]></title>
-            <link>https://m.vlive.tv/video/295464</link>
-            <guid>https://m.vlive.tv/video/295464</guid>
-            <pubDate>Sun, 25 Dec 2022 16:52:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 11:00</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221225_149/1671979826148fFBbk_JPEG/upload_116059490036303287d3995fa3-6d4a-49ae-9c80-478f90c503c4.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Welcome to Korea with Kim Min Ji]]></title>
             <link>https://m.vlive.tv/video/295285</link>
@@ -106,6 +96,16 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221221_72/1671586775239NC6WO_JPEG/upload_87856360875845856f281d390-8e43-47a9-9061-24910210ac0b.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (KPOPPIN' / 몽니, MONNI )]]></title>
+            <link>https://m.vlive.tv/video/295234</link>
+            <guid>https://m.vlive.tv/video/295234</guid>
+            <pubDate>Mon, 26 Dec 2022 11:39:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:30</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221220_27/1671513527006J5YwM_JPEG/upload_115593144290207457f381459a-b2a1-4ff9-811c-a54aa97bd575.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
