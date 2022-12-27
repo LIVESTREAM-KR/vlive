@@ -4,29 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 03:40:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 04:43:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Arirang Radio (KPOPPIN' / 서영은, 젤로 SUH YOUNG EUN, ZELO)]]></title>
-            <link>https://m.vlive.tv/video/295232</link>
-            <guid>https://m.vlive.tv/video/295232</guid>
-            <pubDate>Fri, 23 Dec 2022 07:44:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										방송취소</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221220_153/1671513316100bgfbC_JPEG/upload_11559300288740651937233da5-d7e0-4f33-ae93-f90911c751f2.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arirang Radio (KPOPPIN' /  서문탁, 젤로 SEO MOON TAK, ZELO)]]></title>
-            <link>https://m.vlive.tv/video/295501</link>
-            <guid>https://m.vlive.tv/video/295501</guid>
-            <pubDate>Tue, 27 Dec 2022 01:55:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										오전 4:30</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221227_172/1672101926216MLK5f_JPEG/upload_11618153843695250757115f3c-8394-4d63-8532-8342e3a6f7da.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Radio’ Clock] Who’s Scene it? with prettylittleiris 아이리스]]></title>
             <link>https://m.vlive.tv/video/295289</link>
@@ -96,6 +76,26 @@
 										오전 1:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221221_72/1671586775239NC6WO_JPEG/upload_87856360875845856f281d390-8e43-47a9-9061-24910210ac0b.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (KPOPPIN' / 몽니, MONNI )]]></title>
+            <link>https://m.vlive.tv/video/295234</link>
+            <guid>https://m.vlive.tv/video/295234</guid>
+            <pubDate>Tue, 27 Dec 2022 04:43:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 4:30</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221220_27/1671513527006J5YwM_JPEG/upload_115593144290207457f381459a-b2a1-4ff9-811c-a54aa97bd575.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (Radio' Clock / BaeSuntak 배순탁)]]></title>
+            <link>https://m.vlive.tv/video/295467</link>
+            <guid>https://m.vlive.tv/video/295467</guid>
+            <pubDate>Tue, 27 Dec 2022 04:43:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 6:00</span>
+										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221225_26/1671980274832i7IJe_PNG/upload_116059873189576777db6926d7-fdeb-4998-ad5b-5e74e73b1391.png?type=f274_154" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
