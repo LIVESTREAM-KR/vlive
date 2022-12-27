@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 13:40:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 15:40:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,20 +152,35 @@
             <enclosure url="https://v-phinf.pstatic.net/20221227_267/1672144198893JCuWK_JPEG/185019729885130030c378d62e-29c9-4e37-842a-29630e640f12.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[처피뱅 보고싶으면 들어와🤍]]></title>
-            <link>https://www.vlive.tv/video/295527</link>
-            <guid>https://www.vlive.tv/video/295527</guid>
-            <pubDate>Tue, 27 Dec 2022 13:39:34 GMT</pubDate>
-            <content:encoded><![CDATA[오후 1:32]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221227_205/1672147942492tYTID_JPEG/1850235584855830592bb938fb-75e9-4787-bed5-9615d5fb5fb9.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[중간즈 연말정산]]></title>
             <link>https://www.vlive.tv/video/295524</link>
             <guid>https://www.vlive.tv/video/295524</guid>
             <pubDate>Tue, 27 Dec 2022 11:39:34 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:37]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221227_264/1672148258101YwqNL_JPEG/a4b0b93a-85ea-11ed-bda9-505dacfbaa5c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올해가 가기전에]]></title>
+            <link>https://www.vlive.tv/video/295530</link>
+            <guid>https://www.vlive.tv/video/295530</guid>
+            <pubDate>Tue, 27 Dec 2022 15:39:41 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:23]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[처피뱅 보고싶으면 들어와🤍]]></title>
+            <link>https://www.vlive.tv/video/295527</link>
+            <guid>https://www.vlive.tv/video/295527</guid>
+            <pubDate>Tue, 27 Dec 2022 13:39:34 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:04]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221227_205/1672147942492tYTID_JPEG/1850235584855830592bb938fb-75e9-4787-bed5-9615d5fb5fb9.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공연 후기💙🥸]]></title>
+            <link>https://www.vlive.tv/video/295528</link>
+            <guid>https://www.vlive.tv/video/295528</guid>
+            <pubDate>Tue, 27 Dec 2022 15:39:41 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:13]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221228_156/1672154003323bCwVQ_JPEG/5ad618b3-85f7-11ed-97c6-d4f5ef58ad5e_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
