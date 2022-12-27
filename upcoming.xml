@@ -4,17 +4,9 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 07:40:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 08:42:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[넷플릭스] 피지컬: 100 | 티저 예고편]]></title>
-            <link>https://www.vlive.tv/video/295482</link>
-            <guid>https://www.vlive.tv/video/295482</guid>
-            <pubDate>Tue, 27 Dec 2022 01:55:32 GMT</pubDate>
-            <content:encoded><![CDATA[오전 12:00]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221226_241/1672040924934BuSFI_JPEG/upload_116120636580842450aa913ab7-6bc2-42eb-9f3b-1ea409515ee7.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[넷플릭스] 왠지 눈물이 핑 도는 '어른이 되면'ㅣ로알드 달의 뮤지컬 마틸다]]></title>
             <link>https://www.vlive.tv/video/295503</link>
@@ -78,6 +70,14 @@
             <pubDate>Tue, 27 Dec 2022 02:50:47 GMT</pubDate>
             <content:encoded><![CDATA[오전 8:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221227_9/16721080643243SiqV_JPEG/upload_116187746069112553d7121672-780a-4219-95ba-0d269bedd264.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[넷플릭스] 피지컬: 100 | 티저 예고편]]></title>
+            <link>https://www.vlive.tv/video/295517</link>
+            <guid>https://www.vlive.tv/video/295517</guid>
+            <pubDate>Tue, 27 Dec 2022 08:41:55 GMT</pubDate>
+            <content:encoded><![CDATA[오전 8:13]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221227_224/1672128819102q9Bbt_JPEG/upload_1162085360283216883f746938-d81b-45f3-82b7-254d9c690267.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
