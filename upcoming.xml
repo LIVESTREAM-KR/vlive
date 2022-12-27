@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 10:40:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 11:40:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -134,6 +134,21 @@
             <pubDate>Tue, 27 Dec 2022 10:40:07 GMT</pubDate>
             <content:encoded><![CDATA[오전 10:12]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221227_37/1672135947339iFbUX_JPEG/8df7aec3-85ce-11ed-ac52-505dac8c3639_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중간즈 연말정산]]></title>
+            <link>https://www.vlive.tv/video/295524</link>
+            <guid>https://www.vlive.tv/video/295524</guid>
+            <pubDate>Tue, 27 Dec 2022 11:39:34 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:23]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/295524/thumb?type=f228_128" length="0" type="image//live/295524/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[세미랑 연말 파티💙]]></title>
+            <link>https://www.vlive.tv/video/295525</link>
+            <guid>https://www.vlive.tv/video/295525</guid>
+            <pubDate>Tue, 27 Dec 2022 11:39:34 GMT</pubDate>
+            <content:encoded><![CDATA[오전 11:30]]></content:encoded>
         </item>
     </channel>
 </rss>

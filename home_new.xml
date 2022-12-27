@@ -4,7 +4,7 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 10:40:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 11:40:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
             <pubDate>Mon, 26 Dec 2022 02:52:12 GMT</pubDate>
             <content:encoded><![CDATA[V PICK!]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20210705_12/1625496688600NU2gL_JPEG/upload_695764240102363247dbbfd39-0782-4f2c-9bde-7a0306a68bcd.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세미랑 연말 파티💙]]></title>
+            <link>https://www.vlive.tv/video/295525</link>
+            <guid>https://www.vlive.tv/video/295525</guid>
+            <pubDate>Tue, 27 Dec 2022 11:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[시그니처(cignature)]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/295525/thumb?type=f228_128" length="0" type="image//live/295525/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[중간즈 연말정산]]></title>
+            <link>https://www.vlive.tv/video/295524</link>
+            <guid>https://www.vlive.tv/video/295524</guid>
+            <pubDate>Tue, 27 Dec 2022 11:38:45 GMT</pubDate>
+            <content:encoded><![CDATA[E'LAST]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/295524/thumb?type=f228_128" length="0" type="image//live/295524/thumb"/>
         </item>
         <item>
             <title><![CDATA[유마의 나홀로 브이앱‼️📝]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 27 Dec 2022 06:42:21 GMT</pubDate>
             <content:encoded><![CDATA[Ktimes]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221227_9/1672120808522op94U_JPEG/upload_116200519621160174f1fb93b8-e4b7-4f2c-9a18-9511d99b3eca.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ASC Live Ep.554 (MC SPECIAL/엠씨 스페셜)]]></title>
-            <link>https://www.vlive.tv/video/295384</link>
-            <guid>https://www.vlive.tv/video/295384</guid>
-            <pubDate>Tue, 27 Dec 2022 04:42:09 GMT</pubDate>
-            <content:encoded><![CDATA[After School Club │ 애프터스쿨클럽]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221223_58/1671778308211atjNI_JPEG/upload_88047836551105819bf7fbbf5-c504-4ec4-88c2-a79c8930cd91.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우주소녀 다영(WJSN DAYOUNG), 퇴근길에도 상큼한 손인사 ('컬투쇼' 퇴근길)]]></title>
-            <link>https://www.vlive.tv/video/295510</link>
-            <guid>https://www.vlive.tv/video/295510</guid>
-            <pubDate>Tue, 27 Dec 2022 04:42:09 GMT</pubDate>
-            <content:encoded><![CDATA[Ktimes]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221227_38/1672114723284GbdPY_JPEG/upload_88384322793953319ab7cd929-0e31-4737-8f2f-c2277ea1265a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
