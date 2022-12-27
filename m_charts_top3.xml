@@ -4,9 +4,17 @@
         <title>V LIVE 모바일 ─ CHARTS </title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 15:40:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 16:47:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🕺✌️]]></title>
+            <link>https://m.vlive.tv/video/295529</link>
+            <guid>https://m.vlive.tv/video/295529</guid>
+            <pubDate>Tue, 27 Dec 2022 16:46:56 GMT</pubDate>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221228_83/1672156019470bNKRd_JPEG/3f73312b-85fc-11ed-9791-a0369ffdecf8_03.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[HAPPY YOUNGEUN DAY🎉]]></title>
             <link>https://m.vlive.tv/video/295526</link>
@@ -22,14 +30,6 @@
             <pubDate>Sun, 25 Dec 2022 12:55:32 GMT</pubDate>
             <content:encoded><![CDATA[Stray Kids]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221225_203/1671963277373w2wv8_JPEG/upload_1160416648738504191fe0d80d-1195-4249-aa43-167a17be7608.jpg?type=f640_360_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[올해가 가기전에]]></title>
-            <link>https://m.vlive.tv/video/295530</link>
-            <guid>https://m.vlive.tv/video/295530</guid>
-            <pubDate>Tue, 27 Dec 2022 15:39:28 GMT</pubDate>
-            <content:encoded><![CDATA[VIVIZ (비비지)]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/295530/thumb?type=f640_362" length="0" type="image//live/295530/thumb"/>
         </item>
     </channel>
 </rss>
