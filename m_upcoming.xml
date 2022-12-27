@@ -4,19 +4,9 @@
         <title>V LIVE 모바일 ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 06:43:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 07:40:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / Super K-Pop]Oh My K-Pop with NIve]]></title>
-            <link>https://m.vlive.tv/video/295292</link>
-            <guid>https://m.vlive.tv/video/295292</guid>
-            <pubDate>Fri, 23 Dec 2022 08:42:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										방송취소</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221221_278/1671593856765EV78D_JPEG/upload_1156672160298964034a993c64-c163-46c7-a711-48c0be2e635f.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthew]]></title>
             <link>https://m.vlive.tv/video/295286</link>
@@ -96,6 +86,16 @@
 										오전 7:00</span>
 										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221221_125/16715876488684AaNU_JPEG/upload_87857235965775782b4774ef6-235f-46d1-8a1b-6606ec64509d.jpg?type=f274_154" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[김선호] 2022 별별 어워즈 ◡̈]]></title>
+            <link>https://m.vlive.tv/video/295369</link>
+            <guid>https://m.vlive.tv/video/295369</guid>
+            <pubDate>Tue, 27 Dec 2022 07:39:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="time">
+										오전 11:00</span>
+										<span class="txt">Kim Seon Ho (김선호)</span>]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221223_74/16717591477720Q7Am_JPEG/upload_88028203800682839bec38e3c-82c5-4fe5-ba1e-36859403535a.jpg?type=f274_154" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
