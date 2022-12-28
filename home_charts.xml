@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ CHARTS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 11:39:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 12:57:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🍊🌙]]></title>
+            <link>https://www.vlive.tv/video/295560</link>
+            <guid>https://www.vlive.tv/video/295560</guid>
+            <pubDate>Wed, 28 Dec 2022 12:56:18 GMT</pubDate>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221228_227/1672231640108NobVm_JPEG/6735f641-86ac-11ed-9e05-505dac8c35ff_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[💙멜로디 모여라💙]]></title>
             <link>https://www.vlive.tv/video/295541</link>
@@ -16,28 +24,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20221228_293/1672206703726vt1oE_JPEG/66a28057-8673-11ed-aba2-80615f0bce14_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[진솔데이는 아직 끝나지 않았다.]]></title>
+            <link>https://www.vlive.tv/video/295561</link>
+            <guid>https://www.vlive.tv/video/295561</guid>
+            <pubDate>Wed, 28 Dec 2022 12:56:18 GMT</pubDate>
+            <content:encoded><![CDATA[NMIXX]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/295561/thumb?type=f228_128" length="0" type="image//live/295561/thumb"/>
+        </item>
+        <item>
             <title><![CDATA[올해가 가기전에]]></title>
             <link>https://www.vlive.tv/video/295530</link>
             <guid>https://www.vlive.tv/video/295530</guid>
             <pubDate>Wed, 28 Dec 2022 04:42:33 GMT</pubDate>
             <content:encoded><![CDATA[VIVIZ (비비지)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221228_20/1672157750933asil0_JPEG/92b3769b-8600-11ed-a307-d4f5ef5a9532_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스마스에는 용복을 #2｜[SKZ CODE(스키즈 코드)] Ep.26]]></title>
-            <link>https://www.vlive.tv/video/295456</link>
-            <guid>https://www.vlive.tv/video/295456</guid>
-            <pubDate>Wed, 28 Dec 2022 01:55:48 GMT</pubDate>
-            <content:encoded><![CDATA[Stray Kids]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221225_203/1671963277373w2wv8_JPEG/upload_1160416648738504191fe0d80d-1195-4249-aa43-167a17be7608.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🐣HAPPY BAE DAY❄]]></title>
-            <link>https://www.vlive.tv/video/295538</link>
-            <guid>https://www.vlive.tv/video/295538</guid>
-            <pubDate>Wed, 28 Dec 2022 10:40:04 GMT</pubDate>
-            <content:encoded><![CDATA[NMIXX]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221228_76/1672196633264NPSOa_JPEG/34665c85-865c-11ed-a135-a0369ffb3c24_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
