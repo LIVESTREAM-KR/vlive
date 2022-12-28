@@ -4,9 +4,24 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 04:43:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 05:40:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[💙멜로디 모여라💙]]></title>
+            <link>https://www.vlive.tv/video/295541</link>
+            <guid>https://www.vlive.tv/video/295541</guid>
+            <pubDate>Wed, 28 Dec 2022 05:38:37 GMT</pubDate>
+            <content:encoded><![CDATA[BTOB]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (KPOPPIN' / 엔티엑스, NTX )]]></title>
+            <link>https://www.vlive.tv/video/295540</link>
+            <guid>https://www.vlive.tv/video/295540</guid>
+            <pubDate>Wed, 28 Dec 2022 05:38:37 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221228_42/16722024021998OKhs_JPEG/upload_116282120175384582a1b58dc0-6d57-40c2-87e7-a62d7a2a7871.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[🐣HAPPY BAE DAY❄]]></title>
             <link>https://www.vlive.tv/video/295539</link>
@@ -390,22 +405,6 @@
             <pubDate>Mon, 26 Dec 2022 10:39:15 GMT</pubDate>
             <content:encoded><![CDATA[넷플릭스 (Netflixkr)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221226_24/1672048991594xsRmU_JPEG/upload_8831856517015585896a20fc2-bd91-410b-8788-90951cad9c69.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[LIVE] Dancetime 🐧]]></title>
-            <link>https://www.vlive.tv/video/295485</link>
-            <guid>https://www.vlive.tv/video/295485</guid>
-            <pubDate>Mon, 26 Dec 2022 09:38:41 GMT</pubDate>
-            <content:encoded><![CDATA[CRAVITY]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221226_210/1672048560090f6fIb_JPEG/9a590fdb-8502-11ed-b6c0-a0369ffddf94_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[상혁/다원]]></title>
-            <link>https://www.vlive.tv/video/295488</link>
-            <guid>https://www.vlive.tv/video/295488</guid>
-            <pubDate>Mon, 26 Dec 2022 09:38:41 GMT</pubDate>
-            <content:encoded><![CDATA[SF9]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221226_194/16720482851761XbRy_JPEG/98a40cda-8502-11ed-b6c0-a0369ffddf94_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

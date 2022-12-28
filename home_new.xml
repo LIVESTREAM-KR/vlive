@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 04:43:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 05:40:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[💙멜로디 모여라💙]]></title>
+            <link>https://www.vlive.tv/video/295541</link>
+            <guid>https://www.vlive.tv/video/295541</guid>
+            <pubDate>Wed, 28 Dec 2022 05:38:48 GMT</pubDate>
+            <content:encoded><![CDATA[BTOB]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/295541/thumb?type=f228_128" length="0" type="image//live/295541/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[Arirang Radio (KPOPPIN' / 엔티엑스, NTX )]]></title>
+            <link>https://www.vlive.tv/video/295540</link>
+            <guid>https://www.vlive.tv/video/295540</guid>
+            <pubDate>Wed, 28 Dec 2022 05:38:48 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221228_42/16722024021998OKhs_JPEG/upload_116282120175384582a1b58dc0-6d57-40c2-87e7-a62d7a2a7871.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[🐣HAPPY BAE DAY❄]]></title>
             <link>https://www.vlive.tv/video/295539</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 27 Dec 2022 11:38:45 GMT</pubDate>
             <content:encoded><![CDATA[E'LAST]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221227_264/1672148258101YwqNL_JPEG/a4b0b93a-85ea-11ed-bda9-505dacfbaa5c_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HAPPY YOUNGEUN DAY🎉]]></title>
-            <link>https://www.vlive.tv/video/295526</link>
-            <guid>https://www.vlive.tv/video/295526</guid>
-            <pubDate>Tue, 27 Dec 2022 12:56:17 GMT</pubDate>
-            <content:encoded><![CDATA[Kep1er]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221227_267/1672144198893JCuWK_JPEG/185019729885130030c378d62e-29c9-4e37-842a-29630e640f12.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세미랑 연말 파티💙]]></title>
-            <link>https://www.vlive.tv/video/295525</link>
-            <guid>https://www.vlive.tv/video/295525</guid>
-            <pubDate>Tue, 27 Dec 2022 13:38:43 GMT</pubDate>
-            <content:encoded><![CDATA[시그니처(cignature)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221227_199/1672145993669FpJyg_JPEG/1109997d-85e5-11ed-ac52-505dac8c3639_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
