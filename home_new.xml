@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 07:40:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 08:42:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[221228 IVE LIZ 🎤🎶]]></title>
+            <link>https://www.vlive.tv/video/295546</link>
+            <guid>https://www.vlive.tv/video/295546</guid>
+            <pubDate>Wed, 28 Dec 2022 08:41:11 GMT</pubDate>
+            <content:encoded><![CDATA[IVE]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/295546/thumb?type=f228_128" length="0" type="image//live/295546/thumb"/>
+        </item>
         <item>
             <title><![CDATA[[Arirang Radio / Radio’ Clock] KoreaPedia with GHOST9 SON JUNHYUNG & PRINCE (고스트나인 준형&프린스)]]></title>
             <link>https://www.vlive.tv/video/295290</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 27 Dec 2022 16:46:16 GMT</pubDate>
             <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221228_83/1672156019470bNKRd_JPEG/3f73312b-85fc-11ed-9791-a0369ffdecf8_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공연 후기💙🥸]]></title>
-            <link>https://www.vlive.tv/video/295528</link>
-            <guid>https://www.vlive.tv/video/295528</guid>
-            <pubDate>Tue, 27 Dec 2022 15:38:53 GMT</pubDate>
-            <content:encoded><![CDATA[ONEWE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221228_156/1672154003323bCwVQ_JPEG/5ad618b3-85f7-11ed-97c6-d4f5ef58ad5e_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
