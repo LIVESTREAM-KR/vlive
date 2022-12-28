@@ -4,9 +4,25 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 01:56:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 02:56:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[🌞]]></title>
+            <link>https://www.vlive.tv/video/295531</link>
+            <guid>https://www.vlive.tv/video/295531</guid>
+            <pubDate>Wed, 28 Dec 2022 01:55:29 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221228_115/16721929967648tbn3_JPEG/69f73742-8653-11ed-a307-d4f5ef5a9532_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / #daily K] Check it Out with Paul Matthew]]></title>
+            <link>https://www.vlive.tv/video/295286</link>
+            <guid>https://www.vlive.tv/video/295286</guid>
+            <pubDate>Wed, 28 Dec 2022 02:55:30 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221221_253/1671586740485RH4LW_JPEG/upload_115666444699602053e4a372ea-c386-44eb-9b75-aa22d0090c30.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[넷플릭스] 슬기와 천국도에 간 진영, 그리고 종우 | 솔로지옥2]]></title>
             <link>https://www.vlive.tv/video/295533</link>
@@ -22,14 +38,6 @@
             <pubDate>Wed, 28 Dec 2022 01:55:29 GMT</pubDate>
             <content:encoded><![CDATA[넷플릭스 (Netflixkr)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221228_122/1672190258560jEYm2_JPEG/upload_1162699911951315802b2def58-b2a0-4b59-8042-b3e23b4b0bd2.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[🌞]]></title>
-            <link>https://www.vlive.tv/video/295531</link>
-            <guid>https://www.vlive.tv/video/295531</guid>
-            <pubDate>Wed, 28 Dec 2022 01:55:29 GMT</pubDate>
-            <content:encoded><![CDATA[SF9]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/295531/thumb?type=f228_128" length="0" type="image//live/295531/thumb"/>
         </item>
         <item>
             <title><![CDATA[[넷플릭스] 더 글로리 | 비극적 영광의 시작]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 27 Dec 2022 10:39:19 GMT</pubDate>
             <content:encoded><![CDATA[CIX]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221227_78/1672131068575IcTvB_JPEG/185006671563959664c87b52bf-0656-4342-87b3-b7e33f97a1c0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[TPST LOG] ✈🌪🎤 | Osakaboo 😎🤙🏻〰 행복했어용 🐉💖｜2022 MAMA AWARDS BEHIND]]></title>
-            <link>https://www.vlive.tv/video/295507</link>
-            <guid>https://www.vlive.tv/video/295507</guid>
-            <pubDate>Tue, 27 Dec 2022 10:39:19 GMT</pubDate>
-            <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221227_153/1672108139231W33YJ_JPEG/upload_8837770801824705354d0053e-cc43-416c-8c37-fd785e58133d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
