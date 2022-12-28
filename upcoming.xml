@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 06:49:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 07:40:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221228_293/1672206703726vt1oE_JPEG/66a28057-8673-11ed-aba2-80615f0bce14_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[Arirang Radio / Radio’ Clock] KoreaPedia with GHOST9 SON JUNHYUNG & PRINCE (고스트나인 준형&프린스)]]></title>
-            <link>https://www.vlive.tv/video/295290</link>
-            <guid>https://www.vlive.tv/video/295290</guid>
-            <pubDate>Wed, 28 Dec 2022 01:56:24 GMT</pubDate>
-            <content:encoded><![CDATA[오전 5:53]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221221_27/1671587149478xhRX7_JPEG/upload_115666848830359734c2842645-e667-4229-a0f8-3666a1eba13e.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Arirang Radio (KPOPPIN' / 엔티엑스, NTX )]]></title>
             <link>https://www.vlive.tv/video/295540</link>
             <guid>https://www.vlive.tv/video/295540</guid>
@@ -100,8 +92,16 @@
             <link>https://www.vlive.tv/video/295465</link>
             <guid>https://www.vlive.tv/video/295465</guid>
             <pubDate>Wed, 28 Dec 2022 01:56:24 GMT</pubDate>
-            <content:encoded><![CDATA[오전 7:00]]></content:encoded>
+            <content:encoded><![CDATA[오전 6:55]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221225_272/1671979927990MpjoL_JPEG/upload_11605956785892038051e9c27d-a780-4a76-b966-d6b052b54149.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Radio’ Clock] KoreaPedia with GHOST9 SON JUNHYUNG & PRINCE (고스트나인 준형&프린스)]]></title>
+            <link>https://www.vlive.tv/video/295290</link>
+            <guid>https://www.vlive.tv/video/295290</guid>
+            <pubDate>Wed, 28 Dec 2022 01:56:24 GMT</pubDate>
+            <content:encoded><![CDATA[오전 7:01]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221221_27/1671587149478xhRX7_JPEG/upload_115666848830359734c2842645-e667-4229-a0f8-3666a1eba13e.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
