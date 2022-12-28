@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 14:39:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 15:40:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -232,14 +232,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221228_123/1672225209408sNeCQ_JPEG/18510081238763939388362e3b-6908-4204-8183-28874c50b1a5.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[혁모저모 #19 (올해의 마지막 혁모저모Together ❄)]]></title>
-            <link>https://www.vlive.tv/video/295565</link>
-            <guid>https://www.vlive.tv/video/295565</guid>
-            <pubDate>Wed, 28 Dec 2022 12:56:52 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:46]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221228_96/1672231571932dBCbb_JPEG/185107187919959557e91cd07d-0b1c-46c5-87f5-fe9fe2e39172.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[🍊🌙]]></title>
             <link>https://www.vlive.tv/video/295560</link>
             <guid>https://www.vlive.tv/video/295560</guid>
@@ -288,11 +280,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20221228_169/1672235679523f4dcH_JPEG/7cf3faca-86b5-11ed-a23d-48df377034d4_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[혁모저모 #19 (올해의 마지막 혁모저모Together ❄)]]></title>
+            <link>https://www.vlive.tv/video/295565</link>
+            <guid>https://www.vlive.tv/video/295565</guid>
+            <pubDate>Wed, 28 Dec 2022 12:56:52 GMT</pubDate>
+            <content:encoded><![CDATA[오후 3:06]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221228_96/1672231571932dBCbb_JPEG/185107187919959557e91cd07d-0b1c-46c5-87f5-fe9fe2e39172.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[은조의 조은밤🌝🎧#마지막 회]]></title>
             <link>https://www.vlive.tv/video/295567</link>
             <guid>https://www.vlive.tv/video/295567</guid>
             <pubDate>Wed, 28 Dec 2022 14:39:27 GMT</pubDate>
-            <content:encoded><![CDATA[오후 2:03]]></content:encoded>
+            <content:encoded><![CDATA[오후 3:35]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221229_252/1672241742797jUcIO_JPEG/e16aa221-86c3-11ed-b07f-80615f0bce8c_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
