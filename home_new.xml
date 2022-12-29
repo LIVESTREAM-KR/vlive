@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 09:43:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 10:40:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이주즈 이대로 못 보내🦋🥞🧸]]></title>
+            <link>https://www.vlive.tv/video/295593</link>
+            <guid>https://www.vlive.tv/video/295593</guid>
+            <pubDate>Thu, 29 Dec 2022 10:39:10 GMT</pubDate>
+            <content:encoded><![CDATA[ICHILLIN’]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/295593/thumb?type=f228_128" length="0" type="image//live/295593/thumb"/>
+        </item>
         <item>
             <title><![CDATA[미안미안 ~*^^*]]></title>
             <link>https://www.vlive.tv/video/295591</link>
@@ -24,20 +32,20 @@
             <enclosure url="https://v-phinf.pstatic.net/20221229_271/1672297237856FxzA6_JPEG/upload_116376957067826921f2d3bb8c-1a0b-4cb2-bffb-18a7cef49d56.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[DIJ콥🎸]]></title>
-            <link>https://www.vlive.tv/video/295588</link>
-            <guid>https://www.vlive.tv/video/295588</guid>
-            <pubDate>Thu, 29 Dec 2022 08:41:05 GMT</pubDate>
-            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221229_119/1672304561631YwJ8D_JPEG/1bd806af-8757-11ed-8112-48df37ae3dc4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[마지막까지…불태운다..]]></title>
             <link>https://www.vlive.tv/video/295590</link>
             <guid>https://www.vlive.tv/video/295590</guid>
             <pubDate>Thu, 29 Dec 2022 08:41:05 GMT</pubDate>
             <content:encoded><![CDATA[SF9]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221229_28/1672304549902lPlx6_JPEG/41034077-8757-11ed-9231-d4f5ef58ac88_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DIJ콥🎸]]></title>
+            <link>https://www.vlive.tv/video/295588</link>
+            <guid>https://www.vlive.tv/video/295588</guid>
+            <pubDate>Thu, 29 Dec 2022 08:41:05 GMT</pubDate>
+            <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221229_60/1672308610389laxuj_JPEG/1bd806af-8757-11ed-8112-48df37ae3dc4_02.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ITZY(있지) 🌐IT'z TOUR BOOK🌐 EP 1]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 29 Dec 2022 03:39:34 GMT</pubDate>
             <content:encoded><![CDATA[위아이 (WEi)]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221228_220/16721903551126zVSY_JPEG/upload_88459937121144285d310e765-4124-4021-b834-74aeb4be157c.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Dish of the Day with Chef Ryan]]></title>
-            <link>https://www.vlive.tv/video/295287</link>
-            <guid>https://www.vlive.tv/video/295287</guid>
-            <pubDate>Thu, 29 Dec 2022 02:53:40 GMT</pubDate>
-            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221221_72/1671586775239NC6WO_JPEG/upload_87856360875845856f281d390-8e43-47a9-9061-24910210ac0b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
