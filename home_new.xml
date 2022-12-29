@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 03:40:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 04:43:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Arirang Radio (KPOPPIN' / 몽니, MONNI )]]></title>
+            <link>https://www.vlive.tv/video/295234</link>
+            <guid>https://www.vlive.tv/video/295234</guid>
+            <pubDate>Thu, 29 Dec 2022 04:42:25 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221220_27/1671513527006J5YwM_JPEG/upload_115593144290207457f381459a-b2a1-4ff9-811c-a54aa97bd575.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[IMERA] EP.171 내돌의 온도차 촬영 비하인드]]></title>
             <link>https://www.vlive.tv/video/295534</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 28 Dec 2022 10:39:48 GMT</pubDate>
             <content:encoded><![CDATA[H1-KEY]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221228_56/1672227186006NG6F2_JPEG/9f865cac-86a2-11ed-b2ec-48df37ae3fca_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[good bye 2022 👋]]></title>
-            <link>https://www.vlive.tv/video/295557</link>
-            <guid>https://www.vlive.tv/video/295557</guid>
-            <pubDate>Wed, 28 Dec 2022 11:38:37 GMT</pubDate>
-            <content:encoded><![CDATA[DUSTIN]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221228_139/1672225083685DtQD5_JPEG/185100614668422539712d8373-6a37-4167-b1a5-9bcda1e06987.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

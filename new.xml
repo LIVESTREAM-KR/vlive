@@ -4,9 +4,17 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 03:40:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 04:43:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Arirang Radio (KPOPPIN' / 몽니, MONNI )]]></title>
+            <link>https://www.vlive.tv/video/295234</link>
+            <guid>https://www.vlive.tv/video/295234</guid>
+            <pubDate>Thu, 29 Dec 2022 04:42:13 GMT</pubDate>
+            <content:encoded><![CDATA[Arirang Radio │아리랑라디오]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221220_27/1671513527006J5YwM_JPEG/upload_115593144290207457f381459a-b2a1-4ff9-811c-a54aa97bd575.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[IMERA] EP.171 내돌의 온도차 촬영 비하인드]]></title>
             <link>https://www.vlive.tv/video/295534</link>
@@ -398,14 +406,6 @@
             <pubDate>Tue, 27 Dec 2022 10:39:09 GMT</pubDate>
             <content:encoded><![CDATA[CIX]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221227_78/1672131068575IcTvB_JPEG/185006671563959664c87b52bf-0656-4342-87b3-b7e33f97a1c0.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[TPST LOG] ✈🌪🎤 | Osakaboo 😎🤙🏻〰 행복했어용 🐉💖｜2022 MAMA AWARDS BEHIND]]></title>
-            <link>https://www.vlive.tv/video/295507</link>
-            <guid>https://www.vlive.tv/video/295507</guid>
-            <pubDate>Tue, 27 Dec 2022 10:39:09 GMT</pubDate>
-            <content:encoded><![CDATA[TEMPEST (템페스트)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221227_153/1672108139231W33YJ_JPEG/upload_8837770801824705354d0053e-cc43-416c-8c37-fd785e58133d.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
