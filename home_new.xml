@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Dec 2022 19:40:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Dec 2022 20:43:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영생의 잠못드는밤에(Last time)]]></title>
+            <link>https://www.vlive.tv/video/295611</link>
+            <guid>https://www.vlive.tv/video/295611</guid>
+            <pubDate>Thu, 29 Dec 2022 20:42:09 GMT</pubDate>
+            <content:encoded><![CDATA[허영생]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221230_59/1672346143135x934s_JPEG/65963919413203789374e97d5-d104-477b-85e8-21f018126d72.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 연말결산 찐템🥇 (ft. 3년 전보다 어려졌다🤭 꿀피부 올리브영 찐템)]]></title>
             <link>https://www.vlive.tv/video/295568</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 29 Dec 2022 12:56:24 GMT</pubDate>
             <content:encoded><![CDATA[THE BOYZ]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221229_58/1672317347580980bY_JPEG/2539c68b-8775-11ed-a307-d4f5ef5a9532_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[김선호] 2022 별별 어워즈 ◡̈]]></title>
-            <link>https://www.vlive.tv/video/295369</link>
-            <guid>https://www.vlive.tv/video/295369</guid>
-            <pubDate>Thu, 29 Dec 2022 11:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[Kim Seon Ho (김선호)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221223_74/16717591477720Q7Am_JPEG/upload_88028203800682839bec38e3c-82c5-4fe5-ba1e-36859403535a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
