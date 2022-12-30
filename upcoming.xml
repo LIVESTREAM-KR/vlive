@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 17:40:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 18:42:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -316,8 +316,16 @@
             <link>https://www.vlive.tv/video/295657</link>
             <guid>https://www.vlive.tv/video/295657</guid>
             <pubDate>Fri, 30 Dec 2022 17:40:04 GMT</pubDate>
-            <content:encoded><![CDATA[오후 4:46]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/295657/thumb?type=f228_128" length="0" type="image//live/295657/thumb"/>
+            <content:encoded><![CDATA[오후 5:46]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221231_162/1672422396078Ibz1t_JPEG/57012648-8869-11ed-ac52-505dac8c3639_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[💡]]></title>
+            <link>https://www.vlive.tv/video/295658</link>
+            <guid>https://www.vlive.tv/video/295658</guid>
+            <pubDate>Fri, 30 Dec 2022 18:42:03 GMT</pubDate>
+            <content:encoded><![CDATA[오후 6:32]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221231_238/1672425173733nHwcy_JPEG/0bebc990-8870-11ed-b1f2-80615f0bcc68_03.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

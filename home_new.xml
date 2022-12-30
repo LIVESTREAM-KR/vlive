@@ -4,16 +4,24 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 17:40:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 18:42:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[💡]]></title>
+            <link>https://www.vlive.tv/video/295658</link>
+            <guid>https://www.vlive.tv/video/295658</guid>
+            <pubDate>Fri, 30 Dec 2022 18:41:09 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221231_238/1672425173733nHwcy_JPEG/0bebc990-8870-11ed-b1f2-80615f0bcc68_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022년 수고 많으셨습니다😄]]></title>
             <link>https://www.vlive.tv/video/295657</link>
             <guid>https://www.vlive.tv/video/295657</guid>
             <pubDate>Fri, 30 Dec 2022 17:39:15 GMT</pubDate>
             <content:encoded><![CDATA[SF9]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/295657/thumb?type=f228_128" length="0" type="image//live/295657/thumb"/>
+            <enclosure url="https://v-phinf.pstatic.net/20221231_162/1672422396078Ibz1t_JPEG/57012648-8869-11ed-ac52-505dac8c3639_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 다이어리 언박싱!]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 30 Dec 2022 13:39:04 GMT</pubDate>
             <content:encoded><![CDATA[Weki Meki]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221230_27/16724108155346RaCj_JPEG/aed5ce12-884d-11ed-9c62-a0369ffb36c4_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안녕 에비뉴~~💙]]></title>
-            <link>https://www.vlive.tv/video/295651</link>
-            <guid>https://www.vlive.tv/video/295651</guid>
-            <pubDate>Fri, 30 Dec 2022 14:41:41 GMT</pubDate>
-            <content:encoded><![CDATA[AB6IX]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221230_119/1672410567204KfEk3_JPEG/188306b7-884e-11ed-871b-a0369ffac1dc_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

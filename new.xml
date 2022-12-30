@@ -4,15 +4,24 @@
         <title>V LIVE ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 17:40:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 18:42:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[💡]]></title>
+            <link>https://www.vlive.tv/video/295658</link>
+            <guid>https://www.vlive.tv/video/295658</guid>
+            <pubDate>Fri, 30 Dec 2022 18:40:57 GMT</pubDate>
+            <content:encoded><![CDATA[SF9]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221231_238/1672425173733nHwcy_JPEG/0bebc990-8870-11ed-b1f2-80615f0bcc68_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022년 수고 많으셨습니다😄]]></title>
             <link>https://www.vlive.tv/video/295657</link>
             <guid>https://www.vlive.tv/video/295657</guid>
             <pubDate>Fri, 30 Dec 2022 17:39:04 GMT</pubDate>
             <content:encoded><![CDATA[SF9]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221231_162/1672422396078Ibz1t_JPEG/57012648-8869-11ed-ac52-505dac8c3639_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2023 다이어리 언박싱!]]></title>
@@ -397,14 +406,6 @@
             <pubDate>Thu, 29 Dec 2022 13:38:35 GMT</pubDate>
             <content:encoded><![CDATA[MAJORS]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221229_33/1672315880563jKugk_JPEG/943683190554658376b85fcb8-ada1-4c1d-a110-58e5927f9fc7.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[면💗🙈]]></title>
-            <link>https://www.vlive.tv/video/295603</link>
-            <guid>https://www.vlive.tv/video/295603</guid>
-            <pubDate>Thu, 29 Dec 2022 13:38:35 GMT</pubDate>
-            <content:encoded><![CDATA[(G)I-DLE]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221229_33/1672318763021qiduU_JPEG/f08d1893-8777-11ed-b33d-80615f0c4788_03.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
