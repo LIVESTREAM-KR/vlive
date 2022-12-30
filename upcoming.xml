@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 12:56:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 13:40:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,28 +160,12 @@
             <enclosure url="https://vlive-thumb.pstatic.net/live/295635/thumb?type=f228_128" length="0" type="image//live/295635/thumb"/>
         </item>
         <item>
-            <title><![CDATA[마지막 브이앱]]></title>
-            <link>https://www.vlive.tv/video/295636</link>
-            <guid>https://www.vlive.tv/video/295636</guid>
-            <pubDate>Fri, 30 Dec 2022 12:55:51 GMT</pubDate>
-            <content:encoded><![CDATA[오전 11:47]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221230_219/1672400829245Vnyyz_JPEG/18527636623272640851cf2d6c-a851-44c9-bb37-38c165a00076.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[우리의 마지막 브이앱💗]]></title>
             <link>https://www.vlive.tv/video/295634</link>
             <guid>https://www.vlive.tv/video/295634</guid>
             <pubDate>Fri, 30 Dec 2022 10:39:59 GMT</pubDate>
             <content:encoded><![CDATA[오전 11:49]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221230_147/1672396086603zQ87A_JPEG/18527170053361918053873be0-9f41-4b37-bc83-05cf560ef282.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022 유니왕자 마지막 브이앱🤍]]></title>
-            <link>https://www.vlive.tv/video/295638</link>
-            <guid>https://www.vlive.tv/video/295638</guid>
-            <pubDate>Fri, 30 Dec 2022 12:55:51 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:07]]></content:encoded>
-            <enclosure url="https://vlive-thumb.pstatic.net/live/295638/thumb?type=f228_128" length="0" type="image//live/295638/thumb"/>
         </item>
         <item>
             <title><![CDATA[𝙒𝙝𝙮𝙧𝙖𝙣𝙤... #22]]></title>
@@ -198,6 +182,45 @@
             <pubDate>Fri, 30 Dec 2022 12:55:51 GMT</pubDate>
             <content:encoded><![CDATA[오후 12:40]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221230_255/1672404032904bwr4V_JPEG/ba33f3e1-883e-11ed-b91a-80615f085cce_03.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[양모와 함께 22년도 끝낸다]]></title>
+            <link>https://www.vlive.tv/video/295640</link>
+            <guid>https://www.vlive.tv/video/295640</guid>
+            <pubDate>Fri, 30 Dec 2022 13:39:59 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:05]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[오잉]]></title>
+            <link>https://www.vlive.tv/video/295641</link>
+            <guid>https://www.vlive.tv/video/295641</guid>
+            <pubDate>Fri, 30 Dec 2022 13:39:59 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:23]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221230_75/1672406595161AnIz9_JPEG/18528219809360402369837330-924b-4c19-a9da-9cdf1264be24.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마지막 브이앱]]></title>
+            <link>https://www.vlive.tv/video/295636</link>
+            <guid>https://www.vlive.tv/video/295636</guid>
+            <pubDate>Fri, 30 Dec 2022 12:55:51 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:30]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221230_219/1672400829245Vnyyz_JPEG/18527636623272640851cf2d6c-a851-44c9-bb37-38c165a00076.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023 다이어리 언박싱!]]></title>
+            <link>https://www.vlive.tv/video/295644</link>
+            <guid>https://www.vlive.tv/video/295644</guid>
+            <pubDate>Fri, 30 Dec 2022 13:39:59 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:30]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/295644/thumb?type=f228_128" length="0" type="image//live/295644/thumb"/>
+        </item>
+        <item>
+            <title><![CDATA[찬이의 마지막 브이앱🌅]]></title>
+            <link>https://www.vlive.tv/video/295645</link>
+            <guid>https://www.vlive.tv/video/295645</guid>
+            <pubDate>Fri, 30 Dec 2022 13:39:59 GMT</pubDate>
+            <content:encoded><![CDATA[오후 1:31]]></content:encoded>
+            <enclosure url="https://vlive-thumb.pstatic.net/live/295645/thumb?type=f228_128" length="0" type="image//live/295645/thumb"/>
         </item>
     </channel>
 </rss>
