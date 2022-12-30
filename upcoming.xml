@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 06:43:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 07:42:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,14 +32,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221230_202/1672373604172RWixM_JPEG/upload_11645333362436557046f6c69c-e706-4b40-af67-75274e897024.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[Arirang Radio / Radio’ Clock] INSSA Party with prettylittleiris & BOiTELLO아이리스&보이텔로]]></title>
-            <link>https://www.vlive.tv/video/295291</link>
-            <guid>https://www.vlive.tv/video/295291</guid>
-            <pubDate>Fri, 30 Dec 2022 01:58:27 GMT</pubDate>
-            <content:encoded><![CDATA[오전 5:54]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221221_244/1671587205814OxsTo_JPEG/upload_878567754554043932ae1fe80-84f1-44a0-8017-5073d2a0e00a.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Arirang Radio (KPOPPIN' / 울랄라 세션, ULALA SESSION )]]></title>
             <link>https://www.vlive.tv/video/295235</link>
             <guid>https://www.vlive.tv/video/295235</guid>
@@ -60,8 +52,16 @@
             <link>https://www.vlive.tv/video/295294</link>
             <guid>https://www.vlive.tv/video/295294</guid>
             <pubDate>Fri, 30 Dec 2022 01:58:27 GMT</pubDate>
-            <content:encoded><![CDATA[오전 7:00]]></content:encoded>
+            <content:encoded><![CDATA[오전 6:54]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221221_58/1671587679997oIP95_JPEG/upload_87857263709155848186cd0d7-8811-49b8-b528-12132af11076.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Arirang Radio / Radio’ Clock] INSSA Party with prettylittleiris & BOiTELLO아이리스&보이텔로]]></title>
+            <link>https://www.vlive.tv/video/295291</link>
+            <guid>https://www.vlive.tv/video/295291</guid>
+            <pubDate>Fri, 30 Dec 2022 01:58:27 GMT</pubDate>
+            <content:encoded><![CDATA[오전 7:01]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221221_244/1671587205814OxsTo_JPEG/upload_878567754554043932ae1fe80-84f1-44a0-8017-5073d2a0e00a.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
