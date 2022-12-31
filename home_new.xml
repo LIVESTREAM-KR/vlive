@@ -4,9 +4,17 @@
         <title>V LIVE ─ 홈 ─ NEW</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Dec 2022 12:54:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Dec 2022 13:40:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[ONG SEONG WU 옹성우 - 2023 새해 인사]]></title>
+            <link>https://www.vlive.tv/video/295626</link>
+            <guid>https://www.vlive.tv/video/295626</guid>
+            <pubDate>Sat, 31 Dec 2022 13:38:59 GMT</pubDate>
+            <content:encoded><![CDATA[ONG SEONG WU]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221230_222/1672378610104I4MAB_JPEG/upload_116458322554823077ba74f5f2-06b4-48e8-849b-1f78f2396bf9.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[12/31!!]]></title>
             <link>https://www.vlive.tv/video/295679</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 31 Dec 2022 07:39:03 GMT</pubDate>
             <content:encoded><![CDATA[n.CH ENTERTAINMENT]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221231_181/1672470134335mP1K9_JPEG/185345737257738071f259e063-140a-43dd-811d-3a984bb5654b.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 마지막 날!]]></title>
-            <link>https://www.vlive.tv/video/295668</link>
-            <guid>https://www.vlive.tv/video/295668</guid>
-            <pubDate>Sat, 31 Dec 2022 06:41:10 GMT</pubDate>
-            <content:encoded><![CDATA[멋진녀석들 (GreatGuys)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221231_42/1672467996249pRkUB_JPEG/1853436122136786359367eb6d-35ec-4080-8b3c-b850c8d2444a.jpg?type=f228_128_wp" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
