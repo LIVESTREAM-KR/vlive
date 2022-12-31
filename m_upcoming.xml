@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>V LIVE 모바일 ─ 일정표</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 23:40:16 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[Arirang Radio / #daily K] Now and Then with David Andrew Tizzard]]></title>
-            <link>https://m.vlive.tv/video/295612</link>
-            <guid>https://m.vlive.tv/video/295612</guid>
-            <pubDate>Fri, 30 Dec 2022 01:58:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="time">
-										방송취소</span>
-										<span class="txt">Arirang Radio │아리랑라디오</span>]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221230_126/1672359939512iibWT_JPEG/upload_1164395886566560420a8edbe2-b0f8-4a17-abd0-25ce8d626a0e.jpg?type=f274_154" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://m.vlive.tv/upcoming?lang=ko</id>
+    <title>V LIVE 모바일 ─ 일정표</title>
+    <updated>2022-12-31T04:42:35.304Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://ssl.pstatic.net/static/m/vlive/mobile/2020/09/16/android_96x96_xhdpi.png</icon>
+</feed>
