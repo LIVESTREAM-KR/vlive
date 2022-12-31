@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Dec 2022 04:42:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Dec 2022 06:42:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -36,8 +36,39 @@
             <link>https://www.vlive.tv/video/295663</link>
             <guid>https://www.vlive.tv/video/295663</guid>
             <pubDate>Sat, 31 Dec 2022 04:42:09 GMT</pubDate>
-            <content:encoded><![CDATA[오전 4:21]]></content:encoded>
+            <content:encoded><![CDATA[오전 5:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221231_37/1672460461090LaiYp_JPEG/18533599207895470875985b63-743a-4ccd-9366-5f8dcce4e6bd.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Dance Practice] 하이라이트(HIGHLIGHT) - 밤안개 안무 연습 영상]]></title>
+            <link>https://www.vlive.tv/video/295606</link>
+            <guid>https://www.vlive.tv/video/295606</guid>
+            <pubDate>Sat, 31 Dec 2022 06:41:58 GMT</pubDate>
+            <content:encoded><![CDATA[오전 5:01]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221229_165/1672319030935gGxHL_JPEG/853452b2-8777-11ed-a30c-80615f0bcbfa_01.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안녕하세요]]></title>
+            <link>https://www.vlive.tv/video/295665</link>
+            <guid>https://www.vlive.tv/video/295665</guid>
+            <pubDate>Sat, 31 Dec 2022 06:41:58 GMT</pubDate>
+            <content:encoded><![CDATA[오전 5:15]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221231_189/1672462517650HhT7g_JPEG/232498882699349561c61de16-3865-4968-bbf3-78f6b1aa0299.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🫠💙]]></title>
+            <link>https://www.vlive.tv/video/295667</link>
+            <guid>https://www.vlive.tv/video/295667</guid>
+            <pubDate>Sat, 31 Dec 2022 06:41:58 GMT</pubDate>
+            <content:encoded><![CDATA[오전 6:07]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 마지막 날!]]></title>
+            <link>https://www.vlive.tv/video/295668</link>
+            <guid>https://www.vlive.tv/video/295668</guid>
+            <pubDate>Sat, 31 Dec 2022 06:41:58 GMT</pubDate>
+            <content:encoded><![CDATA[오전 6:26]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221231_42/1672467996249pRkUB_JPEG/1853436122136786359367eb6d-35ec-4080-8b3c-b850c8d2444a.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
