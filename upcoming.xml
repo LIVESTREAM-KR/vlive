@@ -4,7 +4,7 @@
         <title>V LIVE ─ 일정표</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 31 Dec 2022 13:40:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Dec 2022 14:39:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,14 +136,6 @@
             <enclosure url="https://v-phinf.pstatic.net/20221231_244/1672486950938tlbdJ_JPEG/185362481926143109c063410e-9a96-4467-a8a8-d6f2dceef0a6.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[응?]]></title>
-            <link>https://www.vlive.tv/video/295682</link>
-            <guid>https://www.vlive.tv/video/295682</guid>
-            <pubDate>Sat, 31 Dec 2022 12:54:28 GMT</pubDate>
-            <content:encoded><![CDATA[오후 12:02]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20221231_140/16724881218470mJ1m_JPEG/945405603792649713b3fef07-c860-48d8-b023-f71aa13ffc8f.jpg?type=f228_128" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[다시 마지막]]></title>
             <link>https://www.vlive.tv/video/295681</link>
             <guid>https://www.vlive.tv/video/295681</guid>
@@ -190,6 +182,22 @@
             <pubDate>Sat, 31 Dec 2022 13:39:47 GMT</pubDate>
             <content:encoded><![CDATA[오후 1:00]]></content:encoded>
             <enclosure url="https://v-phinf.pstatic.net/20221230_222/1672378610104I4MAB_JPEG/upload_116458322554823077ba74f5f2-06b4-48e8-849b-1f78f2396bf9.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[진호 - MAGAZINE HO #52 '눈사람 / 정승환']]></title>
+            <link>https://www.vlive.tv/video/295661</link>
+            <guid>https://www.vlive.tv/video/295661</guid>
+            <pubDate>Sat, 31 Dec 2022 14:39:29 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:00]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221231_20/1672458344968S3gNa_JPEG/upload_8872793876315271288f84c91-d841-42ba-9730-f3ab30c62c0a.jpg?type=f228_128" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[응?]]></title>
+            <link>https://www.vlive.tv/video/295682</link>
+            <guid>https://www.vlive.tv/video/295682</guid>
+            <pubDate>Sat, 31 Dec 2022 12:54:28 GMT</pubDate>
+            <content:encoded><![CDATA[오후 2:14]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20221231_140/16724881218470mJ1m_JPEG/945405603792649713b3fef07-c860-48d8-b023-f71aa13ffc8f.jpg?type=f228_128" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
